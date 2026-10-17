@@ -14,7 +14,7 @@ general-knowledge topics — rather than from what happens to be trending.
 |------|---------|
 | `README.md` | This note. |
 | `index.json` | Machine-readable manifest of every article. The backend loads this. |
-| `study_XXXX_<slug>.md` | One Markdown file per article. |
+| `NNNN_<slug>.md` | One Markdown file per article. |
 
 ## Where the data comes from
 
@@ -31,7 +31,7 @@ No API key is required — all endpoints are free and public.
 
 ## Article file format
 
-Every `study_XXXX_<slug>.md` file starts with YAML front matter:
+Every `NNNN_<slug>.md` file starts with YAML front matter:
 
 ```yaml
 ---

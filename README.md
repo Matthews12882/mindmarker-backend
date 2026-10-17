@@ -44,7 +44,7 @@ congressional-app-backend-2026/
 ├── articles/           # the generated corpus (300 .md files)
 │   ├── README.md       #   how to use the corpus (read this)
 │   ├── index.json      #   machine-readable manifest the backend loads
-│   └── study_XXXX_<slug>.md
+│   └── NNNN_<slug>.md
 ├── articles.json       # placeholder (reserved)
 ├── venv/               # local virtualenv (not tracked)
 └── README.md           # this file

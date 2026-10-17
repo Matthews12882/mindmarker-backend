@@ -411,7 +411,7 @@ general-knowledge topics — rather than from what happens to be trending.
 |------|---------|
 | `README.md` | This note. |
 | `index.json` | Machine-readable manifest of every article. The backend loads this. |
-| `study_XXXX_<slug>.md` | One Markdown file per article. |
+| `NNNN_<slug>.md` | One Markdown file per article. |
 
 ## Where the data comes from
 
@@ -428,7 +428,7 @@ No API key is required — all endpoints are free and public.
 
 ## Article file format
 
-Every `study_XXXX_<slug>.md` file starts with YAML front matter:
+Every `NNNN_<slug>.md` file starts with YAML front matter:
 
 ```yaml
 ---
@@ -601,7 +601,7 @@ def main() -> int:
     for item in articles:
         title = item["title"]
         article_id = f"study_{item['rank']:04d}"
-        filename = f"{article_id}_{slugify(title)}.md"
+        filename = f"{item['rank']:04d}_{slugify(title)}.md"
         info = meta.get(title, {})
         try:
             html, pageid = fetch_html(session, title)
