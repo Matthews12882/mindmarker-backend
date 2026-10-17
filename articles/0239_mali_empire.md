@@ -1,5 +1,5 @@
 ---
-id: study_0239
+id: 0239
 title: "Mali Empire"
 rank: 239
 level: 3

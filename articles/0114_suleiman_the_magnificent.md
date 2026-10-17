@@ -1,5 +1,5 @@
 ---
-id: study_0114
+id: 0114
 title: "Suleiman the Magnificent"
 rank: 114
 level: 3

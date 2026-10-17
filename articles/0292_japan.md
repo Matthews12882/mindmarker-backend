@@ -1,5 +1,5 @@
 ---
-id: study_0292
+id: 0292
 title: "Japan"
 rank: 292
 level: 3

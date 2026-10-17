@@ -1,5 +1,5 @@
 ---
-id: study_0048
+id: 0048
 title: "Culture"
 rank: 48
 level: 2

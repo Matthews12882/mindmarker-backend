@@ -1,5 +1,5 @@
 ---
-id: study_0163
+id: 0163
 title: "The Beatles"
 rank: 163
 level: 3

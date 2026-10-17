@@ -1,5 +1,5 @@
 ---
-id: study_0073
+id: 0073
 title: "Ecology"
 rank: 73
 level: 2

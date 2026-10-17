@@ -1,5 +1,5 @@
 ---
-id: study_0211
+id: 0211
 title: "History of music"
 rank: 211
 level: 3

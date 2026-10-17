@@ -1,5 +1,5 @@
 ---
-id: study_0263
+id: 0263
 title: "Soviet Union"
 rank: 263
 level: 3

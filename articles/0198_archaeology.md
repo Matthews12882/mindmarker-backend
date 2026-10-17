@@ -1,5 +1,5 @@
 ---
-id: study_0198
+id: 0198
 title: "Archaeology"
 rank: 198
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0182
+id: 0182
 title: "Marie Curie"
 rank: 182
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0254
+id: 0254
 title: "Mughal Empire"
 rank: 254
 level: 3

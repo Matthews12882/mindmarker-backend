@@ -1,5 +1,5 @@
 ---
-id: study_0090
+id: 0090
 title: "Matter"
 rank: 90
 level: 2

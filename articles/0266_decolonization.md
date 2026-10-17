@@ -1,5 +1,5 @@
 ---
-id: study_0266
+id: 0266
 title: "Decolonization"
 rank: 266
 level: 3

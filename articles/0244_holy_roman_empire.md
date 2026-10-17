@@ -1,5 +1,5 @@
 ---
-id: study_0244
+id: 0244
 title: "Holy Roman Empire"
 rank: 244
 level: 3

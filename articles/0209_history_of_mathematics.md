@@ -1,5 +1,5 @@
 ---
-id: study_0209
+id: 0209
 title: "History of mathematics"
 rank: 209
 level: 3

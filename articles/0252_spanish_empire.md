@@ -1,5 +1,5 @@
 ---
-id: study_0252
+id: 0252
 title: "Spanish Empire"
 rank: 252
 level: 3

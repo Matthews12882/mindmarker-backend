@@ -1,5 +1,5 @@
 ---
-id: study_0264
+id: 0264
 title: "Great Depression"
 rank: 264
 level: 3

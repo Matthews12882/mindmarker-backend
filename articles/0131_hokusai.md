@@ -1,5 +1,5 @@
 ---
-id: study_0131
+id: 0131
 title: "Hokusai"
 rank: 131
 level: 3

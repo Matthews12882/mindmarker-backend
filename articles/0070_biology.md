@@ -1,5 +1,5 @@
 ---
-id: study_0070
+id: 0070
 title: "Biology"
 rank: 70
 level: 2

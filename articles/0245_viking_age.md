@@ -1,5 +1,5 @@
 ---
-id: study_0245
+id: 0245
 title: "Viking Age"
 rank: 245
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0294
+id: 0294
 title: "Bangladesh"
 rank: 294
 level: 3

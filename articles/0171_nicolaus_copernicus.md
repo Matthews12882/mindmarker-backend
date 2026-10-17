@@ -1,5 +1,5 @@
 ---
-id: study_0171
+id: 0171
 title: "Nicolaus Copernicus"
 rank: 171
 level: 3

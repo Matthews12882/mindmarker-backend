@@ -1,5 +1,5 @@
 ---
-id: study_0140
+id: 0140
 title: "Ibn Khaldun"
 rank: 140
 level: 3

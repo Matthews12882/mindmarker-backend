@@ -1,5 +1,5 @@
 ---
-id: study_0287
+id: 0287
 title: "Morocco"
 rank: 287
 level: 3

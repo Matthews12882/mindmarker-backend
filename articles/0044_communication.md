@@ -1,5 +1,5 @@
 ---
-id: study_0044
+id: 0044
 title: "Communication"
 rank: 44
 level: 2

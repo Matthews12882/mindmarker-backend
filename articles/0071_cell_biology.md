@@ -1,5 +1,5 @@
 ---
-id: study_0071
+id: 0071
 title: "Cell (biology)"
 rank: 71
 level: 2

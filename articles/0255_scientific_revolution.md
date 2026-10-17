@@ -1,5 +1,5 @@
 ---
-id: study_0255
+id: 0255
 title: "Scientific Revolution"
 rank: 255
 level: 3

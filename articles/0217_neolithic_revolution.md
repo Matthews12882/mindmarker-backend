@@ -1,5 +1,5 @@
 ---
-id: study_0217
+id: 0217
 title: "Neolithic Revolution"
 rank: 217
 level: 3

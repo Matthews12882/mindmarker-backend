@@ -1,5 +1,5 @@
 ---
-id: study_0258
+id: 0258
 title: "American Revolution"
 rank: 258
 level: 3

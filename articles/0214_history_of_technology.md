@@ -1,5 +1,5 @@
 ---
-id: study_0214
+id: 0214
 title: "History of technology"
 rank: 214
 level: 3

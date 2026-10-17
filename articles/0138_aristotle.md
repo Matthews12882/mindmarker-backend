@@ -1,5 +1,5 @@
 ---
-id: study_0138
+id: 0138
 title: "Aristotle"
 rank: 138
 level: 3

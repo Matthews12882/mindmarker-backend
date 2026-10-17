@@ -1,5 +1,5 @@
 ---
-id: study_0047
+id: 0047
 title: "Writing"
 rank: 47
 level: 2

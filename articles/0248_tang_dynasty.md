@@ -1,5 +1,5 @@
 ---
-id: study_0248
+id: 0248
 title: "Tang dynasty"
 rank: 248
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0098
+id: 0098
 title: "Geometry"
 rank: 98
 level: 2

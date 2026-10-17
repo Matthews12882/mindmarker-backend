@@ -1,5 +1,5 @@
 ---
-id: study_0108
+id: 0108
 title: "Cleopatra"
 rank: 108
 level: 3

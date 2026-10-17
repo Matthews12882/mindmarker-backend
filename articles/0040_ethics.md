@@ -1,5 +1,5 @@
 ---
-id: study_0040
+id: 0040
 title: "Ethics"
 rank: 40
 level: 2

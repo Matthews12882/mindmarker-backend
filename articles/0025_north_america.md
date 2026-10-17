@@ -1,5 +1,5 @@
 ---
-id: study_0025
+id: 0025
 title: "North America"
 rank: 25
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0181
+id: 0181
 title: "Thomas Edison"
 rank: 181
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0154
+id: 0154
 title: "Dante Alighieri"
 rank: 154
 level: 3

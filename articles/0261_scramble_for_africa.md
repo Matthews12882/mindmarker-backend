@@ -1,5 +1,5 @@
 ---
-id: study_0261
+id: 0261
 title: "Scramble for Africa"
 rank: 261
 level: 3

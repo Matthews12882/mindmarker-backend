@@ -1,5 +1,5 @@
 ---
-id: study_0271
+id: 0271
 title: "Sub-Saharan Africa"
 rank: 271
 level: 3

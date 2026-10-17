@@ -1,5 +1,5 @@
 ---
-id: study_0161
+id: 0161
 title: "Ludwig van Beethoven"
 rank: 161
 level: 3

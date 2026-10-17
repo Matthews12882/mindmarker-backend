@@ -1,5 +1,5 @@
 ---
-id: study_0174
+id: 0174
 title: "Antoine Lavoisier"
 rank: 174
 level: 3

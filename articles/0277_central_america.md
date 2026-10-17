@@ -1,5 +1,5 @@
 ---
-id: study_0277
+id: 0277
 title: "Central America"
 rank: 277
 level: 3

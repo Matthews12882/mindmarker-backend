@@ -1,5 +1,5 @@
 ---
-id: study_0227
+id: 0227
 title: "Ancient Rome"
 rank: 227
 level: 3

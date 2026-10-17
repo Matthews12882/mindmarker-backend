@@ -1,5 +1,5 @@
 ---
-id: study_0150
+id: 0150
 title: "Virgil"
 rank: 150
 level: 3

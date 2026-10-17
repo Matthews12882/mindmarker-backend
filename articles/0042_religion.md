@@ -1,5 +1,5 @@
 ---
-id: study_0042
+id: 0042
 title: "Religion"
 rank: 42
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0253
+id: 0253
 title: "Reformation"
 rank: 253
 level: 3

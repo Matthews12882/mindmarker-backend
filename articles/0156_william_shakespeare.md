@@ -1,5 +1,5 @@
 ---
-id: study_0156
+id: 0156
 title: "William Shakespeare"
 rank: 156
 level: 3

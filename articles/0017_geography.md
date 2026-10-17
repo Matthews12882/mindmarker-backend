@@ -1,5 +1,5 @@
 ---
-id: study_0017
+id: 0017
 title: "Geography"
 rank: 17
 level: 2

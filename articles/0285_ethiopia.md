@@ -1,5 +1,5 @@
 ---
-id: study_0285
+id: 0285
 title: "Ethiopia"
 rank: 285
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0003
+id: 0003
 title: "Human"
 rank: 3
 level: 1

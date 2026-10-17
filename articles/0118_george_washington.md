@@ -1,5 +1,5 @@
 ---
-id: study_0118
+id: 0118
 title: "George Washington"
 rank: 118
 level: 3

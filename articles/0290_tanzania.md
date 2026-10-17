@@ -1,5 +1,5 @@
 ---
-id: study_0290
+id: 0290
 title: "Tanzania"
 rank: 290
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0212
+id: 0212
 title: "History of philosophy"
 rank: 212
 level: 3

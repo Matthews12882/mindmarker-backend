@@ -1,5 +1,5 @@
 ---
-id: study_0278
+id: 0278
 title: "Arctic"
 rank: 278
 level: 3

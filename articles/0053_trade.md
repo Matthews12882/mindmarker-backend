@@ -1,5 +1,5 @@
 ---
-id: study_0053
+id: 0053
 title: "Trade"
 rank: 53
 level: 2

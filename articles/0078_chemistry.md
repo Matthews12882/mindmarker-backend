@@ -1,5 +1,5 @@
 ---
-id: study_0078
+id: 0078
 title: "Chemistry"
 rank: 78
 level: 2

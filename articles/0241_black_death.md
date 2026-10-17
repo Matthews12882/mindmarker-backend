@@ -1,5 +1,5 @@
 ---
-id: study_0241
+id: 0241
 title: "Black Death"
 rank: 241
 level: 3

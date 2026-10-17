@@ -1,5 +1,5 @@
 ---
-id: study_0036
+id: 0036
 title: "Family"
 rank: 36
 level: 2

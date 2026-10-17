@@ -1,5 +1,5 @@
 ---
-id: study_0155
+id: 0155
 title: "Miguel de Cervantes"
 rank: 155
 level: 3

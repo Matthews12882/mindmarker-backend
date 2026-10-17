@@ -1,5 +1,5 @@
 ---
-id: study_0200
+id: 0200
 title: "History of Asia"
 rank: 200
 level: 3

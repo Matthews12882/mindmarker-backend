@@ -1,5 +1,5 @@
 ---
-id: study_0063
+id: 0063
 title: "State (polity)"
 rank: 63
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0296
+id: 0296
 title: "Pakistan"
 rank: 296
 level: 3

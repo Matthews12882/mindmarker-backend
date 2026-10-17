@@ -1,5 +1,5 @@
 ---
-id: study_0145
+id: 0145
 title: "Immanuel Kant"
 rank: 145
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0105
+id: 0105
 title: "Ashoka"
 rank: 105
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0092
+id: 0092
 title: "Computer"
 rank: 92
 level: 2

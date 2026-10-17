@@ -1,5 +1,5 @@
 ---
-id: study_0234
+id: 0234
 title: "Mesoamerica"
 rank: 234
 level: 3

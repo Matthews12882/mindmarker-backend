@@ -1,5 +1,5 @@
 ---
-id: study_0179
+id: 0179
 title: "James Clerk Maxwell"
 rank: 179
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0197
+id: 0197
 title: "Henry Ford"
 rank: 197
 level: 3

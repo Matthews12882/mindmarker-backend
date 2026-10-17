@@ -1,5 +1,5 @@
 ---
-id: study_0018
+id: 0018
 title: "Human settlement"
 rank: 18
 level: 2

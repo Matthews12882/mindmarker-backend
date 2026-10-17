@@ -1,5 +1,5 @@
 ---
-id: study_0226
+id: 0226
 title: "Ancient Greece"
 rank: 226
 level: 3

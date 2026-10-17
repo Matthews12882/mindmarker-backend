@@ -1,5 +1,5 @@
 ---
-id: study_0289
+id: 0289
 title: "South Africa"
 rank: 289
 level: 3

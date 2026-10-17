@@ -1,5 +1,5 @@
 ---
-id: study_0083
+id: 0083
 title: "Climate"
 rank: 83
 level: 2

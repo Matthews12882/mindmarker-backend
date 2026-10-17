@@ -1,5 +1,5 @@
 ---
-id: study_0219
+id: 0219
 title: "Ancient Egypt"
 rank: 219
 level: 3

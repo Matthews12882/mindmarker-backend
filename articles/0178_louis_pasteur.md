@@ -1,5 +1,5 @@
 ---
-id: study_0178
+id: 0178
 title: "Louis Pasteur"
 rank: 178
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0169
+id: 0169
 title: "Shen Kuo"
 rank: 169
 level: 3

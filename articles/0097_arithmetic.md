@@ -1,5 +1,5 @@
 ---
-id: study_0097
+id: 0097
 title: "Arithmetic"
 rank: 97
 level: 2

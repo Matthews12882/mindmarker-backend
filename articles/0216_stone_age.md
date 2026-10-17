@@ -1,5 +1,5 @@
 ---
-id: study_0216
+id: 0216
 title: "Stone Age"
 rank: 216
 level: 3

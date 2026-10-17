@@ -1,5 +1,5 @@
 ---
-id: study_0128
+id: 0128
 title: "Leonardo da Vinci"
 rank: 128
 level: 3

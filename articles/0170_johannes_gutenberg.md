@@ -1,5 +1,5 @@
 ---
-id: study_0170
+id: 0170
 title: "Johannes Gutenberg"
 rank: 170
 level: 3

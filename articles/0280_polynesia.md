@@ -1,5 +1,5 @@
 ---
-id: study_0280
+id: 0280
 title: "Polynesia"
 rank: 280
 level: 3

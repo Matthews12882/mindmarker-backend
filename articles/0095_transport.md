@@ -1,5 +1,5 @@
 ---
-id: study_0095
+id: 0095
 title: "Transport"
 rank: 95
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0184
+id: 0184
 title: "Euclid"
 rank: 184
 level: 3

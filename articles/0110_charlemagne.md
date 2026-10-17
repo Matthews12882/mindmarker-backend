@@ -1,5 +1,5 @@
 ---
-id: study_0110
+id: 0110
 title: "Charlemagne"
 rank: 110
 level: 3

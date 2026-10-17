@@ -1,5 +1,5 @@
 ---
-id: study_0191
+id: 0191
 title: "The Buddha"
 rank: 191
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0187
+id: 0187
 title: "Leonhard Euler"
 rank: 187
 level: 3

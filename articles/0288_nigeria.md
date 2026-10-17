@@ -1,5 +1,5 @@
 ---
-id: study_0288
+id: 0288
 title: "Nigeria"
 rank: 288
 level: 3

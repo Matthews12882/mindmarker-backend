@@ -1,5 +1,5 @@
 ---
-id: study_0032
+id: 0032
 title: "Visual arts"
 rank: 32
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0074
+id: 0074
 title: "Evolution"
 rank: 74
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0085
+id: 0085
 title: "Medicine"
 rank: 85
 level: 2

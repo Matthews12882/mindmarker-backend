@@ -1,5 +1,5 @@
 ---
-id: study_0024
+id: 0024
 title: "Europe"
 rank: 24
 level: 2

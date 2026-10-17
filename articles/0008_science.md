@@ -1,5 +1,5 @@
 ---
-id: study_0008
+id: 0008
 title: "Science"
 rank: 8
 level: 1

@@ -1,5 +1,5 @@
 ---
-id: study_0054
+id: 0054
 title: "Ethnicity"
 rank: 54
 level: 2

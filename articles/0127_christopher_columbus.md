@@ -1,5 +1,5 @@
 ---
-id: study_0127
+id: 0127
 title: "Christopher Columbus"
 rank: 127
 level: 3

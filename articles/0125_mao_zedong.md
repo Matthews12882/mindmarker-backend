@@ -1,5 +1,5 @@
 ---
-id: study_0125
+id: 0125
 title: "Mao Zedong"
 rank: 125
 level: 3

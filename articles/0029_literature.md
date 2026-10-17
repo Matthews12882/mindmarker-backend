@@ -1,5 +1,5 @@
 ---
-id: study_0029
+id: 0029
 title: "Literature"
 rank: 29
 level: 2

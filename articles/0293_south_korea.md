@@ -1,5 +1,5 @@
 ---
-id: study_0293
+id: 0293
 title: "South Korea"
 rank: 293
 level: 3

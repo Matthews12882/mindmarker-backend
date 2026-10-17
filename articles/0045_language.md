@@ -1,5 +1,5 @@
 ---
-id: study_0045
+id: 0045
 title: "Language"
 rank: 45
 level: 2

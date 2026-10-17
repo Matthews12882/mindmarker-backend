@@ -1,5 +1,5 @@
 ---
-id: study_0173
+id: 0173
 title: "Isaac Newton"
 rank: 173
 level: 3

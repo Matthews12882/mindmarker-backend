@@ -1,5 +1,5 @@
 ---
-id: study_0081
+id: 0081
 title: "Metal"
 rank: 81
 level: 2

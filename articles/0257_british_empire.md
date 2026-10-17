@@ -1,5 +1,5 @@
 ---
-id: study_0257
+id: 0257
 title: "British Empire"
 rank: 257
 level: 3

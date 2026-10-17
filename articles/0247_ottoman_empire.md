@@ -1,5 +1,5 @@
 ---
-id: study_0247
+id: 0247
 title: "Ottoman Empire"
 rank: 247
 level: 3

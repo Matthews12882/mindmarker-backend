@@ -1,5 +1,5 @@
 ---
-id: study_0065
+id: 0065
 title: "Astronomy"
 rank: 65
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0137
+id: 0137
 title: "Plato"
 rank: 137
 level: 3

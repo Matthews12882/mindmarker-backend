@@ -1,5 +1,5 @@
 ---
-id: study_0228
+id: 0228
 title: "Achaemenid Empire"
 rank: 228
 level: 3

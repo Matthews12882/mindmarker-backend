@@ -1,5 +1,5 @@
 ---
-id: study_0089
+id: 0089
 title: "Energy"
 rank: 89
 level: 2

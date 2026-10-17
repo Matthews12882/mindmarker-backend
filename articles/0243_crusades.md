@@ -1,5 +1,5 @@
 ---
-id: study_0243
+id: 0243
 title: "Crusades"
 rank: 243
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0218
+id: 0218
 title: "Bronze Age"
 rank: 218
 level: 3

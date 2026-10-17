@@ -1,5 +1,5 @@
 ---
-id: study_0051
+id: 0051
 title: "Agriculture"
 rank: 51
 level: 2

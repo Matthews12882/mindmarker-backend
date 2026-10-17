@@ -1,5 +1,5 @@
 ---
-id: study_0204
+id: 0204
 title: "History of science"
 rank: 204
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0075
+id: 0075
 title: "Reproduction"
 rank: 75
 level: 2

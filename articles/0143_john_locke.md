@@ -1,5 +1,5 @@
 ---
-id: study_0143
+id: 0143
 title: "John Locke"
 rank: 143
 level: 3

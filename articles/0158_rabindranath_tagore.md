@@ -1,5 +1,5 @@
 ---
-id: study_0158
+id: 0158
 title: "Rabindranath Tagore"
 rank: 158
 level: 3

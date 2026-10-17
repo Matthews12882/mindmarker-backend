@@ -1,5 +1,5 @@
 ---
-id: study_0109
+id: 0109
 title: "Augustus"
 rank: 109
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0232
+id: 0232
 title: "Pre-Columbian era"
 rank: 232
 level: 3

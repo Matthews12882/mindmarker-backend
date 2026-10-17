@@ -1,5 +1,5 @@
 ---
-id: study_0072
+id: 0072
 title: "Death"
 rank: 72
 level: 2

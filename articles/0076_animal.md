@@ -1,5 +1,5 @@
 ---
-id: study_0076
+id: 0076
 title: "Animal"
 rank: 76
 level: 2

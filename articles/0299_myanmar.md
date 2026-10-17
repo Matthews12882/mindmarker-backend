@@ -1,5 +1,5 @@
 ---
-id: study_0299
+id: 0299
 title: "Myanmar"
 rank: 299
 level: 3

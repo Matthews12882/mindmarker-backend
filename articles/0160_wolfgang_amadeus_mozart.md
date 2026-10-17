@@ -1,5 +1,5 @@
 ---
-id: study_0160
+id: 0160
 title: "Wolfgang Amadeus Mozart"
 rank: 160
 level: 3

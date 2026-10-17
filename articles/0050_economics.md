@@ -1,5 +1,5 @@
 ---
-id: study_0050
+id: 0050
 title: "Economics"
 rank: 50
 level: 2

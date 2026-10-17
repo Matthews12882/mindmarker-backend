@@ -1,5 +1,5 @@
 ---
-id: study_0297
+id: 0297
 title: "Indonesia"
 rank: 297
 level: 3

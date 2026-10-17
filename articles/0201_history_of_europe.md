@@ -1,5 +1,5 @@
 ---
-id: study_0201
+id: 0201
 title: "History of Europe"
 rank: 201
 level: 3

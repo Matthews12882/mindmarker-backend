@@ -1,5 +1,5 @@
 ---
-id: study_0231
+id: 0231
 title: "Silk Road"
 rank: 231
 level: 3

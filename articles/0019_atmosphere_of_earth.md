@@ -1,5 +1,5 @@
 ---
-id: study_0019
+id: 0019
 title: "Atmosphere of Earth"
 rank: 19
 level: 2

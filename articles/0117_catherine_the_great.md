@@ -1,5 +1,5 @@
 ---
-id: study_0117
+id: 0117
 title: "Catherine the Great"
 rank: 117
 level: 3

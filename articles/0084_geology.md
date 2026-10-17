@@ -1,5 +1,5 @@
 ---
-id: study_0084
+id: 0084
 title: "Geology"
 rank: 84
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0009
+id: 0009
 title: "Society"
 rank: 9
 level: 1

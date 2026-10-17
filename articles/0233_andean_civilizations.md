@@ -1,5 +1,5 @@
 ---
-id: study_0233
+id: 0233
 title: "Andean civilizations"
 rank: 233
 level: 3

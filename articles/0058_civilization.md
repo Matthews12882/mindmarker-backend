@@ -1,5 +1,5 @@
 ---
-id: study_0058
+id: 0058
 title: "Civilization"
 rank: 58
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0002
+id: 0002
 title: "Earth"
 rank: 2
 level: 1

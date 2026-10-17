@@ -1,5 +1,5 @@
 ---
-id: study_0195
+id: 0195
 title: "Adi Shankara"
 rank: 195
 level: 3

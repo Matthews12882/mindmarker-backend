@@ -1,5 +1,5 @@
 ---
-id: study_0006
+id: 0006
 title: "Mathematics"
 rank: 6
 level: 1

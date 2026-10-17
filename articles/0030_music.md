@@ -1,5 +1,5 @@
 ---
-id: study_0030
+id: 0030
 title: "Music"
 rank: 30
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0186
+id: 0186
 title: "Al-Khwarizmi"
 rank: 186
 level: 3

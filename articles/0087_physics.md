@@ -1,5 +1,5 @@
 ---
-id: study_0087
+id: 0087
 title: "Physics"
 rank: 87
 level: 2

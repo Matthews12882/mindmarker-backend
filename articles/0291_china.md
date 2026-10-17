@@ -1,5 +1,5 @@
 ---
-id: study_0291
+id: 0291
 title: "China"
 rank: 291
 level: 3

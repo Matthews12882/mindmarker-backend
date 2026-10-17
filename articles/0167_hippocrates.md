@@ -1,5 +1,5 @@
 ---
-id: study_0167
+id: 0167
 title: "Hippocrates"
 rank: 167
 level: 3

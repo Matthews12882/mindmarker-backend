@@ -1,5 +1,5 @@
 ---
-id: study_0196
+id: 0196
 title: "Martin Luther"
 rank: 196
 level: 3

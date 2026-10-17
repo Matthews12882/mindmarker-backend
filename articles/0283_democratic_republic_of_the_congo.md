@@ -1,5 +1,5 @@
 ---
-id: study_0283
+id: 0283
 title: "Democratic Republic of the Congo"
 rank: 283
 level: 3

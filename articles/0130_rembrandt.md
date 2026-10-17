@@ -1,5 +1,5 @@
 ---
-id: study_0130
+id: 0130
 title: "Rembrandt"
 rank: 130
 level: 3

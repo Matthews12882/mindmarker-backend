@@ -1,5 +1,5 @@
 ---
-id: study_0273
+id: 0273
 title: "East Asia"
 rank: 273
 level: 3

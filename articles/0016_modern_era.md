@@ -1,5 +1,5 @@
 ---
-id: study_0016
+id: 0016
 title: "Modern era"
 rank: 16
 level: 2

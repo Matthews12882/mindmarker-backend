@@ -1,5 +1,5 @@
 ---
-id: study_0028
+id: 0028
 title: "Architecture"
 rank: 28
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0275
+id: 0275
 title: "Southeast Asia"
 rank: 275
 level: 3

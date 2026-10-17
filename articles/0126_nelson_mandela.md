@@ -1,5 +1,5 @@
 ---
-id: study_0126
+id: 0126
 title: "Nelson Mandela"
 rank: 126
 level: 3

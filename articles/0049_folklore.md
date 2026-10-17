@@ -1,5 +1,5 @@
 ---
-id: study_0049
+id: 0049
 title: "Folklore"
 rank: 49
 level: 2

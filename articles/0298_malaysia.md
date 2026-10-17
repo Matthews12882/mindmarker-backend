@@ -1,5 +1,5 @@
 ---
-id: study_0298
+id: 0298
 title: "Malaysia"
 rank: 298
 level: 3

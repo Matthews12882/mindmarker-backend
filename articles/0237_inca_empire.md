@@ -1,5 +1,5 @@
 ---
-id: study_0237
+id: 0237
 title: "Inca Empire"
 rank: 237
 level: 3

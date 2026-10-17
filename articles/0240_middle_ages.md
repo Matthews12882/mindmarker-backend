@@ -1,5 +1,5 @@
 ---
-id: study_0240
+id: 0240
 title: "Middle Ages"
 rank: 240
 level: 3

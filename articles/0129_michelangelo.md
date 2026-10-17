@@ -1,5 +1,5 @@
 ---
-id: study_0129
+id: 0129
 title: "Michelangelo"
 rank: 129
 level: 3

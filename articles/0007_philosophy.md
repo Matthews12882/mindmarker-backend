@@ -1,5 +1,5 @@
 ---
-id: study_0007
+id: 0007
 title: "Philosophy"
 rank: 7
 level: 1

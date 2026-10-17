@@ -1,5 +1,5 @@
 ---
-id: study_0119
+id: 0119
 title: "Napoleon"
 rank: 119
 level: 3

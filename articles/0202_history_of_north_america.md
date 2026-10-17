@@ -1,5 +1,5 @@
 ---
-id: study_0202
+id: 0202
 title: "History of North America"
 rank: 202
 level: 3

@@ -450,7 +450,7 @@ retrieved: $ex_retrieved
 
 Field notes:
 
-* `id` — stable id used by the app and its quiz JSON (`study_0001`, ...).
+* `id` — stable id used by the app and its quiz JSON (`0001`, ...).
 * `rank` — position in the importance-ordered list (1 = most vital).
 * `level` — Vital articles level the topic belongs to (1, 2 or 3).
 * `topic` — subject area, e.g. `History`, `Geography`, `People`. Group the
@@ -487,7 +487,7 @@ for article in manifest["articles"]:
 **2. Read one article and (later) generate its quiz**
 
 ```python
-article = next(a for a in manifest["articles"] if a["id"] == "study_0001")
+article = next(a for a in manifest["articles"] if a["id"] == "0001")
 text = pathlib.Path("articles", article["file"]).read_text()
 # Send `text` to your LLM with the quiz prompt, then store the quiz JSON
 # under the same `article["id"]`.
@@ -499,7 +499,7 @@ Set the quiz's `Article-ID` equal to the article `id` so quizzes, progress and
 points all join on one key:
 
 ```json
-{ "Article-ID": "study_0001", "questions": [ ] }
+{ "Article-ID": "0001", "questions": [ ] }
 ```
 
 ## Regenerating / customising
@@ -600,7 +600,7 @@ def main() -> int:
     log(f"Downloading and converting articles into {out_dir}/ ...")
     for item in articles:
         title = item["title"]
-        article_id = f"study_{item['rank']:04d}"
+        article_id = f"{item['rank']:04d}"
         filename = f"{item['rank']:04d}_{slugify(title)}.md"
         info = meta.get(title, {})
         try:

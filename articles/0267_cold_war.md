@@ -1,5 +1,5 @@
 ---
-id: study_0267
+id: 0267
 title: "Cold War"
 rank: 267
 level: 3

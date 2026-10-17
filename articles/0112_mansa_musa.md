@@ -1,5 +1,5 @@
 ---
-id: study_0112
+id: 0112
 title: "Mansa Musa"
 rank: 112
 level: 3

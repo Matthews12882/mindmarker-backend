@@ -1,5 +1,5 @@
 ---
-id: study_0149
+id: 0149
 title: "Homer"
 rank: 149
 level: 3

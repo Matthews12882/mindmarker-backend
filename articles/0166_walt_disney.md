@@ -1,5 +1,5 @@
 ---
-id: study_0166
+id: 0166
 title: "Walt Disney"
 rank: 166
 level: 3

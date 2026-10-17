@@ -1,5 +1,5 @@
 ---
-id: study_0164
+id: 0164
 title: "Michael Jackson"
 rank: 164
 level: 3

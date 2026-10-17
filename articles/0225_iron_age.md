@@ -1,5 +1,5 @@
 ---
-id: study_0225
+id: 0225
 title: "Iron Age"
 rank: 225
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0269
+id: 0269
 title: "Globalization"
 rank: 269
 level: 3

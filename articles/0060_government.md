@@ -1,5 +1,5 @@
 ---
-id: study_0060
+id: 0060
 title: "Government"
 rank: 60
 level: 2

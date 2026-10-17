@@ -1,5 +1,5 @@
 ---
-id: study_0236
+id: 0236
 title: "Aztecs"
 rank: 236
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0157
+id: 0157
 title: "Leo Tolstoy"
 rank: 157
 level: 3

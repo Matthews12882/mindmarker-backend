@@ -1,5 +1,5 @@
 ---
-id: study_0146
+id: 0146
 title: "Mary Wollstonecraft"
 rank: 146
 level: 3

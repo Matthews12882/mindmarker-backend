@@ -1,5 +1,5 @@
 ---
-id: study_0189
+id: 0189
 title: "Kurt Gödel"
 rank: 189
 level: 3

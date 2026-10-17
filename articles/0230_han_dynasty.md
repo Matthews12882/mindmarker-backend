@@ -1,5 +1,5 @@
 ---
-id: study_0230
+id: 0230
 title: "Han dynasty"
 rank: 230
 level: 3

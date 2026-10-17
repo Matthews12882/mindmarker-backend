@@ -1,5 +1,5 @@
 ---
-id: study_0142
+id: 0142
 title: "René Descartes"
 rank: 142
 level: 3

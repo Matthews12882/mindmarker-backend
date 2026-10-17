@@ -1,5 +1,5 @@
 ---
-id: study_0116
+id: 0116
 title: "Elizabeth I"
 rank: 116
 level: 3

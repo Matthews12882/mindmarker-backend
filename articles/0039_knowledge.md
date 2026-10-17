@@ -1,5 +1,5 @@
 ---
-id: study_0039
+id: 0039
 title: "Knowledge"
 rank: 39
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0147
+id: 0147
 title: "Karl Marx"
 rank: 147
 level: 3

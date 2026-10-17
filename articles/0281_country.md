@@ -1,5 +1,5 @@
 ---
-id: study_0281
+id: 0281
 title: "Country"
 rank: 281
 level: 3

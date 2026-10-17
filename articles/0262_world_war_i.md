@@ -1,5 +1,5 @@
 ---
-id: study_0262
+id: 0262
 title: "World War I"
 rank: 262
 level: 3

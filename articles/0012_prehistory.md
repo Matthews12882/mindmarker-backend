@@ -1,5 +1,5 @@
 ---
-id: study_0012
+id: 0012
 title: "Prehistory"
 rank: 12
 level: 2

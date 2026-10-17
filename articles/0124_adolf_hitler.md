@@ -1,5 +1,5 @@
 ---
-id: study_0124
+id: 0124
 title: "Adolf Hitler"
 rank: 124
 level: 3

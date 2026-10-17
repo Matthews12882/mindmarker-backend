@@ -1,5 +1,5 @@
 ---
-id: study_0256
+id: 0256
 title: "Age of Enlightenment"
 rank: 256
 level: 3

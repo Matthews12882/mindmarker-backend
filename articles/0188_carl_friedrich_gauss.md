@@ -1,5 +1,5 @@
 ---
-id: study_0188
+id: 0188
 title: "Carl Friedrich Gauss"
 rank: 188
 level: 3

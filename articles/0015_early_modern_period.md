@@ -1,5 +1,5 @@
 ---
-id: study_0015
+id: 0015
 title: "Early modern period"
 rank: 15
 level: 2

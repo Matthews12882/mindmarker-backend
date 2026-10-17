@@ -1,5 +1,5 @@
 ---
-id: study_0205
+id: 0205
 title: "History of art"
 rank: 205
 level: 3

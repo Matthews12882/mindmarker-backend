@@ -1,5 +1,5 @@
 ---
-id: study_0033
+id: 0033
 title: "Clothing"
 rank: 33
 level: 2

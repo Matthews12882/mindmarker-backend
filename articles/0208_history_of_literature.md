@@ -1,5 +1,5 @@
 ---
-id: study_0208
+id: 0208
 title: "History of literature"
 rank: 208
 level: 3

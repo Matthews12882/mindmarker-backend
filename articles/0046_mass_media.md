@@ -1,5 +1,5 @@
 ---
-id: study_0046
+id: 0046
 title: "Mass media"
 rank: 46
 level: 2

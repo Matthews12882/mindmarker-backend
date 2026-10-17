@@ -1,5 +1,5 @@
 ---
-id: study_0021
+id: 0021
 title: "Ocean"
 rank: 21
 level: 2

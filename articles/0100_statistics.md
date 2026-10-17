@@ -1,5 +1,5 @@
 ---
-id: study_0100
+id: 0100
 title: "Statistics"
 rank: 100
 level: 2

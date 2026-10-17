@@ -1,5 +1,5 @@
 ---
-id: study_0103
+id: 0103
 title: "Cyrus the Great"
 rank: 103
 level: 3

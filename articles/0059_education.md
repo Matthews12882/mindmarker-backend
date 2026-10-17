@@ -1,5 +1,5 @@
 ---
-id: study_0059
+id: 0059
 title: "Education"
 rank: 59
 level: 2

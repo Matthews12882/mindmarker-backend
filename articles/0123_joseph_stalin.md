@@ -1,5 +1,5 @@
 ---
-id: study_0123
+id: 0123
 title: "Joseph Stalin"
 rank: 123
 level: 3

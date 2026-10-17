@@ -1,5 +1,5 @@
 ---
-id: study_0027
+id: 0027
 title: "South America"
 rank: 27
 level: 2

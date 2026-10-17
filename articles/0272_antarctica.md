@@ -1,5 +1,5 @@
 ---
-id: study_0272
+id: 0272
 title: "Antarctica"
 rank: 272
 level: 3

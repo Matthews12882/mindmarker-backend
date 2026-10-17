@@ -1,5 +1,5 @@
 ---
-id: study_0134
+id: 0134
 title: "Confucius"
 rank: 134
 level: 3

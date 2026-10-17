@@ -1,5 +1,5 @@
 ---
-id: study_0141
+id: 0141
 title: "Niccolò Machiavelli"
 rank: 141
 level: 3

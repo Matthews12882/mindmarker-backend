@@ -1,5 +1,5 @@
 ---
-id: study_0014
+id: 0014
 title: "Post-classical history"
 rank: 14
 level: 2

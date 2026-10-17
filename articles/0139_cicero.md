@@ -1,5 +1,5 @@
 ---
-id: study_0139
+id: 0139
 title: "Cicero"
 rank: 139
 level: 3

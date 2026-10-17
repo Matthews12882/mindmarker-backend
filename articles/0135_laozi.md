@@ -1,5 +1,5 @@
 ---
-id: study_0135
+id: 0135
 title: "Laozi"
 rank: 135
 level: 3

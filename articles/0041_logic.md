@@ -1,5 +1,5 @@
 ---
-id: study_0041
+id: 0041
 title: "Logic"
 rank: 41
 level: 2

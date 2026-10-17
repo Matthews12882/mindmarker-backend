@@ -1,5 +1,5 @@
 ---
-id: study_0055
+id: 0055
 title: "Psychology"
 rank: 55
 level: 2

@@ -85,15 +85,15 @@ One stable id ties an article, its quiz, and a user's progress together:
 
 ```jsonc
 // article front matter
-id: study_0001
+id: 0001
 
 // quiz JSON (generated next)
-{ "Article-ID": "study_0001", "questions": [ /* ... */ ] }
+{ "Article-ID": "0001", "questions": [ /* ... */ ] }
 ```
 
 `articles/index.json` is the source of truth for the list of articles. The
 `pageid` field is Wikimedia's permanent page id — use it as a durable key if the
-ranking-based `study_XXXX` ids ever change.
+ranking-based `NNNN` ids ever change.
 
 ## Planned architecture
 

@@ -1,5 +1,5 @@
 ---
-id: study_0249
+id: 0249
 title: "Renaissance"
 rank: 249
 level: 3

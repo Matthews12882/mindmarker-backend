@@ -1,5 +1,5 @@
 ---
-id: study_0224
+id: 0224
 title: "Classical antiquity"
 rank: 224
 level: 3

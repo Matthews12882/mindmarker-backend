@@ -1,5 +1,5 @@
 ---
-id: study_0235
+id: 0235
 title: "Maya civilization"
 rank: 235
 level: 3

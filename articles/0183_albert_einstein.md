@@ -1,5 +1,5 @@
 ---
-id: study_0183
+id: 0183
 title: "Albert Einstein"
 rank: 183
 level: 3

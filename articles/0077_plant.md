@@ -1,5 +1,5 @@
 ---
-id: study_0077
+id: 0077
 title: "Plant"
 rank: 77
 level: 2

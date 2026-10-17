@@ -1,5 +1,5 @@
 ---
-id: study_0079
+id: 0079
 title: "Chemical element"
 rank: 79
 level: 2

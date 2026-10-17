@@ -1,5 +1,5 @@
 ---
-id: study_0052
+id: 0052
 title: "Manufacturing"
 rank: 52
 level: 2

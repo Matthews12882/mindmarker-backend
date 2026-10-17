@@ -1,5 +1,5 @@
 ---
-id: study_0082
+id: 0082
 title: "Water"
 rank: 82
 level: 2

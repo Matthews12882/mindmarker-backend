@@ -1,5 +1,5 @@
 ---
-id: study_0107
+id: 0107
 title: "Julius Caesar"
 rank: 107
 level: 3

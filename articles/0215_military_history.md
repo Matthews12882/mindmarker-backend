@@ -1,5 +1,5 @@
 ---
-id: study_0215
+id: 0215
 title: "Military history"
 rank: 215
 level: 3

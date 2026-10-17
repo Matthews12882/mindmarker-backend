@@ -1,5 +1,5 @@
 ---
-id: study_0229
+id: 0229
 title: "Gupta Empire"
 rank: 229
 level: 3

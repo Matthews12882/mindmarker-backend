@@ -1,5 +1,5 @@
 ---
-id: study_0246
+id: 0246
 title: "Mongol Empire"
 rank: 246
 level: 3

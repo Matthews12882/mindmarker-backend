@@ -1,5 +1,5 @@
 ---
-id: study_0176
+id: 0176
 title: "Charles Darwin"
 rank: 176
 level: 3

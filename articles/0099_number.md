@@ -1,5 +1,5 @@
 ---
-id: study_0099
+id: 0099
 title: "Number"
 rank: 99
 level: 2

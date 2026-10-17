@@ -1,5 +1,5 @@
 ---
-id: study_0043
+id: 0043
 title: "Deity"
 rank: 43
 level: 2

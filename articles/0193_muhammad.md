@@ -1,5 +1,5 @@
 ---
-id: study_0193
+id: 0193
 title: "Muhammad"
 rank: 193
 level: 3

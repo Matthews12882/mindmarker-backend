@@ -1,5 +1,5 @@
 ---
-id: study_0259
+id: 0259
 title: "French Revolution"
 rank: 259
 level: 3

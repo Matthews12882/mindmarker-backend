@@ -1,5 +1,5 @@
 ---
-id: study_0242
+id: 0242
 title: "Byzantine Empire"
 rank: 242
 level: 3

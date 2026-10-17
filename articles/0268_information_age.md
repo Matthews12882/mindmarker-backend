@@ -1,5 +1,5 @@
 ---
-id: study_0268
+id: 0268
 title: "Information Age"
 rank: 268
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0210
+id: 0210
 title: "History of medicine"
 rank: 210
 level: 3

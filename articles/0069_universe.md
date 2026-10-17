@@ -1,5 +1,5 @@
 ---
-id: study_0069
+id: 0069
 title: "Universe"
 rank: 69
 level: 2

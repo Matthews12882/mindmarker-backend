@@ -1,5 +1,5 @@
 ---
-id: study_0165
+id: 0165
 title: "Charlie Chaplin"
 rank: 165
 level: 3

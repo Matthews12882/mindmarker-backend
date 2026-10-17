@@ -1,5 +1,5 @@
 ---
-id: study_0121
+id: 0121
 title: "Abraham Lincoln"
 rank: 121
 level: 3

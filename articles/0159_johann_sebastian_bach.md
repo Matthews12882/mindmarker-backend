@@ -1,5 +1,5 @@
 ---
-id: study_0159
+id: 0159
 title: "Johann Sebastian Bach"
 rank: 159
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0111
+id: 0111
 title: "Genghis Khan"
 rank: 111
 level: 3

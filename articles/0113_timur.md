@@ -1,5 +1,5 @@
 ---
-id: study_0113
+id: 0113
 title: "Timur"
 rank: 113
 level: 3

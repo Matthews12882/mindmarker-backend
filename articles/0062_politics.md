@@ -1,5 +1,5 @@
 ---
-id: study_0062
+id: 0062
 title: "Politics"
 rank: 62
 level: 2

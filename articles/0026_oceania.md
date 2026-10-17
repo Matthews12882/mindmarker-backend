@@ -1,5 +1,5 @@
 ---
-id: study_0026
+id: 0026
 title: "Oceania"
 rank: 26
 level: 2

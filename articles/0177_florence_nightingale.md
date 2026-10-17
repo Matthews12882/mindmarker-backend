@@ -1,5 +1,5 @@
 ---
-id: study_0177
+id: 0177
 title: "Florence Nightingale"
 rank: 177
 level: 3

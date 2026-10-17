@@ -1,5 +1,5 @@
 ---
-id: study_0115
+id: 0115
 title: "Akbar"
 rank: 115
 level: 3

@@ -1,5 +1,5 @@
 ---
-id: study_0104
+id: 0104
 title: "Alexander the Great"
 rank: 104
 level: 3

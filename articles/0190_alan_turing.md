@@ -1,5 +1,5 @@
 ---
-id: study_0190
+id: 0190
 title: "Alan Turing"
 rank: 190
 level: 3

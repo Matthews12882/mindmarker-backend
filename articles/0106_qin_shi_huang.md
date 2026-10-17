@@ -1,5 +1,5 @@
 ---
-id: study_0106
+id: 0106
 title: "Qin Shi Huang"
 rank: 106
 level: 3

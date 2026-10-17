@@ -1,5 +1,5 @@
 ---
-id: study_0284
+id: 0284
 title: "Egypt"
 rank: 284
 level: 3

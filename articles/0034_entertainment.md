@@ -1,5 +1,5 @@
 ---
-id: study_0034
+id: 0034
 title: "Entertainment"
 rank: 34
 level: 2

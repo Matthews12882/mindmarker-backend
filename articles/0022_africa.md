@@ -1,5 +1,5 @@
 ---
-id: study_0022
+id: 0022
 title: "Africa"
 rank: 22
 level: 2

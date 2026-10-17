@@ -1,5 +1,5 @@
 ---
-id: study_0175
+id: 0175
 title: "Michael Faraday"
 rank: 175
 level: 3

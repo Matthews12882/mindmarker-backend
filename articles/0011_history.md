@@ -1,5 +1,5 @@
 ---
-id: study_0011
+id: 0011
 title: "History"
 rank: 11
 level: 2

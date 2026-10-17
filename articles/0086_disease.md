@@ -1,5 +1,5 @@
 ---
-id: study_0086
+id: 0086
 title: "Disease"
 rank: 86
 level: 2

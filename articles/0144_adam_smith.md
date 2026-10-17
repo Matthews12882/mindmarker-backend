@@ -1,5 +1,5 @@
 ---
-id: study_0144
+id: 0144
 title: "Adam Smith"
 rank: 144
 level: 3

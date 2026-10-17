@@ -1,5 +1,5 @@
 ---
-id: study_0222
+id: 0222
 title: "Sumer"
 rank: 222
 level: 3

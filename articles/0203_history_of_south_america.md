@@ -1,5 +1,5 @@
 ---
-id: study_0203
+id: 0203
 title: "History of South America"
 rank: 203
 level: 3

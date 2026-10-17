@@ -1,5 +1,5 @@
 ---
-id: study_0260
+id: 0260
 title: "Industrial Revolution"
 rank: 260
 level: 3

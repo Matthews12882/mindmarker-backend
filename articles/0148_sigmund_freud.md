@@ -1,5 +1,5 @@
 ---
-id: study_0148
+id: 0148
 title: "Sigmund Freud"
 rank: 148
 level: 3

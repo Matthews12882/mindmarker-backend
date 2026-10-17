@@ -1,5 +1,5 @@
 ---
-id: study_0286
+id: 0286
 title: "Kenya"
 rank: 286
 level: 3

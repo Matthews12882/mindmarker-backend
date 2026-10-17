@@ -1,5 +1,5 @@
 ---
-id: study_0162
+id: 0162
 title: "Louis Armstrong"
 rank: 162
 level: 3

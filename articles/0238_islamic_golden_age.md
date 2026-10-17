@@ -1,5 +1,5 @@
 ---
-id: study_0238
+id: 0238
 title: "Islamic Golden Age"
 rank: 238
 level: 3

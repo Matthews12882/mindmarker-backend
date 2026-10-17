@@ -1,5 +1,5 @@
 ---
-id: study_0274
+id: 0274
 title: "South Asia"
 rank: 274
 level: 3

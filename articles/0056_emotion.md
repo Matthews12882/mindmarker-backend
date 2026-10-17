@@ -1,5 +1,5 @@
 ---
-id: study_0056
+id: 0056
 title: "Emotion"
 rank: 56
 level: 2

@@ -1,5 +1,5 @@
 ---
-id: study_0031
+id: 0031
 title: "Performing arts"
 rank: 31
 level: 2

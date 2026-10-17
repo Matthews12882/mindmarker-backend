@@ -1,5 +1,5 @@
 ---
-id: study_0185
+id: 0185
 title: "Archimedes"
 rank: 185
 level: 3

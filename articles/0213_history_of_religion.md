@@ -1,5 +1,5 @@
 ---
-id: study_0213
+id: 0213
 title: "History of religion"
 rank: 213
 level: 3

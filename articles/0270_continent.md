@@ -1,5 +1,5 @@
 ---
-id: study_0270
+id: 0270
 title: "Continent"
 rank: 270
 level: 3

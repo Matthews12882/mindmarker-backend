@@ -1,5 +1,5 @@
 ---
-id: study_0251
+id: 0251
 title: "European colonization of the Americas"
 rank: 251
 level: 3

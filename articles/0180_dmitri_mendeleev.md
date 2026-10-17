@@ -1,5 +1,5 @@
 ---
-id: study_0180
+id: 0180
 title: "Dmitri Mendeleev"
 rank: 180
 level: 3

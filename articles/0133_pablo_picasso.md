@@ -1,5 +1,5 @@
 ---
-id: study_0133
+id: 0133
 title: "Pablo Picasso"
 rank: 133
 level: 3

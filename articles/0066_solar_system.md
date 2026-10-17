@@ -1,5 +1,5 @@
 ---
-id: study_0066
+id: 0066
 title: "Solar System"
 rank: 66
 level: 2

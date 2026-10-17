@@ -1,5 +1,5 @@
 ---
-id: study_0207
+id: 0207
 title: "History of architecture"
 rank: 207
 level: 3

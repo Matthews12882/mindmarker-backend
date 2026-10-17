@@ -1,5 +1,5 @@
 ---
-id: study_0120
+id: 0120
 title: "Simón Bolívar"
 rank: 120
 level: 3

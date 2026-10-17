@@ -1,5 +1,5 @@
 ---
-id: study_0250
+id: 0250
 title: "Age of Discovery"
 rank: 250
 level: 3

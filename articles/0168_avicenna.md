@@ -1,5 +1,5 @@
 ---
-id: study_0168
+id: 0168
 title: "Avicenna"
 rank: 168
 level: 3

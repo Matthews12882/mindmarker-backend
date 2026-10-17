@@ -1,5 +1,5 @@
 ---
-id: study_0122
+id: 0122
 title: "Mahatma Gandhi"
 rank: 122
 level: 3

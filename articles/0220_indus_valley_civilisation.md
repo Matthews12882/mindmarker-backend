@@ -1,5 +1,5 @@
 ---
-id: study_0220
+id: 0220
 title: "Indus Valley Civilisation"
 rank: 220
 level: 3

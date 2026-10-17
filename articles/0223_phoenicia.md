@@ -1,5 +1,5 @@
 ---
-id: study_0223
+id: 0223
 title: "Phoenicia"
 rank: 223
 level: 3

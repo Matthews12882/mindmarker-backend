@@ -1,5 +1,5 @@
 ---
-id: study_0206
+id: 0206
 title: "History of agriculture"
 rank: 206
 level: 3

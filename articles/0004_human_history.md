@@ -1,5 +1,5 @@
 ---
-id: study_0004
+id: 0004
 title: "Human history"
 rank: 4
 level: 1

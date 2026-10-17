@@ -1,5 +1,5 @@
 ---
-id: study_0151
+id: 0151
 title: "Li Bai"
 rank: 151
 level: 3

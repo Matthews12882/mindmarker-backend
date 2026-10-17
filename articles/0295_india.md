@@ -1,5 +1,5 @@
 ---
-id: study_0295
+id: 0295
 title: "India"
 rank: 295
 level: 3

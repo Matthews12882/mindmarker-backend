@@ -1,5 +1,5 @@
 ---
-id: study_0132
+id: 0132
 title: "Vincent van Gogh"
 rank: 132
 level: 3

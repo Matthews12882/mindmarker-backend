@@ -1,5 +1,5 @@
 ---
-id: study_0279
+id: 0279
 title: "Middle East"
 rank: 279
 level: 3

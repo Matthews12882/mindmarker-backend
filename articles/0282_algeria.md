@@ -1,5 +1,5 @@
 ---
-id: study_0282
+id: 0282
 title: "Algeria"
 rank: 282
 level: 3

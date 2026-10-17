@@ -1,5 +1,5 @@
 ---
-id: study_0199
+id: 0199
 title: "History of Africa"
 rank: 199
 level: 3

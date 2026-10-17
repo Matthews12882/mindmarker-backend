@@ -1,5 +1,5 @@
 ---
-id: study_0136
+id: 0136
 title: "Socrates"
 rank: 136
 level: 3

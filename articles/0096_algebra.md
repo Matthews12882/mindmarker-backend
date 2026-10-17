@@ -1,5 +1,5 @@
 ---
-id: study_0096
+id: 0096
 title: "Algebra"
 rank: 96
 level: 2

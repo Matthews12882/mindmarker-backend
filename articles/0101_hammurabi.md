@@ -1,5 +1,5 @@
 ---
-id: study_0101
+id: 0101
 title: "Hammurabi"
 rank: 101
 level: 3

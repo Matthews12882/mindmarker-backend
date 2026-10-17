@@ -1,5 +1,5 @@
 ---
-id: study_0010
+id: 0010
 title: "Technology"
 rank: 10
 level: 1

@@ -1,5 +1,5 @@
 ---
-id: study_0172
+id: 0172
 title: "Galileo Galilei"
 rank: 172
 level: 3

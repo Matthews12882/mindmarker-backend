@@ -1,5 +1,5 @@
 ---
-id: study_0221
+id: 0221
 title: "Mesopotamia"
 rank: 221
 level: 3

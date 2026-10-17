@@ -1,5 +1,5 @@
 ---
-id: study_0276
+id: 0276
 title: "Caribbean"
 rank: 276
 level: 3

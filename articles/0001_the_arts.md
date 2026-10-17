@@ -1,5 +1,5 @@
 ---
-id: study_0001
+id: 0001
 title: "The arts"
 rank: 1
 level: 1

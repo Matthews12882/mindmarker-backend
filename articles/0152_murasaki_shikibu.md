@@ -1,5 +1,5 @@
 ---
-id: study_0152
+id: 0152
 title: "Murasaki Shikibu"
 rank: 152
 level: 3

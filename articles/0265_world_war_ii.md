@@ -1,5 +1,5 @@
 ---
-id: study_0265
+id: 0265
 title: "World War II"
 rank: 265
 level: 3

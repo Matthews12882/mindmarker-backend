@@ -1,5 +1,5 @@
 ---
-id: study_0102
+id: 0102
 title: "Ramesses II"
 rank: 102
 level: 3

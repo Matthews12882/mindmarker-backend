@@ -1,5 +1,5 @@
 ---
-id: study_0300
+id: 0300
 title: "Philippines"
 rank: 300
 level: 3

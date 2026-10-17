@@ -1,5 +1,5 @@
 ---
-id: study_0192
+id: 0192
 title: "Jesus"
 rank: 192
 level: 3

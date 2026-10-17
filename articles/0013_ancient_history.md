@@ -1,5 +1,5 @@
 ---
-id: study_0013
+id: 0013
 title: "Ancient history"
 rank: 13
 level: 2

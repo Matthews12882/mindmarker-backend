@@ -1,5 +1,5 @@
 ---
-id: study_0088
+id: 0088
 title: "Electricity"
 rank: 88
 level: 2
