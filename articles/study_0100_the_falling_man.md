@@ -1,0 +1,74 @@
+---
+id: study_0100
+title: "The Falling Man"
+rank: 107
+views: 769594
+url: "https://en.wikipedia.org/wiki/The_Falling_Man"
+pageid: 4416125
+description: "Photograph by Richard Drew from 9/11 attacks"
+summary: ""
+source: Wikipedia
+license: "CC BY-SA 4.0"
+month: "2026-09"
+retrieved: 2026-10-16
+---
+
+# The Falling Man
+
+***The Falling Man*** is a photograph taken by [Associated Press](https://en.wikipedia.org/wiki/Associated_Press "Associated Press") photographer [Richard Drew](https://en.wikipedia.org/wiki/Richard_Drew_(photographer) "Richard Drew (photographer)") of an unidentified man falling from the [World Trade Center](https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001) "World Trade Center (1973–2001)") during the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks "September 11 attacks") in New York City, United States. The unidentified man in the image was trapped on the upper floors of the [North Tower](https://en.wikipedia.org/wiki/1_World_Trade_Center_(1971%E2%80%932001) "1 World Trade Center (1971–2001)"), and it is unknown whether he fell while searching for safety or jumped to escape the fire and smoke. The photograph was taken at 9:41:15 A.M.
+
+The photograph was widely criticized after publication in international media on September 12, 2001, with readers labelling the image as disturbing, cold-blooded, ghoulish, and sadistic. However, in the years following, the photo has gained acclaim. British singer [Elton John](https://en.wikipedia.org/wiki/Elton_John "Elton John"), who purchased it for his personal collection, called it "the most beautiful image of something so tragic".
+
+A *[Time](https://en.wikipedia.org/wiki/Time_(magazine) "Time (magazine)")* magazine retrospective published in 2016 stated: "*Falling Man's* identity is still unknown, but he is believed to have been an employee at the [Windows on the World](https://en.wikipedia.org/wiki/Windows_on_the_World "Windows on the World") restaurant, which sat atop the North Tower. The true power of *Falling Man*, however, is less about who its subject was and more about what he became: a makeshift [Unknown Soldier](https://en.wiktionary.org/wiki/Unknown_Soldier "wikt:Unknown Soldier") in an often unknown and uncertain war, suspended forever in history."
+
+The individual's identity is widely speculated with various potential identities but the man is believed by most to be Jonathan Briley, a 43-year old sound engineer who worked at the [Windows on the World](https://en.wikipedia.org/wiki/Windows_on_the_World "Windows on the World") on the 106th floor of the North Tower, identified by his family. He was the brother of [Alex Briley](https://en.wikipedia.org/wiki/Alex_Briley "Alex Briley").
+
+## Background
+
+On Tuesday, September 11, 2001, four passenger airplanes were hijacked by 19 [Al-Qaeda](https://en.wikipedia.org/wiki/Al-Qaeda "Al-Qaeda") terrorists after takeoff. Two of these hijacked airliners, [American Airlines Flight 11](https://en.wikipedia.org/wiki/American_Airlines_Flight_11 "American Airlines Flight 11") and [United Airlines Flight 175](https://en.wikipedia.org/wiki/United_Airlines_Flight_175 "United Airlines Flight 175"), were intentionally crashed into the Twin Towers of the [World Trade Center](https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001) "World Trade Center (1973–2001)") complex in [New York City](https://en.wikipedia.org/wiki/New_York_City "New York City"), killing or trapping well over 1,300 people above the 91st floor of the [North Tower](https://en.wikipedia.org/wiki/1_World_Trade_Center_(1970%E2%80%932001) "1 World Trade Center (1970–2001)") and more than 600 above the 76th floor of the [South](https://en.wikipedia.org/wiki/2_World_Trade_Center_(1971%E2%80%932001) "2 World Trade Center (1971–2001)").
+
+That morning, an estimated 200 people were witnessed falling from the upper levels of the burning skyscrapers. All but three came from the North Tower, where considerably more people were confined to a much smaller number of floors. Most of the people who fell from the World Trade Center deliberately jumped to their deaths to escape the smoke, flames, and extreme heat, in some places, estimated at over 2,000 °F (1,090 °C). A smaller percentage of the falling deaths were accidents caused by people losing their grip or being knocked off-balance near window ledges, or attempting to climb down to a lower floor below the fire. Officials could not recover or identify the remains of those forced out of the towers due to the conditions on the ground near the base of the building at the time, prior to [their collapse](https://en.wikipedia.org/wiki/Collapse_of_the_World_Trade_Center "Collapse of the World Trade Center"). The [New York City medical examiner's office](https://en.wikipedia.org/wiki/Office_of_Chief_Medical_Examiner_of_the_City_of_New_York "Office of Chief Medical Examiner of the City of New York") said it does not classify them as "[jumpers](https://en.wikipedia.org/wiki/Jumper_(person) "Jumper (person)")," explaining that a "jumper" is defined as someone who "goes to the office in the morning knowing that they will commit suicide," adding that the victims who fell from the towers did not want to die but "were forced out by the smoke and flames or blown out." The medical examiner's office listed [manner of death](https://en.wikipedia.org/wiki/Manner_of_death "Manner of death") as [homicide](https://en.wikipedia.org/wiki/Homicide "Homicide") for all deaths associated with the 9/11 attacks.
+
+The morning of September 11, Richard Drew was on assignment for the Associated Press, photographing a maternity fashion show in [Bryant Park](https://en.wikipedia.org/wiki/Bryant_Park "Bryant Park"). Alerted by his editor to the attacks, Drew took the subway to the [Chambers Street subway station](https://en.wikipedia.org/wiki/Chambers_Street_station_(IRT_Broadway%E2%80%93Seventh_Avenue_Line) "Chambers Street station (IRT Broadway–Seventh Avenue Line)"), near the World Trade Center site. He took the falling man image while at the corner of [West](https://en.wikipedia.org/wiki/West_Street_(Manhattan) "West Street (Manhattan)") and [Vesey Street](https://en.wikipedia.org/wiki/Vesey_Street "Vesey Street") from a low angle. He took eight photographs in sequence, after realizing that a series of loud cracking sounds was not that of falling concrete, but rather people hitting the ground. He took between ten and twelve different sequences of images of people jumping from the tower, before having to leave the site due to the South Tower's collapse.
+
+The man fell from the south side of the North Tower's west face. Thus, the left half of the backdrop features the North Tower while the South Tower is visible on the right. The photograph gives the impression that the man is falling straight down; however, a series of photographs taken of his fall shows him to be tumbling through the air.
+
+## Publication history
+
+The photograph initially appeared in newspapers around the world, including on page seven of *[The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times "The New York Times")* on September 12, 2001. The photo's caption read, "A person falls headfirst after jumping from the north tower of the World Trade Center. It was a horrific sight that was repeated in the moments after the planes struck the towers." It appeared only once in the *Times* because of criticism and anger against its use. Five and a half years later, it appeared on page 1 of *[The New York Times Book Review](https://en.wikipedia.org/wiki/The_New_York_Times_Book_Review "The New York Times Book Review")* on May 27, 2007.
+
+## Identification
+
+> I hope we're not trying to figure out who he is and more figure out who we are through watching that.
+
+— Gwendolyn, *9/11: The Falling Man*
+
+The identity of the subject of the photograph has never been officially confirmed. The large number of people trapped in the tower has made identifying the man in the twelve photos difficult, though several sources have attempted to identify him.
+
+### Norberto Hernandez
+
+Canadian journalist [Peter Cheney](https://en.wikipedia.org/wiki/Peter_Cheney "Peter Cheney") was asked by his employer, *[The Globe and Mail](https://en.wikipedia.org/wiki/The_Globe_and_Mail "The Globe and Mail")*, to try to identify the man in the picture for a story. After happening upon his missing persons poster, Cheney speculated that the man pictured in the photo may have been Norberto Hernandez, a [pastry chef](https://en.wikipedia.org/wiki/Pastry_chef "Pastry chef") at [Windows on the World](https://en.wikipedia.org/wiki/Windows_on_the_World "Windows on the World"), a restaurant located on the 106th floor of the [North Tower](https://en.wikipedia.org/wiki/1_World_Trade_Center_(1971%E2%80%932001) "1 World Trade Center (1971–2001)"). Hernandez's sister initially agreed with Cheney, and invited him to the funeral. Cheney received an aggressive response from Hernandez's daughters, who denied Hernandez could have been the man in the photo and ordered him to leave. Cheney decided to publish the article regardless, leaving Hernandez's widow and daughters very upset, primarily because of the [Catholic view of suicide as sinful](https://en.wikipedia.org/wiki/Christian_views_on_suicide#Modern_Catholicism "Christian views on suicide"). Some of his immediate family refused to view the photograph.
+
+After the *Globe and Mail* story went viral, American journalist [Tom Junod](https://en.wikipedia.org/wiki/Tom_Junod "Tom Junod") spoke to Richard Drew and discovered that the photo was but one in a sequence of twelve, something Cheney did not realize. Upon viewing the entire sequence, Junod concluded that the man in the photo had darker skin than Hernandez and was actually dressed in more casual clothing; he contacted Hernandez's widow and daughters, who allowed him to visit. Junod showed them the entire photo sequence, and upon viewing, the family confidently ruled out Hernandez as a candidate. Hernandez's widow noticed that the clothes the man in the photograph was wearing were different from what Hernandez wore on the morning of the attacks, and did not look like any he owned.
+
+### Jonathan Briley
+
+After being implored by Hernandez's widow to "clear [her] husband's name", Junod began writing an article about the photograph. His piece, "The Falling Man", was published in the September 2003 issue of *[Esquire](https://en.wikipedia.org/wiki/Esquire_(magazine) "Esquire (magazine)")* magazine. It was adapted into a documentary film by the same name. The article gave the possible identity of the falling man as Jonathan Briley, a 43-year-old [sound engineer](https://en.wikipedia.org/wiki/Sound_engineer "Sound engineer") who worked at Windows on the World. Briley had [asthma](https://en.wikipedia.org/wiki/Asthma "Asthma") and would have known he was in danger when smoke began to pour into the restaurant.
+
+He was initially identified by his brother, Timothy. [Michael Lomonaco](https://en.wikipedia.org/wiki/Michael_Lomonaco "Michael Lomonaco"), the restaurant's [executive chef](https://en.wikipedia.org/wiki/Executive_chef "Executive chef"), also suggested that the man was Briley based on his body type and clothes. In one of the photos, the Falling Man's shirt or white jacket was blown open and up, revealing an orange t-shirt similar to one shirt that Briley often wore.
+
+Briley's remains were recovered the day after 9/11, though the collapse of the towers damaged the clothes he wore, making them unrecognizable except the black shoes, which resembled those from the photo. Jonathan Briley was the brother of [Alex Briley](https://en.wikipedia.org/wiki/Alex_Briley "Alex Briley"), a member of the band [Village People](https://en.wikipedia.org/wiki/Village_People "Village People").
+
+## Other uses
+
+*9/11: The Falling Man* is a 2006 [documentary film](https://en.wikipedia.org/wiki/Documentary_film "Documentary film") about the photo. It was made by American filmmaker [Henry Singer](https://en.wikipedia.org/wiki/Henry_Singer "Henry Singer") and filmed by Richard Numeroff, a New York-based director of photography. The film is loosely based on Junod's *Esquire* story. It also drew its material from photographer [Lyle Owerko](https://en.wikipedia.org/wiki/Lyle_Owerko "Lyle Owerko")'s pictures of falling people. It debuted on March 16, 2006, on the [British](https://en.wikipedia.org/wiki/United_Kingdom "United Kingdom") television network [Channel 4](https://en.wikipedia.org/wiki/Channel_4 "Channel 4"), later made its [North American](https://en.wikipedia.org/wiki/North_America "North America") premiere on [Canada](https://en.wikipedia.org/wiki/Canada "Canada")'s [CBC Newsworld](https://en.wikipedia.org/wiki/CBC_Newsworld "CBC Newsworld") on September 6, 2006, and has been broadcast in more than 30 countries. The U.S. premiere was September 10, 2007, on the [Discovery Times Channel](https://en.wikipedia.org/wiki/Discovery_Times "Discovery Times").[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")*]
+
+The novel *[Falling Man](https://en.wikipedia.org/wiki/Falling_Man_(novel) "Falling Man (novel)")*, by [Don DeLillo](https://en.wikipedia.org/wiki/Don_DeLillo "Don DeLillo"), is about the September 11 attacks. The "falling man" in the novel is a performance artist recreating the events of the photograph. DeLillo says he was unfamiliar with the title of the picture when he named his book. The artist straps himself into a harness and jumps from an elevated structure in a high visibility area (such as a highway overpass), hanging in the pose of *The Falling Man*.
+
+In July 2022, [GameStop](https://en.wikipedia.org/wiki/GameStop "GameStop") caused controversy by allowing a [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token "Non-fungible token") titled *Falling Man* to be listed on their newly-launched [NFT platform](https://en.wikipedia.org/wiki/GameStop#NFT_platform "GameStop"). The digital image depicted an astronaut falling in a pose and background replicating Drew's photograph. The seller's description read, "This one probably fell from the [MIR station](https://en.wikipedia.org/wiki/Mir "Mir")", referencing the 1997 crash of *[Spektr](https://en.wikipedia.org/wiki/Spektr "Spektr")*. The NFT was later delisted from the platform.
+
+[Nothing](https://en.wikipedia.org/wiki/Nothing_(band) "Nothing (band)") and [Full of Hell](https://en.wikipedia.org/wiki/Full_of_Hell_(band) "Full of Hell (band)")'s collaborative album *[When No Birds Sang](https://en.wikipedia.org/wiki/When_No_Birds_Sang "When No Birds Sang")* is partly inspired by *The Falling Man*.
+
+---
+
+*Source: [Wikipedia — The Falling Man](https://en.wikipedia.org/wiki/The_Falling_Man). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
