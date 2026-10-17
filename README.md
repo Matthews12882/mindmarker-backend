@@ -1,0 +1,144 @@
+# Reading Quiz — Backend
+
+> Pick a real article, read it, and prove you understood it with an AI-generated
+> quiz. Think **Duolingo for reading comprehension** — gamified, competitive, and
+> built on real, high-quality sources instead of made-up passages.
+
+*Working title — Congressional App Challenge 2026 project.*
+
+---
+
+## The idea
+
+Most reading-comprehension tools use short, generic, artificial passages. This
+project instead uses **real articles** (starting with Wikipedia's most-read
+pages) and generates **multiple-choice quizzes** for each one with an LLM. Users
+read the article, answer the questions, get feedback and explanations, and earn
+points that feed streaks, levels and leaderboards.
+
+Design goals:
+
+- **Anyone can use it** — no account required to read and quiz; simple flow.
+- **Idea first, polish second** — the concept should be obvious within seconds.
+- **Gamified** — points, levels and streaks to make study feel like a game.
+
+## Status
+
+| Area | State |
+|------|-------|
+| Article corpus (300 articles as clean Markdown) | ✅ done |
+| `get_articles.py` downloader | ✅ done |
+| AI quiz generation | ⏳ next |
+| Backend API / database | ⏳ planned |
+| Frontend / gamification | ⏳ planned |
+
+The backend currently produces a local, self-contained corpus of articles that
+the rest of the app (quiz generation, API, UI) will build on.
+
+## Repo layout
+
+```
+congressional-app-backend-2026/
+├── get_articles.py     # downloads the most-read Wikipedia articles as Markdown
+├── articles/           # the generated corpus (300 .md files)
+│   ├── README.md       #   how to use the corpus (read this)
+│   ├── index.json      #   machine-readable manifest the backend loads
+│   └── study_XXXX_<slug>.md
+├── articles.json       # placeholder (reserved)
+├── venv/               # local virtualenv (not tracked)
+└── README.md           # this file
+```
+
+## Quick start
+
+```bash
+# 1. Create / reuse the virtualenv
+python3 -m venv venv
+./venv/bin/pip install requests beautifulsoup4 markdownify
+
+# 2. (Re)build the article corpus — ~6 min for the full run
+./venv/bin/python get_articles.py              # top 300, latest available month
+./venv/bin/python get_articles.py --limit 20   # fast sample
+
+# 3. Sanity-check the result
+./venv/bin/python -c "import json;print(json.load(open('articles/index.json'))['count'], 'articles')"
+```
+
+No API keys are needed — only free, public Wikipedia endpoints are used.
+
+## The article corpus
+
+`get_articles.py` pulls the **most-viewed English Wikipedia pages** for the
+latest published month from the Wikimedia Pageviews API, filters out non-article
+pages, downloads each article's HTML through the MediaWiki Action API, and
+converts it to clean Markdown with `markdownify`. Each file carries YAML front
+matter (id, title, url, description, summary, license, …).
+
+See **[`articles/README.md`](articles/README.md)** for the full file format, the
+cleaning rules, and copy-paste snippets for loading the corpus.
+
+## Data conventions
+
+One stable id ties an article, its quiz, and a user's progress together:
+
+```jsonc
+// article front matter
+id: study_0001
+
+// quiz JSON (generated next)
+{ "Article-ID": "study_0001", "questions": [ /* ... */ ] }
+```
+
+`articles/index.json` is the source of truth for the list of articles. The
+`pageid` field is Wikimedia's permanent page id — use it as a durable key if the
+ranking-based `study_XXXX` ids ever change.
+
+## Planned architecture
+
+- **Frontend / UI** — Streamlit (fast prototyping) or HTML; article browse +
+  random-article button, reading view, quiz view, gamified progress page.
+- **Backend / API** — Python service exposing article + quiz endpoints (JSON over
+  HTTP), containerised with Docker and reachable via a Cloudflare tunnel.
+- **Database** — PostgreSQL (Supabase-friendly). Simple, id-linked tables:
+  `content` (articles/quizzes), `users` (profile, prefs), `progress`
+  (completed articles/quizzes), `achievements` (points, level, badges).
+- **AI** — quizzes are **pre-generated** in a batch job and stored, not created
+  on the fly (faster and far cheaper at request time).
+
+## Tech stack
+
+| Layer | Choice |
+|-------|--------|
+| Language | Python |
+| Article fetching | `requests`, `beautifulsoup4`, `markdownify` |
+| Data source | Wikipedia Pageviews + MediaWiki Action APIs (free) |
+| Database | PostgreSQL / Supabase (planned) |
+| Packaging | Docker (planned) |
+
+## Roadmap
+
+- [ ] Generate + review a batch of quizzes from the corpus (AI pipeline)
+- [ ] Define and store the article/quiz schema in PostgreSQL
+- [ ] Build the API (random article, get article + quiz, submit answers)
+- [ ] Gamification: points, levels, streaks, badges
+- [ ] Streamlit frontend: browse → read → quiz → results
+
+## Team
+
+| Person | Focus |
+|--------|-------|
+| Matthew | Backend, API config, data schemas |
+| Kyle | Frontend / UI, article & quiz screens |
+| Quinn | Gamification and "juice" (points, levels, streaks) |
+
+## Licensing & attribution
+
+Article text is from Wikipedia under
+**[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Every
+corpus file links back to its source article for attribution — keep that source
+link (and the license notice) visible in the app, for example on the article
+page, to stay compliant.
+
+Because the corpus is the "most-viewed" ranking, it includes current-events,
+entertainment and true-crime pages. Filter these before showing them to users
+(by `description`/title in `index.json`), or swap in a curated topic list.
