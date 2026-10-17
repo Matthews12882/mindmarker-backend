@@ -1,0 +1,186 @@
+---
+id: study_0094
+title: "Tool"
+rank: 94
+level: 2
+topic: "Technology"
+url: "https://en.wikipedia.org/wiki/Tool"
+pageid: 30677
+description: "Object used to achieve a goal"
+summary: ""
+source: Wikipedia
+source_list: "Wikipedia:Vital articles"
+license: "CC BY-SA 4.0"
+retrieved: 2026-10-17
+---
+
+# Tool
+
+A **tool** is an [object](https://en.wikipedia.org/wiki/Physical_object "Physical object") that can extend an individual's ability to modify features of the surrounding environment or help them accomplish a particular task, and proto-typically refers to solid hand-operated non-biological objects with a single broad purpose that lack multiple functions, unlike [machines](https://en.wikipedia.org/wiki/Machine "Machine") or [computers](https://en.wikipedia.org/wiki/Computer "Computer"). Although human beings are proportionally most active in using and making tools in the animal kingdom, as use of [stone tools](https://en.wikipedia.org/wiki/Stone_tool "Stone tool") dates back hundreds of millennia, and also in using tools to make other tools, [many animals have demonstrated tool use](https://en.wikipedia.org/wiki/Tool_use_by_non-humans "Tool use by non-humans") in both instances.
+
+Early human tools, made of such materials as [stone](https://en.wikipedia.org/wiki/Rock_(geology) "Rock (geology)"), [bone](https://en.wikipedia.org/wiki/Bone "Bone"), and [wood](https://en.wikipedia.org/wiki/Wood "Wood"), were used for the preparation of [food](https://en.wikipedia.org/wiki/Food "Food"), [hunting](https://en.wikipedia.org/wiki/Hunting "Hunting"), the manufacture of [weapons](https://en.wikipedia.org/wiki/Weapon "Weapon"), and the working of materials to produce [clothing](https://en.wikipedia.org/wiki/Clothing "Clothing") and useful [artifacts](https://en.wikipedia.org/wiki/Cultural_artifact "Cultural artifact") and [crafts](https://en.wikipedia.org/wiki/Craft "Craft") such as [pottery](https://en.wikipedia.org/wiki/Pottery "Pottery"), along with the construction of [housing](https://en.wikipedia.org/wiki/Housing "Housing"), [businesses](https://en.wikipedia.org/wiki/Business "Business"), [infrastructure](https://en.wikipedia.org/wiki/Infrastructure "Infrastructure"), and [transportation](https://en.wikipedia.org/wiki/Transport "Transport"). The development of [metalworking](https://en.wikipedia.org/wiki/Metalworking "Metalworking") made additional types of tools possible. Harnessing [energy sources](https://en.wikipedia.org/wiki/Energy_source "Energy source"), such as [animal power](https://en.wikipedia.org/wiki/Working_animal "Working animal"), [wind](https://en.wikipedia.org/wiki/Wind "Wind"), or [steam](https://en.wikipedia.org/wiki/Steam "Steam"), allowed increasingly complex tools to produce an even larger range of items, with the [Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution "Industrial Revolution") marking an inflection point in the use of tools. The introduction of widespread [automation](https://en.wikipedia.org/wiki/Automation "Automation") in the 19th and 20th centuries allowed tools to operate with minimal human supervision, further increasing the productivity of [human labor](https://en.wikipedia.org/wiki/Work_(human_activity) "Work (human activity)"). By extension, [concepts](https://en.wikipedia.org/wiki/Concept "Concept") that support systematic or investigative thought are often referred to as "tools" or "toolkits".
+
+## Definition
+
+While a common-sense understanding of the meaning of tool is widespread, several formal definitions have been proposed.
+
+In 1981, Benjamin Beck published a widely used definition of tool use. This has been modified to:
+
+> The external employment of an unattached or manipulable attached environmental object to alter more efficiently the form, position, or condition of another object, another organism, or the user itself, when the user holds and directly manipulates the tool during or prior to use and is responsible for the proper and effective orientation of the tool.
+
+Other, briefer definitions have been proposed:
+
+> An object carried or maintained for future use.
+
+— Finn, Tregenza, and Norman, 2009.
+
+> The use of physical objects other than the animal's own body or appendages as a means to extend the physical influence realized by the animal.
+
+— Jones and Kamil, 1973
+
+> An object that has been modified to fit a purpose ... [or] An inanimate object that one uses or modifies in some way to cause a change in the environment, thereby facilitating one's achievement of a target goal.
+
+— Hauser, 2000
+
+## History
+
+[Anthropologists](https://en.wikipedia.org/wiki/Anthropology "Anthropology") believe that the use of tools was an important step in the [evolution of humankind](https://en.wikipedia.org/wiki/Human_evolution "Human evolution"). Because tools are used extensively by both humans (Homo sapiens) and wild [chimpanzees](https://en.wikipedia.org/wiki/Common_chimpanzee "Common chimpanzee"), it is widely assumed that the first routine use of tools took place prior to the divergence between the two [ape](https://en.wikipedia.org/wiki/Ape "Ape") species. These early tools, however, were likely made of perishable materials such as sticks, or consisted of unmodified stones that cannot be distinguished from other stones as tools.
+
+Stone artifacts date back to about 2.5 million years ago. However, a 2010 study suggests the [hominin](https://en.wikipedia.org/wiki/Hominin "Hominin") species *[Australopithecus afarensis](https://en.wikipedia.org/wiki/Australopithecus_afarensis "Australopithecus afarensis")* ate meat by carving animal [carcasses](https://en.wikipedia.org/wiki/Carcasses_of_animals "Carcasses of animals") with stone implements. This finding pushes back the earliest known use of stone tools among hominins to about 3.4 million years ago. Finds of actual tools date back at least 2.6 million years in [Ethiopia](https://en.wikipedia.org/wiki/Ethiopia "Ethiopia"). One of the earliest distinguishable stone tool forms is the [hand axe](https://en.wikipedia.org/wiki/Hand_axe "Hand axe").
+
+Up until recently, weapons found in digs were the only tools of early humans that were studied and given importance. Now, more tools are recognized as culturally and historically relevant. As well as hunting, other activities required tools such as preparing food, "...nutting, [leatherworking](https://en.wikipedia.org/wiki/Leather_crafting "Leather crafting"), grain harvesting and woodworking..." Included in this group are "flake stone tools".
+
+Tools are the most important items that the ancient humans used to climb to the top of the [food chain](https://en.wikipedia.org/wiki/Food_chain "Food chain"); by inventing tools, they were able to accomplish tasks that human bodies could not, such as using a [spear](https://en.wikipedia.org/wiki/Spear "Spear") or [bow](https://en.wikipedia.org/wiki/Bow_and_arrow "Bow and arrow") to kill [prey](https://en.wikipedia.org/wiki/Predation "Predation"), since their teeth were not sharp enough to pierce many animals' skins. "Man the hunter" as the catalyst for Hominin change has been questioned. Based on marks on the bones at archaeological sites, it is now more evident that pre-humans were scavenging off of other predators' carcasses rather than killing their own food. Early humans progressively invented tools and techniques for trapping animals.
+
+### Timeline of ancient tool development
+
+Many tools were made in [prehistory](https://en.wikipedia.org/wiki/Prehistory "Prehistory") or in the early centuries of recorded history, but archaeological evidence can provide dates of development and use.
+
+* [Olduvai](https://en.wikipedia.org/wiki/Olduvai_Gorge "Olduvai Gorge") [stone technology](https://en.wikipedia.org/wiki/Stone_tool "Stone tool") ([Oldowan](https://en.wikipedia.org/wiki/Oldowan "Oldowan")) 2.5 million years ago (scrapers; to butcher dead animals)
+* [Huts](https://en.wikipedia.org/wiki/Hut "Hut"), 2 million years ago.
+* [Acheulean](https://en.wikipedia.org/wiki/Acheulean "Acheulean") stone technology 1.6 million years ago (hand axe)
+* [Fire](https://en.wikipedia.org/wiki/Fire "Fire") creation and manipulation, used since the [Paleolithic](https://en.wikipedia.org/wiki/Paleolithic "Paleolithic"), possibly by [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus "Homo erectus") as early as [1.5 Million years ago](https://en.wikipedia.org/wiki/Orders_of_magnitude_(time) "Orders of magnitude (time)")
+* [Boats](https://en.wikipedia.org/wiki/Boat "Boat"), 900,000 years ago.
+* [Cooking](https://en.wikipedia.org/wiki/Cooking "Cooking"), 500,000 years ago.
+* [Javelins](https://en.wikipedia.org/wiki/Javelin "Javelin"), 400,000 years ago.
+* [Glue](https://en.wikipedia.org/wiki/Adhesive "Adhesive"), 200,000 years ago.
+* [Clothing](https://en.wikipedia.org/wiki/Clothing "Clothing") possibly 170,000 years ago.
+* [Stone tools](https://en.wikipedia.org/wiki/Stone_tool "Stone tool"), used by [Homo floresiensis](https://en.wikipedia.org/wiki/Homo_floresiensis "Homo floresiensis"), possibly [100,000 years ago](https://en.wikipedia.org/wiki/Orders_of_magnitude_(time) "Orders of magnitude (time)").
+* [Harpoons](https://en.wikipedia.org/wiki/Harpoon "Harpoon"), 90,000 years ago.
+* [Bow and arrows](https://en.wikipedia.org/wiki/Bow_and_arrow "Bow and arrow"), 70,000–60,000 years ago.
+* [Sewing needles](https://en.wikipedia.org/wiki/Sewing_needle "Sewing needle"), 60,000 – 50,000 BC
+* [Flutes](https://en.wikipedia.org/wiki/Flute "Flute"), 43,000 years ago.
+* [Fishing nets](https://en.wikipedia.org/wiki/Fishing_net "Fishing net"), 43,000 years ago.
+* [Ropes](https://en.wikipedia.org/wiki/Rope "Rope"), 40,000 years ago.
+* [Ceramics](https://en.wikipedia.org/wiki/Ceramic "Ceramic") c. 25,000 BC
+* [Fishing hooks](https://en.wikipedia.org/wiki/Fish_hook "Fish hook"), c. 23,000 years ago.
+* [Domestication](https://en.wikipedia.org/wiki/Domestication "Domestication") of animals, c. 15,000 BC
+* [Sling (weapon)](https://en.wikipedia.org/wiki/Sling_(weapon) "Sling (weapon)") c. 9th millennium BC
+* [Microliths](https://en.wikipedia.org/wiki/Microlith "Microlith") c. 9th millennium BC
+* [Brick](https://en.wikipedia.org/wiki/Brick "Brick") used for construction in the Middle East c. 6000 BC
+* [Agriculture](https://en.wikipedia.org/wiki/Agriculture "Agriculture") and [Plough](https://en.wikipedia.org/wiki/Plough "Plough") c. 4000 BC
+* [Wheel](https://en.wikipedia.org/wiki/Wheel "Wheel") c. 4000 BC
+* [Gnomon](https://en.wikipedia.org/wiki/Gnomon "Gnomon") c. 4000 BC
+* [Writing systems](https://en.wikipedia.org/wiki/Writing_system "Writing system") c. 3500 BC
+* [Copper](https://en.wikipedia.org/wiki/Copper "Copper") c. 3200 BC
+* [Bronze](https://en.wikipedia.org/wiki/Bronze "Bronze") c. 2500 BC
+* [Salt](https://en.wikipedia.org/wiki/Salt "Salt") c. 2500 BC
+* [Chariot](https://en.wikipedia.org/wiki/Chariot "Chariot") c. 2000 BC
+* [Iron](https://en.wikipedia.org/wiki/Iron "Iron") c. 1500 BC
+* [Sundial](https://en.wikipedia.org/wiki/Sundial "Sundial") c. 800 BC
+* [Glass](https://en.wikipedia.org/wiki/Glass "Glass") c. 500 BC
+* [Catapult](https://en.wikipedia.org/wiki/Catapult "Catapult") c. 400 BC
+* [Cast iron](https://en.wikipedia.org/wiki/Cast_iron "Cast iron") c. 400 BC
+* [Horseshoe](https://en.wikipedia.org/wiki/Horseshoe "Horseshoe") c. 300 BC
+* [Stirrup](https://en.wikipedia.org/wiki/Stirrup "Stirrup") first few centuries AD
+
+Several of the six classic [simple machines](https://en.wikipedia.org/wiki/Simple_machines "Simple machines") ([wheel and axle](https://en.wikipedia.org/wiki/Wheel_and_axle "Wheel and axle"), [lever](https://en.wikipedia.org/wiki/Lever "Lever"), [pulley](https://en.wikipedia.org/wiki/Pulley "Pulley"), [inclined plane](https://en.wikipedia.org/wiki/Inclined_plane "Inclined plane"), [wedge](https://en.wikipedia.org/wiki/Wedge "Wedge"), and [screw](https://en.wikipedia.org/wiki/Screw_mechanism "Screw mechanism")) were invented in [Mesopotamia](https://en.wikipedia.org/wiki/Mesopotamia "Mesopotamia"). The wheel and axle mechanism first appeared with the [potter's wheel](https://en.wikipedia.org/wiki/Potter%27s_wheel "Potter's wheel"), invented in what is now Iraq during the 5th millennium BC. This led to the invention of the [wheeled vehicle](https://en.wikipedia.org/wiki/Wheeled_vehicle "Wheeled vehicle") in Mesopotamia during the early 4th millennium BC. The [lever](https://en.wikipedia.org/wiki/Lever "Lever") was used in the [shadoof](https://en.wikipedia.org/wiki/Shadoof "Shadoof") water-lifting device, the first crane machine, which appeared in Mesopotamia c. 3000 BC, and then in ancient Egyptian technology c. 2000 BC. The earliest evidence of [pulleys](https://en.wikipedia.org/wiki/Pulley "Pulley") date back to Mesopotamia in the early 2nd millennium BC.
+
+The [screw](https://en.wikipedia.org/wiki/Screw_(simple_machine) "Screw (simple machine)"), the last of the simple machines to be invented, first appeared in Mesopotamia during the [Neo-Assyrian](https://en.wikipedia.org/wiki/Neo-Assyrian "Neo-Assyrian") period (911–609 BC). The Assyrian King [Sennacherib](https://en.wikipedia.org/wiki/Sennacherib "Sennacherib") (704–681 BC) claims to have invented automatic sluices and to have been the first to use water [screw pumps](https://en.wikipedia.org/wiki/Screw_pump "Screw pump"), of up to 30 tons weight, which were cast using two-part clay molds rather than by the '[lost wax](https://en.wikipedia.org/wiki/Lost-wax_casting "Lost-wax casting")' process. The Jerwan Aqueduct (c. 688 BC) is made with stone arches and lined with waterproof concrete. The earliest evidence of [water wheels](https://en.wikipedia.org/wiki/Water_wheel "Water wheel") and [watermills](https://en.wikipedia.org/wiki/Watermill "Watermill") date back to the [ancient Near East](https://en.wikipedia.org/wiki/Ancient_Near_East "Ancient Near East") in the 4th century BC, specifically in the [Persian Empire](https://en.wikipedia.org/wiki/Persian_Empire "Persian Empire") before 350 BC, in the regions of Mesopotamia (Iraq) and [Persia](https://en.wikipedia.org/wiki/Persia "Persia") (Iran). This pioneering use of [water power](https://en.wikipedia.org/wiki/Water_power "Water power") constituted perhaps the first use of [mechanical energy](https://en.wikipedia.org/wiki/Mechanical_energy "Mechanical energy"). The [screwdriver](https://en.wikipedia.org/wiki/Screwdriver "Screwdriver") for driving fastening screws was, however, not invented until the late 15th century.
+
+[Mechanical](https://en.wikipedia.org/wiki/Mechanics "Mechanics") devices experienced a major expansion in their use in [Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece "Ancient Greece") and [Ancient Rome](https://en.wikipedia.org/wiki/Ancient_Rome "Ancient Rome") with the systematic employment of new energy sources, especially [waterwheels](https://en.wikipedia.org/wiki/Waterwheel "Waterwheel"). Their use expanded through the [Dark Ages](https://en.wikipedia.org/wiki/Dark_Ages_(historiography) "Dark Ages (historiography)") with the addition of [windmills](https://en.wikipedia.org/wiki/Windmill "Windmill").
+
+### Machine tools
+
+[Machine tools](https://en.wikipedia.org/wiki/Machine_tool "Machine tool") occasioned a surge in producing new tools in the [Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution "Industrial Revolution"). Pre-industrial machinery was built by various crafters—[millwrights](https://en.wikipedia.org/wiki/Millwright "Millwright") built water and windmills, [carpenters](https://en.wikipedia.org/wiki/Carpenter "Carpenter") made wooden framing, and smiths and turners made metal parts. Wooden components had the disadvantage of changing dimensions with temperature and humidity, and the various joints tended to rack (work loose) over time. As the Industrial Revolution progressed, machines with metal parts and frames became more common.
+
+Other important uses of metal parts were in firearms and threaded fasteners, such as machine screws, bolts, and nuts. There was also the need for precision in making parts. Precision would allow better working machinery, interchangeability of parts, and standardization of threaded fasteners. The demand for metal parts led to the development of several [machine tools](https://en.wikipedia.org/wiki/Machine_tool "Machine tool"). They have their origins in the tools developed in the 18th century by makers of clocks and watches and scientific instrument makers to enable them to batch-produce small mechanisms. Before the advent of machine tools, metal was worked manually using the basic hand tools of hammers, files, scrapers, saws, and chisels. Consequently, the use of metal machine parts was kept to a minimum. Hand methods of production were very laborious and costly and precision was difficult to achieve. With their inherent precision, machine tools enabled the economical production of [interchangeable parts](https://en.wikipedia.org/wiki/Interchangeable_parts "Interchangeable parts").
+
+Examples of machine tools include:
+
+* [Broaching machine](https://en.wikipedia.org/wiki/Broach_(metalwork) "Broach (metalwork)")
+* [Drill press](https://en.wikipedia.org/wiki/Drill_press "Drill press")
+* [Gear shaper](https://en.wikipedia.org/wiki/Gear_shaper "Gear shaper")
+* [Hobbing machine](https://en.wikipedia.org/wiki/Hobbing_machine "Hobbing machine")
+* [Hone](https://en.wikipedia.org/wiki/Honing_(metalworking) "Honing (metalworking)")
+* [Lathe](https://en.wikipedia.org/wiki/Lathe_(tool) "Lathe (tool)")
+* [Screw machines](https://en.wikipedia.org/wiki/Screw_machine_(automatic_lathe) "Screw machine (automatic lathe)")
+* [Milling machine](https://en.wikipedia.org/wiki/Milling_machine "Milling machine")
+* [Shear (sheet metal)](https://en.wikipedia.org/wiki/Shear_(sheet_metal) "Shear (sheet metal)")
+* [Shaper](https://en.wikipedia.org/wiki/Shaper "Shaper")
+* [Bandsaw](https://en.wikipedia.org/wiki/Bandsaw "Bandsaw")
+* [Planer](https://en.wikipedia.org/wiki/Planer_(metalworking) "Planer (metalworking)")
+* [Stewart platform](https://en.wikipedia.org/wiki/Stewart_platform "Stewart platform") mills
+* [Grinding machines](https://en.wikipedia.org/wiki/Grinding_machine "Grinding machine")
+
+Advocates of [nanotechnology](https://en.wikipedia.org/wiki/Nanotechnology "Nanotechnology") expect a similar surge as tools become microscopic in size.
+
+## Types
+
+One can classify tools according to their basic functions:
+
+* [Cutting](https://en.wikipedia.org/wiki/Cutting "Cutting") and edge tools, such as the [knife](https://en.wikipedia.org/wiki/Knife "Knife"), [sickle](https://en.wikipedia.org/wiki/Sickle "Sickle"), [scythe](https://en.wikipedia.org/wiki/Scythe "Scythe"), [hatchet](https://en.wikipedia.org/wiki/Hatchet "Hatchet"), and [axe](https://en.wikipedia.org/wiki/Axe "Axe"), are wedge-shaped implements that produce a [shearing force](https://en.wikipedia.org/wiki/Shear_stress "Shear stress") along a narrow face. Ideally, the edge of the tool needs to be [harder](https://en.wikipedia.org/wiki/Hardness "Hardness") than the material being cut or the blade will become dulled with repeated use. But even resilient tools will require periodic [sharpening](https://en.wikipedia.org/wiki/Sharpening "Sharpening"), which is the process of removing deformation wear from the edge. Other examples of cutting tools include [gouges](https://en.wikipedia.org/wiki/Gouge_(chisel) "Gouge (chisel)") and [drill bits](https://en.wikipedia.org/wiki/Drill_bit "Drill bit").
+* Moving tools move large and tiny items. Many are [levers](https://en.wikipedia.org/wiki/Lever "Lever") which give the user a [mechanical advantage](https://en.wikipedia.org/wiki/Mechanical_advantage "Mechanical advantage"). Examples of force-concentrating tools include the [hammer](https://en.wikipedia.org/wiki/Hammer "Hammer") which moves a nail or the [maul](https://en.wikipedia.org/wiki/Post_maul "Post maul") which moves a stake. These operate by applying [physical compression](https://en.wikipedia.org/wiki/Compression_(physical) "Compression (physical)") to a surface. In the case of the [screwdriver](https://en.wikipedia.org/wiki/Screwdriver "Screwdriver"), the force is rotational and called [torque](https://en.wikipedia.org/wiki/Torque "Torque"). By contrast, an [anvil](https://en.wikipedia.org/wiki/Anvil "Anvil") concentrates force on an object being hammered by *preventing* it from moving away when struck. [Writing implements](https://en.wikipedia.org/wiki/Writing_implement "Writing implement") deliver a fluid to a surface via compression to activate the ink cartridge. Grabbing and twisting nuts and bolts with [pliers](https://en.wikipedia.org/wiki/Pliers "Pliers"), a glove, a [wrench](https://en.wikipedia.org/wiki/Wrench "Wrench"), etc. likewise move items by applying torque (rotational force).
+* Tools that enact chemical changes, including temperature and ignition, such as [lighters](https://en.wikipedia.org/wiki/Lighter "Lighter") and [blowtorches](https://en.wikipedia.org/wiki/Blowtorch "Blowtorch").
+* Guiding, measuring and perception tools include the [ruler](https://en.wikipedia.org/wiki/Ruler "Ruler"), [glasses](https://en.wikipedia.org/wiki/Glasses "Glasses"), [square](https://en.wikipedia.org/wiki/Square_(tool) "Square (tool)"), [sensors](https://en.wikipedia.org/wiki/Sensor "Sensor"), [straightedge](https://en.wikipedia.org/wiki/Straightedge "Straightedge"), [theodolite](https://en.wikipedia.org/wiki/Theodolite "Theodolite"), [microscope](https://en.wikipedia.org/wiki/Microscope "Microscope"), [monitor](https://en.wikipedia.org/wiki/Computer_monitor "Computer monitor"), [clock](https://en.wikipedia.org/wiki/Clock "Clock"), [phone](https://en.wikipedia.org/wiki/Phone "Phone"), [printer](https://en.wikipedia.org/wiki/Printer_(computing) "Printer (computing)")
+* Shaping tools, such as [molds](https://en.wikipedia.org/wiki/Molding_(process) "Molding (process)"), [jigs](https://en.wikipedia.org/wiki/Jig_(tool) "Jig (tool)"), [trowels](https://en.wikipedia.org/wiki/Trowel "Trowel").
+* Fastening tools, such as [welders](https://en.wikipedia.org/wiki/Welder "Welder"), [soldering irons](https://en.wikipedia.org/wiki/Soldering_iron "Soldering iron"), [rivet guns](https://en.wikipedia.org/wiki/Rivet_gun "Rivet gun"), [nail guns](https://en.wikipedia.org/wiki/Nail_gun "Nail gun"), or [glue guns](https://en.wikipedia.org/wiki/Glue_gun "Glue gun").
+* Information and data manipulation tools, such as [computers](https://en.wikipedia.org/wiki/Computer "Computer"), [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment "Integrated development environment"), [spreadsheets](https://en.wikipedia.org/wiki/Spreadsheet "Spreadsheet")
+
+Some tools may be combinations of other tools. An alarm-clock is for example a combination of a measuring tool (the clock) and a perception tool (the alarm). This enables the alarm-clock to be a tool that falls outside of all the categories mentioned above.
+
+There is some debate on whether to consider protective gear items as tools, because they do not directly help perform work, just protect the worker like ordinary clothing. They do meet the general definition of tools and in many cases are necessary for the completion of the work. [Personal protective equipment](https://en.wikipedia.org/wiki/Personal_protective_equipment "Personal protective equipment") includes such items as [gloves](https://en.wikipedia.org/wiki/Glove "Glove"), [safety glasses](https://en.wikipedia.org/wiki/Safety_glasses "Safety glasses"), [ear defenders](https://en.wikipedia.org/wiki/Earplug "Earplug") and [biohazard](https://en.wikipedia.org/wiki/Biohazard "Biohazard") suits.
+
+## Function
+
+### Tool substitution
+
+Often, by design or coincidence, a tool may share key functional attributes with one or more other tools. In this case, some tools can substitute for other tools, either as a makeshift solution or as a matter of practical efficiency. "One tool does it all" is a motto of some importance for workers who cannot practically carry every specialized tool to the location of every work task, such as a carpenter who does not necessarily work in a shop all day and needs to do jobs in a customer's house. Tool substitution may be divided broadly into two classes: substitution "by-design", or "multi-purpose", and substitution as makeshift. Substitution "by-design" would be tools that are designed specifically to accomplish multiple tasks using only that one tool.
+
+Substitution is "makeshift" when human ingenuity comes into play and a tool is used for an unintended purpose, such as using a long screwdriver to separate a cars control arm from a ball joint, instead of using a tuning fork. In many cases, the designed secondary functions of tools are not widely known. For example, many wood-cutting [hand saws](https://en.wikipedia.org/wiki/Hand_saws "Hand saws") integrate a [square](https://en.wikipedia.org/wiki/Square_(tool) "Square (tool)") by incorporating a specially-shaped handle, that allows 90° and 45° angles to be marked by aligning the appropriate part of the handle with an edge, and scribing along the back edge of the saw. The latter is illustrated by the saying "All tools can be used as hammers". Nearly all tools can be used to function as a hammer, even though few tools are intentionally designed for it and even fewer work as well as the original.
+
+Tools are often used to substitute for many mechanical apparatuses, especially in older mechanical devices. In many cases a cheap tool could be used to occupy the place of a missing mechanical part. A window roller in a car could be replaced with [pliers](https://en.wikipedia.org/wiki/Pliers "Pliers"). A transmission shifter or ignition switch would be able to be replaced with a screwdriver. Again, these would be considered tools that are being used for their unintended purposes, substitution as makeshift. Tools such as a [rotary tool](https://en.wikipedia.org/wiki/Rotary_tool "Rotary tool") would be considered the substitution "by-design", or "multi-purpose". This class of tools allows the use of one tool that has at least two different capabilities. "Multi-purpose" tools are basically multiple tools in one device/tool. Tools such as this are often power tools that come with many different attachments like a rotary tool does, so one could say that a power drill is a "multi-purpose" tool.
+
+### Multi-use tools
+
+A multi-tool is a hand tool that incorporates several tools into a single, portable device; the [Swiss Army knife](https://en.wikipedia.org/wiki/Swiss_Army_knife "Swiss Army knife") represents one of the earliest examples. Other tools have a primary purpose but also incorporate other functionality – for example, [lineman's pliers](https://en.wikipedia.org/wiki/Lineman%27s_pliers "Lineman's pliers") incorporate a gripper and cutter and are often used as a hammer; and some [hand saws](https://en.wikipedia.org/wiki/Hand_saw "Hand saw") incorporate a [square](https://en.wikipedia.org/wiki/Square_(tool) "Square (tool)") in the right-angle between the blade's dull edge and the saw's handle. This would also be the category of "multi-purpose" tools, since they are also multiple tools in one (multi-use and multi-purpose can be used interchangeably – compare [hand axe](https://en.wikipedia.org/wiki/Hand_axe "Hand axe")). These types of tools were specifically made to catch the eye of many different crafters who traveled to do their work. To these workers these types of tools were revolutionary because they were one tool or one device that could do several different things. With this new revolution of tools, the traveling crafter would not have to carry so many tools with them to job sites, in that their space would be limited to the vehicle or to the beast of burden they were driving. Multi-use tools solve the problem of having to deal with many different tools.
+
+## Use by other animals
+
+Tool use by animals is a phenomenon in which an animal uses any kind of tool in order to achieve a goal such as acquiring food and water, [grooming](https://en.wikipedia.org/wiki/Personal_grooming "Personal grooming"), defense, [communication](https://en.wikipedia.org/wiki/Animal_communication "Animal communication"), [recreation](https://en.wikipedia.org/wiki/Play_(activity) "Play (activity)") or [construction](https://en.wikipedia.org/wiki/Animal_architecture "Animal architecture"). Originally thought to be a skill possessed only by [humans](https://en.wikipedia.org/wiki/Human "Human"), some tool use requires a sophisticated level of cognition. There is considerable discussion about the definition of what constitutes a tool and therefore which behaviours can be considered true examples of tool use. Observation has confirmed that [a number of species can use tools](https://en.wikipedia.org/wiki/Tool_use_by_non-humans "Tool use by non-humans") including [monkeys](https://en.wikipedia.org/wiki/Monkey "Monkey"), [apes](https://en.wikipedia.org/wiki/Ape "Ape"), [elephants](https://en.wikipedia.org/wiki/Elephant "Elephant"), several birds, and [sea otters](https://en.wikipedia.org/wiki/Sea_otter "Sea otter"). Now the unique relationship of [humans](https://en.wikipedia.org/wiki/Human "Human") with tools is considered to be that we are the only species that uses tools to make *other* tools.
+
+[Primates](https://en.wikipedia.org/wiki/Primates "Primates") are well known for using tools for hunting or gathering food and water, cover for rain, and self-defense. Chimpanzees have often been the object of study in regard to their usage of tools, most famously by [Jane Goodall](https://en.wikipedia.org/wiki/Jane_Goodall "Jane Goodall"); these animals are closely related to humans. Wild tool-use in other primates, especially among [apes](https://en.wikipedia.org/wiki/Ape "Ape") and [monkeys](https://en.wikipedia.org/wiki/Monkeys "Monkeys"), is considered relatively common, though its full extent remains poorly documented, as many primates in the wild are mainly only observed distantly or briefly when in their natural environments and living without human influence. Some novel tool-use by primates may arise in a localized or isolated manner within certain unique [primate cultures](https://en.wikipedia.org/wiki/Animal_culture "Animal culture"), being transmitted and practiced among socially connected primates through [cultural learning](https://en.wikipedia.org/wiki/Cultural_learning#In_non-human_animals "Cultural learning"). Many famous researchers, such as [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin "Charles Darwin") in his book *[The Descent of Man](https://en.wikipedia.org/wiki/The_Descent_of_Man "The Descent of Man")*, mentioned tool-use in [monkeys](https://en.wikipedia.org/wiki/Monkey "Monkey") (such as [baboons](https://en.wikipedia.org/wiki/Baboon "Baboon")).
+
+Among other [mammals](https://en.wikipedia.org/wiki/Mammals "Mammals"), both wild and captive [elephants](https://en.wikipedia.org/wiki/Elephant "Elephant") are known to create tools using their trunks and feet, mainly for swatting flies, scratching, plugging up waterholes that they have dug (to close them up again so the water does not evaporate), and reaching food that is out of reach. Many other [social mammals](https://en.wikipedia.org/wiki/Social_animals "Social animals") particularly have been observed engaging in tool-use. A group of [dolphins](https://en.wikipedia.org/wiki/Dolphin "Dolphin") in [Shark Bay](https://en.wikipedia.org/wiki/Shark_Bay "Shark Bay") uses [sea sponges](https://en.wikipedia.org/wiki/Sea_sponge "Sea sponge") to protect their beaks while foraging. [Sea otters](https://en.wikipedia.org/wiki/Sea_otters "Sea otters") will use rocks or other hard objects to dislodge food (such as [abalone](https://en.wikipedia.org/wiki/Abalone "Abalone")) and break open [shellfish](https://en.wikipedia.org/wiki/Shellfish "Shellfish"). Many or most mammals of the order [Carnivora](https://en.wikipedia.org/wiki/Carnivora "Carnivora") have been observed using tools, often to trap or break open the shells of prey, as well as for scratching.
+
+[Corvids](https://en.wikipedia.org/wiki/Corvid "Corvid") (such as [crows](https://en.wikipedia.org/wiki/Crow "Crow"), [ravens](https://en.wikipedia.org/wiki/Raven_(bird) "Raven (bird)") and [rooks](https://en.wikipedia.org/wiki/Rook_(bird) "Rook (bird)")) are well known for their large brains (among [birds](https://en.wikipedia.org/wiki/Birds "Birds")) and tool use. [New Caledonian crows](https://en.wikipedia.org/wiki/New_Caledonian_crow "New Caledonian crow") are among the only animals that create their own tools. They mainly manufacture probes out of twigs and wood (and sometimes metal wire) to catch or impale [larvae](https://en.wikipedia.org/wiki/Larva "Larva"). Tool use in some birds may be best exemplified in nest intricacy. [Tailorbirds](https://en.wikipedia.org/wiki/Tailorbird "Tailorbird") manufacture 'pouches' to make their nests in. Some birds, such as [weaver birds](https://en.wikipedia.org/wiki/Weaver_bird "Weaver bird"), build complex nests utilizing a diverse array of objects and materials, many of which are specifically chosen by certain birds for their unique qualities. [Woodpecker finches](https://en.wikipedia.org/wiki/Woodpecker_finch "Woodpecker finch") insert twigs into trees in order to catch or impale larvae. [Parrots](https://en.wikipedia.org/wiki/Parrots "Parrots") may use tools to wedge nuts so that they can crack open the outer shell of nuts without launching away the inner contents. Some birds take advantage of human activity, such as [carrion crows](https://en.wikipedia.org/wiki/Carrion_crow "Carrion crow") in Japan, which drop nuts in front of cars to crack them open.
+
+Several species of [fish](https://en.wikipedia.org/wiki/Fish "Fish") use tools to hunt and crack open shellfish, extract food that is out of reach, or clear an area for nesting. Among cephalopods (and perhaps uniquely or to an extent unobserved among [invertebrates](https://en.wikipedia.org/wiki/Invertebrates "Invertebrates")), [octopuses](https://en.wikipedia.org/wiki/Octopus "Octopus") are known to use tools relatively frequently, such as gathering coconut shells to create a shelter or using rocks to create barriers.
+
+## Non-material usage
+
+By extension, [concepts](https://en.wikipedia.org/wiki/Concept "Concept") which support systematic or investigative thought are often referred to as "tools", for example Vanessa Dye refers to "tools of reflection" and "tools to help sharpen your professional practice" for trainee teachers, illustrating the connection between physical and conceptual tools by quoting the French scientist [Claude Bernaud](https://en.wikipedia.org/wiki/Claude_Bernard "Claude Bernard"):
+
+> we must change [our ideas] when they have served their purpose, as we change a blunt [lancet](https://en.wikipedia.org/wiki/Lancet_(surgery) "Lancet (surgery)") that we have used long enough.
+
+Similarly, a [decision-making](https://en.wikipedia.org/wiki/Decision-making "Decision-making") process "developed to help women and their partners make confident and informed decisions when planning where to give birth" is described as a "Birth Choice tool":
+
+> The tool encourages women to consider out-of-hospital settings where appropriate,
+
+and the idea of a "toolkit" is used by the [International Labour Organization](https://en.wikipedia.org/wiki/International_Labour_Organization "International Labour Organization") to describe a set of processes applicable to improving global [labour relations](https://en.wikipedia.org/wiki/Labour_relations "Labour relations").
+
+A telephone is a communication tool that interfaces between two people engaged in conversation at one level. It also interfaces between each user and the communication network at another level. It is in the domain of media and communications technology that a counter-intuitive aspect of our relationships with our tools first began to gain popular recognition. [John M. Culkin](https://en.wikipedia.org/wiki/John_M._Culkin "John M. Culkin") famously said, "We shape our tools and thereafter our tools shape us". One set of scholars expanded on this to say: "Humans create inspiring and empowering technologies but also are influenced, augmented, manipulated, and even imprisoned by technology".
+
+---
+
+*Source: [Wikipedia — Tool](https://en.wikipedia.org/wiki/Tool). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

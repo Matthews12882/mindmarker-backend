@@ -1,0 +1,298 @@
+---
+id: study_0153
+title: "Rumi"
+rank: 153
+level: 3
+topic: "People"
+url: "https://en.wikipedia.org/wiki/Rumi"
+pageid: 16433
+description: "Sufi mystic and poet (1207–1273)"
+summary: ""
+source: Wikipedia
+source_list: "Wikipedia:Vital articles"
+license: "CC BY-SA 4.0"
+retrieved: 2026-10-17
+---
+
+# Rumi
+
+**Jalāl al-Dīn Muḥammad Rūmī** (30 September 1207 – 17 December 1273), commonly known as **Rumi**, was a [Sufi](https://en.wikipedia.org/wiki/Sufi "Sufi") [mystic](https://en.wikipedia.org/wiki/Mysticism "Mysticism"), [poet](https://en.wikipedia.org/wiki/Iranian_poetry "Iranian poetry"), and founder of the [Islamic](https://en.wikipedia.org/wiki/Islam "Islam") [brotherhood](https://en.wikipedia.org/wiki/Tariqa "Tariqa") known as the [Mevlevi Order](https://en.wikipedia.org/wiki/Mevlevi_Order "Mevlevi Order"). His family hailed from [Balkh](https://en.wikipedia.org/wiki/Balkh "Balkh"). Rumi is an influential figure in [Sufism](https://en.wikipedia.org/wiki/Sufism "Sufism"), and his thought and works loom large both in [Persian literature](https://en.wikipedia.org/wiki/Persian_literature "Persian literature") and mystic [poetry](https://en.wikipedia.org/wiki/Poetry "Poetry") in general. Today, his translated works are enjoyed all over the world.
+
+The [rapidly advancing Mongol hordes](https://en.wikipedia.org/wiki/Mongol_conquest_of_Persia_and_Mesopotamia "Mongol conquest of Persia and Mesopotamia") forced his family to flee west early on in his life. After spending time in various cities across [Iran](https://en.wikipedia.org/wiki/Iranian_plateau "Iranian plateau"), [Baghdad](https://en.wikipedia.org/wiki/Baghdad "Baghdad"), and [Damascus](https://en.wikipedia.org/wiki/Damascus "Damascus"), he settled in [Konya](https://en.wikipedia.org/wiki/Konya "Konya") with his family at age 19. Until recently, Konya had been a province of the [Eastern Roman Empire](https://en.wikipedia.org/wiki/Byzantine_Empire "Byzantine Empire"), hence his name, *Rumi*, i.e. "the Roman". Although he was exposed to Sufi thought from his early childhood, he was expected to follow his fathers footsteps as an Islamic scholar.
+
+However, the arrival to Konya of the mysterious [wandering dervish](https://en.wikipedia.org/wiki/Dervish "Dervish"), [Shams Tabrīzī](https://en.wikipedia.org/wiki/Shams_Tabrizi "Shams Tabrizi"), would alter the course of his life permanently. Rumi and Shams became infatuated with each other, causing Rumi to neglect his duties. When Shams mysteriously disappeared, Rumi experienced an intense period of grief reflected in his *[Divan of Shams Tabrīzī](https://en.wikipedia.org/wiki/Divan-i_Shams-i_Tabrizi "Divan-i Shams-i Tabrizi")*. This was the defining moment in the evolution of Rumi's spiritual worldview, and marked the beginning of his poetic output.
+
+His *[Masnavi](https://en.wikipedia.org/wiki/Masnavi "Masnavi")*, often called a "Qur'an in Persian", is considered one of the greatest poems of the [Persian language](https://en.wikipedia.org/wiki/Persian_language "Persian language"). Many Muslims, particularly in the [Turko-Persian cultural sphere](https://en.wikipedia.org/wiki/Turco-Persian_tradition "Turco-Persian tradition"), regard the *Masnavi* as one of the most important works of Islamic literature, falling behind only the [Quran](https://en.wikipedia.org/wiki/Quran "Quran").
+
+Rumi's works are widely read today across his native [Greater Iran](https://en.wikipedia.org/wiki/Greater_Iran "Greater Iran") as well as in [Turkey](https://en.wikipedia.org/wiki/Turkey "Turkey"), where the Sufi brotherhood he founded is based. His poems have been translated into many of the world's languages, and Rumi has been described as the "world's most popular poet."
+In the United States, he has become the best selling poet in recent years.
+
+## Name
+
+He is most commonly called *Rumi* in English. His full name is given by his contemporary [Faridun bin Ahmad Sipahsalar](https://en.wikipedia.org/wiki/Faridun_bin_Ahmad_Sipahsalar "Faridun bin Ahmad Sipahsalar") as *Muhammad bin Muhammad bin al-Husayn al-Khatibi al-Balkhi al-Bakri* ([Arabic](https://en.wikipedia.org/wiki/Arabic_language "Arabic language"): محمد بن محمد بن الحسين الخطيبي البلخي البكري). He is more commonly known as *Mawlānā Jalāl ad-Dīn Muḥammad Rūmī* (مولانا جلال‌الدین محمد رومی). *Jalal ad-Din* is an [Arabic](https://en.wikipedia.org/wiki/Arabic "Arabic") name meaning "Glory of the Faith". *Balkhī* and *Rūmī* are his *[nisbas](https://en.wikipedia.org/wiki/Nisba_(onomastics) "Nisba (onomastics)")*, meaning, respectively, "from [Balkh](https://en.wikipedia.org/wiki/Balkh "Balkh")" and "from [Rûm](https://en.wikipedia.org/wiki/Rum_(name) "Rum (name)")", as he was from the [Sultanate of Rûm](https://en.wikipedia.org/wiki/Sultanate_of_Rum "Sultanate of Rum") in [Anatolia](https://en.wikipedia.org/wiki/Anatolia "Anatolia").
+
+According to the authoritative Rumi biographer [Franklin Lewis](https://en.wikipedia.org/wiki/Franklin_Lewis "Franklin Lewis") of the [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago "University of Chicago"), "[t]he Anatolian peninsula which had belonged to the Byzantine, or eastern Roman empire, had only relatively recently been conquered by Muslims and even when it came to be controlled by Turkish Muslim rulers, it was still known to Arabs, Persians and Turks as the geographical area of Rum. As such, there are a number of historical personages born in or associated with Anatolia known as Rumi, a word borrowed from Persian literally meaning 'Roman,' in which context Roman refers to subjects of the [Byzantine Empire](https://en.wikipedia.org/wiki/Byzantine_Empire "Byzantine Empire") or simply to people living in or things associated with [Anatolia](https://en.wikipedia.org/wiki/Anatolia "Anatolia")." He was also known as "Mullah of Rum" (ملای روم *mullā-yi Rūm* or ملای رومی *mullā-yi Rūmī*).
+
+Rumi is widely known by the [sobriquet](https://en.wikipedia.org/wiki/Sobriquet "Sobriquet") *Mawlānā*/*Molānā* ([Persian](https://en.wikipedia.org/wiki/Persian_language "Persian language"): مولانا Persian pronunciation: [[moulɒːnɒ]](https://en.wikipedia.org/wiki/Help:IPA/Persian "Help:IPA/Persian")) in [Iran](https://en.wikipedia.org/wiki/Iran "Iran") and popularly known as *Mevlânâ* in Turkey. *Mawlānā* (مولانا) is a term of [Arabic](https://en.wikipedia.org/wiki/Arabic "Arabic") origin, meaning "our master". The term مولوی *Mawlawī*/*Mowlavi* (Persian) and *Mevlevi* (Turkish), also of Arabic origin, meaning "my master", is also frequently used for him.
+
+## Life
+
+### Overview
+
+Rumi was born to [Persian](https://en.wikipedia.org/wiki/Persians "Persians") parents, in [Wakhsh](https://en.wikipedia.org/wiki/Wakhsh "Wakhsh"), a village on the East bank of the [Wakhsh River](https://en.wikipedia.org/wiki/Wakhsh_River "Wakhsh River") known as [Sangtuda](https://en.wikipedia.org/wiki/Sangtuda "Sangtuda") in present-day [Tajikistan](https://en.wikipedia.org/wiki/Tajikistan "Tajikistan"). The area, culturally adjacent to [Balkh](https://en.wikipedia.org/wiki/Balkh "Balkh"), is where Mawlânâ's father, Bahâ' uddîn Walad, was a preacher and jurist. He lived and worked there until 1212, when Rumi was aged around five and the family moved to [Samarkand](https://en.wikipedia.org/wiki/Samarkand "Samarkand").
+
+Greater Balkh was at that time a major centre of Persian culture and [Sufism](https://en.wikipedia.org/wiki/Sufism "Sufism") had developed there for several centuries. The most important influences upon Rumi, besides his father, were the Persian poets [Attar](https://en.wikipedia.org/wiki/Attar_of_Nishapur "Attar of Nishapur") and [Sanai](https://en.wikipedia.org/wiki/Sanai "Sanai"). Rumi expresses his appreciation: "Attar was the spirit, Sanai his eyes twain, And in time thereafter, Came we in their train" and mentions in another poem: "Attar has traversed the seven cities of Love, We are still at the turn of one street". His father was also connected to the spiritual lineage of [Najm al-Din Kubra](https://en.wikipedia.org/wiki/Najm_al-Din_Kubra "Najm al-Din Kubra").
+
+Rumi lived most of his life under the [Persianate](https://en.wikipedia.org/wiki/Persianate_society "Persianate society") [Seljuk](https://en.wikipedia.org/wiki/Seljuk_dynasty "Seljuk dynasty") [Sultanate of Rum](https://en.wikipedia.org/wiki/Sultanate_of_Rum "Sultanate of Rum"), where he produced his works and died in 1273 AD. He was buried in [Konya](https://en.wikipedia.org/wiki/Konya "Konya"), and his shrine became a place of pilgrimage. Upon his death, his followers and his son [Sultan Walad](https://en.wikipedia.org/wiki/Sultan_Walad "Sultan Walad") founded the [Mevlevi Order](https://en.wikipedia.org/wiki/Mevlevi_Order "Mevlevi Order"), also known as the Order of the Whirling Dervishes, famous for the [Sufi dance](https://en.wikipedia.org/wiki/Sufi_dance "Sufi dance") known as the [Sama](https://en.wikipedia.org/wiki/Sama_(Sufism) "Sama (Sufism)") ceremony. He was laid to rest beside his father, and over his remains a shrine was erected. A [hagiographical](https://en.wikipedia.org/wiki/Hagiography "Hagiography") account of him is described in Shams ud-Din Ahmad Aflāki's *Manāqib ul-Ārifīn* (written between 1318 and 1353). This biography needs to be treated with care as it contains both legends and facts about Rumi. For example, Professor [Franklin Lewis](https://en.wikipedia.org/wiki/Franklin_Lewis "Franklin Lewis") of the University of Chicago, author of the most complete biography on Rumi, has separate sections for the hagiographical biography of Rumi and the actual biography about him.
+
+### Childhood and emigration
+
+Rumi's father was Bahā ud-Dīn Walad, a theologian, jurist and a [mystic](https://en.wikipedia.org/wiki/Mysticism "Mysticism") from Wakhsh, who was also known by the followers of Rumi as Sultan al-Ulama or "Sultan of the Scholars". According to Sultan Walad's *Ibadetname* and Shamsuddin Aflaki (c.1286 to 1291), Rumi was a descendant of [Abu Bakr](https://en.wikipedia.org/wiki/Abu_Bakr "Abu Bakr"). Some modern scholars, however, reject this claim and state it does not hold on closer examination. The claim of maternal descent from the [Khwarazmshah](https://en.wikipedia.org/wiki/Khwarazmshah "Khwarazmshah") for Rumi or his father is also seen as a non-historical hagiographical tradition designed to connect the family with royalty, but this claim is rejected for chronological and historical reasons. The most complete genealogy offered for the family stretches back to six or seven generations to famous Hanafi jurists.
+
+We do not learn the name of Baha al-Din's mother in the sources, only that he referred to her as "Māmi" (colloquial Persian for Māma), and that she was a simple woman who lived to the 1200s. The mother of Rumi was Mu'mina Khātūn. The profession of the family for several generations was that of Islamic preachers of the relatively liberal [Hanafi](https://en.wikipedia.org/wiki/Hanafi "Hanafi") [Maturidi](https://en.wikipedia.org/wiki/Maturidi "Maturidi") school, and this family tradition was continued by Rumi (see his Fihi Ma Fih and Seven Sermons) and Sultan Walad (see Ma'rif Waladi for examples of his everyday sermons and lectures).
+
+When the [Mongols invaded Central Asia](https://en.wikipedia.org/wiki/Mongol_invasion_of_the_Khwarazmian_Empire "Mongol invasion of the Khwarazmian Empire") sometime between 1215 and 1220, Baha ud-Din Walad, with his whole family and a group of disciples, set out westwards. According to hagiographical account which is not agreed upon by all Rumi scholars, Rumi encountered one of the most famous mystic Persian poets, [Attar](https://en.wikipedia.org/wiki/Attar_of_Nishapur "Attar of Nishapur"), in the Iranian city of [Nishapur](https://en.wikipedia.org/wiki/Nishapur "Nishapur"), located in the province of Khorāsān. Attar immediately recognized Rumi's spiritual eminence. He saw the father walking ahead of the son and said, "Here comes a sea followed by an ocean." Attar gave the boy his *Asrārnāma*, a book about the entanglement of the soul in the material world. This meeting had a deep impact on the eighteen-year-old Rumi and later on became the inspiration for his works.
+
+From Nishapur, Walad and his entourage set out for [Baghdad](https://en.wikipedia.org/wiki/Baghdad "Baghdad"), meeting many of the scholars and Sufis of the city. From Baghdad they went to [Hejaz](https://en.wikipedia.org/wiki/Hejaz "Hejaz") and performed the [pilgrimage](https://en.wikipedia.org/wiki/Hajj "Hajj") at [Mecca](https://en.wikipedia.org/wiki/Mecca "Mecca"). The migrating caravan then passed through [Damascus](https://en.wikipedia.org/wiki/Damascus "Damascus"), [Malatya](https://en.wikipedia.org/wiki/Malatya "Malatya"), [Erzincan](https://en.wikipedia.org/wiki/Erzincan "Erzincan"), [Sivas](https://en.wikipedia.org/wiki/Sivas "Sivas"), [Kayseri](https://en.wikipedia.org/wiki/Kayseri "Kayseri") and [Nigde](https://en.wikipedia.org/wiki/Nigde "Nigde"). They finally settled in [Karaman](https://en.wikipedia.org/wiki/Karaman "Karaman") for seven years; Rumi's mother and brother both died there. In 1225, Rumi married Gowhar Khatun in Karaman. They had two sons: Sultan Walad and Ala-eddin Chalabi. When his wife died, Rumi married again and had a son, Amir Alim Chalabi, and a daughter, Malakeh Khatun.
+
+On 1 May 1228, most likely as a result of the insistent invitation of ['Alā' ud-Dīn Key-Qobād](https://en.wikipedia.org/wiki/Kayqubad_I "Kayqubad I"), ruler of Anatolia, Baha' ud-Din came and finally settled in Konya in [Anatolia](https://en.wikipedia.org/wiki/Anatolia "Anatolia") within the westernmost territories of the [Seljuk Sultanate of Rûm](https://en.wikipedia.org/wiki/Seljuk_Sultanate_of_R%C3%BBm "Seljuk Sultanate of Rûm").
+
+### Education and encounters with Shams-e Tabrizi
+
+Baha' ud-Din became the head of a [madrassa](https://en.wikipedia.org/wiki/Madrassa "Madrassa") (religious school) and when he died, Rumi, aged twenty-five, inherited his position as the Islamic molvi. One of Baha' ud-Din's students, Sayyed Burhan ud-Din Muhaqqiq Termazi, continued to train Rumi in the [Shariah](https://en.wikipedia.org/wiki/Shariah "Shariah") as well as the [Tariqa](https://en.wikipedia.org/wiki/Tariqa "Tariqa"), especially that of Rumi's father. For nine years, Rumi practised Sufism as a disciple of Burhan ud-Din until the latter died in 1240 or 1241. Rumi's public life then began: he became an Islamic Jurist, issuing [fatwas](https://en.wikipedia.org/wiki/Fatwas "Fatwas") and giving sermons in the mosques of Konya. He also served as a Molvi (Islamic teacher) and taught his adherents in the madrassa.
+
+During this period, Rumi also travelled to [Damascus](https://en.wikipedia.org/wiki/Damascus "Damascus") and is said to have spent four years there.
+
+It was his meeting with the [dervish](https://en.wikipedia.org/wiki/Dervish "Dervish") [Shams-e Tabrizi](https://en.wikipedia.org/wiki/Shams-e_Tabrizi "Shams-e Tabrizi") on 15 November 1244 that completely changed his life. From an accomplished teacher and jurist, Rumi was transformed into an [ascetic](https://en.wikipedia.org/wiki/Asceticism "Asceticism"). Sufi mysticism places great emphasis on the master-disciple relationship, in which the younger disciple studies under an older master. It is essential to engage in discipleship to reach *fana*, the highest level of spiritual development in Sufism.
+
+Shams had travelled throughout the Middle East searching and praying for someone who could "endure my company". A voice said to him: "What will you give in return?" Shams replied, "My head!" The voice then said, "The one you seek is Jalal ud-Din of Konya."
+
+On the night of 5 December 1248, as Rumi and Shams were talking, Shams was called to the back door. He went out, never to be seen again.[*[unreliable source?](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources "Wikipedia:Reliable sources")*] There are many theories as to Shams's disappearance. The most popular are that Rumi's youngest son killed him, that he was killed for blasphemy, or that Shams, a known wanderer, simply chose to move on.
+
+For more than a month, Rumi refused to believe the rumours of Shams's death and waited for his return. After forty days, Rumi accepted that he was dead and began dressing in black to signal his mourning. Rumi's love for, and his bereavement at the death of, Shams found their expression in an outpouring of lyric poems, [*Divan-e Shams-e Tabrizi*](https://en.wikipedia.org/wiki/Diwan-e_Shams-e_Tabrizi "Diwan-e Shams-e Tabrizi"). He himself went out searching for Shams and journeyed again to Damascus. There, he realised:
+
+> Why should I seek? I am the same as
+> He. His essence speaks through me.
+> I have been looking for myself!
+
+### Later life and death
+
+Mewlana had been spontaneously composing *[ghazals](https://en.wikipedia.org/wiki/Ghazal "Ghazal")* (Persian poems), and these had been collected in the *Divan-i Kabir* or Diwan Shams Tabrizi. Rumi found another companion in Salaḥ ud-Din-e Zarkub, a goldsmith. After Salah ud-Din's death, Rumi's scribe and favourite student, [Hussam-e Chalabi](https://en.wikipedia.org/wiki/Husam_al-Din_Chalabi "Husam al-Din Chalabi"), assumed the role of Rumi's companion. One day, the two of them were wandering through the Meram vineyards outside Konya when Hussam described to Rumi an idea he had had: "If you were to write a book like the *Ilāhīnāma* of Sanai or the *Mantiq ut-Tayr* of 'Attar, it would become the companion of many troubadours. They would fill their hearts from your work and compose music to accompany it." Rumi smiled and took out a piece of paper on which were written the opening eighteen lines of his *Masnavi*, beginning with:
+
+> Listen to the reed and the tale it tells,
+>
+> How it sings of separation...
+
+Hussam implored Rumi to write more. Rumi spent the next twelve years of his life in Anatolia dictating the six volumes of this masterwork, the *Masnavi*, to Hussam.
+
+In December 1273, Rumi fell ill; he predicted his own death and composed the well-known *ghazal*, which begins with the verse:
+
+> How doest thou know what sort of king I have within me as companion?
+>
+> Do not cast thy glance upon my golden face, for I have iron legs.
+
+Rumi died on 17 December 1273 in [Konya](https://en.wikipedia.org/wiki/Konya "Konya"). His death was mourned by the diverse community of Konya, with local Christians and Jews joining the crowd that converged to bid farewell as his body was carried through the city. Rumi's body was interred beside that of his father, and a splendid shrine, the "Green Tomb" ([Turkish](https://en.wikipedia.org/wiki/Turkish_language "Turkish language"): Yeşil Türbe, [Arabic](https://en.wikipedia.org/wiki/Arabic_language "Arabic language"): قبة الخضراء; today the [Mevlâna Museum](https://en.wikipedia.org/wiki/Mevlana_Museum "Mevlana Museum")), was erected over his place of burial. His epitaph reads:
+
+> When we are dead, seek not our tomb in the earth,
+>
+> but find it in the hearts of men.
+
+Georgian princess and Seljuq queen [Tamar Gurju Khatun](https://en.wikipedia.org/wiki/Tamar_Gurju_Khatun "Tamar Gurju Khatun") was a close friend of Rumi. She was the one who sponsored the construction of [his tomb](https://en.wikipedia.org/wiki/Mevlana_Museum "Mevlana Museum") in [Konya](https://en.wikipedia.org/wiki/Konya "Konya"). The 13th-century Mevlâna Mausoleum, with its mosque, dance hall, schools and living quarters for dervishes, remains a destination of pilgrimage to this day, and is probably the most popular pilgrimage site to be regularly visited by adherents of every major religion.
+
+## Teachings
+
+Like other mystic and Sufi poets of Persian literature, Rumi's poetry speaks of love which infuses the world.[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")*] Rumi's teachings also express the tenets summarized in the Quranic verse which Shams-e Tabrizi cited as the essence of prophetic guidance: "Know that ‘There is no god but He,’ and ask forgiveness for your sin" (Q. 47:19).
+
+In the interpretation attributed to Shams, the first part of the verse commands the humanity to seek knowledge of *[tawhid](https://en.wikipedia.org/wiki/Tawhid "Tawhid")* (oneness of God), while the second instructs them to negate their own existence. In Rumi's terms, *tawhid* is lived most fully through love, with the connection being made explicit in his verse that describes love as "that flame which, when it blazes up, burns away everything except the Everlasting Beloved."
+
+Rumi's longing and desire to attain this ideal is evident in the following poem from his book the [Masnavi](https://en.wikipedia.org/wiki/Masnavi "Masnavi"):
+
+> از جمادی مُردم و نامی شدم
+> وز نما مُردم به حیوان برزدم
+> مُردم از حیوانی و آدم شدم
+> پس چه ترسم کی ز مردن کم شدم؟
+> حملهٔ دیگر بمیرم از بشر
+> تا برآرم از ملائک بال و پر
+> وز ملک هم بایدم جستن ز جو
+> کل شیء هالک الا وجهه
+> بار دیگر از ملک پران شوم
+> آنچ اندر وهم ناید آن شوم
+> پس عدم گردم عدم چون ارغنون
+> گویدم که انا الیه راجعون
+
+Translation:
+> I died to the mineral state and became a plant,
+> I died to the vegetal state and reached animality,
+> I died to the animal state and became a man,
+> Then what should I fear? I have never become less from dying.
+> At the next charge (forward) I will die to human nature,
+> So that I may lift up (my) head and wings (and soar) among the angels,
+> And I must (also) jump from the river of (the state of) the angel,
+> Everything perishes except His Face,
+> Once again I will become sacrificed from (the state of) the angel,
+> I will become that which cannot come into the imagination,
+> Then I will become non-existent; non-existence says to me (in tones) like an organ,
+> [Truly, to Him is our return](https://en.wikipedia.org/wiki/Inna_Lillahi_wa_inna_ilayhi_raji%27un "Inna Lillahi wa inna ilayhi raji'un").
+
+The *Masnavi* weaves fables, scenes from everyday life, Qur'anic revelations and exegesis, and metaphysics into a vast and intricate tapestry.
+
+Rumi believed passionately in the use of music, poetry and dance as a path for reaching God. For Rumi, music helped devotees to focus their whole being on the divine and to do this so intensely that the soul was both destroyed and resurrected. It was from these ideas that the practice of [whirling Dervishes](https://en.wikipedia.org/wiki/Sufi_whirling "Sufi whirling") developed into a ritual form. His teachings became the base for the order of the Mevlevi, which his son Sultan Walad organised. Rumi encouraged [Sama](https://en.wikipedia.org/wiki/Sama_(Sufism) "Sama (Sufism)"), listening to music and turning or doing the sacred dance. In the Mevlevi tradition, *samāʿ* represents a mystical journey of spiritual ascent through mind and love to the Perfect One. In this journey, the seeker symbolically turns towards the truth, grows through love, abandons the ego, finds the truth and arrives at the Perfect. The seeker then returns from this spiritual journey, with greater maturity, to love and to be of service to the whole of creation without discrimination with regard to beliefs, races, classes and nations.[*[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")*]
+
+In other verses in the *Masnavi*, Rumi describes in detail the universal message of love:
+
+> The lover's cause is separate from all other causes
+>
+> Love is the astrolabe of God's mysteries.
+
+Rumi's favourite musical instrument was the [ney](https://en.wikipedia.org/wiki/Ney "Ney") (reed flute).
+
+## Major works
+
+Rumi's poetry is often divided into various categories: the quatrains (*[rubayāt](https://en.wikipedia.org/wiki/Ruba%27i "Ruba'i")*) and odes (*[ghazal](https://en.wikipedia.org/wiki/Ghazal "Ghazal")*) of the *Divan*, the six books of the *Masnavi*. The prose works are divided into The Discourses, The Letters, and the *Seven Sermons*.
+
+### Poetic works
+
+* Rumi's best-known work is the *[Masnavi](https://en.wikipedia.org/wiki/Masnavi-e-Ma%27navi "Masnavi-e-Ma'navi")* (*Spiritual Couplets*; مثنوی معنوی). The six-volume poem holds a distinguished place within the rich tradition of Persian Sufi literature, and has been commonly called "the Quran in Persian". Many commentators have regarded it as the greatest mystical poem in world literature. It contains approximately 27,000 lines, each consisting of a couplet with an internal rhyme. While the [mathnawi](https://en.wikipedia.org/wiki/Mathnawi "Mathnawi") genre of poetry may use a variety of different metres, after Rumi composed his poem, the metre he used became the mathnawi metre *par excellence*. The first recorded use of this metre for a mathnawi poem took place at the Nizari Ismaili fortress of Girdkuh between 1131 and 1139. It likely set the stage for later poetry in this style by mystics such as Attar and Rumi.
+
+* Rumi's other major work is the *Dīwān-e Kabīr* (*Great Work*) or *[Dīwān-e Shams-e Tabrīzī](https://en.wikipedia.org/wiki/Diwan-e_Shams-e_Tabrizi "Diwan-e Shams-e Tabrizi")* (*The Works of Shams of [Tabriz](https://en.wikipedia.org/wiki/Tabriz "Tabriz")*; دیوان شمس تبریزی), named in honour of Rumi's master [Shams](https://en.wikipedia.org/wiki/Shams_Tabraiz "Shams Tabraiz"). Besides approximately 35000 Persian couplets and 2000 Persian quatrains, the Divan contains 90 Ghazals and 19 quatrains in Arabic, a couple of dozen or so couplets in Turkish (mainly [macaronic](https://en.wikipedia.org/wiki/Macaronic_language "Macaronic language") poems of mixed Persian and Turkish) and 14 couplets in Greek (all of them in three macaronic poems of Greek-Persian).
+
+### Prose works
+
+* [*Fihi Ma Fihi*](https://en.wikipedia.org/wiki/Fihi_ma_fihi "Fihi ma fihi") (*It is what It is*, Persian: فیه ما فیه) provides a record of seventy-one talks and lectures given by Rumi on various occasions to his disciples. It was compiled from the notes of his various disciples, so Rumi did not author the work directly. An English translation from the Persian was first published by [A.J. Arberry](https://en.wikipedia.org/wiki/A.J._Arberry "A.J. Arberry") as *Discourses of Rumi* (New York: Samuel Weiser, 1972), and a translation of the second book by Wheeler Thackston, *Sign of the Unseen* (Putney, VT: Threshold Books, 1994). The style of the *Fihi ma fihi* is colloquial and meant for middle-class men and women, and lack the sophisticated wordplay.
+* *Majāles-e Sab'a* (*Seven Sessions*, Persian: مجالس سبعه) contains seven Persian sermons (as the name implies) or lectures given in seven different assemblies. The sermons themselves give a commentary on the deeper meaning of Qur'an and [Hadith](https://en.wikipedia.org/wiki/Hadith "Hadith"). The sermons also include quotations from poems of [Sana'i](https://en.wikipedia.org/wiki/Sana%27i "Sana'i"), ['Attar](https://en.wikipedia.org/wiki/Attar_of_Nishapur "Attar of Nishapur"), and other poets, including Rumi himself. As Aflakī relates, after Shams-e Tabrīzī, Rumi gave sermons at the request of notables, especially Salāh al-Dīn Zarkūb. The style of Persian is rather simple, but quotation of Arabic and knowledge of history and the Hadith show Rumi's knowledge in the Islamic sciences. His style is typical of the genre of lectures given by Sufis and spiritual teachers.
+* *Makatib* (*The Letters*, Persian: مکاتیب) or *Maktubat* (مکتوبات) is the [collection of letters](https://en.wikipedia.org/wiki/Letter_collection "Letter collection") written in Persian by Rumi to his disciples, family members, and men of state and of influence. The letters testify that Rumi kept very busy helping family members and administering a community of disciples that had grown up around them. Unlike the Persian style of the previous two mentioned works (which are lectures and sermons), the letters are consciously sophisticated and epistolary in style, which is in conformity with the expectations of correspondence directed to nobles, statesmen and kings.
+
+## Religious outlook
+
+Despite references to other religions, Rumi clearly holds the superiority of Islam. As Muslim, Rumi praises the Quran, not only as sacred book of Muslims, but also as tool to distinguish truth from falsehood. As such, the Quran features as guidebook for humanity and those who want to understand the reality of the world.
+
+The prophets of Islam, according to Rumi, constitute the highest point of spiritual development and are the closest to God. Throughout Rumi's writings, Muhammad is the most perfect example of all previous prophets.
+
+Despite Rumi's explicit adherence to Islam, there are traces of religious pluralism throughout his work. Although Rumi acknowledges religious discrepancies, the core of all religions is the same. The disagreement between religions does not lie in the core of these religions, but in doctrinal differences. Accordingly, Rumi criticizes Christianity for "overloading the image of God with superfluous structures and complications". Yet, Rumi declares that "the lamps are different, but the Light is the same; it comes from beyond". [Shibli Nomani](https://en.wikipedia.org/wiki/Shibli_Nomani "Shibli Nomani"), in his work *[Sawanih Maulana Rum](https://en.wikipedia.org/w/index.php?title=Sawanih_Maulana_Rum&action=edit&redlink=1 "Sawanih Maulana Rum (page does not exist)")*, argued that Rumi should not be seen solely as a mystical poet but also as a serious theologian.
+
+His depth of his spiritual vision extended beyond narrow sectarian concerns. One quatrain reads:
+
+> در راه طلب عاقل و دیوانه یکی است
+> در شیوه‌ی عشق خویش و بیگانه یکی است
+> آن را که شراب وصل جانان دادند
+> در مذهب او کعبه و بتخانه یکی است
+
+— Quatrain 305
+
+Translation:
+> On the seeker's path, the wise and crazed are one.
+> In the way of love, kin and strangers are one.
+> The one who they gave the wine of the beloved's union,
+> in his path, the Kaaba and house of idols are one.
+
+According to the Quran, Muhammad is a mercy sent by God. In regards to this, Rumi states:
+
+> "The Light of Muhammad does not abandon a Zoroastrian or Jew in the world. May the shade of his good fortune shine upon everyone! He brings all of those who are led astray into the Way out of the desert."
+
+Rumi, however, asserts the supremacy of [Islam](https://en.wikipedia.org/wiki/Islam "Islam") by stating:
+
+> "The Light of Muhammad has become a thousand branches (of knowledge), a thousand, so that both this world and the next have been seized from end to end. If Muhammad rips the veil open from a single such branch, thousands of monks and priests will tear the string of false belief from around their waists."
+
+Many of Rumi's poems suggest the importance of outward religious observance and the primacy of the Qur'an.
+
+> Flee to God's Qur'an, take refuge in it
+>
+> there with the spirits of the prophets merge.
+> The Book conveys the prophets' circumstances
+> those fish of the pure sea of Majesty.
+
+Rumi states:
+
+> I am the servant of the Qur'an as long as I have life.
+> I am the dust on the path of Muhammad, the Chosen one.
+> If anyone quotes anything except this from my sayings,
+> I am quit of him and outraged by these words.
+
+Rumi also states:
+
+> I "sewed" my two eyes shut from [desires for] this world and the next – this I learned from Muhammad.
+
+On the first page of the Masnavi, Rumi states:
+
+> "Hadha kitâbu 'l- mathnawîy wa huwa uSûlu uSûli uSûli 'd-dîn wa kashshâfu 'l-qur'ân."
+> "This is the book of the Masnavi, and it is the roots of the roots of the roots of the (Islamic) Religion and it is the Explainer of the Qur'ân."
+
+[Hadi Sabzavari](https://en.wikipedia.org/wiki/Hadi_Sabzavari "Hadi Sabzavari"), one of Iran's most important 19th-century philosophers, makes the following connection between the Masnavi and Islam, in the introduction to his philosophical commentary on the book:
+
+> It is a commentary on the versified exegesis [of the Qur’ān] and its occult mystery, since all of it [all of the Mathnawī] is, as you will see, an elucidation of the clear verses [of the Qur’ān], a clarification of prophetic utterances, a glimmer of the light of the luminous Qur’ān, and burning embers irradiating their rays from its shining lamp. As respects to hunting through the treasure-trove of the Qur’ān, one can find in it [the Mathnawī] all [the Qur’ān's] ancient philosophical wisdom; it [the Mathnawī] is all entirely eloquent philosophy. In truth, the pearly verse of the poem combines the Canon Law of Islam ([sharīʿa](https://en.wikipedia.org/wiki/Sharia "Sharia")) with the Sufi Path ([ṭarīqa](https://en.wikipedia.org/wiki/Tariqa "Tariqa")) and the Divine Reality ([ḥaqīqa](https://en.wikipedia.org/wiki/Haqiqa "Haqiqa")); the author's [Rūmī] achievement belongs to God in his bringing together of the Law (sharīʿa), the Path, and the Truth in a way that includes critical intellect, profound thought, a brilliant natural temperament, and integrity of character that is endowed with power, insight, inspiration, and illumination.
+
+[Seyyed Hossein Nasr](https://en.wikipedia.org/wiki/Seyyed_Hossein_Nasr "Seyyed Hossein Nasr") states:
+
+> One of the greatest living authorities on Rûmî in Persia today, Hâdî Hâ'irî, has shown in an unpublished work that some 6,000 verses of the Dîwân and the Mathnawî are practically direct translations of Qur'ânic verses into Persian poetry.
+
+Rumi states in his [Dīwān](https://en.wikipedia.org/wiki/Diwan_(poetry) "Diwan (poetry)"):
+
+> The Sufi is hanging on to Muhammad, like [Abu Bakr](https://en.wikipedia.org/wiki/Abu_Bakr "Abu Bakr").
+
+## Language
+
+Rumi's works are written in his mother tongue, [Persian](https://en.wikipedia.org/wiki/Persian_language "Persian language"). He occasionally used the [Arabic](https://en.wikipedia.org/wiki/Arabic "Arabic") language and single [Turkish](https://en.wikipedia.org/wiki/Old_Anatolian_Turkish "Old Anatolian Turkish") and [Greek](https://en.wikipedia.org/wiki/Cappadocian_Greek "Cappadocian Greek") words in his verse. Rumi's influence has transcended national borders and ethnic divisions: [Iranians](https://en.wikipedia.org/wiki/Persians "Persians"), [Afghans](https://en.wikipedia.org/wiki/Afghans "Afghans"), [Tajiks](https://en.wikipedia.org/wiki/Tajiks "Tajiks"), [Turks](https://en.wikipedia.org/wiki/Turkish_people "Turkish people"), [Kurds](https://en.wikipedia.org/wiki/Kurds "Kurds"), [Greeks](https://en.wikipedia.org/wiki/Cappadocian_Greeks "Cappadocian Greeks"), [Central Asian Muslims](https://en.wikipedia.org/wiki/Central_Asian_peoples "Central Asian peoples"), as well as Muslims of the [Indian subcontinent](https://en.wikipedia.org/wiki/Indian_subcontinent "Indian subcontinent") have greatly appreciated his spiritual legacy for the past seven centuries. His poetry influenced not only [Persian literature](https://en.wikipedia.org/wiki/Persian_literature "Persian literature"), but also the literary traditions of the [Ottoman Turkish](https://en.wikipedia.org/wiki/Ottoman_Turkish_language "Ottoman Turkish language"), [Chagatai](https://en.wikipedia.org/wiki/Chagatai_language "Chagatai language"), [Pashto](https://en.wikipedia.org/wiki/Pashto "Pashto"), [Kurdish](https://en.wikipedia.org/wiki/Kurdish_languages "Kurdish languages"), [Urdu](https://en.wikipedia.org/wiki/Urdu "Urdu"), and [Bengali](https://en.wikipedia.org/wiki/Bengali_language "Bengali language") languages.
+
+## Legacy
+
+### Universality
+
+Rumi's work has been translated into many of the world's languages, including Russian, German, Urdu, Turkish, Arabic, Bengali, French, Italian, Spanish, Telugu and Kannada and is being presented in a growing number of formats, including concerts, workshops, readings, dance performances, and other artistic creations. The English interpretations of Rumi's poetry by [Coleman Barks](https://en.wikipedia.org/wiki/Coleman_Barks "Coleman Barks") have sold more than half a million copies worldwide, and Rumi is one of the most widely read poets in the United States. There is a famous landmark in [Northern India](https://en.wikipedia.org/wiki/Northern_India "Northern India"), known as [Rumi Gate](https://en.wikipedia.org/wiki/Rumi_Gate "Rumi Gate"), situated in [Lucknow](https://en.wikipedia.org/wiki/Lucknow "Lucknow") (the capital of [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh "Uttar Pradesh")) named for Rumi. Indian filmmaker [Muzaffar Ali](https://en.wikipedia.org/wiki/Muzaffar_Ali "Muzaffar Ali") who is from Lucknow made a documentary, titled *Rumi in the Land of Khusrau* (2001), which presents concerts based on the works of Rumi and [Amir Khusrau](https://en.wikipedia.org/wiki/Amir_Khusrau "Amir Khusrau") and highlights parallels between the lives of the poets.
+
+### Iranian world
+
+These cultural, historical and linguistic ties between Rumi and [Iran](https://en.wikipedia.org/wiki/Iran "Iran") have made Rumi an iconic Iranian poet, and some of the most important Rumi scholars including Foruzanfar, Naini, Sabzewari, etc., have come from modern Iran. Rumi's poetry is displayed on the walls of many cities across Iran, sung in Persian music, and read in school books.
+
+Rumi's poetry forms the basis of much classical [Iranian](https://en.wikipedia.org/wiki/Music_of_Iran "Music of Iran") and [Afghan](https://en.wikipedia.org/wiki/Music_of_Afghanistan "Music of Afghanistan") music. Contemporary classical interpretations of his poetry are made by [Muhammad Reza Shajarian](https://en.wikipedia.org/wiki/Muhammad_Reza_Shajarian "Muhammad Reza Shajarian"), [Shahram Nazeri](https://en.wikipedia.org/wiki/Shahram_Nazeri "Shahram Nazeri"), [Davood Azad](https://en.wikipedia.org/wiki/Davood_Azad "Davood Azad") (the three from Iran) and [Ustad Mohammad Hashem Cheshti](https://en.wikipedia.org/wiki/Ustad_Mohammad_Hashem_Cheshti "Ustad Mohammad Hashem Cheshti") (Afghanistan).
+
+### Mewlewī Sufi Order; Rumi and Turkey
+
+The Mewlewī Sufi order was founded in 1273 by Rumi's followers after his death. His first successor could have been Salah-eddin Zarkoub who served Rumi for a decade and was respected by Rumi. Zarkoub was illiterate and uttered some words incorrectly, but Rumi used some of these incorrect words in his poems to express his support and humility towards Zarkoub. Rumi named him his successor, but Zarkoub died before him. So Rumi's first successor in the rectorship of the order was [Husam Chalabi](https://en.wikipedia.org/wiki/Husam_al-Din_Chalabi "Husam al-Din Chalabi") and, after Chalabi's death in 1284, Rumi's younger and only surviving son, [Sultan Walad](https://en.wikipedia.org/wiki/Sultan_Walad "Sultan Walad") (d. 1312), popularly known as author of the mystical *Maṭnawī Rabābnāma*, or the *Book of the Rabab* was installed as grand master of the order. The leadership of the order has been kept within Rumi's family in Konya uninterruptedly since then.
+The Mewlewī Sufis, also known as Whirling Dervishes, believe in performing their *[dhikr](https://en.wikipedia.org/wiki/Dhikr "Dhikr")* in the form of [Sama](https://en.wikipedia.org/wiki/Sama_(Sufism) "Sama (Sufism)"). During the time of Rumi (as attested in the *Manāqib ul-Ārefīn* of Aflākī), his followers gathered for musical and "turning" practices.
+
+According to tradition, Rumi was himself a notable musician who played the [*robāb*](https://en.wikipedia.org/wiki/Rebab "Rebab"), although his favourite instrument was the *[ney](https://en.wikipedia.org/wiki/Ney "Ney")* or reed flute. The music accompanying the *samāʿ* consists of settings of poems from the *Maṭnawī* and *Dīwān-e Kabīr*, or of Sultan Walad's poems. The Mawlawīyah was a well-established Sufi order in the [Ottoman Empire](https://en.wikipedia.org/wiki/Ottoman_Empire "Ottoman Empire"), and many of the members of the order served in various official positions of the Caliphate. The centre for the Mevlevi was in Konya. There is also a Mewlewī monastery (درگاه, *dargāh*) in [Istanbul](https://en.wikipedia.org/wiki/Istanbul "Istanbul") near the [Galata Tower](https://en.wikipedia.org/wiki/Galata_Tower "Galata Tower") in which the *samāʿ* is performed and accessible to the public. The Mewlewī order issues an invitation to people of all backgrounds:
+
+> *Come, come, whoever you are,*
+> *Wanderer, idolater, worshiper of fire,*
+> *Come even though you have broken your vows a thousand times,*
+> *Come, and come yet again.*
+> *Ours is not a caravan of despair.*
+
+During Ottoman times, the Mevlevi produced a number of notable poets and musicians, including Sheikh Ghalib, Ismail Rusuhi Dede of Ankara, Esrar Dede, Halet Efendi, and Gavsi Dede, who are all buried at the Galata Mewlewī Khāna (Turkish: *Mevlevi-Hane*) in Istanbul. Music, especially that of the ney, plays an important part in the Mevlevi.
+
+With the foundation of the modern, secular [Republic of Turkey](https://en.wikipedia.org/wiki/Republic_of_Turkey "Republic of Turkey"), [Mustafa Kemal Atatürk](https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk "Mustafa Kemal Atatürk") removed religion from the sphere of public policy and restricted it exclusively to that of personal morals, behaviour and faith. On 13 December 1925, a law was passed closing all the *[tekkes](https://en.wikipedia.org/wiki/Khanqah "Khanqah")* (dervish lodges) and *zāwiyas* (chief dervish lodges), and the centres of veneration to which visits (*ziyārat*) were made. Istanbul alone had more than 250 *tekke*s as well as small centres for gatherings of various fraternities; this law dissolved the Sufi Orders, prohibited the use of mystical names, titles and costumes pertaining to their titles, impounded the Orders' assets, and banned their ceremonies and meetings. The law also provided penalties for those who tried to re-establish the Orders. Two years later, in 1927, the Mausoleum of Mevlâna in Konya was allowed to reopen as a Museum.
+
+In the 1950s, the Turkish government began allowing the Whirling Dervishes to perform once a year in Konya. The Mewlānā festival is held over two weeks in December; its culmination is on 17 December, the Urs of Mewlānā (anniversary of Rumi's death), called *Šab-e Arūs* ([Persian](https://en.wikipedia.org/wiki/Persian_language "Persian language"): شبِ عُرس) (Persian meaning "nuptial night"), the night of Rumi's union with God. In 1974, the Whirling Dervishes were permitted to travel to the West for the first time. In 2005, [UNESCO](https://en.wikipedia.org/wiki/UNESCO "UNESCO") proclaimed "The [Mevlevi](https://en.wikipedia.org/wiki/Mevlevi_Order "Mevlevi Order") [Sama](https://en.wikipedia.org/wiki/Sama_(Sufism) "Sama (Sufism)") Ceremony" of [Turkey](https://en.wikipedia.org/wiki/Turkey "Turkey") as one of the [Masterpieces of the Oral and Intangible Heritage of Humanity](https://en.wikipedia.org/wiki/Masterpieces_of_the_Oral_and_Intangible_Heritage_of_Humanity "Masterpieces of the Oral and Intangible Heritage of Humanity").
+
+Rumi and his mausoleum were depicted on the [reverse](https://en.wikipedia.org/wiki/Obverse_and_reverse "Obverse and reverse") of the 5000 Turkish lira banknotes of 1981–1994.
+
+### Religious denomination
+
+As [Edward G. Browne](https://en.wikipedia.org/wiki/Edward_G._Browne "Edward G. Browne") noted, the three most prominent mystical Persian poets, Rumi, [Sanai](https://en.wikipedia.org/wiki/Sanai "Sanai") and [Attar](https://en.wikipedia.org/wiki/Farid_al-Din_Attar "Farid al-Din Attar"), were all Sunni Muslims and their poetry abounds with praise for the first two caliphs, [Abu Bakr](https://en.wikipedia.org/wiki/Abu_Bakr "Abu Bakr") and [Umar ibn al-Khattāb](https://en.wikipedia.org/wiki/Umar_ibn_al-Khatt%C4%81b "Umar ibn al-Khattāb"). According to [Annemarie Schimmel](https://en.wikipedia.org/wiki/Annemarie_Schimmel "Annemarie Schimmel"), the tendency among [Shia](https://en.wikipedia.org/wiki/Shia "Shia") authors to anachronistically include leading mystical poets such as Rumi and Attar among their own ranks, became stronger after the introduction of [Twelver Shia](https://en.wikipedia.org/wiki/Twelver_Shia "Twelver Shia") as the state religion in the [Safavid Empire](https://en.wikipedia.org/wiki/Safavid_Empire "Safavid Empire") in 1501.
+
+### Eight-hundredth anniversary celebrations
+
+In Afghanistan, Rumi is known as *Mawlānā*, in Turkey as *Mevlâna*, and in Iran as *Molavī*.
+
+At the proposal of the Permanent Delegations of Afghanistan, Iran, and Turkey, and as approved by its executive board and General Conference in conformity with its mission of "constructing in the minds of men the defences of peace", [UNESCO](https://en.wikipedia.org/wiki/UNESCO "UNESCO") was associated with the celebration, in 2007, of the eight hundredth anniversary of Rumi's birth. The commemoration at UNESCO itself took place on 6 September 2007; UNESCO issued a medal in Rumi's name in the hope that it would prove an encouragement to those who are engaged in research on and dissemination of Rumi's ideas and ideals, which would, in turn, enhance the diffusion of the ideals of UNESCO.
+
+On 30 September 2007, Iranian school bells were rung throughout the country in honour of Mewlana. Also in that year, Iran held a Rumi Week from 26 October to 2 November. An international ceremony and conference were held in [Tehran](https://en.wikipedia.org/wiki/Tehran "Tehran"); the event was opened by the Iranian president and the chairman of the [Iranian parliament](https://en.wikipedia.org/wiki/Iranian_parliament "Iranian parliament"). Scholars from twenty-nine countries attended the events, and 450 articles were presented at the conference. Iranian musician [Shahram Nazeri](https://en.wikipedia.org/wiki/Shahram_Nazeri "Shahram Nazeri") was awarded the [Légion d'honneur](https://en.wikipedia.org/wiki/L%C3%A9gion_d%27honneur "Légion d'honneur") and Iran's House of Music Award in 2007 for his renowned works on Rumi masterpieces. 2007 was declared as the "International Rumi Year" by UNESCO.
+
+Also on 30 September 2007, Turkey celebrated Rumi's eight-hundredth birthday with a giant Whirling Dervish ritual performance of the *samāʿ*, which was televised using forty-eight cameras and broadcast live in eight countries. [Ertugrul Gunay](https://en.wikipedia.org/wiki/Ertugrul_Gunay "Ertugrul Gunay"), of the [Ministry of Culture and Tourism](https://en.wikipedia.org/wiki/Ministry_of_Culture_and_Tourism_(Turkey) "Ministry of Culture and Tourism (Turkey)"), stated, "Three hundred dervishes are scheduled to take part in this ritual, making it the largest performance of sema in history."
+
+### *Mawlana Rumi Review*
+
+The *Mawlana Rumi Review* is an academic journal devoted to the poetry, life, thought, and legacy of Rumi published annually since 2010 by The Centre for Persian and Iranian Studies at the [University of Exeter](https://en.wikipedia.org/wiki/University_of_Exeter "University of Exeter") in collaboration with The Rumi Institute in [Nicosia, Cyprus](https://en.wikipedia.org/wiki/Nicosia,_Cyprus "Nicosia, Cyprus"), and Archetype Books in [Cambridge](https://en.wikipedia.org/wiki/Cambridge "Cambridge").
+
+## In popular culture
+
+The life and teachings of Rumi have significantly influenced contemporary literature and media. His relationship with his mentor, Shams Tabrizi, serves as a primary narrative motif in modern adaptations, frequently explored to examine themes of spiritual devotion and divine love.
+
+The 2010 novel *The Forty Rules of Love* by Elif Shafak achieved international prominence for its exploration of Rumi’s life, weaving a contemporary narrative with the 13th-century historical account of Rumi and Shams.
+In television, the 2023 Turkish biographical series *Mevlana Celâleddin-i Rumi*, produced by Kale Film for the streaming platform *tabii*, depicts Rumi’s transition from a theologian to a Sufi mystic amidst the geopolitical instability of the Mongol invasions.
+
+Academics and critics have also noted Rumi’s enduring influence on world cinema, highlighting how his metaphysical worldview and themes of transcendence permeate the works of internationally recognized directors, such as Majid Majidi.
+
+---
+
+*Source: [Wikipedia — Rumi](https://en.wikipedia.org/wiki/Rumi). Text licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

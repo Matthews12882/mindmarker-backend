@@ -11,8 +11,9 @@
 ## The idea
 
 Most reading-comprehension tools use short, generic, artificial passages. This
-project instead uses **real articles** (starting with Wikipedia's most-read
-pages) and generates **multiple-choice quizzes** for each one with an LLM. Users
+project instead uses **real articles** (starting with Wikipedia's *Vital
+articles* — a curated ranking of the most important general-knowledge topics)
+and generates **multiple-choice quizzes** for each one with an LLM. Users
 read the article, answer the questions, get feedback and explanations, and earn
 points that feed streaks, levels and leaderboards.
 
@@ -26,7 +27,7 @@ Design goals:
 
 | Area | State |
 |------|-------|
-| Article corpus (300 articles as clean Markdown) | ✅ done |
+| Article corpus (300 vital articles as clean Markdown) | ✅ done |
 | `get_articles.py` downloader | ✅ done |
 | AI quiz generation | ⏳ next |
 | Backend API / database | ⏳ planned |
@@ -39,7 +40,7 @@ the rest of the app (quiz generation, API, UI) will build on.
 
 ```
 congressional-app-backend-2026/
-├── get_articles.py     # downloads the most-read Wikipedia articles as Markdown
+├── get_articles.py     # downloads the top "vital" Wikipedia articles as Markdown
 ├── articles/           # the generated corpus (300 .md files)
 │   ├── README.md       #   how to use the corpus (read this)
 │   ├── index.json      #   machine-readable manifest the backend loads
@@ -57,7 +58,7 @@ python3 -m venv venv
 ./venv/bin/pip install requests beautifulsoup4 markdownify
 
 # 2. (Re)build the article corpus — ~6 min for the full run
-./venv/bin/python get_articles.py              # top 300, latest available month
+./venv/bin/python get_articles.py              # top 300 vital articles
 ./venv/bin/python get_articles.py --limit 20   # fast sample
 
 # 3. Sanity-check the result
@@ -68,11 +69,12 @@ No API keys are needed — only free, public Wikipedia endpoints are used.
 
 ## The article corpus
 
-`get_articles.py` pulls the **most-viewed English Wikipedia pages** for the
-latest published month from the Wikimedia Pageviews API, filters out non-article
-pages, downloads each article's HTML through the MediaWiki Action API, and
-converts it to clean Markdown with `markdownify`. Each file carries YAML front
-matter (id, title, url, description, summary, license, …).
+`get_articles.py` walks Wikipedia's **[Vital articles](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles)**
+lists (Levels 1–3), which rank the most important general-knowledge topics, and
+takes them in importance order (Level 1 → 2 → 3). It resolves each entry to a
+real article, downloads the HTML through the MediaWiki Action API, and converts
+it to clean Markdown with `markdownify`. Each file carries YAML front matter
+(id, title, rank, level, topic, url, description, summary, license, …).
 
 See **[`articles/README.md`](articles/README.md)** for the full file format, the
 cleaning rules, and copy-paste snippets for loading the corpus.
@@ -111,7 +113,7 @@ ranking-based `study_XXXX` ids ever change.
 |-------|--------|
 | Language | Python |
 | Article fetching | `requests`, `beautifulsoup4`, `markdownify` |
-| Data source | Wikipedia Pageviews + MediaWiki Action APIs (free) |
+| Data source | Wikipedia Vital articles + MediaWiki Action API (free) |
 | Database | PostgreSQL / Supabase (planned) |
 | Packaging | Docker (planned) |
 
@@ -139,6 +141,6 @@ corpus file links back to its source article for attribution — keep that sourc
 link (and the license notice) visible in the app, for example on the article
 page, to stay compliant.
 
-Because the corpus is the "most-viewed" ranking, it includes current-events,
-entertainment and true-crime pages. Filter these before showing them to users
-(by `description`/title in `index.json`), or swap in a curated topic list.
+Articles are grouped by subject in the `topic` field (`History`, `Geography`,
+`People`, `Science and medicine`, `Arts`, …) — handy for building "browse by
+subject" screens or nudging users toward a topic they haven't tried yet.

@@ -1,26 +1,30 @@
 #!/usr/bin/env python3
 """
-get_articles.py — build a local corpus of the most-read Wikipedia articles.
+get_articles.py — build a local corpus of the most *vital* Wikipedia articles.
 
 WHY THIS EXISTS
     The reading-quiz app takes real articles and turns them into AI-generated
     reading-comprehension quizzes. This script builds the raw material: clean,
-    self-contained Markdown files for the most-viewed English Wikipedia
+    self-contained Markdown files for Wikipedia's most important general-knowledge
     articles, plus a manifest the backend can load.
 
+    (An earlier version ranked articles by pageviews. Pageviews surface whatever
+    is trending — current events, entertainment, true crime — which is poor
+    material for a study app. This version uses Wikipedia's "Vital articles"
+    lists instead: a curated ranking of the topics that matter most.)
+
 WHAT IT DOES
-    1. Asks the free Wikimedia Pageviews API which articles were viewed most
-       in a given month.
-    2. Filters out non-article pages (Main_Page, Special:*, Wikipedia:*, ...).
-    3. Downloads each article through the free MediaWiki Action API and
-       converts the HTML to clean Markdown (markdownify).
-    4. Writes one .md file per article, an index.json manifest, and a README.md
+    1. Reads the Wikipedia "Vital articles" lists (Levels 1-3), which rank the
+       most important topics, and walks them in importance order.
+    2. Downloads each article through the free MediaWiki Action API and converts
+       the HTML to clean Markdown (markdownify).
+    3. Writes one .md file per article, an index.json manifest, and a README.md
        explaining how to use the corpus.
 
 USAGE
-    ./venv/bin/python get_articles.py                 # top 300, latest full month
+    ./venv/bin/python get_articles.py                 # top 300, levels 1-3
     ./venv/bin/python get_articles.py --limit 20      # small sample
-    ./venv/bin/python get_articles.py --year 2026 --month 9
+    ./venv/bin/python get_articles.py --levels 1,2    # only the most vital
     ./venv/bin/python get_articles.py --out articles
 
 REQUIRES
@@ -54,21 +58,17 @@ USER_AGENT = "reading-quiz-app/0.1 (educational Congressional App Challenge proj
 HEADERS = {"User-Agent": USER_AGENT, "Api-User-Agent": USER_AGENT}
 
 ACTION_API = "https://en.wikipedia.org/w/api.php"
-PAGEVIEWS_API = (
-    "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/"
-    "en.wikipedia/all-access/{year}/{month:02d}/all-days"
-)
+
+# Each "Wikipedia:Vital articles/Level N" page holds the most vital articles,
+# in importance order: Level 1 = top 10, Level 2 = top 100, Level 3 = top 1000.
+# (The pages are cumulative, so we walk 1 -> 2 -> 3 and de-duplicate.)
+VITAL_PAGE = "Wikipedia:Vital articles/Level {level}"
+DEFAULT_LEVELS = (1, 2, 3)
+VITAL_SOURCE_LIST = "Wikipedia:Vital articles"
 
 DEFAULT_LIMIT = 300  # how many articles to keep ("the top N")
 DEFAULT_OUT = "articles"
-
-# Pages that live in a MediaWiki namespace are not articles. Anything with one
-# of these prefixes is skipped.
-NON_ARTICLE_PREFIXES = (
-    "Special:", "Wikipedia:", "File:", "Template:", "Category:", "Portal:",
-    "Help:", "Talk:", "User:", "User_talk:", "Draft:", "Module:", "MediaWiki:",
-    "Book:", "TimedText:", "Media:", "Template_talk:", "Category_talk:",
-)
+DEFAULT_TOPIC = "Core topics"  # fallback subject when a list has no section heading
 
 # HTML we throw away before converting to Markdown. These are chrome, not prose.
 DROP_SELECTORS = [
@@ -108,7 +108,7 @@ def yaml_quote(value: object) -> str:
 
 
 def slugify(title: str, max_len: int = 60) -> str:
-    """'Neatsville,_Kentucky' -> 'neatsville_kentucky'."""
+    """'Atmosphere of Earth' -> 'atmosphere_of_earth'."""
     slug = title.lower().replace("&", " and ")
     slug = re.sub(r"[^a-z0-9]+", "_", slug).strip("_")
     return slug[:max_len].strip("_") or "article"
@@ -119,53 +119,120 @@ def chunked(items: list, size: int):
         yield items[i:i + size]
 
 
-def is_article(title: str) -> bool:
-    """True when a pageview entry looks like a real, readable article."""
-    if title == "Main_Page":
-        return False
-    if title.startswith(NON_ARTICLE_PREFIXES):
-        return False
-    if title.endswith("(disambiguation)"):
-        return False
-    return True
+def api_get(session: requests.Session, params: dict, retries: int = 3) -> dict:
+    """GET the MediaWiki Action API as JSON, with simple backoff retries."""
+    params = {**params, "format": "json", "formatversion": 2}
+    last_error = None
+    for attempt in range(retries):
+        try:
+            resp = session.get(ACTION_API, params=params, timeout=45)
+            resp.raise_for_status()
+            data = resp.json()
+            if "error" in data:
+                raise RuntimeError(data["error"].get("info", "unknown API error"))
+            return data
+        except (requests.RequestException, RuntimeError, ValueError) as exc:
+            last_error = exc
+            time.sleep(1.5 * (attempt + 1))
+    raise RuntimeError(f"API request failed: {last_error}")
 
 
 # ---------------------------------------------------------------------------
-# Step 1 — which articles were most viewed?
+# Step 1 — harvest the Vital articles lists, in importance order
 # ---------------------------------------------------------------------------
 
-def fetch_top_pageviews(session: requests.Session, year: int, month: int):
-    """Return the ranked pageview list for a month, or None if unavailable."""
-    url = PAGEVIEWS_API.format(year=year, month=month)
-    resp = session.get(url, timeout=30)
-    if resp.status_code == 404:  # month not published yet
-        return None
-    resp.raise_for_status()
-    return resp.json()["items"][0]["articles"]
+def strip_wiki_markup(text: str) -> str:
+    """Turn a wikitext heading such as 'Science and [[medicine]]' into plain text."""
+    text = re.sub(r"\[\[[^\]|]*\|([^\]]*)\]\]", r"\1", text)  # [[target|label]]
+    text = re.sub(r"\[\[([^\]]*)\]\]", r"\1", text)           # [[target]]
+    return re.sub(r"[\[\]{}]", "", text).strip()
 
 
-def resolve_month(session, year=None, month=None):
-    """Work out which month to use and return (year, month, ranked_articles).
+def vital_entries(wikitext: str):
+    """Yield (article_title, topic) for each bulleted link, in page order.
 
-    Pageview data lags behind the calendar, so when no month is given we walk
-    backwards from last month until we find published data.
+    Entries look like `* {{Icon|FA}} [[Article]]` and are grouped under
+    `== Topic ==` headings (e.g. History, Geography, People, ...).
     """
-    if year and month:
-        items = fetch_top_pageviews(session, year, month)
-        if items is None:
-            sys.exit(f"No pageview data published for {year}-{month:02d}.")
-        return year, month, items
+    topic = ""
+    for line in wikitext.split("\n"):
+        stripped = line.strip()
+        heading = re.match(r"^==([^=].*?)==\s*$", stripped)  # == Topic == but not === Sub ===
+        if heading:
+            topic = strip_wiki_markup(heading.group(1))
+            continue
+        if stripped.startswith("*"):
+            for link in re.findall(r"\[\[([^\[\]]+?)\]\]", stripped):
+                target = link.split("|")[0].split("#")[0].strip()
+                if target and not target.startswith(":"):
+                    yield target, topic
 
-    today = dt.date.today()
-    y, m = today.year, today.month
-    for _ in range(6):
-        m -= 1
-        if m == 0:
-            m, y = 12, y - 1
-        items = fetch_top_pageviews(session, y, m)
-        if items:
-            return y, m, items
-    sys.exit("Could not find any recent pageview data.")
+
+def resolve_articles(session, entries, seen: set) -> list[dict]:
+    """Keep only existing main-space articles, de-duplicated against `seen`.
+
+    `entries` is an ordered list of (title, topic). Returns an ordered list of
+    {"title", "topic"} dicts (using the canonical page title).
+    """
+    kept: list[dict] = []
+    for batch in chunked(entries, 50):
+        titles = [title for title, _ in batch]
+        data = api_get(session, {"action": "query", "prop": "info",
+                                 "redirects": 1, "titles": "|".join(titles)})
+        query = data.get("query", {})
+
+        # The API may rename our input (underscores -> spaces) and follow
+        # redirects; one alias map lets us look results back up.
+        alias = {}
+        for entry in query.get("normalized", []) + query.get("redirects", []):
+            alias[entry["from"]] = entry["to"]
+        pages = {p["title"]: p for p in query.get("pages", [])}
+
+        for title, topic in batch:
+            key, hops = title, set()
+            while key in alias and key not in hops:
+                hops.add(key)
+                key = alias[key]
+            page = pages.get(key)
+            if page and page.get("ns") == 0 and "missing" not in page \
+                    and page["title"] not in seen:
+                seen.add(page["title"])
+                kept.append({"title": page["title"], "topic": topic})
+    return kept
+
+
+def fetch_vital_articles(session, levels, limit: int) -> list[dict]:
+    """Return the top `limit` vital articles, most vital first.
+
+    Each item is {"title", "topic", "level"} plus a 1-based "rank".
+    """
+    seen: set[str] = set()
+    articles: list[dict] = []
+    for level in levels:
+        data = api_get(session, {"action": "parse", "prop": "wikitext",
+                                 "redirects": 1,
+                                 "page": VITAL_PAGE.format(level=level)})
+        entries = list(vital_entries(data["parse"]["wikitext"]))
+        resolved = resolve_articles(session, entries, seen)
+        for item in resolved:
+            item["level"] = level
+        articles.extend(resolved)
+        log(f"  Level {level}: +{len(resolved)} articles")
+
+    # Some articles (e.g. the Level 1 ones) have no section heading on the page
+    # we first met them; borrow a topic from a later listing when possible.
+    topic_by_title: dict[str, str] = {}
+    for item in articles:
+        if item["topic"]:
+            topic_by_title.setdefault(item["title"], item["topic"])
+    for item in articles:
+        if not item["topic"]:
+            item["topic"] = topic_by_title.get(item["title"], DEFAULT_TOPIC)
+
+    articles = articles[:limit]
+    for rank, item in enumerate(articles, start=1):
+        item["rank"] = rank
+    return articles
 
 
 # ---------------------------------------------------------------------------
@@ -173,45 +240,33 @@ def resolve_month(session, year=None, month=None):
 # ---------------------------------------------------------------------------
 
 def fetch_metadata(session: requests.Session, titles: list[str]) -> dict:
-    """Map {underscore_title: {description, summary, pageid, url}}.
+    """Map {title: {description, summary, pageid, url}}.
 
     Uses action=query with prop=description|extracts so 50 titles cost one
     request instead of 50.
     """
     meta: dict[str, dict] = {}
     for batch in chunked(titles, 50):
-        params = {
-            "action": "query",
-            "format": "json",
-            "formatversion": 2,
-            "prop": "description|extracts|info",
-            "exintro": 1,
-            "explaintext": 1,
-            "redirects": 1,
-            "inprop": "url",
+        data = api_get(session, {
+            "action": "query", "prop": "description|extracts|info",
+            "exintro": 1, "explaintext": 1, "redirects": 1, "inprop": "url",
             "titles": "|".join(batch),
-        }
-        resp = session.get(ACTION_API, params=params, timeout=30)
-        resp.raise_for_status()
-        query = resp.json().get("query", {})
+        })
+        query = data.get("query", {})
 
-        # The API may rename our input (underscores -> spaces) and follow
-        # redirects. Build one alias map so we can look results back up by the
-        # title we originally asked for.
         alias = {}
         for entry in query.get("normalized", []) + query.get("redirects", []):
             alias[entry["from"]] = entry["to"]
-
         pages = {p["title"]: p for p in query.get("pages", []) if "missing" not in p}
 
         for title in batch:
-            key, seen = title, set()
-            while key in alias and key not in seen:
-                seen.add(key)
+            key, hops = title, set()
+            while key in alias and key not in hops:
+                hops.add(key)
                 key = alias[key]
             page = pages.get(key)
             if not page:
-                continue  # redirect to a missing page, etc.
+                continue
             meta[title] = {
                 "description": page.get("description") or "",
                 "summary": (page.get("extract") or "").strip(),
@@ -229,26 +284,17 @@ def fetch_metadata(session: requests.Session, titles: list[str]) -> dict:
 def fetch_html(session: requests.Session, title: str, retries: int = 3):
     """Fetch a page's rendered HTML (and its pageid) via action=parse."""
     params = {
-        "action": "parse",
-        "page": title,
-        "prop": "text",
-        "format": "json",
-        "formatversion": 2,
-        "redirects": 1,
-        "disableeditsection": 1,
+        "action": "parse", "page": title, "prop": "text",
+        "redirects": 1, "disableeditsection": 1,
     }
     last_error = None
     for attempt in range(retries):
         try:
-            resp = session.get(ACTION_API, params=params, timeout=45)
-            resp.raise_for_status()
-            data = resp.json()
-            if "error" in data:
-                raise RuntimeError(data["error"].get("info", "unknown API error"))
+            data = api_get(session, params)
             return data["parse"]["text"], data["parse"].get("pageid")
-        except (requests.RequestException, RuntimeError, KeyError) as exc:
+        except (RuntimeError, KeyError) as exc:
             last_error = exc
-            time.sleep(1.5 * (attempt + 1))  # simple backoff
+            time.sleep(1.5 * (attempt + 1))
     raise RuntimeError(f"failed to fetch {title!r}: {last_error}")
 
 
@@ -294,14 +340,15 @@ def build_article_file(record: dict) -> str:
         f"id: {record['id']}",
         f"title: {yaml_quote(record['title'])}",
         f"rank: {record['rank']}",
-        f"views: {record['views']}",
+        f"level: {record['level']}",
+        f"topic: {yaml_quote(record['topic'])}",
         f"url: {yaml_quote(record['url'])}",
         f"pageid: {record['pageid']}",
         f"description: {yaml_quote(record['description'])}",
         f"summary: {yaml_quote(record['summary'])}",
         "source: Wikipedia",
+        f"source_list: {yaml_quote(VITAL_SOURCE_LIST)}",
         'license: "CC BY-SA 4.0"',
-        f"month: \"{record['month']}\"",
         f"retrieved: {record['retrieved']}",
         "---",
     ])
@@ -320,11 +367,11 @@ def build_article_file(record: dict) -> str:
     )
 
 
-def write_index(out_dir: Path, records: list[dict], month: str) -> None:
+def write_index(out_dir: Path, records: list[dict], levels) -> None:
     index = {
         "generated": dt.datetime.now().isoformat(timespec="seconds"),
-        "source": "Wikimedia Pageviews API + MediaWiki Action API (en.wikipedia.org)",
-        "month": month,
+        "source": "Wikipedia:Vital articles (via the MediaWiki Action API)",
+        "levels": list(levels),
         "count": len(records),
         "license": "CC BY-SA 4.0",
         "articles": [
@@ -333,7 +380,8 @@ def write_index(out_dir: Path, records: list[dict], month: str) -> None:
                 "title": r["title"],
                 "file": r["file"],
                 "rank": r["rank"],
-                "views": r["views"],
+                "level": r["level"],
+                "topic": r["topic"],
                 "pageid": r["pageid"],
                 "description": r["description"],
                 "url": r["url"],
@@ -353,7 +401,9 @@ README_TEMPLATE = Template("""\
 > Do not hand-edit these files — re-run the script instead.
 
 This folder holds **$count Wikipedia articles** as clean Markdown, ready to be
-turned into AI-generated reading-comprehension quizzes.
+turned into AI-generated reading-comprehension quizzes. They come from
+Wikipedia's **Vital articles** lists — a curated ranking of the most important
+general-knowledge topics — rather than from what happens to be trending.
 
 ## What's here
 
@@ -367,9 +417,11 @@ turned into AI-generated reading-comprehension quizzes.
 
 No API key is required — all endpoints are free and public.
 
-* **Which articles:** the most-viewed English Wikipedia pages for
-  **$month**, from the Wikimedia [Pageviews API](https://wikimedia.org/api/rest_v1/)
-  (`/metrics/pageviews/top/en.wikipedia/all-access/$month_path/all-days`).
+* **Which articles:** Wikipedia's [Vital articles](https://en.wikipedia.org/wiki/Wikipedia:Vital_articles)
+  lists, Levels $levels. Each level page ranks its topics by importance
+  (Level 1 = the ~10 most vital, Level 2 = the ~100 most vital, Level 3 = the
+  ~1,000 most vital). Articles are taken in importance order:
+  Level 1, then Level 2, then Level 3.
 * **Article text:** the MediaWiki [Action API](https://www.mediawiki.org/wiki/API:Main_page)
   (`action=parse`), converted from HTML to Markdown with `markdownify`.
 * **Descriptions + intro summaries:** `action=query&prop=description|extracts`.
@@ -380,20 +432,30 @@ Every `study_XXXX_<slug>.md` file starts with YAML front matter:
 
 ```yaml
 ---
-id: study_0001                # stable id shared by the app and its quiz JSON
-title: "Lizzie Borden"
-rank: 4                       # position in the monthly pageview ranking
-views: 8522591                # pageviews during $month
-url: "https://en.wikipedia.org/wiki/Lizzie_Borden"
-pageid: 214796                # permanent MediaWiki page id
-description: "American woman acquitted of murder (1860–1927)"
-summary: "Lizzie Andrew Borden (July 19, 1860 – June 1, 1927) was ..."
+id: $ex_id
+title: $ex_title
+rank: $ex_rank
+level: $ex_level
+topic: $ex_topic
+url: $ex_url
+pageid: $ex_pageid
+description: $ex_description
+summary: $ex_summary
 source: Wikipedia
+source_list: "Wikipedia:Vital articles"
 license: "CC BY-SA 4.0"
-month: "$month"
-retrieved: $date
+retrieved: $ex_retrieved
 ---
 ```
+
+Field notes:
+
+* `id` — stable id used by the app and its quiz JSON (`study_0001`, ...).
+* `rank` — position in the importance-ordered list (1 = most vital).
+* `level` — Vital articles level the topic belongs to (1, 2 or 3).
+* `topic` — subject area, e.g. `History`, `Geography`, `People`. Group the
+  library by this to build "browse by subject" screens.
+* `pageid` — permanent MediaWiki page id; a durable key if the ranking changes.
 
 ...followed by the article body:
 
@@ -419,7 +481,7 @@ import json, pathlib
 
 manifest = json.loads(pathlib.Path("articles/index.json").read_text())
 for article in manifest["articles"]:
-    print(article["id"], article["title"], article["description"])
+    print(article["id"], article["title"], "-", article["topic"])
 ```
 
 **2. Read one article and (later) generate its quiz**
@@ -443,15 +505,14 @@ points all join on one key:
 ## Regenerating / customising
 
 ```bash
-./venv/bin/python get_articles.py                 # top 300, latest full month
-./venv/bin/python get_articles.py --limit 20      # small sample
-./venv/bin/python get_articles.py --year 2026 --month 9
+./venv/bin/python get_articles.py                 # top 300 vital articles (levels 1-3)
+./venv/bin/python get_articles.py --limit 50      # fewer articles
+./venv/bin/python get_articles.py --levels 1,2    # only the most vital
 ./venv/bin/python get_articles.py --out other_dir
 ```
 
-Note: `id` and file names are based on the ranking *for that month*, so they
-change if you regenerate with a different month. The `pageid` field is stable
-across runs — use it if you need a permanent key.
+The vital-articles ranking changes slowly, so `id` / `rank` are fairly stable
+between runs. If you need a key that never changes, use `pageid`.
 
 ## Licensing
 
@@ -462,13 +523,27 @@ notice) visible in the app, for example on the article page, to stay compliant.
 """)
 
 
-def write_readme(out_dir: Path, count: int, month: str, generated: str) -> None:
+def short(text: str, limit: int = 90) -> str:
+    text = re.sub(r"\s+", " ", text).strip()
+    return text if len(text) <= limit else text[:limit].rstrip() + "..."
+
+
+def write_readme(out_dir: Path, records: list[dict], levels, generated: str) -> None:
+    example = records[0]
     readme = README_TEMPLATE.substitute(
-        count=count,
-        month=month,
-        month_path=month.replace("-", "/"),
-        date=dt.date.today().isoformat(),
         generated=generated,
+        count=len(records),
+        levels=", ".join(str(l) for l in levels),
+        ex_id=example["id"],
+        ex_title=yaml_quote(example["title"]),
+        ex_rank=example["rank"],
+        ex_level=example["level"],
+        ex_topic=yaml_quote(example["topic"]),
+        ex_url=yaml_quote(example["url"]),
+        ex_pageid=example["pageid"],
+        ex_description=yaml_quote(short(example["description"])),
+        ex_summary=yaml_quote(short(example["summary"])),
+        ex_retrieved=example["retrieved"],
     )
     (out_dir / "README.md").write_text(readme, encoding="utf-8")
 
@@ -478,14 +553,14 @@ def write_readme(out_dir: Path, count: int, month: str, generated: str) -> None:
 # ---------------------------------------------------------------------------
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description=__doc__,
-                                     formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--limit", type=int, default=DEFAULT_LIMIT,
                         help=f"how many articles to keep (default {DEFAULT_LIMIT})")
-    parser.add_argument("--year", type=int, default=None,
-                        help="pageview year (default: latest published month)")
-    parser.add_argument("--month", type=int, default=None,
-                        help="pageview month 1-12 (default: latest published month)")
+    parser.add_argument("--levels", default="1,2,3",
+                        help="vital-articles levels to include, in importance "
+                             "order (default 1,2,3)")
     parser.add_argument("--out", default=DEFAULT_OUT,
                         help=f"output folder (default {DEFAULT_OUT}/)")
     parser.add_argument("--delay", type=float, default=0.1,
@@ -495,32 +570,37 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     args = parse_args()
+    levels = tuple(int(x) for x in str(args.levels).replace(" ", "").split(",") if x)
+
     session = requests.Session()
     session.headers.update(HEADERS)
 
     out_dir = Path(args.out)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    log("Finding the most-viewed articles ...")
-    year, month, ranked = resolve_month(session, args.year, args.month)
-    month_str = f"{year}-{month:02d}"
-    log(f"  Using pageview data for {month_str} ({len(ranked)} entries).")
-
-    candidates = [a for a in ranked if is_article(a["article"])][: args.limit]
-    log(f"  Kept the top {len(candidates)} real articles (after filtering namespaces).")
+    log("Reading the Wikipedia vital-articles lists ...")
+    try:
+        articles = fetch_vital_articles(session, levels, args.limit)
+    except Exception as exc:
+        log(f"  ERROR: {exc}")
+        return 1
+    log(f"  Selected the top {len(articles)} vital articles.")
+    if not articles:
+        log("  No articles found — aborting.")
+        return 1
 
     log("Fetching descriptions and summaries ...")
-    meta = fetch_metadata(session, [a["article"] for a in candidates])
-    log(f"  Got metadata for {len(meta)}/{len(candidates)} articles.")
+    meta = fetch_metadata(session, [a["title"] for a in articles])
+    log(f"  Got metadata for {len(meta)}/{len(articles)} articles.")
 
     retrieved = dt.date.today().isoformat()
     records: list[dict] = []
     failures: list[tuple[str, str]] = []
 
     log(f"Downloading and converting articles into {out_dir}/ ...")
-    for position, entry in enumerate(candidates, start=1):
-        title = entry["article"]
-        article_id = f"study_{position:04d}"
+    for item in articles:
+        title = item["title"]
+        article_id = f"study_{item['rank']:04d}"
         filename = f"{article_id}_{slugify(title)}.md"
         info = meta.get(title, {})
         try:
@@ -535,15 +615,15 @@ def main() -> int:
 
             record = {
                 "id": article_id,
-                "title": title.replace("_", " "),
-                "rank": entry["rank"],
-                "views": entry["views"],
+                "title": title,
+                "rank": item["rank"],
+                "level": item["level"],
+                "topic": item["topic"],
                 "url": info.get("url")
-                or f"https://en.wikipedia.org/wiki/{quote(title)}",
+                or f"https://en.wikipedia.org/wiki/{quote(title.replace(' ', '_'))}",
                 "pageid": info.get("pageid") or pageid or "",
                 "description": info.get("description", ""),
                 "summary": summary,
-                "month": month_str,
                 "retrieved": retrieved,
                 "file": filename,
                 "body": body,
@@ -552,10 +632,10 @@ def main() -> int:
                                             encoding="utf-8")
             records.append(record)
             size_kb = len(record["body"]) / 1024
-            log(f"  [{position:>3}/{len(candidates)}] {record['title']} ({size_kb:.0f} KB)")
+            log(f"  [{item['rank']:>3}/{len(articles)}] {title} ({size_kb:.0f} KB)")
         except Exception as exc:  # keep going; report at the end
             failures.append((title, str(exc)))
-            log(f"  [{position:>3}/{len(candidates)}] SKIP {title}: {exc}")
+            log(f"  [{item['rank']:>3}/{len(articles)}] SKIP {title}: {exc}")
 
         time.sleep(args.delay)
 
@@ -564,8 +644,8 @@ def main() -> int:
         return 1
 
     generated = dt.datetime.now().isoformat(timespec="seconds")
-    write_index(out_dir, records, month_str)
-    write_readme(out_dir, len(records), month_str, generated)
+    write_index(out_dir, records, levels)
+    write_readme(out_dir, records, levels, generated)
 
     log("")
     log(f"Done. {len(records)} articles + index.json + README.md written to {out_dir}/")
