@@ -1,0 +1,167 @@
+{
+  "article_id": "0005",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the cell?",
+      "options": [
+        "The structural and functional unit of life",
+        "The smallest known living organism",
+        "A type of macromolecule found only in eukaryotes",
+        "The basic unit of reproduction in all living things"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The cell is the structural and functional unit of life.'",
+        "Incorrect. The article does not describe the cell as the smallest known living organism.",
+        "Incorrect. The article describes proteins and nucleic acids as macromolecules, not the cell.",
+        "Incorrect. While cells are involved in reproduction, the article specifically defines the cell as the structural and functional unit of life, not the basic unit of reproduction."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed as a descriptive trait of life in the article?",
+      "options": [
+        "Homeostasis",
+        "Photosynthesis",
+        "Cellular respiration",
+        "Genetic mutation"
+      ],
+      "answer_explanations": [
+        "Correct. Homeostasis is listed as the first descriptive trait of life: 'regulation of the internal environment to maintain a constant state.'",
+        "Incorrect. Photosynthesis is not listed among the descriptive traits of life in the article.",
+        "Incorrect. Cellular respiration is not listed among the descriptive traits of life in the article.",
+        "Incorrect. Genetic mutation is not listed among the descriptive traits of life in the article."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, what is a biota?",
+      "options": [
+        "The life in a particular ecosystem",
+        "A type of extremophile found in harsh environments",
+        "The process by which cells signal to one another",
+        "A system of binomial nomenclature"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The life in a particular ecosystem is called its biota.'",
+        "Incorrect. Extremophiles are organisms that occupy harsh environments, but they are not called biota.",
+        "Incorrect. Cell signalling is a biological process, not a biota.",
+        "Incorrect. Binomial nomenclature is Carl Linnaeus's classification system, not a biota."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, why are viruses controversial in discussions of life?",
+      "options": [
+        "They replicate only in host cells and do not metabolise",
+        "They are composed of four eternal elements",
+        "They cannot evolve by natural selection",
+        "They are always classified as forms of life"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that viruses 'replicate only in host cells' and 'do not metabolise,' which complicates whether they should be considered alive.",
+        "Incorrect. The four eternal elements are part of Empedocles's materialist theory, not a property of viruses.",
+        "Incorrect. The article states that viruses 'evolve by natural selection,' so this is not a reason for controversy.",
+        "Incorrect. The article states viruses are 'most often considered as just gene-coding replicators rather than forms of life,' so they are not always classified as alive."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to Aristotle's hylomorphism, what is the form of a living thing?",
+      "options": [
+        "Its soul",
+        "Its matter",
+        "Its four eternal elements",
+        "Its biochemical molecules"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'the form of a living thing is its soul (Greek psyche, Latin anima).'",
+        "Incorrect. Matter and form are distinct concepts in hylomorphism; the form is not the matter itself.",
+        "Incorrect. The four eternal elements are part of Empedocles's materialism, not Aristotle's hylomorphism.",
+        "Incorrect. Biochemical molecules are discussed in a later section on the composition of living things, not in Aristotle's hylomorphism."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what did Louis Pasteur's experiments in 1859 decisively dispel?",
+      "options": [
+        "The theory of spontaneous generation",
+        "The theory of hylomorphism",
+        "The theory of materialism",
+        "The theory of natural selection"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that spontaneous generation 'was decisively dispelled by the experiments of Louis Pasteur in 1859.'",
+        "Incorrect. Hylomorphism is Aristotle's theory and is not said to have been dispelled by Pasteur.",
+        "Incorrect. Materialism is a broader philosophical theory and is not said to have been dispelled by Pasteur.",
+        "Incorrect. Natural selection is Charles Darwin's theory and is not said to have been dispelled by Pasteur."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what two types of macromolecules do all living things contain?",
+      "options": [
+        "Proteins and nucleic acids",
+        "Carbohydrates and lipids",
+        "DNA and proteins only",
+        "RNA and lipids"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'All living things contain two types of macromolecules, proteins and nucleic acids.'",
+        "Incorrect. Carbohydrates and lipids are not mentioned as the two macromolecules all living things contain.",
+        "Incorrect. The article says nucleic acids are usually both DNA and RNA, not that DNA and proteins are the only two types.",
+        "Incorrect. RNA is a nucleic acid, but lipids are not one of the two macromolecule types mentioned."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what criticism is made of the NASA definition of life as 'a self-sustained chemical system capable of undergoing Darwinian evolution'?",
+      "options": [
+        "A single sexually reproducing individual is not alive as it is incapable of evolving on its own",
+        "It does not account for viruses",
+        "It requires life to be composed of cells",
+        "It excludes extraterrestrial life"
+      ],
+      "answer_explanations": [
+        "Correct. The article states this definition 'has been widely criticised because, according to it, a single sexually reproducing individual is not alive as it is incapable of evolving on its own.'",
+        "Incorrect. The article does not mention viruses in connection with the criticism of the NASA definition.",
+        "Incorrect. The article does not state that the definition requires life to be composed of cells.",
+        "Incorrect. The article does not state that the definition excludes extraterrestrial life."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is metabolism?",
+      "options": [
+        "Transformation of energy used to convert chemicals into cellular components and to decompose organic matter",
+        "Regulation of the internal environment to maintain a constant state",
+        "The evolutionary process whereby an organism becomes better able to live in its habitat",
+        "The ability to produce new individual organisms"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines metabolism as 'transformation of energy, used to convert chemicals into cellular components (anabolism) and to decompose organic matter (catabolism).'",
+        "Incorrect. Regulation of the internal environment is homeostasis, not metabolism.",
+        "Incorrect. The evolutionary process whereby an organism becomes better able to live in its habitat is adaptation, not metabolism.",
+        "Incorrect. The ability to produce new individual organisms is reproduction, not metabolism."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, where is life known to exist?",
+      "options": [
+        "Only on Earth",
+        "On Earth and on other planets",
+        "Only in air and water",
+        "Only in soil"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Life is only known to exist on Earth.'",
+        "Incorrect. The article says life is only known to exist on Earth, though extraterrestrial life is thought to be probable.",
+        "Incorrect. The article says life exists in air, water, and soil, not only in air and water.",
+        "Incorrect. The article says life exists in air, water, and soil, not only in soil."
+      ]
+    }
+  ]
+}

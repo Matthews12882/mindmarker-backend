@@ -1,0 +1,167 @@
+{
+  "article_id": "0100",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does random sampling assure according to the article?",
+      "options": [
+        "that inferences and conclusions can reasonably extend from the sample to the population as a whole",
+        "that every member of the target population is included in the data collection",
+        "that experimental manipulation is unnecessary for valid results",
+        "that descriptive statistics will always match inferential statistics"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that random sampling assures that inferences and conclusions can reasonably extend from the sample to the population as a whole.",
+        "Incorrect. Collecting data from every member of the target population describes census data, not random sampling.",
+        "Incorrect. The article does not state that random sampling makes experimental manipulation unnecessary.",
+        "Incorrect. The article does not claim that random sampling ensures descriptive and inferential statistics will match."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the key difference between an experimental study and an observational study?",
+      "options": [
+        "an experimental study involves manipulating the system, while an observational study does not",
+        "an observational study uses only qualitative data, while an experimental study uses only quantitative data",
+        "an experimental study is always conducted in a laboratory, while an observational study is always conducted in the field",
+        "an observational study requires a control group, while an experimental study does not"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that an experimental study involves taking measurements, manipulating the system, and taking additional measurements, whereas an observational study does not involve experimental manipulation.",
+        "Incorrect. The article does not state that observational studies use only qualitative data or that experimental studies use only quantitative data.",
+        "Incorrect. The article does not specify that experimental studies are always conducted in laboratories or observational studies in the field.",
+        "Incorrect. The article does not state that observational studies require a control group while experimental studies do not."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What are the two main statistical methods used in data analysis?",
+      "options": [
+        "descriptive statistics and inferential statistics",
+        "central tendency and dispersion",
+        "random sampling and census collection",
+        "experimental studies and observational studies"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies descriptive statistics and inferential statistics as the two main statistical methods used in data analysis.",
+        "Incorrect. Central tendency and dispersion are properties of a distribution that descriptive statistics summarize, not the two main methods of data analysis.",
+        "Incorrect. Random sampling and census collection are data collection approaches, not the two main statistical methods.",
+        "Incorrect. Experimental studies and observational studies are types of causal statistical studies, not the two main methods of data analysis."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does dispersion characterize in a distribution?",
+      "options": [
+        "the extent to which members of the distribution depart from its center and each other",
+        "the central or typical value of the distribution",
+        "the random variation in observational errors",
+        "the relationship between two statistical data sets"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that dispersion characterizes the extent to which members of the distribution depart from its center and each other.",
+        "Incorrect. The central or typical value of the distribution is described by central tendency, not dispersion.",
+        "Incorrect. Random variation in observational errors relates to inferential statistics, not the definition of dispersion.",
+        "Incorrect. The relationship between two statistical data sets is tested through statistical hypothesis testing, not dispersion."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is a Type I error in statistical hypothesis testing?",
+      "options": [
+        "rejecting the null hypothesis when it is in fact true",
+        "failing to reject the null hypothesis when it is in fact false",
+        "accepting the alternative hypothesis without sufficient evidence",
+        "using a sample that is not representative of the population"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a Type I error as rejecting the null hypothesis when it is in fact true, giving a false positive.",
+        "Incorrect. Failing to reject the null hypothesis when it is in fact false is defined as a Type II error.",
+        "Incorrect. The article does not define Type I error as accepting the alternative hypothesis without sufficient evidence.",
+        "Incorrect. Using a non-representative sample is a sampling problem, not the definition of a Type I error."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How does the article describe the relationship between probability and statistics?",
+      "options": [
+        "probability deduces answers from a general theory, while statistics induces statements about a population based on a data set",
+        "probability and statistics are identical and interchangeable subjects",
+        "statistics deduces answers from a general theory, while probability induces statements from a data set",
+        "probability is a branch of statistics, while statistics is a branch of probability"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that probability deduces answers to specific situations from a general theory of probability, while statistics induces statements about a population based on a data set.",
+        "Incorrect. The article explicitly states that probability and statistics are conceptually distinct from one another.",
+        "Incorrect. This reverses the roles described in the article; probability deduces and statistics induces.",
+        "Incorrect. The article does not describe either field as a branch of the other."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the Hawthorne effect?",
+      "options": [
+        "an outcome changes due to observation itself",
+        "productivity increases when lighting is improved",
+        "workers perform better when they are part of a control group",
+        "experimental manipulation always improves measured outcomes"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Hawthorne effect refers to the finding that an outcome changed due to observation itself.",
+        "Incorrect. While productivity improved in the Hawthorne study, the article explains this was due to observation, not the lighting change itself.",
+        "Incorrect. The article criticizes the Hawthorne study for lacking a control group, so this is not the Hawthorne effect.",
+        "Incorrect. The article does not claim that experimental manipulation always improves outcomes."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What are nominal measurements characterized by?",
+      "options": [
+        "they do not have meaningful rank order among values",
+        "they have a meaningful zero value and defined distances between measurements",
+        "they have meaningful distances between measurements but an arbitrary zero",
+        "they have imprecise differences between consecutive values but a meaningful order"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that nominal measurements do not have meaningful rank order among values.",
+        "Incorrect. A meaningful zero value and defined distances describe ratio measurements.",
+        "Incorrect. Meaningful distances with an arbitrary zero describe interval measurements.",
+        "Incorrect. Imprecise differences with a meaningful order describe ordinal measurements."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is one reason the Hawthorne study is heavily criticized today?",
+      "options": [
+        "it lacked a control group and blindness",
+        "it used only observational methods without manipulation",
+        "it did not measure productivity before and after the change",
+        "it focused on illumination rather than worker behavior"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Hawthorne study is criticized for errors in experimental procedures, specifically the lack of a control group and blindness.",
+        "Incorrect. The Hawthorne study was an experimental study that involved modifying illumination, so it did use manipulation.",
+        "Incorrect. The article states the researchers first measured productivity and then checked if changes affected it.",
+        "Incorrect. The article does not criticize the study for focusing on illumination rather than worker behavior."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article say about the validity of statistical methods?",
+      "options": [
+        "a statistical method is valid only if the system or population satisfies the assumptions of the method",
+        "statistical methods are valid regardless of the population under consideration",
+        "only experimental studies produce valid statistical results",
+        "validity depends solely on having a large sample size"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the use of any statistical method is valid only if the system or population under consideration satisfies the assumptions of the method.",
+        "Incorrect. The article explicitly conditions validity on the population satisfying the method's assumptions.",
+        "Incorrect. The article does not state that only experimental studies produce valid results.",
+        "Incorrect. While sample size is mentioned as a problem in hypothesis testing, the article does not state that validity depends solely on sample size."
+      ]
+    }
+  ]
+}

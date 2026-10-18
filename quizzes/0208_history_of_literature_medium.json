@@ -1,0 +1,167 @@
+{
+  "article_id": "0208",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is NOT considered literature according to the article?",
+      "options": [
+        "Compilations of data such as a check register",
+        "Epic poetry recounting the feats of mythic heroes",
+        "Writings in prose or poetry that provide entertainment or education",
+        "Works that use literary techniques to communicate a piece"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that some recorded materials, such as compilations of data like a check register, are not considered literature.",
+        "Incorrect. Epic poetry is described as the pinnacle of ancient literature.",
+        "Incorrect. The article defines literature as writings in prose or poetry that attempt to provide entertainment or education.",
+        "Incorrect. The article includes the development of literary techniques used in communication as part of the history of literature."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What was the primary initial use of writing before literature was incorporated into it?",
+      "options": [
+        "Accounting",
+        "Recording epic poetry",
+        "Writing religious hymns",
+        "Preserving oral folklore"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that literature was not initially incorporated in writing, as it was primarily used for simpler purposes such as accounting.",
+        "Incorrect. Epic poetry came later as literature developed; it was not the initial use of writing.",
+        "Incorrect. Religious hymns are mentioned as part of later entertainment literature, not the initial use of writing.",
+        "Incorrect. Oral folklore predates writing and was not the primary initial use of writing itself."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How were Sumerian literary works typically referred to, given that they did not use titles?",
+      "options": [
+        "By the work's first line",
+        "By the name of the scribe who recorded them",
+        "By the musical instrument associated with them",
+        "By the name of the king who commissioned them"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Sumerian literature did not use titles, instead being referred to by the work's first line.",
+        "Incorrect. While scribes recorded the works, they were not referred to by the scribe's name.",
+        "Incorrect. Some works were associated with musical instruments, but this was not how they were referred to.",
+        "Incorrect. Kings commissioned Akkadian works, but Sumerian works were referred to by their first line."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "During which Egyptian period did fiction and analysis of good and evil develop?",
+      "options": [
+        "Middle Kingdom",
+        "Old Kingdom",
+        "New Kingdom",
+        "Fifth Dynasty"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that fiction and analysis of good and evil developed during the Middle Kingdom of Egypt.",
+        "Incorrect. The Old Kingdom saw the development of autobiographies and the Instructions, but not fiction and analysis of good and evil.",
+        "Incorrect. The New Kingdom saw the persistence of wisdom literature and the popularity of entertainment literature among the nobility.",
+        "Incorrect. The Fifth Dynasty is when Old Kingdom literature developed directly from practical use, but fiction developed later."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which anthology is described as the oldest existing anthology of Chinese poetry?",
+      "options": [
+        "Classic of Poetry",
+        "Chu Ci",
+        "Book of Documents",
+        "Analects"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Classic of Poetry is the oldest existing anthology of Chinese poetry.",
+        "Incorrect. The Chu Ci is an anthology from the Warring States period, but not the oldest existing anthology of Chinese poetry.",
+        "Incorrect. The Book of Documents is one of the Six Classics but is a historical document, not a poetry anthology.",
+        "Incorrect. The Analects contains the sayings of Confucius compiled by his students, not an anthology of poetry."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What change occurred in Chinese poetry during the Han dynasty regarding verse structure?",
+      "options": [
+        "It abandoned tetrasyllabic verse in favor of pentasyllabic verse",
+        "It abandoned pentasyllabic verse in favor of tetrasyllabic verse",
+        "It adopted rhymed exposition exclusively",
+        "It returned to purely oral tradition"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that poetry during the Han dynasty abandoned tetrasyllabic verse in favor of pentasyllabic verse.",
+        "Incorrect. The article states the opposite: tetrasyllabic verse was abandoned in favor of pentasyllabic verse.",
+        "Incorrect. Rhymed exposition was one of several branches that developed, not an exclusive replacement.",
+        "Incorrect. Poetic tradition in Ancient China had been primarily oral prior to written collections, but Han poetry was written."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which work is considered the first large scale narrative work in Chinese literature?",
+      "options": [
+        "Zuo Zhuan",
+        "Spring and Autumn Annals",
+        "Art of War",
+        "Records of the Grand Historian"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Zuo Zhuan is considered to be the first large scale narrative work in Chinese literature.",
+        "Incorrect. The Spring and Autumn Annals inspired works of historical commentary, including the Zuo Zhuan, but is not itself the first large scale narrative work.",
+        "Incorrect. The Art of War is an influential book on military strategy, not a narrative work.",
+        "Incorrect. The Records of the Grand Historian was the first general history of ancient times, but not the first large scale narrative work."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which dynasty's poetry has been entirely lost according to the article?",
+      "options": [
+        "Qin dynasty",
+        "Han dynasty",
+        "Zhou dynasty",
+        "Jin dynasty"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that poetry written in the brief period of the Qin dynasty has been entirely lost.",
+        "Incorrect. Han dynasty poetry diverged into several branches and was not lost.",
+        "Incorrect. Zhou dynasty poetry includes the Classic of Poetry and Chu Ci, which survive.",
+        "Incorrect. Jin dynasty poetry developed significantly and was not lost."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What was a defining characteristic of Jian'an poetry?",
+      "options": [
+        "Strong demonstrations of emotion to express individualism",
+        "Strict adherence to Confucian doctrine",
+        "Exclusive focus on supernatural folklore",
+        "Use of tetrasyllabic verse"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Jian'an poetry incorporated idiosyncrasies and strong demonstrations of emotion to express individualism.",
+        "Incorrect. Confucianism lost influence during the Six Dynasties period, and Jian'an poetry expressed individualism rather than strict Confucian adherence.",
+        "Incorrect. Supernatural folklore was characteristic of prose fiction during the Wei and Jin dynasties, not Jian'an poetry.",
+        "Incorrect. Tetrasyllabic verse was abandoned during the Han dynasty, not a feature of Jian'an poetry."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which work was written during the Southern dynasties as part of the growth of literary criticism?",
+      "options": [
+        "The Literary Mind and the Carving of Dragons",
+        "Records of Light and Shade",
+        "A New Account of the Tales of the World",
+        "Tao Te Ching"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that The Literary Mind and the Carving of Dragons was written during the Southern dynasties as literary criticism grew.",
+        "Incorrect. Records of Light and Shade is associated with the Northern and Southern dynasties tradition of supernatural fiction.",
+        "Incorrect. A New Account of the Tales of the World is a collection of short biographical or anecdotal impressions from the Six Dynasties period.",
+        "Incorrect. The Tao Te Ching is a philosophical compilation from the Zhou dynasty, not a work of Southern dynasties literary criticism."
+      ]
+    }
+  ]
+}

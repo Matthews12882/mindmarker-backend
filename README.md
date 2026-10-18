@@ -29,25 +29,31 @@ Design goals:
 |------|-------|
 | Article corpus (300 vital articles as clean Markdown) | ✅ done |
 | `get_articles.py` downloader | ✅ done |
-| AI quiz generation | ⏳ next |
+| AI quiz generation (`generate_quizzes.py`) | ✅ done (900 quizzes for 300 articles) |
 | Backend API / database | ⏳ planned |
 | Frontend / gamification | ⏳ planned |
 
-The backend currently produces a local, self-contained corpus of articles that
-the rest of the app (quiz generation, API, UI) will build on.
+The backend currently produces a local, self-contained corpus of articles and
+pre-generated quizzes that the rest of the app (API, UI) will build on.
 
 ## Repo layout
 
 ```
 congressional-app-backend-2026/
-├── get_articles.py     # downloads the top "vital" Wikipedia articles as Markdown
-├── articles/           # the generated corpus (300 .md files)
-│   ├── README.md       #   how to use the corpus (read this)
-│   ├── index.json      #   machine-readable manifest the backend loads
+├── get_articles.py       # downloads the top "vital" Wikipedia articles as Markdown
+├── articles/             # the generated corpus (300 .md files)
+│   ├── README.md         #   how to use the corpus (read this)
+│   ├── index.json        #   machine-readable manifest the backend loads
 │   └── NNNN_<slug>.md
-├── articles.json       # placeholder (reserved)
-├── venv/               # local virtualenv (not tracked)
-└── README.md           # this file
+├── generate_quizzes.py   # batch-generates the quizzes with a free LLM
+├── validate_quizzes.py   # checks every quiz against the format invariants
+├── quizzes/              # 900 pre-generated quizzes (300 articles x 3 levels)
+│   ├── README.md         #   quiz format + generation spec (read this)
+│   ├── quiz_prompt.md    #   the reusable generation prompt
+│   └── NNNN_<slug>_<difficulty>.json
+├── articles.json         # placeholder (reserved)
+├── venv/                 # local virtualenv (not tracked)
+└── README.md             # this file
 ```
 
 ## Quick start
@@ -63,9 +69,15 @@ python3 -m venv venv
 
 # 3. Sanity-check the result
 ./venv/bin/python -c "import json;print(json.load(open('articles/index.json'))['count'], 'articles')"
+
+# 4. (Optional) regenerate quizzes — needs OPENROUTER_API_KEY in .env
+./venv/bin/python generate_quizzes.py     # resumes pending articles
+./venv/bin/python validate_quizzes.py     # checks the JSON invariants
 ```
 
-No API keys are needed — only free, public Wikipedia endpoints are used.
+Building the corpus needs no API keys — only free, public Wikipedia endpoints
+are used. Quiz generation calls OpenRouter and reads `OPENROUTER_API_KEY`
+(see `.env.example`).
 
 ## The article corpus
 
@@ -87,8 +99,13 @@ One stable id ties an article, its quiz, and a user's progress together:
 // article front matter
 id: 0001
 
-// quiz JSON (generated next)
-{ "Article-ID": "0001", "questions": [ /* ... */ ] }
+// quiz JSON
+{
+  "article_id": "0001",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [ /* ... */ ]
+}
 ```
 
 `articles/index.json` is the source of truth for the list of articles. The

@@ -1,0 +1,167 @@
+{
+  "article_id": "0187",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What was Leonhard Euler's nationality?",
+      "options": [
+        "Swiss",
+        "Russian",
+        "German",
+        "French"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Leonhard Euler was a Swiss polymath.",
+        "Incorrect. Although Euler spent much of his adult life in Saint Petersburg, Russia, he was Swiss by nationality.",
+        "Incorrect. Euler lived in Berlin, Prussia, but was not German.",
+        "Incorrect. Euler was not French; he was Swiss."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "On what date was Leonhard Euler born?",
+      "options": [
+        "15 April 1707",
+        "18 September 1783",
+        "15 April 1720",
+        "31 July 1726"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists Euler's birth date as 15 April 1707.",
+        "Incorrect. 18 September 1783 is Euler's death date, not his birth date.",
+        "Incorrect. 15 April 1720 is not mentioned as Euler's birth date in the article.",
+        "Incorrect. 31 July 1726 is not Euler's birth date; it is a date mentioned in connection with Nicolaus Bernoulli's death."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which field did Leonhard Euler found?",
+      "options": [
+        "Graph theory",
+        "Algebra",
+        "Geometry",
+        "Statistics"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler founded the studies of graph theory and topology.",
+        "Incorrect. The article does not say Euler founded algebra.",
+        "Incorrect. The article does not say Euler founded geometry.",
+        "Incorrect. The article does not say Euler founded statistics."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which Greek letter did Euler popularize to denote the ratio of a circle's circumference to its diameter?",
+      "options": [
+        "Ï",
+        "Î£",
+        "Î",
+        "i"
+      ],
+      "answer_explanations": [
+        "Correct. The article credits Euler with popularizing the Greek letter Ï to denote the ratio of a circle's circumference to its diameter.",
+        "Incorrect. The article says Euler used capital sigma (Î£) to express summations, not pi.",
+        "Incorrect. The article says Euler used capital delta (Î) for finite differences, not pi.",
+        "Incorrect. The article says Euler used the letter i to express the imaginary unit, not pi."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which city did Euler move to in 1741?",
+      "options": [
+        "Berlin",
+        "Basel",
+        "Saint Petersburg",
+        "Paris"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler left St. Petersburg in June 1741 to take up a post at the Berlin Academy.",
+        "Incorrect. Basel was Euler's birthplace and where he studied, but he moved to Berlin in 1741.",
+        "Incorrect. Euler left Saint Petersburg in 1741 to go to Berlin.",
+        "Incorrect. The article does not say Euler moved to Paris in 1741."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How many publications did Euler have?",
+      "options": [
+        "866",
+        "12",
+        "15",
+        "200"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler had 866 publications.",
+        "Incorrect. 12 refers to the number of Paris Academy prize competitions Euler won, not his total publications.",
+        "Incorrect. 15 refers to the number of times Euler entered the Paris Academy prize competition, not his publications.",
+        "Incorrect. 200 refers to the number of letters Euler wrote to a princess, not his publications."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Where did Euler spend most of his adult life?",
+      "options": [
+        "Saint Petersburg and Berlin",
+        "Basel and Paris",
+        "London and Vienna",
+        "Rome and Florence"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler spent most of his adult life in Saint Petersburg, Russia, and in Berlin.",
+        "Incorrect. Basel was where Euler was born and studied, but he spent most of his adult life elsewhere.",
+        "Incorrect. The article does not mention London or Vienna as places where Euler spent most of his adult life.",
+        "Incorrect. The article does not mention Rome or Florence in connection with Euler's adult life."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did Euler's father do for a living?",
+      "options": [
+        "Pastor",
+        "Mathematician",
+        "Physician",
+        "Scholar"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler's father, Paul III Euler, was a pastor of the Reformed Church.",
+        "Incorrect. Euler's father had taken mathematics courses, but his profession was pastor.",
+        "Incorrect. The article does not say Euler's father was a physician.",
+        "Incorrect. Euler's father was a pastor, not primarily described as a scholar."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which university did Euler enroll in at age 13?",
+      "options": [
+        "University of Basel",
+        "University of Berlin",
+        "University of Saint Petersburg",
+        "University of Paris"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in 1720, at age 13, Euler enrolled at the University of Basel.",
+        "Incorrect. The article does not say Euler enrolled at the University of Berlin at age 13.",
+        "Incorrect. Euler later went to Saint Petersburg, but not at age 13.",
+        "Incorrect. The article does not say Euler enrolled at the University of Paris at age 13."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What did Euler receive in 1723?",
+      "options": [
+        "Master of Philosophy",
+        "Bachelor of Science",
+        "Doctorate in Theology",
+        "Prize from the Paris Academy"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in 1723, Euler received a Master of Philosophy with a dissertation comparing Descartes and Newton.",
+        "Incorrect. The article does not mention Euler receiving a Bachelor of Science in 1723.",
+        "Incorrect. Euler enrolled in the theological faculty afterwards, but did not receive a doctorate in theology in 1723.",
+        "Incorrect. Euler entered the Paris Academy prize competition in 1727, not 1723."
+      ]
+    }
+  ]
+}

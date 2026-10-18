@@ -1,0 +1,167 @@
+{
+  "article_id": "0037",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is food defined as in the article?",
+      "options": [
+        "Any substance consumed by an organism for nutritional support",
+        "Only plant-based substances eaten for energy",
+        "Substances that contain only carbohydrates and fats",
+        "Materials used exclusively for cooking"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines food as \"any substance that is consumed by an organism for nutritional support.\"",
+        "Incorrect. The article states food can come from plant, animal, or fungal origin, not only plants.",
+        "Incorrect. Food contains many essential nutrients beyond carbohydrates and fats, including proteins, vitamins, and minerals.",
+        "Incorrect. Cooking is a preparation method, not the definition of food itself."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed as an essential nutrient found in food?",
+      "options": [
+        "Vitamins",
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen gas"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists vitamins among the essential nutrients found in food.",
+        "Incorrect. Oxygen is not listed as a nutrient contained in food.",
+        "Incorrect. Carbon dioxide is not listed as a nutrient found in food.",
+        "Incorrect. Nitrogen gas is not listed as a nutrient contained in food."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What do humans generally use to prepare food for consumption?",
+      "options": [
+        "Cooking",
+        "Freezing only",
+        "Fermentation only",
+        "Sun-drying only"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that humans generally use cooking to prepare food for consumption.",
+        "Incorrect. Freezing is not mentioned as the general preparation method.",
+        "Incorrect. Fermentation is mentioned for specific foods but not as the general method.",
+        "Incorrect. Sun-drying is not mentioned as the general preparation method."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What percentage of total greenhouse gas emissions do food and agricultural systems account for?",
+      "options": [
+        "As much as 37%",
+        "Exactly 10%",
+        "Less than 5%",
+        "Over 75%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states food and agricultural systems account for as much as 37% of total greenhouse gas emissions.",
+        "Incorrect. The article specifies 37%, not 10%.",
+        "Incorrect. The article specifies 37%, which is much higher than 5%.",
+        "Incorrect. The article specifies 37%, not over 75%."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which three crops account for 87% of all grain production worldwide?",
+      "options": [
+        "Corn (maize), wheat, and rice",
+        "Oats, barley, and rye",
+        "Potatoes, carrots, and peas",
+        "Soybeans, lentils, and chickpeas"
+      ],
+      "answer_explanations": [
+        "Correct. The article states corn (maize), wheat, and rice account for 87% of all grain production worldwide.",
+        "Incorrect. These are cereal grains but not the three cited for 87% of production.",
+        "Incorrect. These are vegetables, not grain crops.",
+        "Incorrect. These are legumes, not the grains cited in the article."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What are animals that only eat plants called?",
+      "options": [
+        "Herbivores",
+        "Carnivores",
+        "Omnivores",
+        "Detritivores"
+      ],
+      "answer_explanations": [
+        "Correct. The article states animals that only eat plants are called herbivores.",
+        "Incorrect. Carnivores consume herbivores or other animals, not only plants.",
+        "Incorrect. Omnivores eat both animals and plants.",
+        "Incorrect. Detritivores eat detritus, not only plants."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the primary source of energy and food for nearly all life on earth, according to the article?",
+      "options": [
+        "Photosynthesis",
+        "Fossil fuels",
+        "Animal consumption",
+        "Industrial agriculture"
+      ],
+      "answer_explanations": [
+        "Correct. The article states photosynthesis is the primary source of energy and food for nearly all life on earth.",
+        "Incorrect. Fossil fuels are used by conventional agriculture but are not the primary source for nearly all life.",
+        "Incorrect. Animal consumption is part of the food chain but not the primary source for nearly all life.",
+        "Incorrect. Industrial agriculture supplies much human food energy but is not the primary source for nearly all life on earth."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which nutrient is found in animal products such as meat, eggs, and dairy?",
+      "options": [
+        "Protein",
+        "Cellulose",
+        "Chlorophyll",
+        "Starch only"
+      ],
+      "answer_explanations": [
+        "Correct. The article states animals are an important source of protein and contain all essential amino acids.",
+        "Incorrect. Cellulose is not mentioned as a nutrient in animal products.",
+        "Incorrect. Chlorophyll is found in plants, not animal products.",
+        "Incorrect. Animal products are not described as starch only; they provide protein, fat, vitamins, and minerals."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What do bees produce that is used as a popular sweetener?",
+      "options": [
+        "Honey",
+        "Milk",
+        "Cheese",
+        "Eggs"
+      ],
+      "answer_explanations": [
+        "Correct. The article states bees produce honey, a reduced nectar from flowers used as a popular sweetener.",
+        "Incorrect. Milk is produced by mammary glands of mammals, not bees.",
+        "Incorrect. Cheese is a dairy product, not produced by bees.",
+        "Incorrect. Eggs are laid by birds and other animals, not produced by bees."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is an example of a leaf vegetable?",
+      "options": [
+        "Spinach",
+        "Potato",
+        "Apple",
+        "Almond"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists spinach as an example of leaf vegetables.",
+        "Incorrect. Potatoes are root vegetables, not leaf vegetables.",
+        "Incorrect. Apples are fruits, not leaf vegetables.",
+        "Incorrect. Almonds are nuts, not leaf vegetables."
+      ]
+    }
+  ]
+}

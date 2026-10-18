@@ -1,0 +1,167 @@
+{
+  "article_id": "0285",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A geologist is studying tectonic plate boundaries and wants to visit a capital city that lies near a divergent plate boundary. Based on the article, which capital city should they consider?",
+      "options": [
+        "Addis Ababa",
+        "Nairobi",
+        "Cairo",
+        "Khartoum"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Addis Ababa 'lies several kilometres west of the East African Rift that splits the country into the African and Somali tectonic plates,' placing it near a divergent boundary.",
+        "Incorrect. Nairobi is not mentioned in the article in relation to tectonic plates or as the capital of Ethiopia.",
+        "Incorrect. Cairo is not mentioned in the article in relation to tectonic plates or as the capital of Ethiopia.",
+        "Incorrect. Khartoum is not mentioned in the article in relation to tectonic plates or as the capital of Ethiopia."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "If an archaeologist discovers a hominid fossil in the Awash Valley dated to 3.2 million years ago, which species is it most likely to be, according to the article?",
+      "options": [
+        "Australopithecus afarensis",
+        "Ardipithecus ramidus",
+        "Homo sapiens idaltu",
+        "Homo sapiens"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'Australopithecus afarensis (Lucy)' was found in the Awash Valley and 'is estimated to have lived 3.2 million years ago.'",
+        "Incorrect. Ardipithecus ramidus is dated to 4.2 million years ago, not 3.2 million years.",
+        "Incorrect. Homo sapiens idaltu is dated to approximately 160,000 years ago, not 3.2 million years.",
+        "Incorrect. Anatomically modern Homo sapiens fossils like the Omo remains are dated to around 200,000 years ago, not 3.2 million years."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "A student claims that Ethiopia was never colonized during the Scramble for Africa. Based on the article, which of the following best evaluates this claim?",
+      "options": [
+        "The claim is partially incorrect because Ethiopia lost its sovereignty to Italy in 1936, though it was not colonized during the initial Scramble for Africa.",
+        "The claim is entirely correct because Ethiopia remained independent throughout the Scramble for Africa and never lost its sovereignty.",
+        "The claim is incorrect because Ethiopia was colonized by Egypt in the late 19th century.",
+        "The claim is correct because Ethiopia was only occupied by the British during World War II, not colonized."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Ethiopia 'remained independent during the Scramble for Africa' but later 'lost its sovereignty in 1936, when Italy under Benito Mussolini invaded,' so the claim is only partially true.",
+        "Incorrect. The article explicitly says Ethiopia 'lost its sovereignty in 1936' to Italy, contradicting the idea that it never lost sovereignty.",
+        "Incorrect. The article mentions that Ethiopia 'repelled foreign invasions from both Egypt and Italy' in the late 19th century, so it was not colonized by Egypt.",
+        "Incorrect. The article says Ethiopia was 'liberated by the British Army' in 1941 and its 'full sovereignty was restored in 1944,' not that it was occupied by the British as a colony."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Based on the article, which of the following sequences of ruling powers in Ethiopia is in the correct chronological order?",
+      "options": [
+        "Kingdom of Aksum, Zagwe dynasty, Solomonic dynasty, Derg",
+        "Zagwe dynasty, Kingdom of Aksum, Derg, Solomonic dynasty",
+        "Solomonic dynasty, Kingdom of Aksum, Zagwe dynasty, Derg",
+        "Derg, Solomonic dynasty, Zagwe dynasty, Kingdom of Aksum"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes Aksum collapsing in 960, followed by the Zagwe dynasty, then Yekuno Amlak overthrowing the Zagwe in 1270 to start the Solomonic dynasty, and finally the Derg taking power in 1974.",
+        "Incorrect. The Zagwe dynasty came after Aksum, not before it, and the Derg came after the Solomonic dynasty, not before.",
+        "Incorrect. The Solomonic dynasty began in 1270, long after Aksum (which collapsed in 960), so this order is reversed.",
+        "Incorrect. The Derg is the most recent of these powers (1974), so it cannot come first in a chronological sequence."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "A historian argues that the name 'Ethiopia' has always referred specifically to the modern nation-state. Based on the article, which evidence best refutes this argument?",
+      "options": [
+        "The article notes that in Greco-Roman epigraphs, 'Aethiopia' was a specific toponym for ancient Nubia, and Homer used it for two people groups, one in the east from Turkey to India.",
+        "The article states that the name comes from the Greek word for 'burnt-face' and was used by Herodotus for parts of Africa south of the Sahara.",
+        "The article explains that the Ge'ez Book of Axum says the name comes from a legendary individual called Ityopp'is.",
+        "The article mentions that the Aksumite King Ezana conquered Nubia and then appropriated the designation 'Ethiopians' for his own kingdom."
+      ],
+      "answer_explanations": [
+        "Correct. This directly refutes the argument by showing that the name was used for Nubia and for people in Asia, not just the modern nation-state.",
+        "Incorrect. While this shows a broad usage, it does not explicitly show that the name referred to places other than the modern nation-state, as it still refers to Africa.",
+        "Incorrect. This explains a legendary origin but does not show that the name was used for other regions.",
+        "Incorrect. This shows the name was appropriated for Aksum, which is part of modern Ethiopia, so it does not refute the argument."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "An economist is analyzing Ethiopia's economic status. According to the article, which of the following statements accurately describes its economy?",
+      "options": [
+        "Ethiopia is one of the least developed countries but has the fastest economic growth in sub-Saharan Africa, with agriculture accounting for over 37% of GDP.",
+        "Ethiopia is a developed country with a high per capita income and a literacy rate above 90%.",
+        "Ethiopia's economy is primarily industrial, with manufacturing accounting for the largest share of GDP.",
+        "Ethiopia has the slowest economic growth in sub-Saharan Africa due to a lack of foreign direct investment."
+      ],
+      "answer_explanations": [
+        "Correct. The article states Ethiopia is 'one of the least developed countries' but has 'the fastest economic growth in sub-Saharan African countries' and 'agriculture is the country's largest economic sector, accounting for over 37% of the GDP.'",
+        "Incorrect. The article says Ethiopia 'remains among the poorest in Africa' with a 'literacy rate of 60%,' contradicting this statement.",
+        "Incorrect. The article identifies agriculture as the largest sector, not manufacturing.",
+        "Incorrect. The article says Ethiopia has 'the fastest economic growth' due to 'foreign direct investment,' not the slowest growth."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "A political scientist is studying the governance of Ethiopia after 1991. Based on the article, which of the following best describes the political system established after the fall of the Derg?",
+      "options": [
+        "A system dominated by the EPRDF with a new constitution and ethnic-based federalism.",
+        "A return to the Solomonic dynasty under a constitutional monarchy.",
+        "A military junta similar to the Derg but with Soviet backing.",
+        "A unitary state with a single-party system based on Marxist-Leninist principles."
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'the Ethiopian People's Revolutionary Democratic Front (EPRDF) dominated the country with a new constitution and ethnic-based federalism.'",
+        "Incorrect. The article states the Derg 'deposed Emperor Haile Selassie and the Solomonic dynasty' in 1974, and there is no mention of a return to monarchy.",
+        "Incorrect. The Derg was a Soviet-backed military junta, but after its dissolution in 1991, the EPRDF took over, not a new military junta.",
+        "Incorrect. The article describes 'ethnic-based federalism' under the EPRDF, not a unitary state or Marxist-Leninist system."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "An anthropologist is studying early human adaptation to high altitudes. According to the article, which archaeological site provides the earliest evidence of permanent human occupation at high altitude?",
+      "options": [
+        "Fincha Habera in the Bale Mountains",
+        "Gademotta in the Ethiopian Rift",
+        "Omo Kibish in southwestern Ethiopia",
+        "Middle Awash valley"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Fincha Habera site, at an elevation of 3,469 m, is 'proof of the earliest permanent human occupation at high altitude yet discovered.'",
+        "Incorrect. Gademotta is mentioned for stone-tipped projectile weapons, not for high-altitude occupation.",
+        "Incorrect. Omo Kibish is mentioned for the Omo remains, which are early Homo sapiens fossils, not high-altitude occupation.",
+        "Incorrect. The Middle Awash valley is mentioned for Homo sapiens idaltu fossils, not for high-altitude occupation."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "A linguist is tracing the origin of the word 'Ethiopia.' According to the article, which of the following is NOT a proposed origin of the name?",
+      "options": [
+        "From the Amharic word for 'land of the free'.",
+        "From the Greek words Î±á¼´Î¸Ï and á½¤Ï, meaning 'burnt-face'.",
+        "From the legendary individual Ityopp'is in the Book of Axum.",
+        "From the name of the first King of Ethiopia, Ethiop or Ethiopis."
+      ],
+      "answer_explanations": [
+        "Correct. The article does not mention any Amharic origin meaning 'land of the free'; it only discusses Greek, Ge'ez, and traditional origins.",
+        "Incorrect. The article explicitly states the Greek name is 'derived from the Greek words Î±á¼´Î¸Ï and á½¤Ï (eithÅ \"I burn\" + Åps \"face\")' meaning 'burnt-face.'",
+        "Incorrect. The article says 'in the 15th-century Ge'ez Book of Axum, the name is ascribed to a legendary individual called Ityopp'is.'",
+        "Incorrect. The article states 'tradition holds that the name Ethiopia comes from the name of the first King of Ethiopia, Ethiop, or Ethiopis.'"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Based on the article, which of the following best explains why Ethiopia is considered an important location for paleontology?",
+      "options": [
+        "It has yielded some of the oldest hominid and anatomically modern human fossils, including Ardipithecus ramidus and Omo remains.",
+        "It is the only place where Australopithecus afarensis fossils have been found.",
+        "It contains the oldest stone tools ever discovered, dating to over 3 million years ago.",
+        "It has the highest concentration of dinosaur fossils in Africa."
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions the 4.2 million-year-old Ardipithecus ramidus and the Omo remains dated to around 200,000 years ago, among other finds, placing Ethiopia at the forefront of paleontology.",
+        "Incorrect. The article does not claim that Australopithecus afarensis is only found in Ethiopia, only that Lucy was found there.",
+        "Incorrect. The article mentions stone-tipped projectile weapons dating to 279,000 years ago, not the oldest stone tools ever.",
+        "Incorrect. The article focuses on hominid fossils, not dinosaur fossils."
+      ]
+    }
+  ]
+}

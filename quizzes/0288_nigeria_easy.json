@@ -1,0 +1,167 @@
+{
+  "article_id": "0288",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the official language of Nigeria?",
+      "options": [
+        "English",
+        "Hausa",
+        "Yoruba",
+        "Igbo"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The official language is English.'",
+        "Incorrect. Hausa is one of the largest ethnic groups but not the official language.",
+        "Incorrect. Yoruba is one of the largest ethnic groups but not the official language.",
+        "Incorrect. Igbo is one of the largest ethnic groups but not the official language."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which body of water lies to the south of Nigeria?",
+      "options": [
+        "Gulf of Guinea",
+        "Atlantic Ocean",
+        "Niger River",
+        "Lake Chad"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Nigeria is 'between the Sahel to the north and the Gulf of Guinea in the Atlantic Ocean to the south.'",
+        "Incorrect. The Atlantic Ocean is the larger ocean, but the Gulf of Guinea is the specific body to the south.",
+        "Incorrect. The Niger River runs through Nigeria but is not to its south.",
+        "Incorrect. Lake Chad is near Nigeria's northeast border, not to the south."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the capital city of Nigeria?",
+      "options": [
+        "Abuja",
+        "Lagos",
+        "Kano",
+        "Ibadan"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'its capital, Abuja, is located.'",
+        "Incorrect. Lagos is the largest city but not the capital.",
+        "Incorrect. Kano is a major city in the north but not the capital.",
+        "Incorrect. Ibadan is a large city but not the capital."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How many states does Nigeria have?",
+      "options": [
+        "36",
+        "37",
+        "35",
+        "30"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Nigeria is 'comprising 36 states and the Federal Capital Territory.'",
+        "Incorrect. There are 36 states, not 37.",
+        "Incorrect. There are 36 states, not 35.",
+        "Incorrect. There are 36 states, not 30."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which country does NOT border Nigeria?",
+      "options": [
+        "Ghana",
+        "Niger",
+        "Chad",
+        "Cameroon"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists Niger, Chad, Cameroon, and Benin as bordering countries; Ghana is not mentioned.",
+        "Incorrect. Niger borders Nigeria to the north.",
+        "Incorrect. Chad borders Nigeria to the northeast.",
+        "Incorrect. Cameroon borders Nigeria to the east."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the largest city in Nigeria by population?",
+      "options": [
+        "Lagos",
+        "Abuja",
+        "Kano",
+        "Port Harcourt"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'The largest city in Nigeria by population is Lagos.'",
+        "Incorrect. Abuja is the capital but not the largest city.",
+        "Incorrect. Kano is a major city but not the largest.",
+        "Incorrect. Port Harcourt is a major city but not the largest."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "When did Nigeria gain independence?",
+      "options": [
+        "1 October 1960",
+        "1 October 1963",
+        "1 October 1957",
+        "1 October 1970"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Nigeria officially gained independence as a federation on 1 October 1960.'",
+        "Incorrect. Independence was in 1960, not 1963.",
+        "Incorrect. Independence was in 1960, not 1957.",
+        "Incorrect. Independence was in 1960, not 1970."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which river does Nigeria's name derive from?",
+      "options": [
+        "Niger River",
+        "Benue River",
+        "Nile River",
+        "Congo River"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'The name Nigeria derives from the Niger River running through the country.'",
+        "Incorrect. The Benue River is a tributary of the Niger but not the source of the name.",
+        "Incorrect. The Nile River is in East Africa, not Nigeria.",
+        "Incorrect. The Congo River is in Central Africa, not Nigeria."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What are the three largest ethnic groups in Nigeria?",
+      "options": [
+        "Hausa, Yoruba, Igbo",
+        "Hausa, Fulani, Yoruba",
+        "Yoruba, Igbo, Fulani",
+        "Igbo, Hausa, Tiv"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The three largest ethnic groups are the Hausa, Yoruba, and Igbo.'",
+        "Incorrect. Fulani is not listed among the three largest.",
+        "Incorrect. Fulani is not listed among the three largest.",
+        "Incorrect. Tiv is not one of the three largest."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which international organization is Nigeria a founding member of?",
+      "options": [
+        "African Union",
+        "United Nations",
+        "World Bank",
+        "OPEC"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'Nigeria is a founding member of the African Union.'",
+        "Incorrect. Nigeria is a member of the UN but not mentioned as a founding member.",
+        "Incorrect. The World Bank is not listed as an organization Nigeria founded.",
+        "Incorrect. Nigeria is a member of OPEC but not mentioned as a founding member."
+      ]
+    }
+  ]
+}

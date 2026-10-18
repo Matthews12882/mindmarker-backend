@@ -1,0 +1,167 @@
+{
+  "article_id": "0097",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes how arithmetic systems can be distinguished according to the article?",
+      "options": [
+        "Based on the type of numbers they operate on and the numeral system employed",
+        "Based solely on whether they use decimal or binary notation",
+        "Based only on whether they include exponentiation and logarithms",
+        "Based exclusively on whether they operate on natural numbers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that arithmetic systems can be distinguished based on the type of numbers they operate on and based on the numeral system employed.",
+        "Incorrect. The article describes multiple distinctions, not solely decimal versus binary notation.",
+        "Incorrect. Exponentiation and logarithms are mentioned as part of a wider sense of arithmetic, not as a basis for distinguishing arithmetic systems.",
+        "Incorrect. The article discusses integers, rational numbers, real numbers, and other kinds, not only natural numbers."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, what is a key difference between rational and irrational numbers?",
+      "options": [
+        "Rational numbers can be expressed as the ratio of two integers, while irrational numbers cannot",
+        "Rational numbers are always whole numbers, while irrational numbers are always decimals",
+        "Rational numbers include only positive values, while irrational numbers include negative values",
+        "Rational numbers are used in geometry, while irrational numbers are used in counting"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a number is rational if it can be represented as the ratio of two integers, whereas irrational numbers cannot be expressed through such a ratio.",
+        "Incorrect. The article explains that rational numbers include fractions and integers, not only whole numbers.",
+        "Incorrect. The article does not state that rational numbers are limited to positive values or that irrational numbers are limited to negative values.",
+        "Incorrect. The article notes that irrational numbers are often required to describe geometric magnitudes, not rational numbers exclusively."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article say about the decimal representation of irrational numbers?",
+      "options": [
+        "It is infinite without repeating decimals",
+        "It always terminates after a finite number of digits",
+        "It repeats a fixed pattern of digits indefinitely",
+        "It contains only the digits 0 and 1"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the decimal representation of an irrational number is infinite without repeating decimals.",
+        "Incorrect. The article contrasts irrational numbers with rational numbers, which correspond to finite or repeating decimals.",
+        "Incorrect. Repeating decimals are a feature of rational numbers, not irrational numbers, according to the article.",
+        "Incorrect. The article does not restrict irrational numbers to binary digits."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which statement about positional numeral systems is supported by the article?",
+      "options": [
+        "The position of a digit determines its value in a positional numeral system",
+        "Positional numeral systems were the first numeral systems ever developed",
+        "All positional numeral systems use a radix of 10",
+        "Positional systems cannot be used in computer arithmetic"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a positional numeral system as one where the position of a basic numeral determines its value.",
+        "Incorrect. The article states that all early numeral systems were non-positional.",
+        "Incorrect. The article gives examples of different radices, such as 10 for decimal and 2 for binary.",
+        "Incorrect. The article explicitly mentions the binary system is used extensively in computer arithmetic."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what is the additive inverse of 6?",
+      "options": [
+        "-6",
+        "6",
+        "0",
+        "1/6"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the additive inverse of the number 6 is -6 since their sum is 0.",
+        "Incorrect. The article identifies -6, not 6, as the additive inverse of 6.",
+        "Incorrect. The article identifies 0 as the identity element of addition, not the additive inverse of 6.",
+        "Incorrect. The article does not describe 1/6 as the additive inverse of 6."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How does the article distinguish number theory from arithmetic in a more specific sense?",
+      "options": [
+        "Number theory is restricted to the study of integers and their properties and relationships",
+        "Number theory includes all real and complex numbers, while arithmetic does not",
+        "Number theory is exclusively concerned with practical calculations like shopping",
+        "Number theory is identical to arithmetic with no differences in scope"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in a more specific sense, number theory is restricted to the study of integers and focuses on properties such as divisibility, factorization, and primality.",
+        "Incorrect. The article describes number theory as narrower, focused on integers, not broader than arithmetic.",
+        "Incorrect. The article does not link number theory exclusively to practical calculations.",
+        "Incorrect. The article notes that while some authors use the terms as synonyms, there is a more specific sense in which they differ."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does the article say about the historical origin of the decimal system?",
+      "options": [
+        "Ancient Indians developed the concept of zero and the decimal system",
+        "Ancient Egyptians invented the decimal system in about 3000 BCE",
+        "The ancient Greeks introduced the decimal system in the 7th century BCE",
+        "Arab mathematicians invented the decimal system before spreading it to India"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ancient Indians developed the concept of zero and the decimal system.",
+        "Incorrect. The article credits ancient Egyptians with inventing numeral systems for practical problems, not specifically the decimal system.",
+        "Incorrect. The article says ancient Greeks initiated a more abstract study of numbers and introduced rigorous proofs, not the decimal system.",
+        "Incorrect. The article states that Arab mathematicians refined and spread the system developed by ancient Indians."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, which of the following is an example of an arithmetic system that operates on mathematical objects other than numbers?",
+      "options": [
+        "Matrix arithmetic",
+        "Binary arithmetic",
+        "Decimal arithmetic",
+        "Integer arithmetic"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists matrix arithmetic alongside interval arithmetic as systems that operate on mathematical objects other than numbers.",
+        "Incorrect. The article describes binary arithmetic as a numeral system used to represent numbers.",
+        "Incorrect. The article describes decimal arithmetic as the most common numeral system for expressing numbers.",
+        "Incorrect. The article describes integer arithmetic as calculations with positive and negative integers."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What role does the article assign to arithmetic operations in fields such as physics and economics?",
+      "options": [
+        "They play a similar foundational role in the sciences as they do in branches of mathematics",
+        "They are used only for basic counting and not for scientific analysis",
+        "They are irrelevant to modern physics and economics",
+        "They replaced mathematics entirely in the sciences"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that arithmetic operations play a similar role in the sciences, like physics and economics, as they do in branches of mathematics.",
+        "Incorrect. The article presents arithmetic as foundational in the sciences, not limited to basic counting.",
+        "Incorrect. The article explicitly identifies physics and economics as fields where arithmetic plays a role.",
+        "Incorrect. The article describes arithmetic as a basis for mathematics and sciences, not as a replacement for them."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following best describes the relationship between cardinal and ordinal numbers as presented in the article?",
+      "options": [
+        "Cardinal numbers express quantity, while ordinal numbers indicate order or position",
+        "Cardinal numbers indicate order, while ordinal numbers express quantity",
+        "Cardinal and ordinal numbers are identical concepts with different names",
+        "Cardinal numbers are fractions, while ordinal numbers are whole numbers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that cardinal numbers express quantity and answer 'how many?', while ordinal numbers indicate order or placement and answer 'what position?'.",
+        "Incorrect. The article reverses these definitions: cardinal numbers express quantity, not order.",
+        "Incorrect. The article presents cardinal and ordinal numbers as distinct concepts based on how natural and whole numbers are used.",
+        "Incorrect. The article does not define cardinal numbers as fractions or ordinal numbers as whole numbers."
+      ]
+    }
+  ]
+}

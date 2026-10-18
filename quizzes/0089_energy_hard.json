@@ -1,0 +1,167 @@
+{
+  "article_id": "0089",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the relationship between the modern concept of kinetic energy and Leibniz's concept of vis viva?",
+      "options": [
+        "Kinetic energy differs from vis viva only by a factor of two",
+        "Kinetic energy is identical to vis viva",
+        "Kinetic energy is vis viva divided by mass",
+        "Kinetic energy is unrelated to vis viva"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'The modern analog of this property, kinetic energy, differs from vis viva only by a factor of two.'",
+        "Incorrect. The article explicitly says kinetic energy differs from vis viva by a factor of two, not that they are identical.",
+        "Incorrect. The article does not state that kinetic energy is vis viva divided by mass.",
+        "Incorrect. The article directly connects kinetic energy to vis viva as its modern analog."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to Noether's theorem as described in the article, what physical symmetry is the conservation of energy a consequence of?",
+      "options": [
+        "The laws of physics do not change over time",
+        "The laws of physics are the same in all locations",
+        "The laws of physics are rotationally invariant",
+        "The laws of physics conserve momentum"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'According to Noether's theorem, the conservation of energy is a consequence of the fact that the laws of physics do not change over time.'",
+        "Incorrect. The article links conservation of energy to time symmetry, not spatial uniformity.",
+        "Incorrect. The article does not connect energy conservation to rotational symmetry.",
+        "Incorrect. The article does not state that energy conservation is a consequence of momentum conservation."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "In the article's table of energy types, which form of energy is described as 'kinetic energy of the microscopic motion of particles, a kind of disordered equivalent of mechanical energy'?",
+      "options": [
+        "Thermal energy",
+        "Mechanical wave energy",
+        "Sound wave energy",
+        "Radiant energy"
+      ],
+      "answer_explanations": [
+        "Correct. The table lists Thermal energy as 'kinetic energy of the microscopic motion of particles, a kind of disordered equivalent of mechanical energy'.",
+        "Incorrect. Mechanical wave energy is described as kinetic and potential energy in an elastic material due to a propagating oscillation of matter.",
+        "Incorrect. Sound wave energy is described as kinetic and potential energy in a material due to a sound propagated wave.",
+        "Incorrect. Radiant energy is described as potential energy stored in the fields of waves propagated by electromagnetic radiation."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what did Ãmilie du ChÃ¢telet propose in the marginalia of her translation of Newton's Principia Mathematica?",
+      "options": [
+        "The concept of conservation of energy as a conserved measurable quantity distinct from momentum",
+        "The concept of vis viva as living force",
+        "The term potential energy",
+        "The term energy in its modern sense"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Ãmilie du ChÃ¢telet 'proposed the concept of conservation of energy in the marginalia of her French language translation of Newton's Principia Mathematica, which represented the first formulation of a conserved measurable quantity that was distinct from momentum'.",
+        "Incorrect. Vis viva was proposed by Gottfried Leibniz, not Ãmilie du ChÃ¢telet.",
+        "Incorrect. The term potential energy was coined by William Rankine in 1853.",
+        "Incorrect. Thomas Young was possibly the first to use the term 'energy' instead of vis viva in 1807."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what happens to rest mass when it is converted to or from equivalent amounts of non-material forms of energy?",
+      "options": [
+        "Rest mass is not conserved, unlike total mass or total energy",
+        "Rest mass is conserved along with total mass",
+        "Rest mass is converted entirely into kinetic energy only",
+        "Rest mass remains constant regardless of energy conversion"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'When this happens, rest mass is not conserved, unlike the total mass or total energy.'",
+        "Incorrect. The article explicitly says rest mass is not conserved when converted to or from energy.",
+        "Incorrect. The article does not state that rest mass is converted entirely into kinetic energy.",
+        "Incorrect. The article states that rest mass can be converted to or from equivalent amounts of energy, meaning it does not remain constant."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the SI unit of power and how is it defined?",
+      "options": [
+        "The watt, which is one joule per second",
+        "The joule, which is one newton-meter",
+        "The kilowatt-hour, which is 3.6 million joules",
+        "The erg, which is the CGS energy unit"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The SI unit of power, defined as energy per unit of time, is the watt, which is one joule per second.'",
+        "Incorrect. The joule is the SI unit of energy, not power.",
+        "Incorrect. The kilowatt-hour is a unit of energy equal to 3.6 million joules, not the SI unit of power.",
+        "Incorrect. The erg is the CGS energy unit, not the SI unit of power."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what did James Prescott Joule discover in 1845?",
+      "options": [
+        "The link between mechanical work and the generation of heat",
+        "The law of conservation of energy",
+        "The term potential energy",
+        "The concept of entropy"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'In 1845 James Prescott Joule discovered the link between mechanical work and the generation of heat.'",
+        "Incorrect. The law of conservation of energy was first postulated in the early 19th century, not discovered by Joule in 1845.",
+        "Incorrect. The term potential energy was coined by William Rankine in 1853.",
+        "Incorrect. The mathematical formulation of entropy was developed by Clausius, not Joule."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, how are kinetic energy and potential energy defined in relation to each other?",
+      "options": [
+        "Kinetic energy is determined by movement, while potential energy reflects the potential to have motion based on position or stored field energy",
+        "Kinetic energy is stored energy, while potential energy is energy of motion",
+        "Kinetic energy and potential energy are mutually exclusive categories",
+        "Kinetic energy depends on position in a field, while potential energy depends on motion"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Kinetic energy is determined by the movement of an object... while potential energy reflects the potential of an object to have motion, generally being based upon the object's position within a field or what is stored within the field itself.'",
+        "Incorrect. This reverses the definitions; kinetic energy is energy of motion, not stored energy.",
+        "Incorrect. The article states these categories are 'not mutually exclusive' and that 'These two categories are sufficient to describe all forms of energy'.",
+        "Incorrect. This reverses the dependencies; kinetic energy depends on movement, potential energy on position or stored field energy."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what does the conservation of energy state about the total energy of an isolated system?",
+      "options": [
+        "It remains constant, although it can be converted in form",
+        "It continually increases over time",
+        "It is always decreasing due to entropy",
+        "It can be created or destroyed"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'the law of conservation of energy states that the total energy of an isolated system remains constant, although it can be converted in form.'",
+        "Incorrect. The article states the total energy remains constant, not that it increases.",
+        "Incorrect. The article does not state that total energy decreases due to entropy.",
+        "Incorrect. The article states energy is a conserved quantity, meaning it cannot be created or destroyed."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what did the ancient Greek concept of energeia include that the modern definition of energy does not?",
+      "options": [
+        "Qualitative philosophical ideas such as happiness and pleasure",
+        "Only measurable physical quantities",
+        "Only kinetic and potential energy",
+        "Only radiant energy from the Sun"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'In contrast to the modern definition, energeia was a qualitative philosophical concept, broad enough to include ideas such as happiness and pleasure.'",
+        "Incorrect. The modern definition is quantitative, while energeia was qualitative.",
+        "Incorrect. The article does not limit energeia to kinetic and potential energy.",
+        "Incorrect. The article does not associate energeia with radiant energy from the Sun."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0188",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If Gauss had not received financial support from the Duke of Brunswick after graduating in 1799, which of the following would most likely have been disrupted, based on the article?",
+      "options": [
+        "His ability to work as a private scholar in Brunswick",
+        "His appointment as director of the GÃ¶ttingen Observatory",
+        "His publication of Disquisitiones Arithmeticae in 1801",
+        "His discovery of the construction of the heptadecagon in 1796"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that after graduating in 1799, \"The Duke then granted him the cost of living as a private scholar in Brunswick,\" so without this support his status as a private scholar would likely have been disrupted.",
+        "Incorrect. His appointment as director of the GÃ¶ttingen Observatory occurred in 1807, after the Duke's death in 1806 and the cessation of ducal support, so it did not depend on that support.",
+        "Incorrect. Disquisitiones Arithmeticae was published in 1801, but the article links its ideas to his mathematical diary from 1796â1814 rather than to the Duke's post-graduation stipend.",
+        "Incorrect. The heptadecagon construction was proved in 1796, before his 1799 graduation and before the Duke granted him the cost of living as a private scholar."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "If a modern researcher wanted to replicate Gauss's approach to establishing the internal origin of most of Earth's magnetic field, which of Gauss's methodological innovations would be most directly applicable, according to the article?",
+      "options": [
+        "Applying spherical harmonic analysis to magnetic-field measurements",
+        "Using the method of least squares to analyze orbital data",
+        "Conducting a geodetic survey with a heliotrope",
+        "Developing a fast Fourier transform for signal processing"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Gauss applied \"one of his inventions, that of spherical harmonic analysis, to show that most of Earth's magnetic field was internal.\"",
+        "Incorrect. The method of least squares is discussed in the context of calculating asteroid orbits, not determining the internal origin of Earth's magnetic field.",
+        "Incorrect. The heliotrope is mentioned as an invention from his practical surveying work, not as a method for analyzing magnetic-field data.",
+        "Incorrect. The fast Fourier transform is described as a separate development, with no connection in the article to geomagnetism."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Based on the article, which conclusion is best supported about Gauss's attitude toward publishing his research?",
+      "options": [
+        "He preferred to publish only complete work, even if doing so delayed the dissemination of his discoveries.",
+        "He published all of his results promptly to ensure priority over other scientists.",
+        "He avoided publishing altogether and left all his works to be edited posthumously.",
+        "He prioritized teaching and lecturing over publishing his mathematical research."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Gauss \"is known for not publishing incomplete work and left several works to be edited posthumously, as a result; this practice delayed the dissemination of many of his discoveries.\"",
+        "Incorrect. The article explicitly says he did not publish incomplete work and that this delayed dissemination, contradicting prompt publication of all results.",
+        "Incorrect. The article says he left \"several works\" to be edited posthumously, not all of his works, and he did publish major works such as Disquisitiones Arithmeticae.",
+        "Incorrect. The article describes his aversion to lecturing and his complaint that teaching was a waste of his time, so he did not prioritize teaching over publishing."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "If a historian argued that Gauss's work on Ceres was primarily responsible for his appointment as director of the GÃ¶ttingen Observatory in 1807, which article detail most seriously undermines that argument?",
+      "options": [
+        "Gauss's appointment came after the Duke of Brunswick's death and the end of his ducal support, not immediately after his Ceres-related work.",
+        "Gauss had already developed the method of least squares before Legendre published it.",
+        "Gauss received the Lalande Prize in 1809 for planetary theory and orbit determination.",
+        "Gauss was hired as full professor and director of the observatory by the University of GÃ¶ttingen."
+      ],
+      "answer_explanations": [
+        "Correct. The article notes that the Duke was killed in 1806, the duchy was abolished the following year, and Gauss's financial support stopped before his 1807 appointment, weakening a direct causal link between Ceres work and the appointment.",
+        "Incorrect. Developing the method of least squares before Legendre does not address the timing or causes of his 1807 appointment.",
+        "Incorrect. The Lalande Prize was awarded in 1809, two years after his appointment, so it cannot explain the appointment.",
+        "Incorrect. Being hired as full professor and director restates the appointment but provides no evidence about what caused it."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following best describes the relationship between Gauss's proof of the heptadecagon construction and his career choice, according to the article?",
+      "options": [
+        "The proof led him to choose mathematics instead of philology as a career.",
+        "The proof was completed after he had already committed to a career in philology.",
+        "The proof was unrelated to his career decision and was merely an early mathematical curiosity.",
+        "The proof convinced the Duke of Brunswick to fund his university studies."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"This discovery ultimately led Gauss to choose mathematics instead of philology as a career.\"",
+        "Incorrect. The article says the discovery led him to choose mathematics, not that he had already committed to philology.",
+        "Incorrect. The article directly links the discovery to his career choice, so it was not merely an unrelated curiosity.",
+        "Incorrect. The Duke's funding for university studies came later and is not described as being prompted by the heptadecagon proof."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "If a student today wanted to follow Gauss's reported method for summing the integers from 1 to 100, which of the following steps would be essential, according to the article?",
+      "options": [
+        "Rearranging the sum into 50 pairs of 101 and multiplying 50 by 101",
+        "Adding each number sequentially from 1 to 100",
+        "Using the formula for an arithmetic series taught by his teacher",
+        "Consulting mathematical tables available at the Collegium Carolinum"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes Gauss's realization that \"the sum could be rearranged as 50 pairs of 101\" and that \"he simply multiplied 50 by 101.\"",
+        "Incorrect. Sequential addition is what the rest of the class presumably did, not Gauss's reported shortcut.",
+        "Incorrect. The article does not mention Gauss using a formula taught by his teacher; it describes his own insight.",
+        "Incorrect. The article makes no mention of mathematical tables or the Collegium Carolinum in connection with this story."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Based on the article, which inference about Gauss's teaching responsibilities at GÃ¶ttingen is most justified?",
+      "options": [
+        "He continuously gave lectures from the start of his career until 1854 despite complaining about the burden of teaching.",
+        "He refused to give any academic lectures because he considered them a waste of time.",
+        "He focused almost exclusively on pure mathematics in his lectures.",
+        "He stopped lecturing well before 1854 because of his aversion to teaching."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that despite his aversion to lecturing, \"from the start of his academic career at GÃ¶ttingen, he continuously gave lectures until 1854,\" and that he often complained about the burdens of teaching.",
+        "Incorrect. The article explicitly says he continuously gave lectures until 1854, so he did not refuse to lecture altogether.",
+        "Incorrect. The article says most of his lectures dealt with astronomy, geodesy, and applied mathematics, with only three on pure mathematics.",
+        "Incorrect. The article states he lectured continuously until 1854, not that he stopped well before then."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "If Gauss had lived in an era before the invention of the heliotrope, which of his practical contributions would most likely not have existed in its known form, according to the article?",
+      "options": [
+        "The heliotrope, invented in 1821 as part of his practical work",
+        "The first electromagnetic telegraph, developed with Wilhelm Eduard Weber",
+        "The absolute measurement of Earth's magnetic field in 1832",
+        "The method of least squares for calculating asteroid orbits"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that \"His practical work led to the invention of the heliotrope in 1821,\" so without the heliotrope's invention context, this contribution would not exist in its known form.",
+        "Incorrect. The telegraph is listed as a separate invention made with Weber in 1833, not dependent on the heliotrope.",
+        "Incorrect. The absolute measurement of Earth's magnetic field is described as a separate achievement in 1832.",
+        "Incorrect. The method of least squares is discussed in connection with asteroid orbits and is not linked to the heliotrope."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following best captures the article's portrayal of Gauss's personal enjoyment of intellectual work?",
+      "options": [
+        "He believed the act of learning, not possession of knowledge, provided the greatest enjoyment.",
+        "He derived his greatest enjoyment from publishing complete works and receiving academic honors.",
+        "He found his greatest enjoyment in teaching students such as Dedekind and Riemann.",
+        "He enjoyed possession of knowledge more than the process of learning it."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"He believed that the act of learning, not possession of knowledge, provided the greatest enjoyment.\"",
+        "Incorrect. The article emphasizes his reluctance to publish incomplete work and does not link his greatest enjoyment to publishing or honors.",
+        "Incorrect. The article says he was not an enthusiastic teacher and generally preferred to focus on his own work.",
+        "Incorrect. This directly contradicts the article's statement that the act of learning, not possession of knowledge, provided the greatest enjoyment."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "If a researcher wanted to trace Gauss's influence on the development of geophysics, which article detail would be most relevant as a starting point?",
+      "options": [
+        "Gauss led the geodetic survey of the Kingdom of Hanover and was one of the founders of geophysics.",
+        "Gauss proved the triangular case of the Fermat polygonal number theorem.",
+        "Gauss introduced the triple bar symbol for congruence.",
+        "Gauss received the Copley Medal in 1838 for mathematical research in magnetism."
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly identifies Gauss as \"one of the founders of geophysics\" in connection with his leadership of the geodetic survey of the Kingdom of Hanover.",
+        "Incorrect. The Fermat polygonal number theorem is a number-theoretic result, not directly related to geophysics.",
+        "Incorrect. The triple bar symbol for congruence is a notation in number theory, not geophysics.",
+        "Incorrect. While the Copley Medal recognized his magnetism research, the article more directly identifies his foundational role in geophysics through the Hanover survey."
+      ]
+    }
+  ]
+}

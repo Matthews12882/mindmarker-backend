@@ -1,0 +1,167 @@
+{
+  "article_id": "0160",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "When was Wolfgang Amadeus Mozart born?",
+      "options": [
+        "27 January 1756",
+        "5 December 1791",
+        "27 January 1791",
+        "5 December 1756"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Wolfgang Amadeus Mozart was born on 27 January 1756.",
+        "Incorrect. 5 December 1791 is Mozart's date of death, not his birth date.",
+        "Incorrect. The article does not give 27 January 1791 as Mozart's birth date.",
+        "Incorrect. The article does not give 5 December 1756 as Mozart's birth date."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "In which city was Mozart born?",
+      "options": [
+        "Salzburg",
+        "Vienna",
+        "Paris",
+        "Milan"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Mozart was born in Salzburg.",
+        "Incorrect. The article does not state that Mozart was born in Vienna.",
+        "Incorrect. The article does not state that Mozart was born in Paris.",
+        "Incorrect. The article does not state that Mozart was born in Milan."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How many works did Mozart complete in his life?",
+      "options": [
+        "More than 800 works",
+        "Exactly 800 works",
+        "Fewer than 800 works",
+        "More than 1000 works"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Mozart completed more than 800 works in his life.",
+        "Incorrect. The article says 'more than 800 works', not exactly 800.",
+        "Incorrect. The article states that Mozart completed more than 800 works, not fewer.",
+        "Incorrect. The article does not state that Mozart completed more than 1000 works."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "At what age was Mozart competent on keyboard and violin?",
+      "options": [
+        "Five",
+        "Seven",
+        "Ten",
+        "Three"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that at the age of five Mozart was already competent on keyboard and violin.",
+        "Incorrect. The article states that Mozart was competent on keyboard and violin at age five, not seven.",
+        "Incorrect. The article states that Mozart was competent on keyboard and violin at age five, not ten.",
+        "Incorrect. The article states that Mozart was competent on keyboard and violin at age five, not three."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "At what age did Mozart die?",
+      "options": [
+        "35",
+        "36",
+        "34",
+        "37"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Mozart died at the age of 35.",
+        "Incorrect. The article states that Mozart died at the age of 35, not 36.",
+        "Incorrect. The article states that Mozart died at the age of 35, not 34.",
+        "Incorrect. The article states that Mozart died at the age of 35, not 37."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What was Mozart's father's name?",
+      "options": [
+        "Leopold",
+        "Johann",
+        "Wolfgang",
+        "Amadeus"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies Mozart's father as Leopold Mozart.",
+        "Incorrect. The article does not identify Mozart's father as Johann.",
+        "Incorrect. Wolfgang is Mozart's own first name, not his father's name.",
+        "Incorrect. Amadeus is part of Mozart's own name, not his father's name."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In which city did Mozart choose to remain after being dismissed from his Salzburg position in 1781?",
+      "options": [
+        "Vienna",
+        "Paris",
+        "Munich",
+        "Salzburg"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that after being dismissed in Vienna in 1781, Mozart chose to remain in Vienna for the rest of his life.",
+        "Incorrect. The article does not state that Mozart chose to remain in Paris after his dismissal.",
+        "Incorrect. The article does not state that Mozart chose to remain in Munich after his dismissal.",
+        "Incorrect. Mozart was dismissed from his Salzburg position and chose to remain in Vienna, not Salzburg."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How many children were in Mozart's family?",
+      "options": [
+        "Seven",
+        "Five",
+        "Six",
+        "Eight"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Mozart was the youngest of seven children.",
+        "Incorrect. The article states that Mozart was the youngest of seven children, not five.",
+        "Incorrect. The article states that Mozart was the youngest of seven children, not six.",
+        "Incorrect. The article states that Mozart was the youngest of seven children, not eight."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How old was Mozart when he wrote his first symphony?",
+      "options": [
+        "Eight",
+        "Five",
+        "Ten",
+        "Twelve"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that when he was eight years old, Mozart wrote his first symphony.",
+        "Incorrect. The article states that Mozart wrote his first symphony at age eight, not five.",
+        "Incorrect. The article states that Mozart wrote his first symphony at age eight, not ten.",
+        "Incorrect. The article states that Mozart wrote his first symphony at age eight, not twelve."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is listed as one of Mozart's best-known works from his final years?",
+      "options": [
+        "Eine kleine Nachtmusik",
+        "The Magic Flute",
+        "Symphony No. 40",
+        "Piano Concerto No. 21"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the serenade Eine kleine Nachtmusik among Mozart's best-known works from his final years.",
+        "Incorrect. The article lists Die ZauberflÃ¶te (The Magic Flute) among his final-year works, but the English title 'The Magic Flute' is not the option that matches the article's wording as directly as Eine kleine Nachtmusik.",
+        "Incorrect. The article does not list Symphony No. 40 among his best-known works from his final years.",
+        "Incorrect. The article does not list Piano Concerto No. 21 among his best-known works from his final years."
+      ]
+    }
+  ]
+}

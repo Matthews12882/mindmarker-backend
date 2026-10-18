@@ -1,0 +1,167 @@
+{
+  "article_id": "0056",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, which statement best describes the relationship between emotion and cognition as discussed in Scherer's Component Process Model?",
+      "options": [
+        "Cognitive appraisal is one of five crucial elements that coordinate during an emotional episode.",
+        "Cognition and emotion are entirely separate systems that never interact.",
+        "Emotion is defined solely by cognitive processes without physiological involvement.",
+        "Cognitive appraisal is excluded from the model because emotion and cognition are separate."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Scherer's Component Process Model includes cognitive appraisal as one of five crucial elements of emotion that become coordinated and synchronized during an emotional episode.",
+        "Incorrect. The article notes that some theorists assume emotion and cognition are separate but interacting systems, not that they never interact.",
+        "Incorrect. The article describes emotion as involving multiple components, including bodily symptoms and action tendencies, not solely cognitive processes.",
+        "Incorrect. The article explicitly includes cognitive appraisal as one of the five elements, though notes its inclusion is slightly controversial."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following best captures the distinction the article draws between emotions and moods?",
+      "options": [
+        "Emotions are predispositions to action in response to a specific stimulus, while moods are enduring affective states that lack a contextual stimulus.",
+        "Emotions are less intense than moods and last longer over time.",
+        "Moods produce rapid physiological changes, while emotions are purely subjective experiences.",
+        "Emotions and moods are identical constructs with no meaningful distinction."
+      ],
+      "answer_explanations": [
+        "Correct. The differentiation section states that emotions are predispositions to action in response to a specific stimulus, whereas moods are enduring affective states considered less intense than emotions and appearing to lack a contextual stimulus.",
+        "Incorrect. The article states the opposite: moods are less intense than emotions, not the other way around.",
+        "Incorrect. The article attributes rapid physiological and cognitive changes to emotions, not moods.",
+        "Incorrect. The article explicitly differentiates emotions from moods as separate constructs."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Based on the article's discussion of cross-cultural studies, which conclusion about basic emotions is best supported?",
+      "options": [
+        "Some studies suggest emotion categories are not universal, while others argue there are universal bases of emotions.",
+        "All cultures categorize emotions identically, with no variation in basic emotion classification.",
+        "Basic emotions such as anger and sadness are universally recognized across all cultures without exception.",
+        "Cross-cultural research has conclusively proven that emotions are entirely culturally constructed."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that some cross-cultural studies indicate emotion categorization is not universal, while others argue there are some universal bases of emotions.",
+        "Incorrect. The article explicitly notes that boundaries and domains of emotion concepts are categorized differently by all cultures.",
+        "Incorrect. The article presents this as one view among others, noting that some studies challenge universality.",
+        "Incorrect. The article does not claim emotions are entirely culturally constructed; it acknowledges arguments for universal bases."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, which of the following best describes the historical development of the term 'emotion' in English?",
+      "options": [
+        "The word was adapted from French in 1579, became a theoretical term under Thomas Brown in the early 1800s, and the modern concept emerged around the 1830s.",
+        "The term was coined in English in 1543 by Ãtienne Dolet and has remained unchanged in meaning since then.",
+        "No one used any word for emotion before 1830, when the term was suddenly invented.",
+        "The English word emotion dates to 1579 but was never adopted into academic discussion."
+      ],
+      "answer_explanations": [
+        "Correct. The etymology section states the English word dates to 1579, became a theoretical term under Thomas Brown in the early 1800s, and the modern concept emerged around the 1830s.",
+        "Incorrect. Dolet coined the French word in 1543; the English adaptation dates to 1579, and the meaning evolved over time.",
+        "Incorrect. The article quotes that people felt 'passions' and 'sentiments' before 1830, not that they felt nothing.",
+        "Incorrect. The article states the term was introduced into academic discussion as a catch-all term for passions, sentiments, and affections."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following best describes Paul Ekman's contribution to basic emotions theory as presented in the article?",
+      "options": [
+        "Ekman identified six basic emotions and later research by his students expanded the list of potentially universal emotions.",
+        "Ekman argued that emotions are entirely culturally constructed and vary across all societies.",
+        "Ekman developed the wheel of emotions with eight primary emotions arranged in opposing pairs.",
+        "Ekman proposed seven biologically inherited primary affective systems including SEEKING and PLAY."
+      ],
+      "answer_explanations": [
+        "Correct. The article states Ekman supported discrete, physiologically distinct emotions and examined six basic emotions; later studies by Cordaro and Keltner extended the list of universal emotions.",
+        "Incorrect. The article describes Ekman's work as finding emotions universally recognized across cultures, not culturally constructed.",
+        "Incorrect. The wheel of emotions with eight primary emotions was developed by Robert Plutchik, not Ekman.",
+        "Incorrect. Seven biologically inherited primary affective systems were proposed by Jaak Panksepp, not Ekman."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what does Joseph LeDoux's practical definition of emotions emphasize?",
+      "options": [
+        "Emotions result from a cognitive and conscious process in response to a body system response to a trigger.",
+        "Emotions are purely physiological responses with no cognitive component.",
+        "Emotions are identical to moods and dispositions.",
+        "Emotions are exclusively subjective experiences unrelated to bodily responses."
+      ],
+      "answer_explanations": [
+        "Correct. The definitions section states LeDoux defined emotions as the result of a cognitive and conscious process occurring in response to a body system response to a trigger.",
+        "Incorrect. LeDoux's definition explicitly includes a cognitive and conscious process, not purely physiological responses.",
+        "Incorrect. The article distinguishes emotions from moods and dispositions as separate constructs.",
+        "Incorrect. LeDoux's definition ties emotion to a body system response to a trigger, not purely subjective experience."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Based on the article, which statement best characterizes the mechanistic definition of emotion provided?",
+      "options": [
+        "A positive or negative experience associated with a particular pattern of physiological activity.",
+        "A purely mental state with no physical or physiological component.",
+        "An enduring affective state that lacks a contextual stimulus.",
+        "A cognitive appraisal process that occurs independently of bodily symptoms."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'From a mechanistic perspective, emotions can be defined as \"a positive or negative experience that is associated with a particular pattern of physiological activity.\"'",
+        "Incorrect. The mechanistic definition explicitly includes physiological activity, not purely mental states.",
+        "Incorrect. This describes moods, not the mechanistic definition of emotions.",
+        "Incorrect. The mechanistic definition centers on physiological activity patterns, not cognitive appraisal alone."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following best describes the relationship between emotional episodes and emotional dispositions according to the article's classification section?",
+      "options": [
+        "Emotional dispositions are comparable to character traits, representing a general tendency to experience certain emotions.",
+        "Emotional episodes and dispositions are identical concepts with no distinction.",
+        "Emotional dispositions are short-lived occurrences like panic or anger.",
+        "Emotional episodes are enduring traits, while dispositions are short-lived responses to stimuli."
+      ],
+      "answer_explanations": [
+        "Correct. The classification section states emotional dispositions are comparable to character traits, where someone may be generally disposed to experience certain emotions more easily.",
+        "Incorrect. The article explicitly distinguishes between emotional episodes and emotional dispositions.",
+        "Incorrect. The article describes panic and anger as examples of emotional occurrences, not dispositions.",
+        "Incorrect. The article presents dispositions as enduring tendencies and episodes as shorter-lived responses, the reverse of this option."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, which of the following best describes David Hume's argument about reason and passion?",
+      "options": [
+        "Reason is and ought to be the slave of the passions and can never oppose passion in the direction of the will.",
+        "Reason alone is the primary motive for all human action and can override passion.",
+        "Passions and emotions are irrelevant to human conduct and action.",
+        "Reason and passion are entirely separate domains that never influence each other."
+      ],
+      "answer_explanations": [
+        "Correct. The history section quotes Hume: 'Reason is, and ought to be, the slave of the passions, and can never pretend to any other office than to serve and obey them.'",
+        "Incorrect. Hume argued the opposite: reason alone can never be a motive to any action of the will.",
+        "Incorrect. Hume proposed that fears, desires, and passions are the main motivators of human action.",
+        "Incorrect. Hume argued reason serves and obeys the passions, indicating influence between them."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Based on the article, which of the following best describes current research into emotions in clinical and well-being contexts?",
+      "options": [
+        "Research focuses on emotion dynamics in daily life, including intensity, variability, instability, inertia, and differentiation over time.",
+        "Research primarily seeks to identify a single universal definition of emotion accepted by all scientists.",
+        "Research focuses exclusively on the neurological origins of emotion using brain scans.",
+        "Research has concluded that emotion dynamics are identical across all people and throughout the lifespan."
+      ],
+      "answer_explanations": [
+        "Correct. The article states current research focuses on emotion dynamics in daily life, including intensity, variability, instability, inertia, differentiation, and how emotions augment or blunt each other over time.",
+        "Incorrect. The article notes there is no scientific consensus on a definition and does not describe current research as seeking one.",
+        "Incorrect. While neuroscience is mentioned as a current area, clinical and well-being research is described more broadly as focusing on emotion dynamics in daily life.",
+        "Incorrect. The article explicitly mentions differences in emotion dynamics between people and along the lifespan."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0092",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the term 'computer system' refer to according to the article?",
+      "options": [
+        "A nominally complete computer including hardware, operating system, software, and peripheral equipment, or a group of linked computers functioning together",
+        "Only the central processing unit and memory of a computer",
+        "A single personal computer used by one person",
+        "A network exclusively used for industrial control systems"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'computer system' may refer to a complete computer including hardware, operating system, software, and peripherals, or to a group of linked computers such as a network or cluster.",
+        "Incorrect. The article defines computer system more broadly than just the CPU and memory.",
+        "Incorrect. The article does not limit computer system to a single personal computer.",
+        "Incorrect. The article mentions computer networks and clusters as examples, not exclusively industrial control systems."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What were early computers primarily meant to be used for?",
+      "options": [
+        "Calculations",
+        "Word processing",
+        "Internet browsing",
+        "Playing games"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that early computers were meant to be used only for calculations.",
+        "Incorrect. Word processing is not mentioned as an early use of computers.",
+        "Incorrect. Internet browsing came much later and is not an early use.",
+        "Incorrect. Playing games is not mentioned as an early use of computers."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of a simple single-purpose device that uses a computer as a control system?",
+      "options": [
+        "A key fob",
+        "A supercomputer",
+        "A personal computer",
+        "A computer network"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists key fobs, microwave ovens, and remote controls as simple single-purpose devices using computers as control systems.",
+        "Incorrect. Supercomputers are at the high end of price, size, and complexity, not simple single-purpose devices.",
+        "Incorrect. Personal computers are general-purpose devices, not simple single-purpose devices.",
+        "Incorrect. A computer network is a group of linked computers, not a single-purpose device."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What did the Antikythera mechanism calculate?",
+      "options": [
+        "Astronomical positions",
+        "Tide levels",
+        "Perpetual calendars",
+        "Polynomial roots"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Antikythera mechanism was designed to calculate astronomical positions.",
+        "Incorrect. Tide levels were calculated by Sir William Thomson's tide-predicting machine, not the Antikythera mechanism.",
+        "Incorrect. Perpetual calendars were predicted by Giovanni Plana's machine.",
+        "Incorrect. Polynomial roots were solved by Leonardo Torres Quevedo's analog machines."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what did Charles Babbage originate?",
+      "options": [
+        "The concept of a programmable computer",
+        "The first electronic digital computer",
+        "The first mechanical loom",
+        "The first programming language"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Charles Babbage originated the concept of a programmable computer.",
+        "Incorrect. The article does not credit Babbage with the first electronic digital computer.",
+        "Incorrect. Mechanical looms such as the Jacquard loom existed before Babbage and were not originated by him.",
+        "Incorrect. The article does not mention Babbage creating a programming language."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the processing element in a modern computer carry out?",
+      "options": [
+        "Arithmetic and logical operations",
+        "Only input and output operations",
+        "Only storage operations",
+        "Only network communication"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the processing element carries out arithmetic and logical operations.",
+        "Incorrect. Input and output are handled by peripheral devices, not the processing element.",
+        "Incorrect. Storage is handled by memory, not the processing element's primary function.",
+        "Incorrect. Network communication is not mentioned as the processing element's role."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which devices are classified as input/output devices that perform both functions?",
+      "options": [
+        "Touchscreens",
+        "Keyboards",
+        "Monitors",
+        "Printers"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists touchscreens as input/output devices that perform both functions.",
+        "Incorrect. Keyboards are listed as input devices only.",
+        "Incorrect. Monitors are listed as output devices only.",
+        "Incorrect. Printers are listed as output devices only."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did the Online Etymology Dictionary state about the use of 'computer' to mean 'calculating machine'?",
+      "options": [
+        "It is from 1897",
+        "It is from 1613",
+        "It is from 1945",
+        "It is from 1937"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Online Etymology Dictionary indicates the use of 'computer' to mean 'calculating machine' is from 1897.",
+        "Incorrect. 1613 is the first known use of the word in a different sense, referring to a human computer.",
+        "Incorrect. 1945 is the date for the modern use meaning programmable digital electronic computer.",
+        "Incorrect. 1937 is the theoretical sense, as in Turing machine."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the article say about the price, size, and complexity of computers?",
+      "options": [
+        "They can range from simple single-purpose devices to supercomputers and factories using industrial robots",
+        "They are always large and expensive",
+        "They are always small and inexpensive",
+        "They only apply to personal computers and mobile devices"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the price, size, and complexity of computers can range from simple single-purpose devices like key fobs up to supercomputers and factories using industrial robots.",
+        "Incorrect. The article explicitly describes a wide range, not always large and expensive.",
+        "Incorrect. The article explicitly describes a wide range, not always small and inexpensive.",
+        "Incorrect. The article describes a range far beyond just personal computers and mobile devices."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article say about human computers by 1943?",
+      "options": [
+        "Most human computers were women",
+        "Most human computers were men",
+        "Human computers were no longer used",
+        "Human computers were paid more than male counterparts"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that by 1943, most human computers were women.",
+        "Incorrect. The article states most human computers were women by 1943, not men.",
+        "Incorrect. The article does not say human computers were no longer used by 1943.",
+        "Incorrect. The article states women were often hired because they could be paid less than male counterparts, not more."
+      ]
+    }
+  ]
+}

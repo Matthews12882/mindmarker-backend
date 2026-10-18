@@ -1,0 +1,167 @@
+{
+  "article_id": "0008",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary method driving science according to the article?",
+      "options": [
+        "the scientific method",
+        "the empirical method",
+        "the observational method",
+        "the experimental method"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Science is driven by the scientific method: an empirical cycle that typically involves making observations, producing hypotheses, testing them with evidence, and drawing conclusions.\"",
+        "Incorrect. While the empirical method is mentioned, the article specifically identifies the scientific method as the driver of science.",
+        "Incorrect. The observational method is not highlighted as the primary method in the article.",
+        "Incorrect. The experimental method is a component of the scientific method but not the primary method described."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which two major branches does modern science typically divide into?",
+      "options": [
+        "the natural sciences and the social sciences",
+        "the formal sciences and the applied sciences",
+        "the physical sciences and the life sciences",
+        "the theoretical sciences and the practical sciences"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"Modern science is typically divided into two major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies.\"",
+        "Incorrect. The formal and applied sciences are mentioned but not as the two major branches.",
+        "Incorrect. The physical and life sciences are not described as the two major branches in the article.",
+        "Incorrect. The theoretical and practical sciences are not identified as the two major branches."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What term does the article use for disciplines that rely on deductive reasoning rather than the scientific method?",
+      "options": [
+        "the formal sciences",
+        "the natural sciences",
+        "the applied sciences",
+        "the social sciences"
+      ],
+      "answer_explanations": [
+        "Correct. The article notes: \"While referred to as the formal sciences, logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology.\"",
+        "Incorrect. The natural sciences are not described as relying on deductive reasoning.",
+        "Incorrect. Applied sciences use scientific knowledge for practical purposes, not deductive reasoning.",
+        "Incorrect. Social sciences study individuals and societies using the scientific method."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In which ancient civilization did the earliest identifiable predecessors to modern science appear, according to the article?",
+      "options": [
+        "Egypt and Mesopotamia",
+        "Greece and Rome",
+        "China and India",
+        "Persia and Babylon"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c.â3000â1200 BCE).\"",
+        "Incorrect. Greece and Rome are later contributors, not the earliest predecessors.",
+        "Incorrect. China and India are not mentioned as the earliest predecessors.",
+        "Incorrect. Persia and Babylon are not cited as the earliest identifiable predecessors."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which historical period saw the transformation of natural philosophy into modern science through the Scientific Revolution?",
+      "options": [
+        "the Renaissance",
+        "the Middle Ages",
+        "the Industrial Revolution",
+        "the Enlightenment"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions: \"The recovery and assimilation of Greek works and Islamic inquiries into Western Europe during the Renaissance revived natural philosophy, which was later transformed by the Scientific Revolution that began in the 16th century...\"",
+        "Incorrect. The Middle Ages are not described as the period of transformation.",
+        "Incorrect. The Industrial Revolution is not mentioned as the period of transformation.",
+        "Incorrect. The Enlightenment is not identified as the period of transformation."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Who introduced the term \"scientist\" in 1834, according to the article?",
+      "options": [
+        "William Whewell",
+        "Mary Somerville",
+        "Michael Faraday",
+        "Charles Darwin"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"In 1834, William Whewell introduced the term scientist in a review of Mary Somerville's book...\"",
+        "Incorrect. Mary Somerville was the subject of the review, not the introducer of the term.",
+        "Incorrect. Michael Faraday was not credited with introducing the term.",
+        "Incorrect. Charles Darwin was not credited with introducing the term."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the meaning of the Latin word *scientia* as described in the article?",
+      "options": [
+        "knowledge, awareness, understanding",
+        "the state of seeing",
+        "the act of creating",
+        "the process of questioning"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains: \"The word was borrowed from the Latin word *[scientia]*, meaning 'knowledge, awareness, understanding', a noun derivative of *[sciens]* meaning 'knowing', itself the present active participle of *[sciÅ]* 'to know'.\"",
+        "Incorrect. The Latin word does not mean 'the state of seeing'.",
+        "Incorrect. The Latin word does not mean 'the act of creating'.",
+        "Incorrect. The Latin word does not mean 'the process of questioning'."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which ancient civilization is credited with developing a non-positional decimal numbering system?",
+      "options": [
+        "the ancient Egyptians",
+        "the ancient Mesopotamians",
+        "the ancient Greeks",
+        "the ancient Romans"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"From the 3rd millennium BCE, the ancient Egyptians developed a non-positional decimal numbering system...\"",
+        "Incorrect. The ancient Mesopotamians used cuneiform numerals, not a non-positional decimal system.",
+        "Incorrect. The ancient Greeks used various numeral systems, not a non-positional decimal system.",
+        "Incorrect. The ancient Romans used Roman numerals, not a non-positional decimal system."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what type of research often leads to major advances in fundamental science?",
+      "options": [
+        "individual researchers",
+        "government agencies",
+        "corporate teams",
+        "international collaborations"
+      ],
+      "answer_explanations": [
+        "Correct. The article notes: \"At the same time, many major advancesâparticularly in fundamental scienceâhave come from individual researchers and are widely recognised through major international awards such as the Nobel Prize.\"",
+        "Incorrect. Government agencies are mentioned as participants in research but not as the primary source of fundamental advances.",
+        "Incorrect. Corporate teams are not highlighted as the primary source of fundamental advances.",
+        "Incorrect. International collaborations are not identified as the primary source of fundamental advances."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article say the word *science* meant in Middle English?",
+      "options": [
+        "the state of knowing",
+        "the study of nature",
+        "the practice of experimentation",
+        "the pursuit of truth"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The word *science* has been used in English since the 14th century (Middle English) in the sense of 'the state of knowing'.\"",
+        "Incorrect. While related, the article specifically defines the meaning as 'the state of knowing', not 'the study of nature'.",
+        "Incorrect. The article does not describe the Middle English meaning as 'the practice of experimentation'.",
+        "Incorrect. The article does not describe the Middle English meaning as 'the pursuit of truth'."
+      ]
+    }
+  ]
+}

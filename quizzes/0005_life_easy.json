@@ -1,0 +1,167 @@
+{
+  "article_id": "0005",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is life defined as in the opening sentence of the article?",
+      "options": [
+        "The capacity in matter for processes such as cell signalling, homeostasis, metabolism, cell growth, adaptation, response to stimuli, and reproduction",
+        "A self-sustained chemical system capable of undergoing Darwinian evolution",
+        "A thermodynamic system with an organised molecular structure",
+        "A self-organising and autopoietic system"
+      ],
+      "answer_explanations": [
+        "Correct. The article's first sentence states that life is 'the capacity in matter... for processes such as cell signalling, homeostasis, metabolism, cell growth, adaptation, response to stimuli, and reproduction.'",
+        "Incorrect. This is a physics-based definition mentioned later in the article, not the opening definition.",
+        "Incorrect. This is a physics perspective definition, not the opening sentence.",
+        "Incorrect. This is part of the living systems theory viewpoint, not the opening definition."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the structural and functional unit of life according to the article?",
+      "options": [
+        "The cell",
+        "The molecule",
+        "The organ",
+        "The organism"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The cell is the structural and functional unit of life.'",
+        "Incorrect. The article identifies the cell, not the molecule, as the structural and functional unit of life.",
+        "Incorrect. Organs are not identified as the structural and functional unit of life in the article.",
+        "Incorrect. Organisms are composed of cells, but the cell itself is the unit of life."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which two types of macromolecules do all living things contain?",
+      "options": [
+        "Proteins and nucleic acids",
+        "Carbohydrates and lipids",
+        "DNA and RNA only",
+        "Proteins and carbohydrates"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'All living things contain two types of macromolecules, proteins and nucleic acids.'",
+        "Incorrect. Carbohydrates and lipids are not mentioned as the two universal macromolecule types in the article.",
+        "Incorrect. DNA and RNA are types of nucleic acids, but the article names proteins and nucleic acids as the two macromolecule categories.",
+        "Incorrect. Proteins are correct, but carbohydrates are not one of the two macromolecule types named."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the term 'biota' refer to?",
+      "options": [
+        "The life in a particular ecosystem",
+        "All life on Earth",
+        "Only extremophiles",
+        "The biosphere"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The life in a particular ecosystem is called its biota.'",
+        "Incorrect. The biosphere encompasses all ecosystems; biota refers to life in a particular ecosystem.",
+        "Incorrect. Extremophiles occupy harsh environments but are not synonymous with biota.",
+        "Incorrect. The biosphere is formed by many ecosystems; biota refers to the life in one ecosystem."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is listed as a descriptive trait of life in the article?",
+      "options": [
+        "Homeostasis",
+        "Photosynthesis",
+        "Cell division",
+        "Genetic mutation"
+      ],
+      "answer_explanations": [
+        "Correct. Homeostasis is listed as the first descriptive trait of life in the article.",
+        "Incorrect. Photosynthesis is not listed among the descriptive traits of life.",
+        "Incorrect. Cell division is not listed as one of the descriptive traits.",
+        "Incorrect. Genetic mutation is not listed among the descriptive traits of life."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did Aristotle's hylomorphism assert about living things?",
+      "options": [
+        "Living things have souls and embody both form and matter",
+        "Living things are composed of four eternal elements",
+        "Living things are machines made of parts",
+        "Living things arise from inanimate matter"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Aristotle's hylomorphism asserted that living things have souls and embody both form and matter.",
+        "Incorrect. Empedocles's materialism, not Aristotle's hylomorphism, asserted that life was composed of four eternal elements.",
+        "Incorrect. The mechanistic view held by Descartes and others saw living things as machines, not Aristotle's hylomorphism.",
+        "Incorrect. Spontaneous generation, not hylomorphism, was the belief that living organisms can form without descent from similar organisms."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is one reason viruses are controversial in discussions of life?",
+      "options": [
+        "They require a host cell to replicate and do not metabolise",
+        "They are made of multiple cells",
+        "They cannot evolve by natural selection",
+        "They do not contain genes"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that viruses do not metabolise and require a host cell to make new products, which is why their status as alive is controversial.",
+        "Incorrect. Viruses are not made of multiple cells; they require host cells.",
+        "Incorrect. The article states that viruses evolve by natural selection.",
+        "Incorrect. The article states that viruses possess genes."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Where does life exist on Earth according to the article?",
+      "options": [
+        "In air, water, and soil",
+        "Only in water",
+        "Only in soil",
+        "Only in air"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Life exists all over the Earth in air, water, and soil.'",
+        "Incorrect. The article says life exists in air, water, and soil, not only in water.",
+        "Incorrect. The article says life exists in air, water, and soil, not only in soil.",
+        "Incorrect. The article says life exists in air, water, and soil, not only in air."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does death terminate according to the article?",
+      "options": [
+        "All vital functions or life processes in an organism or cell",
+        "Only the heartbeat",
+        "Only brain activity",
+        "Only cellular reproduction"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Death is the termination of all vital functions or life processes in an organism or cell.'",
+        "Incorrect. The article defines death as the termination of all vital functions, not only the heartbeat.",
+        "Incorrect. The article defines death as the termination of all vital functions, not only brain activity.",
+        "Incorrect. The article defines death as the termination of all vital functions, not only cellular reproduction."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which philosopher proposed the theory of spontaneous generation?",
+      "options": [
+        "Aristotle",
+        "Empedocles",
+        "Descartes",
+        "Darwin"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The theory of spontaneous generation was proposed by Aristotle.'",
+        "Incorrect. Empedocles proposed materialism with four eternal elements, not spontaneous generation.",
+        "Incorrect. Descartes held a mechanistic materialist view, not spontaneous generation.",
+        "Incorrect. Darwin proposed evolutionary theory by natural selection, not spontaneous generation."
+      ]
+    }
+  ]
+}

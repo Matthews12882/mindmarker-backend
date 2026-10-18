@@ -1,0 +1,167 @@
+{
+  "article_id": "0017",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what are the four core concepts of geography that are consistent across all approaches?",
+      "options": [
+        "Space, place, time, and scale",
+        "Space, place, time, and landscape",
+        "Space, place, environment, and scale",
+        "Location, place, movement, and regions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The core concepts of geography that are consistent across all approaches are space, place, time, and scale.\"",
+        "Incorrect. Landscape is discussed as part of the book \"Key Concepts in Geography\" but is not one of the four core concepts consistent across all approaches.",
+        "Incorrect. Environment is not listed among the four core concepts consistent across all approaches.",
+        "Incorrect. Location, place, movement, and regions are part of the Five themes of geography, not the four core concepts consistent across all approaches."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following best describes Tobler's first law of geography as presented in the article?",
+      "options": [
+        "\"Everything is related to everything else, but near things are more related than distant.\"",
+        "\"The phenomenon external to a geographic area of interest affects what goes on inside.\"",
+        "\"Everything is related to everything else, but things observed at a coarse spatial resolution are more related than things observed at a finer resolution.\"",
+        "\"Geographic variables exhibit uncontrolled variance.\""
+      ],
+      "answer_explanations": [
+        "Correct. The article lists Tobler's first law of geography as: \"Everything is related to everything else, but near things are more related than distant.\"",
+        "Incorrect. This quote describes Tobler's second law of geography, not the first law.",
+        "Incorrect. This quote describes Arbia's law of geography, not Tobler's first law.",
+        "Incorrect. This statement describes spatial heterogeneity, not Tobler's first law of geography."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article say about the origin of the term \"geographia\"?",
+      "options": [
+        "It may have been coined by Eratosthenes of Cyrene around 276 BC.",
+        "It was first used by Claudius Ptolemy as the title of a book around 100 AD.",
+        "It was developed independently by Islamic scholars during the Middle Ages.",
+        "It originated during the Age of Discovery as European explorers mapped the New World."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Origins of many of the concepts in geography can be traced to Greek Eratosthenes of Cyrene, who may have coined the term 'geographia' (c. 276 BC â c. 195/194 BC).\"",
+        "Incorrect. Ptolemy's work represents the first recorded use of the Greek word Î³ÎµÏÎ³ÏÎ±ÏÎ¯Î± as a book title, not the origin of the term \"geographia\" itself.",
+        "Incorrect. Islamic scholars such as Muhammad al-Idrisi influenced geography during the Middle Ages but did not originate the term.",
+        "Incorrect. The Age of Discovery was influential in developing geography but is not associated with the origin of the term \"geographia.\""
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, which of the following is NOT one of the three main branches of geography?",
+      "options": [
+        "Cultural geography",
+        "Physical geography",
+        "Human geography",
+        "Technical geography"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies the main branches as physical geography, human geography, and technical geography; cultural geography is not listed as one of them.",
+        "Incorrect. Physical geography is explicitly listed as one of the three main branches of geography.",
+        "Incorrect. Human geography is explicitly listed as one of the three main branches of geography.",
+        "Incorrect. Technical geography is explicitly listed as one of the three main branches of geography."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what is the primary focus of technical geography?",
+      "options": [
+        "Developing tools and techniques for understanding geography",
+        "Studying the natural environment and physical phenomena",
+        "Examining how humans interact with the built environment",
+        "Combining physical and human geography to study environment-human interactions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that technical geography focuses on \"developing tools for understanding geography\" and involves \"studying and developing the tools and techniques used by geographers.\"",
+        "Incorrect. Studying the natural environment and physical phenomena is the focus of physical geography.",
+        "Incorrect. Examining how humans interact with the built environment is the focus of human geography.",
+        "Incorrect. Combining physical and human geography to study environment-human interactions describes integrated geography."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the definition of scale in the context of a map?",
+      "options": [
+        "The ratio between a distance measured on the map and the corresponding distance measured on the ground",
+        "The frame geographers use to measure space and understand a place",
+        "The exact spatial coordinates of objects, persons, places, or phenomena",
+        "The synthesis of coordinates, activity, and human meaning ascribed to a location"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Scale in the context of a map is the ratio between a distance measured on the map and the corresponding distance as measured on the ground.\"",
+        "Incorrect. This describes the broader role of scale in geography, not the specific definition of scale in the context of a map.",
+        "Incorrect. This describes absolute space, not scale.",
+        "Incorrect. This describes place, not scale."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, which of the following is one of the Five themes of geography?",
+      "options": [
+        "Movement",
+        "Landscape",
+        "Environmental systems",
+        "Globalization"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the Five themes of geography as Location, place, relationships within places, movement, and regions.",
+        "Incorrect. Landscape is a key concept from the book \"Key Concepts in Geography,\" not one of the Five themes.",
+        "Incorrect. Environmental systems was added in the 2nd edition of \"Key Concepts in Geography,\" not among the Five themes.",
+        "Incorrect. Globalization was added in the 2nd edition of \"Key Concepts in Geography,\" not among the Five themes."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what does the concept of place in physical geography encompass?",
+      "options": [
+        "All the physical phenomena occurring in space, including the lithosphere, atmosphere, hydrosphere, and biosphere",
+        "The synthesis of coordinates, activity, and human meaning ascribed to a location",
+        "The exact spatial coordinates of objects and phenomena under investigation",
+        "The ratio between map distance and ground distance"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"In physical geography, a place encompasses all the physical phenomena occurring in space, including the lithosphere, atmosphere, hydrosphere, and biosphere.\"",
+        "Incorrect. This describes place in human geography, not physical geography.",
+        "Incorrect. This describes absolute space, not place in physical geography.",
+        "Incorrect. This describes scale in the context of a map, not place."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is the main preoccupation of geographers?",
+      "options": [
+        "Studying the Earth's spatial and temporal distribution of phenomena, processes, and features",
+        "Training in toponymy and cartology",
+        "Creating maps and place names",
+        "Developing tools for understanding geography"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Geographers study the Earth's spatial and temporal distribution of phenomena, processes, and features as well as the interaction of humans and their environment.\"",
+        "Incorrect. The article notes that although many geographers are trained in toponymy and cartology, \"this is not their main preoccupation.\"",
+        "Incorrect. While geography is associated with cartography and place names, the article states these are not geographers' main preoccupation.",
+        "Incorrect. Developing tools for understanding geography is the focus of technical geography, not the main preoccupation of geographers generally."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, which scholar proposed the \"Four traditions of Geography\" in 1964?",
+      "options": [
+        "William D. Pattison",
+        "Eratosthenes",
+        "Claudius Ptolemy",
+        "Waldo Tobler"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"William D. Pattison proposed the concept of the 'Four traditions of Geography' in 1964.\"",
+        "Incorrect. Eratosthenes is associated with coining the term \"geographia,\" not the Four traditions.",
+        "Incorrect. Claudius Ptolemy is associated with the first recorded use of Î³ÎµÏÎ³ÏÎ±ÏÎ¯Î± as a book title, not the Four traditions.",
+        "Incorrect. Waldo Tobler is known for proposing laws of geography, not the Four traditions."
+      ]
+    }
+  ]
+}

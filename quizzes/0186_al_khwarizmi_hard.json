@@ -1,0 +1,167 @@
+{
+  "article_id": "0186",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which scenario best demonstrates al-Khwarizmi's method of 'al-jabr' (restoration) as described in Al-Jabr?",
+      "options": [
+        "Adding the same quantity to both sides of an equation to remove negative terms",
+        "Moving all terms containing the unknown to one side and constants to the other",
+        "Dividing the entire equation by the coefficient of the squared term",
+        "Replacing verbal descriptions of quantities with symbolic notation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that al-jabr is 'the process of removing negative units, roots and squares from the equation by adding the same quantity to each side.'",
+        "Incorrect. This describes al-muqabala ('balancing'), not al-jabr; the article distinguishes the two operations.",
+        "Incorrect. Dividing by the coefficient of the square is a separate preliminary step mentioned in the article, not al-jabr itself.",
+        "Incorrect. The article notes that modern notation had not yet been invented in al-Khwarizmi's day, so he used ordinary text rather than symbolic notation."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "A modern historian wants to cite al-Khwarizmi's Algebra as evidence that algebra was treated as an independent discipline. Which statement from the article most directly supports this claim?",
+      "options": [
+        "Al-Khwarizmi was the first person to treat algebra as an independent discipline and introduced the methods of reduction and balancing.",
+        "His treatise presented the first systematic solution of linear and quadratic equations.",
+        "The English term algebra comes from the short-hand title of his treatise Al-Jabr.",
+        "His name gave rise to the English terms algorism and algorithm."
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly states that al-Khwarizmi 'was the first person to treat algebra as an independent discipline.'",
+        "Incorrect. Presenting systematic solutions of linear and quadratic equations demonstrates his mathematical achievement but does not directly state that algebra was treated as an independent discipline.",
+        "Incorrect. The etymology of the word 'algebra' explains the origin of the term but does not establish algebra's status as an independent discipline.",
+        "Incorrect. The linguistic legacy of his name is unrelated to whether algebra was treated as an independent discipline."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Based on the article, how did al-Khwarizmi's work on Indian numerals influence the Western world?",
+      "options": [
+        "Latin translations of his textbook introduced the decimal-based positional number system to the West.",
+        "He personally traveled to Europe to teach the Hindu-Arabic numeral system.",
+        "His astronomical tables were adopted by European navigators for calculating longitude.",
+        "European universities used his original Arabic manuscript as a textbook until the 16th century."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 12th-century Latin translations of his textbook on Indian arithmetic 'introduced the decimal-based positional number system to the Western world.'",
+        "Incorrect. The article does not mention al-Khwarizmi traveling to Europe; his influence came through translations.",
+        "Incorrect. While his astronomical tables were influential, the article does not connect them to European navigation or longitude calculations.",
+        "Incorrect. It was Al-Jabr, not his arithmetic textbook, that was used as the principal mathematical textbook of European universities until the 16th century."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which conclusion about al-Khwarizmi's religious identity is best supported by the article's discussion of conflicting historical accounts?",
+      "options": [
+        "The pious preface to his Algebra indicates he was an orthodox Muslim, despite al-Tabari's epithet suggesting Zoroastrian ancestry.",
+        "Al-Tabari's epithet al-MajÅ«sÄ« proves al-Khwarizmi was a practicing Zoroastrian.",
+        "David A. King's affirmation of his nisba to Qutrubbul resolves the question of his religion.",
+        "Ibn al-Nadim's Al-Fihrist confirms he was born into a Muslim family."
+      ],
+      "answer_explanations": [
+        "Correct. Toomer, as quoted in the article, argues that the pious preface to Algebra shows al-Khwarizmi was an orthodox Muslim, so al-Tabari's epithet could refer only to his forebears or youth.",
+        "Incorrect. The article presents al-Tabari's epithet as uncertain and explicitly counters it with evidence from the preface to Algebra.",
+        "Incorrect. King's affirmation concerns al-Khwarizmi's place of origin (nisba to Qutrubbul), not his religion.",
+        "Incorrect. The article mentions Ibn al-Nadim's biography and list of books but does not state that it confirms his family's religion."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "A scholar argues that al-Khwarizmi's geographical work merely copied Ptolemy without improvement. Which detail from the article refutes this argument?",
+      "options": [
+        "Kitab surat al-ard presented coordinates based on Ptolemy but with improved values for the Mediterranean Sea, Asia, and Africa.",
+        "He revised Ptolemy's Geography, listing the longitudes and latitudes of cities and localities.",
+        "He assisted in determining the circumference of the Earth and making a world map for al-Ma'mun.",
+        "He wrote about the astrolabe and the sundial."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Kitab surat al-ard was based on Ptolemy's Geography but contained 'improved values for the Mediterranean Sea, Asia, and Africa.'",
+        "Incorrect. Revising Ptolemy and listing coordinates shows dependence on Ptolemy but does not by itself demonstrate improvement.",
+        "Incorrect. Assisting with the Earth's circumference and a world map shows geographical activity but does not specifically refute the claim about copying Ptolemy.",
+        "Incorrect. Writing about instruments is unrelated to the accuracy of his geographical data relative to Ptolemy."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which statement best captures the significance of al-Khwarizmi's algebra according to the MacTutor historians quoted in the article?",
+      "options": [
+        "It represented a revolutionary move away from Greek geometry, treating diverse mathematical objects as algebraic entities.",
+        "It was primarily concerned with the theory of numbers, like Diophantus's work.",
+        "It provided the first systematic solution of cubic equations.",
+        "It introduced symbolic notation that replaced verbal descriptions of problems."
+      ],
+      "answer_explanations": [
+        "Correct. The MacTutor historians describe algebra as 'a revolutionary move away from the Greek concept of mathematics which was essentially geometry' and as a unifying theory treating rational numbers, irrational numbers, and geometrical magnitudes as algebraic objects.",
+        "Incorrect. The article quotes Solomon Gandz saying Diophantus was primarily concerned with the theory of numbers, contrasting this with al-Khwarizmi's elementary algebra for its own sake.",
+        "Incorrect. The article states Al-Jabr provided an exhaustive account of solving polynomial equations up to the second degree, not cubic equations.",
+        "Incorrect. The article explicitly notes that most modern notation had not yet been invented in al-Khwarizmi's day, so he used ordinary text."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, which factor most directly explains why the word 'algorithm' entered the Western world?",
+      "options": [
+        "The 12th-century Latin translation of his textbook on Indian numerals as Algoritmi de numero Indorum.",
+        "Al-Khwarizmi's name was latinized as Algoritmi.",
+        "His Algebra was translated into Latin by Robert of Chester in 1145.",
+        "His astronomical tables known as Zij became essential tools for astronomers."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that when On the Calculation with Hindu Numerals was translated into Latin in the 12th century as Algoritmi de numero Indorum, 'the term algorithm was introduced to the Western world.'",
+        "Incorrect. While his name's latinization as Algoritmi is the origin of the word, the article specifically ties the introduction of the term to the Western world to the 12th-century Latin translation.",
+        "Incorrect. The translation of Algebra introduced the term 'algebra,' not 'algorithm.'",
+        "Incorrect. The Zij tables are discussed in the context of astronomy, not the introduction of the word algorithm."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following best describes the relationship between al-Khwarizmi's six standard forms of equations and his solution method?",
+      "options": [
+        "He first reduced any equation to one of six standard forms, then applied al-jabr and al-muqabala.",
+        "He used the six forms to classify equations but solved them using geometric constructions alone.",
+        "The six forms applied only to quadratic equations, while linear equations required a separate method.",
+        "He derived the six forms by applying modern symbolic notation to verbal problems."
+      ],
+      "answer_explanations": [
+        "Correct. The article states his method worked by first reducing the equation to one of six standard forms, then dividing out the coefficient of the square and using al-jabr and al-muqabala.",
+        "Incorrect. The article does not say he solved equations using geometric constructions alone; it mentions geometric justifications for completing the square but describes an algebraic reduction process.",
+        "Incorrect. The article lists six forms covering both squares and roots (linear and quadratic terms together), not a separation of linear and quadratic equations.",
+        "Incorrect. The article explicitly states that modern notation had not yet been invented and he used ordinary text, not symbolic notation."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "If a historian claims that al-Khwarizmi's influence on European mathematics lasted primarily through his astronomical tables, which detail from the article most seriously undermines this claim?",
+      "options": [
+        "Al-Jabr was used until the 16th century as the principal mathematical textbook of European universities.",
+        "His Zij tables enabled precise calculations for predicting astronomical events.",
+        "Latin translations of his works spread to Europe in the 12th century.",
+        "He assisted a project to determine the circumference of the Earth."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Al-Jabr was used until the 16th century as the principal mathematical textbook of European universities, showing a broader and longer-lasting influence than astronomy alone.",
+        "Incorrect. This detail supports the importance of his astronomical tables rather than undermining the claim about their primacy.",
+        "Incorrect. The general spread of his works through translations does not specifically indicate which area had the most lasting influence.",
+        "Incorrect. Assisting with the Earth's circumference is a geographical/astronomical activity and does not address the relative influence of his works in Europe."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which interpretation of al-Tabari's full name citation for al-Khwarizmi is endorsed by Roshdi Rashed in the article?",
+      "options": [
+        "The citation contains a copying error that omitted the conjunction 'wa,' making it refer to two separate individuals.",
+        "Al-Khwarizmi was born just outside of Baghdad in Qutrubbul.",
+        "The epithet al-MajÅ«sÄ« indicates he was an adherent of Zoroastrianism.",
+        "Al-Khwarizmi and al-MajÅ«sÄ« al-Qutrubbulli were the same person."
+      ],
+      "answer_explanations": [
+        "Correct. Roshdi Rashed argues that al-Tabari's citation should read 'Muhammad ibn MÅ«sa al-KhwÄrizmÄ« and al-MajÅ«si al-Qutrubbulli,' with the conjunction 'wa' omitted in an early copy, referring to two people.",
+        "Incorrect. This is David A. King's position, not Roshdi Rashed's.",
+        "Incorrect. This is Toomer's interpretation, which Rashed's argument about the copying error indirectly challenges.",
+        "Incorrect. Rashed explicitly argues they are two different people, not the same person."
+      ]
+    }
+  ]
+}

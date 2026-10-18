@@ -1,0 +1,167 @@
+{
+  "article_id": "0044",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, how does Dean Barnlund's transactional model characterize communication?",
+      "options": [
+        "the production of meaning, rather than the production of messages",
+        "the transmission of information from a source to a receiver through a channel",
+        "a linear flow of information in a single direction",
+        "a two-way process in which communicators take turns sending and receiving messages"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Barnlund understands communication as \"the production of meaning, rather than the production of messages.\"",
+        "Incorrect. This describes linear transmission models, not Barnlund's transactional model.",
+        "Incorrect. Linear transmission models feature a single-direction flow, whereas Barnlund's model is transactional.",
+        "Incorrect. Taking turns sending and receiving messages describes interaction models, not Barnlund's transactional model."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the article identify as a key innovation of Wilbur Schramm's interaction model?",
+      "options": [
+        "previous experience is necessary to encode and decode messages",
+        "the inclusion of noise as a factor that distorts the signal",
+        "the use of five fundamental questions to identify communication components",
+        "the production of meaning rather than messages"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Schramm's innovation is that previous experience is necessary to encode and decode messages, and that fields of experience must overlap.",
+        "Incorrect. Noise distorting the signal is a feature of the ShannonâWeaver model, not Schramm's model.",
+        "Incorrect. Lasswell's model uses five fundamental questions, not Schramm's model.",
+        "Incorrect. The production of meaning rather than messages characterizes Barnlund's transactional model."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Based on the article, what is a defining characteristic of linear transmission models of communication?",
+      "options": [
+        "information flows in a single direction from sender to receiver",
+        "communicators take turns sending and receiving messages",
+        "meaning is produced during communication and does not exist independently",
+        "sending and responding occur simultaneously"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that linear transmission models are linear because the flow of information only goes in a single direction.",
+        "Incorrect. Two-way communication with turns describes interaction models.",
+        "Incorrect. Meaning produced during communication is a feature of transaction models.",
+        "Incorrect. Simultaneous sending and responding is a feature of transaction models."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, how do transactional and constitutive views differ from the transmission view of communication?",
+      "options": [
+        "they hold that communication also creates meaning, not just transmits information",
+        "they focus exclusively on verbal communication between humans",
+        "they require observable responses and benefit to participants",
+        "they define communication as actions that make the recipient aware of the communicator's intention"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that transactional and constitutive views hold communication is not just about transmission but also about the creation of meaning.",
+        "Incorrect. The article does not restrict these views to verbal human communication.",
+        "Incorrect. Observable responses and participant benefit are criteria used in animal and plant communication research.",
+        "Incorrect. Making the recipient aware of intention is Paul Grice's view, not transactional or constitutive views."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what criterion do researchers studying animal and plant communication often use to define communicative behavior?",
+      "options": [
+        "observable responses are present and participants benefit from the exchange",
+        "the communicator intends to make the recipient aware of their intention",
+        "communication occurs through a linguistic system",
+        "meaning is created during the interaction rather than transmitted"
+      ],
+      "answer_explanations": [
+        "Correct. The article states researchers refine their definition by including criteria that observable responses are present and participants benefit.",
+        "Incorrect. Intent to make the recipient aware is Paul Grice's view applied to human communication.",
+        "Incorrect. Animal and plant communication happens without a linguistic system.",
+        "Incorrect. Meaning creation during interaction is a transactional/constitutive view, not the animal/plant research approach."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the primary reason most communication takes place between members of the same species?",
+      "options": [
+        "its purpose is usually some form of cooperation, which is not as common between different species",
+        "different species lack compatible coding systems",
+        "interspecies communication is limited to symbiotic relationships",
+        "members of different species cannot decode each other's signals"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the reason is that communication's purpose is usually cooperation, which is not as common between different species.",
+        "Incorrect. The article does not cite incompatible coding systems as the reason.",
+        "Incorrect. While interspecies communication happens mainly in symbiotic cases, this is not given as the reason most communication is intraspecies.",
+        "Incorrect. The article does not state that different species cannot decode each other's signals."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what does I. A. Richards's broad definition of communication describe?",
+      "options": [
+        "one mind acts upon its environment to transmit its own experience to another mind",
+        "a source encodes a message that is transmitted through a channel to a receiver",
+        "actions that aim to make the recipient aware of the communicator's intention",
+        "the production of meaning rather than the production of messages"
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes Richards's definition: communication happens when one mind acts upon its environment to transmit its own experience to another mind.",
+        "Incorrect. This describes the ShannonâWeaver transmission model components.",
+        "Incorrect. This is Paul Grice's view, not Richards's definition.",
+        "Incorrect. This is Dean Barnlund's characterization, not Richards's definition."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, how do interaction models differ from linear transmission models?",
+      "options": [
+        "interaction models include a feedback loop",
+        "interaction models focus only on mass communication",
+        "interaction models do not require a channel",
+        "interaction models treat meaning as existing independently of communication"
+      ],
+      "answer_explanations": [
+        "Correct. The article states interaction models include a feedback loop, unlike linear models.",
+        "Incorrect. The article does not say interaction models focus only on mass communication.",
+        "Incorrect. The article does not state that interaction models lack a channel.",
+        "Incorrect. Treating meaning as independent is not attributed to interaction models; transaction models say meaning is produced during communication."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is Lasswell's model based on?",
+      "options": [
+        "five fundamental questions: Who?, Says what?, In which channel?, To whom?, and With what effect?",
+        "a source, message, encoder, channel, decoder, and receiver",
+        "encoding and decoding with overlapping fields of experience",
+        "the production of meaning in response to external and internal cues"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Lasswell's model is based on five fundamental questions.",
+        "Incorrect. The source-message-encoder-channel-decoder-receiver components describe the ShannonâWeaver model.",
+        "Incorrect. Encoding and decoding with overlapping fields of experience describes Schramm's model.",
+        "Incorrect. Production of meaning in response to cues describes Barnlund's transactional model."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what does the ShannonâWeaver model propose as a way to achieve successful communication despite noise?",
+      "options": [
+        "making the message partially redundant so decoding is still possible",
+        "requiring the receiver to provide immediate feedback",
+        "limiting communication to members of the same species",
+        "using transactional rather than linear encoding"
+      ],
+      "answer_explanations": [
+        "Correct. The article states successful communication can happen by making the message partially redundant so decoding is possible nonetheless.",
+        "Incorrect. Feedback loops are a feature of interaction models, not the ShannonâWeaver model's noise solution.",
+        "Incorrect. Same-species communication is discussed in the context of animal communication, not the ShannonâWeaver model.",
+        "Incorrect. The ShannonâWeaver model is itself a linear transmission model, not a transactional one."
+      ]
+    }
+  ]
+}

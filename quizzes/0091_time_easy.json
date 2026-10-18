@@ -1,0 +1,167 @@
+{
+  "article_id": "0091",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is time often referred to as, in addition to the three spatial dimensions?",
+      "options": [
+        "The fourth dimension",
+        "The fifth dimension",
+        "The temporal dimension",
+        "The spatial dimension"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that time is often referred to as the fourth dimension and the temporal dimension, in addition to the three spatial dimensions.",
+        "Incorrect. The article does not refer to time as the fifth dimension.",
+        "Incorrect. The temporal dimension is mentioned, but the question asks what time is referred to as in addition to the three spatial dimensions, which is the fourth dimension.",
+        "Incorrect. The article does not call time the spatial dimension; it distinguishes time from the three spatial dimensions."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the SI base unit of time?",
+      "options": [
+        "The second",
+        "The minute",
+        "The hour",
+        "The day"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the SI base unit of time is the second, defined by measuring the electronic transition frequency of caesium atoms.",
+        "Incorrect. The article does not identify the minute as the SI base unit of time.",
+        "Incorrect. The article does not identify the hour as the SI base unit of time.",
+        "Incorrect. The article does not identify the day as the SI base unit of time."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the French Republican Calendar's days consist of, according to the article?",
+      "options": [
+        "Ten hours of a hundred minutes of a hundred seconds",
+        "Twenty-four hours of sixty minutes of sixty seconds",
+        "Twelve hours of a hundred minutes of a hundred seconds",
+        "Ten hours of sixty minutes of sixty seconds"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the French Republican Calendar's days consisted of ten hours of a hundred minutes of a hundred seconds.",
+        "Incorrect. The article does not say the French Republican Calendar used twenty-four hours of sixty minutes of sixty seconds.",
+        "Incorrect. The article does not say the French Republican Calendar used twelve hours of a hundred minutes of a hundred seconds.",
+        "Incorrect. The article does not say the French Republican Calendar used ten hours of sixty minutes of sixty seconds."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What did the reforms of Julius Caesar in 45 BC put the Roman world on?",
+      "options": [
+        "A solar calendar",
+        "A lunar calendar",
+        "A lunisolar calendar",
+        "A Gregorian calendar"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the reforms of Julius Caesar in 45 BC put the Roman world on a solar calendar, known as the Julian calendar.",
+        "Incorrect. The article does not say Julius Caesar's reforms put the Roman world on a lunar calendar.",
+        "Incorrect. The article does not say Julius Caesar's reforms put the Roman world on a lunisolar calendar.",
+        "Incorrect. The Gregorian calendar was introduced later by Pope Gregory XIII in 1582, not by Julius Caesar."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is one of the atoms used in atomic clocks to measure the second?",
+      "options": [
+        "Caesium",
+        "Helium",
+        "Oxygen",
+        "Carbon"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that one of the atoms used in atomic clocks is caesium, and most modern atomic clocks probe caesium with microwaves.",
+        "Incorrect. The article does not mention helium as an atom used in atomic clocks.",
+        "Incorrect. The article does not mention oxygen as an atom used in atomic clocks.",
+        "Incorrect. The article does not mention carbon as an atom used in atomic clocks."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the first form of temporal measurement, or chronometry, mentioned in the article?",
+      "options": [
+        "A calendar",
+        "A clock",
+        "An hourglass",
+        "A sundial"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that methods of temporal measurement generally take two forms, the first being a calendar, a mathematical tool for organising intervals of time on Earth.",
+        "Incorrect. The clock is the second form of temporal measurement mentioned, not the first.",
+        "Incorrect. The hourglass is discussed later as a device, not as the first form of chronometry.",
+        "Incorrect. The sundial is discussed later as a device, not as the first form of chronometry."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the name of the 260-day sacred calendar used by the Maya?",
+      "options": [
+        "Tzolk'in",
+        "Haab'",
+        "Gregorian",
+        "Julian"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Maya used a 260-day sacred calendar called the Tzolk'in.",
+        "Incorrect. The Haab' calendar has 18 months in a year and 20 days in a month, plus five epagomenal days, not 260 days.",
+        "Incorrect. The Gregorian calendar was introduced by Pope Gregory XIII, not used by the Maya.",
+        "Incorrect. The Julian calendar was introduced by Julius Caesar, not used by the Maya."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did Richard of Wallingford famously build about 1330?",
+      "options": [
+        "A mechanical clock as an astronomical orrery",
+        "A water clock",
+        "A sundial",
+        "An atomic clock"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Richard of Wallingford, abbot of St. Alban's abbey, famously built a mechanical clock as an astronomical orrery about 1330.",
+        "Incorrect. The article does not say Richard of Wallingford built a water clock.",
+        "Incorrect. The article does not say Richard of Wallingford built a sundial.",
+        "Incorrect. The article does not say Richard of Wallingford built an atomic clock."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the hourglass use to measure the flow of time?",
+      "options": [
+        "The flow of sand",
+        "The flow of water",
+        "The direction of sunlight",
+        "The frequency of electronic transitions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the hourglass uses the flow of sand to measure the flow of time.",
+        "Incorrect. The article associates the flow of water with water clocks, not hourglasses.",
+        "Incorrect. The article associates the direction of sunlight with sundials, not hourglasses.",
+        "Incorrect. The article associates the frequency of electronic transitions with atomic clocks, not hourglasses."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "When was the French Republican Calendar abolished?",
+      "options": [
+        "1806",
+        "1789",
+        "1582",
+        "1847"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the French Republican Calendar system was abolished in 1806.",
+        "Incorrect. The article does not say the French Republican Calendar was abolished in 1789.",
+        "Incorrect. The article states that Pope Gregory XIII introduced a correction in 1582, not that the French Republican Calendar was abolished then.",
+        "Incorrect. The article states that Antoine Redier patented an adjustable mechanical alarm clock in 1847, not that the French Republican Calendar was abolished then."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0188",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which two fields did Gauss contribute to, according to the article?",
+      "options": [
+        "Mathematics and astronomy",
+        "Physics and engineering",
+        "Biology and chemistry",
+        "Philosophy and literature"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Gauss was a polymath active in mathematics, astronomy, geodesy, and physics, and that his contributions spanned many fields in mathematics and science.",
+        "Incorrect. While Gauss worked in physics, the article does not list engineering as one of his primary fields of contribution.",
+        "Incorrect. The article does not mention biology or chemistry as fields Gauss contributed to.",
+        "Incorrect. The article does not list philosophy or literature as his fields of contribution."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What was the name of Gauss's astronomical magnum opus published in 1809?",
+      "options": [
+        "Theoria motus corporum coelestium in sectionibus conicis solem ambientium",
+        "Disquisitiones Arithmeticae",
+        "Fundamental Theorem of Algebra",
+        "Method of Least Squares"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions this lengthy title as Gauss's astronomical magnum opus published in 1809.",
+        "Incorrect. Disquisitiones Arithmeticae is Gauss's work on number theory, not his astronomical treatise.",
+        "Incorrect. The fundamental theorem of algebra is a mathematical theorem, not Gauss's astronomical work.",
+        "Incorrect. The method of least squares is a statistical technique, not the title of his astronomical book."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which mathematician did Gauss call \"the leading mathematician among poets, and the leading poet among mathematicians\"?",
+      "options": [
+        "Abraham Gotthelf KÃ¤stner",
+        "Georg Christoph Lichtenberg",
+        "Christian Gottlob Heyne",
+        "Karl Felix Seyffer"
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes Gauss describing his mathematics professor Abraham Gotthelf KÃ¤stner in this way.",
+        "Incorrect. Lichtenberg was Gauss's physics teacher, not described with those exact words.",
+        "Incorrect. Heyne taught classics, not described in that manner.",
+        "Incorrect. Seyffer taught astronomy, not described in that manner."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What did Gauss introduce that is commonly used in probability theory?",
+      "options": [
+        "The normal or Gaussian distribution",
+        "The law of quadratic reciprocity",
+        "The triple bar symbol (â¡)",
+        "The arithmeticâgeometric mean"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Gauss introduced the normal or Gaussian distribution in probability.",
+        "Incorrect. The law of quadratic reciprocity is a number theory result, not a probability distribution.",
+        "Incorrect. The triple bar symbol is for congruence in number theory, not probability.",
+        "Incorrect. The arithmeticâgeometric mean is a different concept, not the normal distribution."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which instrument did Gauss invent in 1821?",
+      "options": [
+        "The heliotrope",
+        "The magnetometer",
+        "The telegraph",
+        "The meridian circle"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions Gauss invented the heliotrope in 1821.",
+        "Incorrect. The magnetometer was invented by Gauss in 1833, not 1821.",
+        "Incorrect. The telegraph was invented with Wilhelm Eduard Weber in 1833.",
+        "Incorrect. The meridian circle is an astronomical instrument, not an invention by Gauss."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which prize did Gauss receive in 1809 for his work on planetary theory?",
+      "options": [
+        "The Lalande Prize",
+        "The Copley Medal",
+        "The Nobel Prize",
+        "The Fields Medal"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Gauss was awarded the Lalande Prize in 1809.",
+        "Incorrect. The Copley Medal was awarded to Gauss in 1838.",
+        "Incorrect. The Nobel Prize did not exist in Gauss's time.",
+        "Incorrect. The Fields Medal was established much later."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What method did Gauss discover before AdrienâMarie Legendre published it?",
+      "options": [
+        "The method of least squares",
+        "The composition law",
+        "The law of quadratic reciprocity",
+        "The fast Fourier transform"
+      ],
+      "answer_explanations": [
+        "Correct. The article notes that Gauss discovered the method of least squares before Legendre published it.",
+        "Incorrect. The composition law is a number theory concept, not the method in question.",
+        "Incorrect. Quadratic reciprocity is a number theory law, not the method Gauss discovered earlier.",
+        "Incorrect. The fast Fourier transform was developed much later."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which regular polygon construction did Gauss achieve at age 19, marking the first progress in over 2000 years?",
+      "options": [
+        "The heptadecagon",
+        "The octagon",
+        "The dodecagon",
+        "The pentagon"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions Gauss proved the construction of the heptadecagon at age 19.",
+        "Incorrect. The octagon was known earlier; Gauss's achievement was the heptadecagon.",
+        "Incorrect. The dodecagon was constructible earlier.",
+        "Incorrect. The pentagon was known to the ancient Greeks."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which concept did Gauss introduce that relates to curvature in geometry?",
+      "options": [
+        "Gaussian curvature",
+        "NonâEuclidean geometry",
+        "The triple bar symbol",
+        "The arithmeticâgeometric mean"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Gauss introduced the concept of Gaussian curvature and proved its key properties.",
+        "Incorrect. NonâEuclidean geometry was also studied by Gauss, but Gaussian curvature is the specific concept introduced.",
+        "Incorrect. The triple bar symbol is for congruence, not curvature.",
+        "Incorrect. The arithmeticâgeometric mean is a different concept."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which two scientists collaborated with Gauss on the first electromagnetic telegraph in 1833?",
+      "options": [
+        "Wilhelm Eduard Weber",
+        "Georg Friedrich von Reichenbach",
+        "Johann Georg Repsold",
+        "Joseph von Fraunhofer"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions Gauss invented the telegraph with Wilhelm Eduard Weber in 1833.",
+        "Incorrect. Reichenbach supplied instruments for the observatory, not the telegraph.",
+        "Incorrect. Repsold made meridian circles, not the telegraph.",
+        "Incorrect. Fraunhofer made a heliometer, not the telegraph."
+      ]
+    }
+  ]
+}

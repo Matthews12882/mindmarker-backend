@@ -1,0 +1,167 @@
+{
+  "article_id": "0100",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does statistics concern according to the article?",
+      "options": [
+        "the collection, organization, analysis, interpretation, and presentation of data",
+        "the study of political arrangements only",
+        "the design of computer algorithms",
+        "the measurement of physical constants"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that statistics is \"the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.\"",
+        "Incorrect. While the article notes that the term originally referred to the study of political arrangements, it does not limit statistics to that subject.",
+        "Incorrect. The article does not mention computer algorithms as the concern of statistics.",
+        "Incorrect. The article does not state that statistics concerns the measurement of physical constants."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What do statisticians collect when census data cannot be collected?",
+      "options": [
+        "sample data",
+        "only experimental data",
+        "only qualitative data",
+        "no data at all"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that \"When census data ... cannot be collected, statisticians collect data by developing specific experiment designs and survey samples.\"",
+        "Incorrect. The article mentions both experiment designs and survey samples, not only experimental data.",
+        "Incorrect. The article does not say statisticians collect only qualitative data when census data is unavailable.",
+        "Incorrect. The article explicitly states that statisticians collect sample data in this situation."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of descriptive statistics?",
+      "options": [
+        "the mean",
+        "hypothesis testing",
+        "Type I error",
+        "random sampling"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the mean as an index used in descriptive statistics to summarize data from a sample.",
+        "Incorrect. Hypothesis testing is part of inferential statistics, not descriptive statistics.",
+        "Incorrect. Type I errors are discussed in the context of hypothesis testing and inferential statistics.",
+        "Incorrect. Random sampling is a data collection method, not a descriptive statistic."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does an experimental study involve that an observational study does not?",
+      "options": [
+        "experimental manipulation",
+        "survey sampling",
+        "census data collection",
+        "qualitative data analysis"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that an experimental study involves manipulating the system, while an observational study does not involve experimental manipulation.",
+        "Incorrect. Survey sampling is not the distinguishing feature between experimental and observational studies.",
+        "Incorrect. Census data collection is not mentioned as the difference between these two study types.",
+        "Incorrect. Qualitative data analysis is not identified as the defining difference between experimental and observational studies."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What are the two main statistical methods used in data analysis?",
+      "options": [
+        "descriptive statistics and inferential statistics",
+        "experimental and observational studies",
+        "random and systematic errors",
+        "nominal and ordinal measurements"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that \"Two main statistical methods are used in data analysis: descriptive statistics ... and inferential statistics.\"",
+        "Incorrect. Experimental and observational studies are types of causal statistical studies, not the two main methods of data analysis.",
+        "Incorrect. Random and systematic errors are classifications of statistical measurement errors, not data analysis methods.",
+        "Incorrect. Nominal and ordinal measurements are levels of measurement, not the two main statistical methods."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does dispersion characterize in a distribution?",
+      "options": [
+        "the extent to which members depart from the center and each other",
+        "the central or typical value of the distribution",
+        "the number of samples collected",
+        "the probability of a Type I error"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that dispersion \"characterizes the extent to which members of the distribution depart from its center and each other.\"",
+        "Incorrect. The central or typical value is characterized by central tendency, not dispersion.",
+        "Incorrect. The article does not link dispersion to the number of samples collected.",
+        "Incorrect. Dispersion is not described in the article as the probability of a Type I error."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is a Type I error?",
+      "options": [
+        "rejecting the null hypothesis when it is in fact true",
+        "failing to reject the null hypothesis when it is in fact false",
+        "collecting a non-representative sample",
+        "using descriptive statistics instead of inferential statistics"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a Type I error as when \"the null hypothesis is rejected when it is in fact true, giving a 'false positive'.\"",
+        "Incorrect. Failing to reject the null hypothesis when it is false is defined as a Type II error.",
+        "Incorrect. Collecting a non-representative sample is not the definition of a Type I error in the article.",
+        "Incorrect. The article does not define Type I error as using descriptive statistics instead of inferential statistics."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does the Hawthorne effect refer to?",
+      "options": [
+        "an outcome changing due to observation itself",
+        "increased illumination increasing productivity",
+        "the lack of a control group in a study",
+        "a type of sampling bias"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Hawthorne effect \"refers to finding that an outcome ... changed due to observation itself.\"",
+        "Incorrect. Increased illumination was the manipulation in the Hawthorne study, but the Hawthorne effect specifically refers to change due to observation.",
+        "Incorrect. The lack of a control group is a criticism of the Hawthorne study, not the definition of the Hawthorne effect.",
+        "Incorrect. The article does not describe the Hawthorne effect as a type of sampling bias."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which level of measurement has both a meaningful zero value and defined distances between measurements?",
+      "options": [
+        "ratio",
+        "nominal",
+        "ordinal",
+        "interval"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that ratio measurements have \"both a meaningful zero value and the distances between different measurements defined.\"",
+        "Incorrect. Nominal measurements do not have meaningful rank order and do not have a meaningful zero value.",
+        "Incorrect. Ordinal measurements have a meaningful order but imprecise differences between values.",
+        "Incorrect. Interval measurements have meaningful distances but an arbitrary zero value."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What are random errors and systematic errors classified as in statistical measurement?",
+      "options": [
+        "types of errors in data generation",
+        "types of statistical populations",
+        "levels of measurement",
+        "forms of hypothesis testing"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that statistical measurement processes are prone to error and that many errors are classified as random (noise) or systematic (bias).",
+        "Incorrect. Random and systematic errors are not types of statistical populations.",
+        "Incorrect. They are not levels of measurement; nominal, ordinal, interval, and ratio are the levels described.",
+        "Incorrect. They are not forms of hypothesis testing; they are classifications of measurement error."
+      ]
+    }
+  ]
+}

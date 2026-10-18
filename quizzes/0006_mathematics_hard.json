@@ -1,0 +1,167 @@
+{
+  "article_id": "0006",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes how non-Euclidean geometries relate to the foundational crisis of mathematics?",
+      "options": [
+        "By questioning the parallel postulate, they joined Russell's paradox in revealing the foundational crisis.",
+        "They were developed to resolve Russell's paradox through axiomatic set theory.",
+        "They proved that Euclidean geometry is the only valid system of spatial reasoning.",
+        "They emerged after the axiomatic method had already fully resolved the foundational crisis."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that non-Euclidean geometries, by questioning the parallel postulate's truth, have been viewed as joining Russell's paradox in revealing the foundational crisis of mathematics.",
+        "Incorrect. The article does not say non-Euclidean geometries were developed to resolve Russell's paradox.",
+        "Incorrect. The article presents non-Euclidean geometries as alternatives to Euclidean geometry, not as proof that Euclidean geometry is the only valid system.",
+        "Incorrect. The article indicates the axiomatic method solved this aspect of the crisis after non-Euclidean geometries had already contributed to revealing it."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, what was the consequence of the axiomatic method's systematic use at the end of the 19th century?",
+      "options": [
+        "It heralded a dramatic increase in the number of mathematical areas and their fields of application.",
+        "It reduced mathematics to only four main areas: arithmetic, geometry, algebra, and calculus.",
+        "It eliminated the foundational crisis by proving all mathematical truths experimentally.",
+        "It caused combinatorics to become a separate branch of mathematics in the 17th century."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the systematic use of the axiomatic method heralded a dramatic increase in the number of mathematical areas and their fields of application.",
+        "Incorrect. The four-area division endured until the end of the 19th century, but the axiomatic method led to an explosion of new areas, not a reduction to four.",
+        "Incorrect. The article says mathematical results are established by deductive proof rather than experiment, and the axiomatic method did not eliminate the crisis through experimentation.",
+        "Incorrect. The article states combinatorics did not become a separate branch until the 17th century, long before the end of the 19th century."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If a mathematician develops a new branch of pure mathematics with no immediate practical use, which principle from the article best explains why it might still become valuable later?",
+      "options": [
+        "Some areas are developed independently from any application but often find practical applications later.",
+        "Mathematics is primarily divided into geometry and arithmetic until the 16th and 17th centuries.",
+        "Applied mathematics is developed in close correlation with its applications.",
+        "Mathematical results are established by deductive proof rather than by experiment."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that some areas are developed independently from any application but often find practical applications later.",
+        "Incorrect. This describes the historical division of mathematics before the 16th and 17th centuries, not the later value of pure mathematics.",
+        "Incorrect. This describes applied mathematics, which is developed in close correlation with applications, unlike the independent development described in the scenario.",
+        "Incorrect. This describes how mathematical results are established, not why a purely theoretical area might later find practical use."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article indicate about the status of algebra and calculus in the 2020 Mathematics Subject Classification?",
+      "options": [
+        "They do not appear as first-level areas but are split into several first-level areas.",
+        "They are listed as two of the 63 first-level areas.",
+        "They were removed from the classification after the 19th century.",
+        "They remain the only two predominant areas of mathematics."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that algebra and calculus do not appear as first-level areas but are split into several first-level areas.",
+        "Incorrect. The article explicitly says algebra and calculus do not appear as first-level areas in the 2020 classification.",
+        "Incorrect. The article does not state that algebra and calculus were removed from the classification.",
+        "Incorrect. The article describes a four-area division that endured until the 19th century, not algebra and calculus as the only two areas today."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is presented in the article as an example of applied mathematics?",
+      "options": [
+        "Game theory",
+        "Number theory",
+        "Set theory",
+        "Mathematical logic"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that some areas, such as game theory, are developed in close correlation with their applications and are often grouped under applied mathematics.",
+        "Incorrect. The article discusses number theory as a field of pure mathematics, not as an example of applied mathematics.",
+        "Incorrect. The article describes set theory as a foundation for all mathematics, not as applied mathematics.",
+        "Incorrect. The article lists mathematical logic as a first-level area that emerged in the 20th century, not as applied mathematics."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the role of axioms in mathematics?",
+      "options": [
+        "They are stipulated properties that abstract objects are assumed to have.",
+        "They are theorems that have been verified through physical experiment.",
+        "They are the final conclusions reached at the end of a proof.",
+        "They are empirical measurements of geometric shapes."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that abstract objects are stipulated to have certain properties, called axioms.",
+        "Incorrect. The article states that mathematical results are established by deductive proof rather than experiment.",
+        "Incorrect. Axioms are starting points, not final conclusions of proofs.",
+        "Incorrect. The article does not describe axioms as empirical measurements."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which statement about the historical development of mathematics is supported by the article?",
+      "options": [
+        "Mathematical written records first appeared in Ancient Egypt and Mesopotamia, but the concept of proof began in ancient Greek mathematics.",
+        "The concept of proof originated in Ancient Egypt and Mesopotamia alongside the first written records.",
+        "Algebra and infinitesimal calculus evolved before the 16th century.",
+        "The foundational crisis of mathematics occurred at the beginning of the 19th century."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that mathematical written records first appeared in Ancient Egypt and Mesopotamia, but the concept of proof and mathematical rigor began in ancient Greek mathematics.",
+        "Incorrect. The article attributes the concept of proof to ancient Greek mathematics, not to Ancient Egypt and Mesopotamia.",
+        "Incorrect. The article states algebra and infinitesimal calculus evolved in the 16th and 17th centuries, not before the 16th century.",
+        "Incorrect. The article places the foundational crisis at the end of the 19th century, not the beginning."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What change did RenÃ© Descartes introduce to geometry in the 17th century?",
+      "options": [
+        "Cartesian coordinates, allowing points to be represented by numbers and enabling algebra to solve geometrical problems.",
+        "The parallel postulate, which led to the discovery of non-Euclidean geometries.",
+        "The axiomatic method, which resolved the foundational crisis of mathematics.",
+        "Straightedge and compass construction as the sole method for studying shapes."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that RenÃ© Descartes introduced Cartesian coordinates, allowing points to be represented by coordinates (numbers) and enabling algebra and calculus to solve geometrical problems.",
+        "Incorrect. The parallel postulate is associated with non-Euclidean geometries in the 19th century, not with Descartes.",
+        "Incorrect. The axiomatic method was systematized at the end of the 19th century, not introduced by Descartes in the 17th century.",
+        "Incorrect. Straightedge and compass construction is associated with Euclidean geometry, not introduced by Descartes."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Based on the article, which of the following best characterizes the relationship between mathematics and empirical phenomena?",
+      "options": [
+        "Mathematics models empirical phenomena, but its results are established by deductive proof rather than experiment.",
+        "Mathematical truths are confirmed primarily through laboratory experiments.",
+        "Mathematics cannot be used to model anything in science or engineering.",
+        "The results of mathematics are established by observing patterns in nature."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that although mathematics is widely used to model empirical phenomena, its results are established by deductive proof rather than by experiment.",
+        "Incorrect. The article explicitly states that mathematical results are not established by experiment.",
+        "Incorrect. The article states mathematics is essential in science and engineering and widely used to model problems in those fields.",
+        "Incorrect. The article states results are established through deductive proof, not by observing patterns in nature."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is listed in the article as a subarea of number theory?",
+      "options": [
+        "Analytic number theory",
+        "Differential geometry",
+        "Affine geometry",
+        "Projective geometry"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists analytic number theory as one of the subareas of number theory.",
+        "Incorrect. Differential geometry is listed as a subarea of geometry, not number theory.",
+        "Incorrect. Affine geometry is listed as a subarea of geometry, not number theory.",
+        "Incorrect. Projective geometry is listed as a subarea of geometry, not number theory."
+      ]
+    }
+  ]
+}

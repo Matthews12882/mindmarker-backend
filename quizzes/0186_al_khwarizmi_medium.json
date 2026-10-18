@@ -1,0 +1,167 @@
+{
+  "article_id": "0186",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the article state about the origin of the English term \"algebra\"?",
+      "options": [
+        "It comes from the short-hand title of al-Khwarizmi's treatise Al-Jabr",
+        "It derives from a Greek word meaning \"calculation\"",
+        "It was coined by Robert of Chester in his Latin translation",
+        "It originates from the Latin word algorismus"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The English term algebra comes from the short-hand title of his aforementioned treatise (Ø§ÙØ¬Ø¨Ø± Al-Jabr, transl. completion or rejoining).\"",
+        "Incorrect. The article does not state that algebra derives from a Greek word meaning calculation.",
+        "Incorrect. Robert of Chester translated Al-Jabr into Latin, but the article does not say he coined the English term algebra.",
+        "Incorrect. Algorismus is related to al-Khwarizmi's name, not to the origin of the word algebra."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, what was al-Khwarizmi's role at the House of Wisdom around 820 CE?",
+      "options": [
+        "Astronomer and head of the library",
+        "Chief translator of Sanskrit manuscripts",
+        "Director of the entire House of Wisdom",
+        "Personal tutor to Caliph al-Ma'mun"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Around 820 CE, he was appointed as the astronomer and head of the library of the House of Wisdom.\"",
+        "Incorrect. While he studied translations of Sanskrit manuscripts, the article does not identify him as chief translator of them.",
+        "Incorrect. The article says the House of Wisdom was established by Caliph al-Ma'mun, not that al-Khwarizmi directed it.",
+        "Incorrect. The article does not mention al-Khwarizmi serving as a personal tutor to Caliph al-Ma'mun."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article say about al-Khwarizmi's religious identity?",
+      "options": [
+        "The pious preface to his Algebra shows he was an orthodox Muslim",
+        "Al-Tabari's epithet al-Majusi proves he was a Zoroastrian",
+        "He explicitly rejected Zoroastrianism in all his writings",
+        "He practiced both Islam and Zoroastrianism simultaneously"
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes Toomer: \"the pious preface to al-Khwarizmi's Algebra shows that he was an orthodox Muslim.\"",
+        "Incorrect. The article says al-Tabari's epithet al-Majusi might indicate Zoroastrian forebears, but Toomer argues the pious preface shows al-Khwarizmi was an orthodox Muslim.",
+        "Incorrect. The article does not state that he explicitly rejected Zoroastrianism in all his writings.",
+        "Incorrect. The article does not state that he practiced both religions simultaneously."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article identify as al-Khwarizmi's demonstration involving quadratic equations?",
+      "options": [
+        "Solving quadratic equations by completing the square with geometric justifications",
+        "Using negative numbers as coefficients in quadratic equations",
+        "Introducing symbolic notation for quadratic equations",
+        "Proving that all quadratic equations have two real solutions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"One of his achievements in algebra was his demonstration of how to solve quadratic equations by completing the square, for which he provided geometric justifications.\"",
+        "Incorrect. The article does not mention his use of negative numbers as coefficients.",
+        "Incorrect. The article notes that most modern mathematical notation had not yet been invented in his day.",
+        "Incorrect. The article does not state that he proved all quadratic equations have two real solutions."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which work by al-Khwarizmi was translated into Latin in the 12th century as Algoritmo de Numero Indorum and introduced the decimal-based positional number system to the Western world?",
+      "options": [
+        "His textbook on Indian arithmetic",
+        "Al-Jabr",
+        "Geography",
+        "Zij"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"In the 12th century, Latin translations of al-Khwarizmi's textbook on Indian arithmetic (Algorithmo de Numero Indorum), which codified the various Indian numerals, introduced the decimal-based positional number system to the Western world.\"",
+        "Incorrect. Al-Jabr was translated by Robert of Chester in 1145, but it is the work on algebra, not the one introducing the decimal-based positional number system.",
+        "Incorrect. Geography was his revision of Ptolemy's treatise, not the work translated as Algoritmo de Numero Indorum.",
+        "Incorrect. Zij refers to his astronomical tables, not the arithmetic textbook."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what does the epithet al-Qutrubbulli potentially indicate about al-Khwarizmi's origin?",
+      "options": [
+        "He might have come from Qutrubbul near Baghdad",
+        "He was born in Khwarazm",
+        "He was of Persian descent",
+        "He wrote his works in Arabic"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The epithet al-Qutrubbulli could indicate he might instead have come from Qutrubbul (Qatrabbul), near Baghdad.\"",
+        "Incorrect. Ibn al-Nadim gives his birthplace as Khwarazm, but this is separate from the meaning of al-Qutrubbulli.",
+        "Incorrect. The article states he was of Persian descent, but this is not what al-Qutrubbulli indicates.",
+        "Incorrect. The article states he wrote in Arabic, but this is unrelated to the epithet al-Qutrubbulli."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does the article say about the six standard forms in Al-Jabr?",
+      "options": [
+        "They are categories of linear and quadratic equations up to the second degree",
+        "They are geometric proofs for solving cubic equations",
+        "They are astronomical tables for predicting eclipses",
+        "They are classifications of Indian numerals"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Al-Jabr \"provided an exhaustive account of solving polynomial equations up to the second degree\" and that al-Khwarizmi's method worked by first reducing the equation to one of six standard forms.",
+        "Incorrect. The six standard forms concern linear and quadratic equations, not cubic equations.",
+        "Incorrect. Astronomical tables are discussed separately in the article, not as the six standard forms.",
+        "Incorrect. Indian numerals are discussed in connection with his arithmetic work, not the six standard forms."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does the article say about the influence of Al-Jabr in Europe?",
+      "options": [
+        "It was used until the 16th century as the principal mathematical textbook of European universities",
+        "It was banned by European universities in the 14th century",
+        "It was only known in Europe after the 18th century",
+        "It had no impact on European mathematics"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Likewise, Al-Jabr, translated into Latin by the English scholar Robert of Chester in 1145, was used until the 16th century as the principal mathematical textbook of European universities.\"",
+        "Incorrect. The article says it was used as the principal textbook, not banned.",
+        "Incorrect. The article states it was translated in 1145 and used until the 16th century, so it was known well before the 18th century.",
+        "Incorrect. The article states the opposite: his works had a profound impact on the advance of mathematics in Europe."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what did al-Khwarizmi assist with regarding the Earth?",
+      "options": [
+        "A project to determine the circumference of the Earth and in making a world map for al-Ma'mun",
+        "The first circumnavigation of the globe",
+        "Proving that the Earth is the center of the universe",
+        "Calculating the exact distance from Earth to the Sun"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"He assisted a project to determine the circumference of the Earth and in making a world map for al-Ma'mun, the caliph, overseeing 70 geographers.\"",
+        "Incorrect. The article does not mention any circumnavigation of the globe.",
+        "Incorrect. The article does not state that he proved the Earth is the center of the universe.",
+        "Incorrect. The article does not mention calculating the distance from Earth to the Sun."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what did al-Khwarizmi's astronomical tables, known as Zij, enable?",
+      "options": [
+        "Precise calculations for predicting astronomical events such as eclipses and positions of celestial bodies",
+        "The invention of the telescope",
+        "The first measurement of the speed of light",
+        "A geocentric model of the solar system"
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes: \"These tables enabled precise calculations for predicting astronomical events, such as eclipses and the positions of celestial bodies, which were crucial for navigation and timekeeping.\"",
+        "Incorrect. The article does not mention the invention of the telescope.",
+        "Incorrect. The article does not mention measuring the speed of light.",
+        "Incorrect. The article does not state that Zij promoted a geocentric model of the solar system."
+      ]
+    }
+  ]
+}

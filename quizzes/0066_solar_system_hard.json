@@ -1,0 +1,167 @@
+{
+  "article_id": "0066",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, which two planets are the only ones that orbit within the Sun's habitable zone?",
+      "options": [
+        "Earth and Mars",
+        "Earth and Venus",
+        "Mercury and Earth",
+        "Venus and Mars"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Earth and Mars are the only planets that orbit within the Sun's habitable zone.",
+        "Incorrect. The article identifies Earth and Mars, not Earth and Venus, as the planets within the habitable zone.",
+        "Incorrect. Mercury is not listed among the planets orbiting within the habitable zone.",
+        "Incorrect. Venus is not one of the two planets the article places within the habitable zone."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Based on the article, what is the approximate diameter of the protoplanetary disc that formed during the collapse of the pre-solar nebula?",
+      "options": [
+        "roughly 200 AU",
+        "about 5 AU",
+        "between 2,000 AU and the Hill sphere",
+        "178,000â227,000 AU"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the pre-solar nebula flattened into a protoplanetary disc with a diameter of roughly 200 AU.",
+        "Incorrect. Five AU is mentioned as the approximate location of the frost line, not the disc diameter.",
+        "Incorrect. This range describes the theorized extent of the Oort cloud.",
+        "Incorrect. This range describes the extent of the Sun's Hill sphere."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, what will happen to the Sun's surface temperature when it becomes a red giant?",
+      "options": [
+        "It will be cooler than on the main sequence",
+        "It will remain unchanged",
+        "It will become hotter than on the main sequence",
+        "It will fluctuate unpredictably"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that because of its increased surface area, the surface of the Sun will be cooler than it is on the main sequence.",
+        "Incorrect. The article indicates the surface temperature will change, specifically becoming cooler.",
+        "Incorrect. The article states the surface will be cooler, not hotter, despite the core's greater energy output.",
+        "Incorrect. The article provides a specific expectation of a cooler surface temperature."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what percentage of the Solar System's total mass does the Sun account for?",
+      "options": [
+        "99.86%",
+        "99%",
+        "90%",
+        "less than 0.002%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Sun accounts for 99.86% of the Solar System's total mass.",
+        "Incorrect. Ninety-nine percent refers to the share of the remaining mass accounted for by the four giant planets.",
+        "Incorrect. Ninety percent refers to Jupiter and Saturn's share of the non-stellar mass.",
+        "Incorrect. Less than 0.002% refers to the remaining objects such as terrestrial planets, dwarf planets, moons, asteroids, and comets."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what is the approximate distance range of the Sun's Hill sphere?",
+      "options": [
+        "178,000â227,000 AU",
+        "70â90 AU",
+        "beyond 2,000 AU",
+        "about 5 AU"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Solar System reaches to the edge of the Sun's Hill sphere, at 178,000â227,000 AU.",
+        "Incorrect. Seventy to ninety AU is where the solar wind is halted by the interstellar medium.",
+        "Incorrect. Beyond 2,000 AU marks the inner extent of the theorized Oort cloud.",
+        "Incorrect. About five AU marks the approximate location of the frost line."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, which hypothesis suggests that Jupiter's final inward migration dispersed much of the asteroid belt?",
+      "options": [
+        "the grand tack hypothesis",
+        "the Nice model",
+        "the soot line hypothesis",
+        "the frost line hypothesis"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the grand tack hypothesis suggests a final inward migration of Jupiter dispersed much of the asteroid belt.",
+        "Incorrect. The Nice model proposes gravitational encounters caused planet migration and dynamical instability, but the asteroid belt dispersal is attributed to the grand tack hypothesis.",
+        "Incorrect. The soot line refers to the boundary where hydrocarbon molecules boiled in the inner Solar System.",
+        "Incorrect. The frost line is the point where volatile icy compounds could remain solid, not a hypothesis about Jupiter's migration."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what is the approximate duration of the Sun's main-sequence phase?",
+      "options": [
+        "about 10 billion years",
+        "about 5 billion years",
+        "about 2 billion years",
+        "about 4.6 billion years"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Sun's main-sequence phase will last about 10 billion years.",
+        "Incorrect. Five billion years is when the Sun's main-sequence life will end, not the total duration.",
+        "Incorrect. Around two billion years is the combined duration of all subsequent phases after the main sequence.",
+        "Incorrect. About 4.6 billion years ago is when the Solar System formed."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is the approximate distance of Proxima Centauri from the Solar System?",
+      "options": [
+        "269,000 AU (4.25 ly)",
+        "178,000â227,000 AU",
+        "beyond 2,000 AU",
+        "1,000 light-years"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Proxima Centauri is 269,000 AU (4.25 ly) away from the Solar System.",
+        "Incorrect. This range describes the extent of the Sun's Hill sphere.",
+        "Incorrect. Beyond 2,000 AU marks the inner extent of the theorized Oort cloud.",
+        "Incorrect. One thousand light-years is the width of the Local Bubble."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, which region includes Mercury, Venus, Earth, Mars, and the bodies in the asteroid belt?",
+      "options": [
+        "the inner Solar System",
+        "the outer Solar System",
+        "the Kuiper belt",
+        "the scattered disc"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the inner Solar System includes Mercury, Venus, Earth, Mars, and the bodies in the asteroid belt.",
+        "Incorrect. The outer Solar System includes the giant planets and Kuiper belt bodies.",
+        "Incorrect. The Kuiper belt is just outside Neptune and is part of the outer Solar System.",
+        "Incorrect. The scattered disc is a population of trans-Neptunian objects beyond Neptune."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what is the primary reason the terrestrial planets could not grow very large?",
+      "options": [
+        "refractory materials comprised only a small fraction of the solar nebula",
+        "they formed inside the frost line where ices could not persist",
+        "heat from accretion exceeded the boiling point of hydrocarbon molecules",
+        "they orbit within the Sun's habitable zone"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that because refractory materials only comprised a small fraction of the solar nebula, the terrestrial planets could not grow very large.",
+        "Incorrect. While the frost line separates inner and outer planet formation, the article specifically attributes the small size of terrestrial planets to the limited fraction of refractory materials.",
+        "Incorrect. The soot line process affected carbon content but is not cited as the reason terrestrial planets could not grow large.",
+        "Incorrect. Orbiting within the habitable zone relates to liquid water, not planetary size."
+      ]
+    }
+  ]
+}

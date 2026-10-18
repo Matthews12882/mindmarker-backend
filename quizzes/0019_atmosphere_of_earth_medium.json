@@ -1,0 +1,167 @@
+{
+  "article_id": "0019",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the approximate volume fraction of oxygen in dry air by mole fraction?",
+      "options": [
+        "20.95%",
+        "78.08%",
+        "0.93%",
+        "0.04%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that dry air contains 20.95% oxygen by mole fraction.",
+        "Incorrect. 78.08% is the volume fraction of nitrogen, not oxygen.",
+        "Incorrect. 0.93% refers to argon, not oxygen.",
+        "Incorrect. 0.04% refers to carbon dioxide, not oxygen."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which layer of Earth's atmosphere extends from about 12 to 50 km above the surface?",
+      "options": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "answer_explanations": [
+        "Correct. The stratification section lists the stratosphere as spanning 12â50 km.",
+        "Incorrect. The troposphere spans 0â12 km, not 12â50 km.",
+        "Incorrect. The mesosphere spans 50â80 km, not 12â50 km.",
+        "Incorrect. The thermosphere spans 80â700 km, not 12â50 km."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the conventional altitude used to define the edge of space according to the article?",
+      "options": [
+        "100 km",
+        "11 km",
+        "80 km",
+        "700 km"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the KÃ¡rmÃ¡n line at 100 km is often used as a conventional definition of the edge of space.",
+        "Incorrect. 11 km is the altitude within which three-quarters of the atmosphere's mass is found, not the edge of space.",
+        "Incorrect. 80 km is approximately the lower boundary of the thermosphere, not the edge of space.",
+        "Incorrect. 700 km is the upper boundary of the thermosphere and lower boundary of the exosphere, not the conventional edge of space."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following best describes how Earth's atmosphere protects the surface?",
+      "options": [
+        "It shields from most meteoroids and ultraviolet solar radiation, reduces day-night temperature extremes, and retains heat via the greenhouse effect.",
+        "It blocks all solar radiation from reaching the surface.",
+        "It prevents any meteoroids from entering the atmosphere.",
+        "It eliminates all temperature differences between day and night."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the atmosphere shields the surface from most meteoroids and ultraviolet solar radiation, reduces diurnal temperature variation, and keeps it warm through heat retention via the greenhouse effect.",
+        "Incorrect. The article says it shields from most ultraviolet solar radiation, not all solar radiation.",
+        "Incorrect. The article says it shields from most meteoroids, not all meteoroids.",
+        "Incorrect. The article says it reduces temperature extremes between day and night, not eliminates them entirely."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the approximate mass of Earth's atmosphere?",
+      "options": [
+        "5.15Ã10^18 kg",
+        "5.15Ã10^15 kg",
+        "5.15Ã10^21 kg",
+        "5.15Ã10^12 kg"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the atmosphere has a mass of about 5.15Ã10^18 kg.",
+        "Incorrect. The article does not give 5.15Ã10^15 kg as the atmosphere's mass.",
+        "Incorrect. The article does not give 5.15Ã10^21 kg as the atmosphere's mass.",
+        "Incorrect. The article does not give 5.15Ã10^12 kg as the atmosphere's mass."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which atmospheric layer contains air suitable for photosynthesis by terrestrial plants and respiration by terrestrial animals?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Exosphere"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that air suitable for photosynthesis by terrestrial plants and respiration by terrestrial animals is found within the troposphere.",
+        "Incorrect. The article does not identify the stratosphere as containing air suitable for photosynthesis and respiration by terrestrial organisms.",
+        "Incorrect. The article does not identify the mesosphere as containing air suitable for photosynthesis and respiration by terrestrial organisms.",
+        "Incorrect. The article does not identify the exosphere as containing air suitable for photosynthesis and respiration by terrestrial organisms."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What happens to atmospheric gases above roughly 100 km altitude?",
+      "options": [
+        "Turbulent mixing yields to molecular diffusion, forming the heterosphere where lighter gases increase with altitude.",
+        "Gases become uniformly mixed by turbulence at all altitudes.",
+        "Gases stop existing above 100 km.",
+        "Gases condense into liquid form above 100 km."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that above roughly 100 km, turbulent mixing gradually yields to molecular diffusion, forming the heterosphere where the relative concentration of lighter gases increases with altitude.",
+        "Incorrect. The article says turbulent mixing occurs up to around 100 km, not that gases remain uniformly mixed at all altitudes.",
+        "Incorrect. The article does not state that gases stop existing above 100 km.",
+        "Incorrect. The article does not state that gases condense into liquid form above 100 km."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a trace gas mentioned in the article?",
+      "options": [
+        "Methane",
+        "Nitrogen",
+        "Oxygen",
+        "Argon"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists methane among the trace gases and greenhouse gases in the atmosphere.",
+        "Incorrect. Nitrogen is a major constituent, not a trace gas.",
+        "Incorrect. Oxygen is a major constituent, not a trace gas.",
+        "Incorrect. Argon is a major constituent, not a trace gas."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the 'missing xenon problem' described in the article?",
+      "options": [
+        "The concentration of xenon in the atmosphere is much lower than other noble gases.",
+        "Xenon is the most abundant noble gas in the atmosphere.",
+        "Xenon cannot be detected in Earth's atmosphere at all.",
+        "Xenon is only found in the exosphere."
+      ],
+      "answer_explanations": [
+        "Correct. The article describes the missing xenon problem as the geological mystery that the concentration of xenon in the atmosphere is much lower than the other noble gases.",
+        "Incorrect. The article states xenon is much lower than other noble gases, not the most abundant.",
+        "Incorrect. The article states xenon is present but in much lower concentrations, not that it cannot be detected at all.",
+        "Incorrect. The article does not state xenon is only found in the exosphere."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, which human activities contribute to climate change?",
+      "options": [
+        "Deforestation and fossil-fuel-related global warming",
+        "Volcanic eruptions and solar radiation",
+        "Ocean currents and mountain formation",
+        "Photosynthesis and respiration"
+      ],
+      "answer_explanations": [
+        "Correct. The article states human activity contributes to climate change mainly through deforestation and fossil-fuel-related global warming.",
+        "Incorrect. Volcanic eruptions and solar radiation are not identified in the article as human activities contributing to climate change.",
+        "Incorrect. Ocean currents and mountain formation are not identified in the article as human activities contributing to climate change.",
+        "Incorrect. Photosynthesis and respiration are natural processes, not human activities identified as contributing to climate change."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0096",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is elementary algebra primarily a generalization of?",
+      "options": [
+        "arithmetic",
+        "geometry",
+        "calculus",
+        "topology"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that elementary algebra is a generalization of arithmetic that relies on variables.",
+        "Incorrect. Geometry is mentioned as a field where algebraic methods were studied, but not as what elementary algebra generalizes.",
+        "Incorrect. Calculus is listed as a branch of mathematics relevant to algebra, not as the basis of elementary algebra.",
+        "Incorrect. Topology is listed among branches relevant to algebra, not as what elementary algebra generalizes."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does abstract algebra study?",
+      "options": [
+        "algebraic structures consisting of a set of mathematical objects together with operations defined on that set",
+        "only linear equations and systems of linear equations",
+        "the surgical treatment of bonesetting",
+        "specific numerical values in arithmetic operations"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines abstract algebra as studying algebraic structures, which consist of a set of mathematical objects together with one or several operations defined on that set.",
+        "Incorrect. Linear equations and systems of linear equations are the focus of linear algebra, not abstract algebra.",
+        "Incorrect. Bonesetting is the original meaning of the Arabic term al-jabr, not the subject of abstract algebra.",
+        "Incorrect. Specific numerical values are the concern of arithmetic, whereas abstract algebra allows objects other than numbers."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is explicitly named in the article as a type of algebraic structure?",
+      "options": [
+        "groups",
+        "vectors",
+        "matrices",
+        "derivatives"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists groups, rings, and fields as types of algebraic structures distinguished by the number of operations and axioms they follow.",
+        "Incorrect. Vectors are not listed in the article as a type of algebraic structure.",
+        "Incorrect. Matrices are not listed in the article as a type of algebraic structure.",
+        "Incorrect. Derivatives are not listed in the article as a type of algebraic structure."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who systematized algebra as an independent mathematical discipline in the 9th century?",
+      "options": [
+        "Muá¸¥ammad ibn MÅ«sÄ al-KhwÄrizmÄ«",
+        "Euclid",
+        "Isaac Newton",
+        "Carl Friedrich Gauss"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in the 9th century Muá¸¥ammad ibn MÅ«sÄ al-KhwÄrizmÄ« systematized algebra as an independent mathematical discipline, distinct from geometry.",
+        "Incorrect. Euclid is not mentioned in the article in connection with systematizing algebra.",
+        "Incorrect. Isaac Newton is not mentioned in the article in connection with systematizing algebra.",
+        "Incorrect. Carl Friedrich Gauss is not mentioned in the article in connection with systematizing algebra."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the etymological origin of the word algebra?",
+      "options": [
+        "the Arabic term al-jabr",
+        "the Latin term liber algebrae",
+        "the Greek term mathematika",
+        "the French term algebre"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the word algebra comes from the Arabic term Ø§ÙØ¬Ø¨Ø± (al-jabr).",
+        "Incorrect. Liber Algebrae et Almucabola is the Latin translation of al-Khwarizmi's treatise, not the origin of the word.",
+        "Incorrect. The Greek term mathematika is not mentioned in the article as the origin of algebra.",
+        "Incorrect. The French term algebre is not mentioned in the article as the origin of algebra."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is a polynomial, according to the article?",
+      "options": [
+        "an expression consisting of one or more terms that are added or subtracted from each other",
+        "an equation that is true for all values of its variables",
+        "a set equipped with one or several operations",
+        "a statement that two expressions are unequal"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a polynomial as an expression consisting of one or more terms that are added or subtracted from each other.",
+        "Incorrect. An equation true for all values of its variables is an identity equation, not a polynomial.",
+        "Incorrect. A set equipped with operations is an algebraic structure, not a polynomial.",
+        "Incorrect. A statement that two expressions are unequal is an inequation, not a polynomial."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the main goal of elementary algebra?",
+      "options": [
+        "to determine the values for which a statement is true",
+        "to calculate the area of geometric figures",
+        "to classify algebraic structures by their axioms",
+        "to translate mathematical texts into Latin"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the main goal of elementary algebra is to determine the values for which a statement is true.",
+        "Incorrect. Calculating the area of geometric figures is not identified as the main goal of elementary algebra.",
+        "Incorrect. Classifying algebraic structures by their axioms is the concern of abstract algebra.",
+        "Incorrect. Translating mathematical texts into Latin is a historical detail, not the main goal of elementary algebra."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How does elementary algebra differ from arithmetic in its use of variables?",
+      "options": [
+        "Elementary algebra allows variables in addition to numbers, while arithmetic restricts itself to a particular domain of numbers.",
+        "Elementary algebra uses only fixed numerical values, while arithmetic uses symbols for unknown quantities.",
+        "Elementary algebra prohibits the use of variables, while arithmetic requires them.",
+        "Elementary algebra and arithmetic use variables in exactly the same way."
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that elementary algebra generalizes arithmetic by allowing indefinite quantities in the form of variables in addition to numbers.",
+        "Incorrect. The article states the opposite: elementary algebra uses variables, while arithmetic operates on numbers in a particular domain.",
+        "Incorrect. The article clearly states that elementary algebra allows variables.",
+        "Incorrect. The article presents variables as a distinguishing feature of elementary algebra compared to arithmetic."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does linear algebra investigate?",
+      "options": [
+        "linear equations and systems of linear equations",
+        "polynomial equations of degree three and four",
+        "algebraic structures such as groups and rings",
+        "the historical development of symbolic formalism"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that linear algebra investigates linear equations and combinations of them called systems of linear equations.",
+        "Incorrect. Polynomial equations of degrees 3 and 4 are discussed under polynomials, not as the focus of linear algebra.",
+        "Incorrect. Algebraic structures such as groups and rings are studied in abstract algebra.",
+        "Incorrect. The historical development of symbolic formalism is mentioned in the history section, not as the subject of linear algebra."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is an algebra, when the term is used as a countable noun?",
+      "options": [
+        "a specific type of algebraic structure involving a vector space equipped with a bilinear map",
+        "a synonym for elementary algebra only",
+        "a method for solving polynomial equations by factorization",
+        "a historical treatise translated into Latin"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that when used as a countable noun, an algebra is a specific type of algebraic structure that involves a vector space equipped with a bilinear map.",
+        "Incorrect. The article notes that algebra is sometimes used narrowly to refer only to elementary algebra, but that is not the countable-noun definition.",
+        "Incorrect. Factorization is a method for simplifying polynomials, not the definition of an algebra as a countable noun.",
+        "Incorrect. A historical treatise translated into Latin refers to al-Khwarizmi's work, not the countable-noun sense of algebra."
+      ]
+    }
+  ]
+}

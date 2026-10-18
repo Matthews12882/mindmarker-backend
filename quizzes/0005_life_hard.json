@@ -1,0 +1,167 @@
+{
+  "article_id": "0005",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the primary reason defining life is challenging for scientists and philosophers?",
+      "options": [
+        "Life is a process, not a substance.",
+        "There are too many species to classify.",
+        "Viruses complicate all definitions equally.",
+        "Extraterrestrial life has already been discovered."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that defining life is a challenge partially because \"life is a process, not a substance.\"",
+        "Incorrect. The article does not cite the number of species as a reason for the difficulty in defining life.",
+        "Incorrect. While viruses complicate definitions, the article identifies the process-versus-substance issue as a core reason, not viruses alone.",
+        "Incorrect. The article says extraterrestrial life is thought to be probable, not that it has been discovered."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Based on the NASA committee definition quoted in the article, why is a single sexually reproducing individual not considered alive under that definition?",
+      "options": [
+        "It is incapable of evolving on its own.",
+        "It lacks a cellular structure.",
+        "It cannot maintain homeostasis.",
+        "It does not use energy gradients."
+      ],
+      "answer_explanations": [
+        "Correct. The article states this definition has been criticised because \"a single sexually reproducing individual is not alive as it is incapable of evolving on its own.\"",
+        "Incorrect. The article does not say sexually reproducing individuals lack cellular structure.",
+        "Incorrect. Homeostasis is not mentioned in the context of the NASA definition's criticism.",
+        "Incorrect. The article does not link the criticism to energy gradients."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, what is a key difference between Aristotle's hylomorphism and modern natural selection in explaining biological features?",
+      "options": [
+        "Hylomorphism uses teleological purpose, while natural selection relies on prior evolutionary causes.",
+        "Hylomorphism requires a soul, while natural selection does not.",
+        "Hylomorphism applies only to plants, while natural selection applies to all life.",
+        "Hylomorphism rejects matter, while natural selection is purely materialist."
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that teleological explanations account for phenomena in terms of purpose, whereas natural selection explains features by looking at past evolutionary history.",
+        "Incorrect. While hylomorphism involves souls, the article contrasts the two frameworks based on teleology versus prior causes, not the presence of souls.",
+        "Incorrect. The article does not limit hylomorphism to plants in this comparison.",
+        "Incorrect. Hylomorphism includes matter and form; it does not reject matter."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In the article's descriptive definition of life, what does growth specifically entail?",
+      "options": [
+        "Maintenance of a higher rate of anabolism than catabolism.",
+        "The ability to reproduce sexually.",
+        "Regulation of internal temperature through sweating.",
+        "Response to external chemical stimuli."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines growth as \"maintenance of a higher rate of anabolism than catabolism.\"",
+        "Incorrect. Reproduction is listed as a separate trait from growth.",
+        "Incorrect. Sweating is given as an example of homeostasis, not growth.",
+        "Incorrect. Response to stimuli is a separate trait in the descriptive list."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "If a newly discovered organism maintains a constant internal temperature, is composed of cells, converts energy to build cellular components, and responds to light, but cannot produce offspring, which trait from the article's descriptive list does it lack?",
+      "options": [
+        "Reproduction",
+        "Homeostasis",
+        "Organisation",
+        "Metabolism"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists reproduction as the ability to produce new individual organisms, which this organism cannot do.",
+        "Incorrect. Maintaining a constant internal temperature demonstrates homeostasis.",
+        "Incorrect. Being composed of cells demonstrates organisation.",
+        "Incorrect. Converting energy to build cellular components demonstrates metabolism."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, why are viruses often described as \"organisms at the edge of life\"?",
+      "options": [
+        "They possess genes, evolve by natural selection, and replicate through self-assembly, but do not metabolise and require host cells.",
+        "They are made of cells but lack DNA and RNA.",
+        "They can reproduce independently outside host cells and carry out metabolism.",
+        "They are classified as extremophiles living in harsh environments."
+      ],
+      "answer_explanations": [
+        "Correct. The article states viruses possess genes, evolve by natural selection, and replicate through self-assembly, but do not metabolise and require host cells.",
+        "Incorrect. The article does not say viruses are made of cells or lack DNA and RNA.",
+        "Incorrect. The article explicitly says viruses require host cells and do not metabolise.",
+        "Incorrect. The article does not classify viruses as extremophiles."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Based on the article's physics perspective, how is life characterized thermodynamically?",
+      "options": [
+        "As an open system that uses environmental gradients to create imperfect copies of itself.",
+        "As a closed system that maintains internal equilibrium without external input.",
+        "As a system that resists entropy by avoiding reproduction.",
+        "As a system that exists independently of molecular organization."
+      ],
+      "answer_explanations": [
+        "Correct. The article describes life thermodynamically as an open system using gradients in its surroundings to create imperfect copies of itself.",
+        "Incorrect. The article describes life as an open system, not a closed one.",
+        "Incorrect. The article associates life with reproduction, not avoiding it.",
+        "Incorrect. The article emphasizes organised molecular structure as central to the physics perspective."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is one implication of virus self-assembly within host cells for the study of the origin of life?",
+      "options": [
+        "It may support the hypothesis that life could have started as self-assembling organic molecules.",
+        "It proves that viruses are the universal common ancestor of all life.",
+        "It demonstrates that metabolism arose before replication.",
+        "It shows that extraterrestrial life must be viral in nature."
+      ],
+      "answer_explanations": [
+        "Correct. The article states virus self-assembly may support the hypothesis that life could have started as self-assembling organic molecules.",
+        "Incorrect. The article does not claim viruses are the universal common ancestor.",
+        "Incorrect. The article does not state that metabolism arose before replication based on viruses.",
+        "Incorrect. The article does not connect virus self-assembly to extraterrestrial life being viral."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "In Aristotle's hylomorphism, which soul is unique to humans according to the article?",
+      "options": [
+        "The rational soul",
+        "The vegetative soul",
+        "The animal soul",
+        "The sensitive soul"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the rational soul is the source of consciousness and reasoning, which Aristotle believed is found only in man.",
+        "Incorrect. The vegetative soul is attributed to plants.",
+        "Incorrect. The animal soul is attributed to animals.",
+        "Incorrect. The article does not mention a sensitive soul."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what is the biota of a particular ecosystem?",
+      "options": [
+        "The life in that ecosystem.",
+        "The non-living chemical components of that ecosystem.",
+        "The fossil record found in that ecosystem.",
+        "The climate patterns of that ecosystem."
+      ],
+      "answer_explanations": [
+        "Correct. The article states, \"The life in a particular ecosystem is called its biota.\"",
+        "Incorrect. Biota refers to living things, not non-living components.",
+        "Incorrect. Fossils are traces of extinct species, not the biota of an ecosystem.",
+        "Incorrect. Climate patterns are not defined as biota in the article."
+      ]
+    }
+  ]
+}

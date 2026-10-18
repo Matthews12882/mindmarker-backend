@@ -1,0 +1,167 @@
+{
+  "article_id": "0099",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes the article's distinction between a number and a numeral?",
+      "options": [
+        "A number is the abstract mathematical object, while a numeral is the symbol or word used to represent it.",
+        "A numeral is an abstract mathematical object used to count and measure, while a number is a written symbol.",
+        "Numbers and numerals are completely interchangeable terms with no meaningful distinction.",
+        "A number is always written with Arabic digits, while a numeral can be any spoken word."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that individual numbers can be represented with number words or dedicated symbols called numerals, and that a number is a mathematical object used to count, measure, order, and label.",
+        "Incorrect. This reverses the article's definitions; numbers are the abstract objects and numerals are the symbols.",
+        "Incorrect. The article explicitly says numbers should be distinguished from numerals, though it notes common usage often blurs the distinction.",
+        "Incorrect. The article does not restrict numbers to Arabic digits; numerals can be words or symbols from various systems."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Based on the article, what was the key innovation that made the HinduâArabic numeral system effective?",
+      "options": [
+        "The inclusion of a symbol for zero developed by ancient Indian mathematicians around 500 AD.",
+        "Its use of letters from the Roman alphabet to represent values.",
+        "Its reliance on tally marks without place value.",
+        "Its restriction to representing only small whole numbers."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the key to the effectiveness of the HinduâArabic numeral system was the symbol for zero, developed by ancient Indian mathematicians around 500 AD.",
+        "Incorrect. Roman numerals used combinations of letters from the Roman alphabet, not the HinduâArabic system.",
+        "Incorrect. Tallying systems lack place value and are described as limited, not as the key to the HinduâArabic system's effectiveness.",
+        "Incorrect. The article describes the HinduâArabic system as able to display any non-negative integer, not only small whole numbers."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which scenario best applies the article's account of how European mathematicians viewed negative numbers before the 17th century?",
+      "options": [
+        "A European scholar in the 1500s dismisses a negative solution to an equation as meaningless and ignores it.",
+        "A European merchant in the 1200s uses negative numbers exclusively to record debts in a ledger.",
+        "A Greek mathematician in the 3rd century AD accepts negative roots as valid solutions to quadratic equations.",
+        "An Indian mathematician in the 600s treats negative numbers as debts and formulates a general quadratic formula."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as recently as the 18th century it was common to ignore negative results as meaningless, and that European mathematicians largely resisted negative numbers until the 17th century.",
+        "Incorrect. While Fibonacci allowed negative solutions for debts in 1202, the article says European mathematicians for the most part resisted the concept until the 17th century, so exclusive use by a merchant is not the best fit.",
+        "Incorrect. Diophantus called a negative solution an absurd result, not a valid one.",
+        "Incorrect. This describes Indian, not European, mathematicians; the scenario asks about European views."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article indicate about the status of zero in ancient Greek thought?",
+      "options": [
+        "Greek philosophers questioned whether zero could be considered a number, asking how 'nothing' could be 'something.'",
+        "The Greeks fully accepted zero as a number and used it regularly in calculations.",
+        "Greek mathematicians rejected zero because they believed only whole numbers were valid.",
+        "The Greeks used zero as a placeholder but never as a true number in any context."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Ancient Greeks seemed unsure about zero's status as a number and asked themselves 'How can nothing be something?'",
+        "Incorrect. The article describes Greek uncertainty about zero, not full acceptance.",
+        "Incorrect. The article does not say Greeks believed only whole numbers were valid; it notes they even questioned whether 1 was a number.",
+        "Incorrect. The article identifies Ptolemy's Hellenistic zero as the first documented true zero in the Old World, used not just as a placeholder."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, which of the following best characterizes the development of algebraic structures in the 19th century?",
+      "options": [
+        "They extended the concept of number, but whether such structures are called 'numbers' is largely a matter of convention.",
+        "They replaced traditional number systems entirely and eliminated the need for numerals.",
+        "They were all explicitly referred to as numbers because they shared every property of natural numbers.",
+        "They were developed solely to represent negative numbers and irrational quantities."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that algebraic structures share certain properties of numbers and may extend the concept, and that whether they are called numbers is more a matter of convention than mathematical distinction.",
+        "Incorrect. The article does not claim algebraic structures replaced traditional number systems or eliminated numerals.",
+        "Incorrect. The article says some structures are explicitly called numbers while others are not, so not all were referred to as numbers.",
+        "Incorrect. The article does not limit algebraic structures to representing negative numbers or irrational quantities."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following best explains why tallying systems are considered the first kind of abstract numeral system despite their limitations?",
+      "options": [
+        "They represented quantities abstractly through marks, even though they lacked place value and could not easily represent large numbers.",
+        "They used place value to represent arbitrarily large numbers efficiently.",
+        "They were the first system to include a symbol for zero as a true number.",
+        "They were invented by the Egyptians as a ciphered numeral system."
+      ],
+      "answer_explanations": [
+        "Correct. The article says tallying systems have no concept of place value and are limited in representing large numbers, but are nevertheless considered the first kind of abstract numeral system.",
+        "Incorrect. The article explicitly states tallying systems have no concept of place value.",
+        "Incorrect. The article associates zero as a true number with later developments, not with tallying systems.",
+        "Incorrect. The article says the Egyptians invented the first ciphered numeral system, not tallying systems."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which scenario best applies the article's description of Brahmagupta's contribution to the concept of zero?",
+      "options": [
+        "A mathematician formulates rules for arithmetic operations involving zero, including adding zero to positive and negative numbers.",
+        "A scholar uses zero only as a placeholder to separate digits in a place-value notation.",
+        "A philosopher argues that zero cannot exist because nothing cannot be something.",
+        "A calendar designer uses zero as a symbol in a base-20 system with dots and bars."
+      ],
+      "answer_explanations": [
+        "Correct. The article states Brahmagupta treated 0 as a number, discussed operations involving it, and gave rules such as 'zero plus a positive number is a positive number, and a negative number plus zero is the negative number.'",
+        "Incorrect. Using zero only as a placeholder describes earlier Babylonian usage, not Brahmagupta's treatment of zero as a number.",
+        "Incorrect. This reflects ancient Greek uncertainty about zero, not Brahmagupta's work.",
+        "Incorrect. This describes the Maya use of zero, not Brahmagupta's contribution."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Based on the article, which statement accurately compares the Babylonian and Egyptian uses of zero?",
+      "options": [
+        "The Babylonians used zero as a placeholder in place-value systems, while the Egyptians used the word nfr to denote zero balance in accounting.",
+        "Both civilizations used zero exclusively as a true number in all mathematical operations.",
+        "The Egyptians developed the HinduâArabic zero symbol, while the Babylonians rejected zero entirely.",
+        "Neither civilization had any concept of zero; it was first invented in India around 500 AD."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Babylonians used zero as a placeholder numeral in place-value systems, and that Egyptians used the word nfr to denote zero balance in double-entry accounting.",
+        "Incorrect. The article does not say both used zero as a true number in all operations; Babylonian zero was a placeholder.",
+        "Incorrect. The article attributes the HinduâArabic zero symbol to ancient Indian mathematicians, not Egyptians, and does not say Babylonians rejected zero entirely.",
+        "Incorrect. The article documents Babylonian and Egyptian uses of zero before the Indian development around 500 AD."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following best reflects the article's account of the earliest known base-10 system?",
+      "options": [
+        "The earliest known base-10 system dates to 3100 BC in Egypt.",
+        "The earliest known base-10 system was the Mesopotamian sexagesimal system around 3400 BC.",
+        "Base-10 notation was first developed by the Greeks using their alphabet.",
+        "The earliest unambiguous base-10 system appears on the Ishango bone about 22,000 years ago."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the earliest known base-10 system dates to 3100 BC in Egypt.",
+        "Incorrect. The Mesopotamian system was base-60 (sexagesimal), not base-10.",
+        "Incorrect. The article says Greeks mapped counting numbers onto alphabets, but does not credit them with the earliest base-10 system.",
+        "Incorrect. The Ishango bone is described as a possible tally-mark artifact, not the earliest known base-10 system."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which scenario best applies the article's distinction between counting, measuring, ordering, and labeling as uses of numbers?",
+      "options": [
+        "A librarian assigns ISBNs to books to uniquely identify them.",
+        "A farmer counts the number of sheep in a field.",
+        "A chef measures the weight of flour in grams.",
+        "A runner records their finishing position in a race."
+      ],
+      "answer_explanations": [
+        "Correct. The article lists codes such as ISBNs as a use of numerals for labeling or identification.",
+        "Incorrect. Counting sheep is an example of counting, not labeling.",
+        "Incorrect. Measuring flour is an example of measuring, not labeling.",
+        "Incorrect. Recording finishing position is an example of ordering, not labeling."
+      ]
+    }
+  ]
+}

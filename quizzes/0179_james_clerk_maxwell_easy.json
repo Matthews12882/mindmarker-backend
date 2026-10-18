@@ -1,0 +1,167 @@
+{
+  "article_id": "0179",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What was James Clerk Maxwell's nationality?",
+      "options": [
+        "Scottish",
+        "English",
+        "Irish",
+        "Welsh"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes Maxwell as 'a Scottish physicist and mathematician'.",
+        "Incorrect. The article does not describe Maxwell as English.",
+        "Incorrect. The article does not describe Maxwell as Irish.",
+        "Incorrect. The article does not describe Maxwell as Welsh."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "On what date was James Clerk Maxwell born?",
+      "options": [
+        "13 June 1831",
+        "5 November 1879",
+        "13 June 1879",
+        "5 November 1831"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Maxwell was born on 13 June 1831.",
+        "Incorrect. 5 November 1879 is Maxwell's date of death, not birth.",
+        "Incorrect. The article does not give this date for Maxwell's birth.",
+        "Incorrect. The article does not give this date for Maxwell's birth."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What did Maxwell's equations achieve in physics?",
+      "options": [
+        "The second great unification in physics",
+        "The first great unification in physics",
+        "The third great unification in physics",
+        "No unification in physics"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Maxwell's equations 'achieved the second great unification in physics'.",
+        "Incorrect. The article states the first great unification was realised by Isaac Newton.",
+        "Incorrect. The article does not mention a third great unification.",
+        "Incorrect. The article explicitly states Maxwell's equations achieved a great unification."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In what year did Maxwell graduate from Trinity College, Cambridge?",
+      "options": [
+        "1854",
+        "1850",
+        "1856",
+        "1860"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Maxwell graduated from Trinity College, Cambridge, in 1854.",
+        "Incorrect. 1850 is when Maxwell left Scotland for Cambridge, not when he graduated.",
+        "Incorrect. 1856 is not given as Maxwell's graduation year.",
+        "Incorrect. 1860 is when Maxwell began serving as Professor at King's College London."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What did Maxwell correctly propose about the rings of Saturn?",
+      "options": [
+        "They were composed of numerous small particles",
+        "They were solid structures",
+        "They were made of gas",
+        "They were optical illusions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Maxwell 'correctly proposed that they were composed of numerous small particles'.",
+        "Incorrect. The article says the rings were composed of numerous small particles, not solid structures.",
+        "Incorrect. The article does not say the rings were made of gas.",
+        "Incorrect. The article does not say the rings were optical illusions."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did Maxwell's 1865 publication demonstrate about electric and magnetic fields?",
+      "options": [
+        "They travel through space as waves moving at the speed of light",
+        "They travel slower than light",
+        "They do not travel through space",
+        "They travel instantaneously"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his 1865 publication demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light.",
+        "Incorrect. The article says the waves move at the speed of light, not slower.",
+        "Incorrect. The article explicitly states the fields travel through space as waves.",
+        "Incorrect. The article says the waves move at the speed of light, not instantaneously."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What did Maxwell present in 1861?",
+      "options": [
+        "The first durable colour photograph",
+        "The first motion picture",
+        "The first X-ray image",
+        "The first telescope"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Maxwell 'presented the first durable colour photograph in 1861'.",
+        "Incorrect. The article does not mention Maxwell presenting a motion picture.",
+        "Incorrect. The article does not mention Maxwell presenting an X-ray image.",
+        "Incorrect. The article does not mention Maxwell presenting a telescope."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What position did Maxwell take at Cambridge in 1871?",
+      "options": [
+        "The first Cavendish Professor of Physics",
+        "Head of Trinity College",
+        "Smith's Prize winner",
+        "Director of the Royal Society"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Maxwell returned to Cambridge in 1871 as the first Cavendish Professor of Physics.",
+        "Incorrect. The article does not say Maxwell became Head of Trinity College.",
+        "Incorrect. Smith's Prize was an award Maxwell earned as a student, not a position in 1871.",
+        "Incorrect. The article does not say Maxwell became Director of the Royal Society."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What thought experiment did Maxwell propose in 1867?",
+      "options": [
+        "Maxwell's demon",
+        "SchrÃ¶dinger's cat",
+        "Newton's apple",
+        "Einstein's elevator"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in 1867 Maxwell proposed the thought experiment known as Maxwell's demon.",
+        "Incorrect. SchrÃ¶dinger's cat is not mentioned in the article.",
+        "Incorrect. Newton's apple is not mentioned in the article.",
+        "Incorrect. Einstein's elevator is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What fields did Maxwell's discoveries help lay the foundations for?",
+      "options": [
+        "Relativity and quantum mechanics",
+        "Biology and chemistry",
+        "Geology and astronomy",
+        "Medicine and engineering"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his discoveries laid the foundations for relativity and quantum mechanics.",
+        "Incorrect. The article does not mention biology and chemistry in this context.",
+        "Incorrect. The article does not mention geology and astronomy in this context.",
+        "Incorrect. The article does not mention medicine and engineering in this context."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0045",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following scenarios best demonstrates the property of displacement in human language?",
+      "options": [
+        "A speaker describes a vacation they took last year to a friend.",
+        "Two people converse using words they invented together.",
+        "A child learns the word for 'apple' by seeing and tasting an apple.",
+        "A signer uses hand movements to convey a message in real time."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines displacement as the ability to refer to objects, events, and ideas that are not immediately present in the discourse; describing a past vacation refers to an event not currently present.",
+        "Incorrect. Inventing words relates to productivity or convention, not displacement, since it does not necessarily involve referring to absent entities.",
+        "Incorrect. Learning a word by directly experiencing the object involves reference to something immediately present, which is the opposite of displacement.",
+        "Incorrect. Using signed language to convey a message in real time concerns modality and communication, not the ability to refer to things absent from the immediate context."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "A researcher observes that children raised without any common language spontaneously develop a fully structured communication system. Which definition of language does this observation most strongly support?",
+      "options": [
+        "Language as an innate mental faculty.",
+        "Language as a formal symbolic system governed by grammatical rules.",
+        "Language as a tool for social communication.",
+        "Language as a historically evolving cultural artifact."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that languages may develop spontaneously where people live without a common language, and that this supports the view that the drive to language acquisition is innate in humans.",
+        "Incorrect. While spontaneous systems may have rules, the article uses this example specifically to support innateness and universal grammar, not the formal symbolic system definition.",
+        "Incorrect. The social communication view stresses expressive and adaptive functions, but the article does not tie spontaneous language creation primarily to that definition.",
+        "Incorrect. Historical evolution concerns changes over generations and language families, not the spontaneous emergence of a new system by children."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, what is the primary reason precise estimates of the number of human languages are difficult to establish?",
+      "options": [
+        "The distinction between languages and dialects is arbitrary.",
+        "Many languages are undocumented by linguists.",
+        "The number of endangered languages changes too quickly.",
+        "Spoken and signed languages are counted using different methods."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that precise estimates depend on an arbitrary distinction (dichotomy) established between languages and dialects.",
+        "Incorrect. The article does not attribute estimation difficulty to a lack of documentation.",
+        "Incorrect. While endangerment is mentioned, the article does not cite changing endangerment counts as the reason estimates are imprecise.",
+        "Incorrect. The article treats spoken and signed languages together in its estimate and does not cite different counting methods as the source of imprecision."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following best captures the relationship between language and culture as described in the article?",
+      "options": [
+        "Language and culture are codependent.",
+        "Culture determines the grammar of a language.",
+        "Language exists independently of cultural context.",
+        "Culture is transmitted solely through written language."
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly states: 'Language and culture are codependent.'",
+        "Incorrect. The article does not claim that culture determines grammar; it describes grammar as part of language structure and notes social uses of language.",
+        "Incorrect. The article emphasizes the interdependence of language and culture, not independence.",
+        "Incorrect. The article discusses multiple modalities and social uses of language, not the exclusive transmission of culture through writing."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "In Saussure's terminology, which term refers to the concrete use of speech in a particular language?",
+      "options": [
+        "parole",
+        "langage",
+        "langue",
+        "semiotics"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Saussure used parole for the concrete use of speech in a particular language.",
+        "Incorrect. The article states that langage refers to language as a general concept, not concrete speech use.",
+        "Incorrect. The article states that langue refers to a specific instance of a language system, not concrete use.",
+        "Incorrect. Semiotics is the study of signs and is not one of Saussure's three terms described in the article."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following best describes the 'linguistic turn' in 20th-century philosophy?",
+      "options": [
+        "The view that philosophical problems are essentially linguistic problems and that philosophy is the study of language.",
+        "The view that language originated from rational and logical thought rather than emotion.",
+        "The view that all human languages share a universal grammar innate to the mind.",
+        "The view that language should be studied primarily as a formal system of signs."
+      ],
+      "answer_explanations": [
+        "Correct. The article associates the linguistic turn with the resurgence of the view that language plays a significant role in creating concepts and that the study of philosophy is essentially the study of language, linked to Wittgenstein.",
+        "Incorrect. The article attributes the rationalist origin-of-language view to Kant and Descartes, not to the linguistic turn.",
+        "Incorrect. Universal grammar is associated with Chomsky and the innate mental faculty definition, not the linguistic turn.",
+        "Incorrect. The formal system view is associated with Saussure and structuralism, not specifically with the linguistic turn."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "A community's language gradually changes over centuries, eventually splitting into two distinct languages that share a common ancestor. What is the group of languages descended from that common ancestor called?",
+      "options": [
+        "a language family",
+        "a language isolate",
+        "an unclassified language",
+        "a spurious language"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a language family as a group of languages that descend from a common ancestor.",
+        "Incorrect. A language isolate is one demonstrated not to have any relationship with another language.",
+        "Incorrect. Unclassified languages are those whose relationships have not been established.",
+        "Incorrect. Spurious languages may not have existed at all."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what do productivity and displacement enable human language to do?",
+      "options": [
+        "Create an infinite number of sentences and refer to things not immediately present.",
+        "Be acquired through social convention and learned in early childhood.",
+        "Exist in spoken, signed, and written modalities simultaneously.",
+        "Evolve into language families and isolates over time."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that productivity and displacement enable the creation of an infinite number of sentences and the ability to refer to objects, events, and ideas not immediately present.",
+        "Incorrect. Social convention and childhood acquisition are described elsewhere as properties of language use, not as what productivity and displacement enable.",
+        "Incorrect. Modality independence concerns encoding language in secondary media, not productivity and displacement.",
+        "Incorrect. Language evolution into families and isolates is discussed separately and is not linked to productivity and displacement."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following best characterizes functional theories of grammar?",
+      "options": [
+        "They explain grammatical structures by their communicative functions and adaptive social uses.",
+        "They treat language as an innate mental faculty universal to all humans.",
+        "They describe language as a closed structural system of signs and rules.",
+        "They focus on reconstructing ancestral languages through comparison."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that functional theories of grammar explain grammatical structures by their communicative functions and see grammar as tailored to serve communicative needs.",
+        "Incorrect. The innate mental faculty view is associated with universal grammar and Chomsky, not functional theories.",
+        "Incorrect. The closed structural system view is associated with Saussure's structuralism, not functional theories.",
+        "Incorrect. Reconstructing ancestral languages through comparison is part of historical linguistics, not functional grammar."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following best describes the relationship between writing and natural human speech according to the article?",
+      "options": [
+        "Writing is a secondary medium used to encode natural language.",
+        "Writing is the primary form of human language, with speech derived from it.",
+        "Writing and speech are entirely independent communication systems.",
+        "Writing evolved before spoken language in human history."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that any language can be encoded into secondary media such as writing, and that written language is a way to inscribe or encode natural human speech or gestures.",
+        "Incorrect. The article identifies spoken and signed forms as primary, with writing as a secondary medium.",
+        "Incorrect. The article presents writing as encoding natural language, not as an independent system.",
+        "Incorrect. The article does not discuss the historical chronology of writing versus speech."
+      ]
+    }
+  ]
+}

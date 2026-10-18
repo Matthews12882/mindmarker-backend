@@ -1,0 +1,167 @@
+{
+  "article_id": "0066",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What percentage of the Solar System's total mass does the Sun account for?",
+      "options": [
+        "99.86%",
+        "99.99%",
+        "90%",
+        "50%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The Sun accounts for 99.86% of the Solar System's total mass.'",
+        "Incorrect. The article does not state that the Sun accounts for 99.99% of the mass.",
+        "Incorrect. The article does not state that the Sun accounts for 90% of the mass.",
+        "Incorrect. The article does not state that the Sun accounts for 50% of the mass."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which planet is closest to the Sun?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists Mercury first among the terrestrial planets 'Closest to the Sun in order of increasing distance'.",
+        "Incorrect. Venus is listed second, not closest to the Sun.",
+        "Incorrect. Earth is listed third, not closest to the Sun.",
+        "Incorrect. Mars is listed fourth, not closest to the Sun."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which two planets are gas giants?",
+      "options": [
+        "Jupiter and Saturn",
+        "Uranus and Neptune",
+        "Earth and Mars",
+        "Mercury and Venus"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the outer Solar System includes 'two gas giants (Jupiter and Saturn)'.",
+        "Incorrect. Uranus and Neptune are described as ice giants, not gas giants.",
+        "Incorrect. Earth and Mars are terrestrial planets.",
+        "Incorrect. Mercury and Venus are terrestrial planets."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How many planets does the Solar System have?",
+      "options": [
+        "Eight",
+        "Nine",
+        "Seven",
+        "Ten"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Solar System has 'its eight planets'.",
+        "Incorrect. The article does not state that there are nine planets.",
+        "Incorrect. The article does not state that there are seven planets.",
+        "Incorrect. The article does not state that there are ten planets."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What are natural satellites commonly called?",
+      "options": [
+        "Moons",
+        "Asteroids",
+        "Comets",
+        "Dwarf planets"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that natural satellites are 'commonly called moons'.",
+        "Incorrect. Asteroids are small Solar System bodies, not natural satellites.",
+        "Incorrect. Comets are small Solar System bodies, not natural satellites.",
+        "Incorrect. Dwarf planets are objects of planetary mass that do not dominate their orbit, not natural satellites."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Where is the asteroid belt located?",
+      "options": [
+        "Between Mars's and Jupiter's orbit",
+        "Beyond Neptune",
+        "Between Earth and Mars",
+        "Inside Mercury's orbit"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the asteroid belt is '(between Mars's and Jupiter's orbit)'.",
+        "Incorrect. The Kuiper belt is just outside Neptune, not the asteroid belt.",
+        "Incorrect. The article does not place the asteroid belt between Earth and Mars.",
+        "Incorrect. The article does not place the asteroid belt inside Mercury's orbit."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which two planets orbit within the Sun's habitable zone?",
+      "options": [
+        "Earth and Mars",
+        "Mercury and Venus",
+        "Jupiter and Saturn",
+        "Uranus and Neptune"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Earth and Mars are the only planets that orbit within the Sun's habitable zone'.",
+        "Incorrect. Mercury and Venus are not stated to be in the habitable zone.",
+        "Incorrect. Jupiter and Saturn are outer planets, not in the habitable zone.",
+        "Incorrect. Uranus and Neptune are outer planets, not in the habitable zone."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the source of long-period comets according to the article?",
+      "options": [
+        "The Oort cloud",
+        "The Kuiper belt",
+        "The asteroid belt",
+        "The scattered disc"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The theorized Oort cloud â the source for long-period comets â extends from somewhere beyond 2,000 AU'.",
+        "Incorrect. The Kuiper belt is not identified as the source of long-period comets.",
+        "Incorrect. The asteroid belt is not identified as the source of long-period comets.",
+        "Incorrect. The scattered disc is not identified as the source of long-period comets."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the closest star to the Solar System?",
+      "options": [
+        "Proxima Centauri",
+        "Alpha Centauri",
+        "Sirius",
+        "Barnard's Star"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The closest star to the Solar System, Proxima Centauri, is 269,000 AU (4.25 ly) away.'",
+        "Incorrect. Alpha Centauri is not identified as the closest star in the article.",
+        "Incorrect. Sirius is not identified as the closest star in the article.",
+        "Incorrect. Barnard's Star is not identified as the closest star in the article."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Approximately how many years ago did the Solar System form?",
+      "options": [
+        "4.6 billion years ago",
+        "4.6 million years ago",
+        "46 billion years ago",
+        "4.6 trillion years ago"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The system formed about 4.6 billion years ago'.",
+        "Incorrect. The article states billions, not millions, of years ago.",
+        "Incorrect. The article states 4.6 billion, not 46 billion, years ago.",
+        "Incorrect. The article states 4.6 billion, not 4.6 trillion, years ago."
+      ]
+    }
+  ]
+}

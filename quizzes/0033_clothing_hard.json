@@ -1,0 +1,167 @@
+{
+  "article_id": "0033",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Based on the article's discussion of thermophysiological comfort, which property of a textile material is most central to maintaining thermal balance between the body and environment?",
+      "options": [
+        "The capacity to maintain the balance of moisture and heat between the body and the environment",
+        "The visual perception influenced by color, fabric construction, and style",
+        "The resistance to friction created by clothing against the body",
+        "The sensory response of pressure receptors to snugness or looseness"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines thermophysiological comfort as the capacity of the clothing material that maintains the balance of moisture and heat between the body and the environment.",
+        "Incorrect. Visual perception related to color, fabric construction, and style describes aesthetic comfort, not thermophysiological comfort.",
+        "Incorrect. Resistance to friction created by clothing against the body describes tactile comfort.",
+        "Incorrect. The sensory response of pressure receptors to snugness or looseness describes pressure comfort."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which statement best reflects the article's assessment of using lice divergence to date the origin of clothing?",
+      "options": [
+        "Recent transcriptome analyses have cast doubt on whether lice provide a reliable means to date the origin of clothes",
+        "Lice divergence provides a definitive date of 100,000 years ago for the origin of clothing",
+        "Lice evidence is the only reliable method for dating early clothing",
+        "Body lice speciation occurred between 40,000 and 170,000 years ago with no scientific controversy"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that recent transcriptome analyses cast doubt on whether lice provide a means to date the origin of clothes because body and head lice were found to be almost genetically identical.",
+        "Incorrect. While a 2003 study suggested clothing at least 100,000 years ago based on lice, the article later casts doubt on this method.",
+        "Incorrect. The article presents lice evidence as one approach among others, such as direct archaeological evidence, and questions its reliability.",
+        "Incorrect. The article explicitly notes controversy, stating that transcriptome analyses cast doubt on using lice to date clothing origins."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, what is a key reason why knowledge of the earliest clothing remains inferential?",
+      "options": [
+        "Clothing materials deteriorate quickly compared with stone, bone, shell, and metal artifacts",
+        "No sewing needles older than 30,000 BC have ever been discovered",
+        "Written descriptions of prehistoric clothing do not exist",
+        "Early humans did not wear clothing until the development of woven textiles"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that knowledge of early clothing remains inferential because clothing materials deteriorate quickly compared with stone, bone, shell, and metal artifacts.",
+        "Incorrect. The article mentions sewing needles from about 30,000 BC and even older ones, so this contradicts the text.",
+        "Incorrect. The article does not claim that written descriptions are the reason for inferential knowledge; it cites material deterioration.",
+        "Incorrect. The article indicates humans likely began wearing clothing tens of thousands of years ago, well before widespread woven textiles."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How does the article contrast traditional European garment construction with modern European fashion in terms of fabric use?",
+      "options": [
+        "Traditional European patterns use cloth conservatively by reusing remnants, while modern fashion typically cuts in ways that leave oddly-shaped waste remnants",
+        "Traditional European fashion discards all fabric remnants as waste, while modern fashion reuses every scrap",
+        "Both approaches rely exclusively on draping uncut rectangles of cloth",
+        "Modern European fashion uses only expensive fabrics, while traditional patterns use only cheap materials"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that traditional European patterns try to use every bit of rectangular cloth, adding triangular pieces as gussets and reusing remnants, whereas modern European fashion cuts less conservatively and leaves oddly-shaped remnants often sold as waste.",
+        "Incorrect. This reverses the article's description; traditional patterns conserve fabric, while modern fashion produces waste remnants.",
+        "Incorrect. Draping uncut rectangles is described as a separate approach used in garments like the dhoti and sari, not as the basis for both European traditions.",
+        "Incorrect. The article does not state that modern fashion uses only expensive fabrics or that traditional patterns use only cheap materials."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "If a manufacturer wants to design a garment that maximizes thermophysiological comfort for active wear in a humid environment, which fiber characteristic should it prioritize based on the article?",
+      "options": [
+        "Breathability and moisture absorption, as found in natural fibers",
+        "Hydrophobic properties that repel moisture and block air passage",
+        "Aesthetic appeal through color and fabric construction",
+        "Softness and stiffness for tactile comfort"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that natural fibers are breathable and absorb moisture, while synthetic fibers are hydrophobic and repel moisture; breathability and absorption support thermophysiological comfort in humid conditions.",
+        "Incorrect. Hydrophobic fibers that repel moisture and block air would hinder moisture transfer and thermophysiological comfort in a humid environment.",
+        "Incorrect. Color and fabric construction relate to aesthetic comfort, not thermophysiological comfort.",
+        "Incorrect. Softness and stiffness relate to tactile comfort, not the heat and moisture balance central to thermophysiological comfort."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, which of the following would NOT typically be classified as clothing?",
+      "options": [
+        "A handbag carried rather than worn",
+        "A coat worn for protection against rain",
+        "Arctic goggles worn for eye protection",
+        "A diving suit used for underwater work"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that articles carried rather than worn, such as handbags, are normally considered accessories rather than clothing.",
+        "Incorrect. Coats are outer layers that protect against weather and are considered clothing.",
+        "Incorrect. The article notes that Arctic goggles have protective functions and would not be considered merely an accessory, implying they function as clothing.",
+        "Incorrect. Diving suits are listed among specialized protective clothing solutions."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following best describes the relationship between shelter and the functional need for clothing, as presented in the article?",
+      "options": [
+        "Shelter can reduce the functional need for clothing, such as removing outer layers when entering a warm place",
+        "Shelter increases the need for clothing because indoor environments are colder",
+        "Shelter eliminates the need for clothing entirely in all human societies",
+        "Shelter has no effect on clothing use because clothing is worn primarily for social signaling"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that shelter can reduce the functional need for clothing, giving the example that coats, hats, gloves, and other outer layers are normally removed when entering a warm place.",
+        "Incorrect. The article says shelter reduces, not increases, the functional need for clothing.",
+        "Incorrect. The article does not claim shelter eliminates the need for clothing entirely; it only reduces the functional need in specific circumstances.",
+        "Incorrect. While clothing does serve social signaling functions, the article explicitly states that shelter affects the functional need for protection from the elements."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Based on the article's discussion of clothing functions, which scenario best illustrates clothing serving a specialized protective function rather than a general social function?",
+      "options": [
+        "A beekeeper wearing bee-keeper gear to protect against bee stings",
+        "A person wearing a sari to express cultural identity at a wedding",
+        "A businessperson wearing a suit to signal professional status",
+        "A teenager choosing trendy clothes to express personal style"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists bee-keeper gear among clothing solutions devised to protect against specific hazards, making it a specialized protective function.",
+        "Incorrect. Expressing cultural identity at a wedding is a social and cultural function, not specialized protection against a physical hazard.",
+        "Incorrect. Signaling professional status through a business suit is a social function related to status and occupation, not specialized hazard protection.",
+        "Incorrect. Expressing personal style through trendy clothes is a social and cultural function, not specialized protection."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "The article states that the optimum temperature for thermal comfort of the skin surface is between 28 and 30 Â°C. What does the article say happens when temperature falls below or exceeds this neutral point?",
+      "options": [
+        "Thermophysiology reacts and it becomes discomforting below 28 and above 30 degrees",
+        "The body automatically adjusts without any sensation of discomfort",
+        "Clothing no longer provides any thermal insulation",
+        "Thermal comfort becomes irrelevant because the body stops regulating heat"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that thermophysiology reacts whenever the temperature falls below or exceeds the neutral point, and it is discomforting below 28 and above 30 degrees.",
+        "Incorrect. The article explicitly states that deviation from the neutral point is discomforting, not that the body adjusts without sensation.",
+        "Incorrect. The article does not say clothing stops providing insulation outside this range; it says comfort becomes discomforting.",
+        "Incorrect. The article does not suggest thermal regulation becomes irrelevant outside this range."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what is one major challenge historians face when studying the history of clothing?",
+      "options": [
+        "Clothing made of textiles or skins is subject to decay, resulting in loss of cultural information",
+        "There are too many surviving everyday garments for scholars to study them all",
+        "Costume collections focus exclusively on everyday clothing, ignoring unique pieces",
+        "Written descriptions of clothing are the only reliable historical source"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that clothing made of textiles or skins is subject to decay, and the erosion of physical integrity may be seen as a loss of cultural information.",
+        "Incorrect. The article says the opposite: costume collections often focus on important or unique pieces, limiting opportunities to study everyday clothing.",
+        "Incorrect. The article states costume collections focus on unique or significant pieces, not exclusively on everyday clothing.",
+        "Incorrect. The article does not claim written descriptions are the only reliable source; it lists garments, photographs, paintings, mosaics, and written descriptions as sources."
+      ]
+    }
+  ]
+}

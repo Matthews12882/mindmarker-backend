@@ -1,0 +1,167 @@
+{
+  "article_id": "0099",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the most common numeral system for representing numbers in the world today?",
+      "options": [
+        "HinduâArabic numeral system",
+        "Roman numeral system",
+        "Egyptian ciphered numeral system",
+        "Babylonian base 60 system"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the HinduâArabic numeral system remains the most common system for representing numbers in the world today.",
+        "Incorrect. Roman numerals remained dominant in Europe until the spread of the HinduâArabic system around the late 14th century, but are not the most common today.",
+        "Incorrect. The Egyptians invented the first ciphered numeral system, but it is not the most common system today.",
+        "Incorrect. The Babylonian base 60 system is an early numeral system, but not the most common one today."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What did Brahmagupta do in AD 628 according to the article?",
+      "options": [
+        "Formulated the mathematical concept of zero in the BrÄhmasphuá¹­asiddhÄnta",
+        "Invented the first ciphered numeral system",
+        "Developed the HinduâArabic numeral system",
+        "Introduced negative numbers to Europe"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Brahmagupta is usually considered the first to formulate the mathematical concept of zero in his work BrÄhmasphuá¹­asiddhÄnta.",
+        "Incorrect. The Egyptians invented the first ciphered numeral system, not Brahmagupta.",
+        "Incorrect. The HinduâArabic numeral system spread around the late 14th century and was not developed by Brahmagupta.",
+        "Incorrect. European mathematicians resisted negative numbers until the 17th century; Brahmagupta worked in India in the 7th century."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which ancient civilization used red rods to denote positive coefficients and black rods for negative numbers?",
+      "options": [
+        "China",
+        "Greece",
+        "India",
+        "Egypt"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that The Nine Chapters on the Mathematical Art from China used red rods for positive coefficients and black for negative.",
+        "Incorrect. Diophantus referenced negative numbers in Greece, but the red and black rod system is attributed to China.",
+        "Incorrect. Indian mathematicians used negative numbers for debts during the 600s, but the red and black rod system is from China.",
+        "Incorrect. Ancient Egyptians used Egyptian fraction notation, not red and black rods for positive and negative numbers."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article say about the distinction between a number and a numeral?",
+      "options": [
+        "In common usage, a numeral is not clearly distinguished from the number it represents",
+        "A numeral is always a spoken word, while a number is always a written symbol",
+        "Numbers are used only for counting, while numerals are used only for labeling",
+        "A number is a symbol, while a numeral is the abstract concept it represents"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in common usage, a numeral is not clearly distinguished from the number that it represents.",
+        "Incorrect. The article defines number words as spoken or written language and numerals as dedicated symbols, not exclusively spoken versus written.",
+        "Incorrect. The article lists counting, labeling, ordering, and codes as uses for numerals, not a strict division between numbers and numerals.",
+        "Incorrect. The article defines a number as a mathematical object and a numeral as the symbol used to represent it, the reverse of this option."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is one use of numerals mentioned in the article?",
+      "options": [
+        "Labeling, such as telephone numbers",
+        "Measuring temperature in degrees Celsius",
+        "Representing musical notes on a staff",
+        "Indicating chemical elements in the periodic table"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists labeling, as with telephone numbers, as a use of numerals.",
+        "Incorrect. The article does not mention measuring temperature as a use of numerals.",
+        "Incorrect. The article does not mention musical notes as a use of numerals.",
+        "Incorrect. The article does not mention chemical elements as a use of numerals."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the article identify as the earliest unambiguous numbers in the archaeological record?",
+      "options": [
+        "The Mesopotamian base 60 (sexagesimal) system",
+        "Tally marks on the Lebombo bone",
+        "Egyptian hieroglyphic numerals",
+        "Roman numerals"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the earliest unambiguous numbers in the archaeological record are the Mesopotamian base 60 system.",
+        "Incorrect. The Lebombo bone contains tally marks, but the article says the interpretation of these as arithmetic artifacts is disputed and they are not called unambiguous numbers.",
+        "Incorrect. The earliest known base 10 system dates to Egypt, but the earliest unambiguous numbers are identified as Mesopotamian.",
+        "Incorrect. Roman numerals are discussed later in the article and are not the earliest unambiguous numbers."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, how did European mathematicians generally treat negative numbers before the 17th century?",
+      "options": [
+        "They resisted the concept of negative numbers",
+        "They widely accepted them as solutions to equations",
+        "They used them exclusively in financial accounting",
+        "They developed the general quadratic formula using them"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that European mathematicians resisted the concept of negative numbers until the 17th century.",
+        "Incorrect. The article says they resisted negative numbers, not that they widely accepted them.",
+        "Incorrect. Fibonacci allowed negative solutions in financial problems, but the article does not say Europeans used them exclusively in accounting.",
+        "Incorrect. Brahmagupta in India used negative numbers to produce the general quadratic formula, not European mathematicians before the 17th century."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does the article say about the concept of place value in tallying systems?",
+      "options": [
+        "Tallying systems have no concept of place value",
+        "Tallying systems use place value like modern decimal notation",
+        "Tallying systems were the first to introduce place value",
+        "Place value in tallying systems limits representation of small numbers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a tallying system has no concept of place value, which limits its representation of large numbers.",
+        "Incorrect. The article explicitly contrasts tallying systems with modern decimal notation by saying they lack place value.",
+        "Incorrect. The article says tallying systems are the first kind of abstract numeral system, not the first to introduce place value.",
+        "Incorrect. The article says the lack of place value limits representation of large numbers, not small numbers."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is listed in the article as an arithmetical operation?",
+      "options": [
+        "Exponentiation",
+        "Integration",
+        "Differentiation",
+        "Logarithm"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists exponentiation among the most familiar arithmetical operations.",
+        "Incorrect. Integration is not mentioned in the article as an arithmetical operation.",
+        "Incorrect. Differentiation is not mentioned in the article as an arithmetical operation.",
+        "Incorrect. Logarithm is not mentioned in the article as an arithmetical operation."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What philosophical issue did the ancient Greeks raise about zero?",
+      "options": [
+        "How can nothing be something?",
+        "Whether zero could be used in geometry",
+        "Whether zero was a negative number",
+        "How to write zero using Greek numerals"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Ancient Greeks asked themselves how can nothing be something, leading to philosophical arguments about zero.",
+        "Incorrect. The article does not mention Greeks questioning zero's use in geometry.",
+        "Incorrect. The article does not mention Greeks debating whether zero was negative.",
+        "Incorrect. The article mentions Ptolemy used a symbol for zero in a sexagesimal system, but the philosophical issue was about nothing being something."
+      ]
+    }
+  ]
+}

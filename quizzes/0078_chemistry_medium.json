@@ -1,0 +1,167 @@
+{
+  "article_id": "0078",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term describes chemistry as the central science that provides a foundation for understanding both basic and applied scientific disciplines?",
+      "options": [
+        "the central science",
+        "physical science",
+        "natural science",
+        "basic and applied scientific disciplines"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"It is sometimes called the central science because it provides a foundation for understanding both basic and applied scientific disciplines at a fundamental level.\"",
+        "Incorrect. Physical science is a broader category; the article specifically uses \"the central science\" to describe chemistry's role.",
+        "Incorrect. Natural science is another broader category; the central science phrase is more specific to chemistry.",
+        "Incorrect. This phrase appears in the article but is part of the description of why chemistry is called the central science, not the term itself."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the origin of the modern word 'alchemy' according to the article?",
+      "options": [
+        "Arabic al-kÄ«mÄ«Ä",
+        "Ancient Greek ÏÎ·Î¼Î¯Î±",
+        "Renaissance modification of alchemy",
+        "Egyptian language word for Egypt"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains: \"The modern word alchemy in turn is derived from the Arabic word al-kÄ«mÄ«Ä (Ø§ÙÙØ§Ø¡).\"",
+        "Incorrect. While ÏÎ·Î¼Î¯Î± is mentioned as a derivation, the article states the modern word alchemy comes from Arabic al-kÄ«mÄ«Ä.",
+        "Incorrect. The Renaissance modification refers to the word chemistry, not alchemy.",
+        "Incorrect. The Egyptian origin is a possible derivation of al-kÄ«mÄ«Ä, not the direct origin of the modern word alchemy."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT listed as a field that chemistry helps explain?",
+      "options": [
+        "pharmacology",
+        "geology",
+        "astronomy",
+        "ecology"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists plant growth (botany), formation of igneous rocks (geology), ozone formation, pollutant degradation (ecology), DNA evidence (forensics), soil properties on the Moon (cosmochemistry), and how medications work (pharmacology). Astronomy is not mentioned.",
+        "Incorrect. Geology is explicitly mentioned as a field chemistry helps explain.",
+        "Incorrect. Astronomy is not listed among the fields chemistry helps explain.",
+        "Incorrect. Ecology is mentioned in the context of pollutant degradation."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article say about the number of atoms on each side of a chemical equation?",
+      "options": [
+        "The number of atoms on the left and the right must be equal.",
+        "The number of atoms on the left is usually greater.",
+        "The number of atoms on the right is usually greater.",
+        "The number of atoms can differ without significance."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The number of atoms on the left and the right in the equation for a chemical transformation is equal.\"",
+        "Incorrect. The article does not state that the left side has more atoms.",
+        "Incorrect. The article does not state that the right side has more atoms.",
+        "Incorrect. The article emphasizes equality of atom count."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is defined as a pure chemical substance composed of more than one element?",
+      "options": [
+        "compound",
+        "element",
+        "molecule",
+        "mixture"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a compound as \"a pure chemical substance composed of more than one element.\"",
+        "Incorrect. An element is a pure substance composed of a single type of atom.",
+        "Incorrect. A molecule is the smallest portion of a pure chemical substance that has its unique set of chemical properties, not necessarily composed of multiple elements.",
+        "Incorrect. A mixture is a collection of substances, not a pure chemical substance."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the basic unit of chemistry?",
+      "options": [
+        "atom",
+        "molecule",
+        "element",
+        "compound"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The atom is the basic unit of chemistry.\"",
+        "Incorrect. Molecules are composed of atoms; the article does not call them the basic unit.",
+        "Incorrect. Elements are composed of atoms; the article does not call them the basic unit.",
+        "Incorrect. Compounds are composed of elements; the article does not call them the basic unit."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a characteristic of noble gases as described in the article?",
+      "options": [
+        "They are composed of lone atoms as their smallest discrete unit.",
+        "They are composed of molecules.",
+        "They are composed of networks of atoms.",
+        "They are composed of ionic compounds."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The 'inert' or noble gas elements (helium, neon, argon, krypton, xenon and radon) are composed of lone atoms as their smallest discrete unit.\"",
+        "Incorrect. Noble gases are described as lone atoms, not molecules.",
+        "Incorrect. Noble gases are not described as networks of atoms.",
+        "Incorrect. Noble gases are not described as ionic compounds."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does the article say about the role of electrons in a neutral atom?",
+      "options": [
+        "The negatively charged electrons balance out the positive charge of the protons.",
+        "The electrons are absent in a neutral atom.",
+        "The electrons are all located in the nucleus.",
+        "The electrons have no charge."
+      ],
+      "answer_explanations": [
+        "Correct. The article explains: \"In a neutral atom, the negatively charged electrons balance out the positive charge of the protons.\"",
+        "Incorrect. The article does not state electrons are absent in a neutral atom.",
+        "Incorrect. The article does not state electrons are located in the nucleus.",
+        "Incorrect. The article states electrons are negatively charged."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT listed as a tool of chemical analysis in the article?",
+      "options": [
+        "spectroscopy",
+        "chromatography",
+        "microscopy",
+        "chemical analysis"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions spectroscopy and chromatography as tools of chemical analysis, but does not list microscopy.",
+        "Incorrect. Spectroscopy is listed as a tool of chemical analysis.",
+        "Incorrect. Chromatography is listed as a tool of chemical analysis.",
+        "Incorrect. Chemical analysis is the general category; the article does not list it as a specific tool."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is the Avogadro constant according to the article?",
+      "options": [
+        "6.02214076Ã10^23 particles per mole",
+        "1.602Ã10^-19 coulombs",
+        "1.38Ã10^-23 J/K",
+        "6.022Ã10^21 particles per gram"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines the Avogadro constant as \"the number of particles per mole is known as the Avogadro constant\" and specifies \"6.02214076Ã1023 particles (atoms, molecules, ions, or electrons).\"",
+        "Incorrect. That value is the elementary charge, not the Avogadro constant.",
+        "Incorrect. That value is the Boltzmann constant, not the Avogadro constant.",
+        "Incorrect. The Avogadro constant is per mole, not per gram."
+      ]
+    }
+  ]
+}

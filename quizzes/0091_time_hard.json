@@ -1,0 +1,167 @@
+{
+  "article_id": "0091",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the primary reason the problem of time remains unresolved as of 2026?",
+      "options": [
+        "General relativity and quantum mechanics treat time in fundamentally incompatible ways",
+        "There is insufficient experimental data about time at quantum scales",
+        "The MichelsonâMorley experiment disproved the concept of absolute time",
+        "Physicists have not yet agreed on an operational definition of time"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that quantum mechanics treats time as a universal and absolute parameter while general relativity posits independent clocks, and that reconciling these two theories constitutes the problem of time, with no generally accepted theory of quantum general relativity as of 2026.",
+        "Incorrect. The article does not attribute the unresolved problem of time to a lack of experimental data.",
+        "Incorrect. The MichelsonâMorley experiment is mentioned as demonstrating that light travel time is consistent for all observers, not as disproving absolute time or causing the problem of time.",
+        "Incorrect. The article notes that time in physics is operationally defined as what a clock reads, but this operational definition does not resolve the deeper incompatibility between quantum mechanics and general relativity."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the article say about the spacetime interval in general relativity?",
+      "options": [
+        "It is classified as space-like or time-like depending on whether events are separated by space or time for an observer",
+        "It directly corresponds to the causal structure of events",
+        "It varies depending on the observer's velocity relative to the speed of light",
+        "It is calculated identically for all observers regardless of reference frame"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in general relativity, coordinates do not directly correspond to causal structure; instead, the spacetime interval is calculated and classified as space-like or time-like depending on whether an observer would say events are separated by space or by time.",
+        "Incorrect. The article explicitly says the coordinates do not directly correspond to the causal structure of events.",
+        "Incorrect. The article does not describe the spacetime interval as varying with observer velocity.",
+        "Incorrect. While observers agree on the causal relation, the article does not state that the interval is calculated identically for all observers."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, what was a distinguishing feature of the French Republican Calendar introduced during the French Revolution?",
+      "options": [
+        "Its days consisted of ten hours of a hundred minutes of a hundred seconds",
+        "It was based on a 365-day solar year with leap years",
+        "It used lunar months to track religious festivals",
+        "It retained the traditional base-12 duodecimal system"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the French Republican Calendar's days consisted of ten hours of a hundred minutes of a hundred seconds, marking a deviation from the base-12 system.",
+        "Incorrect. The article describes the French Republican Calendar as decimal-based, not as a 365-day solar calendar.",
+        "Incorrect. The article associates lunar calendars with earlier systems, not with the French Republican Calendar.",
+        "Incorrect. The article explicitly says the French Republican Calendar deviated from the base-12 duodecimal system."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what is the SI base unit of time and how is it defined?",
+      "options": [
+        "The second, defined by the electronic transition frequency of caesium atoms",
+        "The minute, defined as 60 cycles of caesium radiation",
+        "The hour, defined by the rotation of the Earth",
+        "The day, defined by the cycle of the sun"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the SI base unit of time is the second, defined by measuring the electronic transition frequency of caesium atoms.",
+        "Incorrect. The article identifies the second, not the minute, as the SI base unit of time.",
+        "Incorrect. The article does not define the hour as an SI base unit or by Earth's rotation.",
+        "Incorrect. The article identifies the second, not the day, as the SI base unit of time."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what role did water clocks play in medieval abbeys and monasteries?",
+      "options": [
+        "They were used to mark the events of the abbeys and monasteries",
+        "They were used primarily for astronomical observations at sea",
+        "They were replaced by incense sticks in all religious settings",
+        "They were invented by Richard of Wallingford in the 14th century"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that water clocks, and later mechanical clocks, were used to mark the events of the abbeys and monasteries of the Middle Ages.",
+        "Incorrect. The article associates astronomical observations with the ancient Greeks and Chaldeans, not specifically with water clocks in abbeys.",
+        "Incorrect. The article mentions incense sticks and candles as used in temples and churches, but does not say they replaced water clocks in abbeys.",
+        "Incorrect. Richard of Wallingford is credited with building a mechanical clock, not inventing the water clock."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, how does time dilation manifest in modern physics?",
+      "options": [
+        "Time can pass faster or slower for an external observer due to velocity and matter",
+        "Time flows at the same rate for all observers under all conditions",
+        "Time dilation occurs only at the Planck scale",
+        "Time dilation is caused by changes in the calendar system"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that time can be dilated by velocity and matter to pass faster or slower for an external observer, though this is negligible outside extreme conditions like relativistic speeds or black holes.",
+        "Incorrect. The article explicitly describes time dilation as causing time to pass faster or slower depending on conditions.",
+        "Incorrect. The article discusses time dilation in the context of relativistic speeds and gravitational pulls, not exclusively the Planck scale.",
+        "Incorrect. The article attributes time dilation to velocity and matter, not to calendar systems."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what is the relationship between the Haab' calendar and the Tzolk'in in Maya civilization?",
+      "options": [
+        "They were multiple interrelated calendars used in conjunction",
+        "The Haab' replaced the Tzolk'in after the Spanish conquest",
+        "The Tzolk'in had 18 months of 20 days plus five epagomenal days",
+        "They were both purely solar calendars with 365 days"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Maya developed multiple interrelated calendars, including the Haab' and the 260-day sacred Tzolk'in, used in conjunction.",
+        "Incorrect. The article does not mention the Spanish conquest or replacement of the Tzolk'in.",
+        "Incorrect. The article attributes 18 months of 20 days plus five epagomenal days to the Haab', not the Tzolk'in.",
+        "Incorrect. The article describes the Tzolk'in as a 260-day sacred calendar, not a 365-day solar calendar."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what problem arises in a calendar based solely on twelve lunar months without intercalation?",
+      "options": [
+        "Seasons quickly drift",
+        "The year becomes 384 days long",
+        "The calendar cannot track lunar phases",
+        "It requires a thirteenth month every year"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that without intercalation to add days or months to some years, seasons quickly drift in a calendar based solely on twelve lunar months.",
+        "Incorrect. The article says a year of twelve lunar months is 354 days, and 384 days applies to thirteen lunar months.",
+        "Incorrect. The article does not say such a calendar cannot track lunar phases.",
+        "Incorrect. The article says lunisolar calendars add a thirteenth month to some years, not every year."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is the definition of time in physics given to avoid circularity?",
+      "options": [
+        "What a clock reads",
+        "The continuous progression of existence from past to future",
+        "The fourth dimension in addition to three spatial dimensions",
+        "A count of all events in the universe"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that to avoid circularity, time in physics is operationally defined as 'what a clock reads', specifically a count of repeating events such as the SI second.",
+        "Incorrect. This is the general definition of time from the introduction, not the operational definition used in physics to avoid circularity.",
+        "Incorrect. The article mentions time as the fourth dimension, but this is not the operational definition given to avoid circularity.",
+        "Incorrect. The article defines it as a count of repeating events, not all events in the universe."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what is the significance of the MichelsonâMorley experiment in the context of time?",
+      "options": [
+        "It demonstrated that the time required for light to travel a specific distance is the same for all observers",
+        "It proved that time is absolute and universal across all reference frames",
+        "It established the caesium atom as the standard for measuring the second",
+        "It showed that time dilation only occurs near black holes"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that since the time required for light to travel a specific distance is the same for all observersâa fact first publicly demonstrated by the MichelsonâMorley experimentâall observers agree on the definition of time as a causal relation.",
+        "Incorrect. The article describes time as relative in general relativity, not absolute and universal.",
+        "Incorrect. The article associates caesium with the SI second definition, not with the MichelsonâMorley experiment.",
+        "Incorrect. The article mentions black holes as an extreme condition for time dilation, but does not link this to the MichelsonâMorley experiment."
+      ]
+    }
+  ]
+}

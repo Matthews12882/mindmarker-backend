@@ -1,0 +1,167 @@
+{
+  "article_id": "0066",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary definition of the Solar System according to the article?",
+      "options": [
+        "The Solar System includes the Sun and all objects that are bound to it by gravity and orbit it.",
+        "The Solar System is a single-star planetary system within the Milky Way Galaxy.",
+        "The Solar System consists of the Sun, eight planets, and their moons.",
+        "The Solar System is formed from a molecular cloud collapse about 4.6 billion years ago."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The Solar System includes the Sun and all objects that are bound to it by gravity and orbit it.\"",
+        "Incorrect. While the article mentions it is a single-star planetary system, the primary definition focuses on gravitational binding.",
+        "Incorrect. This describes a component but not the full definition given.",
+        "Incorrect. This describes formation, not the definition."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which objects are classified as dwarf planets by the International Astronomical Union's Minor Planet Center according to the article?",
+      "options": [
+        "Ceres, Pluto, Eris, Makemake, and Haumea.",
+        "Pluto, Eris, Haumea, Makemake, and Ceres.",
+        "Ceres, Pluto, Eris, Haumea, and Makemake.",
+        "Pluto, Eris, Makemake, Haumea, and Ceres."
+      ],
+      "answer_explanations": [
+        "Correct. The article lists: \"The International Astronomical Union's Minor Planet Center lists Ceres, Pluto, Eris, Makemake, and Haumea as dwarf planets.\"",
+        "Incorrect. The order is not the same as the article; the correct list includes Ceres first.",
+        "Incorrect. The order differs; the article lists Ceres first.",
+        "Incorrect. The order differs; the article lists Ceres first."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the approximate age of the Solar System as stated in the article?",
+      "options": [
+        "About 4.6 billion years old.",
+        "Around 10 billion years old.",
+        "Approximately 2.5 billion years old.",
+        "Roughly 1 billion years old."
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"The Solar System formed about 4.6 billion years ago.\"",
+        "Incorrect. The article does not state 10 billion years for formation.",
+        "Incorrect. The article does not state 2.5 billion years.",
+        "Incorrect. The article does not state 1 billion years."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which region of the Solar System contains the majority of the non-stellar mass after the Sun?",
+      "options": [
+        "Jupiter and Saturn together comprise more than 90% of the non-stellar mass.",
+        "The asteroid belt contains most of the non-stellar mass.",
+        "The Kuiper belt holds the majority of the non-stellar mass.",
+        "The Oort cloud contains most of the non-stellar mass."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Jupiter and Saturn possess nearly 90% of the non-stellar mass of the Solar System.\"",
+        "Incorrect. The asteroid belt contains much less mass.",
+        "Incorrect. The Kuiper belt contains far less mass.",
+        "Incorrect. The Oort cloud contains far less mass."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, which planets are considered terrestrial planets?",
+      "options": [
+        "Mercury, Venus, Earth, and Mars.",
+        "Jupiter, Saturn, Uranus, and Neptune.",
+        "Earth, Mars, Jupiter, and Saturn.",
+        "Mercury, Venus, Uranus, and Neptune."
+      ],
+      "answer_explanations": [
+        "Correct. The article lists: \"Closest to the Sun in order of increasing distance are the terrestrial planets â Mercury, Venus, Earth and Mars.\"",
+        "Incorrect. Those are the giant planets.",
+        "Incorrect. This mixes terrestrial and giant planets.",
+        "Incorrect. This mixes terrestrial and ice giants."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the article identify as the source of long-period comets?",
+      "options": [
+        "The Oort cloud is the source for long-period comets.",
+        "The Kuiper belt is the source for long-period comets.",
+        "The asteroid belt is the source for long-period comets.",
+        "The scattered disc is the source for long-period comets."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The theorized Oort cloud â the source for long-period comets â extends from somewhere beyond 2,000 AU...\"",
+        "Incorrect. The Kuiper belt is the source for short-period comets.",
+        "Incorrect. The asteroid belt is not the source.",
+        "Incorrect. The scattered disc is not the source."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following statements about the Sun's mass is correct according to the article?",
+      "options": [
+        "The Sun accounts for 99.86% of the Solar System's total mass.",
+        "The Sun accounts for 90% of the Solar System's total mass.",
+        "The Sun accounts for 50% of the Solar System's total mass.",
+        "The Sun accounts for 10% of the Solar System's total mass."
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"The Sun accounts for 99.86% of the Solar System's total mass.\"",
+        "Incorrect. The article does not state 90%.",
+        "Incorrect. The article does not state 50%.",
+        "Incorrect. The article does not state 10%."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the term used in the article for the boundary where the solar wind is halted by the interstellar medium?",
+      "options": [
+        "The heliopause.",
+        "The Hill sphere.",
+        "The frost line.",
+        "The soot line."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"At around 70â90 AU from the Sun, the solar wind is halted by the interstellar medium, resulting in the heliopause...\"",
+        "Incorrect. The Hill sphere is the outer gravitational boundary.",
+        "Incorrect. The frost line is a temperature boundary for planet formation.",
+        "Incorrect. The soot line is a carbon condensation line."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT listed as a small Solar System body in the article?",
+      "options": [
+        "Asteroids.",
+        "Comets.",
+        "Meteoroids.",
+        "Nebulas."
+      ],
+      "answer_explanations": [
+        "Correct. The article lists asteroids, comets, meteoroids, centaurs, and interplanetary dust clouds as small Solar System bodies, but not nebulas.",
+        "Incorrect. Asteroids are listed as small Solar System bodies.",
+        "Incorrect. Comets are listed as small Solar System bodies.",
+        "Incorrect. Meteoroids are listed as small Solar System bodies."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article state about the habitability of Earth and Mars?",
+      "options": [
+        "Earth and Mars are the only planets that orbit within the Sun's habitable zone.",
+        "Earth and Mars are the only planets that can support liquid water on their surfaces.",
+        "Earth and Mars are the only planets that have atmospheres.",
+        "Earth and Mars are the only planets that have moons."
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"Earth and Mars are the only planets that orbit within the Sun's habitable zone, in which sunlight can keep surface water liquid under atmospheric pressure.\"",
+        "Incorrect. While they can support liquid water, the article specifically mentions the habitable zone.",
+        "Incorrect. The article does not state they are the only planets with atmospheres.",
+        "Incorrect. The article does not state they are the only planets with moons."
+      ]
+    }
+  ]
+}

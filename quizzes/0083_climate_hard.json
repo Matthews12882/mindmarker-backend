@@ -1,0 +1,167 @@
+{
+  "article_id": "0083",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the standard averaging period used to define climate normals?",
+      "options": [
+        "30 years",
+        "10 years",
+        "50 years",
+        "100 years"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a climate normal is defined as the arithmetic average of a climate element over a 30-year period.",
+        "Incorrect. The article does not mention 10 years as the standard averaging period for climate normals.",
+        "Incorrect. The article does not mention 50 years as the standard averaging period for climate normals.",
+        "Incorrect. The article does not mention 100 years as the standard averaging period for climate normals."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Based on the article, what would be the expected ecological response to a 3 Â°C change in mean annual temperature?",
+      "options": [
+        "Species moving upwards in elevation or towards the poles in latitude",
+        "Species remaining stationary within their current ranges",
+        "Species shifting only towards the equator",
+        "Species shifting only downwards in elevation"
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes Lesley Ann Hughes stating that species are expected to move upwards in elevation or towards the poles in latitude in response to shifting climate zones.",
+        "Incorrect. The article does not suggest species would remain stationary; it describes movement in response to shifting climate zones.",
+        "Incorrect. The article describes movement towards the poles, not towards the equator.",
+        "Incorrect. The article describes movement upwards in elevation, not downwards."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If a researcher wanted to study biological diversity and the effects of climate change on it using a classification system that incorporates evapotranspiration, which system described in the article would be most appropriate?",
+      "options": [
+        "The Thornthwaite system",
+        "The KÃ¶ppen climate classification",
+        "The Bergeron classification",
+        "The Spatial Synoptic Classification system"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Thornthwaite system incorporates evapotranspiration along with temperature and precipitation information and is used in studying biological diversity and how climate change affects it.",
+        "Incorrect. The article describes the KÃ¶ppen classification as the most widely used scheme but does not say it incorporates evapotranspiration for studying biological diversity.",
+        "Incorrect. The article states the Bergeron system focuses on the origin of air masses, not evapotranspiration.",
+        "Incorrect. The article states the Spatial Synoptic Classification system focuses on the origin of air masses, not evapotranspiration."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what is a key difference between genetic and empiric climate classification methods?",
+      "options": [
+        "Genetic methods focus on the causes of climate, while empiric methods focus on the effects of climate",
+        "Genetic methods focus on the effects of climate, while empiric methods focus on the causes of climate",
+        "Genetic methods use only temperature data, while empiric methods use only precipitation data",
+        "Genetic methods are older than empiric methods"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that modern climate classification methods can be broadly divided into genetic methods, which focus on the causes of climate, and empiric methods, which focus on the effects of climate.",
+        "Incorrect. The article states the opposite: genetic methods focus on causes, not effects.",
+        "Incorrect. The article does not restrict genetic methods to temperature data or empiric methods to precipitation data.",
+        "Incorrect. The article does not compare the historical age of genetic and empiric methods."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what is one reason the 30-year period is used for climate normals?",
+      "options": [
+        "It is long enough to filter out interannual variation or anomalies such as El NiÃ±oâSouthern Oscillation",
+        "It matches the length of a typical human generation",
+        "It corresponds to the duration of a single ice age",
+        "It is the shortest period that captures daily weather fluctuations"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a 30-year period is used because it is long enough to filter out any interannual variation or anomalies such as El NiÃ±oâSouthern Oscillation, but also short enough to show longer climatic trends.",
+        "Incorrect. The article does not mention human generations as a reason for the 30-year period.",
+        "Incorrect. The article does not link the 30-year period to the duration of an ice age.",
+        "Incorrect. The article describes the 30-year period as filtering out short-term variation, not capturing daily weather fluctuations."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Based on the article, what can be inferred about the relationship between greenhouse gas concentrations and global temperature?",
+      "options": [
+        "Increases in greenhouse gases can increase the global temperature and produce an interglacial period",
+        "Increases in greenhouse gases always lead to glacial periods",
+        "Greenhouse gas concentrations have no effect on global temperature",
+        "Greenhouse gases only affect regional, not global, temperature"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that increases in greenhouse gases, such as by volcanic activity, can increase the global temperature and produce an interglacial period.",
+        "Incorrect. The article associates increases in greenhouse gases with warming and interglacial periods, not glacial periods.",
+        "Incorrect. The article explicitly states that greenhouse gases determine the amount of solar energy retained by the planet, affecting global temperature.",
+        "Incorrect. The article discusses greenhouse gases in terms of global warming or global cooling, indicating a global effect."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what is a common shortcoming of climate classification schemes?",
+      "options": [
+        "They produce distinct boundaries between zones rather than gradual transitions",
+        "They are too complex to be used by scientists",
+        "They ignore temperature and precipitation entirely",
+        "They only apply to tropical regions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a common shortcoming of these classification schemes is that they produce distinct boundaries between the zones they define, rather than the gradual transition of climate properties more common in nature.",
+        "Incorrect. The article does not describe the schemes as too complex to use.",
+        "Incorrect. The article states that temperature and precipitation are commonly used variables in classification.",
+        "Incorrect. The article does not limit the schemes to tropical regions."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what does paleoclimatology use to determine the past state of the climate?",
+      "options": [
+        "Proxy variables such as ice sheets, tree rings, sediments, pollen, coral, and rocks",
+        "Direct thermometer readings from the 18th century",
+        "Satellite data from the 1960s",
+        "Modern weather instruments only"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that paleoclimatology uses evidence with different time scales from ice sheets, tree rings, sediments, pollen, coral, and rocks to determine the past state of the climate, and that paleoclimates are inferred from proxy variables.",
+        "Incorrect. The article notes that very few direct observations were available before the 19th century, so paleoclimatology does not rely on 18th-century thermometer readings.",
+        "Incorrect. Satellite data from the 1960s are part of the modern climate record, not paleoclimatology.",
+        "Incorrect. Modern weather instruments are used for the modern climate record, while paleoclimatology relies on proxy evidence."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, how did the meaning of 'climate change' shift between the 1960s and recent usage?",
+      "options": [
+        "In the 1960s it referred to climate variability, while recent usage often implies long-term, human-caused change",
+        "In the 1960s it referred only to human-caused change, while recent usage refers to natural variability",
+        "It has always meant exactly the same thing",
+        "In the 1960s it referred to daily weather, while recent usage refers to century-scale averages"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that while the term climate change now implies change that is both long-term and of human causation, in the 1960s the word climate change was used for what we now describe as climate variability.",
+        "Incorrect. The article states the opposite: in the 1960s it referred to variability, not human-caused change.",
+        "Incorrect. The article explicitly describes a shift in meaning over time.",
+        "Incorrect. The article does not equate 1960s usage of climate change with daily weather."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what is one dynamic determinant of climate mentioned in the text?",
+      "options": [
+        "Thermohaline circulation of the ocean",
+        "The fixed latitude of a location",
+        "The unchanging proportion of land to water",
+        "The permanent position of continents"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes thermohaline circulation of the ocean as a dynamic climate determinant that leads to warming of the northern Atlantic Ocean.",
+        "Incorrect. The article describes latitude as a nearly constant variable that changes only over millions of years, not a dynamic determinant.",
+        "Incorrect. The article describes the proportion of land to water as a nearly constant variable, not a dynamic one.",
+        "Incorrect. The article describes the positions of continents as changing over millions of years, not as a dynamic determinant."
+      ]
+    }
+  ]
+}

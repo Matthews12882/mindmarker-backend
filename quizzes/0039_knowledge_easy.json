@@ -1,0 +1,167 @@
+{
+  "article_id": "0039",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the three main types of knowledge mentioned in the article?",
+      "options": [
+        "Descriptive, acquaintance, and procedural knowledge",
+        "Theoretical, practical, and empirical knowledge",
+        "Propositional, declarative, and intuitive knowledge",
+        "Cognitive, social, and collective knowledge"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Knowledge is an awareness of facts (descriptive knowledge), a familiarity with individuals and situations (knowledge by acquaintance), or a practical skill (procedural knowledge).\"",
+        "Incorrect. The article does not group knowledge into theoretical, practical, and empirical categories; it focuses on descriptive, acquaintance, and procedural.",
+        "Incorrect. While descriptive knowledge is also called propositional or declarative, the article does not list those three as the primary types.",
+        "Incorrect. Cognitive, social, and collective knowledge are discussed later but are not the three main types originally defined."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, which source is the main source of empirical knowledge?",
+      "options": [
+        "Perception",
+        "Memory",
+        "Rational intuition",
+        "Testimony"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"The main source of empirical knowledge is perception, which involves the usage of the senses to learn about the external world.\"",
+        "Incorrect. Memory is listed as a source but not the main source of empirical knowledge.",
+        "Incorrect. Rational intuition is another source but not the primary source for empirical knowledge.",
+        "Incorrect. Testimony is a source of knowledge but not the main source of empirical knowledge."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article say is the main discipline investigating knowledge?",
+      "options": [
+        "Epistemology",
+        "Philosophy",
+        "Psychology",
+        "Sociology"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The main discipline investigating knowledge is epistemology, which studies what people know, how they come to know it, and what it means to know something.\"",
+        "Incorrect. While philosophy is broader, epistemology is the specific discipline.",
+        "Incorrect. Psychology is not identified as the main discipline.",
+        "Incorrect. Sociology examines knowledge but is not the main discipline."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which definition of knowledge is described as justified true belief in the article?",
+      "options": [
+        "The analysis of knowledge definition",
+        "The ordinary language definition",
+        "The pragmatic definition",
+        "The coherentist definition"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"An often-discussed definition characterizes knowledge as justified true belief.\" This is part of the analysis of knowledge.",
+        "Incorrect. Ordinary language focuses on how the term is used, not specifically justified true belief.",
+        "Incorrect. Pragmatism focuses on inquiry and practice, not justified true belief.",
+        "Incorrect. Coherentism is about coherence among mental states, not the justified true belief definition."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the Gettier problem primarily concerned with?",
+      "options": [
+        "Showing that justified true belief is insufficient for knowledge",
+        "Proving that knowledge does not require justification",
+        "Demonstrating that knowledge is always empirical",
+        "Explaining why knowledge is impossible"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that Gettier cases are counterexamples that show justified true beliefs can fail to be knowledge due to epistemic luck.",
+        "Incorrect. Gettier cases do not argue that justification is unnecessary; they show that justified true belief may still not be knowledge.",
+        "Incorrect. Gettier cases are not about empirical vs. a priori knowledge.",
+        "Incorrect. Gettier cases do not argue that knowledge is impossible."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which ancient Greek term for knowledge refers to unchanging theoretical knowledge?",
+      "options": [
+        "EpistÄmÄ",
+        "TechnÄ",
+        "MÄtis",
+        "GnÅsis"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the four Greek terms: \"epistÄmÄ (unchanging theoretical knowledge), technÄ (expert technical knowledge), mÄtis (strategic knowledge), and gnÅsis (personal intellectual knowledge).\"",
+        "Incorrect. TechnÄ refers to expert technical knowledge, not unchanging theoretical knowledge.",
+        "Incorrect. MÄtis refers to strategic knowledge.",
+        "Incorrect. GnÅsis refers to personal intellectual knowledge."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does the article say about the relationship between knowledge and intelligence?",
+      "options": [
+        "Knowledge is about information and skills one already possesses, while intelligence is about the ability to acquire, process, and apply information.",
+        "Knowledge and intelligence are identical concepts.",
+        "Intelligence is a subset of knowledge.",
+        "Knowledge is irrelevant to intelligence."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Knowledge is closely related to intelligence, but intelligence is more about the ability to acquire, process, and apply information, while knowledge concerns information and skills that a person already possesses.\"",
+        "Incorrect. The article distinguishes them, not equates them.",
+        "Incorrect. Intelligence is not a subset of knowledge.",
+        "Incorrect. Knowledge is relevant to intelligence."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT listed as a source of knowledge in the article?",
+      "options": [
+        "Dreaming",
+        "Memory",
+        "Inference",
+        "Testimony"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists perception, introspection, memory, rational intuition, inference, and testimony as sources. Dreaming is not mentioned.",
+        "Incorrect. Memory is listed as a source.",
+        "Incorrect. Inference is listed as a source.",
+        "Incorrect. Testimony is listed as a source."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is the primary method used by the sciences to acquire knowledge?",
+      "options": [
+        "The scientific method",
+        "Intuition",
+        "Authority",
+        "Rhetoric"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"Knowledge is relevant to many fields like the sciences, which aim to acquire knowledge using the scientific method based on repeatable experimentation, observation, and measurement.\"",
+        "Incorrect. Intuition is not the primary method.",
+        "Incorrect. Authority is not the primary method.",
+        "Incorrect. Rhetoric is not the primary method."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article suggest about the definition of knowledge?",
+      "options": [
+        "There is still very little consensus in the academic discourse as to which definition is correct.",
+        "There is a universally accepted definition of knowledge.",
+        "Knowledge is defined solely as true belief.",
+        "Knowledge is defined solely as justified belief."
+      ],
+      "answer_explanations": [
+        "Correct. The article concludes: \"There is still very little consensus in the academic discourse as to which of the proposed modifications or reconceptualizations is correct, and there are various alternative definitions of knowledge.\"",
+        "Incorrect. The article emphasizes lack of consensus.",
+        "Incorrect. The article notes that true belief alone is insufficient.",
+        "Incorrect. The article notes that justification alone is insufficient."
+      ]
+    }
+  ]
+}

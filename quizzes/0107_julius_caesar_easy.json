@@ -1,0 +1,167 @@
+{
+  "article_id": "0107",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "On what date was Julius Caesar assassinated?",
+      "options": [
+        "15 March 44 BC",
+        "12 July 100 BC",
+        "15 March 45 BC",
+        "13 July 44 BC"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Caesar was assassinated on the Ides of March (15 March) 44 BC.",
+        "Incorrect. 12 July 100 BC is Caesar's birth date, not his assassination date.",
+        "Incorrect. The article places his assassination in 44 BC, not 45 BC.",
+        "Incorrect. 13 July is given as an alternative birth date, not the assassination date."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What title was Caesar given in 44 BC?",
+      "options": [
+        "dictator perpetuo",
+        "pontifex maximus",
+        "consul",
+        "flamen Dialis"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he was titled dictator perpetuo in 44 BC.",
+        "Incorrect. Pontifex maximus was a religious post Caesar held earlier, not the 44 BC title.",
+        "Incorrect. Consul was an earlier office, not the title granted in 44 BC.",
+        "Incorrect. Flamen Dialis was a priesthood Caesar held in his youth, not the 44 BC title."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Who were Caesar's political allies in the First Triumvirate?",
+      "options": [
+        "Crassus and Pompey",
+        "Cato and Cicero",
+        "Brutus and Cassius",
+        "Octavian and Antony"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Caesar, Crassus, and Pompey formed the First Triumvirate.",
+        "Incorrect. Cato and Cicero opposed the Triumvirate's attempts to amass power.",
+        "Incorrect. Brutus and Cassius led the conspiracy that assassinated Caesar.",
+        "Incorrect. Octavian was Caesar's heir, not a member of the First Triumvirate."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What act began Caesar's civil war?",
+      "options": [
+        "crossing the Rubicon",
+        "forming the First Triumvirate",
+        "invading Britain",
+        "being named dictator perpetuo"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that crossing the Rubicon and marching towards Rome began Caesar's civil war.",
+        "Incorrect. Forming the First Triumvirate occurred earlier and did not begin the civil war.",
+        "Incorrect. Invading Britain happened during the Gallic Wars, not at the start of the civil war.",
+        "Incorrect. Being named dictator perpetuo happened after the civil war had ended."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which calendar did Caesar create to replace the republican lunisolar calendar?",
+      "options": [
+        "Julian calendar",
+        "Gregorian calendar",
+        "Roman lunar calendar",
+        "Egyptian calendar"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Caesar created the Julian calendar to replace the republican lunisolar calendar.",
+        "Incorrect. The Gregorian calendar is not mentioned in the article.",
+        "Incorrect. The republican lunisolar calendar was the one being replaced, not created by Caesar.",
+        "Incorrect. The Egyptian calendar is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Who led the group of senators that assassinated Caesar?",
+      "options": [
+        "Brutus and Cassius",
+        "Cato and Cicero",
+        "Pompey and Crassus",
+        "Octavian and Antony"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a group of senators led by Brutus and Cassius assassinated Caesar.",
+        "Incorrect. Cato and Cicero opposed the Triumvirate but did not lead the assassination.",
+        "Incorrect. Pompey and Crassus were Caesar's allies in the First Triumvirate.",
+        "Incorrect. Octavian was Caesar's heir and came to power after the assassination."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What was Caesar's cognomen that became a synonym for emperor?",
+      "options": [
+        "Caesar",
+        "Augustus",
+        "Kaiser",
+        "Tsar"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his cognomen Caesar became a synonym for emperor.",
+        "Incorrect. Augustus was the title of Octavian, not Caesar's cognomen.",
+        "Incorrect. Kaiser is a modern derivative of Caesar, not the cognomen itself.",
+        "Incorrect. Tsar is a modern derivative of Caesar, not the cognomen itself."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which family was Caesar born into?",
+      "options": [
+        "the gens Julia",
+        "the gens Aurelia",
+        "the gens Cornelia",
+        "the gens Pompeia"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Caesar was born into the gens Julia.",
+        "Incorrect. The Aurelii Cottae were his mother's family, not his birth family.",
+        "Incorrect. Cornelia was his wife's name, not his family gens.",
+        "Incorrect. Pompeia was his wife's name, not his family gens."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Who was Caesar's great-nephew and adoptive heir?",
+      "options": [
+        "Octavian",
+        "Brutus",
+        "Cassius",
+        "Pompey"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies Octavian as Caesar's great-nephew and adoptive heir.",
+        "Incorrect. Brutus was one of the senators who assassinated Caesar.",
+        "Incorrect. Cassius was one of the senators who assassinated Caesar.",
+        "Incorrect. Pompey was Caesar's political rival, not his heir."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What did Caesar do during his aedileship in 65 BC?",
+      "options": [
+        "staged lavish games",
+        "crossed the Rubicon",
+        "invaded Britain",
+        "created the Julian calendar"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as curule aedile in 65 BC, Caesar staged lavish games.",
+        "Incorrect. Crossing the Rubicon occurred in 49 BC, not during his aedileship.",
+        "Incorrect. Invading Britain occurred during the Gallic Wars, not during his aedileship.",
+        "Incorrect. Creating the Julian calendar occurred later, after he assumed control of the government."
+      ]
+    }
+  ]
+}

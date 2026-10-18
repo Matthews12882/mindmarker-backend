@@ -1,0 +1,167 @@
+{
+  "article_id": "0173",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What year was Isaac Newton's book Principia Mathematica first published?",
+      "options": [
+        "1687",
+        "1704",
+        "1665",
+        "1705"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Principia Mathematica was first published in 1687.",
+        "Incorrect. 1704 is the publication year of Opticks, not Principia Mathematica.",
+        "Incorrect. 1665 is when Newton discovered the generalised binomial theorem, not when Principia was published.",
+        "Incorrect. 1705 is the year Newton was knighted by Queen Anne."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which university did Isaac Newton attend?",
+      "options": [
+        "University of Cambridge",
+        "University of Oxford",
+        "University of London",
+        "University of Edinburgh"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Newton was admitted to Trinity College at the University of Cambridge in June 1661.",
+        "Incorrect. The article does not mention Newton attending the University of Oxford.",
+        "Incorrect. The article does not mention Newton attending the University of London.",
+        "Incorrect. The article does not mention Newton attending the University of Edinburgh."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What position did Isaac Newton hold at the University of Cambridge?",
+      "options": [
+        "Lucasian Professor of Mathematics",
+        "Master of Trinity College",
+        "Chancellor of the University",
+        "Head of the Physics Department"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies Newton as the second Lucasian Professor of Mathematics at the University of Cambridge.",
+        "Incorrect. Isaac Barrow became master of Trinity College, not Newton.",
+        "Incorrect. The article does not mention Newton serving as chancellor.",
+        "Incorrect. The article does not mention Newton heading a physics department."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In what year was Isaac Newton knighted?",
+      "options": [
+        "1705",
+        "1687",
+        "1704",
+        "1689"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Newton was knighted by Queen Anne in 1705.",
+        "Incorrect. 1687 is the publication year of Principia Mathematica.",
+        "Incorrect. 1704 is the publication year of Opticks.",
+        "Incorrect. 1689 is when Newton began serving as Member of Parliament."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What did Isaac Newton build that was the first of its kind?",
+      "options": [
+        "the first reflecting telescope",
+        "the first refracting telescope",
+        "the first microscope",
+        "the first wind tunnel"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Newton built the first reflecting telescope.",
+        "Incorrect. The article credits Newton with the first reflecting telescope, not the refracting telescope.",
+        "Incorrect. The article does not credit Newton with building the first microscope.",
+        "Incorrect. The article says Newton described a precursor to the modern wind tunnel, not that he built the first one."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Where was Isaac Newton born?",
+      "options": [
+        "Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, Lincolnshire",
+        "London, England",
+        "Cambridge, England",
+        "Grantham, England"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Newton was born at Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, Lincolnshire.",
+        "Incorrect. The article says Newton spent his last decades in London, but was not born there.",
+        "Incorrect. Newton attended university in Cambridge but was not born there.",
+        "Incorrect. Newton attended The King's School in Grantham but was not born there."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What did Isaac Newton share credit with Gottfried Wilhelm Leibniz for formulating?",
+      "options": [
+        "infinitesimal calculus",
+        "the laws of motion",
+        "the theory of relativity",
+        "the binomial theorem"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Newton shares credit with Leibniz for formulating infinitesimal calculus.",
+        "Incorrect. The laws of motion were formulated by Newton alone in the Principia.",
+        "Incorrect. The theory of relativity superseded Newton's laws and is not attributed to Newton or Leibniz.",
+        "Incorrect. Newton generalised the binomial theorem himself; it is not shared with Leibniz."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What was Isaac Newton's religious affiliation?",
+      "options": [
+        "a devout but unorthodox Christian",
+        "an atheist",
+        "a Muslim",
+        "a devout Anglican"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes Newton as a devout but unorthodox Christian who privately rejected the doctrine of the Trinity.",
+        "Incorrect. The article explicitly describes Newton as Christian, not atheist.",
+        "Incorrect. The article does not describe Newton as Muslim.",
+        "Incorrect. The article says Newton was unorthodox and rejected Anglican doctrine, so he was not a devout Anglican."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What did Isaac Newton serve as at the Royal Mint?",
+      "options": [
+        "Warden and Master",
+        "Treasurer and Secretary",
+        "Director and Governor",
+        "Chief Engraver and Assayer"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Newton served as Warden (1696â1699) and Master (1699â1727) of the Royal Mint.",
+        "Incorrect. The article does not mention Newton serving as treasurer or secretary of the Royal Mint.",
+        "Incorrect. The article does not mention Newton serving as director or governor.",
+        "Incorrect. The article does not mention Newton serving as chief engraver or assayer."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Where was Isaac Newton buried?",
+      "options": [
+        "Westminster Abbey",
+        "Trinity College Chapel",
+        "St. Paul's Cathedral",
+        "Woolsthorpe Manor"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Newton was the first scientist to be buried at Westminster Abbey.",
+        "Incorrect. The article does not mention Newton being buried at Trinity College Chapel.",
+        "Incorrect. The article does not mention Newton being buried at St. Paul's Cathedral.",
+        "Incorrect. The article states Newton was born at Woolsthorpe Manor, not buried there."
+      ]
+    }
+  ]
+}

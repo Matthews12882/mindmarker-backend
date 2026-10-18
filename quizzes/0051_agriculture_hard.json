@@ -1,0 +1,167 @@
+{
+  "article_id": "0051",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following statements accurately reflects the distribution of farmland among farms of different sizes globally?",
+      "options": [
+        "Only 1% of all farms globally are larger than 50 hectares, yet they encompass more than 70% of the world's farmland.",
+        "Small farms, defined as one hectare or smaller, produce the majority of the world's food.",
+        "Nearly 40% of all global agricultural land is found on farms larger than 1,000 hectares.",
+        "Five of every six farms in the world consist of fewer than 2 hectares and take up only around 12% of all agricultural land."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that while only 1% of all farms globally are greater than 50 hectares, they encompass more than 70% of the world's farmland.",
+        "Incorrect. The article notes that small farms (one hectare or smaller) produce about one-third of the world's food, not the majority.",
+        "Incorrect. Although nearly 40% of global agricultural land is on farms larger than 1,000 hectares, this statement does not capture the full distribution pattern described.",
+        "Incorrect. The article says five of every six farms consist of fewer than 2 hectares and take up only around 12% of all agricultural land, but this does not reflect the dominance of large farms in total land use."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following best describes the role of agriculture in the development of early human civilization?",
+      "options": [
+        "It enabled the rise of sedentary civilization by creating food surpluses that allowed people to live in cities.",
+        "It primarily served as a method for hunting and gathering.",
+        "It was a minor factor compared to trade and religion.",
+        "It was only practiced in the Middle East."
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly states that agriculture was a key factor in the rise of sedentary human civilization, creating food surpluses that enabled people to live in cities.",
+        "Incorrect. Agriculture is distinct from hunting and gathering; the article emphasizes its role in enabling sedentary life.",
+        "Incorrect. The article highlights agriculture as a key factor, not a minor one.",
+        "Incorrect. Agriculture began independently in at least 11 regions of the world, not only in the Middle East."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, which of the following is NOT listed as a major environmental issue caused or exacerbated by agriculture?",
+      "options": [
+        "Contributions to climate change",
+        "Depletion of aquifers",
+        "Deforestation",
+        "Antibiotic resistance"
+      ],
+      "answer_explanations": [
+        "Incorrect. The article lists contributions to climate change as an environmental issue.",
+        "Incorrect. Depletion of aquifers is listed as an environmental issue.",
+        "Incorrect. Deforestation is listed as an environmental issue.",
+        "Correct. The article mentions antibiotic resistance as an issue, but it is not listed among the major environmental issues caused by agriculture; rather, it is listed under other agricultural pollution."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following statements about the domestication of crops and animals is supported by the article?",
+      "options": [
+        "Sheep, goats, pigs, and cattle were domesticated around 10,000 years ago.",
+        "Rice was domesticated in China between 11,500 and 6200 BC with the earliest known cultivation from 5700 BC.",
+        "The potato was domesticated in the Andes between 10,000 and 7,000 years ago.",
+        "All of the above."
+      ],
+      "answer_explanations": [
+        "Incorrect. The article states that sheep, goats, pigs, and cattle were domesticated around 10,000 years ago, but this is not the only correct statement; the others are also correct.",
+        "Incorrect. The article provides the timeline for rice domestication, but this is not the only correct statement; the others are also correct.",
+        "Incorrect. The article mentions the potato domestication in the Andes, but this is not the only correct statement; the others are also correct.",
+        "Correct. The article includes all three domestication timelines as factual information."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following best describes the impact of modern agricultural technologies on crop yields and the environment?",
+      "options": [
+        "They have sharply increased crop yields but also contributed to ecological and environmental damage.",
+        "They have increased crop yields without any environmental impact.",
+        "They have decreased crop yields due to environmental damage.",
+        "They have had no significant effect on either crop yields or the environment."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that modern agronomy, plant breeding, agrochemicals, and technological developments have sharply increased crop yields, but also contributed to ecological and environmental damage.",
+        "Incorrect. The article notes that modern technologies have contributed to environmental damage.",
+        "Incorrect. The article indicates that modern technologies have sharply increased crop yields, not decreased them.",
+        "Incorrect. The article describes both increased yields and environmental damage."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following statements about the etymology of the word 'agriculture' is accurate?",
+      "options": [
+        "It is a late Middle English adaptation of Latin agricultura, from ager 'field' and cultura '[cultivation]' or 'growing'.",
+        "It originates from Old French 'agriculture'.",
+        "It is derived from Greek 'agros' meaning 'field'.",
+        "It was coined in the 20th century."
+      ],
+      "answer_explanations": [
+        "Correct. The article provides the etymology: a late Middle English adaptation of Latin agricultura, from ager 'field' and cultura '[cultivation]' or 'growing'.",
+        "Incorrect. The article does not mention Old French as the origin.",
+        "Incorrect. The article does not mention Greek as the origin.",
+        "Incorrect. The article indicates the word has Middle English origins."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following statements about the scope of agriculture is supported by the article?",
+      "options": [
+        "It is defined with varying scopes, in its broadest sense using natural resources to produce commodities which maintain life, including food, fiber, forest products, horticultural crops, and their related services.",
+        "It is limited to the cultivation of crops only.",
+        "It excludes animal husbandry.",
+        "It is defined solely by the use of modern technology."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines agriculture with varying scopes, in its broadest sense using natural resources to produce commodities which maintain life, including food, fiber, forest products, horticultural crops, and their related services.",
+        "Incorrect. The article notes that agriculture includes more than just crops, such as fiber, forest products, and services.",
+        "Incorrect. The article includes animal husbandry as part of agriculture.",
+        "Incorrect. The article does not define agriculture solely by modern technology."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following best describes the impact of agriculture on rural society?",
+      "options": [
+        "Farms and farming greatly influence rural economics and greatly shape rural society, affecting both the direct agricultural workforce and broader businesses that support the farms and farming populations.",
+        "Agriculture has no impact on rural society.",
+        "Agriculture only affects urban economies.",
+        "Agriculture only impacts the environment."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that farms and farming greatly influence rural economics and greatly shape rural society, affecting both the direct agricultural workforce and broader businesses that support the farms and farming populations.",
+        "Incorrect. The article clearly states that agriculture significantly impacts rural society.",
+        "Incorrect. The article focuses on rural, not urban, impacts.",
+        "Incorrect. While agriculture does impact the environment, the article also highlights its societal impacts."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following statements about the global agricultural production amounts is accurate?",
+      "options": [
+        "Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood.",
+        "Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood, but no food is lost before retail.",
+        "Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood, with around 14% of the world's food lost before reaching the retail level.",
+        "Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood, with no mention of food loss."
+      ],
+      "answer_explanations": [
+        "Incorrect. The article includes additional detail about food loss before retail.",
+        "Incorrect. The article notes that around 14% of the world's food is lost before reaching the retail level.",
+        "Correct. The article states that global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood, and that around 14% of the world's food is lost from production before reaching the retail level.",
+        "Incorrect. The article includes the detail about food loss."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following statements about the historical origins of agriculture is supported by the article?",
+      "options": [
+        "Scholars have offered multiple hypotheses to explain the historical origins of agriculture, with studies indicating an initial period of intensification and increasing sedentism before domestication.",
+        "Agriculture originated solely from a single hypothesis.",
+        "Agriculture originated from a single center of origin.",
+        "Agriculture was invented by a single civilization."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that scholars have offered multiple hypotheses and that studies of the transition from hunter-gatherer to agricultural societies indicate an initial period of intensification and increasing sedentism before domestication.",
+        "Incorrect. The article mentions multiple hypotheses, not a single one.",
+        "Incorrect. The article notes that agriculture began independently in at least 11 separate centers of origin.",
+        "Incorrect. The article emphasizes multiple independent origins, not a single civilization."
+      ]
+    }
+  ]
+}

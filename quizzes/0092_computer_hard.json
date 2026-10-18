@@ -1,0 +1,167 @@
+{
+  "article_id": "0092",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes how Moore's law relates to computer development according to the article?",
+      "options": [
+        "Transistor counts doubled every two years, driving dramatic increases in speed, computing power, and versatility.",
+        "Microprocessor designs became smaller every year starting in the 1970s.",
+        "The number of computers in factories doubled every two years during the Digital Revolution.",
+        "Moore's law predicted that computer prices would halve every two years."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that transistor counts increased rapidly, with Moore's law noting that counts doubled every two years, leading to dramatic increases in speed, computing power, and versatility.",
+        "Incorrect. The article links the microprocessor and microcomputer revolution to the 1970s but does not state that Moore's law concerns microprocessor designs becoming smaller every year.",
+        "Incorrect. The article does not claim that Moore's law concerns the number of computers in factories doubling every two years.",
+        "Incorrect. The article does not mention computer prices halving every two years as part of Moore's law."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Based on the article, which statement best explains why the Antikythera mechanism is significant in computing history?",
+      "options": [
+        "It is believed to be the earliest known mechanical analog computer, designed to calculate astronomical positions.",
+        "It was the first device to use punched cards for programming.",
+        "It was developed by Charles Babbage in the early 19th century.",
+        "It was a digital electronic calculating machine built during World War II."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Antikythera mechanism is believed to be the earliest known mechanical analog computer, designed to calculate astronomical positions.",
+        "Incorrect. The article associates punched cards with Charles Babbage's analytical engine and Jacquard looms, not with the Antikythera mechanism.",
+        "Incorrect. Charles Babbage originated the concept of a programmable computer and designed the difference and analytical engines, but the Antikythera mechanism predates him and is not attributed to him.",
+        "Incorrect. Digital electronic calculating machines were developed during World War II, whereas the Antikythera mechanism dates to approximately c. 100 BCE."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best captures the evolution of the term 'computer' as described in the article's etymology section?",
+      "options": [
+        "It originally referred to a human who performed calculations, then later came to mean a calculating machine and finally a programmable digital electronic computer.",
+        "It has always meant a programmable digital electronic machine since its first recorded use in 1613.",
+        "It was coined in 1897 specifically to describe analog calculating machines.",
+        "It was first used in 1945 to describe human computers employed during World War II."
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that 'computer' first referred to a human computer performing calculations, then to a calculating machine from 1897, and finally to a programmable digital electronic computer from 1945.",
+        "Incorrect. The article states that the modern definition was not acquired until the mid-20th century and that the first known use in 1613 referred to a human, not a machine.",
+        "Incorrect. The article says the term 'calculating machine' dates from 1897, not that the word 'computer' was coined then specifically for analog machines.",
+        "Incorrect. The article notes that by 1943 most human computers were women, but it does not say the term was first used in 1945 for them; 1945 is given as the date for the modern use meaning programmable digital electronic computer."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what is the defining characteristic of a computer?",
+      "options": [
+        "It is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations.",
+        "It is any electronic device that contains a central processing unit and memory.",
+        "It is a device that must be connected to the Internet to function.",
+        "It is a machine that can only perform calculations and nothing else."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a computer as a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation).",
+        "Incorrect. While the article mentions CPUs and memory as parts of a modern computer, it does not define a computer solely as any electronic device containing them.",
+        "Incorrect. The article states that computers power the Internet, but it does not say that Internet connectivity is required for a device to be a computer.",
+        "Incorrect. The article notes that early computers were meant for calculations, but modern computers perform a wide range of tasks through programs."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following best describes the role of peripheral devices in a computer system, according to the article?",
+      "options": [
+        "They allow information to be retrieved from external sources and enable results of operations to be saved and retrieved.",
+        "They are the primary components that carry out arithmetic and logical operations.",
+        "They are required for a computer to be considered a complete computer system.",
+        "They replace the need for a central processing unit in modern computers."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that peripheral devices allow information to be retrieved from an external source and enable the results of operations to be saved and retrieved.",
+        "Incorrect. The article assigns the carrying out of arithmetic and logical operations to the processing element, typically the CPU, not to peripheral devices.",
+        "Incorrect. The article defines a computer system as including hardware, operating system, software, and peripheral equipment needed for full operation, but it does not say peripherals alone are required for a computer to be considered complete.",
+        "Incorrect. The article does not state that peripheral devices replace the CPU; rather, they work alongside the processing element and memory."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following best describes Charles Babbage's contribution to computing history as presented in the article?",
+      "options": [
+        "He originated the concept of a programmable computer and invented the first mechanical computer in the early 19th century.",
+        "He built the first digital electronic calculating machine during World War II.",
+        "He invented the Antikythera mechanism to calculate astronomical positions.",
+        "He developed the first microprocessor in the 1970s."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Charles Babbage originated the concept of a programmable computer and is considered the father of the computer, having invented the first mechanical computer in the early 19th century.",
+        "Incorrect. The article attributes early digital electronic calculating machines to World War II developments, not to Babbage.",
+        "Incorrect. The Antikythera mechanism is described as an ancient device discovered in 1901, not as an invention of Babbage.",
+        "Incorrect. The microprocessor is linked to the 1970s microcomputer revolution, not to Babbage, who worked in the 19th century."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what can be inferred about the scope of modern computers compared to early computers?",
+      "options": [
+        "Modern computers perform a wide range of tasks through programs, whereas early computers were meant only for calculations.",
+        "Modern computers are limited to industrial control systems, while early computers were used in consumer products.",
+        "Early computers were more versatile than modern computers because they used mechanical parts.",
+        "Modern computers cannot perform arithmetic operations, unlike early computers."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that early computers were meant to be used only for calculations, while modern digital electronic computers can perform generic sets of operations known as programs, enabling a wide range of tasks.",
+        "Incorrect. The article says computers are used in both industrial and consumer products, not that modern computers are limited to industrial control systems.",
+        "Incorrect. The article describes modern computers as having dramatically increased speed, power, and versatility, not as being less versatile than early mechanical computers.",
+        "Incorrect. The article states that the processing element carries out arithmetic and logical operations, so modern computers can perform arithmetic operations."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following best describes the relationship between a computer system and a computer network, according to the article?",
+      "options": [
+        "A computer network is one example of a group of linked computers that function together and may be referred to as a computer system.",
+        "A computer system is always a single standalone computer, while a computer network is always a separate category.",
+        "A computer network is a type of peripheral device used with a computer system.",
+        "A computer system cannot include a computer network because networks are made of multiple computers."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the term computer system may refer to a group of computers that are linked and function together, such as a computer network or computer cluster.",
+        "Incorrect. The article explicitly allows a computer system to refer to a group of linked computers, so it is not always a single standalone computer.",
+        "Incorrect. The article classifies computer networks as an example of a computer system, not as a peripheral device.",
+        "Incorrect. The article states that a computer system can refer to a group of linked computers, such as a network, so networks can be included within the term."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following best describes the historical progression of computing hardware technologies mentioned in the article?",
+      "options": [
+        "Electromechanicals and thermionic valves in the 1930s, semiconductor transistors in the 1940s, MOSFETs in the 1950s, and monolithic integrated circuits from the 1950s onward.",
+        "Vacuum tubes were invented in the 1950s, followed by transistors in the 1930s and integrated circuits in the 1940s.",
+        "Integrated circuits came before transistors, which came before electromechanical devices.",
+        "The microprocessor was developed in the 1930s, leading directly to electromechanical computers."
+      ],
+      "answer_explanations": [
+        "Correct. The article lists electromechanicals (1930s), thermionic valves (1930s), semiconductor transistors (1940s), MOSFETs (1950s), and monolithic integrated circuits (1950s+) in chronological order.",
+        "Incorrect. The article places thermionic valves in the 1930s, transistors in the 1940s, and integrated circuits from the 1950s, not in the order given in this option.",
+        "Incorrect. The article presents the progression as electromechanicals and valves first, then transistors, then MOSFETs, and finally integrated circuits.",
+        "Incorrect. The article associates the microprocessor with the 1970s, not the 1930s, and places electromechanical computers in the 1930s."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, which of the following best explains why women were often hired as human computers during the mid-20th century?",
+      "options": [
+        "They could be paid less than their male counterparts.",
+        "They were more skilled at calculations than men.",
+        "They were the only people allowed to operate early digital computers.",
+        "They preferred working as human computers over other available jobs."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that during the latter part of the period when the term referred to human computers, women were often hired because they could be paid less than their male counterparts.",
+        "Incorrect. The article does not claim that women were more skilled at calculations than men; it cites lower pay as the reason for hiring them.",
+        "Incorrect. The article does not state that women were the only people allowed to operate early digital computers.",
+        "Incorrect. The article does not mention women's job preferences as a reason for their employment as human computers."
+      ]
+    }
+  ]
+}

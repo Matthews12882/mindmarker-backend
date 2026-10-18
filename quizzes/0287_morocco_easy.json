@@ -1,0 +1,167 @@
+{
+  "article_id": "0287",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the official name of Morocco?",
+      "options": [
+        "Kingdom of Morocco",
+        "Republic of Morocco",
+        "Islamic Republic of Morocco",
+        "Democratic Morocco"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Morocco is officially the 'Kingdom of Morocco'.",
+        "Incorrect. The article does not refer to Morocco as a republic.",
+        "Incorrect. The article does not refer to Morocco as an Islamic republic.",
+        "Incorrect. The article does not use the term 'Democratic Morocco'."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which two bodies of water border Morocco?",
+      "options": [
+        "Mediterranean Sea and Atlantic Ocean",
+        "Mediterranean Sea and Red Sea",
+        "Atlantic Ocean and Indian Ocean",
+        "Mediterranean Sea and Black Sea"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Morocco has 'coastlines on the Mediterranean Sea to the north and the Atlantic Ocean to the west'.",
+        "Incorrect. Morocco does not border the Red Sea.",
+        "Incorrect. Morocco does not border the Indian Ocean.",
+        "Incorrect. Morocco does not border the Black Sea."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the capital city of Morocco?",
+      "options": [
+        "Rabat",
+        "Casablanca",
+        "Marrakesh",
+        "Fes"
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly states 'Its capital is Rabat'.",
+        "Incorrect. Casablanca is the largest city, not the capital.",
+        "Incorrect. Marrakesh is a major city but not the capital.",
+        "Incorrect. Fes is a historic city but not the capital."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which dynasty currently rules Morocco?",
+      "options": [
+        "Alawi dynasty",
+        "Idrisid dynasty",
+        "Almoravid dynasty",
+        "Saadi dynasty"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'The Alawi dynasty, which rules the country to this day, seized power in 1631'.",
+        "Incorrect. The Idrisid dynasty ruled from 788 but does not rule today.",
+        "Incorrect. The Almoravid dynasty ruled in the 11th-12th centuries, not currently.",
+        "Incorrect. The Saadi dynasty ruled in the 16th century, not currently."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "In which year did Morocco regain its independence?",
+      "options": [
+        "1956",
+        "1912",
+        "1975",
+        "1631"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Morocco regained its independence and reunified in 1956'.",
+        "Incorrect. 1912 is when France and Spain established protectorates, not independence.",
+        "Incorrect. 1975 is when Morocco occupied parts of Western Sahara, not independence.",
+        "Incorrect. 1631 is when the Alawi dynasty seized power, not independence."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What type of government does Morocco have?",
+      "options": [
+        "Unitary semi-constitutional monarchy",
+        "Federal republic",
+        "Absolute monarchy",
+        "Parliamentary democracy"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes Morocco as 'a unitary semi-constitutional monarchy with an elected parliament'.",
+        "Incorrect. Morocco is not a federal republic.",
+        "Incorrect. Morocco is a semi-constitutional monarchy, not an absolute monarchy.",
+        "Incorrect. While it has an elected parliament, it is a monarchy, not a parliamentary democracy."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which two official languages are mentioned for Morocco?",
+      "options": [
+        "Arabic and Berber",
+        "Arabic and French",
+        "Berber and Spanish",
+        "Arabic and English"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Arabic and Berber are the official languages'.",
+        "Incorrect. French is not listed as an official language in the article.",
+        "Incorrect. Spanish is not listed as an official language.",
+        "Incorrect. English is not listed as an official language."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the predominant religion in Morocco?",
+      "options": [
+        "Islam",
+        "Christianity",
+        "Judaism",
+        "Hinduism"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'Islam is both the official and predominant religion, with nearly all of the population identifying as Muslims'.",
+        "Incorrect. Christianity is not the predominant religion in Morocco.",
+        "Incorrect. Judaism is not the predominant religion.",
+        "Incorrect. Hinduism is not the predominant religion."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which territory does Morocco claim and designate as its Southern Provinces?",
+      "options": [
+        "Western Sahara",
+        "Mauritania",
+        "Ceuta",
+        "Melilla"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Morocco claims ownership of the non-self-governing territory of Western Sahara, which it has designated its Southern Provinces'.",
+        "Incorrect. Mauritania is a separate country, not claimed as Southern Provinces.",
+        "Incorrect. Ceuta is a Spanish exclave claimed by Morocco, but not designated as Southern Provinces.",
+        "Incorrect. Melilla is a Spanish exclave claimed by Morocco, but not designated as Southern Provinces."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "From which city does the English name 'Morocco' derive?",
+      "options": [
+        "Marrakesh",
+        "Fes",
+        "Rabat",
+        "Casablanca"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that the English name 'Morocco' is 'derived from the name of the city of Marrakesh'.",
+        "Incorrect. Fes is a historic capital but not the source of the name 'Morocco'.",
+        "Incorrect. Rabat is the current capital but not the source of the name.",
+        "Incorrect. Casablanca is the largest city but not the source of the name."
+      ]
+    }
+  ]
+}

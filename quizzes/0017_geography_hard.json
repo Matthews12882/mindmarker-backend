@@ -1,0 +1,167 @@
+{
+  "article_id": "0017",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what does Tobler's first law of geography state?",
+      "options": [
+        "\"Everything is related to everything else, but near things are more related than distant.\"",
+        "\"The phenomenon external to a geographic area of interest affects what goes on inside.\"",
+        "\"Everything is related to everything else, but things observed at a coarse spatial resolution are more related than things observed at a finer resolution.\"",
+        "\"That the geographic world is infinitely complex and that any representation must therefore contain elements of uncertainty.\""
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes Tobler's first law of geography verbatim: \"Everything is related to everything else, but near things are more related than distant.\"",
+        "Incorrect. This quote describes Tobler's second law of geography, not his first law.",
+        "Incorrect. This quote describes Arbia's law of geography, which concerns spatial resolution rather than proximity.",
+        "Incorrect. This quote describes the uncertainty principle, which addresses the infinite complexity of the geographic world and the impossibility of exact measurement."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which statement best describes the relationship between space and place in geography according to the article?",
+      "options": [
+        "Space is the most fundamental concept at the foundation of geography, while place synthesizes coordinates, human activity and meaning, and relationships with other locations.",
+        "Place is the most fundamental concept at the foundation of geography, while space synthesizes coordinates, human activity and meaning, and relationships with other locations.",
+        "Space and place are synonymous terms in geography, both referring to the exact spatial coordinates of objects.",
+        "Space refers only to human meanings ascribed to locations, while place refers only to physical phenomena occurring in space."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that space is the most fundamental concept at the foundation of geography, and describes place as a complex synthesis involving coordinates, activity and use, human meaning, and spatial relationships with other locations.",
+        "Incorrect. The article identifies space, not place, as the most fundamental concept at the foundation of geography.",
+        "Incorrect. The article treats space and place as distinct concepts; place is described as far more complex than mere coordinates.",
+        "Incorrect. The article states that space is the fundamental concept for describing phenomena spatially, while place includes both physical phenomena and human meanings."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, how does time function in geography beyond serving as a historical record?",
+      "options": [
+        "Time models the dynamic movement of people, organisms, and things through space and facilitates movement through a system.",
+        "Time is irrelevant to geography because it belongs exclusively to the domain of history.",
+        "Time in geography is limited to recording events at discrete coordinates without considering movement.",
+        "Time constrains geography only by determining the scale at which maps are drawn."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that time in geography is more than just the historical record of events at discrete coordinates; it also includes modeling the dynamic movement of people, organisms, and things through space.",
+        "Incorrect. The article explicitly states that time is a significant concern in geography, even though it is usually considered within the domain of history.",
+        "Incorrect. The article says time is more than just recording events at discrete coordinates; it also models dynamic movement.",
+        "Incorrect. The article does not link time to map scale; it links time to movement through space and the paths that can be taken."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT one of the four traditions of geography proposed by William D. Pattison in 1964?",
+      "options": [
+        "The Quantitative Tradition",
+        "The Spatial or Locational Tradition",
+        "The Man-Land or Human-Environment Interaction Tradition",
+        "The Area Studies or Regional Tradition"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the Spatial or Locational Tradition, the Man-Land or Human-Environment Interaction Tradition, the Area Studies or Regional Tradition, and the Earth Science Tradition; it does not mention a Quantitative Tradition.",
+        "Incorrect. The article explicitly identifies the Spatial or Locational Tradition as one of Pattison's four traditions.",
+        "Incorrect. The article explicitly identifies the Man-Land or Human-Environment Interaction Tradition as one of Pattison's four traditions.",
+        "Incorrect. The article explicitly identifies the Area Studies or Regional Tradition as one of Pattison's four traditions."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, how do the branches of physical geography, human geography, and technical geography relate to one another?",
+      "options": [
+        "They use similar philosophies, concepts, and tools, often overlap significantly, and geographers typically use one as a primary focus while incorporating methods from the others.",
+        "They are entirely separate disciplines with no shared concepts, tools, or overlapping subject matter.",
+        "Technical geography is a sub-branch of physical geography, and human geography is a sub-branch of technical geography.",
+        "Physical geography and human geography are the only branches; technical geography is merely a technique used within them."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that these branches use similar geographic philosophies, concepts, and tools, often overlap significantly, and geographers rarely focus on just one topic but use one as a primary focus while incorporating data and methods from the others.",
+        "Incorrect. The article explicitly states that the branches often overlap significantly and share philosophies, concepts, and tools.",
+        "Incorrect. The article presents the three branches as parallel categories, not as sub-branches of one another.",
+        "Incorrect. The article identifies technical geography as a distinct branch alongside physical and human geography, not merely as a technique."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the central claim of the uncertainty principle as a proposed law of geography?",
+      "options": [
+        "The geographic world is infinitely complex, so any representation contains uncertainty, definitions are vague, and exact location measurement is impossible.",
+        "Everything is related to everything else, but near things are more related than distant things.",
+        "Geographic variables exhibit uncontrolled variance across space.",
+        "The phenomenon external to a geographic area affects what goes on inside that area."
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes the uncertainty principle as stating that the geographic world is infinitely complex, representations must contain uncertainty, definitions contain vagueness, and exact location measurement is impossible.",
+        "Incorrect. This quote describes Tobler's first law of geography, not the uncertainty principle.",
+        "Incorrect. This quote describes spatial heterogeneity, not the uncertainty principle.",
+        "Incorrect. This quote describes Tobler's second law of geography, not the uncertainty principle."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what does the term \"place\" encompass in physical geography?",
+      "options": [
+        "All the physical phenomena occurring in space, including the lithosphere, atmosphere, hydrosphere, and biosphere.",
+        "Only the human meanings and activities ascribed to a location.",
+        "Only the exact spatial coordinates of a location on Earth's surface.",
+        "Only the relationships between a location and other locations, excluding physical phenomena."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in physical geography, a place encompasses all the physical phenomena occurring in space, including the lithosphere, atmosphere, hydrosphere, and biosphere.",
+        "Incorrect. Human meanings and activities are part of place in human geography, not the sole focus in physical geography.",
+        "Incorrect. Coordinates are only one component of place; physical geography encompasses all physical phenomena occurring in space.",
+        "Incorrect. The article states that place includes physical phenomena and their relationships with other locations, not relationships alone."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is the primary focus of technical geography?",
+      "options": [
+        "Studying and developing the tools and techniques used by geographers, such as remote sensing, cartography, and geographic information systems.",
+        "Examining the natural environment and how organisms, climate, soil, water, and landforms produce and interact.",
+        "Focusing on the built environment and how humans create, view, manage, and influence space.",
+        "Combining physical and human geography to study interactions between the environment and humans."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that technical geography involves studying and developing the tools and techniques used by geographers, such as remote sensing, cartography, and geographic information systems.",
+        "Incorrect. This describes physical geography, not technical geography.",
+        "Incorrect. This describes human geography, not technical geography.",
+        "Incorrect. This describes integrated geography, not technical geography."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what did the 2nd edition of \"Key Concepts in Geography\" add to the key concepts from the 1st edition?",
+      "options": [
+        "Environmental systems, Social Systems, Nature, Globalization, Development, and Risk.",
+        "Space, Place, Time, Scale, and Landscape.",
+        "Location, place, relationships within places, movement, and regions.",
+        "Spatial analysis, Human-Environment Interaction, Area Studies, and Earth Science."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the 2nd edition expanded on the key concepts by adding Environmental systems, Social Systems, Nature, Globalization, Development, and Risk.",
+        "Incorrect. These are the concepts from the 1st edition, not the additions in the 2nd edition.",
+        "Incorrect. These are the Five themes of geography, not concepts from the 2nd edition of \"Key Concepts in Geography.\"",
+        "Incorrect. These are the Four traditions of geography proposed by William D. Pattison, not concepts from the book."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Based on the article's discussion of scale, which scenario best illustrates how scale functions as a frame for understanding a place?",
+      "options": [
+        "A researcher studying a city at the neighborhood scale observes different social patterns than when studying the same city at the metropolitan scale.",
+        "A cartographer enlarges a map so that distances on the ground appear larger.",
+        "A geographer uses GPS coordinates to pinpoint the exact location of a building.",
+        "A historian documents how a city's population changed over a hundred years."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that phenomena being investigated appear different depending on the scale used, and scale is the frame geographers use to measure space and understand a place; studying the same city at different scales would reveal different patterns.",
+        "Incorrect. Simply enlarging a map changes the map's ratio but does not illustrate how scale frames the investigation of phenomena or understanding of a place.",
+        "Incorrect. Using GPS coordinates relates to absolute space and location, not to scale as a frame for understanding a place.",
+        "Incorrect. Documenting population change over time relates to the concept of time in geography, not to scale."
+      ]
+    }
+  ]
+}

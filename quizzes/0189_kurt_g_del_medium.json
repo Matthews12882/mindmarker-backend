@@ -1,0 +1,167 @@
+{
+  "article_id": "0189",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does GÃ¶del's incompleteness theorem imply about a formal axiomatic system satisfying certain technical conditions?",
+      "options": [
+        "It cannot decide the truth value of all statements about the natural numbers, and cannot prove that it is itself consistent.",
+        "It can prove every true statement about the natural numbers and its own consistency.",
+        "It can decide all statements about natural numbers but cannot prove its own consistency.",
+        "It cannot prove any statements about natural numbers but can prove its own consistency."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the incompleteness theorems imply that such a system \"cannot decide the truth value of all statements about the natural numbers, and cannot prove that it is itself consistent.\"",
+        "Incorrect. The article states the opposite: such systems cannot decide all truth values and cannot prove their own consistency.",
+        "Incorrect. The article states that the system cannot decide all truth values about natural numbers, not that it can.",
+        "Incorrect. The article states that such systems cannot prove their own consistency, not that they can."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What technique did GÃ¶del develop to prove his incompleteness theorems?",
+      "options": [
+        "GÃ¶del numbering, which codes formal expressions as natural numbers.",
+        "The constructible universe, which models set theory.",
+        "Recursive functions, which describe computable functions.",
+        "Omega-consistency, which defines a property of formal systems."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that \"To prove this, GÃ¶del developed a technique now known as GÃ¶del numbering, which codes formal expressions as natural numbers.\"",
+        "Incorrect. The constructible universe was introduced later in his work on the axiom of choice and continuum hypothesis, not for proving the incompleteness theorems.",
+        "Incorrect. Recursive functions were developed during his U.S. visits, not as the technique for proving the incompleteness theorems.",
+        "Incorrect. Omega-consistency is a technical condition mentioned in relation to the theorems, not a technique GÃ¶del developed to prove them."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What did GÃ¶del show about the axiom of choice and the continuum hypothesis in relation to ZermeloâFraenkel set theory?",
+      "options": [
+        "Neither can be disproved from ZermeloâFraenkel set theory, assuming its axioms are consistent.",
+        "Both can be disproved from ZermeloâFraenkel set theory.",
+        "The axiom of choice can be disproved, but the continuum hypothesis cannot.",
+        "The continuum hypothesis can be disproved, but the axiom of choice cannot."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that GÃ¶del showed \"neither the axiom of choice nor the continuum hypothesis can be disproved from the accepted ZermeloâFraenkel set theory, assuming that its axioms are consistent.\"",
+        "Incorrect. The article states that neither can be disproved, not that both can be disproved.",
+        "Incorrect. The article states that the axiom of choice cannot be disproved, not that it can be.",
+        "Incorrect. The article states that the continuum hypothesis cannot be disproved, not that it can be."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What was the title of GÃ¶del's paper in which he published his incompleteness theorems?",
+      "options": [
+        "Ãber formal unentscheidbare SÃ¤tze der Principia Mathematica und verwandter Systeme",
+        "GrundzÃ¼ge der theoretischen Logik",
+        "On Formally Undecidable Propositions of Principia Mathematica and Related Systems",
+        "Consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that GÃ¶del published his incompleteness theorems in \"Ãber formal unentscheidbare SÃ¤tze der Principia Mathematica und verwandter Systeme.\"",
+        "Incorrect. GrundzÃ¼ge der theoretischen Logik was published by Hilbert and Ackermann in 1928, not by GÃ¶del.",
+        "Incorrect. On Formally Undecidable Propositions of Principia Mathematica and Related Systems is the English title, not the title of the paper as published.",
+        "Incorrect. This was the title of a later paper published during his 1938 U.S. visit, not the incompleteness theorems paper."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What nickname was Kurt GÃ¶del given in his family, and why?",
+      "options": [
+        "Herr Warum (\"Mr. Why\") because of his insatiable curiosity.",
+        "Herr Logik (\"Mr. Logic\") because of his interest in mathematical logic.",
+        "Herr Beweis (\"Mr. Proof\") because of his work on proof theory.",
+        "Herr Zahl (\"Mr. Number\") because of his interest in number theory."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that \"In his family, the young GÃ¶del was nicknamed Herr Warum (\"Mr. Why\") because of his insatiable curiosity.\"",
+        "Incorrect. The article does not mention this nickname; his family nickname was Herr Warum.",
+        "Incorrect. The article does not mention this nickname; his family nickname was Herr Warum.",
+        "Incorrect. The article does not mention this nickname; his family nickname was Herr Warum."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What event triggered a severe nervous crisis in GÃ¶del in 1936?",
+      "options": [
+        "The murder of Moritz Schlick by one of his former students.",
+        "The annexation of Austria by Nazi Germany.",
+        "The death of Albert Einstein.",
+        "The collapse of the Austro-Hungarian Empire."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in June 1936, Moritz Schlick was murdered by Johann NelbÃ¶ck, and \"This triggered 'a severe nervous crisis' in GÃ¶del.\"",
+        "Incorrect. The annexation of Austria occurred in 1938, not 1936.",
+        "Incorrect. Albert Einstein did not die in 1936; he became a friend of GÃ¶del's during GÃ¶del's 1933 U.S. visit.",
+        "Incorrect. The collapse of the Austro-Hungarian Empire occurred after World War I, long before 1936."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What did GÃ¶del introduce in his 1938 paper on the consistency of the axiom of choice and the generalized continuum hypothesis?",
+      "options": [
+        "The constructible universe, a model of set theory in which only constructible sets exist.",
+        "GÃ¶del numbering, a method to encode formal expressions as natural numbers.",
+        "Omega-consistency, a property of formal axiomatic systems.",
+        "Recursive functions, a concept in computability theory."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in his 1938 paper, GÃ¶del \"introduced the constructible universe, a model of set theory in which the only sets that exist are those that can be constructed from simpler sets.\"",
+        "Incorrect. GÃ¶del numbering was developed earlier for the incompleteness theorems, not introduced in the 1938 paper.",
+        "Incorrect. Omega-consistency is mentioned in relation to the incompleteness theorems, not introduced in the 1938 paper.",
+        "Incorrect. Recursive functions were developed during his 1933 U.S. visit, not introduced in the 1938 paper."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did GÃ¶del's completeness theorem, established in his 1929 doctoral dissertation, concern?",
+      "options": [
+        "First-order logic.",
+        "Second-order logic.",
+        "Intuitionistic logic.",
+        "Modal logic."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in his doctoral dissertation, GÃ¶del established his completeness theorem \"regarding first-order logic.\"",
+        "Incorrect. The article mentions that his completeness result does not generalize to higher-order logic, but the theorem itself concerned first-order logic.",
+        "Incorrect. The article does not state that the completeness theorem concerned intuitionistic logic.",
+        "Incorrect. The article does not state that the completeness theorem concerned modal logic."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What did GÃ¶del construct to demonstrate the existence of true but unprovable statements in formal systems?",
+      "options": [
+        "A formula that claims it is itself unprovable in a given formal system.",
+        "A model of set theory called the constructible universe.",
+        "A method to encode statements as natural numbers called GÃ¶del numbering.",
+        "A proof that intuitionistic logic is not finite-valued."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that \"GÃ¶del constructed a formula that claims it is itself unprovable in a given formal system. If it were provable, it would be false. Thus there will always be at least one true but unprovable statement.\"",
+        "Incorrect. The constructible universe was introduced in his later work on set theory, not to demonstrate true but unprovable statements.",
+        "Incorrect. GÃ¶del numbering was the encoding method used to make the proof precise, not the formula itself that claims unprovability.",
+        "Incorrect. The paper on intuitionistic logic refuted finite-valuedness, which is unrelated to constructing true but unprovable statements."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What did GÃ¶del's incompleteness theorems end?",
+      "options": [
+        "A half-century of attempts to find a non-relatively consistent axiomatization sufficient for number theory.",
+        "The Vienna Circle's discussions on logical positivism.",
+        "Hilbert's program to prove the consistency of arithmetic.",
+        "The debate over the axiom of choice in set theory."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that \"These theorems ended a half-century of attempts, beginning with the work of Frege and culminating in Principia Mathematica and Hilbert's program, to find a non-relatively consistent axiomatization sufficient for number theory.\"",
+        "Incorrect. The article does not state that the theorems ended the Vienna Circle's discussions.",
+        "Incorrect. While Hilbert's program was part of the attempts that ended, the article describes the broader half-century of attempts, not just Hilbert's program alone.",
+        "Incorrect. The article does not state that the theorems ended the debate over the axiom of choice."
+      ]
+    }
+  ]
+}

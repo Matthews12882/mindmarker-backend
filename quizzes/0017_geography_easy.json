@@ -1,0 +1,167 @@
+{
+  "article_id": "0017",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is geography defined as in the article?",
+      "options": [
+        "the study of the lands, features, inhabitants, and phenomena of planet Earth",
+        "the study of human societies and their cultures",
+        "the study of weather patterns and climate change",
+        "the study of maps and cartography alone"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that geography is \"the study of the lands, features, inhabitants, and phenomena of planet Earth.\"",
+        "Incorrect. The article does not define geography as the study of human societies and their cultures.",
+        "Incorrect. The article does not define geography as the study of weather patterns and climate change.",
+        "Incorrect. While cartography is mentioned as a technique, geography is not defined as the study of maps alone."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Who may have coined the term \"geographia\"?",
+      "options": [
+        "Eratosthenes",
+        "Claudius Ptolemy",
+        "Muhammad al-Idrisi",
+        "William D. Pattison"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that origins of many concepts in geography can be traced to Greek Eratosthenes of Cyrene, who may have coined the term \"geographia.\"",
+        "Incorrect. Claudius Ptolemy is noted for the first recorded use of the word Î³ÎµÏÎ³ÏÎ±ÏÎ¯Î± as a book title, not for coining \"geographia.\"",
+        "Incorrect. Muhammad al-Idrisi is mentioned as an Islamic scholar who produced detailed maps, not as the coiner of \"geographia.\"",
+        "Incorrect. William D. Pattison proposed the \"Four traditions of Geography\" in 1964, not the term \"geographia.\""
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What are the four core concepts of geography consistent across all approaches?",
+      "options": [
+        "space, place, time, and scale",
+        "location, movement, region, and human-environment interaction",
+        "physical, human, technical, and integrated",
+        "cartography, remote sensing, interviews, and surveying"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The core concepts of geography that are consistent across all approaches are space, place, time, and scale.\"",
+        "Incorrect. Location, movement, region, and human-environment interaction are part of the Five themes of geography, not the four core concepts.",
+        "Incorrect. Physical, human, and technical geography are described as main branches, not core concepts.",
+        "Incorrect. Cartography, remote sensing, interviews, and surveying are listed as common techniques, not core concepts."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does physical geography focus on?",
+      "options": [
+        "the natural environment",
+        "how humans interact with the Earth",
+        "developing tools for understanding geography",
+        "the built environment and human use of space"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that physical geography focuses on the natural environment.",
+        "Incorrect. Human geography focuses on how humans interact with the Earth, not physical geography.",
+        "Incorrect. Technical geography focuses on developing tools for understanding geography.",
+        "Incorrect. The built environment and human use of space are associated with human geography."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is listed as a common technique in geography?",
+      "options": [
+        "cartography",
+        "laboratory experimentation",
+        "statistical modeling",
+        "archaeological excavation"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists cartography among common techniques, along with remote sensing, interviews, and surveying.",
+        "Incorrect. Laboratory experimentation is not mentioned as a common technique in the article.",
+        "Incorrect. Statistical modeling is not listed as a common technique in the article.",
+        "Incorrect. Archaeological excavation is not mentioned as a common technique in the article."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What are the five themes of geography?",
+      "options": [
+        "Location, place, relationships within places, movement, and regions",
+        "space, place, time, scale, and landscape",
+        "physical, human, technical, integrated, and regional",
+        "absolute space, relative space, place, time, and scale"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the five themes are Location, place, relationships within places (often summarized as Human-Environment Interaction), movement, and regions.",
+        "Incorrect. Space, place, time, scale, and landscape are concepts from the book \"Key Concepts in Geography,\" not the five themes.",
+        "Incorrect. Physical, human, technical, integrated, and regional are branches or traditions, not the five themes.",
+        "Incorrect. Absolute space and relative space are not part of the five themes of geography."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is Tobler's first law of geography?",
+      "options": [
+        "\"Everything is related to everything else, but near things are more related than distant.\"",
+        "\"The phenomenon external to a geographic area of interest affects what goes on inside.\"",
+        "\"Everything is related to everything else, but things observed at a coarse spatial resolution are more related than things observed at a finer resolution.\"",
+        "\"Geographic variables exhibit uncontrolled variance.\""
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes Tobler's first law of geography as: \"Everything is related to everything else, but near things are more related than distant.\"",
+        "Incorrect. This quote is Tobler's second law of geography, not the first law.",
+        "Incorrect. This quote is Arbia's law of geography, not Tobler's first law.",
+        "Incorrect. This describes spatial heterogeneity, not Tobler's first law."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is scale in the context of a map?",
+      "options": [
+        "the ratio between a distance measured on the map and the corresponding distance on the ground",
+        "the size of the area being studied",
+        "the number of features shown on a map",
+        "the time period covered by a map"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines scale as \"the ratio between a distance measured on the map and the corresponding distance as measured on the ground.\"",
+        "Incorrect. The article does not define scale as the size of the area being studied.",
+        "Incorrect. The article does not define scale as the number of features shown on a map.",
+        "Incorrect. The article does not define scale as the time period covered by a map."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does human geography focus on?",
+      "options": [
+        "how humans interact with the Earth",
+        "the natural environment",
+        "developing tools for understanding geography",
+        "the lithosphere, atmosphere, hydrosphere, and biosphere"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that human geography focuses on how humans interact with the Earth.",
+        "Incorrect. Physical geography focuses on the natural environment.",
+        "Incorrect. Technical geography focuses on developing tools for understanding geography.",
+        "Incorrect. The lithosphere, atmosphere, hydrosphere, and biosphere are associated with physical geography."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does technical geography focus on?",
+      "options": [
+        "developing tools for understanding geography",
+        "the natural environment",
+        "how humans interact with the Earth",
+        "the built environment and human use of space"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that technical geography focuses on developing tools for understanding geography.",
+        "Incorrect. Physical geography focuses on the natural environment.",
+        "Incorrect. Human geography focuses on how humans interact with the Earth.",
+        "Incorrect. The built environment and human use of space are associated with human geography."
+      ]
+    }
+  ]
+}

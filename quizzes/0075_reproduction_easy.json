@@ -1,0 +1,167 @@
+{
+  "article_id": "0075",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the two forms of reproduction mentioned in the article?",
+      "options": [
+        "asexual and sexual",
+        "binary and mitotic",
+        "internal and external",
+        "natural and artificial"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'There are two forms of reproduction: asexual and sexual.'",
+        "Incorrect. The article does not describe 'binary and mitotic' as the two forms of reproduction.",
+        "Incorrect. The article does not describe 'internal and external' as the two forms of reproduction.",
+        "Incorrect. The article does not describe 'natural and artificial' as the two forms of reproduction."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does an organism create through asexual reproduction?",
+      "options": [
+        "a genetically similar or identical copy of itself",
+        "a genetically unique offspring",
+        "a fertilized zygote",
+        "a haploid gamete"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'By asexual reproduction, an organism creates a genetically similar or identical copy of itself.'",
+        "Incorrect. Genetically unique offspring are associated with sexual reproduction, not asexual reproduction.",
+        "Incorrect. A fertilized zygote results from sexual reproduction, not asexual reproduction.",
+        "Incorrect. Haploid gametes are involved in sexual reproduction, not asexual reproduction."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a form of asexual reproduction?",
+      "options": [
+        "cloning",
+        "fertilization",
+        "meiosis",
+        "cross-pollination"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The cloning of an organism is a form of asexual reproduction.'",
+        "Incorrect. Fertilization is part of sexual reproduction, not asexual reproduction.",
+        "Incorrect. Meiosis is associated with sexual reproduction and gamete formation.",
+        "Incorrect. Cross-pollination is a form of sexual reproduction in plants."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What do gametes contain compared to somatic cells?",
+      "options": [
+        "half the number of chromosomes",
+        "twice the number of chromosomes",
+        "the same number of chromosomes",
+        "no chromosomes"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that gametes 'contain half the number of chromosomes of somatic cells'.",
+        "Incorrect. Gametes contain half, not twice, the number of chromosomes of somatic cells.",
+        "Incorrect. Gametes do not contain the same number of chromosomes as somatic cells.",
+        "Incorrect. Gametes do contain chromosomes, just half the number found in somatic cells."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which cell typically fertilizes an egg cell in sexual reproduction?",
+      "options": [
+        "a sperm cell",
+        "a somatic cell",
+        "a zygote",
+        "a gamete from the same parent"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'with typically a sperm cell fertilizing an egg cell of the same species to create a fertilized zygote.'",
+        "Incorrect. Somatic cells are not involved in fertilizing an egg cell.",
+        "Incorrect. A zygote is the result of fertilization, not the cell that fertilizes the egg.",
+        "Incorrect. Fertilization involves gametes from two parents, not from the same parent."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How do bacteria divide asexually?",
+      "options": [
+        "via binary fission",
+        "by budding",
+        "through spore formation",
+        "by conjugation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Bacteria divide asexually via binary fission'.",
+        "Incorrect. Budding is mentioned for Hydras and yeasts, not bacteria.",
+        "Incorrect. Spore formation is listed as another way of asexual reproduction but is not specified as how bacteria divide.",
+        "Incorrect. Conjugation is described as a way bacteria exchange genetic information, not as their method of asexual division."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is parthenogenesis?",
+      "options": [
+        "the growth and development of an embryo or seed without fertilization",
+        "the fusion of two gametes from different parents",
+        "the division of a cell into two identical cells",
+        "the transfer of pollen between flowers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Parthenogenesis is the growth and development of embryo or seed without fertilization.'",
+        "Incorrect. The fusion of two gametes from different parents describes sexual reproduction, not parthenogenesis.",
+        "Incorrect. The division of a cell into two identical cells describes mitosis, not parthenogenesis.",
+        "Incorrect. The transfer of pollen between flowers describes pollination, not parthenogenesis."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which organisms reproduce sexually according to the article?",
+      "options": [
+        "most animals and plants",
+        "only bacteria and viruses",
+        "only single-celled organisms",
+        "only fungi and protists"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Most animals (including humans) and plants reproduce sexually.'",
+        "Incorrect. Bacteria and viruses are described as reproducing asexually, not exclusively sexually.",
+        "Incorrect. Single-celled organisms are mentioned in the context of asexual reproduction, not as the only sexual reproducers.",
+        "Incorrect. Fungi are mentioned as having mating types, but the article does not state that only fungi and protists reproduce sexually."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the result of mitosis in terms of chromosome number in offspring cells?",
+      "options": [
+        "the same as that of the parent cell",
+        "half the number of the parent cell",
+        "twice the number of the parent cell",
+        "one-quarter the number of the parent cell"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The number of chromosomes in the offspring cells is the same as that of the parent cell.'",
+        "Incorrect. Half the number of chromosomes is the result of meiosis, not mitosis.",
+        "Incorrect. Twice the number of chromosomes is not the result of mitosis described in the article.",
+        "Incorrect. One-quarter the number of chromosomes is not mentioned as a result of mitosis."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is the result of meiosis in terms of chromosome number?",
+      "options": [
+        "cells with half the number of chromosomes present in the parent cell",
+        "cells with the same number of chromosomes as the parent cell",
+        "cells with twice the number of chromosomes as the parent cell",
+        "cells with no chromosomes"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'This results in cells with half the number of chromosomes present in the parent cell.'",
+        "Incorrect. The same number of chromosomes is the result of mitosis, not meiosis.",
+        "Incorrect. Twice the number of chromosomes is not the result of meiosis described in the article.",
+        "Incorrect. Meiosis produces haploid cells with chromosomes, not cells with no chromosomes."
+      ]
+    }
+  ]
+}

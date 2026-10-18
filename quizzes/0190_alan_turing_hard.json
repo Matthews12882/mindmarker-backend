@@ -1,0 +1,167 @@
+{
+  "article_id": "0190",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what did Turing's headmaster at Sherborne imply about Turing's educational path?",
+      "options": [
+        "If Turing stayed at public school, he should aim to become broadly educated rather than solely a scientific specialist",
+        "Turing should leave public school immediately to focus exclusively on scientific study",
+        "Turing's talent in mathematics made him unsuitable for any form of public schooling",
+        "Turing needed to study the classics to avoid falling behind in all subjects"
+      ],
+      "answer_explanations": [
+        "Correct. The headmaster wrote: \"If he is to stay at public school, he must aim at becoming *educated*. If he is to be solely a *Scientific Specialist*, he is wasting his time at a public school\".",
+        "Incorrect. The headmaster did not advise Turing to leave public school; he outlined conditions for staying.",
+        "Incorrect. The headmaster criticized Turing's narrow focus but did not say he was unsuitable for public schooling altogether.",
+        "Incorrect. While the headmaster valued classics, the quoted letter does not state that Turing needed to study classics to avoid falling behind in all subjects."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Based on the article, what was the significance of King's College, Cambridge's examination approach for Turing's admission?",
+      "options": [
+        "Its examiners looked for \"a spark of originality\" and used unorthodox questions, which benefited candidates like Turing from non-Eton schools",
+        "It reserved all places exclusively for Etonians, making admission impossible for Turing",
+        "It required candidates to have already published mathematical papers",
+        "It tested only knowledge of the classics, which disadvantaged Turing"
+      ],
+      "answer_explanations": [
+        "Correct. The article states King's examiners looked for \"a spark of originality\" and that papers were \"notorious for their unorthodox questions\", helping Turing despite the college's Etonian link.",
+        "Incorrect. King's reserved most, not all, places for Etonians, and Turing was admitted.",
+        "Incorrect. The article does not mention a publication requirement for admission.",
+        "Incorrect. The article describes King's mathematical focus, not a classics-only examination."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article indicate about the originality of Turing's dissertation on the Gaussian error function?",
+      "options": [
+        "Although Lindeberg had already proven the theorem in 1922, the committee regarded Turing's methods as original",
+        "Turing's proof was entirely novel and predated all similar work",
+        "The committee rejected it because it duplicated Lindeberg's 1922 result",
+        "Turing knowingly copied Lindeberg's proof without attribution"
+      ],
+      "answer_explanations": [
+        "Correct. The article notes Lindeberg proved the theorem in 1922, but the committee found Turing's methods original and worthy of fellowship consideration.",
+        "Incorrect. The article explicitly states Lindeberg had already proven the theorem in 1922.",
+        "Incorrect. The committee accepted the work and supported Turing's fellowship election.",
+        "Incorrect. The article does not suggest Turing knowingly copied Lindeberg's work."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article suggest about the relationship between Turing's 1936 work on decidability and Alonzo Church's work?",
+      "options": [
+        "They reached similar conclusions independently around the same time",
+        "Turing based his work directly on Church's published paper",
+        "Church's work was entirely unrelated to Turing's investigations",
+        "Turing's work was published before Church's and influenced it"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that between the springs of 1935 and 1936, Turing worked on decidability at the same time as Alonzo Church, and Church published similar conclusions in April 1936 while Turing's work was still unpublished.",
+        "Incorrect. The article describes parallel work, not Turing basing his work on Church's paper.",
+        "Incorrect. The article explicitly notes their conclusions were similar.",
+        "Incorrect. Church published in April 1936 while Turing's work was still unpublished."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "If a modern historian wanted to argue that Turing's wartime cryptanalytic work influenced the outcome of the Battle of the Atlantic, which detail from the article would best support that argument?",
+      "options": [
+        "The intelligence from decrypting Enigma, known as Ultra, proved helpful in the Battle of the Atlantic",
+        "Turing designed the Automatic Computing Engine after the war",
+        "Turing was head of Hut 8 at Bletchley Park",
+        "Turing's techniques improved on the Polish bomba method"
+      ],
+      "answer_explanations": [
+        "Correct. The article directly states that Ultra intelligence \"proved helpful in the Battle of the Atlantic\".",
+        "Incorrect. The Automatic Computing Engine was designed after the war and is unrelated to the Battle of the Atlantic.",
+        "Incorrect. Being head of Hut 8 establishes his role but does not directly link his work to the battle's outcome.",
+        "Incorrect. Improving on the bomba method describes his technique but does not directly connect to the Battle of the Atlantic."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Based on the article, what was the consequence of Turing's 1952 prosecution for gross indecency?",
+      "options": [
+        "He received probation conditional on chemical castration and lost his security clearance",
+        "He was imprisoned and stripped of all academic titles",
+        "He was immediately pardoned by the monarch",
+        "He was exiled from the United Kingdom"
+      ],
+      "answer_explanations": [
+        "Correct. The article states he received probation conditional on chemical castration and lost his security clearance.",
+        "Incorrect. The article does not mention imprisonment or stripping of academic titles.",
+        "Incorrect. The pardon was granted by Queen Elizabeth II in 2013, not immediately after the prosecution.",
+        "Incorrect. The article does not mention exile."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following best describes how the article characterizes Turing's contribution to theoretical computer science?",
+      "options": [
+        "He formalized the concepts of algorithm and computation with the Turing machine, a model of a general-purpose computer",
+        "He invented the first physical electronic digital computer",
+        "He created the first high-level programming language",
+        "He founded the field of artificial intelligence single-handedly"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Turing formalized the concepts of algorithm and computation with the Turing machine, a model of a general-purpose computer.",
+        "Incorrect. The article does not credit him with inventing the first physical electronic digital computer.",
+        "Incorrect. The article does not mention him creating a high-level programming language.",
+        "Incorrect. While he contributed the Turing test to AI philosophy, the article does not say he founded AI single-handedly."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "If a biologist were applying Turing's concept of Turing patterns to explain animal coat markings, which idea from the article would be most relevant?",
+      "options": [
+        "Turing contributed the Turing pattern concept to mathematical and theoretical biology",
+        "Turing worked on the chemical basis of morphogenesis and theorized chemical oscillators",
+        "Turing's work on Enigma decryption aided the Allied war effort",
+        "Turing proposed the Turing test for machine intelligence"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Turing contributed the Turing pattern concept to mathematical and theoretical biology, which is directly relevant to biological pattern formation.",
+        "Incorrect. While related to morphogenesis, this describes his work on chemical oscillators rather than the Turing pattern concept itself.",
+        "Incorrect. This concerns wartime cryptanalysis, not biological patterning.",
+        "Incorrect. This concerns artificial intelligence, not biological patterns."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the article indicate about the status of Turing's wartime work during his lifetime?",
+      "options": [
+        "It was covered by the Official Secrets Act and went unrecognised during his lifetime",
+        "It was publicly celebrated and earned him immediate honors",
+        "It was classified but widely known among the general public",
+        "It was deliberately destroyed after the war"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his wartime work, covered by the Official Secrets Act, went unrecognised during his lifetime.",
+        "Incorrect. The article says the opposite: it went unrecognised during his lifetime.",
+        "Incorrect. The article indicates it was secret and unrecognised, not widely known.",
+        "Incorrect. The article does not mention his work being destroyed."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Based on the article, what was the purpose of the Alan Turing law?",
+      "options": [
+        "To retroactively pardon men cautioned or convicted under the criminalisation of homosexual acts",
+        "To grant a posthumous pardon specifically to Alan Turing",
+        "To issue an official government apology for Turing's treatment",
+        "To establish memorials honoring Turing's scientific legacy"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Alan Turing law refers to part of a 2017 UK law that retroactively pardoned men cautioned or convicted under the criminalisation of homosexual acts.",
+        "Incorrect. Turing's individual pardon was granted by Queen Elizabeth II in 2013 under the royal prerogative of mercy, separate from the Alan Turing law.",
+        "Incorrect. The official apology was issued by Prime Minister Gordon Brown in 2009, not by the Alan Turing law.",
+        "Incorrect. The article does not link the Alan Turing law to the establishment of memorials."
+      ]
+    }
+  ]
+}

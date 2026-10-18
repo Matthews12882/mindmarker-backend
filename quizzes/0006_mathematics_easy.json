@@ -1,0 +1,167 @@
+{
+  "article_id": "0006",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is mathematics concerned with?",
+      "options": [
+        "abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities",
+        "only numbers and geometric shapes",
+        "only physical objects and experiments",
+        "only computer programming and technology"
+      ],
+      "answer_explanations": [
+        "Correct. The article states mathematics is concerned with abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities.",
+        "Incorrect. The article lists more than just numbers and geometric shapes.",
+        "Incorrect. Mathematics studies abstract concepts, not only physical objects.",
+        "Incorrect. The article does not limit mathematics to computer programming and technology."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does mathematics use to study and establish properties of abstract concepts?",
+      "options": [
+        "logical reasoning and proof",
+        "experimentation and observation",
+        "intuition and guesswork",
+        "empirical data alone"
+      ],
+      "answer_explanations": [
+        "Correct. The article says mathematics uses logical reasoning and proof to study and establish properties.",
+        "Incorrect. The article states results are established by deductive proof rather than by experiment.",
+        "Incorrect. Mathematics relies on proof, not guesswork.",
+        "Incorrect. The article emphasizes deductive proof rather than empirical data alone."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which area of mathematics is described as the study of integers and their properties?",
+      "options": [
+        "number theory",
+        "algebra",
+        "geometry",
+        "analysis"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies number theory as the study of integers and their properties.",
+        "Incorrect. Algebra is described as the study of operations and the structures they form.",
+        "Incorrect. Geometry is described as the study of shapes and spaces.",
+        "Incorrect. Analysis is described as the quantitative study of approximation and convergence."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What are axioms in mathematics?",
+      "options": [
+        "properties stipulated for purely abstract entities",
+        "results proven through experimentation",
+        "theorems that have been disproven",
+        "computer algorithms used in calculation"
+      ],
+      "answer_explanations": [
+        "Correct. The article calls axioms certain properties stipulated for purely abstract entities.",
+        "Incorrect. Axioms are not proven through experimentation.",
+        "Incorrect. Axioms are not disproven theorems.",
+        "Incorrect. The article does not describe axioms as computer algorithms."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What are theorems in mathematics?",
+      "options": [
+        "results established through proofs",
+        "unproven guesses about numbers",
+        "experimental findings in science",
+        "basic arithmetic operations"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines theorems as results established through proofs.",
+        "Incorrect. Theorems are proved results, not unproven guesses.",
+        "Incorrect. Theorems are mathematical results, not experimental findings.",
+        "Incorrect. Theorems are not simply basic arithmetic operations."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "In which ancient civilizations did mathematical written records first appear?",
+      "options": [
+        "Ancient Egypt and Mesopotamia",
+        "ancient Rome and Greece",
+        "ancient China and India",
+        "medieval Europe"
+      ],
+      "answer_explanations": [
+        "Correct. The article states mathematical written records first appeared in Ancient Egypt and Mesopotamia.",
+        "Incorrect. The article names Ancient Egypt and Mesopotamia, not Rome and Greece.",
+        "Incorrect. The article does not mention ancient China and India as the first appearance.",
+        "Incorrect. The article refers to ancient civilizations, not medieval Europe."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Where did the concept of proof and mathematical rigor begin?",
+      "options": [
+        "ancient Greek mathematics",
+        "Ancient Egypt",
+        "Mesopotamia",
+        "16th century Europe"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the concept of proof and mathematical rigor began in ancient Greek mathematics.",
+        "Incorrect. Ancient Egypt is mentioned for written records, not the concept of proof.",
+        "Incorrect. Mesopotamia is mentioned for written records, not the concept of proof.",
+        "Incorrect. The article traces proof to ancient Greek mathematics, not 16th century Europe."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did the foundational crisis of mathematics at the end of the 19th century lead to?",
+      "options": [
+        "the systematic use of the axiomatic method",
+        "the abandonment of proofs",
+        "the end of mathematical research",
+        "the replacement of mathematics by physics"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the foundational crisis led to the systematic use of the axiomatic method.",
+        "Incorrect. The article does not say proofs were abandoned.",
+        "Incorrect. The article describes an increase in mathematical areas, not an end to research.",
+        "Incorrect. The article does not say mathematics was replaced by physics."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Before the Renaissance, into which two main areas was mathematics divided?",
+      "options": [
+        "arithmetic and geometry",
+        "algebra and calculus",
+        "number theory and set theory",
+        "analysis and topology"
+      ],
+      "answer_explanations": [
+        "Correct. The article states mathematics was divided into arithmetic and geometry before the Renaissance.",
+        "Incorrect. Algebra and calculus became predominant beginning with the Renaissance.",
+        "Incorrect. Number theory and set theory are not the two pre-Renaissance divisions named.",
+        "Incorrect. Analysis and topology are not the two pre-Renaissance divisions named."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How many first-level areas does the 2020 Mathematics Subject Classification contain?",
+      "options": [
+        "63",
+        "60",
+        "more than 60",
+        "fewer than 50"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the 2020 Mathematics Subject Classification contains 63 first-level areas.",
+        "Incorrect. The article specifies 63, not 60.",
+        "Incorrect. While the article says more than 60 elsewhere, it specifies 63 for the 2020 classification.",
+        "Incorrect. The article states there are 63 first-level areas, not fewer than 50."
+      ]
+    }
+  ]
+}

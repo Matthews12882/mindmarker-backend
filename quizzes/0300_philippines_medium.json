@@ -1,0 +1,167 @@
+{
+  "article_id": "0300",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the official name of the Philippines?",
+      "options": [
+        "Republic of the Philippines",
+        "Philippine Islands",
+        "Las Islas Filipinas",
+        "RepÃºblica Filipina"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the official name is 'Republic of the Philippines'.",
+        "Incorrect. 'Philippine Islands' was used by American colonial authorities, but it is not the official name.",
+        "Incorrect. 'Las Islas Filipinas' was the Spanish name for the archipelago.",
+        "Incorrect. 'RepÃºblica Filipina' was proclaimed during the Philippine Revolution, but it is not the current official name."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which body of water borders the Philippines to the west?",
+      "options": [
+        "South China Sea",
+        "Philippine Sea",
+        "Celebes Sea",
+        "Pacific Ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the Philippines is bounded by the South China Sea to the west.",
+        "Incorrect. The Philippine Sea is to the east, not the west.",
+        "Incorrect. The Celebes Sea is to the south.",
+        "Incorrect. The Pacific Ocean is a larger ocean; the specific western sea is the South China Sea."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What was the earliest known surviving written record in the Philippines, and what script was it written in?",
+      "options": [
+        "Laguna Copperplate Inscription, written in Old Malay using the Kawi script",
+        "Tabon Man remains, written in early Negrito script",
+        "The Malolos Constitution, written in Spanish",
+        "The 1935 Constitution, written in English"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'The earliest known surviving written record in the Philippines is the 900 AD Laguna Copperplate Inscription, which was written in Old Malay using the early Kawi script.'",
+        "Incorrect. Tabon Man refers to human remains, not a written record.",
+        "Incorrect. The Malolos Constitution dates from 1899, much later than 900 AD.",
+        "Incorrect. The 1935 Constitution is a 20th-century document, not the earliest written record."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following best describes the social structure of early Philippine polities?",
+      "options": [
+        "A three-tier structure: nobility, freemen, and dependent debtor-bondsmen",
+        "A two-tier structure: rulers and slaves",
+        "A caste system based on occupation",
+        "An egalitarian society with no social classes"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'The early polities typically had a three-tier social structure: nobility, freemen, and dependent debtor-bondsmen.'",
+        "Incorrect. The article describes three tiers, not two.",
+        "Incorrect. The article does not mention a caste system based on occupation.",
+        "Incorrect. The article notes that pre-colonial society was believed to be egalitarian, but early polities had a three-tier structure."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What event marked the beginning of Spanish colonization in the Philippines?",
+      "options": [
+        "The arrival of Miguel LÃ³pez de Legazpi in 1565",
+        "The naming of the islands by Ruy LÃ³pez de Villalobos in 1543",
+        "The arrival of Ferdinand Magellan in 1521",
+        "The Battle of Mactan in 1521"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Unification and colonization by the Crown of Castile began when Spanish explorer Miguel LÃ³pez de Legazpi arrived from New Spain in 1565.'",
+        "Incorrect. Villalobos named the islands but did not begin colonization.",
+        "Incorrect. Magellan arrived earlier but was killed, and colonization did not begin until later.",
+        "Incorrect. The Battle of Mactan resulted in Magellan's death and did not start colonization."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is NOT a maritime neighbor of the Philippines?",
+      "options": [
+        "Thailand",
+        "Taiwan",
+        "Japan",
+        "Indonesia"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists Taiwan, Japan, Palau, Indonesia, Malaysia, Vietnam, and China as maritime neighbors, but not Thailand.",
+        "Incorrect. Taiwan is listed as a maritime neighbor to the north.",
+        "Incorrect. Japan is listed as a maritime neighbor to the northeast.",
+        "Incorrect. Indonesia is listed as a maritime neighbor to the south."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What was the primary religion that became dominant in the Philippines during Spanish colonization?",
+      "options": [
+        "Catholicism",
+        "Islam",
+        "Hinduism",
+        "Animism"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Catholicism became the dominant religion' during Spanish colonization.",
+        "Incorrect. Islam was established earlier in some areas but did not become dominant under Spanish rule.",
+        "Incorrect. Hinduism had influence in early states but was not dominant during Spanish colonization.",
+        "Incorrect. Animism was practiced by early inhabitants but was not the dominant religion under Spanish rule."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What significant political change occurred in the Philippines in 1986?",
+      "options": [
+        "The People Power Revolution overthrew Ferdinand Marcos",
+        "The Philippines gained independence from the United States",
+        "Martial law was declared",
+        "The First Philippine Republic was established"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'his subsequent overthrow by the People Power Revolution in 1986, returning to democracy.'",
+        "Incorrect. Independence was achieved in 1946, not 1986.",
+        "Incorrect. Martial law was declared in 1972, not 1986.",
+        "Incorrect. The First Philippine Republic was established in 1899."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following best describes the Philippines' economic status?",
+      "options": [
+        "An emerging market and newly industrialized country transitioning from agricultural to service- and manufacturing-centered",
+        "A fully developed agricultural economy",
+        "A primarily manufacturing-based economy with no agricultural sector",
+        "A service-based economy with no industrial development"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes the Philippines as 'an emerging market and a developing and newly industrialized country, whose economy is transitioning from being agricultural to service- and manufacturing-centered.'",
+        "Incorrect. The economy is transitioning away from agriculture, not remaining fully agricultural.",
+        "Incorrect. The economy includes both service and manufacturing, but also has an agricultural sector.",
+        "Incorrect. The economy is transitioning to service- and manufacturing-centered, but it is not exclusively service-based."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What natural disaster is the Philippines particularly vulnerable to due to its location?",
+      "options": [
+        "Typhoons, earthquakes, and monsoon rains",
+        "Volcanic eruptions only",
+        "Tsunamis only",
+        "Droughts only"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Philippines is 'prone to earthquakes, monsoon rains, and typhoons' due to its location within the Pacific Ring of Fire and near the equator.",
+        "Incorrect. The article mentions multiple types of natural disasters, not just volcanic eruptions.",
+        "Incorrect. Tsunamis are not specifically highlighted; the article lists earthquakes, monsoon rains, and typhoons.",
+        "Incorrect. Droughts are not mentioned as a primary vulnerability."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0084",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A geologist discovers a rock sample that shows breakage along closely spaced parallel planes rather than uneven surfaces. Which property of minerals is being observed?",
+      "options": [
+        "Cleavage",
+        "Fracture",
+        "Streak",
+        "Specific gravity"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that cleavage is 'a breakage along closely spaced parallel planes,' distinguishing it from fracture, which is breakage of uneven surfaces.",
+        "Incorrect. Fracture is defined as breakage of uneven surfaces, not breakage along parallel planes.",
+        "Incorrect. Streak refers to the color of the powder left when scratching a sample on a porcelain plate, not the pattern of breakage.",
+        "Incorrect. Specific gravity is the weight of a specific volume of a mineral, unrelated to how the mineral breaks."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, what is the relationship between oceanic lithosphere and mantle convection currents?",
+      "options": [
+        "Oceanic lithosphere moves in the same direction as adjoining mantle convection currents because it forms the rigid upper thermal boundary layer of the convecting mantle.",
+        "Oceanic lithosphere moves independently of mantle convection currents.",
+        "Oceanic lithosphere moves in the opposite direction from mantle convection currents.",
+        "Oceanic lithosphere remains stationary while mantle convection currents move beneath it."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'oceanic parts of plates and the adjoining mantle convection currents always move in the same direction â because the oceanic lithosphere is actually the rigid upper thermal boundary layer of the convecting mantle.'",
+        "Incorrect. The article explicitly states they move in the same direction, not independently.",
+        "Incorrect. The article states they move in the same direction, not opposite directions.",
+        "Incorrect. The article describes the oceanic lithosphere as moving with the convection currents, not remaining stationary."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "A mineral sample fizzes when hydrochloric acid is dripped onto it. Which mineral identification test does this demonstrate?",
+      "options": [
+        "Effervescence",
+        "Magnetism",
+        "Hardness",
+        "Luster"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines effervescence as 'dripping hydrochloric acid on the mineral to test for fizzing.'",
+        "Incorrect. Magnetism involves using a magnet to test for magnetic properties, not acid reactions.",
+        "Incorrect. Hardness measures resistance to scratching or indentation, not reaction to acid.",
+        "Incorrect. Luster describes the quality of light reflected from a mineral's surface, not chemical reactions."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following best describes how geologists determine the absolute ages of rocks?",
+      "options": [
+        "Through geochemistry, a branch of geology.",
+        "By studying the mineralogical composition of rocks.",
+        "By determining relative ages of rocks at a given location.",
+        "By applying the rock cycle to classify rocks as igneous, sedimentary, or metamorphic."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'geochemistry (a branch of geology) determines their absolute ages.'",
+        "Incorrect. Studying mineralogical composition provides insight into a rock's history of formation, not its absolute age.",
+        "Incorrect. Relative ages are determined by geology generally, but absolute ages specifically require geochemistry.",
+        "Incorrect. The rock cycle illustrates relationships among rock types but does not determine absolute ages."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "A geologist wants to reproduce the high-pressure and high-temperature conditions of Earth's interior in a laboratory to study crystal structure changes. Which scientific approach described in the article supports this work?",
+      "options": [
+        "Mineralogists using pressure and temperature data from seismic and modeling studies alongside elemental composition knowledge to recreate conditions experimentally.",
+        "Seismologists using arrival times of seismic waves to image Earth's interior.",
+        "Geologists conducting fieldwork and rock description at the surface.",
+        "Numerical modelling of mantle convection currents alone."
+      ],
+      "answer_explanations": [
+        "Correct. The article describes mineralogists using seismic and modeling data with elemental composition knowledge to reproduce conditions in experimental settings and measure crystal structure changes.",
+        "Incorrect. Seismic wave arrival times are used to image the interior, not to reproduce conditions in a lab.",
+        "Incorrect. Fieldwork and rock description are surface-based methods and do not involve recreating interior conditions experimentally.",
+        "Incorrect. Numerical modelling alone does not involve the experimental reproduction of pressure and temperature conditions described for mineralogists."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Based on the article's important milestones, approximately when did the transition of Earth's crust from stagnant lid to plate tectonics occur?",
+      "options": [
+        "3.2â2.3 Ga",
+        "4.54 Ga",
+        "c. 4 Ga",
+        "c. 2.3 Ga"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists '3.2â2.3 Ga: Transition of crust from stagnant lid to plate tectonics.'",
+        "Incorrect. 4.54 Ga marks the accretion or formation of Earth, not the transition to plate tectonics.",
+        "Incorrect. c. 4 Ga marks the end of the Late Heavy Bombardment and the first life, not the crustal transition.",
+        "Incorrect. c. 2.3 Ga marks the oxygenated atmosphere and first snowball Earth, not the transition to plate tectonics."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is NOT one of the three major types of rock described in the article?",
+      "options": [
+        "Igneous",
+        "Sedimentary",
+        "Metamorphic",
+        "Unlithified"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies igneous, sedimentary, and metamorphic as the three major types of rock; unlithified material is discussed separately as superficial deposits above bedrock.",
+        "Incorrect. Igneous is explicitly listed as one of the three major types of rock.",
+        "Incorrect. Sedimentary is explicitly listed as one of the three major types of rock.",
+        "Incorrect. Metamorphic is explicitly listed as one of the three major types of rock."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is the role of plate tectonics in relation to Alfred Wegener's theory of continental drift?",
+      "options": [
+        "Plate tectonics provided a mechanism and driving force for continental drift.",
+        "Plate tectonics disproved continental drift entirely.",
+        "Plate tectonics replaced continental drift with the concept of seafloor spreading only.",
+        "Plate tectonics has no connection to continental drift."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that plate tectonics 'provided a mechanism for Alfred Wegener's theory of continental drift' and 'a driving force for crustal deformation.'",
+        "Incorrect. The article does not say plate tectonics disproved continental drift; rather, it supported it by providing a mechanism.",
+        "Incorrect. The article does not state that plate tectonics replaced continental drift with seafloor spreading alone.",
+        "Incorrect. The article explicitly links plate tectonics to continental drift as its physical basis."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "A researcher identifies a naturally occurring substance that lacks an ordered atomic arrangement but resembles a mineral. According to the article, what might this substance be called?",
+      "options": [
+        "Mineraloid",
+        "Igneous rock",
+        "Superficial deposit",
+        "Meteorite"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'amorphous substances that resemble a mineral are sometimes referred to as mineraloids.'",
+        "Incorrect. Igneous rock is a rock formed from solidified magma or lava, not an amorphous mineral-like substance.",
+        "Incorrect. Superficial deposits are unlithified materials above bedrock, not amorphous mineral-like substances.",
+        "Incorrect. Meteorites are extraterrestrial natural materials studied by geological methods, not amorphous mineral-like substances."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "In the article's description of Earth's internal structure, what did early seismological advances reveal about the outer core?",
+      "options": [
+        "It is liquid, as shear waves were not able to propagate through it.",
+        "It is solid and dense, like the inner core.",
+        "It is separated from the mantle by seismic discontinuities at 410 and 660 kilometers.",
+        "It forms the rigid uppermost portion of the upper mantle."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that early advances showed the existence of a liquid outer core 'where shear waves were not able to propagate.'",
+        "Incorrect. The article describes the inner core as dense and solid, not the outer core.",
+        "Incorrect. The seismic discontinuities at 410 and 660 kilometers are within the mantle, not boundaries of the outer core.",
+        "Incorrect. The rigid uppermost portion of the upper mantle is part of the lithosphere/asthenosphere system, not the outer core."
+      ]
+    }
+  ]
+}

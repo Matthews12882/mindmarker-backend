@@ -1,0 +1,167 @@
+{
+  "article_id": "0098",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which mathematician is credited with the first use of deductive reasoning applied to geometry?",
+      "options": [
+        "Thales of Miletus",
+        "Pythagoras",
+        "Eudoxus of Cnidus",
+        "Archimedes of Syracuse"
+      ],
+      "answer_explanations": [
+        "Correct. Thales of Miletus is credited with the first use of deductive reasoning applied to geometry, deriving four corollaries to Thales's theorem.",
+        "Incorrect. Pythagoras founded the Pythagorean School and proved the Pythagorean theorem, but Thales is noted for deductive reasoning in geometry.",
+        "Incorrect. Eudoxus developed the method of exhaustion and a theory of ratios, but Thales preceded him in deductive geometry.",
+        "Incorrect. Archimedes used the method of exhaustion for areas and volumes, but Thales is recognized for early deductive geometry."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which ancient text provides a formula for calculating the volume of a truncated pyramid?",
+      "options": [
+        "The Rhind Papyrus",
+        "The Moscow Papyrus",
+        "Plimpton 322",
+        "The Egyptian Mathematical Leather Roll"
+      ],
+      "answer_explanations": [
+        "Correct. The Moscow Papyrus (c.â1890 BC) gives a formula for calculating the volume of a truncated pyramid, or frustum.",
+        "Incorrect. The Rhind Papyrus focuses on practical arithmetic and geometry problems, not the frustum volume.",
+        "Incorrect. Plimpton 322 contains Pythagorean triples, not volume formulas.",
+        "Incorrect. The Egyptian Mathematical Leather Roll is a smaller collection of problems, not the frustum formula."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What major development in geometry was introduced by Euclid in his *Elements*?",
+      "options": [
+        "The axiomatic method",
+        "Analytic geometry",
+        "Projective geometry",
+        "Non-Euclidean geometry"
+      ],
+      "answer_explanations": [
+        "Correct. Euclid introduced the axiomatic method, expressing primary properties as axioms and rigorously deducing other properties.",
+        "Incorrect. Analytic geometry was developed by Descartes and Fermat, not Euclid.",
+        "Incorrect. Projective geometry was systematically studied by Desargues, not Euclid.",
+        "Incorrect. Non-Euclidean geometries were discovered in the 19th century, not by Euclid."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which theorem asserts that the Gaussian curvature of a surface is independent from any specific embedding in Euclidean space?",
+      "options": [
+        "Theorema Egregium",
+        "Parallel postulate",
+        "Method of exhaustion",
+        "Mean speed theorem"
+      ],
+      "answer_explanations": [
+        "Correct. Gauss's Theorema Egregium states that Gaussian curvature is intrinsic, independent of embedding.",
+        "Incorrect. The parallel postulate concerns lines and is unrelated to curvature.",
+        "Incorrect. The method of exhaustion is about areas and volumes, not curvature.",
+        "Incorrect. The mean speed theorem is a result in kinematics, not geometry."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which subfield of geometry studies properties unchanged under projections and sections, especially as they relate to artistic perspective?",
+      "options": [
+        "Projective geometry",
+        "Affine geometry",
+        "Differential geometry",
+        "Discrete geometry"
+      ],
+      "answer_explanations": [
+        "Correct. Projective geometry studies properties invariant under projections and sections, including artistic perspective.",
+        "Incorrect. Affine geometry omits concepts of angle and distance, not projections.",
+        "Incorrect. Differential geometry deals with smooth shapes and curvature, not projective invariants.",
+        "Incorrect. Discrete geometry concerns combinatorial arrangements, not projections."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which mathematician formulated the Erlangen programme, emphasizing symmetry as the central consideration in geometry?",
+      "options": [
+        "Felix Klein",
+        "Bernhard Riemann",
+        "Henri PoincarÃ©",
+        "Nikolai Lobachevsky"
+      ],
+      "answer_explanations": [
+        "Correct. Felix Kleinâs Erlangen programme generalized Euclidean and non-Euclidean geometries by focusing on symmetry groups.",
+        "Incorrect. Riemann introduced Riemann surfaces and differential geometry, not the Erlangen programme.",
+        "Incorrect. PoincarÃ© founded algebraic topology and dynamical systems, not the Erlangen programme.",
+        "Incorrect. Lobachevsky discovered non-Euclidean geometry, not the Erlangen programme."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which ancient civilization is credited with the earliest recorded beginnings of geometry?",
+      "options": [
+        "Mesopotamia and Egypt",
+        "Ancient Greece",
+        "Ancient India",
+        "Ancient China"
+      ],
+      "answer_explanations": [
+        "Correct. The earliest recorded beginnings of geometry are traced to ancient Mesopotamia and Egypt in the 2nd millennium BC.",
+        "Incorrect. Greek geometry developed later, building on earlier traditions.",
+        "Incorrect. Indian mathematics contributed later, not the earliest beginnings.",
+        "Incorrect. Chinese geometry appears later than Mesopotamian and Egyptian."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which theorem on quadrilaterals was stated by Brahmagupta in his *BrÄhmasphuá¹­asiddhÄnta*?",
+      "options": [
+        "Theorem on the diagonals of a cyclic quadrilateral",
+        "Theorem on the area of a triangle",
+        "Theorem on the volume of a pyramid",
+        "Theorem on the curvature of surfaces"
+      ],
+      "answer_explanations": [
+        "Correct. Brahmagupta's theorem on the diagonals of a cyclic quadrilateral is a famous result in his work.",
+        "Incorrect. The area of a triangle theorem is not attributed to Brahmagupta here.",
+        "Incorrect. Volume of a pyramid is not Brahmagupta's theorem.",
+        "Incorrect. Curvature of surfaces is unrelated to Brahmagupta's work."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which concept of geometry became something rich and varied after the major changes in the 19th century?",
+      "options": [
+        "Space",
+        "Angle",
+        "Distance",
+        "Surface"
+      ],
+      "answer_explanations": [
+        "Correct. After 19thâcentury developments, the concept of âspaceâ became rich and varied, serving as background for many theories.",
+        "Incorrect. Angles remained a basic concept but did not undergo such broadening.",
+        "Incorrect. Distance is a basic metric, not the broadened concept.",
+        "Incorrect. Surface is a specific geometric object, not the broadened concept."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which 17thâcentury development created a necessary precursor to calculus and a precise quantitative science of physics?",
+      "options": [
+        "Analytic geometry",
+        "Projective geometry",
+        "NonâEuclidean geometry",
+        "Differential geometry"
+      ],
+      "answer_explanations": [
+        "Correct. Analytic geometry, introduced by Descartes and Fermat, was a necessary precursor to calculus and quantitative physics.",
+        "Incorrect. Projective geometry studied perspective, not calculus.",
+        "Incorrect. NonâEuclidean geometry was discovered later.",
+        "Incorrect. Differential geometry developed after calculus."
+      ]
+    }
+  ]
+}

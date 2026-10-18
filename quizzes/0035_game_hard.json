@@ -1,0 +1,167 @@
+{
+  "article_id": "0035",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to Bernard Suits' definition, what is the 'lusory attitude'?",
+      "options": [
+        "Accepting unnecessary obstacles in order to play",
+        "Believing that winning is the only valid outcome",
+        "Playing only when the rules are maximally efficient",
+        "Requiring a physical audience to validate the game"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Suits calls players' state of mind 'lusory attitude,' accepting unnecessary obstacles in order to play.",
+        "Incorrect. Suits' definition does not state that winning is the only valid outcome; it focuses on accepting inefficient means permitted by rules.",
+        "Incorrect. Suits explicitly says rules prohibit more efficient means in favor of less efficient ones, so players do not require maximally efficient rules.",
+        "Incorrect. The article does not link the lusory attitude to requiring an audience; it is an internal state of mind of the player."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT one of Roger Caillois's six defining characteristics of a game?",
+      "options": [
+        "Competitive",
+        "Fun",
+        "Separate",
+        "Fictitious"
+      ],
+      "answer_explanations": [
+        "Correct. Caillois's six characteristics are fun, separate, uncertain, non-productive, governed by rules, and fictitious; 'competitive' is not listed.",
+        "Incorrect. 'Fun' is explicitly listed by Caillois as the activity being chosen for its light-hearted character.",
+        "Incorrect. 'Separate' is explicitly listed by Caillois as being circumscribed in time and place.",
+        "Incorrect. 'Fictitious' is explicitly listed by Caillois as being accompanied by the awareness of a different reality."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, what is the difference between a game's aim and its rules?",
+      "options": [
+        "An aim identifies a sufficient condition for successful action, whereas a rule identifies a necessary condition for permissible action",
+        "Rules are optional suggestions, while aims are mandatory requirements",
+        "Aims apply only to competitive games, while rules apply to all games",
+        "Rules describe the final outcome, while aims describe intermediate steps"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'An aim identifies a sufficient condition for successful action, whereas the rule identifies a necessary condition for permissible action.'",
+        "Incorrect. The article does not describe rules as optional suggestions; rules define permissible actions.",
+        "Incorrect. The article does not limit aims to competitive games; it discusses aims and rules as general game structures.",
+        "Incorrect. The article does not say rules describe the final outcome; aims identify sufficient conditions for success, while rules identify necessary conditions for permissible action."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In Greg Costikyan's definition, why are games like Chutes and Ladders, Candy Land, and War not technically games?",
+      "options": [
+        "They do not involve player choices or decisions",
+        "They lack physical game pieces or tokens",
+        "They are not played for enjoyment or competition",
+        "They have no rules governing player actions"
+      ],
+      "answer_explanations": [
+        "Correct. Costikyan's definition requires players to make decisions to manage resources; the article notes these games do not involve choices and are therefore not technically games.",
+        "Incorrect. These games do have physical components, but Costikyan's objection is specifically about the absence of choices.",
+        "Incorrect. The article does not claim these games lack enjoyment or competition; it focuses on the decision-making requirement.",
+        "Incorrect. These games do have rules; Costikyan's definition excludes them because they lack player decisions, not because they lack rules."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which ancient game is described in the article as having religious significance, with its board representing the pathway through the netherworld?",
+      "options": [
+        "Senet",
+        "The Royal Game of Ur",
+        "Go",
+        "Mancala"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Senet had religious significance with the board representing the pathway through the netherworld.",
+        "Incorrect. The Royal Game of Ur is described as one of the oldest known board games, but not as having this religious significance.",
+        "Incorrect. Go is mentioned in the context of East Asia and AlphaGo, not religious symbolism of the netherworld.",
+        "Incorrect. Mancala is described as a count-and-capture game with Neolithic versions, not as representing the netherworld."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to Katie Salen and Eric Zimmerman, how is a game defined?",
+      "options": [
+        "A system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome",
+        "A form of art in which participants make decisions to manage resources through game tokens",
+        "An exercise of voluntary control systems with opposition between forces confined by rules",
+        "An activity among two or more independent decision-makers seeking objectives in a limiting context"
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes Salen and Zimmerman: 'A game is a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome.'",
+        "Incorrect. This is Greg Costikyan's definition, not Salen and Zimmerman's.",
+        "Incorrect. This is Elliot Avedon and Brian Sutton-Smith's definition, not Salen and Zimmerman's.",
+        "Incorrect. This is Clark C. Abt's definition, not Salen and Zimmerman's."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Based on the article's discussion of skill, strategy, and chance, which of the following games would most likely be classified as being based entirely on skill?",
+      "options": [
+        "Chess",
+        "Candy Land",
+        "Backgammon",
+        "Settlers of Catan"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that winning in chess is based entirely on skill.",
+        "Incorrect. The article states that Candy Land is based entirely on luck, not skill.",
+        "Incorrect. The article states that Backgammon combines strategy with the chance of dice rolls, so it is not entirely skill-based.",
+        "Incorrect. Settlers of Catan offers several paths to victory and involves strategy, but the article does not classify it as based entirely on skill; chess is the example given for entirely skill-based."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which philosopher argued that elements such as play, rules, and competition fail to adequately define games, concluding that games share only 'family resemblances'?",
+      "options": [
+        "Ludwig Wittgenstein",
+        "Bernard Suits",
+        "Roger Caillois",
+        "Greg Costikyan"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Wittgenstein argued these elements fail to define games and concluded that games bear only family resemblances to one another.",
+        "Incorrect. Bernard Suits offered a definition involving lusory attitude and unnecessary obstacles, not family resemblances.",
+        "Incorrect. Roger Caillois listed six characteristics such as fun, separate, and fictitious, but did not propose the family resemblance concept.",
+        "Incorrect. Greg Costikyan defined games as a form of art involving decisions and resource management, not family resemblances."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to Jane McGonigal, what four traits do all games share?",
+      "options": [
+        "A goal, rules, a feedback system, and voluntary participation",
+        "Fun, separate, uncertain, and non-productive",
+        "Play, rules, and competition",
+        "A goal, rules, a quantifiable outcome, and voluntary participation"
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes McGonigal: 'all games share four defining traits: a goal, rules, a feedback system, and voluntary participation.'",
+        "Incorrect. These are Roger Caillois's characteristics (fun, separate, uncertain, non-productive), not McGonigal's four traits.",
+        "Incorrect. These are elements Wittgenstein discussed as failing to define games, not McGonigal's four traits.",
+        "Incorrect. McGonigal's traits include a feedback system, not a quantifiable outcome; the quantifiable outcome is part of Salen and Zimmerman's definition."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "If a new board game is designed where players cannot change any rules during play and the winner is determined solely by a random dice roll with no player decisions, which of the following statements is most accurate based on the article?",
+      "options": [
+        "It would not qualify as a game under Costikyan's definition because it lacks player decisions, though it could still fit Salen and Zimmerman's definition if it has a quantifiable outcome",
+        "It would qualify as a game under all definitions in the article because it has rules and a winner",
+        "It would not qualify as a game under any definition because it lacks skill",
+        "It would qualify as a game only under Wittgenstein's view because it has family resemblance to other games"
+      ],
+      "answer_explanations": [
+        "Correct. Costikyan's definition requires decisions to manage resources, so a game with no player decisions would not qualify under his view; however, Salen and Zimmerman's definition only requires a system with rules and a quantifiable outcome, which a dice-roll game could satisfy.",
+        "Incorrect. The article shows definitions differ; Costikyan explicitly excludes choice-less games like Candy Land, so it would not qualify under all definitions.",
+        "Incorrect. The article does not say a game must involve skill; Candy Land is based entirely on luck yet is discussed as a game (albeit not under Costikyan's definition).",
+        "Incorrect. Wittgenstein's family resemblance concept is descriptive, not a qualification test; the article does not say a game qualifies only under his view."
+      ]
+    }
+  ]
+}

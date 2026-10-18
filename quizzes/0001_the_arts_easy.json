@@ -1,0 +1,167 @@
+{
+  "article_id": "0001",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the three main branches of the arts according to the article?",
+      "options": [
+        "visual arts, literature, and performing arts",
+        "painting, sculpture, architecture",
+        "music, dance, theatre",
+        "photography, filmmaking, drawing"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The arts are divided into three main branches: visual arts, literature, and performing arts.\"",
+        "Incorrect. Painting, sculpture, and architecture are examples of visual arts, not the three main branches.",
+        "Incorrect. Music, dance, and theatre are examples of performing arts, not the three main branches.",
+        "Incorrect. Photography, filmmaking, and drawing are examples of visual arts, not the three main branches."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed as an example of visual arts?",
+      "options": [
+        "architecture",
+        "fiction",
+        "dance",
+        "music"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists architecture as an example of visual arts: \"Examples of visual arts include architecture, ceramic art, drawing, filmmaking, painting, photography, and sculpture.\"",
+        "Incorrect. Fiction is listed as an example of literature, not visual arts.",
+        "Incorrect. Dance is listed as an example of performing arts, not visual arts.",
+        "Incorrect. Music is listed as an example of performing arts, not visual arts."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What term did Ancient Greeks use for art and craft?",
+      "options": [
+        "techne",
+        "liberal arts",
+        "trivium",
+        "quadrivium"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"In Ancient Greece, art and craft were referred to by the word techne.\"",
+        "Incorrect. Liberal arts were taught in medieval universities, not the Ancient Greek term for art and craft.",
+        "Incorrect. Trivium was part of the medieval liberal arts curriculum, not the Ancient Greek term.",
+        "Incorrect. Quadrivium was the other part of the medieval liberal arts curriculum, not the Ancient Greek term."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what does Islamic art avoid in religious contexts?",
+      "options": [
+        "representation of living beings",
+        "use of calligraphy",
+        "geometrical designs",
+        "surface patterning"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Islamic art avoids the representation of living beings, particularly humans and other animals, in religious contexts.\"",
+        "Incorrect. Islamic art uses calligraphy to express religious ideas, not avoids it.",
+        "Incorrect. Islamic art uses geometrical designs to express religious ideas, not avoids them.",
+        "Incorrect. Surface patterning is a characteristic of Asian art, not something Islamic art avoids."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT listed as one of the seven forms of art classification?",
+      "options": [
+        "gastronomy",
+        "painting",
+        "architecture",
+        "sculpture"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists seven forms: painting, architecture, sculpture, literature, music, theatre, and filmmaking. Gastronomy is mentioned as only sometimes considered an art.",
+        "Incorrect. Painting is explicitly listed as one of the seven forms.",
+        "Incorrect. Architecture is explicitly listed as one of the seven forms.",
+        "Incorrect. Sculpture is explicitly listed as one of the seven forms."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the \"ninth art\" in Francophone scholarship?",
+      "options": [
+        "comics",
+        "television",
+        "filmmaking",
+        "photography"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Comics are often called the 'ninth art' (le neuvième art) in Francophone scholarship.\"",
+        "Incorrect. Television is sometimes called the \"eighth\" art, not the ninth.",
+        "Incorrect. Filmmaking is one of the traditional seven arts, not the ninth.",
+        "Incorrect. Photography is a visual art form but not designated as the ninth art."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does conceptual art prioritize over traditional aesthetic and material concerns?",
+      "options": [
+        "concepts or ideas",
+        "visual criteria",
+        "painting skills",
+        "sculpture techniques"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Conceptual art is art where the concepts or ideas involved in the work take precedence over traditional aesthetic and material concerns.\"",
+        "Incorrect. Conceptual art defies traditional visual criteria, not prioritizes them.",
+        "Incorrect. Conceptual art does not prioritize traditional painting skills.",
+        "Incorrect. Conceptual art does not prioritize traditional sculpture techniques."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a tool used in drawing according to the article?",
+      "options": [
+        "graphite pencils",
+        "chisel",
+        "kiln",
+        "loom"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists \"graphite pencils\" as a common tool for drawing.",
+        "Incorrect. A chisel is used for carving in sculpture, not drawing.",
+        "Incorrect. A kiln is used for firing ceramics, not drawing.",
+        "Incorrect. A loom is used for weaving textiles, not drawing."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What distinguishes art photography from photojournalism?",
+      "options": [
+        "created in accordance with the creative vision of the photographer",
+        "provides a visual account of news events",
+        "focuses on advertising products",
+        "uses only digital cameras"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Photography as an art form refers to photographs that are created in accordance with the creative vision of the photographer.\" It contrasts this with photojournalism which \"provides a visual account of news events.\"",
+        "Incorrect. Providing a visual account of news events describes photojournalism, not art photography.",
+        "Incorrect. Focusing on advertising products describes commercial photography, not art photography.",
+        "Incorrect. The article does not mention camera type as a distinguishing factor."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What are the two main components of the liberal arts curriculum in medieval universities?",
+      "options": [
+        "trivium and quadrivium",
+        "grammar and rhetoric",
+        "arithmetic and geometry",
+        "music and astronomy"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"liberal arts were taught ... as part of the trivium ... and of the quadrivium.\"",
+        "Incorrect. Grammar and rhetoric are only parts of the trivium, not the two main components.",
+        "Incorrect. Arithmetic and geometry are only parts of the quadrivium, not the two main components.",
+        "Incorrect. Music and astronomy are only parts of the quadrivium, not the two main components."
+      ]
+    }
+  ]
+}

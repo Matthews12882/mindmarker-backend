@@ -1,0 +1,167 @@
+{
+  "article_id": "0290",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the origin of the name 'Tanzania'?",
+      "options": [
+        "It is a clipped compound of Tanganyika and Zanzibar.",
+        "It is a combination of the Swahili words for 'sail' and 'wilderness'.",
+        "It derives from the Arabic word for 'coast' and the name of a local people.",
+        "It was created by a national newspaper editor."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The name \"Tanzania\" was created as a clipped compound of the names of the two states that unified to create the country: Tanganyika and Zanzibar in 1964.'",
+        "Incorrect. The phrase 'sail in the wilderness' refers to the etymology of Tanganyika, not Tanzania.",
+        "Incorrect. The derivation from Arabic 'barr' (coast) and 'Zanj' (a local people) explains the name Zanzibar, not Tanzania.",
+        "Incorrect. The article says the name was chosen from a contest run by the national newspaper The Standard, but it was won by Mohammed Iqbal Dar, not created by the editor."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which body of water borders Tanzania to the east?",
+      "options": [
+        "Indian Ocean",
+        "Lake Victoria",
+        "Lake Tanganyika",
+        "Lake Malawi"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the Indian Ocean as the eastern border: 'bordered by ... the Indian Ocean to the east.'",
+        "Incorrect. Lake Victoria is to the north and west, not the east.",
+        "Incorrect. Lake Tanganyika is to the west, not the east.",
+        "Incorrect. Lake Malawi is to the south, not the east."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the political status of the Chama Cha Mapinduzi (CCM) in Tanzania?",
+      "options": [
+        "It has ruled as a de facto one-party state for decades.",
+        "It is one of several parties in a multi-party democracy.",
+        "It is the official opposition party.",
+        "It was dissolved after unification."
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'For decades, Tanzania has been ruled by the Chama Cha Mapinduzi (CCM) as a de facto one-party state.'",
+        "Incorrect. The article describes CCM as ruling as a de facto one-party state, not as part of a multi-party system.",
+        "Incorrect. CCM is the ruling party, not the opposition.",
+        "Incorrect. CCM is still active and ruling; it was not dissolved."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which language is used as a medium of instruction in secondary and higher education in Tanzania?",
+      "options": [
+        "English",
+        "Swahili",
+        "Arabic",
+        "French"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'English is used ... as a medium of instruction in secondary and higher education.'",
+        "Incorrect. Swahili is the national language but is not specified as the medium of instruction for secondary and higher education.",
+        "Incorrect. Arabic is widely spoken in Zanzibar but is not the medium of instruction in secondary and higher education.",
+        "Incorrect. French is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the highest mountain in Africa, located in Tanzania?",
+      "options": [
+        "Mount Kilimanjaro",
+        "Mount Kenya",
+        "Mount Stanley",
+        "Mount Meru"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'Mount Kilimanjaro, the highest mountain in Africa ... is located' in Tanzania.",
+        "Incorrect. Mount Kenya is in Kenya, not Tanzania.",
+        "Incorrect. Mount Stanley is in Uganda and the Democratic Republic of the Congo.",
+        "Incorrect. Mount Meru is in Tanzania but is not the highest mountain in Africa."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is NOT a neighbor of Tanzania?",
+      "options": [
+        "Ethiopia",
+        "Uganda",
+        "Kenya",
+        "Mozambique"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists Uganda, Kenya, Mozambique, Malawi, Zambia, Rwanda, Burundi, and the Democratic Republic of the Congo as neighbors, but not Ethiopia.",
+        "Incorrect. Uganda is listed as a neighbor to the northwest.",
+        "Incorrect. Kenya is listed as a neighbor to the northeast.",
+        "Incorrect. Mozambique is listed as a neighbor to the south."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the largest city and principal port of Tanzania?",
+      "options": [
+        "Dar es Salaam",
+        "Dodoma",
+        "Zanzibar City",
+        "Mwanza"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Dar es Salaam ... is the country's largest city, principal port, and leading commercial centre.'",
+        "Incorrect. Dodoma is the federal capital but not the largest city or principal port.",
+        "Incorrect. Zanzibar City is on Zanzibar but is not the largest city or principal port of the whole country.",
+        "Incorrect. Mwanza is a city on Lake Victoria but not the largest or principal port."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a marine protected area in Zanzibar?",
+      "options": [
+        "Menai Bay Conservation Area",
+        "Serengeti National Park",
+        "Ngorongoro Conservation Area",
+        "Lake Manyara National Park"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'The Menai Bay Conservation Area is Zanzibar's largest marine protected area.'",
+        "Incorrect. Serengeti National Park is a terrestrial park in mainland Tanzania.",
+        "Incorrect. Ngorongoro Conservation Area is a terrestrial area in mainland Tanzania.",
+        "Incorrect. Lake Manyara National Park is a terrestrial park in mainland Tanzania."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the second-highest uninterrupted waterfall in Africa, located in Tanzania?",
+      "options": [
+        "Kalambo Falls",
+        "Victoria Falls",
+        "Tugela Falls",
+        "Boyoma Falls"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The Kalambo Falls ... is the second-highest uninterrupted waterfall in Africa.'",
+        "Incorrect. Victoria Falls is on the border of Zambia and Zimbabwe, not in Tanzania.",
+        "Incorrect. Tugela Falls is in South Africa.",
+        "Incorrect. Boyoma Falls is in the Democratic Republic of the Congo."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which ethnic group is mentioned as being among the indigenous populations of eastern Africa?",
+      "options": [
+        "Hadza",
+        "Maasai",
+        "Iraqw",
+        "Datoog"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'The indigenous populations of eastern Africa are thought to be the linguistically isolated Hadza and Sandawe hunter-gatherers of Tanzania.'",
+        "Incorrect. The Maasai are described as a more recent migration, not indigenous.",
+        "Incorrect. The Iraqw are descendants of Southern Cushitic speakers who migrated, not indigenous.",
+        "Incorrect. The Datoog are Southern Nilotes who migrated, not indigenous."
+      ]
+    }
+  ]
+}

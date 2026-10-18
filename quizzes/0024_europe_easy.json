@@ -1,0 +1,167 @@
+{
+  "article_id": "0024",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which hemisphere is Europe located entirely in?",
+      "options": [
+        "Northern Hemisphere",
+        "Southern Hemisphere",
+        "Western Hemisphere",
+        "Eastern Hemisphere"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Europe is located entirely in the Northern Hemisphere.",
+        "Incorrect. The article does not say Europe is located entirely in the Southern Hemisphere.",
+        "Incorrect. The article does not say Europe is located entirely in the Western Hemisphere.",
+        "Incorrect. The article says Europe is mostly in the Eastern Hemisphere, not entirely."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which ocean borders Europe to the north?",
+      "options": [
+        "Arctic Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Europe is bordered by the Arctic Ocean to the north.",
+        "Incorrect. The Atlantic Ocean borders Europe to the west, not the north.",
+        "Incorrect. The Indian Ocean is not mentioned as bordering Europe.",
+        "Incorrect. The Pacific Ocean is not mentioned as bordering Europe."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is Europe's approximate area in square kilometres?",
+      "options": [
+        "10,186,000",
+        "3,933,000",
+        "745,000,000",
+        "2%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Europe covers approximately 10,186,000 square kilometres.",
+        "Incorrect. 3,933,000 is the area in square miles, not square kilometres.",
+        "Incorrect. 745 million refers to Europe's population, not its area.",
+        "Incorrect. 2% refers to Earth's surface area covered by Europe, not square kilometres."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which country is described as the largest and most populous in Europe?",
+      "options": [
+        "Russia",
+        "Germany",
+        "France",
+        "United Kingdom"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Russia is the largest and most populous country in Europe.",
+        "Incorrect. Germany is not identified as the largest or most populous country.",
+        "Incorrect. France is not identified as the largest or most populous country.",
+        "Incorrect. The United Kingdom is not identified as the largest or most populous country."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What was Europe's total population in 2021?",
+      "options": [
+        "about 745 million",
+        "about 10 million",
+        "about 1 billion",
+        "about 500 million"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Europe had a total population of about 745 million in 2021.",
+        "Incorrect. The article does not give a population of about 10 million for Europe.",
+        "Incorrect. The article does not state Europe's population was about 1 billion in 2021.",
+        "Incorrect. The article does not state Europe's population was about 500 million in 2021."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which warm Atlantic current affects Europe's climate?",
+      "options": [
+        "Gulf Stream",
+        "Amazon Current",
+        "North Pacific Drift",
+        "Indian Monsoon Current"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions the Gulf Stream as a warm Atlantic current affecting Europe's climate.",
+        "Incorrect. The Amazon Current is not mentioned in the article.",
+        "Incorrect. The North Pacific Drift is not mentioned in the article.",
+        "Incorrect. The Indian Monsoon Current is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which ancient civilizations are referenced as crucial shared roots of European culture?",
+      "options": [
+        "ancient Greece and ancient Rome",
+        "ancient Egypt and ancient Persia",
+        "ancient China and ancient India",
+        "ancient Mesopotamia and ancient Carthage"
+      ],
+      "answer_explanations": [
+        "Correct. The article states European culture commonly references ancient Greece and ancient Rome as crucial and shared roots.",
+        "Incorrect. The article does not cite ancient Egypt and ancient Persia as shared roots.",
+        "Incorrect. The article does not cite ancient China and ancient India as shared roots.",
+        "Incorrect. The article does not cite ancient Mesopotamia and ancient Carthage as shared roots."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "In which country did the Industrial Revolution begin?",
+      "options": [
+        "Great Britain",
+        "France",
+        "Germany",
+        "United States"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Industrial Revolution began in Great Britain at the end of the 18th century.",
+        "Incorrect. The article does not say the Industrial Revolution began in France.",
+        "Incorrect. The article does not say the Industrial Revolution began in Germany.",
+        "Incorrect. The article states the Industrial Revolution began in Great Britain, not the United States."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What common currency have a majority of EU members adopted?",
+      "options": [
+        "euro",
+        "dollar",
+        "pound",
+        "yen"
+      ],
+      "answer_explanations": [
+        "Correct. The article states a majority of EU members have adopted the euro as a common currency.",
+        "Incorrect. The article does not mention the dollar as an EU common currency.",
+        "Incorrect. The article does not mention the pound as an EU common currency.",
+        "Incorrect. The article does not mention the yen as an EU common currency."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How often do regular popular elections take place within the EU?",
+      "options": [
+        "every five years",
+        "every two years",
+        "every year",
+        "every ten years"
+      ],
+      "answer_explanations": [
+        "Correct. The article states regular popular elections take place every five years within the EU.",
+        "Incorrect. The article does not state EU elections occur every two years.",
+        "Incorrect. The article does not state EU elections occur every year.",
+        "Incorrect. The article does not state EU elections occur every ten years."
+      ]
+    }
+  ]
+}

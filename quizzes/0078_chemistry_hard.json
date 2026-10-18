@@ -1,0 +1,167 @@
+{
+  "article_id": "0078",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A scientist observes that a solid substance lacks identifiable molecules and instead consists of a repeating unit cell structure. Based on the article, which category does this substance most likely belong to?",
+      "options": [
+        "Chemical compounds without molecules, such as ionic compounds and network solids",
+        "Pure chemical substances composed of a single type of atom",
+        "Molecules held together by covalent bonds",
+        "Mixtures of substances with definite composition"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that many solid substances, such as ionic compounds and network solids, lack identifiable molecules and are discussed in terms of formula units or unit cells.",
+        "Incorrect. A pure chemical substance composed of a single type of atom is an element, not a compound lacking molecules.",
+        "Incorrect. Molecules held together by covalent bonds are discrete molecular units, which the article contrasts with substances lacking molecules.",
+        "Incorrect. Mixtures are collections of substances, such as air and alloys, not single solids organized by unit cells."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "If a new element were discovered with atoms containing 7 protons in their nuclei, how would the articleâs definition of an element classify it?",
+      "options": [
+        "As a distinct chemical element with atomic number 7",
+        "As an isotope of nitrogen",
+        "As a compound with multiple elements",
+        "As a molecule with covalent bonds"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a chemical element by its particular number of protons, known as the atomic number, so 7 protons defines a distinct element.",
+        "Incorrect. Isotopes are atoms of the same element with different mass numbers, not different proton counts.",
+        "Incorrect. A compound is composed of more than one element, whereas this scenario describes a single type of atom.",
+        "Incorrect. Molecules are sets of atoms bound together, not single atoms defined by proton count."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "A researcher balances a chemical equation and finds equal numbers of each type of atom on both sides. According to the article, what does this indicate about the transformation?",
+      "options": [
+        "It is a chemical reaction rather than a nuclear reaction or radioactive decay",
+        "It is a nuclear reaction involving changes to the nucleus",
+        "It is radioactive decay emitting particles from the nucleus",
+        "It is a physical change with no atomic rearrangement"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that when the number of atoms on either side is equal, the transformation is a chemical reaction; unequal numbers indicate a nuclear reaction or radioactive decay.",
+        "Incorrect. Nuclear reactions are identified by unequal atom counts on either side of the equation.",
+        "Incorrect. Radioactive decay is likewise associated with unequal atom counts, not balanced equations.",
+        "Incorrect. The article describes chemical reactions as rearrangements of chemical bonds between atoms, not as physical changes."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "A student claims that because chemistry studies matter and biology studies living organisms, chemistry cannot explain biological processes. Using the article, which response best refutes this claim?",
+      "options": [
+        "Chemistry provides a foundation for understanding applied disciplines such as pharmacology, including how medications work",
+        "Chemistry is limited to the study of inorganic substances and has no bearing on biology",
+        "Biology completely overlaps with chemistry, making the two fields indistinguishable",
+        "Chemistry only addresses non-living matter such as rocks and atmospheric ozone"
+      ],
+      "answer_explanations": [
+        "Correct. The article gives pharmacologyâhow medications workâas an example of chemistry explaining aspects of a biological discipline.",
+        "Incorrect. The article presents chemistry as broad and foundational, not limited to inorganic substances.",
+        "Incorrect. The article describes chemistry as occupying an intermediate position and providing a foundation, not as completely overlapping with biology.",
+        "Incorrect. The article lists biological examples such as plant growth and medications, showing chemistry is not restricted to non-living matter."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "In a laboratory, a substance is found to consist of discrete, electrically neutral units in which all valence electrons are paired. According to the article, what is the most precise term for this substanceâs smallest independent unit?",
+      "options": [
+        "Molecule",
+        "Ion",
+        "Molecular ion",
+        "Formula unit"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines molecules as typically electrically neutral units with paired valence electrons, unlike ions.",
+        "Incorrect. Ions are charged, whereas the described units are electrically neutral.",
+        "Incorrect. Molecular ions arise when the neutral rule is broken and the unit carries a charge.",
+        "Incorrect. Formula units apply to substances lacking identifiable molecules, such as ionic compounds and network solids."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "A chemist isolates a radical containing one unpaired electron. Based on the article, which statement about this radical is most accurate?",
+      "options": [
+        "It is comparatively reactive, though some radicals such as nitric oxide can be stable",
+        "It is always stable because unpaired electrons confer stability",
+        "It cannot exist outside a mass spectrometer",
+        "It is electrically neutral by definition and therefore not a molecule"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that most radicals are comparatively reactive, but some, such as nitric oxide, can be stable.",
+        "Incorrect. The article says most radicals are reactive, not always stable.",
+        "Incorrect. The article associates molecular ions with mass spectrometers, not radicals specifically.",
+        "Incorrect. The article does not define radicals as electrically neutral non-molecules; it notes some molecules contain unpaired electrons."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "A materials scientist studies table salt and quartz. According to the article, what concept should be used instead of molecules to describe the smallest repeating structure in these substances?",
+      "options": [
+        "Formula units or unit cells",
+        "Molecular ions",
+        "Atomic nuclei",
+        "Electron clouds"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that substances such as table salt and silica minerals lack identifiable molecules and are discussed in terms of formula units or unit cells.",
+        "Incorrect. Molecular ions are charged molecular units, not the repeating structures of ionic or network solids.",
+        "Incorrect. Atomic nuclei are the dense cores of atoms, not the smallest repeating structures of bulk solids.",
+        "Incorrect. Electron clouds surround atomic nuclei and are not used to describe repeating solid structures."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which statement best captures the articleâs position on the role of laboratory glassware in chemistry?",
+      "options": [
+        "Glassware is common but not central, since much experimental and industrial chemistry is done without it",
+        "Glassware is indispensable for all chemical experiments",
+        "Glassware is used only in analytical chemistry and never in industrial chemistry",
+        "Glassware defines the boundary between chemistry and alchemy"
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly says glassware is not central to chemistry and that a great deal of experimental and industrial chemistry is done without it.",
+        "Incorrect. The article contradicts the idea that glassware is indispensable for all experiments.",
+        "Incorrect. The article does not restrict glassware to analytical chemistry or exclude it from industrial chemistry.",
+        "Incorrect. The article never links glassware to the distinction between chemistry and alchemy."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "A historian traces the word âchemistryâ back through Renaissance modifications to an earlier set of practices. According to the article, what was that earlier set of practices called?",
+      "options": [
+        "Alchemy",
+        "Kemet",
+        "Arabic",
+        "Physics"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the word chemistry comes from a Renaissance modification of the word alchemy, which referred to an earlier set of practices.",
+        "Incorrect. Kemet is the ancient name of Egypt and a possible root of al-kÄ«mÄ«Ä, not the earlier set of practices itself.",
+        "Incorrect. Arabic is the language of the word al-kÄ«mÄ«Ä, not the name of the earlier practices.",
+        "Incorrect. Physics is a separate physical science, not the earlier set of practices from which chemistry derives."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "An engineer is selecting a unit to quantify the number of particles in a sample of reactants. Based on the article, which unit and defining value should the engineer use?",
+      "options": [
+        "The mole, defined as exactly 6.02214076Ã10^23 particles",
+        "The Avogadro constant, defined as one mole of substance",
+        "Molar concentration, reported in mol/dm^3",
+        "The mass number, equal to protons plus neutrons"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines the mole as a unit denoting amount of substance, containing exactly 6.02214076Ã10^23 particles.",
+        "Incorrect. The Avogadro constant is the number of particles per mole, not the unit itself.",
+        "Incorrect. Molar concentration measures amount per volume, not the total number of particles in a sample.",
+        "Incorrect. The mass number is the sum of protons and neutrons in a nucleus, not a unit for counting particles."
+      ]
+    }
+  ]
+}

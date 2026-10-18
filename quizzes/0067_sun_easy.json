@@ -1,0 +1,167 @@
+{
+  "article_id": "0067",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the Sun classified as in terms of stellar type?",
+      "options": [
+        "G-type main-sequence star",
+        "Red giant",
+        "White dwarf",
+        "Black dwarf"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Sun is classified as a G-type main-sequence star (G2V).",
+        "Incorrect. The Sun will become a red giant in the future, but is not currently classified as one.",
+        "Incorrect. A white dwarf is a future stage after the red giant phase, not the Sun's current classification.",
+        "Incorrect. A black dwarf is a theorized final stage long after the white dwarf phase."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Approximately what percentage of the Solar System's total mass does the Sun make up?",
+      "options": [
+        "99.86%",
+        "95%",
+        "85%",
+        "73%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Sun makes up about 99.86% of the total mass of the Solar System.",
+        "Incorrect. 95% refers to how the Sun compares in mass to stars within 7 pc, not the Solar System's mass.",
+        "Incorrect. 85% refers to the fraction of Milky Way stars the Sun is brighter than.",
+        "Incorrect. 73% is the approximate hydrogen proportion in the Sun's surface layer."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What are the two main elements in the Sun's photosphere?",
+      "options": [
+        "Hydrogen and helium",
+        "Oxygen and carbon",
+        "Neon and iron",
+        "Hydrogen and oxygen"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the photosphere consists mostly of hydrogen (~73%) and helium (~25%).",
+        "Incorrect. Oxygen and carbon are heavier elements present in much smaller quantities.",
+        "Incorrect. Neon and iron are heavier elements present in much smaller quantities.",
+        "Incorrect. Oxygen is a minor component compared to helium."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How long ago did the Sun form?",
+      "options": [
+        "Approximately 4.6 billion years ago",
+        "About 1 billion years ago",
+        "About 10 billion years ago",
+        "About 100 million years ago"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Sun formed approximately 4.6 billion years ago.",
+        "Incorrect. This is not mentioned as the formation time.",
+        "Incorrect. This is not mentioned as the formation time.",
+        "Incorrect. This is not mentioned as the formation time."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the Sun's mean distance from Earth?",
+      "options": [
+        "About 1.496Ã10^8 kilometres",
+        "24,000 to 28,000 light-years",
+        "149.5978707Ã10^6 kilometres",
+        "8 light-years"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the mean distance from Earth is about 1.496Ã10^8 kilometres.",
+        "Incorrect. This is the Sun's distance from the Galactic Center.",
+        "Incorrect. This is the defined value of the astronomical unit, not the mean distance as stated.",
+        "Incorrect. The article states the distance is about 8 light-minutes, not light-years."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the primary source of energy for life on Earth according to the article?",
+      "options": [
+        "The Sun",
+        "Nuclear fusion in Earth's core",
+        "Geothermal heat",
+        "Moonlight"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Sun is the main source of energy for life on Earth.",
+        "Incorrect. The article does not identify this as Earth's main energy source.",
+        "Incorrect. The article does not identify this as Earth's main energy source.",
+        "Incorrect. The article does not identify this as Earth's main energy source."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the astronomical symbol for the Sun?",
+      "options": [
+        "A circle with a central dot",
+        "A circle with radiating lines",
+        "A crescent",
+        "A star with eight points"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the astronomical symbol for the Sun is a circle with a central dot: â.",
+        "Incorrect. This symbol is not mentioned in the article.",
+        "Incorrect. This symbol is not mentioned in the article.",
+        "Incorrect. This symbol is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the scientific study of the Sun called?",
+      "options": [
+        "Heliology",
+        "Astrology",
+        "Helioseismology",
+        "Cosmology"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the scientific study of the Sun is called heliology.",
+        "Incorrect. Astrology is not mentioned as the scientific study of the Sun.",
+        "Incorrect. Helioseismology is mentioned as a method for observing the Sun, not the name of its study.",
+        "Incorrect. Cosmology is not mentioned in the article as the study of the Sun."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which direction does the Sun rotate around its axis when viewed from above its north pole?",
+      "options": [
+        "Counterclockwise",
+        "Clockwise",
+        "It does not rotate",
+        "Alternating directions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Sun rotates counterclockwise around its axis when viewed from above its north pole.",
+        "Incorrect. The article states counterclockwise, not clockwise.",
+        "Incorrect. The article confirms the Sun rotates.",
+        "Incorrect. The article describes a single consistent direction."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What will the Sun become after the red giant phase?",
+      "options": [
+        "A white dwarf",
+        "A black hole",
+        "A neutron star",
+        "A main-sequence star"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that after the red giant phase, the Sun will shed its outer layers and become a white dwarf.",
+        "Incorrect. The article does not state the Sun will become a black hole.",
+        "Incorrect. The article does not state the Sun will become a neutron star.",
+        "Incorrect. The Sun is already a main-sequence star and will leave that stage, not return to it."
+      ]
+    }
+  ]
+}

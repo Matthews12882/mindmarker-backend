@@ -1,0 +1,167 @@
+{
+  "article_id": "0093",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what does engineering primarily involve when solving problems?",
+      "options": [
+        "Finding optimal solutions to constrained problems",
+        "Applying trial-and-error methods without constraints",
+        "Prioritizing artistic expression over functionality",
+        "Avoiding testing and simulations before production"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that engineering tasks involve finding optimal solutions to constrained problems.",
+        "Incorrect. The article describes engineering as working within constraints, not using unconstrained trial-and-error.",
+        "Incorrect. The article defines engineering as applying natural science and mathematics to design systems, not prioritizing artistic expression.",
+        "Incorrect. The article explicitly mentions that testing and simulations are used prior to production."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed in the article as one of the traditional disciplines of engineering?",
+      "options": [
+        "Chemical engineering",
+        "Software engineering",
+        "Environmental engineering",
+        "Biomedical engineering"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists chemical engineering among the traditional disciplines of engineering.",
+        "Incorrect. Software engineering is not listed among the traditional disciplines in the article.",
+        "Incorrect. Environmental engineering is not listed among the traditional disciplines in the article.",
+        "Incorrect. Biomedical engineering is not listed among the traditional disciplines in the article."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article say is the origin of the word 'engineering'?",
+      "options": [
+        "It is derived from the Latin word ingenium",
+        "It comes from the Greek word for machine",
+        "It derives from an Old English term for builder",
+        "It originates from a French word meaning design"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the word engineering is derived from the Latin ingenium.",
+        "Incorrect. The article does not attribute the origin to a Greek word for machine.",
+        "Incorrect. The article does not mention an Old English term for builder as the origin.",
+        "Incorrect. The article does not mention a French word meaning design as the origin."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what did an 'engine'er refer to in the 14th century?",
+      "options": [
+        "A constructor of military engines",
+        "A designer of civilian bridges",
+        "An operator of steam engines",
+        "A builder of aqueducts"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in the 14th century, an engine'er referred to a constructor of military engines.",
+        "Incorrect. The article associates the 14th-century term with military engines, not civilian bridges.",
+        "Incorrect. Steam engines are not connected to the 14th-century meaning in the article.",
+        "Incorrect. The article does not link the 14th-century term to aqueduct builders."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which ancient civilization is credited in the article with the invention of the wheel and wheel-and-axle mechanism during the 5th millennium BC?",
+      "options": [
+        "Mesopotamia",
+        "Ancient Egypt",
+        "Ancient Greece",
+        "Ancient China"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the wheel and wheel-and-axle mechanism were invented in Mesopotamia during the 5th millennium BC.",
+        "Incorrect. The article attributes the wheel to Mesopotamia, not Ancient Egypt.",
+        "Incorrect. The article attributes the wheel to Mesopotamia, not Ancient Greece.",
+        "Incorrect. The article attributes the wheel to Mesopotamia, not Ancient China."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what role does economics play in engineering at larger scales?",
+      "options": [
+        "A knowledge of economics and business practices is needed because projects are funded by companies, investors, or government",
+        "Economics is irrelevant to engineering decisions",
+        "Only government-funded projects require economic knowledge",
+        "Economics matters only during the manufacturing phase"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that at larger scales, engineering processes are normally funded by a company, multiple investors, or the government, so a knowledge of economics and business practices is needed.",
+        "Incorrect. The article explicitly says economics and business knowledge is needed at larger scales.",
+        "Incorrect. The article does not limit economic knowledge to government-funded projects.",
+        "Incorrect. The article does not restrict the relevance of economics to the manufacturing phase."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article's ABET-derived definition, what must engineering consider with respect to an intended function?",
+      "options": [
+        "Economics of operation and safety to life and property",
+        "Only the technical performance of the device",
+        "Only the aesthetic qualities of the design",
+        "Only the speed of construction"
+      ],
+      "answer_explanations": [
+        "Correct. The article's definition states that engineering considers an intended function, economics of operation, and safety to life and property.",
+        "Incorrect. The definition includes economics and safety, not only technical performance.",
+        "Incorrect. The definition does not mention aesthetic qualities as a consideration.",
+        "Incorrect. The definition does not mention speed of construction as a consideration."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does the article identify as the purpose of forensic engineering?",
+      "options": [
+        "To determine what went wrong when a deployed product fails in order to find a fix",
+        "To design new products before they are manufactured",
+        "To create marketing materials for engineering products",
+        "To manage the financial budget of engineering projects"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that forensic engineering is used to determine what went wrong when a deployed product fails, in order to find a fix.",
+        "Incorrect. Forensic engineering is described as analyzing failures, not designing new products.",
+        "Incorrect. The article does not connect forensic engineering to marketing.",
+        "Incorrect. The article does not connect forensic engineering to financial budget management."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, which of the following is a modern field of engineering practice?",
+      "options": [
+        "Energy systems",
+        "Siegecraft",
+        "Ancient aqueduct construction",
+        "Military catapult design"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists energy systems among the fields of modern engineering practice.",
+        "Incorrect. Siegecraft is discussed in the context of ancient history, not modern engineering fields.",
+        "Incorrect. Ancient aqueduct construction is presented as an antiquity example, not a modern field.",
+        "Incorrect. Military catapult design is discussed historically, not as a modern engineering field."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Based on the article, how did the steam engine influence engineering during the Industrial Revolution era?",
+      "options": [
+        "It provided much greater power than animals, leading to mechanical propulsion for ships and railways",
+        "It replaced all wind-powered machines immediately",
+        "It was primarily used for military siegecraft",
+        "It had no significant impact on transportation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the steam engine provided much greater power than animals, leading to mechanical propulsion for ships and railways.",
+        "Incorrect. The article does not claim the steam engine immediately replaced all wind-powered machines.",
+        "Incorrect. The article connects the steam engine to ships and railways, not primarily to siegecraft.",
+        "Incorrect. The article explicitly describes the steam engine's role in mechanical propulsion for ships and railways."
+      ]
+    }
+  ]
+}

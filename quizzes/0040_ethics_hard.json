@@ -1,0 +1,167 @@
+{
+  "article_id": "0040",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the key difference between act consequentialism and rule consequentialism?",
+      "options": [
+        "Act consequentialism assesses an act based on its own consequences directly, whereas rule consequentialism assesses an act based on whether it follows rules chosen for their community-wide outcomes.",
+        "Act consequentialism only considers actual consequences, while rule consequentialism only considers expected consequences.",
+        "Act consequentialism evaluates rules rather than individual acts, while rule consequentialism evaluates individual acts rather than rules.",
+        "Act consequentialism requires maximizing the best outcome, while rule consequentialism only requires satisficing a good-enough outcome."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that act consequentialism holds that 'the consequences of an act determine its moral value' with a direct relation, while rule consequentialism holds that 'an act is right if it follows a certain set of rules' determined by considering outcomes at a community level, making the relation indirect.",
+        "Incorrect. The distinction between actual and expected consequences is a separate disagreement within consequentialism, not the defining difference between act and rule consequentialism.",
+        "Incorrect. This reverses the positions; act consequentialism evaluates individual acts, while rule consequentialism evaluates rules.",
+        "Incorrect. Maximizing versus satisficing is another separate distinction within consequentialism and does not define the act-versus-rule divide."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which scenario best illustrates a difficulty associated with maximizing consequentialism as described in the article?",
+      "options": [
+        "A person with a good salary donates 65% of their income to charity when donating 70% would produce better overall consequences.",
+        "A person follows a rule of truth-telling even in a specific case where lying would produce better consequences.",
+        "A person judges an act by its expected value rather than its actual outcome because the negative result could not be anticipated.",
+        "A person considers only the pleasure and suffering caused by an act when determining its moral value."
+      ],
+      "answer_explanations": [
+        "Correct. The article uses exactly this example to criticize maximizing consequentialism: if donating 70% is the best action, then donating only 65% would be morally wrong, which the article says demands too much.",
+        "Incorrect. This describes rule consequentialism, where following a rule can require an act even when a different act would produce better consequences in a specific case.",
+        "Incorrect. This describes expected consequentialism, which evaluates acts based on expected rather than actual consequences.",
+        "Incorrect. This describes classical utilitarianism's focus on pleasure and suffering, not the maximizing-versus-satisficing distinction."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, what does classical utilitarianism claim about things like health, friendship, and knowledge?",
+      "options": [
+        "They have extrinsic value because they affect happiness and suffering, but they do not have intrinsic value.",
+        "They are the only sources of intrinsic value, along with happiness.",
+        "They have intrinsic value but are less important than happiness in moral calculations.",
+        "They have no value at all unless they directly produce pleasure for the agent."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that utilitarians 'do not deny that other things also have value, like health, friendship, and knowledge. However, they deny that these things have intrinsic value. Instead, they say that they have extrinsic value because they affect happiness and suffering.'",
+        "Incorrect. Classical utilitarianism sees happiness as the only source of intrinsic value; health, friendship, and knowledge are not intrinsic sources of value.",
+        "Incorrect. The article explicitly says utilitarians deny that these things have intrinsic value.",
+        "Incorrect. The article says these things have extrinsic value because they affect happiness and suffering, not that they have no value."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article identify as a core intuition behind consequentialism?",
+      "options": [
+        "The future should be shaped to achieve the best possible outcome.",
+        "Moral rules should be followed even when breaking them would produce better consequences in a specific case.",
+        "The moral value of an act depends on whether it adheres to duties like truth-telling and promise-keeping.",
+        "Virtues such as courage and compassion are the fundamental principle of morality."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'A core intuition behind consequentialism is that the future should be shaped to achieve the best possible outcome.'",
+        "Incorrect. This describes rule consequentialism or deontological thinking, not the core intuition of consequentialism generally.",
+        "Incorrect. Adherence to duties is characteristic of deontology, not consequentialism.",
+        "Incorrect. The manifestation of virtues as the fundamental principle of morality is characteristic of virtue ethics."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following best describes metaethics according to the article?",
+      "options": [
+        "Metaethics explores the underlying assumptions and concepts of ethics, such as whether objective moral facts exist and how moral judgments motivate people.",
+        "Metaethics aims to find general principles that govern how people should act in concrete real-life situations.",
+        "Metaethics describes the dominant moral codes and beliefs in different societies and their historical development.",
+        "Metaethics investigates psychological processes involved in morality, such as moral reasoning and character formation."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that metaethics 'explores the underlying assumptions and concepts of ethics. It asks whether there are objective moral facts, how moral knowledge is possible, and how moral judgments motivate people.'",
+        "Incorrect. Finding general principles for how people should act describes normative ethics, while examining concrete real-life problems describes applied ethics.",
+        "Incorrect. Describing dominant moral codes and beliefs in societies describes descriptive ethics.",
+        "Incorrect. Investigating psychological processes like reasoning and character formation describes moral psychology."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, how do normative ethics and descriptive ethics differ?",
+      "options": [
+        "Normative ethics investigates how people should act and what principles make acts right or wrong, while descriptive ethics describes the moral codes and beliefs people actually hold.",
+        "Normative ethics describes how people normally act, while descriptive ethics prescribes how people ought to act.",
+        "Normative ethics focuses only on concrete problems like abortion and business practices, while descriptive ethics focuses on abstract principles.",
+        "Normative ethics studies psychological processes of morality, while descriptive ethics studies historical changes in moral beliefs."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that normative ethics aims to discover general answers to questions like 'How should people act?' and does not aim to describe how people normally act; those descriptive topics belong to descriptive ethics.",
+        "Incorrect. This reverses the two fields; normative ethics prescribes, while descriptive ethics describes.",
+        "Incorrect. Concrete problems like abortion are the subject of applied ethics, not normative ethics exclusively.",
+        "Incorrect. Psychological processes belong to moral psychology, not normative ethics."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, which of the following is true about the relationship between consequentialism, deontology, and virtue ethics?",
+      "options": [
+        "They are usually presented as exclusive alternatives, but depending on how they are defined, they can overlap and do not necessarily exclude one another.",
+        "They are entirely separate and mutually exclusive theories with no possible overlap.",
+        "They always recommend the same course of action but differ only in their justifications.",
+        "They differ only in which acts they see as right or wrong and never agree on recommendations."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'These schools are usually presented as exclusive alternatives, but depending on how they are defined, they can overlap and do not necessarily exclude one another.'",
+        "Incorrect. The article explicitly says they can overlap and do not necessarily exclude one another.",
+        "Incorrect. The article says they sometimes recommend the same action but provide different justifications, not that they always do so.",
+        "Incorrect. The article says they sometimes differ in which acts are right or wrong, but in other cases they recommend the same action."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which scenario best illustrates agent-neutral consequentialism as described in the article?",
+      "options": [
+        "A judge imposes a sentence because it produces the best outcome for society as a whole, not merely because it benefits the judge personally.",
+        "A person donates to charity only when the donation also improves their own reputation.",
+        "A doctor tells a patient the truth because truth-telling is a duty, regardless of the consequences.",
+        "A person cultivates courage and compassion because virtues are the fundamental principle of morality."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines agent-neutral consequentialism as assessing consequences from a neutral perspective where acts should have consequences that are good in general, not just good for the agent.",
+        "Incorrect. This describes an agent-relative approach, where value is assessed based on what is good for the agent personally.",
+        "Incorrect. Telling the truth because it is a duty regardless of consequences describes deontology.",
+        "Incorrect. Cultivating virtues as the fundamental principle of morality describes virtue ethics."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is one difficulty of actual consequentialism?",
+      "options": [
+        "Many consequences cannot be known in advance, so even well-intentioned acts can be morally wrong if they inadvertently lead to negative outcomes.",
+        "It requires people to always choose the best possible act, which demands more than social expectations.",
+        "It cannot account for acts that have intrinsic value or disvalue apart from their consequences.",
+        "It requires evaluating rules at a community level rather than assessing individual acts directly."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that one difficulty of actual consequentialism is that 'many consequences cannot be known in advance,' meaning well-planned acts can be morally wrong if they inadvertently lead to negative outcomes.",
+        "Incorrect. This describes a criticism of maximizing consequentialism, not actual consequentialism.",
+        "Incorrect. The article mentions that the act itself is usually not seen as part of the consequences, but this is not identified as the specific difficulty of actual consequentialism.",
+        "Incorrect. Evaluating rules at a community level describes rule consequentialism."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what is the relationship between the good and the right in consequentialist theories?",
+      "options": [
+        "Consequentialist theories characterize what is good and then define what is right in terms of what is good.",
+        "Consequentialist theories define what is good in terms of what is right, deriving value from the rightness of acts.",
+        "Consequentialist theories treat the good and the right as entirely independent and unrelated concepts.",
+        "Consequentialist theories claim that the rightness of an act depends on its intrinsic value, not on its consequences."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'A key aspect of consequentialist theories is that they provide a characterization of what is good and then define what is right in terms of what is good.'",
+        "Incorrect. This reverses the relationship described in the article.",
+        "Incorrect. The article explicitly links the right to the good in consequentialist theories.",
+        "Incorrect. Consequentialism defines rightness in terms of consequences and the good, not intrinsic value of acts."
+      ]
+    }
+  ]
+}

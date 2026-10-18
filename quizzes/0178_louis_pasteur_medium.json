@@ -1,0 +1,167 @@
+{
+  "article_id": "0178",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What did Pasteur's experiment with sterilized and sealed flasks demonstrate?",
+      "options": [
+        "Nothing ever developed in sterilized and sealed flasks",
+        "Microorganisms grew readily in sterilized and sealed flasks",
+        "Only sealed flasks prevented microbial growth",
+        "Sterilized flasks always developed microorganisms regardless of sealing"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'in sterilized and sealed flasks, nothing ever developed; conversely, in sterilized but open flasks, microorganisms could grow.'",
+        "Incorrect. The article states that nothing developed in sterilized and sealed flasks, not that microorganisms grew readily there.",
+        "Incorrect. The article does not claim that only sealed flasks prevented microbial growth; it contrasts sealed flasks with open ones.",
+        "Incorrect. The article explicitly states that nothing developed in sterilized and sealed flasks, contradicting this claim."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What was Pasteur's oft-quoted remark about observation and chance?",
+      "options": [
+        "\"In the field of observation, chance favors only the prepared mind\"",
+        "\"Chance favors the bold observer\"",
+        "\"Observation alone reveals the secrets of nature\"",
+        "\"Prepared minds never rely on chance\""
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes Pasteur as saying: 'dans les champs de l'observation, le hasard ne favorise que les esprits prÃ©parÃ©s' ('In the field of observation, chance favors only the prepared mind').",
+        "Incorrect. This phrase does not appear in the article; the quoted remark specifically mentions the prepared mind.",
+        "Incorrect. The article does not contain this statement; Pasteur's remark focuses on chance favoring the prepared mind.",
+        "Incorrect. The article's quote says chance favors the prepared mind, not that prepared minds never rely on chance."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What did Pasteur conclude about the corpuscles found on silkworms with pÃ©brine?",
+      "options": [
+        "The corpuscles were the cause of pÃ©brine",
+        "The corpuscles were merely a symptom of the disease",
+        "The corpuscles were caused by a microsporidian",
+        "The corpuscles had no connection to the disease"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'In 1870, he concluded that the corpuscles were the cause of pÃ©brine.'",
+        "Incorrect. The article says Pasteur initially thought the corpuscles were a symptom during the first three years, but later concluded they were the cause.",
+        "Incorrect. While the article notes it is now known the cause is a microsporidian, Pasteur's own conclusion was that the corpuscles caused the disease.",
+        "Incorrect. The article clearly states Pasteur concluded the corpuscles were the cause of pÃ©brine."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What did Pasteur demonstrate about fermentation?",
+      "options": [
+        "Yeast was responsible for fermentation to produce alcohol from sugar",
+        "Fermentation was caused by decomposition",
+        "Fermentation occurred only in the presence of air",
+        "Fermentation required lactic acid bacteria exclusively"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'Pasteur demonstrated that this theory was incorrect, and that yeast was responsible for fermentation to produce alcohol from sugar.'",
+        "Incorrect. The article says Berzelius and Liebig proposed decomposition caused fermentation, but Pasteur demonstrated this theory was incorrect.",
+        "Incorrect. The article notes that less sugar fermented when yeast was exposed to air, not that fermentation occurred only in air.",
+        "Incorrect. The article discusses alcoholic fermentation by yeast and lactic acid fermentation separately, not that fermentation required lactic acid bacteria exclusively."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What was the outcome of Pasteur's threat to expel students caught smoking at the Ãcole Normale SupÃ©rieure?",
+      "options": [
+        "73 of the 80 students resigned",
+        "All students stopped smoking immediately",
+        "The students were expelled en masse",
+        "No students were affected by the threat"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'he threatened to expel any student caught smoking, and 73 of the 80 students in the school resigned.'",
+        "Incorrect. The article does not say students stopped smoking; it says 73 of 80 resigned.",
+        "Incorrect. The article says students resigned, not that they were expelled.",
+        "Incorrect. The article states that 73 of the 80 students resigned in response to the threat."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did Pasteur's investigation of sodium ammonium tartrate initiate?",
+      "options": [
+        "The field of optical isomerism",
+        "The study of molecular asymmetry in crystals",
+        "The discovery of racemization",
+        "The development of pasteurization"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'Early in his career, his investigation of sodium ammonium tartrate initiated the field of optical isomerism.'",
+        "Incorrect. While related to molecular asymmetry, the article specifically says the investigation initiated optical isomerism, not the broader study of molecular asymmetry in crystals.",
+        "Incorrect. The article mentions racemization as a separate discovery, not as what the tartrate investigation initiated.",
+        "Incorrect. Pasteurization is discussed in the context of milk and wine, not sodium ammonium tartrate."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What did Pasteur's research show about the growth of micro-organisms and beverages?",
+      "options": [
+        "The growth of micro-organisms was responsible for spoiling beverages such as beer, wine and milk",
+        "Micro-organisms improved the flavor of beverages",
+        "Only wine was affected by micro-organism contamination",
+        "Beverages could not be spoiled by micro-organisms"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'Pasteur's research also showed that the growth of micro-organisms was responsible for spoiling beverages, such as beer, wine and milk.'",
+        "Incorrect. The article says micro-organisms spoiled beverages, not that they improved flavor.",
+        "Incorrect. The article lists beer, wine, and milk as beverages spoiled by micro-organisms, not only wine.",
+        "Incorrect. The article explicitly states that micro-organisms were responsible for spoiling beverages."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did Pasteur develop to prevent pÃ©brine in silkworms?",
+      "options": [
+        "A system where female moths were pulped and examined microscopically for corpuscles before their eggs were used",
+        "A vaccine administered to silkworm eggs",
+        "A method of isolating infected silkworms from healthy ones",
+        "A chemical treatment applied to mulberry leaves"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Pasteur developed a system where moths were turned into pulp, examined with a microscope, and if corpuscles were observed, the eggs were destroyed.",
+        "Incorrect. The article does not mention a vaccine for silkworm eggs.",
+        "Incorrect. The article describes microscopic examination of moth pulp, not isolation of infected silkworms.",
+        "Incorrect. The article does not mention chemical treatment of mulberry leaves as a prevention method."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What did Pasteur's work on tartaric acid demonstrate about optical activity?",
+      "options": [
+        "Optical activity related to the shape of the crystals and an asymmetric internal arrangement of molecules",
+        "Optical activity depended solely on the chemical composition of the compound",
+        "Synthetic tartaric acid rotated light more strongly than natural tartaric acid",
+        "Only right-handed tartrates exhibited optical activity"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'Pasteur determined that optical activity related to the shape of the crystals, and that an asymmetric internal arrangement of the molecules of the compound was responsible for twisting the light.'",
+        "Incorrect. The article notes that synthetic tartaric acid had identical chemical reactions and elemental composition but no optical effect, showing composition alone did not determine optical activity.",
+        "Incorrect. The article states synthetic tartaric acid had no optical effect, not that it rotated light more strongly.",
+        "Incorrect. The article states both right-handed and left-handed tartrates existed in racemic mixtures, so optical activity was not limited to right-handed forms."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What position did Pasteur hold at the Pasteur Institute until his death?",
+      "options": [
+        "Director",
+        "Founding chemist",
+        "Head of bacteriology",
+        "Honorary president"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'He was the director of the Pasteur Institute, established in 1887, until his death.'",
+        "Incorrect. While he founded the institute, the article specifically identifies his role as director until his death.",
+        "Incorrect. The article does not mention a position called 'head of bacteriology' at the institute.",
+        "Incorrect. The article states he was the director, not an honorary president."
+      ]
+    }
+  ]
+}

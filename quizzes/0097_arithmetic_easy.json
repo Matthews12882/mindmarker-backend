@@ -1,0 +1,167 @@
+{
+  "article_id": "0097",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is listed as a basic arithmetic operation in the article?",
+      "options": [
+        "addition",
+        "integration",
+        "differentiation",
+        "optimization"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists addition as one of the basic arithmetic operations.",
+        "Incorrect. Integration is not listed among the arithmetic operations in the article.",
+        "Incorrect. Differentiation is not listed among the arithmetic operations in the article.",
+        "Incorrect. Optimization is not listed among the arithmetic operations in the article."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does binary arithmetic use as its basic numerals?",
+      "options": [
+        "0 and 1",
+        "0 through 9",
+        "I, V, X, L, C, D, M",
+        "0 through 60"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that binary arithmetic represents numbers as combinations of the basic numerals 0 and 1.",
+        "Incorrect. The numerals 0 through 9 are used in decimal arithmetic, not binary arithmetic.",
+        "Incorrect. I, V, X, L, C, D, M are the basic numerals of the Roman numeral system.",
+        "Incorrect. A radix of 60 was used by the ancient Babylonians, not binary arithmetic."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the identity element of addition according to the article?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "10"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the identity element of addition is 0 since any sum of a number and 0 results in the same number.",
+        "Incorrect. The article identifies 0, not 1, as the identity element of addition.",
+        "Incorrect. The article identifies 0, not -1, as the identity element of addition.",
+        "Incorrect. The article identifies 0, not 10, as the identity element of addition."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which ancient civilization is credited with developing the concept of zero and the decimal system?",
+      "options": [
+        "ancient Indians",
+        "ancient Egyptians",
+        "ancient Greeks",
+        "ancient Babylonians"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ancient Indians developed the concept of zero and the decimal system.",
+        "Incorrect. The article credits the ancient Egyptians with inventing numeral systems around 3000 BCE, not zero and the decimal system.",
+        "Incorrect. The article states that the ancient Greeks initiated a more abstract study of numbers and introduced rigorous mathematical proofs.",
+        "Incorrect. The article states that the earliest positional system was developed by the ancient Babylonians with a radix of 60."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What kind of numbers are whole numbers identical to, except that they include 0?",
+      "options": [
+        "natural numbers",
+        "integers",
+        "rational numbers",
+        "real numbers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that whole numbers are identical to the natural numbers with the only difference being that they include 0.",
+        "Incorrect. The article does not state that whole numbers are identical to integers except for including 0.",
+        "Incorrect. The article does not state that whole numbers are identical to rational numbers except for including 0.",
+        "Incorrect. The article does not state that whole numbers are identical to real numbers except for including 0."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the radix of the decimal system?",
+      "options": [
+        "10",
+        "2",
+        "60",
+        "100"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in the common decimal system, the radix is 10.",
+        "Incorrect. The article states that the binary system has a radix of 2, not the decimal system.",
+        "Incorrect. The article states that the earliest positional system developed by the ancient Babylonians had a radix of 60.",
+        "Incorrect. The article does not state that the decimal system has a radix of 100."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What do cardinal numbers express?",
+      "options": [
+        "the quantity of objects",
+        "order or placement in a series",
+        "the ratio of two integers",
+        "geometric magnitudes"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that cardinal numbers express the quantity of objects and answer the question 'how many?'.",
+        "Incorrect. Ordinal numbers, not cardinal numbers, indicate order or placement in a series.",
+        "Incorrect. Rational numbers can be represented as the ratio of two integers, not cardinal numbers.",
+        "Incorrect. Irrational numbers are often required to describe geometric magnitudes, not cardinal numbers."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an example of an irrational number given in the article?",
+      "options": [
+        "the square root of 2",
+        "one half",
+        "0.3",
+        "25.12"
+      ],
+      "answer_explanations": [
+        "Correct. The article gives the square root of 2 as an example of an irrational number.",
+        "Incorrect. One half is given as an example of a rational number.",
+        "Incorrect. 0.3 is given as an example of a decimal fraction, which is a type of rational number.",
+        "Incorrect. 25.12 is given as an example of a decimal fraction, which is a type of rational number."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the article say about the decimal representation of an irrational number?",
+      "options": [
+        "it is infinite without repeating decimals",
+        "it always terminates",
+        "it repeats every digit",
+        "it contains only zeros"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the decimal representation of an irrational number is infinite without repeating decimals.",
+        "Incorrect. The article states that irrational numbers have infinite non-repeating decimal representations, not terminating ones.",
+        "Incorrect. The article states that irrational numbers do not have repeating decimals.",
+        "Incorrect. The article does not state that irrational numbers contain only zeros in their decimal representation."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is subtraction the inverse of, according to the article?",
+      "options": [
+        "addition",
+        "multiplication",
+        "exponentiation",
+        "logarithm"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that subtraction is the inverse of addition since a number returns to its original value if a second number is first added and subsequently subtracted.",
+        "Incorrect. The article identifies subtraction as the inverse of addition, not multiplication.",
+        "Incorrect. The article identifies subtraction as the inverse of addition, not exponentiation.",
+        "Incorrect. The article identifies subtraction as the inverse of addition, not logarithm."
+      ]
+    }
+  ]
+}

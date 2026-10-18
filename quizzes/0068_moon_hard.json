@@ -1,0 +1,167 @@
+{
+  "article_id": "0068",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If the Moon were moved to an independent orbit around the Sun, what would be required for the EarthâMoon system to be classified as a double planet under the view held by most scientists?",
+      "options": [
+        "The MoonâEarth barycenter would need to lie outside of Earth.",
+        "The Moon would need to clear its orbit around the Sun.",
+        "The Moon would need to be more massive than Io.",
+        "The Moon would need to orbit Earth in a circular path."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that most scientists agree identifying the EarthâMoon system as a double planet would require the MoonâEarth barycenter to be outside of Earth, which it is not.",
+        "Incorrect. While the article notes the Moon's mass would be enough to clear its orbit around the Sun if it were on its own, this is not what most scientists require for a double planet classification.",
+        "Incorrect. The article compares the Moon's surface gravity to Io's but does not link Io's mass to double planet criteria.",
+        "Incorrect. The article describes the Moon's orbit as elliptical, not circular, and does not connect orbital shape to double planet classification."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the article identify as the main driver of Earth's tides?",
+      "options": [
+        "Tidal forces from the Moon's gravitational attraction.",
+        "The Moon's elliptical orbit around Earth.",
+        "The Sun's gravitational pull on Earth's oceans.",
+        "Earth's rotation on its axis."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the resulting tidal forces from gravitational attraction are the main driver of Earth's tides.",
+        "Incorrect. The elliptical orbit is mentioned as the Moon's path, but not as the main driver of tides.",
+        "Incorrect. The Sun is mentioned in relation to the synodic period, not as the main driver of tides.",
+        "Incorrect. Earth's rotation is not identified in the article as the main driver of tides."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, why is the same side of the Moon always facing Earth?",
+      "options": [
+        "Tidal locking has synchronized the Moon's rotation period with its orbital period.",
+        "The Moon does not rotate on its axis.",
+        "Earth's gravity only pulls on the Moon's near side.",
+        "The Moon's surface gravity is one-sixth of Earth's."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that tidal forces have pulled the Moon to always face Earth with the same near side, a condition called tidal locking that synchronizes its rotation period with its orbital period.",
+        "Incorrect. The article explicitly says the Moon's rotation period is synchronized to its orbital period, meaning it does rotate.",
+        "Incorrect. The article says gravitational attraction is stronger on the sides facing each other, not that it acts only on the near side.",
+        "Incorrect. The Moon's surface gravity being one-sixth of Earth's is a separate fact and not the cause of the same side facing Earth."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Based on the article, what can be inferred about the Moon's surface compared to Earth's continents?",
+      "options": [
+        "The Moon's diameter is roughly as wide as the contiguous United States.",
+        "The Moon has a larger land area than all of Earth's continents combined.",
+        "The Moon's surface is entirely covered by maria.",
+        "The Moon's crust is thicker than Earth's continental crust."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Moon's diameter is 3,474 km, roughly one-quarter of Earth's, about as wide as the contiguous United States.",
+        "Incorrect. The article does not compare the Moon's total surface area to Earth's continents.",
+        "Incorrect. The article describes maria as dark plains filling ancient craters, not as covering the entire surface.",
+        "Incorrect. The article notes the near side's crust is thinner than the far side's, but does not compare lunar crust thickness to Earth's continental crust."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "If a new moon were discovered with surface gravity higher than the Moon's but lower than Io's, how would it rank among Solar System moons according to the article?",
+      "options": [
+        "It could rank second-highest in surface gravity among all moons.",
+        "It would rank first in surface gravity among all moons.",
+        "It would rank below the Moon in surface gravity among all moons.",
+        "It would be the most massive moon in the Solar System."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Moon's surface gravity is the second-highest among all moons after Io, so a moon between them would also be second-highest.",
+        "Incorrect. Io has the highest surface gravity among moons according to the article, so the new moon could not rank first.",
+        "Incorrect. Since the new moon's gravity is higher than the Moon's, it would not rank below the Moon.",
+        "Incorrect. The article does not connect surface gravity ranking to being the most massive moon."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the article suggest about the Moon's formation age based on isotopic dating?",
+      "options": [
+        "The Moon formed 4.35 billion years ago, late in the history of the Solar System.",
+        "The Moon formed within the first 200 million years after the origin of the Solar System, with major rock types reporting 4.35 Gyr.",
+        "The Moon formed 1.2 billion years ago when volcanic activity ended.",
+        "The Moon formed at the same time as Earth, 4.54 billion years ago."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that isotope dating of lunar samples suggests formation in the first 200 million years after the Solar System's origin, with the most reliable measurements reporting 4.35 Gyr.",
+        "Incorrect. This option omits the specific 4.35 Gyr measurement highlighted as the most reliable across major rock types.",
+        "Incorrect. 1.2 billion years ago refers to the end of lunar volcanic activity, not formation.",
+        "Incorrect. The article does not state the Moon formed at the same time as Earth or give an age of 4.54 billion years."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following best describes the Moon's status in geophysical terms according to the article?",
+      "options": [
+        "A planetary-mass object or satellite planet.",
+        "A dwarf planet larger than any known moon.",
+        "A terrestrial planet with a substantial hydrosphere.",
+        "A captured asteroid in an elliptical orbit."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in geophysical terms, the Moon is a planetary-mass object or satellite planet.",
+        "Incorrect. The article says the Moon is larger and more massive than any known dwarf planet, not that it is a dwarf planet.",
+        "Incorrect. The article describes the Moon as terrestrial but notes it has only a minuscule hydrosphere, not a substantial one.",
+        "Incorrect. The article describes the Moon as Earth's natural satellite formed from a giant impact, not as a captured asteroid."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Based on the article, what explains the uneven distribution of lunar mare basalts between the near and far sides?",
+      "options": [
+        "The relative thinness of the crust on the near side is hypothesized to be a factor.",
+        "The far side experienced more volcanic activity until 1.2 billion years ago.",
+        "Impact craters on the near side prevented lava from surfacing.",
+        "The maria formed primarily during the Imbrian period on the far side."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the reasons for the uneven distribution are not yet known, although the relative thinness of the crust on the near side is hypothesized to be a factor.",
+        "Incorrect. The article says volcanic activity occurred on the Moon generally until 1.2 billion years ago, not specifically more on the far side.",
+        "Incorrect. The article suggests large impacts on the near side may have made it easier for lava to flow, not that craters prevented lava.",
+        "Incorrect. The article says most mare basalts erupted during the Imbrian period and predominantly appear on the near side, not the far side."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "If a spacecraft were to land on the Moon today, what approximate fraction of Earth's surface gravity would it experience?",
+      "options": [
+        "About one-sixth.",
+        "About one-half.",
+        "About equal to Earth's.",
+        "About one-quarter."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Moon's surface gravity is about one-sixth of Earth's.",
+        "Incorrect. The article says the Moon's surface gravity is about half that of Mars, not half of Earth's.",
+        "Incorrect. The article explicitly gives the Moon's gravity as about one-sixth of Earth's, not equal.",
+        "Incorrect. The article does not state the Moon's gravity is one-quarter of Earth's."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article indicate about the visibility of the Moon's far side from Earth?",
+      "options": [
+        "About 59% of the lunar surface is visible from Earth due to libration, making parts of the far side visible.",
+        "Only the near side is visible from Earth because the Moon is tidally locked.",
+        "The far side is completely visible during a lunar eclipse.",
+        "The far side is never visible from Earth under any circumstances."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that about 59% of the Moon's surface is visible from Earth owing to libration, making parts of the far side visible.",
+        "Incorrect. While the Moon is tidally locked to show the same near side, libration still allows parts of the far side to be seen.",
+        "Incorrect. The article does not connect lunar eclipses to visibility of the far side.",
+        "Incorrect. The article explicitly states parts of the far side are visible due to libration."
+      ]
+    }
+  ]
+}

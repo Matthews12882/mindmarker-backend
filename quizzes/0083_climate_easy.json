@@ -1,0 +1,167 @@
+{
+  "article_id": "0083",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the standard averaging period used to define climate?",
+      "options": [
+        "30 years",
+        "10 years",
+        "50 years",
+        "100 years"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the standard averaging period is 30 years, as defined by the World Meteorological Organization.",
+        "Incorrect. The article does not mention 10 years as the standard averaging period.",
+        "Incorrect. The article does not mention 50 years as the standard averaging period.",
+        "Incorrect. The article does not mention 100 years as the standard averaging period."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed as a commonly measured meteorological variable?",
+      "options": [
+        "temperature",
+        "soil color",
+        "ocean salinity",
+        "cloud height"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists temperature among the commonly measured meteorological variables.",
+        "Incorrect. Soil color is not mentioned as a commonly measured meteorological variable.",
+        "Incorrect. Ocean salinity is not mentioned as a commonly measured meteorological variable.",
+        "Incorrect. Cloud height is not mentioned as a commonly measured meteorological variable."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which climate classification scheme is described as the most widely used?",
+      "options": [
+        "KÃ¶ppen climate classification",
+        "Thornthwaite system",
+        "Bergeron system",
+        "Spatial Synoptic Classification"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the most widely used classification scheme is the KÃ¶ppen climate classification.",
+        "Incorrect. The Thornthwaite system is mentioned but not described as the most widely used.",
+        "Incorrect. The Bergeron system is mentioned but not described as the most widely used.",
+        "Incorrect. The Spatial Synoptic Classification is mentioned but not described as the most widely used."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is paleoclimatology the study of?",
+      "options": [
+        "ancient climates",
+        "modern weather instruments",
+        "future climate models",
+        "daily weather forecasts"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines paleoclimatology as the study of ancient climates.",
+        "Incorrect. Modern weather instruments are discussed under the modern climate record, not paleoclimatology.",
+        "Incorrect. Future climate models are discussed separately from paleoclimatology.",
+        "Incorrect. Daily weather forecasts are not the subject of paleoclimatology."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is given as an example of proxy evidence used to infer paleoclimates?",
+      "options": [
+        "tree rings",
+        "satellite images",
+        "thermometer readings",
+        "weather balloons"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists tree rings as biotic evidence used to infer paleoclimates.",
+        "Incorrect. Satellite images are not listed as proxy evidence for paleoclimates.",
+        "Incorrect. Thermometer readings are direct observations, not proxy evidence.",
+        "Incorrect. Weather balloons are not mentioned as proxy evidence."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did the technical commission designate at its 1934 Wiesbaden meeting?",
+      "options": [
+        "the thirty-year period from 1901 to 1930 as the reference time frame",
+        "the KÃ¶ppen climate classification",
+        "satellite records as the primary data source",
+        "the Thornthwaite system"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that at the 1934 Wiesbaden meeting, the commission designated the period from 1901 to 1930 as the reference time frame.",
+        "Incorrect. The KÃ¶ppen climate classification is not linked to the Wiesbaden meeting.",
+        "Incorrect. Satellite records are not mentioned in connection with the Wiesbaden meeting.",
+        "Incorrect. The Thornthwaite system is not linked to the Wiesbaden meeting."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which phrase summarizes the difference between climate and weather?",
+      "options": [
+        "\"Climate is what you expect, weather is what you get.\"",
+        "\"Weather is what you expect, climate is what you get.\"",
+        "\"Climate is short-term, weather is long-term.\"",
+        "\"Weather is averaged over 30 years.\""
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes this phrase to summarize the difference between climate and weather.",
+        "Incorrect. The article does not present this reversed version of the phrase.",
+        "Incorrect. The article states the opposite: climate is long-term and weather is short-term.",
+        "Incorrect. The article states that climate, not weather, is averaged over 30 years."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following affects the climate of a location?",
+      "options": [
+        "latitude",
+        "population density",
+        "time zone",
+        "language spoken"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists latitude as a factor affecting the climate of a location.",
+        "Incorrect. Population density is not listed as a climate determinant.",
+        "Incorrect. Time zone is not listed as a climate determinant.",
+        "Incorrect. Language spoken is not listed as a climate determinant."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What are the major classifications in Thornthwaite's climate classification?",
+      "options": [
+        "microthermal, mesothermal, and megathermal",
+        "tropical, dry, and temperate",
+        "A, B, and C",
+        "marine, continental, and polar"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the major classifications in Thornthwaite's system are microthermal, mesothermal, and megathermal.",
+        "Incorrect. Tropical, dry, and temperate are not the major classifications in Thornthwaite's system.",
+        "Incorrect. A, B, and C are not mentioned as Thornthwaite classifications.",
+        "Incorrect. Marine, continental, and polar are not the major classifications in Thornthwaite's system."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does climate variability describe?",
+      "options": [
+        "variations in the mean state and other characteristics of climate",
+        "only extreme weather events",
+        "only human-caused climate change",
+        "only daily temperature fluctuations"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines climate variability as variations in the mean state and other characteristics of climate on all spatial and temporal scales beyond individual weather events.",
+        "Incorrect. Climate variability is not limited to extreme weather events.",
+        "Incorrect. Climate variability is not limited to human-caused climate change.",
+        "Incorrect. Climate variability is not limited to daily temperature fluctuations."
+      ]
+    }
+  ]
+}

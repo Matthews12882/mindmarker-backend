@@ -1,0 +1,167 @@
+{
+  "article_id": "0097",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A student claims that because subtraction undoes addition, the additive inverse of 6 is -6. Which aspect of this claim is supported by the article?",
+      "options": [
+        "The additive inverse of 6 is -6 because their sum is 0, which is the identity element of addition.",
+        "Subtraction undoes addition because subtracting a number after adding it restores the original value.",
+        "The additive inverse of 6 is -6 because subtracting 6 from -6 yields 0.",
+        "The additive inverse of 6 is -6 because -6 is the result of applying subtraction to 6."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the additive inverse of the number 6 is -6 since their sum is 0, and 0 is the identity element of addition.",
+        "Incorrect. While the article notes that subtraction is the inverse of addition, this explains inverse operations rather than why -6 is the additive inverse of 6.",
+        "Incorrect. The article does not state that subtracting 6 from -6 yields 0; it states that the sum of 6 and -6 is 0.",
+        "Incorrect. The article defines the additive inverse through addition resulting in the identity element 0, not through applying subtraction to 6."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "A programmer must choose a numeral system for a new computing device that will process data in groups of two states. Which numeral system described in the article aligns with this requirement?",
+      "options": [
+        "The binary system, which has a radix of 2 and represents numbers using combinations of 0 and 1.",
+        "The decimal system, which uses basic numerals from 0 to 9 and their combinations.",
+        "The unary numeral system, which repeats a single symbol to represent higher numbers.",
+        "The Babylonian positional system, which had a radix of 60."
+      ],
+      "answer_explanations": [
+        "Correct. The article describes the binary system as having a radix of 2 and being used extensively in computer arithmetic, with each digit corresponding to one bit.",
+        "Incorrect. The article describes the decimal system as using numerals 0 to 9, which does not match a system based on two states.",
+        "Incorrect. The article describes the unary system as repeating one symbol, which is not based on two states and is cumbersome for large numbers.",
+        "Incorrect. The article states the earliest positional system was Babylonian with a radix of 60, which does not align with two states."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "A historian argues that the ancient Greeks were the first civilization to invent numeral systems for solving practical arithmetic problems. How does the article contradict this claim?",
+      "options": [
+        "The article states that the Egyptians and Sumerians invented numeral systems for practical arithmetic problems around 3000 BCE, while the Greeks began a more abstract study starting in the 7th and 6th centuries BCE.",
+        "The article states that the ancient Indians developed the concept of zero and the decimal system before the Greeks.",
+        "The article states that the Babylonians developed the earliest positional system with a radix of 60.",
+        "The article states that mechanical calculators were invented in the 17th century, predating Greek mathematics."
+      ],
+      "answer_explanations": [
+        "Correct. The article credits the Egyptians and Sumerians with inventing numeral systems for practical problems around 3000 BCE, whereas the Greeks initiated abstract study and proofs starting in the 7th and 6th centuries BCE.",
+        "Incorrect. The article credits the ancient Indians with zero and the decimal system, but does not place this before the Egyptians and Sumerians or directly refute the Greek claim in this way.",
+        "Incorrect. The Babylonian positional system with radix 60 is mentioned, but the article does not use it to contradict the claim about who first invented numeral systems for practical problems.",
+        "Incorrect. The 17th-century mechanical calculators are much later than the ancient civilizations discussed and do not address the origin of numeral systems."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "A mathematician is designing a system that includes both rational and irrational numbers. According to the article, what broader set does this combination form?",
+      "options": [
+        "The set of real numbers.",
+        "The set of complex numbers.",
+        "The set of integers.",
+        "The set of natural numbers."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the set of rational numbers together with the set of irrational numbers makes up the set of real numbers.",
+        "Incorrect. The article lists complex numbers as an even wider class of numbers, not as the combination of rational and irrational numbers.",
+        "Incorrect. The article states that integers are included within rational numbers, not that they result from combining rational and irrational numbers.",
+        "Incorrect. Natural numbers are described as counting numbers starting from 1 and are unrelated to combining rational and irrational numbers."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "A student is told that an operation is commutative if changing the order of its arguments does not affect the result. Based on the article, which of the following arithmetic operations is NOT guaranteed to be commutative?",
+      "options": [
+        "Subtraction.",
+        "Addition.",
+        "Multiplication.",
+        "Exponentiation."
+      ],
+      "answer_explanations": [
+        "Correct. The article introduces commutativity as a law governing the order of some arithmetic operations, implying it does not apply to all operations; subtraction is a standard example where order matters.",
+        "Incorrect. Addition is generally commutative and is one of the primary arithmetic operations discussed in the article.",
+        "Incorrect. Multiplication is generally commutative and is one of the primary arithmetic operations discussed in the article.",
+        "Incorrect. While exponentiation is also non-commutative, the article does not single it out as the answer; subtraction is the clearer contrast to addition among the basic operations."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "A researcher wants to study how numbers developed and the axiomatic structure of arithmetic operations. According to the article, which understanding of arithmetic should the researcher adopt?",
+      "options": [
+        "The wider sense of arithmetic, which includes the study of how the concept of numbers developed and the examination of the axiomatic structure of arithmetic operations.",
+        "The narrow characterization, which deals only with natural numbers.",
+        "The restricted view, which limits arithmetic to the field of numerical calculations.",
+        "Number theory, which focuses on integers and their properties such as divisibility and primality."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that when arithmetic is understood in a wider sense, it includes the study of how the concept of numbers developed and the examination of the axiomatic structure of arithmetic operations.",
+        "Incorrect. The narrow characterization restricts arithmetic to natural numbers and does not include the historical or axiomatic study described.",
+        "Incorrect. Restricting arithmetic to numerical calculations excludes the broader study of number concepts and axiomatic structure.",
+        "Incorrect. Number theory is described as restricted to integers and their properties, distinct from the wider understanding of arithmetic."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "A teacher explains that whole numbers differ from natural numbers in one specific way. According to the article, what is that difference?",
+      "options": [
+        "Whole numbers include 0, whereas natural numbers start from 1 and exclude 0.",
+        "Whole numbers include negative numbers, whereas natural numbers do not.",
+        "Whole numbers are fractions with a denominator of 1, whereas natural numbers are not.",
+        "Whole numbers are used only for ordinal purposes, whereas natural numbers are used only for cardinal purposes."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that whole numbers are identical to natural numbers except that they include 0, while natural numbers start from 1 and exclude 0.",
+        "Incorrect. The article associates negative numbers with integers, not whole numbers.",
+        "Incorrect. The article states that all integers are fractions with a denominator of 1, but does not distinguish whole numbers from natural numbers this way.",
+        "Incorrect. The article discusses cardinal and ordinal numbers as uses of natural and whole numbers, not as a distinction between the two sets."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "A student claims that every rational number has a decimal representation that is either finite or repeating. According to the article, is this claim accurate?",
+      "options": [
+        "Yes, the article states that every rational number corresponds to a finite or a repeating decimal.",
+        "No, the article states that rational numbers have infinite non-repeating decimal representations.",
+        "Yes, but only for decimal fractions like 0.3 and 25.12, not for all rational numbers.",
+        "No, the article states that only irrational numbers have finite or repeating decimals."
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly states that every rational number corresponds to a finite or a repeating decimal.",
+        "Incorrect. The article describes infinite non-repeating decimals as a feature of irrational numbers, not rational numbers.",
+        "Incorrect. The article extends the finite or repeating decimal property to every rational number, not just decimal fractions.",
+        "Incorrect. The article attributes infinite non-repeating decimals to irrational numbers, not finite or repeating decimals."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "A student is asked to identify which set of numbers includes both rational and irrational numbers. According to the article, which set is this?",
+      "options": [
+        "The set of real numbers.",
+        "The set of integers.",
+        "The set of natural numbers.",
+        "The set of complex numbers."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the set of rational numbers together with the set of irrational numbers makes up the set of real numbers.",
+        "Incorrect. The article states that integers are included within rational numbers, not that they combine rational and irrational numbers.",
+        "Incorrect. Natural numbers are described as counting numbers starting from 1 and do not include irrational numbers.",
+        "Incorrect. Complex numbers are described as an even wider class of numbers, not as the combination of rational and irrational numbers."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "A student is asked to identify the identity element of addition. According to the article, what is it?",
+      "options": [
+        "0, because any sum of a number and 0 results in the same number.",
+        "1, because multiplying any number by 1 results in the same number.",
+        "-6, because it is the additive inverse of 6.",
+        "There is no identity element for addition."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the identity element of addition is 0 since any sum of a number and 0 results in the same number.",
+        "Incorrect. The article does not identify 1 as the identity element of addition; 1 is the multiplicative identity, which is not discussed here.",
+        "Incorrect. The article identifies -6 as the additive inverse of 6, not as the identity element of addition.",
+        "Incorrect. The article explicitly identifies 0 as the identity element of addition."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0075",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A species alternates between haploid and diploid phases, and the diploid phase benefits from heterosis. According to the article, what evolutionary advantage is suggested as an explanation for why bryophytes retain sexual reproduction even though their haploid stage does not benefit from heterosis?",
+      "options": [
+        "Genetic recombination between members of the species allows expression of a wider range of traits and improves survival under environmental variation.",
+        "Heterosis extends to the haploid stage in bryophytes, compensating for the lack of diploid advantage.",
+        "Bryophytes rely exclusively on autogamy, which eliminates the need for heterosis during the haploid phase.",
+        "The diploid stage in bryophytes is long-lived, ensuring heterosis is expressed throughout most of the life cycle."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that bryophytes may retain sexual reproduction for advantages other than heterosis, such as genetic recombination between members of the species, allowing expression of a wider range of traits and making the population more able to survive environmental variation.",
+        "Incorrect. The article explicitly says the haploid stage does not benefit from heterosis and that the diploid stage is relatively small and short-lived.",
+        "Incorrect. Autogamy is discussed as self-fertilization in hermaphroditic organisms and is not presented as a bryophyte-specific replacement for heterosis.",
+        "Incorrect. The article describes the diploid stage in bryophytes as relatively small and short-lived compared to the haploid stage, not long-lived."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "A researcher observes that a population of organisms increases exponentially when food is abundant, but switches to a different reproductive mode when food sources are depleted and the climate becomes hostile. Based on the article, what is the most likely explanation for this switch?",
+      "options": [
+        "Sexual reproduction mixes the gene pool, produces variation suited to adverse conditions, and often forms over-wintering stages that ensure survival until conditions improve.",
+        "Asexual reproduction becomes more efficient under stress because it relies on mutation rather than recombination.",
+        "The organisms are obligate sexual reproducers and cannot continue asexual reproduction once resources decline.",
+        "Switching to sexual reproduction reduces population size exponentially, conserving the remaining food supply."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that when food is depleted or conditions become hostile, organisms switch to sexual reproduction, which mixes the gene pool, allows selective adaptation, and forms life stages such as seeds, spores, eggs, pupae, or cysts that endure unfavorable times.",
+        "Incorrect. The article associates exponential growth with asexual reproduction under favorable conditions, not with increased efficiency under stress.",
+        "Incorrect. The article describes organisms that can reproduce both sexually and asexually and switch between them based on conditions, not obligate sexual reproducers.",
+        "Incorrect. The article does not state that sexual reproduction reduces population size to conserve food; it emphasizes survival through genetic variation and resistant life stages."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "An organism produces four cells from one parent cell, and each resulting cell contains half the number of chromosomes of the parent. According to the article, which process is being described?",
+      "options": [
+        "Meiosis",
+        "Mitosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that meiosis results in four haploid cells with half the number of chromosomes present in the parent cell.",
+        "Incorrect. The article states that mitosis produces twice the number of cells with the same number of chromosomes as the parent cell.",
+        "Incorrect. Binary fission is described as a mode of bacterial asexual division, not a process yielding four haploid cells.",
+        "Incorrect. Budding is listed as a form of asexual reproduction used by hydras and yeasts, not as a reduction-division producing four cells."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "The article notes that only 50% of organisms reproduce sexually and each passes on only 50% of its genes. What term does the article use for this concept?",
+      "options": [
+        "The two-fold cost of sexual reproduction",
+        "Genetic recombination",
+        "Haploid dominance",
+        "The two-fold benefit of asexual reproduction"
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly calls this the 'two-fold cost of sexual reproduction.'",
+        "Incorrect. Genetic recombination is discussed as a potential advantage of sexual reproduction, not as the name for the 50% reproduction and 50% gene transmission cost.",
+        "Incorrect. Haploid dominance refers to the bryophyte life cycle in which the haploid stage is larger and longer-lived than the diploid stage.",
+        "Incorrect. The article does not use the phrase 'two-fold benefit of asexual reproduction'; it frames the 50% figures as a cost of sexual reproduction."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "In a species where gametes are similar or identical in form and cannot generally be classified as male or female, what term does the article use for this condition?",
+      "options": [
+        "Isogamous species",
+        "Anisogamous species",
+        "Mating types",
+        "Hermaphroditic organisms"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines isogamous species as those in which gametes are similar or identical in form and generally cannot be classified as male or female.",
+        "Incorrect. Anisogamous species are those with two different types of gametes, referred to as male and female.",
+        "Incorrect. Mating types are described as more than two 'sexes' found in some fungi and Paramecium aurelia, not as the condition of similar gametes lacking male/female classification.",
+        "Incorrect. Hermaphroditic organisms are discussed under autogamy, where both gametes come from the same individual, which is distinct from isogamy."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "A plant species can reproduce both sexually and asexually. When environmental conditions are favorable, it uses asexual reproduction; when conditions become adverse, it switches to sexual reproduction. According to the article, what is the primary adaptive reason for switching to sexual reproduction under adverse conditions?",
+      "options": [
+        "Sexual reproduction mixes the gene pool and produces variations that allow some individuals to survive adverse conditions and endure them through resistant life stages.",
+        "Asexual reproduction stops entirely under adverse conditions because mutation cannot generate variation quickly enough.",
+        "Sexual reproduction produces more offspring than asexual reproduction, ensuring population growth during crises.",
+        "The switch prevents over-wintering stages from forming, allowing the population to remain active through winter."
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that sexual reproduction mixes the gene pool, creates variation for selective adaptation, and forms resistant stages such as seeds, spores, eggs, pupae, and cysts that allow organisms to wait out adverse conditions.",
+        "Incorrect. The article does not claim asexual reproduction stops entirely; rather, organisms switch strategies depending on conditions.",
+        "Incorrect. The article states that sexual reproduction yields a smaller number of offspring compared with asexual reproduction.",
+        "Incorrect. The article says over-wintering stages ensure survival during unfavorable times, not that the switch prevents them from forming."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "A scientist is studying a fungus with more than two mating types. According to the article, what does this indicate about the organism's sexual reproduction system?",
+      "options": [
+        "It has multiple mating types rather than just two sexes.",
+        "It reproduces exclusively by autogamy.",
+        "It is an isogamous species whose gametes cannot be classified as male or female.",
+        "It relies on parthenogenesis to produce offspring without fertilization."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a few types of organisms, such as many fungi and Paramecium aurelia, have more than two 'sexes,' called mating types.",
+        "Incorrect. Autogamy is self-fertilization in hermaphroditic organisms and is not the explanation given for fungi with multiple mating types.",
+        "Incorrect. While isogamous species have similar gametes, the article specifically attributes more than two sexes to mating types in organisms such as many fungi.",
+        "Incorrect. Parthenogenesis is development without fertilization and is not linked in the article to fungi having multiple mating types."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "The article contrasts K-selection and r-selection. Which of the following scenarios best illustrates K-selection as described in the article?",
+      "options": [
+        "Humans reach sexual maturity many years after birth and produce few offspring, devoting more resources to nurturing and protecting each one.",
+        "A fruit fly matures in 10â14 days and produces up to 900 offspring per year, many of which die soon after birth.",
+        "Annual plants reproduce only once in their lifetime and often die shortly after reproduction.",
+        "Bacteria divide asexually via binary fission and grow exponentially under favorable conditions."
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies humans and northern gannets as K-strategists that mature late and produce few offspring, allowing more resources per offspring.",
+        "Incorrect. The article uses the fruit fly as an example of r-selection, with rapid maturation and high offspring numbers.",
+        "Incorrect. Annual plants are listed as semelparous organisms associated with r-strategists, not K-selection.",
+        "Incorrect. Bacterial binary fission is an asexual reproduction method and is not presented as an example of K-selection."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is a key difference between mitosis and meiosis regarding the number of resulting cells and their chromosome count?",
+      "options": [
+        "Mitosis produces twice the number of cells with the same chromosome count as the parent, whereas meiosis produces four times the number of cells with half the chromosome count.",
+        "Mitosis produces four haploid cells, whereas meiosis produces two diploid cells with the same chromosome count.",
+        "Both mitosis and meiosis produce four cells, but only meiosis reduces the chromosome number by half.",
+        "Mitosis occurs in gametes and halves the chromosome number, whereas meiosis occurs in somatic cells and maintains the chromosome number."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that mitosis results in twice the number of cells with the same chromosome number, while meiosis results in four times the number of cells with half the chromosomes.",
+        "Incorrect. The article assigns four haploid cells to meiosis, not mitosis, and two diploid cells are not the described outcome of meiosis.",
+        "Incorrect. The article states mitosis produces twice the number of cells, not four, and meiosis produces four haploid cells.",
+        "Incorrect. The article states mitosis occurs in somatic cells and meiosis in gametes, the reverse of what this option claims."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "The article describes same-sex procreation research involving mice. Which of the following outcomes is reported as having occurred?",
+      "options": [
+        "In 2023, Japanese scientists created mouse pups from two mice fathers that grew into adulthood.",
+        "In 2018, Chinese scientists produced viable offspring from two father mice.",
+        "In 2010, American scientists produced mouse offspring from two fathers using unmanipulated stem cells.",
+        "In 2004, Japanese scientists combined two mouse sperm to produce daughter mice."
+      ],
+      "answer_explanations": [
+        "Correct. The article reports that in 2023, Japanese scientists created mouse pups from two mice fathers which grew into adulthood.",
+        "Incorrect. The article states that in 2018 Chinese scientists created 29 female mice from two mothers but were unable to produce viable offspring from two father mice.",
+        "Incorrect. The article says American scientists used genetically manipulated stem cells, not unmanipulated stem cells, to produce offspring from two fathers.",
+        "Incorrect. The article says Japanese scientists combined two mouse eggs, not two mouse sperm, to produce daughter mice in 2004."
+      ]
+    }
+  ]
+}

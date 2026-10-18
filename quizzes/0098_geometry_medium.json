@@ -1,0 +1,167 @@
+{
+  "article_id": "0098",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a mathematician who works in the field of geometry called?",
+      "options": [
+        "geometer",
+        "mathematician",
+        "geometrician",
+        "spatial analyst"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a mathematician who works in geometry is called a geometer.",
+        "Incorrect. The article does not define a mathematician who works in geometry simply as a mathematician.",
+        "Incorrect. The article does not use the term geometrician.",
+        "Incorrect. The article does not use the term spatial analyst."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which field is geometry, along with arithmetic, described as one of the oldest branches of?",
+      "options": [
+        "mathematics",
+        "science",
+        "art",
+        "architecture"
+      ],
+      "answer_explanations": [
+        "Correct. The article says geometry is, along with arithmetic, one of the oldest branches of mathematics.",
+        "Incorrect. The article does not say geometry is one of the oldest branches of science.",
+        "Incorrect. The article does not say geometry is one of the oldest branches of art.",
+        "Incorrect. The article does not say geometry is one of the oldest branches of architecture."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which ancient civilization is associated with the Moscow Papyrus?",
+      "options": [
+        "Egypt",
+        "Mesopotamia",
+        "Babylonia",
+        "Nubia"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies the Moscow Papyrus as one of the Egyptian texts on geometry.",
+        "Incorrect. The article associates Mesopotamia with early geometry but not specifically with the Moscow Papyrus.",
+        "Incorrect. The article associates Babylonian clay tablets with Babylonian mathematics, not the Moscow Papyrus.",
+        "Incorrect. The article mentions ancient Nubians separately from the Moscow Papyrus."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What did Thales of Miletus use geometry to solve?",
+      "options": [
+        "problems such as calculating the height of pyramids and the distance of ships from the shore",
+        "the volume of a truncated pyramid",
+        "the area under the arc of a parabola",
+        "the diagonals of a cyclic quadrilateral"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Thales used geometry to solve problems such as calculating pyramid heights and ship distances.",
+        "Incorrect. The Moscow Papyrus gives a formula for the volume of a truncated pyramid, not Thales.",
+        "Incorrect. Archimedes calculated the area under the arc of a parabola, not Thales.",
+        "Incorrect. Brahmagupta stated a theorem on the diagonals of a cyclic quadrilateral, not Thales."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which work by Euclid is described as introducing mathematical rigor through the axiomatic method?",
+      "options": [
+        "Elements",
+        "Shatapatha Brahmana",
+        "Sulba Sutras",
+        "Aryabhatiya"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Euclid's Elements introduced mathematical rigor through the axiomatic method.",
+        "Incorrect. The Shatapatha Brahmana is an Indian text containing rules for ritual geometric constructions.",
+        "Incorrect. The Sulba Sutras are Indian texts related to the Pythagorean Theorem.",
+        "Incorrect. The Aryabhatiya is Aryabhata's work including computation of areas and volumes."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does Gauss's Theorema Egregium assert about Gaussian curvature?",
+      "options": [
+        "It is independent from any specific embedding in a Euclidean space.",
+        "It depends on the surface's embedding in Euclidean space.",
+        "It applies only to non-Euclidean geometries.",
+        "It cannot be studied intrinsically."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the theorem asserts Gaussian curvature is independent from any specific embedding in a Euclidean space.",
+        "Incorrect. The article says the opposite: curvature is independent of embedding.",
+        "Incorrect. The article does not say the theorem applies only to non-Euclidean geometries.",
+        "Incorrect. The article says surfaces can be studied intrinsically because of this theorem."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which geometry considers only alignment of points but not distance and parallelism?",
+      "options": [
+        "projective geometry",
+        "affine geometry",
+        "finite geometry",
+        "differential geometry"
+      ],
+      "answer_explanations": [
+        "Correct. The article states projective geometry considers only alignment of points but not distance and parallelism.",
+        "Incorrect. The article says affine geometry omits angle and distance, not specifically alignment only.",
+        "Incorrect. The article says finite geometry omits continuity.",
+        "Incorrect. The article lists differential geometry as a subfield based on methods, not this property."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Who developed analytic geometry, or geometry with coordinates and equations?",
+      "options": [
+        "RenÃ© Descartes and Pierre de Fermat",
+        "Girard Desargues",
+        "Euclid",
+        "Archimedes"
+      ],
+      "answer_explanations": [
+        "Correct. The article credits RenÃ© Descartes and Pierre de Fermat with the creation of analytic geometry.",
+        "Incorrect. Girard Desargues is associated with the systematic study of projective geometry.",
+        "Incorrect. Euclid is associated with the Elements and axiomatic geometry.",
+        "Incorrect. Archimedes used the method of exhaustion and studied surfaces of revolution."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What did the discovery of non-Euclidean geometries and the Erlangen programme change?",
+      "options": [
+        "the way geometry had been studied previously",
+        "only the teaching of geometry in schools",
+        "only the definition of a point",
+        "only the use of geometry in art"
+      ],
+      "answer_explanations": [
+        "Correct. The article says these two developments changed the way geometry had been studied previously.",
+        "Incorrect. The article does not limit the change to school teaching.",
+        "Incorrect. The article does not say the change concerned only the definition of a point.",
+        "Incorrect. The article does not say the change concerned only the use of geometry in art."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article say a geometric space, or simply a space, presently is?",
+      "options": [
+        "a mathematical structure on which some geometry is defined",
+        "the three-dimensional space of the physical world",
+        "only a Euclidean model",
+        "only a non-Euclidean model"
+      ],
+      "answer_explanations": [
+        "Correct. The article states presently a geometric space is a mathematical structure on which some geometry is defined.",
+        "Incorrect. The article says this was the original meaning, not the present meaning.",
+        "Incorrect. The article does not say a space is only a Euclidean model.",
+        "Incorrect. The article does not say a space is only a non-Euclidean model."
+      ]
+    }
+  ]
+}

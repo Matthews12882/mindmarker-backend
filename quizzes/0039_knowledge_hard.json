@@ -1,0 +1,167 @@
+{
+  "article_id": "0039",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the barn facade Gettier case, why does the person fail to know they are in front of a real barn?",
+      "options": [
+        "Their justification is not relevant to the truth because they could not distinguish the real barn from the facades.",
+        "They lack true belief because the barn is actually a facade.",
+        "They do not believe they are in front of a barn.",
+        "They formed the belief through unreliable introspection rather than perception."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the person's justified true belief fails to constitute knowledge due to epistemic luck: 'their justification is not relevant to the truth' and they 'would not have been able to tell the difference' between the real barn and facades.",
+        "Incorrect. The belief is true because the person stops in front of the one real barn.",
+        "Incorrect. The person forms the belief that they are in front of a barn, so belief is present.",
+        "Incorrect. The belief is formed through visual perception, not introspection."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, what is the key difference between foundationalism and coherentism regarding sources of knowledge?",
+      "options": [
+        "Foundationalism holds some sources can justify beliefs without depending on other mental states, while coherentism requires coherence among all mental states.",
+        "Foundationalism requires an infinite chain of beliefs, while coherentism accepts basic sources.",
+        "Coherentism holds some sources are basic, while foundationalism requires coherence among all mental states.",
+        "Both views agree that an infinite chain of beliefs is necessary for knowledge."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that according to foundationalism, some sources 'can justify beliefs, without depending on other mental states,' while coherentists 'contend that a sufficient degree of coherence among all the mental states of the believer is necessary for knowledge.'",
+        "Incorrect. Infinitism, not foundationalism, holds that an infinite chain of beliefs is needed.",
+        "Incorrect. This reverses the positions; foundationalism accepts basic sources and coherentism requires coherence.",
+        "Incorrect. Only infinitism claims an infinite chain is needed; foundationalism and coherentism do not."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best illustrates knowledge-how as described in the article?",
+      "options": [
+        "An ant knows how to walk despite lacking a sufficiently developed mind to represent propositions.",
+        "Knowing that the atomic mass of gold is 196.97 u.",
+        "Being acquainted with the taste of chocolate after eating it.",
+        "Knowing that 2 + 2 = 4 without empirical investigation."
+      ],
+      "answer_explanations": [
+        "Correct. The article uses the ant as an example of knowledge-how: 'an ant knows how to walk even though it presumably lacks a mind sufficiently developed to represent the corresponding proposition.'",
+        "Incorrect. Knowing a factual atomic mass is propositional knowledge, not knowledge-how.",
+        "Incorrect. Becoming acquainted with the taste of chocolate is knowledge by acquaintance, not knowledge-how.",
+        "Incorrect. Knowing that 2 + 2 = 4 is propositional and a priori knowledge, not practical know-how."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article say about the relationship between knowledge and belief?",
+      "options": [
+        "Knowledge is a form of belief, so one cannot know something without believing it.",
+        "Knowledge can exist without belief, as shown by expressions like 'I do not believe it, I know it.'",
+        "Belief is sufficient for knowledge as long as the belief is true.",
+        "Knowledge and belief are entirely unrelated mental states."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'That knowledge is a form of belief implies that one cannot know something if one does not believe it.'",
+        "Incorrect. The article explains such expressions usually emphasize confidence rather than denying that belief is involved.",
+        "Incorrect. True belief alone is not sufficient; justification is also required, and Gettier cases show even justified true belief may not be knowledge.",
+        "Incorrect. The article explicitly characterizes knowledge as a form of belief."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an example of a posteriori knowledge according to the article?",
+      "options": [
+        "Seeing that it rains outside.",
+        "Knowing that 2 + 2 = 4.",
+        "Knowing that all bachelors are unmarried.",
+        "Rational insight into mathematical truths."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'by seeing that it rains outside or hearing that the baby is crying, one acquires a posteriori knowledge of these facts.'",
+        "Incorrect. The article identifies mathematical knowledge such as 2 + 2 = 4 as traditionally a priori.",
+        "Incorrect. The article identifies 'all bachelors are unmarried' as a priori knowledge.",
+        "Incorrect. The article excludes rational insight from the relevant experience for a posteriori knowledge."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the primary focus of epistemology?",
+      "options": [
+        "Studying what people know, how they come to know it, and what it means to know something.",
+        "Investigating how knowledge is stored and communicated in different cultures.",
+        "Examining under what sociohistorical circumstances knowledge arises.",
+        "Determining how knowledge in different fields has developed over history."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The main discipline investigating knowledge is epistemology, which studies what people know, how they come to know it, and what it means to know something.'",
+        "Incorrect. Studying how knowledge is stored and communicated in different cultures is the focus of the anthropology of knowledge.",
+        "Incorrect. Examining sociohistorical circumstances is the focus of the sociology of knowledge.",
+        "Incorrect. Investigating historical development is the focus of the history of knowledge."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following best describes the analysis of knowledge as presented in the article?",
+      "options": [
+        "Trying to provide a theoretically precise definition by listing conditions that are individually necessary and jointly sufficient.",
+        "Focusing only on the most salient features to give a practically useful characterization.",
+        "Treating knowledge as a unique state that cannot be analyzed in terms of other phenomena.",
+        "Basing the definition solely on how the term is used in ordinary language."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines analysis of knowledge as an approach that 'tries to provide a theoretically precise definition by listing the conditions that are individually necessary and jointly sufficient.'",
+        "Incorrect. Focusing on salient features for practical usefulness is described as a different approach to defining knowledge, not analysis of knowledge.",
+        "Incorrect. Treating knowledge as a unique unanalyzable state is described as a different view, not analysis of knowledge.",
+        "Incorrect. Relying on ordinary language use is mentioned as one basis scholars use, but it is not the definition of analysis of knowledge."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is the main controversy surrounding the justified true belief definition of knowledge?",
+      "options": [
+        "Whether justification is needed at all and what counts as adequate justification.",
+        "Whether truth is a necessary feature of knowledge.",
+        "Whether knowledge requires belief at all.",
+        "Whether knowledge can be produced through perception and introspection."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The main controversy surrounding this definition concerns its third feature: justification,' including questions about how to understand it and whether it is needed.",
+        "Incorrect. The article says truth is 'a widely accepted feature of knowledge.'",
+        "Incorrect. The article states knowledge implies belief: 'one cannot know something if one does not believe it.'",
+        "Incorrect. Perception and introspection are sources of knowledge, not the controversy over justified true belief."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following scenarios best illustrates epistemic luck in a Gettier case, according to the article?",
+      "options": [
+        "A person forms a justified true belief that is true only by lucky coincidence because the justification does not connect to the truth.",
+        "A person guesses correctly on a coin flip without any justification.",
+        "A person forms a belief based on reliable sensory perception that turns out to be true.",
+        "A person acquires knowledge by acquaintance through direct experiential contact."
+      ],
+      "answer_explanations": [
+        "Correct. The article describes Gettier cases as involving epistemic luck where 'the beliefs are justified but their justification is not relevant to the truth,' making truth a lucky coincidence.",
+        "Incorrect. A lucky guess lacks justification entirely, whereas Gettier cases involve justified true beliefs that fail due to luck.",
+        "Incorrect. Reliable perception producing a true belief is not presented as a Gettier case of epistemic luck.",
+        "Incorrect. Knowledge by acquaintance through direct contact is not a Gettier case."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "A researcher designs a study to test whether participants can acquire knowledge of a hidden object's properties without any sensory experience, memory, or introspection, relying solely on rational insight. Based on the article, how would this knowledge be classified if successful?",
+      "options": [
+        "A priori knowledge, because it is possible without experience to justify or support the known proposition.",
+        "A posteriori knowledge, because it is acquired through a research experiment.",
+        "Knowledge by acquaintance, because it involves direct experiential contact with the object.",
+        "Procedural knowledge, because it involves a practical skill in conducting research."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a priori knowledge as possible 'without any experience to justify or support the known proposition' and notes rational insight is excluded from relevant experience.",
+        "Incorrect. A posteriori knowledge is based on experience, which the scenario explicitly excludes.",
+        "Incorrect. Knowledge by acquaintance requires direct experiential contact, which the scenario excludes.",
+        "Incorrect. Procedural knowledge is practical know-how, not knowledge gained through rational insight about an object's properties."
+      ]
+    }
+  ]
+}

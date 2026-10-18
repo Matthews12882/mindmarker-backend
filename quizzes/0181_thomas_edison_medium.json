@@ -1,0 +1,167 @@
+{
+  "article_id": "0181",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what was the first industrial research laboratory developed by Edison?",
+      "options": [
+        "Menlo Park",
+        "West Orange",
+        "Newark",
+        "Port Huron"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Edison expanded, developing Menlo Park, now considered the first industrial research laboratory.",
+        "Incorrect. West Orange was where Edison later built a larger research lab, not the first industrial research laboratory.",
+        "Incorrect. Newark was where Edison owned a telegraph recorder factory with over one hundred employees, not the first industrial research laboratory.",
+        "Incorrect. Port Huron was where Edison grew up and began his career as a news butcher, not the location of the first industrial research laboratory."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What did Edison's first phonograph record on?",
+      "options": [
+        "tinfoil wrapped around a grooved cylinder",
+        "wax-coated cardboard cylinders",
+        "a rotating disk",
+        "magnetic tape"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that his first phonograph recorded on tinfoil wrapped around a grooved cylinder.",
+        "Incorrect. Wax-coated cardboard cylinders were used by Bell, Chichester Bell, and Charles Tainter in a competing instrument in the 1880s, not Edison's first phonograph.",
+        "Incorrect. Edison first patented a design for a rotating disk for telegraph messages, but his first phonograph recorded on tinfoil wrapped around a grooved cylinder.",
+        "Incorrect. Magnetic tape is not mentioned in the article as a recording medium for Edison's phonograph."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How did Edison's hearing loss affect his work as an adult?",
+      "options": [
+        "He believed it allowed him to avoid distraction and concentrate more easily.",
+        "It prevented him from working as a telegrapher.",
+        "It caused him to stop inventing after age 12.",
+        "It made him rely entirely on his assistants for experimentation."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as an adult, Edison believed his hearing loss allowed him to avoid distraction and concentrate more easily on his work.",
+        "Incorrect. Edison worked as a telegrapher despite his hearing problems, which developed at age 12.",
+        "Incorrect. Edison continued inventing well beyond age 12, developing the phonograph, light bulb, and many other inventions.",
+        "Incorrect. The article does not state that Edison relied entirely on his assistants for experimentation due to his hearing loss."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What happened to Edison's relationship with Ezra Gilliland after the phonograph monopoly scheme?",
+      "options": [
+        "It ended when Gilliland went to Europe.",
+        "They formed a new company together successfully.",
+        "Gilliland became Edison's personal attorney.",
+        "They reconciled after five years of litigation."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that when Edison discovered the scheme, he was infuriated, but Gilliland went to Europe, which ended their friendship.",
+        "Incorrect. The venture ran out of money and the friendship ended, rather than forming a successful new company.",
+        "Incorrect. Edison made the offer through his personal attorney; Gilliland did not become the attorney.",
+        "Incorrect. After five years of litigation, Edison assumed total control of the company, but the friendship with Gilliland had already ended."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What was the result of the merger between Edison General Electric Company and Thomson-Houston Electric Company?",
+      "options": [
+        "The formation of General Electric",
+        "Edison's bankruptcy",
+        "The creation of Westinghouse's AC system",
+        "The end of Edison's illumination business"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the merger of the Edison General Electric Company and the competitor Thomson-Houston Electric Company resulted in the formation of General Electric.",
+        "Incorrect. Edison nearly went bankrupt due to his mining company, not the merger.",
+        "Incorrect. Westinghouse's AC system was a competitor that forced Edison to yield, not a result of the merger.",
+        "Incorrect. The merger formed General Electric; Edison's illumination business declined later for other reasons."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How did Edison control the production of phonograph records through 1915?",
+      "options": [
+        "He personally approved every artist based on his musical taste.",
+        "He hired professional music critics to select artists.",
+        "He allowed artists to record whatever they chose.",
+        "He used sheet music to standardize recordings."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that through 1915, Edison exerted tight control on the production of records, personally approving every artist based on his musical taste.",
+        "Incorrect. The article does not mention Edison hiring professional music critics to select artists.",
+        "Incorrect. Edison did not allow artists to record whatever they chose; he personally approved every artist.",
+        "Incorrect. The article states Edison had no musical training and could not read sheet music, so he did not use sheet music to standardize recordings."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What was Edison's first patent?",
+      "options": [
+        "the electric vote recorder",
+        "the phonograph",
+        "the carbon microphone",
+        "the quadruplex telegraph"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that his first patent was for the electric vote recorder, U.S. patent 90,646, granted on June 1, 1869.",
+        "Incorrect. The phonograph was invented later, in 1877, and was not his first patent.",
+        "Incorrect. The carbon microphone was developed in 1876, after his first patent.",
+        "Incorrect. The quadruplex telegraph earned him $30,000 in 1874, but it was not his first patent."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What impact did radio have on Edison's phonograph business?",
+      "options": [
+        "Record sales dropped 90% in 1921 compared to 1920.",
+        "Record sales increased by 843% from 1922 to 1926.",
+        "Edison immediately entered the radio business.",
+        "Radio had no effect on phonograph sales."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that widespread adoption of the radio was detrimental to phonograph sales, with Edison's business selling 90% fewer records in 1921 compared to 1920.",
+        "Incorrect. Radio sales went up by 843% from 1922 to 1926, not record sales.",
+        "Incorrect. Younger managers tried to get Edison to enter the radio business, but he chose not to.",
+        "Incorrect. The article clearly states that radio was detrimental to phonograph sales."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What did Edison's tasimeter measure?",
+      "options": [
+        "infrared radiation",
+        "electrical current",
+        "sound waves",
+        "telegraph signals"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Edison invented the tasimeter, which measured infrared radiation.",
+        "Incorrect. The article does not state that the tasimeter measured electrical current.",
+        "Incorrect. The tasimeter measured infrared radiation, not sound waves.",
+        "Incorrect. The tasimeter measured infrared radiation, not telegraph signals."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What was Edison's last obsession?",
+      "options": [
+        "the search for domestic rubber production",
+        "developing electric power distribution",
+        "creating motion pictures",
+        "building a cement company"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that his last obsession was the search for domestic rubber production.",
+        "Incorrect. Electric power distribution was one of Edison's earlier major works, not his last obsession.",
+        "Incorrect. Motion pictures were an earlier innovation, not his last obsession.",
+        "Incorrect. He established a cement company as his illumination business declined, but this was not his last obsession."
+      ]
+    }
+  ]
+}

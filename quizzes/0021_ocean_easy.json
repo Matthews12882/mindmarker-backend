@@ -1,0 +1,167 @@
+{
+  "article_id": "0021",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What percentage of Earth's surface does the ocean cover?",
+      "options": [
+        "approximately 70.8%",
+        "approximately 50%",
+        "approximately 90%",
+        "approximately 30%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ocean covers approximately 70.8% of Earth.",
+        "Incorrect. The article does not state that the ocean covers approximately 50% of Earth's surface.",
+        "Incorrect. The article does not state that the ocean covers approximately 90% of Earth's surface.",
+        "Incorrect. The article does not state that the ocean covers approximately 30% of Earth's surface."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What percentage of Earth's water does the ocean contain?",
+      "options": [
+        "97%",
+        "50%",
+        "70%",
+        "10%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ocean contains 97% of Earth's water.",
+        "Incorrect. The article does not state that the ocean contains 50% of Earth's water.",
+        "Incorrect. The article does not state that the ocean contains 70% of Earth's water.",
+        "Incorrect. The article does not state that the ocean contains 10% of Earth's water."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is listed as one of the major ocean currents?",
+      "options": [
+        "Gulf Stream",
+        "Amazon Current",
+        "Nile Current",
+        "Mississippi Current"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the Gulf Stream as a major ocean current.",
+        "Incorrect. The article does not mention an Amazon Current.",
+        "Incorrect. The article does not mention a Nile Current.",
+        "Incorrect. The article does not mention a Mississippi Current."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which ocean is listed first in descending order by area?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the Pacific Ocean first in descending order by area.",
+        "Incorrect. The article lists the Atlantic Ocean second, not first, by area.",
+        "Incorrect. The article lists the Indian Ocean third, not first, by area.",
+        "Incorrect. The article lists the Arctic Ocean last, not first, by area."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the approximate depth of the photic zone in the open ocean?",
+      "options": [
+        "approximately 200 m",
+        "approximately 50 m",
+        "approximately 1000 m",
+        "approximately 5000 m"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the photic zone is approximately 200 m in the open ocean.",
+        "Incorrect. The article does not state that the photic zone is approximately 50 m deep.",
+        "Incorrect. The article does not state that the photic zone is approximately 1000 m deep.",
+        "Incorrect. The article does not state that the photic zone is approximately 5000 m deep."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the temperature range of deep ocean temperatures in all parts of the ocean?",
+      "options": [
+        "between -2 Â°C and 5 Â°C",
+        "between 10 Â°C and 20 Â°C",
+        "between 0 Â°C and 30 Â°C",
+        "between -10 Â°C and 0 Â°C"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that deep ocean temperatures range between -2 Â°C (28 Â°F) and 5 Â°C (41 Â°F).",
+        "Incorrect. The article does not state that deep ocean temperatures range between 10 Â°C and 20 Â°C.",
+        "Incorrect. The article does not state that deep ocean temperatures range between 0 Â°C and 30 Â°C.",
+        "Incorrect. The article does not state that deep ocean temperatures range between -10 Â°C and 0 Â°C."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the result of oceans absorbing CO2 from the atmosphere?",
+      "options": [
+        "ocean acidification",
+        "ocean warming",
+        "sea level rise",
+        "increased salinity"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as oceans absorb CO2, a higher concentration leads to ocean acidification.",
+        "Incorrect. Ocean warming is listed as an effect of climate change, not directly as the result of CO2 absorption in this context.",
+        "Incorrect. Sea level rise is listed as an effect of climate change, not directly as the result of CO2 absorption in this context.",
+        "Incorrect. The article does not state that CO2 absorption increases salinity."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which areas are most affected by human activity according to the article?",
+      "options": [
+        "the continental shelf and coastal waters",
+        "the deep ocean floor",
+        "the polar ice caps",
+        "the open ocean surface"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the continental shelf and coastal waters are most affected by human activity.",
+        "Incorrect. The article does not state that the deep ocean floor is most affected by human activity.",
+        "Incorrect. The article does not state that the polar ice caps are most affected by human activity.",
+        "Incorrect. The article does not state that the open ocean surface is most affected by human activity."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the definition of the photic zone given in the article?",
+      "options": [
+        "the depth at which light intensity is only 1% of the surface value",
+        "the depth where no sunlight penetrates",
+        "the zone from the surface to the ocean floor",
+        "the zone where temperatures are below freezing"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines the photic zone as the depth at which light intensity is only 1% of the surface value.",
+        "Incorrect. The article does not define the photic zone as the depth where no sunlight penetrates.",
+        "Incorrect. The article describes the pelagic zone as the water column from the surface to the ocean floor, not the photic zone.",
+        "Incorrect. The article does not define the photic zone by temperature."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What role does the ocean play in Earth's atmospheric oxygen supply?",
+      "options": [
+        "it still supplies half of it",
+        "it supplies none of it",
+        "it supplies all of it",
+        "it consumes atmospheric oxygen"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ocean originated photosynthesis and therefore Earth's atmospheric oxygen, and still supplies half of it.",
+        "Incorrect. The article states that the ocean still supplies half of Earth's atmospheric oxygen, not none.",
+        "Incorrect. The article states that the ocean supplies half, not all, of Earth's atmospheric oxygen.",
+        "Incorrect. The article states that the ocean supplies oxygen, not that it consumes atmospheric oxygen."
+      ]
+    }
+  ]
+}

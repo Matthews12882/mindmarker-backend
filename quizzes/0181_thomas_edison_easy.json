@@ -1,0 +1,167 @@
+{
+  "article_id": "0181",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "In which city was Thomas Edison born?",
+      "options": [
+        "Milan, Ohio",
+        "Port Huron, Michigan",
+        "Newark, New Jersey",
+        "New York City"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Edison was born in Milan, Ohio.",
+        "Incorrect. The article says he grew up in Port Huron, Michigan, but was born in Milan, Ohio.",
+        "Incorrect. Newark, New Jersey is where he owned a telegraph recorder factory, not where he was born.",
+        "Incorrect. New York City is where he moved at age 22 to focus on engineering, not his birthplace."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How many patents did Edison register in the United States?",
+      "options": [
+        "1,093",
+        "100",
+        "10,000",
+        "500"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Edison registered 1,093 patents in the United States.",
+        "Incorrect. The article does not mention 100 patents; it states 1,093.",
+        "Incorrect. The article does not mention 10,000 patents; it states 1,093.",
+        "Incorrect. The article does not mention 500 patents; it states 1,093."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What nickname was Edison known by at Menlo Park?",
+      "options": [
+        "The Wizard of Menlo Park",
+        "The Wizard of Oz",
+        "The Inventor of Newark",
+        "The Genius of New York"
+      ],
+      "answer_explanations": [
+        "Correct. The article refers to Edison as 'The Wizard of Menlo Park'.",
+        "Incorrect. 'The Wizard of Oz' is not mentioned in the article.",
+        "Incorrect. The article does not call him 'The Inventor of Newark'.",
+        "Incorrect. The article does not call him 'The Genius of New York'; it says he grew to resent titles representing him as a genius."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which company was formed by the merger of Edison General Electric Company and Thomson-Houston Electric Company?",
+      "options": [
+        "General Electric",
+        "Westinghouse Electric",
+        "Western Union",
+        "Bell Telephone"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the merger resulted in the formation of General Electric.",
+        "Incorrect. Westinghouse Electric was a competitor, not the result of the merger.",
+        "Incorrect. Western Union is mentioned as an employer, not as the result of the merger.",
+        "Incorrect. Bell Telephone is not mentioned as being formed by this merger."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "At what age did Edison develop hearing problems?",
+      "options": [
+        "12",
+        "5",
+        "22",
+        "29"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Edison developed hearing problems at the age of 12.",
+        "Incorrect. The article does not say he developed hearing problems at age 5.",
+        "Incorrect. Age 22 is when he moved to New York City, not when he developed hearing problems.",
+        "Incorrect. Age 29 is when he owned a telegraph recorder factory, not when he developed hearing problems."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What was Edison's first patent for?",
+      "options": [
+        "the electric vote recorder",
+        "the phonograph",
+        "the incandescent light bulb",
+        "the carbon microphone"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his first patent was for the electric vote recorder.",
+        "Incorrect. The phonograph was invented later, not his first patent.",
+        "Incorrect. The incandescent light bulb was not his first patent.",
+        "Incorrect. The carbon microphone was developed later, not his first patent."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In what year did Edison demonstrate the phonograph before the National Academy of Sciences?",
+      "options": [
+        "1878",
+        "1877",
+        "1876",
+        "1880"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Edison demonstrated the phonograph before the National Academy of Sciences in April 1878.",
+        "Incorrect. 1877 is when he first gained wider notice for the phonograph, not the demonstration year.",
+        "Incorrect. 1876 is when he set out to improve telephones, not the phonograph demonstration year.",
+        "Incorrect. 1880 is not mentioned as the year of the demonstration."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did Edison's first phonograph record on?",
+      "options": [
+        "tinfoil wrapped around a grooved cylinder",
+        "wax-coated cardboard cylinders",
+        "magnetic tape",
+        "vinyl records"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his first phonograph recorded on tinfoil wrapped around a grooved cylinder.",
+        "Incorrect. Wax-coated cardboard cylinders were used by Bell and others in the 1880s, not Edison's first phonograph.",
+        "Incorrect. Magnetic tape is not mentioned in the article.",
+        "Incorrect. Vinyl records are not mentioned in the article."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which company did Edison establish that was never profitable?",
+      "options": [
+        "a mining company",
+        "General Electric",
+        "Western Union",
+        "the Edison Phonograph Company"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Edison simultaneously created a mining company, which was never profitable.",
+        "Incorrect. General Electric was formed by a merger and was not described as never profitable.",
+        "Incorrect. Western Union was an employer and financier, not Edison's unprofitable company.",
+        "Incorrect. The Edison Phonograph Company was founded later and is not described as never profitable in the same way."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What was Edison's last obsession?",
+      "options": [
+        "the search for domestic rubber production",
+        "motion pictures",
+        "electric power distribution",
+        "the phonograph"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his last obsession was the search for domestic rubber production.",
+        "Incorrect. Motion pictures were an earlier area of work, not his last obsession.",
+        "Incorrect. Electric power distribution was an earlier area of work, not his last obsession.",
+        "Incorrect. The phonograph was an earlier invention, not his last obsession."
+      ]
+    }
+  ]
+}

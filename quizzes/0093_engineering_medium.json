@@ -1,0 +1,167 @@
+{
+  "article_id": "0093",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does engineering systematically apply to design and improve systems?",
+      "options": [
+        "natural science and mathematics",
+        "art and philosophy",
+        "history and literature",
+        "economics and law"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that engineering is 'the practice of systematically applying natural science and mathematics to design and improve systems.'",
+        "Incorrect. The article does not describe engineering as applying art and philosophy.",
+        "Incorrect. History and literature are not mentioned as foundations of engineering in the article.",
+        "Incorrect. While economics is mentioned later as useful for funding large-scale projects, it is not part of the core systematic application defining engineering."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed as one of the traditional disciplines of engineering?",
+      "options": [
+        "civil",
+        "aerospace",
+        "software",
+        "nuclear"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists civil engineering as one of the traditional disciplines, alongside mechanical, electrical, and chemical engineering.",
+        "Incorrect. Aerospace is mentioned later as a field to which engineering was applied following scientific advances, but it is not listed among the traditional disciplines.",
+        "Incorrect. Software engineering is not listed among the traditional disciplines in the article.",
+        "Incorrect. Nuclear engineering is not listed among the traditional disciplines in the article."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article say engineers typically follow that favors honesty and integrity?",
+      "options": [
+        "a code of ethics",
+        "the engineering design process",
+        "product lifecycle management",
+        "forensic engineering"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'Engineers typically follow a code of ethics that favors honesty and integrity, while being dedicated to public safety and welfare.'",
+        "Incorrect. The engineering design process is mentioned as something modern engineering practice follows, but it is not described as favoring honesty and integrity.",
+        "Incorrect. Product lifecycle management is described as being assisted with computer software, not as a code favoring honesty and integrity.",
+        "Incorrect. Forensic engineering is used to determine what went wrong when a product fails; it is not the code of ethics described in the article."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what is forensic engineering used for?",
+      "options": [
+        "to determine what went wrong when a deployed product fails",
+        "to design new manufacturing processes",
+        "to forecast behavior under specific operating conditions",
+        "to apply scientific principles to structures and machines"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'When a deployed product fails, forensic engineering is used to determine what went wrong in order to find a fix.'",
+        "Incorrect. Designing new manufacturing processes is part of the ABET definition of engineering, not the purpose of forensic engineering.",
+        "Incorrect. Forecasting behavior under specific operating conditions is part of the ABET definition, not forensic engineering.",
+        "Incorrect. Applying scientific principles to structures and machines is part of the ABET definition of engineering, not forensic engineering."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which ancient civilization is credited with building the Pyramid of Djoser under the supervision of Imhotep?",
+      "options": [
+        "Egypt",
+        "Mesopotamia",
+        "Greece",
+        "Rome"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Imhotep, an official of Pharaoh Djoser, 'probably designed and supervised the construction of the Pyramid of Djoser ... at Saqqara in Egypt around 2630â2611 BC.'",
+        "Incorrect. Mesopotamia is mentioned in connection with other ancient inventions, but not the Pyramid of Djoser.",
+        "Incorrect. Greece is mentioned for other ancient engineering achievements, but not the Pyramid of Djoser.",
+        "Incorrect. Rome is mentioned for aqueducts and other structures, but not the Pyramid of Djoser."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What was the original meaning of the term 'engineer' in the 14th century?",
+      "options": [
+        "a constructor of military engines",
+        "a designer of civilian bridges and buildings",
+        "a builder of steam engines",
+        "a practitioner of chemical engineering"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in the 14th century an 'engine'er ... referred to \"a constructor of military engines.\"'",
+        "Incorrect. Civilian bridges and buildings are associated with the later emergence of civil engineering, not the 14th-century meaning of engineer.",
+        "Incorrect. Steam engines are discussed in the context of the Industrial Revolution, not the 14th-century origin of the term.",
+        "Incorrect. Chemical engineering is not connected to the 14th-century meaning of engineer in the article."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What led to the term 'civil engineering' entering the lexicon?",
+      "options": [
+        "the need to distinguish non-military construction from military engineering",
+        "the invention of the steam engine",
+        "the development of the Antikythera mechanism",
+        "the founding of ABET"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that civil engineering entered the lexicon 'as a way to distinguish between those specializing in the construction of such non-military projects and those involved in the discipline of military engineering.'",
+        "Incorrect. The steam engine is discussed in relation to the Industrial Revolution, not the origin of the term civil engineering.",
+        "Incorrect. The Antikythera mechanism is mentioned as an example of Greek mechanical engineering, not as the reason for the term civil engineering.",
+        "Incorrect. ABET is mentioned in connection with the definition of engineering, not the origin of the term civil engineering."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what did the steam engine provide that led to mechanical propulsion for ships and railways?",
+      "options": [
+        "much greater power than animals",
+        "a new code of ethics for engineers",
+        "the first programmable automata",
+        "a standard chemistry reference"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The steam engine provided much greater power than animals, leading to mechanical propulsion for ships and railways.'",
+        "Incorrect. A code of ethics is discussed separately in the article and is not linked to the steam engine.",
+        "Incorrect. Programmable automata are attributed to Al-Jazari in the Middle Ages section, not to the steam engine.",
+        "Incorrect. De re metallica is described as a standard chemistry reference, not something provided by the steam engine."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the ABET definition of engineering include regarding an intended function?",
+      "options": [
+        "economics of operation and safety to life and property",
+        "exclusively military applications",
+        "only the construction of ancient monuments",
+        "the use of wind-powered machines"
+      ],
+      "answer_explanations": [
+        "Correct. The ABET definition quoted in the article states that engineering applies to an intended function with regard to 'economics of operation and safety to life and property.'",
+        "Incorrect. The ABET definition does not limit engineering to military applications.",
+        "Incorrect. The ABET definition is a general definition of engineering and is not restricted to ancient monuments.",
+        "Incorrect. Wind-powered machines are discussed in the history section, not as part of the ABET definition's treatment of intended function."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is described in the article as a key principle in machine theory that helped design the gear trains of the Industrial Revolution?",
+      "options": [
+        "differential gearing",
+        "the inclined plane",
+        "the water wheel",
+        "the cotton gin"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that differential gearing and epicyclic gearing are 'two key principles in machine theory that helped design the gear trains of the Industrial Revolution.'",
+        "Incorrect. The inclined plane is described as one of the six classic simple machines known since prehistoric times, not as a key principle for Industrial Revolution gear trains.",
+        "Incorrect. The water wheel is mentioned as an early water-powered machine, not as a key principle in machine theory for Industrial Revolution gear trains.",
+        "Incorrect. The cotton gin is mentioned as an invention from India, not as a key principle in machine theory."
+      ]
+    }
+  ]
+}

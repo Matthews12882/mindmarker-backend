@@ -1,0 +1,167 @@
+{
+  "article_id": "0197",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "On what date was Henry Ford born?",
+      "options": [
+        "July 30, 1863",
+        "April 7, 1947",
+        "July 30, 1865",
+        "August 5, 1899"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Henry Ford was born on July 30, 1863.",
+        "Incorrect. April 7, 1947 is the date of Henry Ford's death, not his birth.",
+        "Incorrect. The article does not list July 30, 1865 as Ford's birth date.",
+        "Incorrect. August 5, 1899 is when Ford founded the Detroit Automobile Company, not his birth date."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "In what year did Ford found the Ford Motor Company?",
+      "options": [
+        "1903",
+        "1908",
+        "1911",
+        "1899"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Ford founded the Ford Motor Company in 1903.",
+        "Incorrect. 1908 is the year the Model T was introduced, not when the company was founded.",
+        "Incorrect. 1911 is when Ford was awarded a patent for the transmission mechanism.",
+        "Incorrect. 1899 is when Ford founded the Detroit Automobile Company, not the Ford Motor Company."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Who did Henry Ford marry?",
+      "options": [
+        "Clara Jane Bryant",
+        "Mary Ford",
+        "Edsel Ford",
+        "Margaret Ford Ruddiman"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Ford married Clara Jane Bryant on April 11, 1888.",
+        "Incorrect. Mary Ford was Henry Ford's mother, not his wife.",
+        "Incorrect. Edsel Ford was Henry Ford's son, not his wife.",
+        "Incorrect. Margaret Ford Ruddiman was Henry Ford's sister, not his wife."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What was the name of Henry Ford's only child?",
+      "options": [
+        "Edsel Ford",
+        "William Ford",
+        "John Ford",
+        "Henry Ford II"
+      ],
+      "answer_explanations": [
+        "Correct. The article states they had one child, Edsel Ford.",
+        "Incorrect. William Ford was Henry Ford's father, not his child.",
+        "Incorrect. John Ford was Henry Ford's sibling, not his child.",
+        "Incorrect. Henry Ford II was Henry Ford's grandson, not his child."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "In what year was the Ford Model T introduced?",
+      "options": [
+        "1908",
+        "1903",
+        "1911",
+        "1913"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the introduction of the Ford Model T vehicle in 1908 revolutionized transportation and American industry.",
+        "Incorrect. 1903 is when Ford founded the Ford Motor Company, not when the Model T was introduced.",
+        "Incorrect. 1911 is when Ford was awarded a patent for the transmission mechanism.",
+        "Incorrect. 1913 is when Ford introduced moving assembly belts into his plants."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did Henry Ford become among the pioneers of?",
+      "options": [
+        "the five-day work-week",
+        "the assembly line",
+        "the automobile patent",
+        "the car dealership"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Ford was among the pioneers of the five-day work-week.",
+        "Incorrect. While Ford introduced moving assembly belts, the article specifically identifies him as a pioneer of the five-day work-week.",
+        "Incorrect. Ford was awarded a patent, but the article does not call him a pioneer of the automobile patent.",
+        "Incorrect. Ford used a franchise system for dealerships, but the article does not call him a pioneer of the car dealership."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Through which newspaper did Ford promote antisemitism in the 1920s?",
+      "options": [
+        "The Dearborn Independent",
+        "The International Jew",
+        "The Detroit News",
+        "The New York Times"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Ford promoted antisemitism through his newspaper The Dearborn Independent.",
+        "Incorrect. The International Jew was a book, not a newspaper, through which Ford promoted antisemitism.",
+        "Incorrect. The article does not mention The Detroit News in connection with Ford's antisemitism.",
+        "Incorrect. The article does not mention The New York Times in connection with Ford's antisemitism."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "To whom did Henry Ford turn over the company in 1945?",
+      "options": [
+        "his grandson Henry Ford II",
+        "his son Edsel Ford",
+        "his subordinates",
+        "the Ford Foundation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Ford turned over the company to his grandson Henry Ford II in 1945.",
+        "Incorrect. Edsel Ford was Henry's son who died in 1943, before the company was turned over in 1945.",
+        "Incorrect. Ford came under the control of subordinates before turning the company over to his grandson.",
+        "Incorrect. The Ford Foundation received most of his wealth upon his death, not control of the company in 1945."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What did Ford leave most of his wealth to upon his death?",
+      "options": [
+        "the Ford Foundation",
+        "his family",
+        "the America First Committee",
+        "the League of Nations"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that upon his death in 1947, Ford left most of his wealth to the Ford Foundation.",
+        "Incorrect. Ford left control of the company to his family, but most of his wealth to the Ford Foundation.",
+        "Incorrect. Ford served on the board of the America First Committee, but did not leave his wealth to it.",
+        "Incorrect. Ford promoted the League of Nations, but did not leave his wealth to it."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Where was Henry Ford born?",
+      "options": [
+        "a farmhouse in Greenfield Township, Michigan",
+        "Detroit",
+        "Dearborn",
+        "County Cork, Ireland"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Ford was born in a farmhouse in Greenfield Township, Michigan.",
+        "Incorrect. Detroit is where Ford left home to find work at age 16, not where he was born.",
+        "Incorrect. Dearborn is mentioned as present-day location of the intersection near his birthplace, but the article specifies Greenfield Township, Michigan.",
+        "Incorrect. County Cork, Ireland is where Ford's father was born, not Henry Ford himself."
+      ]
+    }
+  ]
+}

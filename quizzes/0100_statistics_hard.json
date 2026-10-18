@@ -1,0 +1,167 @@
+{
+  "article_id": "0100",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, how does statistical inference differ from classic probability theory in its direction of reasoning?",
+      "options": [
+        "Probability theory deduces sample probabilities from given population parameters, whereas statistical inference inductively infers population parameters from samples.",
+        "Probability theory inductively infers population parameters from samples, whereas statistical inference deduces sample probabilities from given population parameters.",
+        "Both probability theory and statistical inference deduce sample probabilities from given population parameters.",
+        "Both probability theory and statistical inference inductively infer population parameters from samples."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that classic probability theory starts with given parameters of a total population to deduce probabilities that pertain to samples, while statistical inference moves in the opposite directionâinductively inferring from samples to the parameters of a larger or total population.",
+        "Incorrect. This reverses the directions described in the article; probability theory is deductive from population to sample, not inductive from sample to population.",
+        "Incorrect. The article explicitly contrasts the two approaches, stating they move in opposite directions rather than both being deductive.",
+        "Incorrect. The article explicitly contrasts the two approaches, stating they move in opposite directions rather than both being inductive."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the Hawthorne effect as described in the article?",
+      "options": [
+        "An outcome changes due to observation itself rather than due to the experimental manipulation.",
+        "Productivity increases only when illumination levels are increased in a workplace.",
+        "A control group is necessary to detect whether lighting changes affect worker output.",
+        "Blindness in experimental procedures eliminates observer bias in human behavior studies."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Hawthorne effect refers to the finding that an outcome changed due to observation itself, noting that workers became more productive because they were being observed, not because the lighting was changed.",
+        "Incorrect. The article indicates that productivity improved regardless of illumination changes, attributing the improvement to observation rather than to increased illumination.",
+        "Incorrect. While the article notes the lack of a control group as a criticism of the Hawthorne study, it does not define the Hawthorne effect as the necessity of a control group.",
+        "Incorrect. The article mentions lack of blindness as a procedural error but does not connect blindness to the definition of the Hawthorne effect."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best describes the distinction between descriptive and inferential statistics as presented in the article?",
+      "options": [
+        "Descriptive statistics summarize data from a sample using indexes such as mean or standard deviation, while inferential statistics draw conclusions from data subject to random variation.",
+        "Descriptive statistics draw conclusions from data subject to random variation, while inferential statistics summarize data from a sample using indexes such as mean or standard deviation.",
+        "Descriptive statistics are used only for experimental studies, while inferential statistics are used only for observational studies.",
+        "Descriptive statistics require a full census, while inferential statistics require only a sample."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that descriptive statistics summarize data from a sample using indexes such as the mean or standard deviation, while inferential statistics draw conclusions from data that are subject to random variation.",
+        "Incorrect. This swaps the definitions given in the article; descriptive statistics summarize data, while inferential statistics draw conclusions from data subject to random variation.",
+        "Incorrect. The article does not restrict descriptive statistics to experimental studies or inferential statistics to observational studies.",
+        "Incorrect. The article does not state that descriptive statistics require a full census; it notes that when census data cannot be collected, statisticians use samples."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In hypothesis testing, what does a Type I error represent?",
+      "options": [
+        "Rejecting the null hypothesis when it is in fact true, producing a false positive.",
+        "Failing to reject the null hypothesis when it is in fact false, producing a false negative.",
+        "Accepting the alternative hypothesis when the null hypothesis is true, producing a true negative.",
+        "Rejecting the alternative hypothesis when it is in fact false, producing a true positive."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines Type I errors as occurring when the null hypothesis is rejected when it is in fact true, giving a false positive.",
+        "Incorrect. This describes a Type II error, not a Type I error, as defined in the article.",
+        "Incorrect. The article does not define Type I errors in terms of accepting the alternative hypothesis or producing a true negative.",
+        "Incorrect. The article does not define Type I errors in terms of rejecting the alternative hypothesis."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, which of the following is a defining characteristic of ratio measurements?",
+      "options": [
+        "They have both a meaningful zero value and defined distances between different measurements.",
+        "They have meaningful distances between measurements but an arbitrary zero value.",
+        "They have a meaningful order but imprecise differences between consecutive values.",
+        "They do not have a meaningful rank order among values."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that ratio measurements have both a meaningful zero value and the distances between different measurements defined.",
+        "Incorrect. This describes interval measurements, which have meaningful distances but an arbitrary zero value, not ratio measurements.",
+        "Incorrect. This describes ordinal measurements, which have a meaningful order but imprecise differences between consecutive values.",
+        "Incorrect. This describes nominal measurements, which do not have a meaningful rank order among values."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the primary difference between experimental and observational studies according to the article?",
+      "options": [
+        "Experimental studies involve manipulating the system, whereas observational studies do not involve experimental manipulation.",
+        "Experimental studies are used only for causality, whereas observational studies are used only for correlation.",
+        "Experimental studies require random sampling, whereas observational studies require a census.",
+        "Experimental studies analyze existing data, whereas observational studies collect new data."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that an experimental study involves taking measurements, manipulating the system, and taking additional measurements, while an observational study does not involve experimental manipulation.",
+        "Incorrect. The article does not limit experimental studies to causality or observational studies to correlation; both can investigate causal relationships.",
+        "Incorrect. The article does not state that experimental studies require random sampling or that observational studies require a census.",
+        "Incorrect. The article describes experimental studies as involving active manipulation and measurement, not merely analyzing existing data."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the role of blocking in the design of experiments as described in the article?",
+      "options": [
+        "Blocking reduces the influence of confounding variables.",
+        "Blocking ensures that the null hypothesis is rejected when it is false.",
+        "Blocking converts an observational study into an experimental study.",
+        "Blocking eliminates the need for randomized assignment of treatments."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that design of experiments uses blocking to reduce the influence of confounding variables.",
+        "Incorrect. Blocking is not described in the article as a mechanism for rejecting the null hypothesis.",
+        "Incorrect. Blocking is a feature of experimental design, not a method for converting observational studies into experiments.",
+        "Incorrect. The article presents blocking and randomized assignment as complementary steps, not as substitutes for one another."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is the relationship between statistics and probability theory?",
+      "options": [
+        "Statistics is based on probability, but the two are conceptually distinct: probability deduces from general theory to specific situations, while statistics induces statements about a population from a data set.",
+        "Statistics and probability are identical subjects with no conceptual distinction between them.",
+        "Probability induces statements about a population from a data set, while statistics deduces answers from a general theory to specific situations.",
+        "Statistics is a branch of physics that uses probability only for modeling physical phenomena."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that statistics is based on probability but that they are conceptually distinct: probability deduces answers to specific situations from a general theory, while statistics induces statements about a population based on a data set.",
+        "Incorrect. The article explicitly states that probability and statistics are conceptually distinct from one another.",
+        "Incorrect. This reverses the roles described in the article; probability deduces from general theory, while statistics induces from data.",
+        "Incorrect. The article describes statistics as related to many subjects but does not classify it as a branch of physics."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following best describes the purpose of a null hypothesis in statistical hypothesis testing?",
+      "options": [
+        "It represents an idealized assumption of no relationship between two data sets, which is tested against an alternative hypothesis.",
+        "It represents the researcher's preferred conclusion that the data are expected to support.",
+        "It is a descriptive statistic that summarizes central tendency and dispersion.",
+        "It is a type of measurement scale with a meaningful zero value."
+      ],
+      "answer_explanations": [
+        "Correct. The article describes the null hypothesis as an idealized assumption of no relationship between two data sets, with an alternative hypothesis proposed as an alternative to it.",
+        "Incorrect. The article does not describe the null hypothesis as the researcher's preferred conclusion; rather, it is the assumption of no relationship that may be rejected.",
+        "Incorrect. The null hypothesis is not a descriptive statistic; descriptive statistics summarize data using indexes such as mean or standard deviation.",
+        "Incorrect. The null hypothesis is not a measurement scale; ratio measurements are the ones with a meaningful zero value."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "A researcher wants to estimate the average income of all adults in a city but cannot collect data from every resident. Instead, she selects a representative sample and uses it to infer the population parameter. Which statistical concept does this scenario illustrate?",
+      "options": [
+        "Statistical inference, which inductively infers population parameters from sample data.",
+        "Descriptive statistics, which summarize data using indexes such as the mean.",
+        "Experimental manipulation, which involves changing the system and measuring the effect.",
+        "A census, which comprises every member of the target population."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that statistical inference moves inductively from samples to the parameters of a larger or total population, which matches using a sample to estimate a population average.",
+        "Incorrect. Descriptive statistics summarize data from a sample but do not by themselves extend conclusions to the population as a whole.",
+        "Incorrect. Experimental manipulation involves actively changing the system, which is not part of this sampling scenario.",
+        "Incorrect. A census comprises every member of the target population, whereas the researcher is explicitly not collecting data from every resident."
+      ]
+    }
+  ]
+}

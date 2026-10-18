@@ -1,0 +1,167 @@
+{
+  "article_id": "0035",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to Bernard Suits' definition of games, what is the 'lusory attitude'?",
+      "options": [
+        "Accepting unnecessary obstacles in order to play",
+        "Choosing an activity for its light-hearted character",
+        "Engaging in an activity that produces a useful result",
+        "Following rules that mirror everyday life"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Suits calls players' state of mind 'lusory attitude,' accepting unnecessary obstacles in order to play.",
+        "Incorrect. Choosing an activity for its light-hearted character is Roger Caillois's characteristic of 'fun,' not Suits's lusory attitude.",
+        "Incorrect. Suits's definition describes games as non-productive in the sense that they do not accomplish anything useful, which is Caillois's view, not the lusory attitude.",
+        "Incorrect. Suits's rules prohibit more efficient means in favor of less efficient ones, meaning they differ from everyday life rather than mirroring it."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What did Ludwig Wittgenstein conclude about defining the word 'game'?",
+      "options": [
+        "Games bear only family resemblances to one another",
+        "All games share competition as an essential element",
+        "Rules alone are sufficient to define any game",
+        "Play is the single defining feature of all games"
+      ],
+      "answer_explanations": [
+        "Correct. Wittgenstein concluded that people apply the term 'game' to a range of disparate human activities that bear to one another only what one might call family resemblances.",
+        "Incorrect. Wittgenstein argued that elements such as competition fail to adequately define what games are.",
+        "Incorrect. Wittgenstein argued that rules fail to adequately define what games are.",
+        "Incorrect. Wittgenstein argued that play fails to adequately define what games are."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is one of Roger Caillois's six defining characteristics of a game?",
+      "options": [
+        "The activity is non-productive",
+        "The outcome is predetermined",
+        "Participation accomplishes something useful",
+        "The activity is mandatory rather than chosen"
+      ],
+      "answer_explanations": [
+        "Correct. Caillois lists 'non-productive' as a characteristic, meaning participation does not accomplish anything useful.",
+        "Incorrect. Caillois defines games as 'uncertain,' meaning the outcome is unforeseeable, not predetermined.",
+        "Incorrect. Caillois explicitly states that participation does not accomplish anything useful.",
+        "Incorrect. Caillois describes games as 'fun,' meaning the activity is chosen for its light-hearted character, not mandatory."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to Greg Costikyan's definition, why are games like Chutes and Ladders not technically games?",
+      "options": [
+        "They do not involve player choices",
+        "They lack a board and tokens",
+        "They are not competitive",
+        "They have no goal"
+      ],
+      "answer_explanations": [
+        "Correct. Costikyan's definition requires players to make decisions to manage resources, and the article notes that Chutes and Ladders does not involve choices.",
+        "Incorrect. Chutes and Ladders is a board game and does use a board and tokens.",
+        "Incorrect. The article does not state that lack of competition is the reason Costikyan excludes these games.",
+        "Incorrect. These games do have a goal; the issue is the absence of decisions or choices."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How does the article distinguish a game's aim from its rules?",
+      "options": [
+        "An aim is a sufficient condition for success, while a rule is a necessary condition for permissible action",
+        "Rules identify winning conditions, while aims identify how actions are allowed to work",
+        "Aims are optional, while rules are mandatory",
+        "Rules change during play, while aims remain fixed"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'An aim identifies a sufficient condition for successful action, whereas the rule identifies a necessary condition for permissible action.'",
+        "Incorrect. This reverses the article's definitions; rules specify how actions are allowed to work, while aims identify win conditions.",
+        "Incorrect. The article does not characterize aims as optional and rules as mandatory.",
+        "Incorrect. While some games like Nomic include rules about changing rules, this is not the general distinction between aims and rules."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which ancient game is described as having religious significance, with its board representing the pathway through the netherworld?",
+      "options": [
+        "Senet",
+        "The Royal Game of Ur",
+        "Go",
+        "Chaturanga"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Senet had religious significance with the board representing the pathway through the netherworld.",
+        "Incorrect. The Royal Game of Ur is described as among the oldest known board games, but not as having this religious significance.",
+        "Incorrect. Go is discussed in the context of East Asia and strategic complexity, not the netherworld.",
+        "Incorrect. Chaturanga is described as a likely ancestor of chess, with no mention of religious significance or the netherworld."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which game is given as an example of one where winning is based entirely on luck?",
+      "options": [
+        "Candy Land",
+        "Chess",
+        "Backgammon",
+        "Settlers of Catan"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in Candy Land winning is based entirely on luck.",
+        "Incorrect. The article states that winning in chess is based entirely on skill.",
+        "Incorrect. Backgammon combines strategy with the chance of dice rolls, so it is not entirely luck.",
+        "Incorrect. Settlers of Catan offers several paths to victory and involves strategy, not entirely luck."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to Jane McGonigal, what are the four defining traits shared by all games?",
+      "options": [
+        "A goal, rules, a feedback system, and voluntary participation",
+        "Fun, separate, uncertain, and non-productive",
+        "Play, rules, and competition",
+        "A goal, rules, competition, and chance"
+      ],
+      "answer_explanations": [
+        "Correct. McGonigal states that all games share four defining traits: a goal, rules, a feedback system, and voluntary participation.",
+        "Incorrect. These are Roger Caillois's characteristics (fun, separate, uncertain, non-productive), though Caillois lists six traits, not four.",
+        "Incorrect. These are elements Wittgenstein discussed as failing to adequately define games.",
+        "Incorrect. The article does not attribute this combination of traits to McGonigal."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is true about collectible card games according to the article?",
+      "options": [
+        "Booster packs have random contents",
+        "They were pioneered by Uno",
+        "Pack contents are always known in advance",
+        "They use standard 52-card decks exclusively"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that collectible card game booster packs are random.",
+        "Incorrect. The article states that collectible card games were pioneered by Magic: The Gathering in 1993, not Uno.",
+        "Incorrect. The article contrasts collectible card games with living card games, whose pack contents are known; collectible card game packs are random.",
+        "Incorrect. The article notes that Uno was originally played with standard decks but does not say collectible card games use standard 52-card decks exclusively."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article say about the global video game industry's annual revenue in the modern era?",
+      "options": [
+        "It has surpassed both film and music in annual revenue",
+        "It remains smaller than the film industry",
+        "It is smaller than the music industry",
+        "It is roughly equal to the combined revenue of film and music"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the global video game industry has grown to surpass both film and music in annual revenue.",
+        "Incorrect. The article states the opposite: video game revenue has surpassed film.",
+        "Incorrect. The article states the opposite: video game revenue has surpassed music.",
+        "Incorrect. The article says video game revenue surpassed both film and music individually, not that it equals their combined revenue."
+      ]
+    }
+  ]
+}

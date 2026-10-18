@@ -1,0 +1,167 @@
+{
+  "article_id": "0006",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is mathematics primarily concerned with?",
+      "options": [
+        "abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities",
+        "empirical observation and laboratory experimentation",
+        "the historical development of scientific instruments",
+        "the classification of biological species"
+      ],
+      "answer_explanations": [
+        "Correct. The article states mathematics is 'a field of knowledge concerned with abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities.'",
+        "Incorrect. The article explicitly says mathematical results are established by deductive proof rather than by experiment.",
+        "Incorrect. The article does not describe mathematics as concerned with the historical development of scientific instruments.",
+        "Incorrect. The article does not mention the classification of biological species as a concern of mathematics."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed in the article as an area of mathematics?",
+      "options": [
+        "analysis",
+        "astronomy",
+        "chemistry",
+        "biology"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists analysis among the areas of mathematics, describing it as 'the quantitative study of approximation and convergence.'",
+        "Incorrect. Astronomy is not listed among the areas of mathematics in the article.",
+        "Incorrect. Chemistry is not listed among the areas of mathematics in the article.",
+        "Incorrect. Biology is not listed among the areas of mathematics in the article."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article say about the relationship between mathematical results and experiment?",
+      "options": [
+        "Mathematical results are established by deductive proof rather than by experiment.",
+        "Mathematical results require experimental verification before they are accepted.",
+        "Mathematical results are established primarily through laboratory experiments.",
+        "Mathematical results are established only when they match empirical observations."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Although mathematics is widely used to model empirical phenomena, its results are established by deductive proof rather than by experiment.'",
+        "Incorrect. The article says the opposite: mathematical results are established by deductive proof rather than by experiment.",
+        "Incorrect. The article does not say mathematical results are established primarily through laboratory experiments.",
+        "Incorrect. The article does not state that mathematical results must match empirical observations to be established."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article say about the concept of proof and mathematical rigor?",
+      "options": [
+        "It began in ancient Greek mathematics.",
+        "It began in Ancient Egypt.",
+        "It began in Mesopotamia.",
+        "It began in the 16th century."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'the concept of proof and its associated mathematical rigor began in ancient Greek mathematics.'",
+        "Incorrect. The article says mathematical written records first appeared in Ancient Egypt, but proof and rigor began in ancient Greek mathematics.",
+        "Incorrect. The article says mathematical written records first appeared in Mesopotamia, but proof and rigor began in ancient Greek mathematics.",
+        "Incorrect. The article associates the 16th century with the evolution of algebra, not the origin of proof and mathematical rigor."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Before the Renaissance, into which two main areas was mathematics divided?",
+      "options": [
+        "arithmetic and geometry",
+        "algebra and calculus",
+        "number theory and set theory",
+        "analysis and topology"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Before the Renaissance, mathematics was divided into two main areas: arithmetic... and geometry...'",
+        "Incorrect. The article says algebra and calculus became predominant beginning with the Renaissance, not before it.",
+        "Incorrect. Number theory and set theory are not identified in the article as the two main pre-Renaissance divisions.",
+        "Incorrect. Analysis and topology are not identified in the article as the two main pre-Renaissance divisions."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did RenÃ© Descartes introduce in the 17th century that changed the paradigm of geometry?",
+      "options": [
+        "Cartesian coordinates",
+        "non-Euclidean geometries",
+        "the axiomatic method",
+        "algebraic expressions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in the 17th century, 'RenÃ© Descartes introduced what is now called Cartesian coordinates,' which constituted a major change of paradigm.",
+        "Incorrect. Non-Euclidean geometries were discovered in the 19th century, not introduced by Descartes.",
+        "Incorrect. The axiomatic method was systematized at the end of the 19th century, not introduced by Descartes.",
+        "Incorrect. Algebraic expressions are associated with modern algebra beginning with the Renaissance, not specifically with Descartes's 17th-century contribution."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what is topology the study of?",
+      "options": [
+        "properties that are kept under continuous deformations",
+        "distance properties in curved spaces",
+        "properties relative to parallelism independent of length",
+        "curves and surfaces defined using polynomials"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that topology is 'the study of properties that are kept under continuous deformations.'",
+        "Incorrect. The article describes Riemannian geometry, not topology, as 'the study of distance properties in curved spaces.'",
+        "Incorrect. The article describes affine geometry, not topology, as 'the study of properties relative to parallelism and independent of the concept of length.'",
+        "Incorrect. The article describes algebraic geometry, not topology, as 'the study of curves, surfaces, and their generalizations, which are defined using polynomials.'"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does the article say about areas of mathematics developed independently from application?",
+      "options": [
+        "They often find practical applications later.",
+        "They never find practical applications.",
+        "They are grouped under applied mathematics.",
+        "They are developed in close correlation with their applications."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Other areas are developed independently from any application but often find practical applications later.'",
+        "Incorrect. The article says such areas often find practical applications later, not that they never do.",
+        "Incorrect. The article says areas developed in close correlation with applications are grouped under applied mathematics, not areas developed independently.",
+        "Incorrect. The article says areas developed in close correlation with applications are distinct from those developed independently from any application."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the article say about the contemporary Mathematics Subject Classification?",
+      "options": [
+        "It lists more than 60 first-level areas of mathematics.",
+        "It lists exactly four first-level areas of mathematics.",
+        "It lists only arithmetic and geometry as first-level areas.",
+        "It lists algebra and calculus as first-level areas."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The contemporary Mathematics Subject Classification lists more than 60 first-level areas of mathematics.'",
+        "Incorrect. The article says the classification lists more than 60 first-level areas, not exactly four.",
+        "Incorrect. The article says arithmetic and geometry were the two main areas before the Renaissance, not that the contemporary classification lists only them.",
+        "Incorrect. The article states that algebra and calculus do not appear as first-level areas but are split into several first-level areas."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article identify as the modern name for higher arithmetic?",
+      "options": [
+        "number theory",
+        "algebra",
+        "geometry",
+        "analysis"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that number theory is 'the modern name for higher arithmetic.'",
+        "Incorrect. Algebra is described in the article as the study of operations and the structures they form, not as the modern name for higher arithmetic.",
+        "Incorrect. Geometry is described as the study of shapes and spaces, not as the modern name for higher arithmetic.",
+        "Incorrect. Analysis is described as the quantitative study of approximation and convergence, not as the modern name for higher arithmetic."
+      ]
+    }
+  ]
+}

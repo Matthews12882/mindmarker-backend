@@ -1,0 +1,167 @@
+{
+  "article_id": "0081",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A new alloy is developed that conducts electricity at absolute zero due to delocalized states at the Fermi energy. Based on the article, how should this material be classified?",
+      "options": [
+        "As a metal",
+        "As a nonmetallic material",
+        "As a semiconductor",
+        "As an ionic compound"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a metal conducts electricity at absolute zero as a consequence of delocalized states at the Fermi energy.",
+        "Incorrect. Nonmetallic materials do not have electrons available at the Fermi level, unlike this alloy.",
+        "Incorrect. Semiconductors have an energy gap between filled and empty electron states, unlike the delocalized states described.",
+        "Incorrect. Ionic compounds have larger Burgers vectors and higher dislocation energy, which differs from the metallic behavior described."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "An engineer must choose between a metal and an ionic compound like table salt for a component that will undergo repeated plastic deformation. Which material property described in the article favors the metal?",
+      "options": [
+        "Lower energy needed to produce a dislocation due to small Burgers vectors",
+        "Higher energy needed to move a dislocation",
+        "Larger Burgers vectors in the crystal lattice",
+        "Directional bonding that resists deformation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that metals have small Burgers vectors, meaning the energy needed to produce a dislocation is small, unlike ionic compounds.",
+        "Incorrect. The article says the energy to move a dislocation is far higher in ionic compounds, not metals.",
+        "Incorrect. The article states that Burgers vectors are much larger in ionic compounds like table salt, not in metals.",
+        "Incorrect. The article describes metallic bonding as nondirectional, which contributes to ductility."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If a material's electrical conductivity increases when heated between â175 and +125 Â°C and undergoes a phase change near 100 Â°C, which element from the article exhibits this behavior?",
+      "options": [
+        "Plutonium",
+        "Silver",
+        "Manganese",
+        "Boron"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that plutonium's electrical conductivity increases when heated in that temperature range, with a phase change near 100 Â°C.",
+        "Incorrect. Silver is cited as having the highest conductivity among elemental metals, not this anomalous heating behavior.",
+        "Incorrect. Manganese is cited at the low end of elemental metal conductivity, not for increasing conductivity with heat.",
+        "Incorrect. Boron is a semiconducting metalloid with much lower conductivity, not described as having this phase-change behavior."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "A researcher observes that a metal oxide reacts with both acids and bases. According to the article, what term describes such an oxide?",
+      "options": [
+        "Amphoteric",
+        "Basic",
+        "Strictly acidic",
+        "Passivation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that oxides of less electropositive metals such as BeO, Al2O3, and PbO can display both basic and acidic properties and are termed amphoteric.",
+        "Incorrect. Basic oxides are not described as reacting with both acids and bases.",
+        "Incorrect. Strictly acidic oxides are associated with very high oxidation states like CrO3, not dual behavior.",
+        "Incorrect. A passivation layer acts as a diffusion barrier and is not the term for an oxide reacting with both acids and bases."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "A materials scientist is comparing a metal and a semiconductor such as silicon. According to the article, why can the metal conduct electricity under a small electric field while the semiconductor generally cannot?",
+      "options": [
+        "The metal has empty delocalized electron states available at energies near the highest occupied levels",
+        "The metal has a large energy gap between valence and conduction bands",
+        "The semiconductor has delocalized states at the Fermi level",
+        "The metal's electrons are all at the same momentum"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that metals have empty delocalized electron states available near the highest occupied levels, allowing electrons to shift under an electric field.",
+        "Incorrect. The article attributes the energy gap to semiconductors and nonmetals, not metals.",
+        "Incorrect. The article states that semiconductors have an energy gap, not delocalized states at the Fermi level.",
+        "Incorrect. The article says electrons in a material have different momenta that average to zero, not that they are all the same."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "A manufacturer needs a lightweight structural metal with a density close to 2.7 g/cmÂ³. According to the article, which metal fits this description?",
+      "options": [
+        "Aluminium",
+        "Iron",
+        "Copper",
+        "Osmium"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists aluminium's density as 2.7 g/cmÂ³ among light metals of commercial importance.",
+        "Incorrect. The article gives iron's density as 7.9 g/cmÂ³.",
+        "Incorrect. The article gives copper's density as 8.9 g/cmÂ³.",
+        "Incorrect. The article identifies osmium as the most dense at 22.59 g/cmÂ³."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "A company wants to use a metal in high-rise building construction because of its strength and resilience. According to the article, which of the following is also listed as a common use of metals?",
+      "options": [
+        "Railroad tracks",
+        "Wooden furniture",
+        "Ceramic insulators",
+        "Plastic packaging"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists railroad tracks among the frequent uses of metals due to their strength and resilience.",
+        "Incorrect. The article classifies wood as a nonmetallic material, not a use of metals.",
+        "Incorrect. The article classifies ceramics as nonmetallic materials.",
+        "Incorrect. The article does not list plastic packaging as a use of metals."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, which statement accurately describes the relationship between metallic bonding and ductility?",
+      "options": [
+        "The nondirectional nature of metallic bonding contributes to ductility by allowing dislocation motion",
+        "Metallic bonding is highly directional, which prevents dislocation motion",
+        "Ductility arises from large Burgers vectors that require high energy to move",
+        "Metals cleave easily under stress because of their bonding"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the nondirectional nature of metallic bonding contributes to ductility, with low Peierls stress allowing dislocation motion.",
+        "Incorrect. The article describes metallic bonding as nondirectional, not highly directional.",
+        "Incorrect. The article says metals have small Burgers vectors and low energy to produce dislocations, unlike ionic compounds.",
+        "Incorrect. The article states metals deform under stress without cleaving."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "A physicist is studying a plasma. According to the article, how does a plasma compare to elemental metals in terms of electrical conduction?",
+      "options": [
+        "A plasma is a metallic conductor and its charged particles share many properties with electrons in elemental metals",
+        "A plasma is not a conductor under normal conditions",
+        "A plasma has an energy gap that prevents conduction",
+        "A plasma conducts heat but not electricity"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a plasma is a metallic conductor and its charged particles have many properties in common with electrons in elemental metals.",
+        "Incorrect. The article says no gases are metallic conductors under normal conditions, but a plasma is an exception.",
+        "Incorrect. The article attributes energy gaps to semiconductors and nonmetals, not plasmas.",
+        "Incorrect. The article explicitly describes a plasma as a metallic conductor of electricity."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the WiedemannâFranz law as described in the article, what is true about the ratio between thermal and electrical conductivities in many metals?",
+      "options": [
+        "It is proportional to temperature",
+        "It is inversely proportional to temperature",
+        "It is constant regardless of temperature",
+        "It applies only to semiconductors"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the WiedemannâFranz law says the ratio between thermal and electrical conductivities is proportional to temperature.",
+        "Incorrect. The article describes direct proportionality to temperature, not inverse proportionality.",
+        "Incorrect. The article states the ratio is proportional to temperature, not constant.",
+        "Incorrect. The article applies the law to many metals, not semiconductors."
+      ]
+    }
+  ]
+}

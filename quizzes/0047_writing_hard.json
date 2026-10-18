@@ -1,0 +1,167 @@
+{
+  "article_id": "0047",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A company wants to use AI to draft initial versions of routine financial-market overviews without human writers involved after setup. Based on the article, which capability best supports this scenario?",
+      "options": [
+        "Natural language processing and natural language generation software can produce certain forms of highly formulaic writing without direct human involvement after initial configuration.",
+        "Generative pre-trained transformers require continuous human input to generate longer texts.",
+        "Writing implements such as pens and pencils are necessary for mechanically consistent text.",
+        "Typewriters allow individual writers to produce visually consistent text via a keyboard."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that early advancements in natural language processing and natural language generation resulted in software capable of producing certain forms of highly formulaic writing, such as financial-market overviews, without direct human involvement after initial configuration.",
+        "Incorrect. The article says generative pre-trained transformers can generate longer texts without additional human input when provided with a prompt.",
+        "Incorrect. The article lists pens and pencils as writing implements for physical inscriptions, not as software for automated formulaic writing.",
+        "Incorrect. The article describes typewriters as tools for individual writers to produce text mechanically via a keyboard, not as AI-driven automation."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "A researcher submits a manuscript to a journal. According to the article, what does publication of the research establish about its claims?",
+      "options": [
+        "Publication only establishes that the work is worth the attention of other specialists, not that its claims are authoritatively true.",
+        "Publication proves the claims are authoritatively true.",
+        "Publication means the findings are immediately codified as reliably true knowledge.",
+        "Publication requires no peer review before claims are accepted as true."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that publication does not establish claims or findings as authoritatively true, only that they are worth the attention of other specialists.",
+        "Incorrect. The article explicitly says publication does not establish claims as authoritatively true.",
+        "Incorrect. The article says claims become codified as contingently reliable knowledge only as they appear in review articles, handbooks, textbooks, or are cited in other research, not immediately upon publication.",
+        "Incorrect. The article states that prior to official publication, documents are typically read and evaluated by peer review."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, what is a key difference between written language and spoken or signed language?",
+      "options": [
+        "Written language is permanent and allows for planning, revision, and editing, whereas spoken and signed language are transient.",
+        "Written language relies on tone of voice and facial expressions to convey meaning.",
+        "Spoken and signed language are more structured and formal than written language.",
+        "Written language is primarily used in dialogue and includes turn-taking features."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that while speech and signing are transient, writing is permanent and allows for planning, revision, and editing.",
+        "Incorrect. The article says written language must convey meaning without tone of voice, facial expressions, or body language.",
+        "Incorrect. The article states that written language is typically more structured and formal, not spoken and signed language.",
+        "Incorrect. The article says spoken and signed language are primarily used in dialogue and include turn-taking elements, not written language."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Based on the article, which of the following is an individual motivation for writing?",
+      "options": [
+        "Operating beyond the limitations of one's own memory, such as keeping to-do lists or recipes.",
+        "Establishing legal codes and taxation systems for a society.",
+        "Distributing sacred texts to wider populations.",
+        "Creating uniform and predictable legal systems."
+      ],
+      "answer_explanations": [
+        "Correct. The article lists individual motivations for writing, including operating beyond the limitations of one's own memory, with examples such as to-do lists and recipes.",
+        "Incorrect. Establishing legal codes and taxation systems are listed as aids to administration and societal applications of writing, not individual motivations.",
+        "Incorrect. Distributing accessible versions of sacred texts is described as a further innovation in societal uses of writing, not an individual motivation.",
+        "Incorrect. More uniform, predictable, and widely dispersed legal systems are described as societal innovations reliant on inscribed language, not individual motivations."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what role does writing play in occupations not typically associated with writing?",
+      "options": [
+        "Routine records management means most employees in such occupations write at least some of the time.",
+        "Employees in these occupations never need to produce written documentation.",
+        "Written documentation is the main deliverable and the mode of work itself in all occupations.",
+        "Only law, accounting, software design, and human resources require any writing at all."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that even in occupations not typically associated with writing, routine records management has most employees writing at least some of the time.",
+        "Incorrect. The article says most employees in such occupations write at least some of the time due to routine records management.",
+        "Incorrect. The article says written documentation is the main deliverable and mode of work itself in occupations like law, accounting, software design, and human resources, not in all occupations.",
+        "Incorrect. The article indicates that writing is pervasive in most modern forms of work, not limited to those four occupations."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, how can writing change people's relationship with knowledge?",
+      "options": [
+        "It allows humans to externalize their thinking in forms that are easier to reflect on, process more slowly, elaborate on, reconsider, and revise.",
+        "It makes knowledge less durable by storing it only in spoken form.",
+        "It prevents people from reflecting on or revising what they have learned.",
+        "It restricts knowledge to the immediate context of conversation."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that writing can change people's relationships with knowledge because it allows humans to externalize their thinking in forms that are easier to reflect on, process more slowly, elaborate on, reconsider, and revise.",
+        "Incorrect. The article describes writing as a durable means of representing language, not as making knowledge less durable.",
+        "Incorrect. The article says writing enables reflection and revision, not that it prevents them.",
+        "Incorrect. The article contrasts writing with the immediacy of spoken language, noting that writing transmits language across space and time rather than restricting it to local context."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what is literacy?",
+      "options": [
+        "The ability of reading and writing.",
+        "The ability to speak multiple languages fluently.",
+        "The ability to use writing implements such as pens and pencils.",
+        "The ability to produce visually consistent text using a typewriter."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines literacy as the ability of reading and writing.",
+        "Incorrect. The article does not define literacy as speaking multiple languages; it defines it specifically as the ability of reading and writing.",
+        "Incorrect. The article lists writing implements as tools used to make physical inscriptions, not as literacy itself.",
+        "Incorrect. The article describes typewriters as tools for producing text mechanically, not as the definition of literacy."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is one function of writing systems in relation to spoken language?",
+      "options": [
+        "They provide a durable means of representing language so it can be understood by people at a later time.",
+        "They replace spoken language entirely in all human societies.",
+        "They make spoken language transient rather than permanent.",
+        "They ensure that every spoken language has a corresponding writing system."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that writing systems do not constitute languages themselves but are a durable means of representing language such that it can be understood by people at a later time.",
+        "Incorrect. The article notes that most spoken languages are not written, so writing systems do not replace spoken language entirely.",
+        "Incorrect. The article states that speech is transient and writing is permanent, not that writing systems make spoken language transient.",
+        "Incorrect. The article explicitly says most spoken languages are not written, so writing systems do not exist for every spoken language."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is one way writing supports governance and law?",
+      "options": [
+        "Governments maintain written records on citizens concerning identities, life events, licenses, charges, and tax liability.",
+        "Written constitutions are never used at state or organizational levels.",
+        "Laws are administered exclusively through unwritten customs and oral tradition.",
+        "Governments do not produce reports or documents to account for their actions."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that governments maintain written records on citizens concerning identities, life events, licenses, criminal charges, traffic offences, penalties, and tax liability and payments.",
+        "Incorrect. The article says many modern systems of government are organized through written constitutions at national and sometimes state or other organizational levels.",
+        "Incorrect. The article states that laws are administered by an executive branch that presents written regulations, not exclusively through unwritten customs.",
+        "Incorrect. The article says government bodies regularly produce reports and other documents as work products and to account for their actions."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what is one result of the global spread of digital communication systems such as email and social media?",
+      "options": [
+        "Writing has become an increasingly important feature of daily life.",
+        "Paper, pencils, and whiteboards have been completely replaced by digital tools.",
+        "Workplaces in developed countries have reduced the amount of everyday writing.",
+        "Only professions traditionally associated with writing now require written documentation."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the global spread of digital communication systems such as email and social media has made writing an increasingly important feature of daily life.",
+        "Incorrect. The article says digital systems mix with older technologies like paper, pencils, whiteboards, printers, and copiers, not that they have completely replaced them.",
+        "Incorrect. The article states that substantial amounts of everyday writing characterize most workplaces in developed countries, not that writing has decreased.",
+        "Incorrect. The article says writing is pervasive in most modern forms of work, not limited to professions traditionally associated with writing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0189",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what does GÃ¶del's second incompleteness theorem imply about a formal axiomatic system that satisfies certain technical conditions?",
+      "options": [
+        "It cannot prove its own consistency.",
+        "It cannot decide the truth value of all statements about natural numbers.",
+        "It cannot prove the axiom of choice.",
+        "It cannot prove the continuum hypothesis."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the incompleteness theorems imply a formal axiomatic system satisfying certain technical conditions 'cannot prove that it is itself consistent.'",
+        "Incorrect. This describes the first implication mentioned in the article regarding truth values of statements about natural numbers, not the second theorem about self-consistency.",
+        "Incorrect. The article discusses the axiom of choice separately, noting it cannot be disproved from ZermeloâFraenkel set theory, not that systems cannot prove it.",
+        "Incorrect. The continuum hypothesis is discussed as something that cannot be disproved from ZermeloâFraenkel set theory, not as a consequence of the second incompleteness theorem."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What was the significance of GÃ¶del's work on the constructible universe for working mathematicians?",
+      "options": [
+        "It meant they could assume the axiom of choice when proving theorems.",
+        "It proved that intuitionistic logic is finite-valued.",
+        "It established that all formal systems are syntactically complete.",
+        "It showed that ZermeloâFraenkel set theory is inconsistent."
+      ],
+      "answer_explanations": [
+        "Correct. The article states this result 'has considerable consequences for working mathematicians, as it means they can assume the axiom of choice when proving' theorems such as the HahnâBanach theorem.",
+        "Incorrect. The article says GÃ¶del refuted the finite-valuedness of intuitionistic logic in a separate 1932 paper, unrelated to the constructible universe.",
+        "Incorrect. GÃ¶del's incompleteness theorems show the oppositeâthat sufficiently powerful systems cannot be syntactically complete.",
+        "Incorrect. GÃ¶del showed the axiom of choice and continuum hypothesis are consistent with ZermeloâFraenkel axioms, not that the axioms themselves are inconsistent."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If a new formal system were discovered that could describe the arithmetic of natural numbers and was computably enumerable, what would GÃ¶del's incompleteness theorems predict about it, based on the article?",
+      "options": [
+        "There would be at least one true statement about arithmetic that is unprovable within that system.",
+        "It would be able to prove its own consistency if it is omega-consistent.",
+        "It would be syntactically complete if it is omega-consistent.",
+        "It could decide the truth value of every statement about natural numbers."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that for any computably enumerable set of axioms for arithmetic, 'there is a formula that is true of arithmetic, but not provable in that system.'",
+        "Incorrect. The article states the consistency of axioms cannot be proved within their own system, regardless of omega-consistency.",
+        "Incorrect. The article states that if a system is omega-consistent, it cannot be syntactically completeâthe opposite of this option.",
+        "Incorrect. The article states such systems cannot decide the truth value of all statements about natural numbers."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How did GÃ¶del's experience at the 1930 KÃ¶nigsberg conference relate to his incompleteness theorems?",
+      "options": [
+        "He presented his completeness theorem and hinted that it does not generalize to higher-order logic.",
+        "He published the full incompleteness theorems there for the first time.",
+        "He met Albert Einstein, who encouraged him to work on incompleteness.",
+        "He learned about Hilbert's program for the first time there."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that at the conference, GÃ¶del presented his completeness theorem and 'at the end of the talk, mentioned that this result does not generalise to higher-order logic, thus hinting at his incompleteness theorems.'",
+        "Incorrect. The article says he published the incompleteness theorems in a separate article, not at the KÃ¶nigsberg conference.",
+        "Incorrect. GÃ¶del met Einstein during his 1933 U.S. trip, not at the 1930 KÃ¶nigsberg conference.",
+        "Incorrect. The article indicates GÃ¶del was already familiar with Hilbert's work before the conference, having attended Hilbert's lecture in Bologna."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What technique did GÃ¶del develop to encode statements, proofs, and provability as natural numbers?",
+      "options": [
+        "GÃ¶del numbering",
+        "The constructible universe",
+        "Omega-consistency",
+        "Recursive functions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del developed 'a technique now known as GÃ¶del numbering, which codes formal expressions as natural numbers' and later used it to encode 'statements, proofs, and the concept of provability.'",
+        "Incorrect. The constructible universe is a model of set theory GÃ¶del introduced to show the consistency of the axiom of choice and continuum hypothesis, not an encoding technique.",
+        "Incorrect. Omega-consistency is a technical condition mentioned in relation to the incompleteness theorems, not an encoding method.",
+        "Incorrect. Recursive functions are mentioned in connection with GÃ¶del's 1933 U.S. lecture, not as the encoding technique for statements and proofs."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Based on the article, what can be inferred about GÃ¶del's view of mathematical logic?",
+      "options": [
+        "He considered it a foundational science underlying all other sciences.",
+        "He believed it was subordinate to intuitionistic logic.",
+        "He thought it could fully capture all mathematical truth.",
+        "He regarded it as primarily a branch of physics."
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes GÃ¶del describing mathematical logic as 'a science prior to all others, which contains the ideas and principles underlying all sciences.'",
+        "Incorrect. The article does not suggest GÃ¶del viewed mathematical logic as subordinate to intuitionistic logic; in fact, he refuted the finite-valuedness of intuitionistic logic.",
+        "Incorrect. GÃ¶del's incompleteness theorems demonstrate the oppositeâthat formal logic cannot capture all mathematical truth.",
+        "Incorrect. Although GÃ¶del initially intended to study theoretical physics, the article does not suggest he regarded mathematical logic as a branch of physics."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What was the relationship between GÃ¶del's completeness theorem and his incompleteness theorems, according to the article?",
+      "options": [
+        "The completeness theorem applies to first-order logic, while the incompleteness theorems show limitations that do not generalize that result to higher-order logic.",
+        "The completeness theorem proved that all formal systems are consistent, which the incompleteness theorems later refuted.",
+        "The incompleteness theorems were a direct corollary of the completeness theorem.",
+        "The completeness theorem and incompleteness theorems address entirely unrelated topics."
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del's completeness theorem concerns first-order logic, and at the KÃ¶nigsberg conference he hinted that this result 'does not generalise to higher-order logic, thus hinting at his incompleteness theorems.'",
+        "Incorrect. The article does not say the completeness theorem proved all formal systems are consistent; the incompleteness theorems show consistency cannot be proved within a system.",
+        "Incorrect. The article presents them as related but distinct results, with the incompleteness theorems showing limitations beyond the completeness theorem's scope.",
+        "Incorrect. The article explicitly connects them, noting the completeness theorem's failure to generalize to higher-order logic hinted at the incompleteness theorems."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "If a mathematician wanted to use the axiom of choice in a proof today, what does the article suggest about its acceptability based on GÃ¶del's work?",
+      "options": [
+        "It is acceptable because GÃ¶del showed it cannot be disproved from ZermeloâFraenkel set theory, assuming consistency.",
+        "It is unacceptable because GÃ¶del proved it contradicts ZermeloâFraenkel set theory.",
+        "It is acceptable only in proofs involving the continuum hypothesis.",
+        "It is unacceptable because GÃ¶del showed it is independent of all logical systems."
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del showed the axiom of choice 'cannot be disproved from the accepted ZermeloâFraenkel set theory, assuming that its axioms are consistent,' and that 'The former result opened the door for mathematicians to assume the axiom of choice in their proofs.'",
+        "Incorrect. The article states the oppositeâthat the axiom of choice cannot be disproved from ZermeloâFraenkel set theory.",
+        "Incorrect. The article does not restrict the use of the axiom of choice to proofs involving the continuum hypothesis.",
+        "Incorrect. The article does not state that the axiom of choice is independent of all logical systems, only that it cannot be disproved from ZermeloâFraenkel set theory."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the article suggest about the impact of GÃ¶del's incompleteness theorems on Hilbert's program?",
+      "options": [
+        "They ended attempts to find a consistent axiomatization sufficient for number theory.",
+        "They confirmed that Hilbert's program could be completed with additional axioms.",
+        "They showed that Hilbert's program was only relevant to geometry.",
+        "They had no bearing on Hilbert's program."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the theorems 'ended a half-century of attempts, beginning with the work of Frege and culminating in Principia Mathematica and Hilbert's program, to find a non-relatively consistent axiomatization sufficient for number theory.'",
+        "Incorrect. The article states the theorems ended these attempts, not that they confirmed Hilbert's program could be completed.",
+        "Incorrect. The article describes Hilbert's program as concerning foundations of mathematics and number theory, not geometry specifically.",
+        "Incorrect. The article explicitly states the incompleteness theorems ended attempts associated with Hilbert's program."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What can be inferred about the role of GÃ¶del numbering in proving the incompleteness theorems?",
+      "options": [
+        "It provided a way to make statements about provability precise within arithmetic.",
+        "It was used to prove the completeness theorem for first-order logic.",
+        "It demonstrated that intuitionistic logic is finite-valued.",
+        "It constructed a model of set theory where the axiom of choice is true."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that to make the incompleteness result precise, GÃ¶del 'had to produce a method to encode (as natural numbers) statements, proofs, and the concept of provability; he did this by a process known as GÃ¶del numbering.'",
+        "Incorrect. The completeness theorem was established in GÃ¶del's 1929 dissertation, while GÃ¶del numbering is discussed in connection with the incompleteness theorems.",
+        "Incorrect. GÃ¶del refuted the finite-valuedness of intuitionistic logic in a separate 1932 paper using implicit methods, not GÃ¶del numbering.",
+        "Incorrect. The constructible universe, not GÃ¶del numbering, was the model GÃ¶del introduced to show the axiom of choice is consistent with set theory."
+      ]
+    }
+  ]
+}

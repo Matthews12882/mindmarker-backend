@@ -1,0 +1,167 @@
+{
+  "article_id": "0067",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the primary reason the Sun's oblateness value remains constant despite changes in solar irradiation?",
+      "options": [
+        "The tidal effect of the planets is weak and does not significantly affect the shape of the Sun.",
+        "The Sun's density decreases exponentially above the photosphere.",
+        "The core rotates faster than the radiative zone outside it.",
+        "The oblateness formula uses the difference between equatorial and polar radius."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'The oblateness value remains constant independent of solar irradiation changes. The tidal effect of the planets is weak and does not significantly affect the shape of the Sun.'",
+        "Incorrect. While the article mentions that the Sun's density decreases exponentially above the photosphere, it does not connect this to the constancy of oblateness.",
+        "Incorrect. The article notes that the core rotates faster than the radiative zone, but this fact is unrelated to why oblateness remains constant.",
+        "Incorrect. The oblateness formula defines how oblateness is calculated, but the article does not say this explains why the value remains constant despite irradiation changes."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the article suggest about the origin of heavy elements such as gold and uranium in the Solar System?",
+      "options": [
+        "They were produced by endothermic nuclear reactions during a supernova or by neutron absorption in a massive second-generation star.",
+        "They were inherited unchanged from the interstellar medium without any stellar processing.",
+        "They were created by nuclear fusion in the Sun's core during its main-sequence phase.",
+        "They settled from the photosphere toward the centre of the Sun because of gravity."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that heavy elements 'could most plausibly have been produced by endothermic nuclear reactions during a supernova, or by transmutation through neutron absorption within a massive second-generation star.'",
+        "Incorrect. The article says the Sun's original composition was inherited from the interstellar medium, but it specifically attributes heavy elements like gold and uranium to supernovae or neutron absorption in massive stars.",
+        "Incorrect. The article states that the Sun's core fuses hydrogen into helium and that helium cannot currently be fused; it does not attribute heavy elements to solar fusion.",
+        "Incorrect. The article mentions that helium and heavy elements have settled toward the centre due to gravity, but this describes their movement within the Sun, not their origin in the Solar System."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If a star were observed to have a surface temperature placing it in the second range of the G class, how would the article classify that star?",
+      "options": [
+        "As a G2 star.",
+        "As a Population II star.",
+        "As a red dwarf.",
+        "As a G-type giant star."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The Sun is classed as a G2 star, meaning it is a G-type star, with 2 indicating its surface temperature is in the second range of the G class.'",
+        "Incorrect. Population II refers to heavy-element-poor stars, not a surface-temperature classification within the G class.",
+        "Incorrect. Red dwarfs are mentioned as the most common stars in the Milky Way, but the article does not link them to the second range of the G class.",
+        "Incorrect. The article does not mention a 'G-type giant star' classification; it describes the Sun as a G-type main-sequence star."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what will happen to the Sun after it sheds its outer layers following the red giant phase?",
+      "options": [
+        "It will become a dense white dwarf that no longer produces energy by fusion but still glows and gives off heat from previous fusion.",
+        "It will immediately become a black dwarf giving off negligible energy.",
+        "It will continue fusing hydrogen into helium in its core for trillions of years.",
+        "It will expand further into a supergiant and eventually explode as a supernova."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'After the red giant phase, models suggest the Sun will shed its outer layers and become a dense type of cooling star (a white dwarf), and no longer produce energy by fusion, but will still glow and give off heat from its previous fusion for perhaps trillions of years.'",
+        "Incorrect. The article says the black dwarf stage comes after the white dwarf phase, not immediately after shedding outer layers.",
+        "Incorrect. The article states that hydrogen fusion diminishes before the red giant phase, and after shedding its outer layers the Sun will no longer produce energy by fusion.",
+        "Incorrect. The article does not mention a supergiant phase or a supernova for the Sun; it describes a red giant phase followed by a white dwarf."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Based on the article, what can be inferred about the Sun's core rotation compared to its surface rotation?",
+      "options": [
+        "The core rotates once per week, which is four times the mean surface rotation rate.",
+        "The core rotates at the same rate as the equator, approximately 25.6 days.",
+        "The core rotates more slowly than the poles because of magnetic braking.",
+        "The core's rotation period is about 28 days as viewed from Earth."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'A vestige of this rapid primordial rotation still survives at the Sun's core, which rotates at a rate of once per week; four times the mean surface rotation rate.'",
+        "Incorrect. The 25.6-day period refers to the equatorial rotation in a star-defined frame, not the core.",
+        "Incorrect. The article attributes the slowing of surface rotation to magnetic braking, but says the core retains rapid primordial rotation, not that it rotates more slowly than the poles.",
+        "Incorrect. The 28-day period is the apparent equatorial rotation viewed from Earth, not the core rotation rate."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the relationship between the Sun's photospheric composition and the primordial Solar System?",
+      "options": [
+        "The chemical composition of the photosphere is normally considered representative of the composition of the primordial Solar System.",
+        "The photosphere has a much higher metallicity than the primordial Solar System because heavy elements settled toward the centre.",
+        "The photosphere consists mainly of hydrogen and helium, while the primordial Solar System consisted mainly of heavier elements.",
+        "The photosphere's composition cannot be compared to the primordial Solar System because meteorites have been heated to melting temperatures."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The chemical composition of the photosphere is normally considered representative of the composition of the primordial Solar System.'",
+        "Incorrect. The article notes that some helium and heavy elements have settled toward the centre, but it still considers the photosphere representative of the primordial Solar System.",
+        "Incorrect. The article states that both the photosphere and the primordial Solar System are mainly hydrogen and helium, with heavier elements accounting for less than 2%.",
+        "Incorrect. The article says meteorites that have never been heated to melting temperatures are thought to retain the composition of the protostellar Sun, and the two measurement methods generally agree."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does the article indicate about the proportion of the Sun's energy generated by the CNO cycle?",
+      "options": [
+        "Currently 0.8% of the Sun's energy comes from the CNO cycle, and this proportion is expected to increase as the Sun becomes older and more luminous.",
+        "The CNO cycle generates 99% of the Sun's power in the innermost 24% of its radius.",
+        "The CNO cycle is the main fusion process, converting hydrogen into helium throughout the Sun's life.",
+        "The CNO cycle does not occur in the Sun because its core is not hot or dense enough to fuse helium."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Currently, 0.8% of the energy generated in the Sun comes from another sequence of fusion reactions called the CNO cycle; the proportion coming from the CNO cycle is expected to increase as the Sun becomes older and more luminous.'",
+        "Incorrect. The article says 99% of the Sun's power is generated in the innermost 24% of its radius, but it attributes energy production to the protonâproton chain, not specifically to the CNO cycle.",
+        "Incorrect. The article states that the protonâproton chain is the main fusion process through most of the Sun's life, not the CNO cycle.",
+        "Incorrect. The article says the core is not hot or dense enough to fuse helium, but this does not mean the CNO cycle does not occur; the article explicitly states it currently produces 0.8% of the Sun's energy."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is the significance of the Sun being classified as a Population I star?",
+      "options": [
+        "It is a heavy-element-rich star, suggested by a high abundance of heavy elements such as gold and uranium relative to Population II stars.",
+        "It means the Sun is a red dwarf, which is the most common type of star in the Milky Way.",
+        "It indicates the Sun formed from a molecular cloud without any supernova shockwaves.",
+        "It means the Sun's core is not hot or dense enough to fuse helium."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The Sun is a Population I, or heavy-element-rich, star. Its formation approximately 4.6 billion years ago may have been triggered by shockwaves from one or more nearby supernovae. This is suggested by a high abundance of heavy elements in the Solar System, such as gold and uranium, relative to the abundances of these elements in so-called Population II, heavy-element-poor, stars.'",
+        "Incorrect. The article says most stars in the Milky Way are red dwarfs, but it does not classify the Sun as a red dwarf or link Population I to red dwarfs.",
+        "Incorrect. The article suggests the Sun's formation may have been triggered by supernova shockwaves, not that it formed without them.",
+        "Incorrect. The article states the core is not hot or dense enough to fuse helium, but this is unrelated to the Population I classification."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Based on the article, what can be concluded about the Sun's differential rotation?",
+      "options": [
+        "It is caused by convective motion due to heat transport and the Coriolis force due to the Sun's rotation.",
+        "It means the poles rotate faster than the equator.",
+        "It causes the Sun's oblateness to be 8.2Ã10â6.",
+        "It results in the equatorial apparent rotational period being 33.5 days viewed from Earth."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'This differential rotation is caused by convective motion due to heat transport and the Coriolis force due to the Sun's rotation.'",
+        "Incorrect. The article states the Sun rotates faster at its equator than at its poles, not the reverse.",
+        "Incorrect. The article gives the oblateness value as 8.2Ã10â6 from satellite measurements, but does not attribute it to differential rotation.",
+        "Incorrect. The article states the apparent equatorial rotational period viewed from Earth is about 28 days, while 33.5 days is the polar period in a star-defined frame."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what happens to helium and heavy elements within the Sun over time due to gravity?",
+      "options": [
+        "Some of the helium and heavy elements settle from the photosphere toward the centre of the Sun.",
+        "They are lifted outward by heat transfer through convection in the radiative zone.",
+        "They remain evenly distributed throughout the photosphere and core.",
+        "They are converted into hydrogen through nuclear fusion in the core."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'some of the helium and heavy elements have settled from the photosphere toward the centre of the Sun because of gravity.'",
+        "Incorrect. The article states heat is transferred outward by radiation rather than convection, and fusion products remain in the core rather than being lifted outward.",
+        "Incorrect. The article describes settling toward the centre and an increasing helium proportion in the core, not an even distribution.",
+        "Incorrect. The article states hydrogen is fused into helium, not that helium and heavy elements are converted into hydrogen."
+      ]
+    }
+  ]
+}

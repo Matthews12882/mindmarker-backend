@@ -1,0 +1,167 @@
+{
+  "article_id": "0082",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical formula of water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that water is an inorganic compound with the chemical formula H2O.",
+        "Incorrect. The article does not give CO2 as water's chemical formula.",
+        "Incorrect. The article identifies water's formula as H2O, not O2.",
+        "Incorrect. The article does not identify NaCl as water's chemical formula."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed as a property of water in the article?",
+      "options": [
+        "transparent, tasteless, odorless, and nearly colorless",
+        "colored, sweet-smelling, and opaque",
+        "magnetic, radioactive, and flammable",
+        "acidic, salty, and metallic"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes water as transparent, tasteless, odorless, and nearly colorless.",
+        "Incorrect. The article does not describe water as colored, sweet-smelling, or opaque.",
+        "Incorrect. The article does not describe water as magnetic, radioactive, or flammable.",
+        "Incorrect. The article does not describe water as acidic, salty, or metallic."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What percentage of the Earth's surface is covered by water?",
+      "options": [
+        "about 71%",
+        "about 50%",
+        "about 90%",
+        "about 30%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that water covers about 71% of the Earth's surface.",
+        "Incorrect. The article gives the figure as about 71%, not about 50%.",
+        "Incorrect. The article gives the figure as about 71%, not about 90%.",
+        "Incorrect. The article gives the figure as about 71%, not about 30%."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the approximate percentage of Earth's water volume made up by seas and oceans?",
+      "options": [
+        "about 96.5%",
+        "about 50%",
+        "about 10%",
+        "about 1.7%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that seas and oceans make up about 96.5% of the water volume.",
+        "Incorrect. The article states seas and oceans make up about 96.5%, not about 50%.",
+        "Incorrect. The article states seas and oceans make up about 96.5%, not about 10%.",
+        "Incorrect. The article states groundwater and glaciers/ice caps each account for about 1.7%, not seas and oceans."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What percentage of fresh water used by humans goes to agriculture?",
+      "options": [
+        "Approximately 70%",
+        "Approximately 30%",
+        "Approximately 90%",
+        "Approximately 50%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that approximately 70% of the fresh water used by humans goes to agriculture.",
+        "Incorrect. The article states approximately 70%, not approximately 30%.",
+        "Incorrect. The article states approximately 70%, not approximately 90%.",
+        "Incorrect. The article states approximately 70%, not approximately 50%."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is one of the two official names for the chemical compound H2O?",
+      "options": [
+        "oxidane",
+        "hydrogen peroxide",
+        "hydroxide",
+        "steam"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that along with water, oxidane is one of the two official names for H2O.",
+        "Incorrect. The article does not identify hydrogen peroxide as an official name for H2O.",
+        "Incorrect. The article does not identify hydroxide as an official name for H2O.",
+        "Incorrect. Steam is described as the gaseous phase of water, not an official name for H2O."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "At 1 atm pressure, at what temperature does water reach its maximum density?",
+      "options": [
+        "3.98 Â°C (39.16 Â°F)",
+        "0 Â°C (32 Â°F)",
+        "100 Â°C (212 Â°F)",
+        "230 Â°C (446 Â°F)"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that at 1 atm pressure, water reaches its maximum density at 3.98 Â°C (39.16 Â°F).",
+        "Incorrect. The article identifies 0 Â°C as the freezing point, not the temperature of maximum density.",
+        "Incorrect. The article identifies 100 Â°C as the boiling point, not the temperature of maximum density.",
+        "Incorrect. The article mentions 230 Â°C in the context of early Earth's surface temperature, not water's maximum density."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "By approximately what percentage does water expand as it freezes and becomes ice?",
+      "options": [
+        "about 9%",
+        "about 1%",
+        "about 25%",
+        "about 50%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as water freezes and becomes ice, it expands by about 9%.",
+        "Incorrect. The article states water expands by about 9%, not about 1%.",
+        "Incorrect. The article states water expands by about 9%, not about 25%.",
+        "Incorrect. The article states water expands by about 9%, not about 50%."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What type of material is water described as in the Magnetism section?",
+      "options": [
+        "diamagnetic",
+        "ferromagnetic",
+        "paramagnetic",
+        "superconducting"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that water is a diamagnetic material.",
+        "Incorrect. The article describes water as diamagnetic, not ferromagnetic.",
+        "Incorrect. The article describes water as diamagnetic, not paramagnetic.",
+        "Incorrect. The article mentions superconducting magnets as a tool to observe water's weak interaction, but does not classify water itself as superconducting."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "At a pressure of one atmosphere, at what temperature does water boil?",
+      "options": [
+        "100 Â°C (212 Â°F)",
+        "0 Â°C (32 Â°F)",
+        "3.98 Â°C (39.16 Â°F)",
+        "205 Â°C (401 Â°F)"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that at one atmosphere, water boils at 100 Â°C (212 Â°F).",
+        "Incorrect. The article identifies 0 Â°C as the freezing/melting point, not the boiling point.",
+        "Incorrect. The article identifies 3.98 Â°C as the temperature of maximum density, not the boiling point.",
+        "Incorrect. The article mentions temperatures exceeding 205 Â°C in Old Faithful geyser, but not as water's boiling point at one atmosphere."
+      ]
+    }
+  ]
+}

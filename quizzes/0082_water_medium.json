@@ -1,0 +1,167 @@
+{
+  "article_id": "0082",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What percentage of Earth's surface is covered by water according to the article?",
+      "options": [
+        "About 71%",
+        "About 96.5%",
+        "About 70%",
+        "About 1.7%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Water covers about 71% of the Earth's surface.'",
+        "Incorrect. 96.5% refers to the portion of water volume made up by seas and oceans, not the percentage of Earth's surface covered by water.",
+        "Incorrect. 70% refers to the share of fresh water used by humans that goes to agriculture.",
+        "Incorrect. 1.7% refers to the portion of water occurring as groundwater and in glaciers and ice caps."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which property of water makes it a good solvent for many substances?",
+      "options": [
+        "Its strong polarity",
+        "Its high density",
+        "Its transparency",
+        "Its odorlessness"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes water as a polar molecule whose strong polarity contributes to its properties, and calls it the 'universal solvent' due to its presence in all organisms, chemical stability, worldwide abundance, and strong polarity relative to its small molecular size.",
+        "Incorrect. High density is not cited in the article as a reason for water's solvent ability.",
+        "Incorrect. Transparency is a physical characteristic but is not linked to solvent properties in the article.",
+        "Incorrect. Odorlessness is a sensory property and does not explain water's ability to dissolve substances."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What happens to water's density as it freezes?",
+      "options": [
+        "It becomes significantly less dense",
+        "It becomes more dense",
+        "It remains unchanged",
+        "It first increases then decreases"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that water 'becomes significantly less dense as it freezes,' expanding by about 9% and reaching a density of 917 kg/m3 as ice.",
+        "Incorrect. Water becomes less dense, not more dense, when it freezes.",
+        "Incorrect. The article explicitly notes that water's density changes as it freezes.",
+        "Incorrect. The article does not describe water's density as first increasing then decreases during freezing."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "At what temperature does water reach its maximum density at 1 atm pressure?",
+      "options": [
+        "3.98 Â°C",
+        "0 Â°C",
+        "100 Â°C",
+        "4 Â°C"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'At 1 atm pressure, it reaches its maximum density of 999.972 kg/m3 at 3.98 Â°C (39.16 Â°F).'",
+        "Incorrect. 0 Â°C is the freezing point of water, not its temperature of maximum density.",
+        "Incorrect. 100 Â°C is the boiling point of water at one atmosphere.",
+        "Incorrect. While the article mentions water at 4 Â°C sinks in lakes, the precise temperature of maximum density at 1 atm is given as 3.98 Â°C."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What percentage of global protein is provided by fishing in salt and fresh water bodies?",
+      "options": [
+        "6.5%",
+        "70%",
+        "96.5%",
+        "1.7%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that fishing in salt and fresh water bodies 'provides 6.5% of global protein.'",
+        "Incorrect. 70% refers to the portion of fresh water used by humans that goes to agriculture.",
+        "Incorrect. 96.5% refers to the share of Earth's water volume found in seas and oceans.",
+        "Incorrect. 1.7% refers to the portion of water occurring as groundwater and in glaciers and ice caps."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the article say about the presence of liquid water on Earth 4.404 billion years ago?",
+      "options": [
+        "Mineralogical evidence from zircons shows liquid water and an atmosphere must have existed then",
+        "No evidence exists for water at that time",
+        "Water only existed as ice at that time",
+        "Water arrived on Earth much later than that"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Mineralogical evidence from zircons has shown that liquid water and an atmosphere must have existed 4.404 Â± 0.008 billion years ago.'",
+        "Incorrect. The article presents zircon evidence indicating water did exist at that time.",
+        "Incorrect. The article refers to liquid water, not ice, at that period.",
+        "Incorrect. The article suggests water may have been present since the beginning of Earth's formation, not that it arrived later."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Why is ice able to float on liquid water in lakes?",
+      "options": [
+        "Ice is less dense than liquid water",
+        "Ice is more dense than liquid water",
+        "Ice is colder than liquid water",
+        "Ice contains dissolved minerals"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that water becomes significantly less dense as it freezes, so ice floats on liquid water and insulates the water below.",
+        "Incorrect. Ice is less dense than liquid water, which is why it floats.",
+        "Incorrect. Temperature alone does not determine buoyancy; density does.",
+        "Incorrect. The article does not mention dissolved minerals as the reason ice floats."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is listed in the article as a state of matter of water?",
+      "options": [
+        "Water vapor",
+        "Plasma",
+        "Crystal",
+        "Aerosol"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies water vapor (or steam) as the gaseous phase of H2O, one of the common states of matter of water.",
+        "Incorrect. Plasma is not mentioned as a state of water in the article.",
+        "Incorrect. Crystal is not listed as a state of matter of water; ice is the solid phase.",
+        "Incorrect. Aerosol is mentioned as a form of water in the atmosphere (fog), but not as a state of matter of water itself."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What effect does pressure have on the melting temperature of ice?",
+      "options": [
+        "It decreases the melting temperature",
+        "It increases the melting temperature",
+        "It has no effect on the melting temperature",
+        "It causes the melting temperature to fluctuate unpredictably"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that because ice is less dense than water, the melting temperature decreases with pressure, allowing pressure melting in glaciers.",
+        "Incorrect. The article states the opposite: the melting temperature decreases with pressure for ice.",
+        "Incorrect. The article indicates pressure does affect the melting temperature of ice.",
+        "Incorrect. The article describes a consistent decrease, not unpredictable fluctuation."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What role does water play in industry and homes according to the article?",
+      "options": [
+        "It is used for cooling and heating",
+        "It is used as a primary source of food energy",
+        "It is used to generate atmospheric pressure",
+        "It is used to create organic micronutrients"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Large quantities of water, ice, and steam are used for cooling and heating in industry and homes.'",
+        "Incorrect. The article explicitly notes water does not provide food energy.",
+        "Incorrect. The article does not mention water being used to generate atmospheric pressure.",
+        "Incorrect. The article states water is not an organic micronutrient and does not say it is used to create them."
+      ]
+    }
+  ]
+}

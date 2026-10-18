@@ -1,0 +1,167 @@
+{
+  "article_id": "0215",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to Jeffrey Kimball's survey, which group of historians had the highest percentage of Conservative respondents?",
+      "options": [
+        "Military historians",
+        "Diplomatic historians",
+        "Socialist historians",
+        "Liberal historians"
+      ],
+      "answer_explanations": [
+        "Correct. Kimball reports that 40% of military historians identified as Conservative, compared to only 10% of diplomatic historians.",
+        "Incorrect. Diplomatic historians had only 10% Conservative respondents, far below the 40% among military historians.",
+        "Incorrect. The article does not report a Conservative percentage for Socialist historians as a separate group; Socialists are an ideological category within diplomatic historians.",
+        "Incorrect. The article does not provide a Conservative percentage for Liberal historians as a separate group; Liberals are an ideological category within diplomatic historians."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the Combat Studies Institute emphasize when certifying military history instructors, according to the article?",
+      "options": [
+        "Themes and context in relation to current and future conflict",
+        "Memorization of dates and battle details",
+        "Mastery of just war theory",
+        "Knowledge of military museum curation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Combat Studies Institute 'deemphasizes rote detail memorization and focuses on themes and context in relation to current and future conflict.'",
+        "Incorrect. The article explicitly says the institute deemphasizes rote detail memorization.",
+        "Incorrect. Just war theory is discussed elsewhere in the article but is not mentioned as the focus of instructor certification.",
+        "Incorrect. Military museums are discussed in a separate section and are not part of the certification emphasis described."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is one of the problems Jeremy Black identifies as an inheritance for 21st-century military historians?",
+      "options": [
+        "A technological bias",
+        "An overemphasis on non-state conflicts",
+        "Excessive focus on political tasking",
+        "A lack of interest in leading military powers"
+      ],
+      "answer_explanations": [
+        "Correct. Jeremy Black lists 'a technological bias' among the problems 21st-century military historians inherit from their predecessors.",
+        "Incorrect. Black criticizes the focus on state-to-state conflict, not an overemphasis on non-state conflicts.",
+        "Incorrect. Black identifies a lack of focus on political 'tasking,' not an excessive focus on it.",
+        "Incorrect. Black criticizes a focus on leading military powers, not a lack of interest in them."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article say about the availability of records for researching Operation Enduring Freedom and Operation Iraqi Freedom?",
+      "options": [
+        "Records were destroyed to protect classified military information",
+        "Records are fully available through the Society for Military History",
+        "Records were never created because the operations were covert",
+        "Records are restricted only to academic historians with security clearance"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that researching these operations presented challenges 'due to the destruction of records to protect classified military information, among other reasons.'",
+        "Incorrect. The article does not say the Society for Military History provides full access to these records.",
+        "Incorrect. The article attributes the problem to destruction of records, not to their never having been created.",
+        "Incorrect. The article does not mention security-clearance restrictions limited to academic historians."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What was the outcome of the Smithsonian Institution's planned 1995 display of the Enola Gay's fuselage?",
+      "options": [
+        "The exhibit was canceled after an angry national controversy",
+        "The exhibit opened as planned with veterans' approval",
+        "The exhibit was moved to the National World War I Museum",
+        "The exhibit was modified to include only positive aspects of warfare"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the uproar 'led to the exhibit's cancellation.'",
+        "Incorrect. The article explicitly says the exhibit was canceled, not that it opened as planned.",
+        "Incorrect. The article does not mention the exhibit being moved to another museum.",
+        "Incorrect. The article does not say the exhibit was modified; it was canceled."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is a key characteristic of the Revolution in Military Affairs (RMA)?",
+      "options": [
+        "Short outbursts of rapid change followed by periods of relative stability",
+        "Continuous, linear technological progress without interruption",
+        "Exclusive focus on nuclear weapons development",
+        "Complete replacement of traditional tactics by information-age tools"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that RMA 'highlights the short outbursts of rapid change followed by periods of relative stability.'",
+        "Incorrect. The article describes change as occurring in short outbursts followed by stability, not as continuous linear progress.",
+        "Incorrect. The article mentions gunpowder as an example and discusses multiple technological ages, not an exclusive focus on nuclear weapons.",
+        "Incorrect. The article does not claim that traditional tactics are completely replaced."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does the article identify as a reason military history is taught at academies and service schools?",
+      "options": [
+        "To train commanders to recognize historical parallels and apply lessons from the past",
+        "To prepare cadets for careers in academic history departments",
+        "To promote just war theory as the primary ethical framework",
+        "To preserve military traditions unchanged across generations"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that military history is taught as an applied field because command aims 'to prevent past errors and enhance performance by training commanders to recognize historical parallels in battle and apply lessons from the past.'",
+        "Incorrect. The article does not mention preparing cadets for academic careers.",
+        "Incorrect. Just war theory is discussed separately and is not identified as the reason for teaching at academies.",
+        "Incorrect. The article emphasizes applying lessons to prevent errors, not preserving traditions unchanged."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does the article say about the political views of military historians surveyed by Jeffrey Kimball?",
+      "options": [
+        "40% identified as Conservative and 0% as Socialist",
+        "A majority identified as Socialist",
+        "None identified as Liberal",
+        "Most had no clear position on the left-right continuum"
+      ],
+      "answer_explanations": [
+        "Correct. Kimball reports that of military historians, 40% are Conservative and 0% are Socialist.",
+        "Incorrect. The article states 0% of military historians are Socialist, so a majority could not be Socialist.",
+        "Incorrect. The article states 35% of military historians are Liberal.",
+        "Incorrect. The article states a clear position on the left-right continuum regarding capitalism was apparent in most cases."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, why are descriptions of battles by leaders potentially unreliable?",
+      "options": [
+        "Leaders tend to minimize failure and exaggerate success",
+        "Leaders rarely keep written records of battles",
+        "Leaders are not trained in historiographical methods",
+        "Leaders intentionally falsify records to protect military secrets"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that descriptions of battles by leaders 'may be unreliable due to an inclination to minimize mention of failure and exaggerate success.'",
+        "Incorrect. The article does not say leaders rarely keep written records.",
+        "Incorrect. The article does not attribute unreliability to a lack of historiographical training.",
+        "Incorrect. While the article mentions records destroyed to protect secrets, it does not say leaders intentionally falsify battle descriptions for that reason."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following best describes the status of military history within university history departments, according to the article?",
+      "options": [
+        "It is an orphan field with serious underdevelopment and professional disdain",
+        "It is the most popular and well-funded field in history departments",
+        "It is exclusively taught by active-duty military officers",
+        "It has fully achieved parity with other historical subfields"
+      ],
+      "answer_explanations": [
+        "Correct. The article states military history 'is an orphan' in the history profession and that 'the study of military history in universities remains seriously underdeveloped,' with 'lack of interest in and disdain for military history.'",
+        "Incorrect. The article describes it as underdeveloped and marginalized, not as the most popular or well-funded.",
+        "Incorrect. The article does not say it is exclusively taught by active-duty officers.",
+        "Incorrect. The article describes marginal status and frustration among military historians, not parity."
+      ]
+    }
+  ]
+}

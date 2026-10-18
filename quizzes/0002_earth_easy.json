@@ -1,0 +1,167 @@
+{
+  "article_id": "0002",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet from the Sun is Earth?",
+      "options": [
+        "Third",
+        "Second",
+        "Fourth",
+        "Fifth"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Earth is the third planet from the Sun.",
+        "Incorrect. The article identifies Earth as the third planet from the Sun, not the second.",
+        "Incorrect. The article identifies Earth as the third planet from the Sun, not the fourth.",
+        "Incorrect. The article identifies Earth as the third planet from the Sun, not the fifth."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What percentage of Earth's crust is covered by ocean?",
+      "options": [
+        "70.8%",
+        "29.2%",
+        "50%",
+        "90%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ocean covers 70.8% of Earth's crust.",
+        "Incorrect. The article states that 29.2% of Earth's crust is dry land, not ocean.",
+        "Incorrect. The article states that the ocean covers 70.8% of Earth's crust, not 50%.",
+        "Incorrect. The article states that the ocean covers 70.8% of Earth's crust, not 90%."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the average surface temperature of Earth?",
+      "options": [
+        "14.76 Â°C (58.57 Â°F)",
+        "15 Â°C (59 Â°F)",
+        "20 Â°C (68 Â°F)",
+        "10 Â°C (50 Â°F)"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the current average surface temperature is 14.76 Â°C (58.57 Â°F).",
+        "Incorrect. The article states that the current average surface temperature is 14.76 Â°C (58.57 Â°F), not 15 Â°C (59 Â°F).",
+        "Incorrect. The article states that the current average surface temperature is 14.76 Â°C (58.57 Â°F), not 20 Â°C (68 Â°F).",
+        "Incorrect. The article states that the current average surface temperature is 14.76 Â°C (58.57 Â°F), not 10 Â°C (50 Â°F)."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How long does Earth take to complete one orbit around the Sun?",
+      "options": [
+        "About 365.25 days",
+        "About 365 days",
+        "About 366 days",
+        "About 24 hours"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Earth takes a year, about 365.25 days, to complete one revolution around the Sun.",
+        "Incorrect. The article states that Earth takes about 365.25 days to complete one revolution, not about 365 days.",
+        "Incorrect. The article states that Earth takes about 365.25 days to complete one revolution, not about 366 days.",
+        "Incorrect. The article states that Earth takes about 365.25 days to complete one revolution, not about 24 hours."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is Earth's only permanent natural satellite?",
+      "options": [
+        "The Moon",
+        "The Sun",
+        "Mars",
+        "Venus"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Earth is orbited by one permanent natural satellite, the Moon.",
+        "Incorrect. The article identifies the Moon as Earth's only permanent natural satellite, not the Sun.",
+        "Incorrect. The article identifies the Moon as Earth's only permanent natural satellite, not Mars.",
+        "Incorrect. The article identifies the Moon as Earth's only permanent natural satellite, not Venus."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How far is Earth from the Sun?",
+      "options": [
+        "About eight light-minutes (1 astronomical unit)",
+        "About four light-minutes",
+        "About twelve light-minutes",
+        "About one light-year"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Earth is about eight light-minutes (1 astronomical unit) away from the Sun.",
+        "Incorrect. The article states that Earth is about eight light-minutes away from the Sun, not about four light-minutes.",
+        "Incorrect. The article states that Earth is about eight light-minutes away from the Sun, not about twelve light-minutes.",
+        "Incorrect. The article states that Earth is about eight light-minutes away from the Sun, not about one light-year."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What are the two primary gases in Earth's atmosphere?",
+      "options": [
+        "Nitrogen and oxygen",
+        "Oxygen and carbon dioxide",
+        "Nitrogen and carbon dioxide",
+        "Hydrogen and helium"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Earth's atmosphere is composed primarily of nitrogen and oxygen.",
+        "Incorrect. The article states that Earth's atmosphere is composed primarily of nitrogen and oxygen, not oxygen and carbon dioxide.",
+        "Incorrect. The article states that Earth's atmosphere is composed primarily of nitrogen and oxygen, not nitrogen and carbon dioxide.",
+        "Incorrect. The article states that Earth's atmosphere is composed primarily of nitrogen and oxygen, not hydrogen and helium."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "When did humans emerge in Africa?",
+      "options": [
+        "300,000 years ago",
+        "2 billion years ago",
+        "4.5 billion years ago",
+        "1 million years ago"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that humans emerged 300,000 years ago in Africa.",
+        "Incorrect. The article states that humans emerged 300,000 years ago in Africa, not 2 billion years ago.",
+        "Incorrect. The article states that humans emerged 300,000 years ago in Africa, not 4.5 billion years ago.",
+        "Incorrect. The article states that humans emerged 300,000 years ago in Africa, not 1 million years ago."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does Earth's liquid outer core generate?",
+      "options": [
+        "A magnetosphere",
+        "Tectonic plates",
+        "Ocean currents",
+        "The atmosphere"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Earth's liquid outer core generates a magnetosphere capable of deflecting most solar winds and cosmic radiation.",
+        "Incorrect. The article states that Earth's liquid outer core generates a magnetosphere, not tectonic plates.",
+        "Incorrect. The article states that Earth's liquid outer core generates a magnetosphere, not ocean currents.",
+        "Incorrect. The article states that Earth's liquid outer core generates a magnetosphere, not the atmosphere."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What effect does the Moon's gravity have on Earth's axis?",
+      "options": [
+        "It helps stabilize Earth's axis",
+        "It tilts Earth's axis",
+        "It removes Earth's axis",
+        "It has no effect on Earth's axis"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Moon's gravity helps stabilize Earth's axis.",
+        "Incorrect. The article states that the Moon's gravity helps stabilize Earth's axis, not that it tilts Earth's axis.",
+        "Incorrect. The article states that the Moon's gravity helps stabilize Earth's axis, not that it removes Earth's axis.",
+        "Incorrect. The article states that the Moon's gravity helps stabilize Earth's axis, so it does have an effect."
+      ]
+    }
+  ]
+}

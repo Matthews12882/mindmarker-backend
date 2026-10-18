@@ -1,0 +1,167 @@
+{
+  "article_id": "0123",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What was Joseph Stalin's birth name?",
+      "options": [
+        "Ioseb Besarionis dze Jughashvili",
+        "Joseph Vissarionovich Stalin",
+        "Iosif Vissarionovich Dzhugashvili",
+        "Koba"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Stalin was born Ioseb Besarionis dze Jughashvili.",
+        "Incorrect. Joseph Vissarionovich Stalin was his later name, not his birth name.",
+        "Incorrect. Iosif Vissarionovich Dzhugashvili was the Russified version of his birth name.",
+        "Incorrect. Koba was a nickname he adopted from a bandit protagonist, not his birth name."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "When did Joseph Stalin die?",
+      "options": [
+        "5 March 1953",
+        "18 December 1878",
+        "1924",
+        "1945"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Stalin ruled until his death in 1953 and gives the specific date of 5 March 1953.",
+        "Incorrect. 18 December 1878 is Stalin's birth date.",
+        "Incorrect. 1924 is the year Lenin died and Stalin assumed leadership.",
+        "Incorrect. 1945 is when the Red Army captured Berlin, ending World War II in Europe."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Where was Stalin born?",
+      "options": [
+        "Gori, Georgia, Russian Empire",
+        "Tiflis, Russian Empire",
+        "Baku",
+        "Vienna"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Stalin was born into a poor Georgian family in Gori, Russian Empire.",
+        "Incorrect. Tiflis is where he attended seminary, not where he was born.",
+        "Incorrect. Baku is where he was located during the 1905 ethnic violence, not his birthplace.",
+        "Incorrect. Vienna is where he traveled in 1913 to research the national question, not his birthplace."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which political party did Stalin join as a youth?",
+      "options": [
+        "Russian Social Democratic Labour Party",
+        "Communist Party of the Soviet Union",
+        "Mensheviks",
+        "Communist International"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Stalin began his revolutionary career by joining the Marxist Russian Social Democratic Labour Party as a youth.",
+        "Incorrect. The Communist Party of the Soviet Union is the later name of the party he led, not the one he joined as a youth.",
+        "Incorrect. The Mensheviks were a faction within the RSDLP that Stalin opposed; he aligned with the Bolsheviks.",
+        "Incorrect. The Communist International was an organization through which Stalin's government promoted Marxism-Leninism abroad, not a party he joined as a youth."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What newspaper did Stalin edit as a youth?",
+      "options": [
+        "Pravda",
+        "Proletariatis Brdzola",
+        "Zvezda",
+        "Das Kapital"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as a youth in the Russian Social Democratic Labour Party, Stalin edited the party's newspaper, Pravda.",
+        "Incorrect. Proletariatis Brdzola was a Marxist newspaper he co-edited after escaping exile in 1904, not as a youth.",
+        "Incorrect. Zvezda was the Bolshevik weekly newspaper he later converted into Pravda, not the one he edited as a youth.",
+        "Incorrect. Das Kapital is Karl Marx's work that Stalin read, not a newspaper he edited."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What title did Stalin hold from 1922 to 1952?",
+      "options": [
+        "General Secretary of the Communist Party of the Soviet Union",
+        "Premier of the Soviet Union",
+        "President of the Soviet Union",
+        "Chairman of the Politburo"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Stalin held the title of General Secretary of the Communist Party of the Soviet Union from 1922 to 1952.",
+        "Incorrect. Stalin was Premier from 1941 to 1953, not from 1922 to 1952.",
+        "Incorrect. The article does not mention Stalin holding the title of President of the Soviet Union.",
+        "Incorrect. The article mentions Stalin joined the Politburo but does not say he held the title of Chairman from 1922 to 1952."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What replaced Lenin's New Economic Policy under Stalin?",
+      "options": [
+        "A centralized command economy",
+        "The Five-Year Plan system",
+        "Collectivisation",
+        "Socialism in One Country"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Lenin's New Economic Policy was replaced with a centralized command economy.",
+        "Incorrect. The Five-Year Plan system was implemented under the command economy but is not described as the direct replacement for the New Economic Policy.",
+        "Incorrect. Collectivisation occurred under the Five-Year Plan system but is not described as the replacement for the New Economic Policy.",
+        "Incorrect. Socialism in One Country became a central tenet of party dogma but is not described as the replacement for the New Economic Policy."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What event ended World War II in Europe according to the article?",
+      "options": [
+        "The Red Army captured Berlin in 1945",
+        "Germany invaded the Soviet Union in 1941",
+        "The Soviet Union signed a non-aggression pact with Nazi Germany",
+        "The Soviet Union annexed the Baltic states"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Red Army captured Berlin in 1945, ending World War II in Europe.",
+        "Incorrect. Germany invading the Soviet Union in 1941 ended the non-aggression pact, not World War II.",
+        "Incorrect. The non-aggression pact was signed in 1939, before World War II ended.",
+        "Incorrect. The annexation of the Baltic states occurred after the war began, not as the event that ended it."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Who succeeded Stalin after his death in 1953?",
+      "options": [
+        "Nikita Khrushchev",
+        "Vladimir Lenin",
+        "Leon Trotsky",
+        "Georgy Malenkov"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Stalin was eventually succeeded by Nikita Khrushchev.",
+        "Incorrect. Vladimir Lenin died in 1924, before Stalin.",
+        "Incorrect. Leon Trotsky is not mentioned in the article as Stalin's successor.",
+        "Incorrect. Georgy Malenkov is not mentioned in the article as Stalin's successor."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What process did Khrushchev initiate after denouncing Stalin?",
+      "options": [
+        "De-Stalinisation",
+        "Collectivisation",
+        "The Great Purge",
+        "The New Economic Policy"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Khrushchev denounced Stalin and initiated a de-Stalinisation process throughout Soviet society.",
+        "Incorrect. Collectivisation was a policy under Stalin, not a process initiated by Khrushchev after denouncing him.",
+        "Incorrect. The Great Purge was instituted by Stalin, not by Khrushchev.",
+        "Incorrect. The New Economic Policy was Lenin's policy that Stalin replaced, not something Khrushchev initiated."
+      ]
+    }
+  ]
+}

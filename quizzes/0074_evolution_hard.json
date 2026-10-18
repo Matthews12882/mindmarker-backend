@@ -1,0 +1,167 @@
+{
+  "article_id": "0074",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what does the two-fold cost of sex refer to in sexually dimorphic species?",
+      "options": [
+        "Only one of the two sexes can bear young, and each parent passes on only 50% of its genes to an offspring",
+        "Sexual reproduction requires twice as many individuals as asexual reproduction",
+        "Sexually reproducing organisms have shorter lifespans than asexual organisms",
+        "Sexual reproduction doubles the mutation rate compared with asexual reproduction"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the two costs are that only one sex can bear young in sexually dimorphic species and that a sexually reproducing individual passes on only 50% of its genes to any individual offspring.",
+        "Incorrect. The article does not state that sexual reproduction requires twice as many individuals as asexual reproduction.",
+        "Incorrect. The article does not mention shorter lifespans as part of the two-fold cost of sex.",
+        "Incorrect. The article does not claim that sexual reproduction doubles the mutation rate."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the article say about the relationship between genotype and phenotype?",
+      "options": [
+        "The phenotype results from both genotype and environmental influence",
+        "The phenotype is determined solely by the genotype",
+        "The genotype is determined by the phenotype",
+        "Genotype and phenotype are always identical"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that an individual organism's phenotype results from both its genotype and the influence of the environment it has lived in.",
+        "Incorrect. The article explicitly says the phenotype is influenced by both genotype and environment, not genotype alone.",
+        "Incorrect. The article does not state that the genotype is determined by the phenotype.",
+        "Incorrect. The article treats genotype and phenotype as distinct concepts, not identical ones."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Based on the article, what is the significance of gene duplication for the evolution of new genes?",
+      "options": [
+        "It provides redundancy so one copy can acquire a new function while the other retains the original function",
+        "It immediately creates entirely new genes from noncoding DNA",
+        "It prevents mutations from occurring in protein-coding genes",
+        "It ensures all offspring inherit identical copies of every gene"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that duplication increases redundancy, allowing one gene copy to acquire a new function while the other continues performing the original function.",
+        "Incorrect. The article describes de novo gene birth as a separate phenomenon from duplication.",
+        "Incorrect. The article does not claim that gene duplication prevents mutations.",
+        "Incorrect. The article does not state that duplication ensures identical inheritance of all genes."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what is a key consequence of recombination and reassortment in sexual reproduction?",
+      "options": [
+        "They change which alleles are associated with each other without altering allele frequencies",
+        "They directly change the frequency of alleles in a population",
+        "They eliminate genetic variation among offspring",
+        "They prevent independent assortment of chromosomes"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that recombination and reassortment do not alter allele frequencies but change which alleles are associated with each other.",
+        "Incorrect. The article explicitly says these processes do not alter allele frequencies.",
+        "Incorrect. The article says sex usually increases genetic variation rather than eliminating it.",
+        "Incorrect. The article describes independent assortment as occurring in sexual reproduction, not being prevented by recombination."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "In the article's discussion of horizontal gene transfer, what medical consequence is highlighted?",
+      "options": [
+        "The spread of antibiotic resistance among bacteria",
+        "The increased mutation rate in human germline cells",
+        "The prevention of gene flow between populations",
+        "The loss of mitochondrial DNA in eukaryotes"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that horizontal gene transfer contributes to the spread of antibiotic resistance when bacteria transfer resistance genes to other species.",
+        "Incorrect. The article does not link horizontal gene transfer to increased mutation rates in human germline cells.",
+        "Incorrect. Horizontal gene transfer is described as a source of gene flow, not something that prevents it.",
+        "Incorrect. The article does not claim that horizontal gene transfer causes loss of mitochondrial DNA."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the definition of evolution in strict biological terms?",
+      "options": [
+        "A change in the frequency of alleles in a population",
+        "A visible change in an organism's external appearance",
+        "A change in behavior that occurs within a single lifetime",
+        "The appearance of new species through speciation"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines evolution as a change in the frequency of alleles in a population.",
+        "Incorrect. The article notes that evolution can occur even when the phenotype is unchanged, so it is not limited to visible appearance.",
+        "Incorrect. The article discusses changes across generations, not within a single lifetime.",
+        "Incorrect. Speciation is mentioned as a process shaping biodiversity, but it is not the definition of evolution itself."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Based on the article, what is one reason sexual reproduction remains common among eukaryotes despite its costs?",
+      "options": [
+        "It may enable continual evolution and adaptation in response to coevolution with other species",
+        "It guarantees that all beneficial mutations are preserved in every generation",
+        "It completely eliminates deleterious mutations from the genome",
+        "It allows organisms to reproduce without any genetic variation"
+      ],
+      "answer_explanations": [
+        "Correct. The article cites the Red Queen hypothesis as explaining sexual reproduction's role in continual evolution and adaptation amid coevolution with other species.",
+        "Incorrect. The article does not state that sexual reproduction guarantees preservation of all beneficial mutations.",
+        "Incorrect. The article does not claim that sexual reproduction completely eliminates deleterious mutations.",
+        "Incorrect. The article states that sex usually increases genetic variation, not that it eliminates variation."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what happens when a new allele reaches fixation in a population?",
+      "options": [
+        "It either disappears from the population or replaces the ancestral allele entirely",
+        "It becomes the only allele present in every individual without exception",
+        "It immediately causes speciation",
+        "It stops all future mutations at that locus"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines fixation as the point when an allele either disappears from the population or replaces the ancestral allele entirely.",
+        "Incorrect. Fixation does not necessarily mean the allele is present in every individual without exception; the article defines it as disappearance or replacement of the ancestral allele.",
+        "Incorrect. The article does not state that fixation immediately causes speciation.",
+        "Incorrect. The article does not claim that fixation stops all future mutations."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is the relationship between DNA methylation and epigenetic inheritance?",
+      "options": [
+        "DNA methylation is one mechanism of epigenetic inheritance",
+        "DNA methylation prevents all epigenetic changes",
+        "Epigenetic inheritance requires changes to the DNA nucleotide sequence",
+        "DNA methylation only occurs in bacteria"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists DNA methylation marking chromatin as an example of an epigenetic inheritance system.",
+        "Incorrect. The article presents DNA methylation as a mechanism of epigenetic inheritance, not something that prevents it.",
+        "Incorrect. The article states that epigenetic changes cannot be explained by changes to the nucleotide sequence.",
+        "Incorrect. The article does not restrict DNA methylation to bacteria."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Based on the article, what is the role of natural selection in modern evolutionary theory?",
+      "options": [
+        "It is one of the processes that change DNA in a population, alongside genetic drift, mutation, and gene flow",
+        "It is the only process capable of changing allele frequencies",
+        "It prevents genetic drift from occurring in populations",
+        "It operates independently of heritability"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the processes changing DNA in a population include natural selection, genetic drift, mutation, and gene flow.",
+        "Incorrect. The article lists multiple processes that change allele frequencies, not natural selection alone.",
+        "Incorrect. The article does not say natural selection prevents genetic drift.",
+        "Incorrect. The article identifies heritability of fitness as one of the observable facts underlying natural selection."
+      ]
+    }
+  ]
+}

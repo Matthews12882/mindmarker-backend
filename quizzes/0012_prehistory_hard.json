@@ -1,0 +1,167 @@
+{
+  "article_id": "0012",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, why is prehistory considered anonymous?",
+      "options": [
+        "Because it relies on material remains and artefacts rather than written records",
+        "Because prehistoric peoples deliberately avoided leaving names behind",
+        "Because all prehistoric records were destroyed by natural disasters",
+        "Because archaeologists refuse to name the cultures they study"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that prehistory is 'Restricted to material processes, remains, and artefacts rather than written records' and is therefore anonymous.",
+        "Incorrect. The article does not say prehistoric peoples deliberately avoided leaving names.",
+        "Incorrect. The article does not mention destruction of records by natural disasters as a cause of anonymity.",
+        "Incorrect. The article does not state that archaeologists refuse to name cultures; rather, it notes that labels like 'Neanderthal' are modern terms."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the article say about the term 'Neanderthal'?",
+      "options": [
+        "It is a modern label whose definition is sometimes subject to debate",
+        "It was used by Neanderthals themselves to describe their own group",
+        "It refers to a written culture that kept its own historical records",
+        "It is a term that prehistorians universally agree upon without dispute"
+      ],
+      "answer_explanations": [
+        "Correct. The article says reference terms such as 'Neanderthal' are 'modern labels with definitions sometimes subject to debate.'",
+        "Incorrect. The article describes 'Neanderthal' as a modern label, not a term used by the people themselves.",
+        "Incorrect. The article states that prehistory lacks written records and named individuals or nations.",
+        "Incorrect. The article explicitly says definitions of such labels are sometimes subject to debate."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Based on the article, what would be the most appropriate approach for a researcher studying a society that has written accounts from neighboring cultures but no writing system of its own?",
+      "options": [
+        "Classify the society as protohistoric and critically evaluate the potentially biased external accounts",
+        "Ignore the society entirely because prehistory requires internal written records",
+        "Treat the neighboring cultures' accounts as fully objective and definitive",
+        "Assume the society had no history at all because it lacked writing"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines protohistory as when 'a culture is written about by others but has not developed its own writing system,' and notes historians debate how much weight to give 'sometimes biased accounts' from Greek and Roman literature.",
+        "Incorrect. The article describes protohistory as a recognized category, not something to ignore.",
+        "Incorrect. The article explicitly characterizes external accounts as 'sometimes biased,' not fully objective.",
+        "Incorrect. The article's conception of prehistory is based on a wide range of evidence, not solely on internal writing."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "If an archaeologist discovers a culture that used stone tools but never developed metalworking or writing before contact with outside Eurasian cultures, how would the article classify its prehistory?",
+      "options": [
+        "The three-age system would not generally apply, and its prehistory could extend into relatively recent periods",
+        "It must be forced into the Stone AgeâBronze AgeâIron Age sequence regardless of local circumstances",
+        "Its prehistory ended automatically when stone tools were first used",
+        "It should be classified as historic because stone tools imply a written record"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the three-age division 'is not generally used in those parts of the world where the working of hard metals arrived abruptly from contact with Eurasian cultures,' such as Oceania and much of Sub-Saharan Africa, and that 'their prehistory reaches into relatively recent periods.'",
+        "Incorrect. The article says the three-age system is not generally used in such regions.",
+        "Incorrect. The article defines prehistory as ending with writing or relevant records, not with the use of stone tools.",
+        "Incorrect. The article associates prehistory with the absence of writing systems, not with stone tools."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, how does the end date of prehistory vary across regions?",
+      "options": [
+        "It depends on when written records become a useful academic resource in each region",
+        "It is fixed at 3100 BCE everywhere in the world",
+        "It always coincides with the arrival of European explorers",
+        "It occurred simultaneously across all continents c. 5,200 years ago"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'its end date also varies' and gives examples: Egypt around 3100 BCE, New Guinea in the 1870s, and Australia in 1788.",
+        "Incorrect. The article shows different end dates for different regions, not a single fixed date.",
+        "Incorrect. While some regions' prehistory ended with European contact, the article cites Egypt (3100 BCE) as a counterexample.",
+        "Incorrect. The article emphasizes that the adoption of writing was gradual and the end of prehistory occurred at different times in different places."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the article identify as the key step to understanding prehistoric evidence?",
+      "options": [
+        "Dating",
+        "Translation of oral traditions",
+        "Comparison with modern written records",
+        "Reconstruction of ancient religions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The key step to understanding prehistoric evidence is dating, and reliable dating techniques have developed steadily since the nineteenth century.'",
+        "Incorrect. The article mentions reconstruction of ancient spoken languages as further evidence, not as the key step.",
+        "Incorrect. Prehistory is defined by the absence of written records, so comparison with modern written records is not identified as the key step.",
+        "Incorrect. The article does not identify reconstruction of ancient religions as the key step."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following dating techniques does the article describe as the most common?",
+      "options": [
+        "Radiocarbon dating",
+        "Stratigraphic dating",
+        "Dendrochronology",
+        "Potassium-argon dating"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The most common of these dating techniques is radiocarbon dating.'",
+        "Incorrect. The article does not identify stratigraphic dating as the most common technique.",
+        "Incorrect. Dendrochronology is not mentioned in the article.",
+        "Incorrect. Potassium-argon dating is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what percentage of human history does the Stone Age encompass?",
+      "options": [
+        "99%",
+        "50%",
+        "75%",
+        "90%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Because of its enormous timescale, the Stone Age encompasses 99% of human history.'",
+        "Incorrect. The article specifies 99%, not 50%.",
+        "Incorrect. The article specifies 99%, not 75%.",
+        "Incorrect. The article specifies 99%, not 90%."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the article say about evidence for control of fire during the Lower Palaeolithic?",
+      "options": [
+        "It is uncertain and has at best limited scholarly support",
+        "It is definitively proven at all Lower Palaeolithic sites",
+        "It was first achieved by Homo sapiens 300,000 years ago",
+        "It is documented only through written records"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Evidence of control of fire by early hominins during the Lower Palaeolithic Era is uncertain and has at best limited scholarly support.'",
+        "Incorrect. The article explicitly describes the evidence as uncertain, not definitive.",
+        "Incorrect. The article associates early Homo sapiens with the Middle Palaeolithic, not the first fire use in the Lower Palaeolithic.",
+        "Incorrect. The article notes prehistory lacks written records, so fire evidence cannot be documented through writing."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Based on the article, which disciplines contribute data about prehistory?",
+      "options": [
+        "A wide variety of natural and social sciences, including anthropology, archaeology, biology, geology, and genetics",
+        "Only historians who work with written documents",
+        "Only archaeologists working in isolation",
+        "Only physical anthropologists studying human remains"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'data about prehistory is provided by a wide variety of natural and social sciences' and lists anthropology, archaeology, biology, geology, molecular genetics, and others.",
+        "Incorrect. Prehistory is defined by the absence of written records, so historians working only with documents cannot be the sole contributors.",
+        "Incorrect. The article emphasizes interdisciplinary research, not archaeologists working in isolation.",
+        "Incorrect. While physical anthropologists are mentioned, the article describes many other disciplines as well."
+      ]
+    }
+  ]
+}

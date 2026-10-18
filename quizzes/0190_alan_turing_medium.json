@@ -1,0 +1,167 @@
+{
+  "article_id": "0190",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which concept did Alan Turing formalize with the Turing machine?",
+      "options": [
+        "Algorithm and computation",
+        "Artificial intelligence",
+        "Chemical oscillators",
+        "Cryptanalysis"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Turing formalized the concepts of algorithm and computation with the Turing machine.",
+        "Incorrect. Artificial intelligence is associated with the Turing test, not the Turing machine.",
+        "Incorrect. Chemical oscillators relate to Turing's work in mathematical biology, not the Turing machine.",
+        "Incorrect. Cryptanalysis was a field Turing contributed to, but it is not what he formalized with the Turing machine."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Where did Turing work during World War II?",
+      "options": [
+        "Government Code and Cypher School at Bletchley Park",
+        "National Physical Laboratory",
+        "University of Manchester",
+        "Princeton University"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that during World War II, Turing worked at the Government Code and Cypher School at Bletchley Park.",
+        "Incorrect. Turing joined the National Physical Laboratory after the war, not during it.",
+        "Incorrect. Turing joined the University of Manchester in 1948, after the war.",
+        "Incorrect. Turing earned his doctorate from Princeton in 1938, before the war."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What did Turing design at the National Physical Laboratory?",
+      "options": [
+        "Automatic Computing Engine",
+        "Manchester computers",
+        "Enigma machine",
+        "Bomba method"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that at the National Physical Laboratory, Turing designed the Automatic Computing Engine.",
+        "Incorrect. Manchester computers were developed at the University of Manchester, not the National Physical Laboratory.",
+        "Incorrect. The Enigma machine was a German encryption device, not something Turing designed.",
+        "Incorrect. The bomba was a pre-war Polish method that Turing's techniques improved upon."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What happened to Turing in 1952 after he acknowledged a sexual relationship with another man?",
+      "options": [
+        "He was prosecuted for gross indecency",
+        "He received a royal pardon",
+        "He was elected a Fellow of King's College",
+        "He joined the University of Manchester"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in 1952, after acknowledging a sexual relationship with another man, Turing was prosecuted for gross indecency.",
+        "Incorrect. The royal pardon was granted by Queen Elizabeth II in 2013, long after 1952.",
+        "Incorrect. Turing was elected a Fellow of King's College much earlier, around 1935.",
+        "Incorrect. Turing joined the University of Manchester in 1948, not 1952."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which law refers to part of a 2017 UK law that retroactively pardoned men cautioned or convicted under the criminalisation of homosexual acts?",
+      "options": [
+        "Alan Turing law",
+        "Official Secrets Act",
+        "Royal prerogative of mercy",
+        "Chemical castration"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Alan Turing law refers to part of a 2017 UK law that retroactively pardoned men cautioned or convicted under the criminalisation of homosexual acts.",
+        "Incorrect. The Official Secrets Act covered Turing's wartime work, not the 2017 pardons.",
+        "Incorrect. The royal prerogative of mercy was used for Turing's individual pardon in 2013.",
+        "Incorrect. Chemical castration was the treatment Turing was subjected to, not a law."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did Turing's headmaster at Sherborne warn his parents about?",
+      "options": [
+        "That Alan might fall between two stools if he remained solely a scientific specialist",
+        "That Alan was not working hard enough in classics",
+        "That Alan should leave school immediately",
+        "That Alan was wasting his time on mathematics"
+      ],
+      "answer_explanations": [
+        "Correct. The headmaster wrote: 'I hope he will not fall between two stools. If he is to stay at public school, he must aim at becoming educated. If he is to be solely a Scientific Specialist, he is wasting his time at a public school.'",
+        "Incorrect. The headmaster did not specifically warn about classwork in classics.",
+        "Incorrect. The headmaster did not advise Alan to leave school.",
+        "Incorrect. The headmaster said being solely a scientific specialist would waste his time at public school, not that mathematics itself was a waste."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How did Turing travel to Sherborne School on the first day of term in 1926?",
+      "options": [
+        "He rode his bicycle unaccompanied 60 miles from Southampton",
+        "He took a train",
+        "His parents drove him",
+        "He walked from London"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Turing rode his bicycle unaccompanied 60 miles from Southampton to Sherborne.",
+        "Incorrect. The article specifies he rode his bicycle, not took a train.",
+        "Incorrect. The article states he traveled unaccompanied, not with his parents.",
+        "Incorrect. The article says he traveled from Southampton, not London, and by bicycle, not on foot."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did Turing credit with opening his eyes to science?",
+      "options": [
+        "Natural Wonders Every Child Should Know by Edwin Tenney Brewster",
+        "Einstein's work on Newton's laws",
+        "GÃ¶del's incompleteness theorems",
+        "The central limit theorem"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Turing discovered Natural Wonders Every Child Should Know by Edwin Tenney Brewster in 1922 and credited it with opening his eyes to science.",
+        "Incorrect. Turing encountered Einstein's work in 1928, but the article credits Brewster's book with opening his eyes to science.",
+        "Incorrect. GÃ¶del's incompleteness theorems were part of Turing's later work on decidability, not his introduction to science.",
+        "Incorrect. The central limit theorem was the subject of Turing's dissertation, not what opened his eyes to science."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What did Turing theorize independently of experimental observation?",
+      "options": [
+        "Chemical oscillators",
+        "Turing machine",
+        "Enigma decryption",
+        "Automatic Computing Engine"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Turing theorized chemical oscillators independently of their experimental observation.",
+        "Incorrect. The Turing machine was a model of computation, not something theorized independently of experimental observation in biology.",
+        "Incorrect. Enigma decryption was wartime cryptanalysis work.",
+        "Incorrect. The Automatic Computing Engine was a computer design at the National Physical Laboratory."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Who officially apologized for the appalling way Turing was treated?",
+      "options": [
+        "British prime minister Gordon Brown",
+        "Queen Elizabeth II",
+        "Max Newman",
+        "Christopher Morcom's mother"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that following a 2009 campaign, British prime minister Gordon Brown officially apologized for the appalling way Turing was treated.",
+        "Incorrect. Queen Elizabeth II granted Turing a pardon in 2013, but did not issue the apology.",
+        "Incorrect. Max Newman was associated with the Computing Machine Laboratory at Manchester.",
+        "Incorrect. Christopher Morcom's mother corresponded with Turing but did not apologize on behalf of the British government."
+      ]
+    }
+  ]
+}

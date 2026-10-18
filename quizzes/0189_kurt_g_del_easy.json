@@ -1,0 +1,167 @@
+{
+  "article_id": "0189",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "On what date was Kurt GÃ¶del born?",
+      "options": [
+        "April 28, 1906",
+        "January 14, 1978",
+        "April 28, 1905",
+        "May 1, 1906"
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del was born on April 28, 1906.",
+        "Incorrect. January 14, 1978 is GÃ¶del's date of death, not birth.",
+        "Incorrect. The article gives the birth year as 1906, not 1905.",
+        "Incorrect. The article specifies April 28, not May 1."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "In what year were GÃ¶del's incompleteness theorems published?",
+      "options": [
+        "1931",
+        "1929",
+        "1930",
+        "1932"
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del's incompleteness theorems were published in 1931.",
+        "Incorrect. 1929 is when GÃ¶del proved his completeness theorem.",
+        "Incorrect. The article does not state 1930 as the publication year of the incompleteness theorems.",
+        "Incorrect. The article specifies 1931, not 1932."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What technique did GÃ¶del develop to code formal expressions as natural numbers?",
+      "options": [
+        "GÃ¶del numbering",
+        "constructible universe",
+        "recursive functions",
+        "omega-consistency"
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del developed GÃ¶del numbering to code formal expressions as natural numbers.",
+        "Incorrect. The constructible universe is a model of set theory GÃ¶del introduced later.",
+        "Incorrect. Recursive functions are a concept GÃ¶del worked on, not the coding technique.",
+        "Incorrect. Omega-consistency is a technical condition for formal systems, not a coding technique."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Where did GÃ¶del earn his doctorate?",
+      "options": [
+        "University of Vienna",
+        "Brno",
+        "Princeton",
+        "Bologna"
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del earned his doctorate at the University of Vienna.",
+        "Incorrect. Brno is GÃ¶del's birthplace, not where he earned his doctorate.",
+        "Incorrect. Princeton is where the Institute for Advanced Study is located, not where GÃ¶del earned his doctorate.",
+        "Incorrect. Bologna is where GÃ¶del attended a lecture by David Hilbert, not where he earned his doctorate."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "In what year did GÃ¶del emigrate to the United States?",
+      "options": [
+        "1939",
+        "1938",
+        "1933",
+        "1948"
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del emigrated to the United States in 1939.",
+        "Incorrect. 1938 is when GÃ¶del married Adele and when Germany annexed Austria.",
+        "Incorrect. 1933 is when GÃ¶del first traveled to the U.S., not when he emigrated.",
+        "Incorrect. 1948 is when GÃ¶del became a U.S. citizen, not when he emigrated."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What was Kurt GÃ¶del's childhood nickname?",
+      "options": [
+        "Herr Warum",
+        "Mr. Why",
+        "Mr. Logic",
+        "Herr Logik"
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del was nicknamed Herr Warum (\"Mr. Why\") in his family.",
+        "Incorrect. \"Mr. Why\" is the English translation of the nickname, not the nickname itself as given in the article.",
+        "Incorrect. The article does not mention this nickname.",
+        "Incorrect. The article does not mention this nickname."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What did GÃ¶del show about the axiom of choice and the continuum hypothesis?",
+      "options": [
+        "Neither can be disproved from ZermeloâFraenkel set theory, assuming its axioms are consistent.",
+        "Both can be disproved from ZermeloâFraenkel set theory.",
+        "Only the axiom of choice can be disproved from ZermeloâFraenkel set theory.",
+        "Only the continuum hypothesis can be disproved from ZermeloâFraenkel set theory."
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del showed neither the axiom of choice nor the continuum hypothesis can be disproved from ZermeloâFraenkel set theory, assuming its axioms are consistent.",
+        "Incorrect. The article states the opposite: neither can be disproved.",
+        "Incorrect. The article states neither can be disproved, not that only one can.",
+        "Incorrect. The article states neither can be disproved, not that only one can."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How did Kurt GÃ¶del die?",
+      "options": [
+        "He starved to death after refusing to eat because he believed his food was being poisoned.",
+        "He died of rheumatic fever.",
+        "He died in a sanitarium for nervous diseases.",
+        "He died of a heart attack."
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del refused to eat, believing his food was being poisoned, and starved to death.",
+        "Incorrect. GÃ¶del suffered from rheumatic fever as a child but recovered; it did not cause his death.",
+        "Incorrect. GÃ¶del spent time in a sanitarium, but the article states he died by starvation.",
+        "Incorrect. The article does not state GÃ¶del died of a heart attack."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Who supervised GÃ¶del's doctoral dissertation?",
+      "options": [
+        "Hans Hahn",
+        "Moritz Schlick",
+        "David Hilbert",
+        "Bertrand Russell"
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del completed his doctoral dissertation under Hans Hahn's supervision.",
+        "Incorrect. Moritz Schlick ran a seminar that interested GÃ¶del in logic, but did not supervise his dissertation.",
+        "Incorrect. David Hilbert gave a lecture that may have influenced GÃ¶del, but did not supervise his dissertation.",
+        "Incorrect. Bertrand Russell's book was studied in a seminar, but Russell did not supervise GÃ¶del's dissertation."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "In what city was GÃ¶del born?",
+      "options": [
+        "BrÃ¼nn",
+        "Vienna",
+        "Princeton",
+        "Bologna"
+      ],
+      "answer_explanations": [
+        "Correct. The article states GÃ¶del was born in BrÃ¼nn, Austria-Hungary (now Brno, Czech Republic).",
+        "Incorrect. Vienna is where GÃ¶del studied at university, not where he was born.",
+        "Incorrect. Princeton is where the Institute for Advanced Study is located, not where GÃ¶del was born.",
+        "Incorrect. Bologna is where GÃ¶del attended a lecture by David Hilbert, not where he was born."
+      ]
+    }
+  ]
+}

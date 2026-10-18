@@ -1,0 +1,167 @@
+{
+  "article_id": "0090",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes how matter is defined in physical science according to the article?",
+      "options": [
+        "Anything that has mass and occupies space by having volume",
+        "Anything that is visible to the naked eye",
+        "Anything that is composed of energy waves",
+        "Anything that can be measured in kilograms"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that matter is anything that has mass and occupies space by having volume.",
+        "Incorrect. Visibility is not part of the article's definition of matter.",
+        "Incorrect. The article explicitly excludes energy phenomena such as light and heat from matter.",
+        "Incorrect. Being measurable in kilograms is not the definition given in the article."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, which of the following is NOT included in matter?",
+      "options": [
+        "Photons",
+        "Atoms",
+        "Composite particles that act as if they have rest mass and volume",
+        "Particles that act as if they have rest mass and volume"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that matter does not include massless particles such as photons.",
+        "Incorrect. Atoms are included in matter according to the article.",
+        "Incorrect. Composite particles that act as if they have rest mass and volume are included in matter.",
+        "Incorrect. Particles that act as if they have rest mass and volume are included in matter."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is listed in the article as a state of matter beyond solid, liquid, and gas?",
+      "options": [
+        "Plasma",
+        "Crystal",
+        "Vapor",
+        "Aerosol"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists plasma as one of the other possible states of matter.",
+        "Incorrect. Crystal is not listed as a state of matter in the article.",
+        "Incorrect. Vapor is not listed as a distinct state of matter in the article.",
+        "Incorrect. Aerosol is not listed as a state of matter in the article."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, why does matter appear to take up space under everyday conditions?",
+      "options": [
+        "Because fermions are forced to keep a distance from other particles due to the exclusion principle and fundamental interactions",
+        "Because atoms have well-defined sizes and positions",
+        "Because subatomic particles behave like everyday objects",
+        "Because electrons orbit the nucleus in fixed paths"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that fermions are effectively forced to keep a distance from other particles, creating the property of matter taking up space.",
+        "Incorrect. The article says subatomic particles do not have well-defined sizes or positions.",
+        "Incorrect. The article states that subatomic particles do not act like everyday objects appear to act.",
+        "Incorrect. The article describes electrons as a surrounding cloud and notes quantum behavior, not fixed orbital paths."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which ancient philosophers are mentioned in the article as early proposers of the particulate theory of matter?",
+      "options": [
+        "Kaá¹Äda, Leucippus, and Democritus",
+        "Aristotle, Plato, and Socrates",
+        "Confucius and Laozi",
+        "Newton and Einstein"
+      ],
+      "answer_explanations": [
+        "Correct. The article names Kaá¹Äda, Leucippus, and Democritus as early philosophers who proposed the particulate theory of matter.",
+        "Incorrect. Aristotle, Plato, and Socrates are not mentioned in this context in the article.",
+        "Incorrect. Confucius and Laozi are not mentioned in the article.",
+        "Incorrect. Newton and Einstein are not mentioned as early proposers of the particulate theory."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How does the article distinguish mass from matter?",
+      "options": [
+        "Mass is a well-defined extensive property of matter, while matter is a general term describing any physical substance",
+        "Mass and matter are identical concepts with no distinction",
+        "Matter is a property of mass, not the other way around",
+        "Mass is a substance, while matter is a property of substances"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that mass is not a substance but a well-defined extensive property of matter, while matter is a general term describing any physical substance.",
+        "Incorrect. The article explicitly distinguishes mass from matter.",
+        "Incorrect. The article states the opposite: mass is a property of matter.",
+        "Incorrect. The article states that mass is not a substance."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what is a chemical substance?",
+      "options": [
+        "A unique form of matter with constant chemical composition and characteristic properties",
+        "Any mixture of two or more substances",
+        "A substance that can only exist in the solid state",
+        "A form of energy rather than matter"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a chemical substance as a unique form of matter with constant chemical composition and characteristic properties.",
+        "Incorrect. A mixture is formed when substances are combined without reacting, but it is not itself a chemical substance as defined in the article.",
+        "Incorrect. The article states chemical substances can exist in solids, liquids, gases, or plasma.",
+        "Incorrect. The article describes chemical substances as forms of matter, not energy."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the quarkâlepton definition in the article, what does ordinary matter consist of?",
+      "options": [
+        "Quarks and leptons",
+        "Photons and gluons",
+        "W and Z bosons",
+        "Antiquarks and antileptons only"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that ordinary matter is composed of quarks and leptons.",
+        "Incorrect. Photons and gluons are force carriers, not the constituents of ordinary matter per the quarkâlepton definition.",
+        "Incorrect. W and Z bosons are force carriers and are not made of quarks or leptons.",
+        "Incorrect. Antiquarks and antileptons are associated with antimatter, not ordinary matter."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what contributes most of the mass of everyday objects?",
+      "options": [
+        "The binding energy of quarks within protons and neutrons",
+        "The sum of the masses of the three quarks in a nucleon",
+        "The mass of electrons alone",
+        "The volume occupied by atoms"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that most of the mass of everyday objects comes from the interaction energy of its elementary components, specifically the binding energy of quarks within protons and neutrons.",
+        "Incorrect. The article says the sum of the three quarks in a nucleon is only about 12.5 MeV/cÂ², far less than the nucleon's mass.",
+        "Incorrect. The article does not identify electron mass as the primary contributor to everyday mass.",
+        "Incorrect. Volume is not identified as the source of most mass in everyday objects."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following particles are included in the first generation of matter particles according to the Standard Model as described in the article?",
+      "options": [
+        "Up quark, down quark, electron, and electron neutrino",
+        "Charm quark, strange quark, muon, and muon neutrino",
+        "Top quark, bottom quark, tau, and tau neutrino",
+        "Photon, gluon, W boson, and Z boson"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the first generation as the up and down quarks, the electron, and the electron neutrino.",
+        "Incorrect. These are the second-generation particles according to the article.",
+        "Incorrect. These are the third-generation particles according to the article.",
+        "Incorrect. These are force carriers (bosons), not matter particles in the first generation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0087",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which scenario best applies the article's description of how advances in physics enable new technologies?",
+      "options": [
+        "A researcher's deeper understanding of electromagnetism leads directly to the invention of a new consumer electronic device.",
+        "A government funds a large physics laboratory without specifying any practical outcome.",
+        "A philosopher writes a treatise on the nature of matter without conducting experiments.",
+        "A mathematician develops a new branch of pure mathematics unrelated to physical phenomena."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that advances in understanding electromagnetism led directly to technologies such as television and computers, so applying that understanding to a new device fits the pattern.",
+        "Incorrect. The article ties advances in physics to direct technological development, not to unspecified funding.",
+        "Incorrect. The article describes physics as relying on observation and experiment, not purely philosophical treatises.",
+        "Incorrect. The article connects physics advances to technology, not to mathematics developed independently of physical phenomena."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which scenario best applies the article's account of the Scientific Revolution's approach to physics?",
+      "options": [
+        "Scientists use controlled experiments and quantitative measurements to establish laws governing planetary motion.",
+        "Scholars rely on ancient authorities and logical deduction without testing claims experimentally.",
+        "Researchers accept religious doctrine as the final explanation for natural events.",
+        "Thinkers propose that every event has a natural cause but verify ideas only through reason."
+      ],
+      "answer_explanations": [
+        "Correct. The article says early modern Europeans used experimental and quantitative methods during the Scientific Revolution to discover laws of physics, including Kepler's laws of planetary motion.",
+        "Incorrect. The article contrasts the Scientific Revolution with earlier approaches that did not rely on experimental verification.",
+        "Incorrect. The article describes a shift away from non-naturalistic explanations toward experimental science.",
+        "Incorrect. Verifying ideas only through reason describes pre-Socratic natural philosophy, not the experimental quantitative method of the Scientific Revolution."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Based on the article, which scenario best illustrates the transition from classical physics to modern physics?",
+      "options": [
+        "Classical electromagnetism predicts light intensity from hot objects correctly, so no new theory is needed.",
+        "Experimental results contradict classical predictions, leading Planck to propose discrete energy steps and Einstein to revide mechanics for fast-moving bodies.",
+        "Physicists continue using Aristotelian physics because it remained influential for two millennia.",
+        "A new medium called the luminiferous aether is detected, confirming classical electromagnetism."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that failures of classical predictions, such as blackbody radiation and the speed of light discrepancy, led to Planck's quantum theory and Einstein's relativity.",
+        "Incorrect. The article says the intensity of light from hot objects did not match classical predictions, creating a problem for classical physics.",
+        "Incorrect. The article states Aristotelian physics is entirely superseded today and was replaced during the Scientific Revolution.",
+        "Incorrect. The article says the luminiferous aether could not be detected, which was a failure of classical electromagnetism."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which scenario best applies the article's distinction between natural philosophy and modern physics?",
+      "options": [
+        "A researcher forms hypotheses and verifies them through controlled experiments and observation.",
+        "A thinker proposes that every event has a natural cause but relies solely on reason without experimental verification.",
+        "A scholar accepts the authority of ancient texts as the final word on motion and gravity.",
+        "A priest explains natural events as the actions of gods."
+      ],
+      "answer_explanations": [
+        "Correct. The article describes modern physics as using experimental and quantitative methods, unlike earlier natural philosophy that sometimes lacked experimental verification.",
+        "Incorrect. The article attributes reason-and-observation verification without experiment to pre-Socratic natural philosophy, not modern physics.",
+        "Incorrect. The article says Aristotle's approach did not rely on experimental verification, which is not the modern physics method.",
+        "Incorrect. The article describes early civilizations worshipping stars and planets as gods, which is not the natural philosophy or physics approach discussed."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Based on the article, which scenario best applies Ibn al-Haytham's contribution to optics?",
+      "options": [
+        "A scientist uses controlled experiments to verify laws of reflection and refraction while proposing light rays enter the eye.",
+        "A scholar argues that vision occurs because visual rays emanate from the eye to objects.",
+        "A philosopher claims that light is one of the four elements with a natural place in the atmosphere.",
+        "An astronomer records the positions of stars to predict celestial events."
+      ],
+      "answer_explanations": [
+        "Correct. The article states Ibn al-Haytham presented light rays as an alternative to visual rays and applied controlled experiments verifying reflection and refraction.",
+        "Incorrect. The article says Ibn al-Haytham's light-ray idea was an alternative to the ancient Greek idea of visual rays.",
+        "Incorrect. The four-elements theory is attributed to Aristotle, not Ibn al-Haytham.",
+        "Incorrect. Recording star positions describes ancient astronomy, not Ibn al-Haytham's optics work."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which scenario best applies Aristotle's theory of motion as described in the article?",
+      "options": [
+        "A heavier object falls faster than a lighter object through the same medium.",
+        "Objects fall at the same rate regardless of weight when air resistance is negligible.",
+        "An object continues moving indefinitely unless acted upon by an external force.",
+        "The speed of light is constant for all observers regardless of motion."
+      ],
+      "answer_explanations": [
+        "Correct. The article states Aristotle's laws of motion included that heavier objects fall faster, with speed proportional to weight.",
+        "Incorrect. The article attributes this view to later physics, not Aristotle's theory described in the text.",
+        "Incorrect. The article does not attribute inertia to Aristotle; his violent motion depends on applied force.",
+        "Incorrect. Constant light speed is part of Einstein's special relativity, not Aristotle's physics."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Based on the article, which scenario best applies the concept of a 'prime mover'?",
+      "options": [
+        "A philosopher identifies an ultimate source responsible for all motion in the world.",
+        "A physicist calculates the gravitational force between two masses.",
+        "An engineer designs a machine that converts heat into mechanical work.",
+        "A biologist studies how living organisms convert food into energy."
+      ],
+      "answer_explanations": [
+        "Correct. The article states Aristotle's study of motion led to the notion of a 'prime mover' as the ultimate source of all motion.",
+        "Incorrect. Calculating gravitational force is Newtonian physics, not the prime mover concept.",
+        "Incorrect. Heat-to-work conversion relates to thermodynamics, not the prime mover.",
+        "Incorrect. Biological energy conversion is unrelated to Aristotle's prime mover as described in the article."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which scenario best applies the article's account of how physics intersects with other disciplines?",
+      "options": [
+        "New ideas in physics explain mechanisms studied by biology and suggest new research in mathematics.",
+        "A physicist works exclusively on problems with no connection to other sciences.",
+        "A historian studies ancient warfare without reference to scientific ideas.",
+        "A chemist develops a new reaction using only empirical recipes from the Middle Ages."
+      ],
+      "answer_explanations": [
+        "Correct. The article states new ideas in physics explain fundamental mechanisms studied by other sciences and suggest new research avenues in disciplines such as mathematics.",
+        "Incorrect. The article emphasizes physics intersects with many interdisciplinary areas, not isolation.",
+        "Incorrect. Ancient warfare without scientific reference does not illustrate physics intersecting with other disciplines.",
+        "Incorrect. Empirical medieval recipes are not presented in the article as an example of physics intersecting with chemistry."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Based on the article, which scenario best applies the development of the Standard Model of particle physics?",
+      "options": [
+        "Researchers build on early quantum mechanics work to derive a theory predicting fundamental particles and energy levels.",
+        "Scientists use Aristotelian four-element theory to classify all known particles.",
+        "Researchers discover the luminiferous aether and use it to explain particle interactions.",
+        "Physicists rely solely on philosophical reasoning without experimental testing to predict particles."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Standard Model was derived from early quantum mechanics work and related fields, predicting discrete energy levels and fundamental particles.",
+        "Incorrect. The four-element theory is Aristotle's, not the basis for the Standard Model.",
+        "Incorrect. The article says the luminiferous aether could not be detected and was not part of modern particle physics.",
+        "Incorrect. The article emphasizes experimental testing in physics, not reasoning alone."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which scenario best applies the article's description of the relationship between mechanics and calculus?",
+      "options": [
+        "Advances in mechanics inspire the development of calculus to solve physical problems.",
+        "Calculus is invented first and later found to have applications in mechanics.",
+        "Mechanics and calculus develop independently with no influence on each other.",
+        "Aristotle uses calculus to formulate his laws of motion."
+      ],
+      "answer_explanations": [
+        "Correct. The article states advances in mechanics inspired the development of calculus, and Newton applied it to solve physical problems.",
+        "Incorrect. The article says mechanics inspired calculus, not the reverse.",
+        "Incorrect. The article presents a direct influence of mechanics on calculus.",
+        "Incorrect. Aristotle predates calculus and did not use it; the article associates calculus with Newton and Leibniz."
+      ]
+    }
+  ]
+}

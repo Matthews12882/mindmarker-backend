@@ -1,0 +1,167 @@
+{
+  "article_id": "0098",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is geometry concerned with?",
+      "options": [
+        "properties of space such as distance, shape, size, and relative position of figures",
+        "the study of numbers and equations",
+        "the history of mathematical notation",
+        "the analysis of literary texts"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that geometry is concerned with properties of space such as distance, shape, size, and relative position of figures.",
+        "Incorrect. The article does not define geometry as the study of numbers and equations.",
+        "Incorrect. The article does not mention the history of mathematical notation as the concern of geometry.",
+        "Incorrect. The article does not connect geometry to the analysis of literary texts."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is a mathematician who works in geometry called?",
+      "options": [
+        "a geometer",
+        "an arithmetician",
+        "a physicist",
+        "a statistician"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a mathematician who works in the field of geometry is called a geometer.",
+        "Incorrect. The article does not call a geometer an arithmetician.",
+        "Incorrect. The article does not call a geometer a physicist.",
+        "Incorrect. The article does not call a geometer a statistician."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Until which century was geometry almost exclusively devoted to Euclidean geometry?",
+      "options": [
+        "the 19th century",
+        "the 17th century",
+        "the 15th century",
+        "the 12th century"
+      ],
+      "answer_explanations": [
+        "Correct. The article says that until the 19th century, geometry was almost exclusively devoted to Euclidean geometry.",
+        "Incorrect. The article specifies the 19th century, not the 17th century.",
+        "Incorrect. The article specifies the 19th century, not the 15th century.",
+        "Incorrect. The article specifies the 19th century, not the 12th century."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which ancient civilizations are cited as the earliest recorded beginnings of geometry?",
+      "options": [
+        "Mesopotamia and Egypt",
+        "Greece and Rome",
+        "India and China",
+        "Persia and Arabia"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the earliest recorded beginnings of geometry can be traced to ancient Mesopotamia and Egypt.",
+        "Incorrect. The article does not cite Greece and Rome as the earliest recorded beginnings.",
+        "Incorrect. The article does not cite India and China as the earliest recorded beginnings.",
+        "Incorrect. The article does not cite Persia and Arabia as the earliest recorded beginnings."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Who revolutionized geometry around 300 BC with the Elements?",
+      "options": [
+        "Euclid",
+        "Archimedes",
+        "Pythagoras",
+        "Thales"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that around 300 BC, geometry was revolutionized by Euclid, whose Elements introduced mathematical rigor through the axiomatic method.",
+        "Incorrect. The article mentions Archimedes separately and does not credit him with the Elements.",
+        "Incorrect. The article mentions Pythagoras separately and does not credit him with the Elements.",
+        "Incorrect. The article mentions Thales separately and does not credit him with the Elements."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did Gauss's Theorema Egregium assert about Gaussian curvature?",
+      "options": [
+        "that it is independent from any specific embedding in a Euclidean space",
+        "that it depends on the embedding in a Euclidean space",
+        "that it applies only to flat surfaces",
+        "that it cannot be measured intrinsically"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Theorema Egregium asserts roughly that the Gaussian curvature of a surface is independent from any specific embedding in a Euclidean space.",
+        "Incorrect. The article says the opposite: curvature is independent of the embedding.",
+        "Incorrect. The article does not limit Gaussian curvature to flat surfaces.",
+        "Incorrect. The article says surfaces can be studied intrinsically, which contradicts this option."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which field of geometry underlies general relativity?",
+      "options": [
+        "non-Euclidean geometry",
+        "affine geometry",
+        "finite geometry",
+        "projective geometry"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the geometry that underlies general relativity is a famous application of non-Euclidean geometry.",
+        "Incorrect. The article does not link affine geometry to general relativity.",
+        "Incorrect. The article does not link finite geometry to general relativity.",
+        "Incorrect. The article does not link projective geometry to general relativity."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Who created analytic geometry in the early 17th century?",
+      "options": [
+        "RenÃ© Descartes and Pierre de Fermat",
+        "Euclid and Archimedes",
+        "Gauss and Riemann",
+        "Lobachevsky and Bolyai"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that analytic geometry was created by RenÃ© Descartes and Pierre de Fermat in the early 17th century.",
+        "Incorrect. The article credits Descartes and Fermat, not Euclid and Archimedes.",
+        "Incorrect. The article credits Descartes and Fermat, not Gauss and Riemann.",
+        "Incorrect. The article credits Descartes and Fermat, not Lobachevsky and Bolyai."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does projective geometry consider?",
+      "options": [
+        "only alignment of points but not distance and parallelism",
+        "only distance and parallelism",
+        "only angles and curves",
+        "only volumes and surfaces"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that projective geometry considers only alignment of points but not distance and parallelism.",
+        "Incorrect. The article says projective geometry does not consider distance and parallelism.",
+        "Incorrect. The article does not say projective geometry considers only angles and curves.",
+        "Incorrect. The article does not say projective geometry considers only volumes and surfaces."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What did the enlargement of geometry's scope lead to?",
+      "options": [
+        "a change of meaning of the word space",
+        "a decline in the use of axioms",
+        "a return to Euclidean geometry only",
+        "the abandonment of mathematical rigor"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that this enlargement of the scope of geometry led to a change of meaning of the word space.",
+        "Incorrect. The article does not say the enlargement led to a decline in the use of axioms.",
+        "Incorrect. The article does not say the enlargement led to a return to Euclidean geometry only.",
+        "Incorrect. The article does not say the enlargement led to the abandonment of mathematical rigor."
+      ]
+    }
+  ]
+}

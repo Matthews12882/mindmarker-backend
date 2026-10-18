@@ -1,0 +1,167 @@
+{
+  "article_id": "0041",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the primary difference between formal logic and informal logic regarding the language they examine?",
+      "options": [
+        "Formal logic uses formal language while informal logic examines arguments expressed in natural language.",
+        "Formal logic examines natural language while informal logic uses formal language.",
+        "Both formal and informal logic exclusively use formal language.",
+        "Both formal and informal logic exclusively examine natural language."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'Informal logic examines arguments expressed in natural language whereas formal logic uses formal language.'",
+        "Incorrect. The article states the opposite: formal logic uses formal language, not natural language.",
+        "Incorrect. The article distinguishes between the two, noting they use different types of language.",
+        "Incorrect. The article explicitly states that formal logic uses formal language, not natural language."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following best describes a deductively valid argument according to the article?",
+      "options": [
+        "An argument where if the premises are true, the conclusion must also be true.",
+        "An argument that arrives at genuinely new information not found in the premises.",
+        "An argument that makes its conclusion probable but does not ensure it is true.",
+        "An argument expressed in natural language rather than formal language."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that deductive arguments have the strongest form of support: 'if their premises are true then their conclusion must also be true.'",
+        "Incorrect. This describes ampliative arguments, not deductively valid ones.",
+        "Incorrect. This describes non-deductive arguments, which do not ensure the conclusion is true.",
+        "Incorrect. The language used (natural or formal) does not define deductive validity."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is modus ponens as described in the article?",
+      "options": [
+        "A rule of inference where all arguments of the form 'p, if p then q, therefore q' are valid.",
+        "A logical truth that is true in all possible worlds.",
+        "An informal fallacy involving an error of content.",
+        "A type of ampliative argument that generalizes from observations."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that modus ponens is 'a rule of inference according to which all arguments of the form \"(1) p, (2) if p then q, (3) therefore q\" are valid.'",
+        "Incorrect. This describes a logical truth, not modus ponens.",
+        "Incorrect. This describes an informal fallacy, not a rule of inference.",
+        "Incorrect. This describes an ampliative argument, not modus ponens."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article say about logically true propositions?",
+      "options": [
+        "They are true only because of their logical structure independent of the specific meanings of the individual parts.",
+        "Their truth depends on the meanings of all of their parts.",
+        "They are always expressed in natural language.",
+        "They are the same as ampliative arguments."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that logically true propositions 'are true only because of their logical structure independent of the specific meanings of the individual parts.'",
+        "Incorrect. The article says this is true for most propositions, but not for logically true propositions.",
+        "Incorrect. The article does not state that logically true propositions are always expressed in natural language.",
+        "Incorrect. Logically true propositions are not ampliative arguments."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an example of an abductive argument given in the article?",
+      "options": [
+        "A doctor concludes that a patient has a certain disease which explains the symptoms they suffer.",
+        "Inferring that all ravens are black based on many individual observations of black ravens.",
+        "The argument from 'it's Sunday' and 'if it's Sunday then I don't have to work' to 'I don't have to work.'",
+        "The fallacy 'you are either with us or against us.'"
+      ],
+      "answer_explanations": [
+        "Correct. The article gives this as an example of abductive arguments: 'inferences to the best explanation, for example, when a doctor concludes that a patient has a certain disease which explains the symptoms they suffer.'",
+        "Incorrect. The article identifies this as an example of an inductive argument.",
+        "Incorrect. This is an example of a deductive argument, not abductive.",
+        "Incorrect. This is an example of a false dilemma, an informal fallacy."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the difference between propositional logic and first-order logic according to the article?",
+      "options": [
+        "Propositional logic only considers logical relations between full propositions, while first-order logic also takes the internal parts of propositions into account.",
+        "Propositional logic takes internal parts into account, while first-order logic only considers full propositions.",
+        "Both only consider logical relations between full propositions.",
+        "Both only take the internal parts of propositions into account."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Propositional logic only considers logical relations between full propositions. First-order logic also takes the internal parts of propositions into account.'",
+        "Incorrect. The article states the opposite relationship.",
+        "Incorrect. The article distinguishes between the two systems.",
+        "Incorrect. The article states that propositional logic does not take internal parts into account."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does the article identify as a difficulty in studying natural language arguments in informal logic?",
+      "options": [
+        "Natural language expressions are often ambiguous, vague, and context-dependent.",
+        "Natural language arguments cannot be translated into formal language.",
+        "Natural language arguments are always deductively valid.",
+        "Natural language arguments do not contain premises or conclusions."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The study of natural language arguments comes with various difficulties. For example, natural language expressions are often ambiguous, vague, and context-dependent.'",
+        "Incorrect. The article states that natural language arguments need to be translated into formal language to be assessed by formal logic.",
+        "Incorrect. The article does not claim natural language arguments are always deductively valid.",
+        "Incorrect. The article defines arguments as consisting of premises and conclusions, including those in natural language."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is a false dilemma?",
+      "options": [
+        "An informal fallacy that involves an error of content by excluding viable options.",
+        "A deductively valid argument form.",
+        "A type of logical truth true in all possible worlds.",
+        "A formal system that articulates a proof system."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'A false dilemma, for example, involves an error of content by excluding viable options.'",
+        "Incorrect. A false dilemma is a fallacy, not a valid argument form.",
+        "Incorrect. A false dilemma is not described as a logical truth.",
+        "Incorrect. A false dilemma is an informal fallacy, not a formal system."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the article say about the term 'a logic' when used as a countable noun?",
+      "options": [
+        "It refers to a specific logical formal system that articulates a proof system.",
+        "It refers to an informal fallacy in natural language.",
+        "It refers to a deductively valid inference.",
+        "It refers to a proposition that is true in all possible worlds."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'When used as a countable noun, the term \"a logic\" refers to a specific logical formal system that articulates a proof system.'",
+        "Incorrect. This describes an informal fallacy, not 'a logic'.",
+        "Incorrect. This describes a deductively valid inference, not 'a logic'.",
+        "Incorrect. This describes a logical truth, not 'a logic'."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following best describes the relationship between formal and informal logic according to the article?",
+      "options": [
+        "Both provide criteria for assessing the correctness of arguments and distinguishing them from fallacies.",
+        "Only formal logic assesses the correctness of arguments.",
+        "Only informal logic assesses the correctness of arguments.",
+        "Neither formal nor informal logic assesses the correctness of arguments."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Both provide criteria for assessing the correctness of arguments and distinguishing them from fallacies.'",
+        "Incorrect. The article states that both formal and informal logic assess correctness.",
+        "Incorrect. The article states that both formal and informal logic assess correctness.",
+        "Incorrect. The article explicitly states that both assess the correctness of arguments."
+      ]
+    }
+  ]
+}

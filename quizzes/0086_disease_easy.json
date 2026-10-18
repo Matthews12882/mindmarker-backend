@@ -1,0 +1,167 @@
+{
+  "article_id": "0086",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a disease according to the article?",
+      "options": [
+        "A particular abnormal condition that adversely affects the structure or function of all or part of an organism and is not immediately due to any external injury",
+        "A condition caused solely by external injuries",
+        "A temporary feeling of discomfort without physical impairment",
+        "A condition that only affects mental health"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines disease as a particular abnormal condition that adversely affects the structure or function of all or part of an organism and is not immediately due to any external injury.",
+        "Incorrect. The article states disease is not immediately due to external injury.",
+        "Incorrect. The article describes disease as an abnormal condition affecting structure or function, not merely a temporary feeling.",
+        "Incorrect. The article states diseases can affect people mentally as well as physically, not only mental health."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed as one of the four main types of disease?",
+      "options": [
+        "Infectious diseases",
+        "Emotional diseases",
+        "Environmental diseases",
+        "Behavioral diseases"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists infectious diseases as one of the four main types of disease, along with deficiency, hereditary, and physiological diseases.",
+        "Incorrect. Emotional diseases are not listed among the four main types.",
+        "Incorrect. Environmental diseases are not listed among the four main types.",
+        "Incorrect. Behavioral diseases are not listed among the four main types."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the term acquired disease mean?",
+      "options": [
+        "A disease that began at some point during one's lifetime, as opposed to being present at birth",
+        "A disease caught specifically through contagion",
+        "A disease that is always secondary to another disease",
+        "A disease present at birth"
+      ],
+      "answer_explanations": [
+        "Correct. The article states an acquired disease began at some point during one's lifetime, as opposed to disease already present at birth.",
+        "Incorrect. The article clarifies that acquired does not mean caught via contagion.",
+        "Incorrect. The article states acquired disease can be primary disease, not necessarily secondary.",
+        "Incorrect. A disease present at birth is described as congenital disease, not acquired disease."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is an acute disease?",
+      "options": [
+        "A disease of a short-term nature",
+        "A disease that persists for at least six months",
+        "A disease present at birth",
+        "A disease caused by medical intervention"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines an acute disease as one of a short-term nature.",
+        "Incorrect. A disease persisting over time, often at least six months, is a chronic disease.",
+        "Incorrect. A disease present at birth is a congenital disorder.",
+        "Incorrect. A disease caused by medical intervention is an iatrogenic disease."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is an idiopathic disease?",
+      "options": [
+        "A disease with an unknown cause or source",
+        "A disease caused by medical intervention",
+        "A disease that cannot be cured",
+        "A disease expected to result in death"
+      ],
+      "answer_explanations": [
+        "Correct. The article states an idiopathic disease has an unknown cause or source.",
+        "Incorrect. A disease caused by medical intervention is iatrogenic.",
+        "Incorrect. A disease that cannot be cured is incurable.",
+        "Incorrect. A disease expected to result in death is terminal."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is pathology?",
+      "options": [
+        "The study of disease",
+        "The study of causes of death only",
+        "The treatment of infectious diseases",
+        "The classification of medical conditions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states pathology is the study of disease.",
+        "Incorrect. The article defines pathology broadly as the study of disease, not only causes of death.",
+        "Incorrect. The article does not define pathology as the treatment of infectious diseases.",
+        "Incorrect. The article does not define pathology as the classification of medical conditions."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which conditions are given as examples of neuropsychiatric conditions in developed countries?",
+      "options": [
+        "Depression and anxiety",
+        "Ischemic heart disease and stroke",
+        "COPD and influenza",
+        "Diabetes and cancer"
+      ],
+      "answer_explanations": [
+        "Correct. The article states neuropsychiatric conditions such as depression and anxiety cause the most sickness overall in developed countries.",
+        "Incorrect. Ischemic heart disease and stroke are listed among the deadliest diseases, not neuropsychiatric conditions.",
+        "Incorrect. COPD is listed among the deadliest diseases, and influenza is not mentioned in this context.",
+        "Incorrect. Diabetes and cancer are not given as examples of neuropsychiatric conditions in the article."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is a congenital disorder?",
+      "options": [
+        "A disorder present at birth",
+        "A disorder acquired during adulthood",
+        "A disorder caused by medical intervention",
+        "A disorder of short-term nature"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a congenital disorder as one present at birth.",
+        "Incorrect. A disorder acquired during lifetime is an acquired disease.",
+        "Incorrect. A disorder caused by medical intervention is iatrogenic.",
+        "Incorrect. A short-term disorder is acute, not congenital."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is a terminal disease?",
+      "options": [
+        "A disease expected to have the inevitable result of death",
+        "A disease that cannot be cured but can be managed",
+        "A disease of short-term nature",
+        "A disease present at birth"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a terminal disease as one expected to have the inevitable result of death.",
+        "Incorrect. A disease that cannot be cured is incurable; the article notes incurable diseases are not necessarily terminal.",
+        "Incorrect. A short-term disease is acute.",
+        "Incorrect. A disease present at birth is congenital."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How is the term illness sometimes used specifically?",
+      "options": [
+        "To refer to the patient's personal, subjective experience of their disease",
+        "To refer only to objectively measurable physical impairments",
+        "To refer exclusively to infectious diseases",
+        "To refer only to conditions present at birth"
+      ],
+      "answer_explanations": [
+        "Correct. The article states illness is occasionally used to refer specifically to the patient's personal, subjective experience of their disease.",
+        "Incorrect. The article notes a person can have a clinically apparent physical impairment but not feel ill.",
+        "Incorrect. The article does not limit illness to infectious diseases.",
+        "Incorrect. The article does not associate illness specifically with conditions present at birth."
+      ]
+    }
+  ]
+}

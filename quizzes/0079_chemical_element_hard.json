@@ -1,0 +1,167 @@
+{
+  "article_id": "0079",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A researcher discovers a new element with atomic number 119 and confirms it has no stable isotopes. Based on the article's discussion of naturally occurring elements, which statement about this element is most accurate?",
+      "options": [
+        "It would be classified as a synthetic element because elements beyond atomic number 94 have only been produced artificially via human-made nuclear reactions.",
+        "It would occur naturally on Earth because all elements with atomic numbers 1 through 82 have at least one stable isotope.",
+        "It would be one of the first 94 naturally occurring elements because it has no stable isotopes.",
+        "It would be detected directly on Earth as a primordial nuclide present from the formation of the Solar System."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that chemical elements can be categorised by their origin on Earth, with the first 94 considered naturally occurring, while those with atomic numbers beyond 94 have only been produced artificially via human-made nuclear reactions.",
+        "Incorrect. The article limits the statement about elements 1 through 82 having at least one stable isotope to that range, not to element 119.",
+        "Incorrect. The first 94 elements are defined by their atomic numbers being 94 or below, not by the absence of stable isotopes.",
+        "Incorrect. Primordial nuclides are associated with the first 94 elements detected directly on Earth, not with an element beyond atomic number 94."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "A chemist is analyzing a sample of lead and wants to explain why lead requires more neutrons than protons for nuclear stability. Which principle from the article best supports this explanation?",
+      "options": [
+        "As the number of protons increases, the neutronâproton ratio necessary for stability also increases.",
+        "Lead has an even number of protons, which makes its isotopes less stable due to the pairing effect.",
+        "The atomic number of lead determines its chemical properties, which require extra neutrons.",
+        "Lead isotopes undergo spontaneous fission because they are among the heaviest elements."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as the number of protons increases, so does the neutronâproton ratio necessary for stability, and gives lead as an example requiring about 3 neutrons for 2 protons.",
+        "Incorrect. The article says isotopes with even numbers of protons tend to be more stable due to the pairing effect, not less stable.",
+        "Incorrect. The article states that atomic number determines chemical properties through electron configuration, not through neutron requirements for stability.",
+        "Incorrect. While the article mentions spontaneous fission for some isotopes of the heaviest elements, it does not use this to explain why lead needs more neutrons than protons."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If two atoms have the same number of protons but different numbers of neutrons, which conclusion about their chemical behavior is best supported by the article?",
+      "options": [
+        "They will have nearly identical chemical properties because they have the same number of electrons.",
+        "They will have different chemical properties because they are different elements.",
+        "They will have different chemical properties because the kinetic isotope effect always applies.",
+        "They will have identical chemical properties only if they are both isotopes of hydrogen."
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that isotopes are atoms of the same element with different neutron numbers, and that all carbon isotopes have nearly identical chemical properties because they all have six electrons.",
+        "Incorrect. Atoms with the same number of protons are the same element, not different elements.",
+        "Incorrect. The article identifies hydrogen as an exception where the kinetic isotope effect is significant, not as a rule that always applies.",
+        "Incorrect. The article presents hydrogen as an exception with significant kinetic isotope effects, not as the only case where isotopes have identical chemical properties."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "A materials scientist wants to predict the properties of a newly synthesized, exceedingly transient nuclide that has not yet been observed. Which tool described in the article would be most appropriate for this task?",
+      "options": [
+        "The periodic table, because it allows chemists to derive relationships between elements and make predictions about unobserved nuclides.",
+        "A list of nuclides arranged by half-life, because it shows radioactive decay patterns.",
+        "The classical elements theory, because it categorizes materials by fundamental properties.",
+        "A table of oxidation states, because it determines how atoms bind in compounds."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the periodic table summarizes various properties of the elements, allowing chemists to derive relationships between them and to make predictions about exceedingly transient nuclides not yet observed.",
+        "Incorrect. The article mentions that radioactive nuclides can be arranged by half-life, but does not say this arrangement predicts properties of unobserved nuclides.",
+        "Incorrect. Classical elements are described as historical concepts from early attempts to classify materials, not as a tool for predicting modern nuclides.",
+        "Incorrect. Oxidation states are listed as atomic properties, but the article does not present them as a predictive tool for unobserved nuclides."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what is the key distinction between a chemical element as a kind of atom and a chemical element as a pure substance?",
+      "options": [
+        "The kind-of-atom meaning refers to atoms as components of various substances, while the pure-substance meaning refers to a substance consisting of only one kind of atom.",
+        "The kind-of-atom meaning applies only to isotopes, while the pure-substance meaning applies only to stable elements.",
+        "The kind-of-atom meaning is used in French, while the pure-substance meaning is used in Russian.",
+        "The kind-of-atom meaning includes molecules, while the pure-substance meaning includes only individual atoms."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'element' can mean a chemical substance consisting of a single kind of atom (a free element), or it can mean that kind of atom as a component of various chemical substances.",
+        "Incorrect. The article does not restrict the kind-of-atom meaning to isotopes or the pure-substance meaning to stable elements.",
+        "Incorrect. The article mentions French and Russian as languages that distinguish the two concepts with different terms, not as languages that exclusively use one meaning.",
+        "Incorrect. The article does not say the kind-of-atom meaning includes molecules or that the pure-substance meaning excludes them."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "A geologist finds a mineral containing an element with atomic number 43. Based on the article, which statement about this element is most accurate?",
+      "options": [
+        "It is technetium, one of six naturally occurring elements found in extreme trace amounts on Earth.",
+        "It is a synthetic element because all elements beyond atomic number 43 are artificial.",
+        "It cannot occur naturally because it has no stable isotopes.",
+        "It is one of the 26 monoisotopic elements with exactly one stable isotope."
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies technetium, atomic number 43, as one of six elements occurring in extreme trace amounts on Earth.",
+        "Incorrect. The article states that elements beyond atomic number 94 are synthetic, not beyond 43.",
+        "Incorrect. While technetium has no stable isotopes, the article states it has been detected naturally on Earth in extreme trace amounts.",
+        "Incorrect. The article states that monoisotopic elements have an odd atomic number with the exception of beryllium-9, and does not identify technetium as monoisotopic."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "A company wants to extract an element from air. Based on the article, which element would most likely be found in air as an uncombined atomic gas rather than as part of a compound?",
+      "options": [
+        "Argon, because it is a noble gas that is chemically inert and does not undergo chemical reactions.",
+        "Carbon, because air contains carbon dioxide.",
+        "Oxygen, because air is mostly a mixture of molecular nitrogen and oxygen.",
+        "Water, because it is a compound found in air."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that air contains atomic argon, a noble gas which is chemically inert and therefore does not undergo chemical reactions.",
+        "Incorrect. The article mentions carbon dioxide as a compound in air, meaning carbon is combined, not uncombined.",
+        "Incorrect. The article describes oxygen in air as molecular (O2), not as uncombined atomic gas.",
+        "Incorrect. Water is a compound, not an element found as an uncombined atomic gas."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "A nuclear physicist is studying an isotope of carbon with 8 neutrons. Based on the article, what is the mass number of this isotope, and how do its chemical properties compare to other carbon isotopes?",
+      "options": [
+        "The mass number is 14, and it has nearly identical chemical properties to other carbon isotopes because all carbon isotopes have six electrons.",
+        "The mass number is 14, but it has different chemical properties because it has more neutrons.",
+        "The mass number is 8, and it has nearly identical chemical properties because it has 6 protons.",
+        "The mass number is 14, and its chemical properties are determined by its neutron count rather than its electron count."
+      ],
+      "answer_explanations": [
+        "Correct. Carbon has 6 protons, so 6 protons + 8 neutrons = mass number 14 (carbon-14). The article states all carbon isotopes have nearly identical chemical properties because they all have six electrons.",
+        "Incorrect. The article states that the number of neutrons usually has very little effect on chemical properties, and carbon isotopes have nearly identical chemical properties.",
+        "Incorrect. The mass number is protons plus neutrons (14), not just the neutron count (8).",
+        "Incorrect. The article states chemical properties are determined by electrons, not by neutron count."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "If an element has atomic number 50, how many stable isotopes does the article indicate it has?",
+      "options": [
+        "10, which is the largest number of stable isotopes for a single element.",
+        "1, because it is monoisotopic.",
+        "3.1, which is the mean number for stable elements.",
+        "0, because elements with even atomic numbers are unstable."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the largest number of stable isotopes for a single element is 10, for tin, element 50.",
+        "Incorrect. The article says only 26 elements are monoisotopic and does not identify tin as one of them.",
+        "Incorrect. 3.1 is the mean number of stable isotopes across the 80 stable elements, not the specific count for element 50.",
+        "Incorrect. The article does not state that even atomic numbers are unstable; in fact, even numbers of protons tend to increase stability."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "A historian notes that the modern concept of an element was not understood by early human societies that discovered native minerals. Based on the article, which of the following best describes what those early societies actually discovered?",
+      "options": [
+        "Native minerals such as carbon, sulfur, copper, and gold, without understanding the modern concept of an element.",
+        "The periodic table, which organizes elements by increasing atomic number.",
+        "Isotopes, which are atoms of the same element with different numbers of neutrons.",
+        "Synthetic elements produced in nuclear reactions."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that early human societies discovered native minerals such as carbon, sulfur, copper, and gold, though the modern concept of an element was not yet understood.",
+        "Incorrect. The periodic table was published by Mendeleev in 1869, not discovered by early human societies.",
+        "Incorrect. Isotopes are a modern concept involving different neutron counts, not something early societies discovered.",
+        "Incorrect. Synthetic elements are produced in nuclear reactions, a modern development not known to early societies."
+      ]
+    }
+  ]
+}

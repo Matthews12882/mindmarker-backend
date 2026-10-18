@@ -1,0 +1,167 @@
+{
+  "article_id": "0161",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What was Beethoven's profession?",
+      "options": [
+        "German composer, conductor, and pianist",
+        "German painter and sculptor",
+        "French novelist and poet",
+        "Italian architect and engineer"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Beethoven was a German composer, conductor, and pianist.",
+        "Incorrect. The article does not describe Beethoven as a painter or sculptor.",
+        "Incorrect. Beethoven was German, not French, and he was not described as a novelist or poet.",
+        "Incorrect. Beethoven was not described as an Italian architect or engineer."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "On what date did Beethoven die?",
+      "options": [
+        "26 March 1827",
+        "17 December 1770",
+        "26 March 1828",
+        "17 December 1827"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Beethoven died on 26 March 1827.",
+        "Incorrect. 17 December 1770 is Beethoven's baptism date, not his death date.",
+        "Incorrect. The article states he died in 1827, not 1828.",
+        "Incorrect. 17 December is associated with his baptism, not his death."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Where was Beethoven born?",
+      "options": [
+        "Bonn",
+        "Vienna",
+        "Mechelen",
+        "Cologne"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Beethoven was born in Bonn.",
+        "Incorrect. Vienna was where Beethoven moved to and made his base, not his birthplace.",
+        "Incorrect. Mechelen was the city of Beethoven's grandfather, not Beethoven's birthplace.",
+        "Incorrect. Cologne is mentioned in connection with the Archbishop-Elector, not Beethoven's birthplace."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who was Beethoven's first music teacher?",
+      "options": [
+        "His father, Johann van Beethoven",
+        "Christian Gottlob Neefe",
+        "Joseph Haydn",
+        "Franz Anton Ries"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Beethoven's father was his first music teacher.",
+        "Incorrect. Neefe was an important later teacher in Bonn, not the first.",
+        "Incorrect. Haydn taught Beethoven composition in Vienna, not as his first teacher.",
+        "Incorrect. Ries instructed Beethoven on the violin but was not his first music teacher."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "At what age did Beethoven move to Vienna?",
+      "options": [
+        "21",
+        "11",
+        "16",
+        "26"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that at age 21, Beethoven moved to Vienna.",
+        "Incorrect. Age 11 is when a printed reference described him as a promising talent, not when he moved to Vienna.",
+        "Incorrect. Age 16 is not mentioned as the age of his move to Vienna.",
+        "Incorrect. Age 26 is not mentioned as the age of his move to Vienna."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "With whom did Beethoven study composition after moving to Vienna?",
+      "options": [
+        "Joseph Haydn",
+        "Johann Albrechtsberger",
+        "Antonio Salieri",
+        "Christian Gottlob Neefe"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Beethoven studied composition with Joseph Haydn in Vienna.",
+        "Incorrect. Albrechtsberger taught him counterpoint after Haydn's departure, not composition initially.",
+        "Incorrect. Salieri gave occasional instruction in Italian vocal composition style, not the main composition study.",
+        "Incorrect. Neefe was his teacher in Bonn before he moved to Vienna."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In what year did Beethoven's First Symphony premiere?",
+      "options": [
+        "1800",
+        "1795",
+        "1805",
+        "1808"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Beethoven's First Symphony premiered in 1800.",
+        "Incorrect. 1795 is the year his Piano Trios, Op. 1 appeared, not the First Symphony.",
+        "Incorrect. 1805 is when his Third and Fifth Symphonies premiered, not the First.",
+        "Incorrect. 1808 is when his Fifth Symphony premiered and Razumovsky quartets were published, not the First Symphony."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of Beethoven's works was the first major example of a choral symphony?",
+      "options": [
+        "Symphony No. 9",
+        "Symphony No. 5",
+        "Symphony No. 3",
+        "Symphony No. 7"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that his Ninth Symphony was the first major example of a choral symphony.",
+        "Incorrect. The Fifth Symphony is mentioned as a middle-period work, not a choral symphony.",
+        "Incorrect. The Third Symphony (Eroica) is mentioned as unprecedented in scale, not a choral symphony.",
+        "Incorrect. The Seventh Symphony is listed among middle works, not as a choral symphony."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What was Beethoven's opera?",
+      "options": [
+        "Fidelio",
+        "The Magic Flute",
+        "Don Giovanni",
+        "Carmen"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies Fidelio as Beethoven's opera.",
+        "Incorrect. The Magic Flute is not mentioned as Beethoven's opera in the article.",
+        "Incorrect. Don Giovanni is not mentioned as Beethoven's opera in the article.",
+        "Incorrect. Carmen is not mentioned as Beethoven's opera in the article."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How many children born to Johann van Beethoven survived infancy?",
+      "options": [
+        "Three",
+        "Seven",
+        "Two",
+        "Four"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that of the seven children born to Johann van Beethoven, only Ludwig and two younger brothers survived infancy.",
+        "Incorrect. Seven is the total number of children born, not the number who survived infancy.",
+        "Incorrect. Two is the number of younger brothers who survived, not the total number of survivors.",
+        "Incorrect. Four is not the number stated as surviving infancy."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0090",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, why do fermions such as quarks and leptons appear to take up space under everyday conditions?",
+      "options": [
+        "Because the Pauli exclusion principle and other fundamental interactions effectively force them to keep a distance from other particles",
+        "Because they have well-defined sizes and positions like everyday objects",
+        "Because they are composed of atoms and molecules",
+        "Because they travel at the speed of light"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that due to the exclusion principle and other fundamental interactions, fermions are effectively forced to keep a distance from other particles, creating the property of matter taking up space.",
+        "Incorrect. The article says subatomic particles do not have well-defined sizes or positions.",
+        "Incorrect. Atoms and molecules are composites of fermions, not the reason fermions themselves take up space.",
+        "Incorrect. The article notes that particles with rest mass cannot travel at the speed of light, but this is unrelated to why they occupy space."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "In the article's quarkâlepton definition of ordinary matter, which of the following is explicitly stated NOT to be ordinary matter despite having mass?",
+      "options": [
+        "W and Z bosons",
+        "Protons and neutrons",
+        "Electrons",
+        "Quarks"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that W and Z bosons are not made of quarks or leptons and so are not ordinary matter, even if they have mass.",
+        "Incorrect. Protons and neutrons are made of quarks and are ordinary matter.",
+        "Incorrect. Electrons are leptons and are ordinary matter.",
+        "Incorrect. Quarks are elementary fermions and are ordinary matter."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Based on the article's discussion of mass sources, what contributes most of the mass of everyday objects?",
+      "options": [
+        "The binding energy of quarks within protons and neutrons",
+        "The sum of the rest masses of the three quarks in a nucleon",
+        "The mass of electrons orbiting the nucleus",
+        "The mass of photons and other massless particles"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that most of the mass of everyday objects comes from the interaction energy (binding energy) of quarks within protons and neutrons.",
+        "Incorrect. The article says the sum of the three quarks' mass is only about 12.5 MeV/cÂ², low compared to a nucleon's 938 MeV/cÂ².",
+        "Incorrect. Electrons contribute little compared to the binding energy in nucleons.",
+        "Incorrect. Photons are massless and are not matter according to the article."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "If a new subatomic particle were discovered that had rest mass but was neither a quark nor a lepton, how would the article's quarkâlepton definition classify it?",
+      "options": [
+        "It would not be ordinary matter under the quarkâlepton definition",
+        "It would be ordinary matter because it has rest mass",
+        "It would be ordinary matter only if it also occupied volume",
+        "It would be classified as antimatter automatically"
+      ],
+      "answer_explanations": [
+        "Correct. The quarkâlepton definition states ordinary matter is composed of quarks and leptons; a particle with rest mass that is neither would not qualify, even though the article notes mass is not exclusive to ordinary matter.",
+        "Incorrect. The article explicitly says mass is not something exclusive to ordinary matter.",
+        "Incorrect. Volume is not the criterion in the quarkâlepton definition.",
+        "Incorrect. The article does not say all non-quark/non-lepton massive particles are antimatter."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what is true of chemical substances when they transition between physical states or phases?",
+      "options": [
+        "They do not change their chemical composition",
+        "They become different chemical substances",
+        "They can only transition in response to chemical reactions",
+        "They cease to be matter during the transition"
+      ],
+      "answer_explanations": [
+        "Correct. The article states chemical substances can exist in several different physical states or phases without changing their chemical composition.",
+        "Incorrect. Transitioning between phases does not change the chemical substance itself.",
+        "Incorrect. The article says phase transitions occur in response to changes in temperature or pressure, not chemical reactions.",
+        "Incorrect. The article does not state that substances cease to be matter during phase transitions."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, which of the following is an example of matter that is made from protons, neutrons, and electrons but is not simply atoms or molecules?",
+      "options": [
+        "Electron beams in a cathode ray tube television",
+        "A beam of light",
+        "A sound wave",
+        "A photon"
+      ],
+      "answer_explanations": [
+        "Correct. The article gives electron beams in an old cathode ray tube television as an example of matter made from protons, neutrons, and electrons that is not simply atoms or molecules.",
+        "Incorrect. Light is explicitly excluded from matter in the article.",
+        "Incorrect. Sound waves are energy phenomena, not matter.",
+        "Incorrect. Photons are massless particles and are not matter."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Based on the article, how does the Standard Model treat the concept of matter?",
+      "options": [
+        "Matter is not a fundamental concept because elementary constituents are quantum entities without inherent size or volume",
+        "Matter is a fundamental concept composed of indivisible atoms",
+        "Matter is synonymous with mass in all contexts",
+        "Matter includes massless particles such as photons"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in the Standard Model, matter is not a fundamental concept because elementary constituents are quantum entities without inherent size or volume in the everyday sense.",
+        "Incorrect. The article describes atoms as composed of subatomic particles and says the everyday atomic model is only somewhat correct.",
+        "Incorrect. The article distinguishes matter from mass, saying mass is a property of matter.",
+        "Incorrect. The article explicitly excludes massless particles such as photons from matter."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what is the relationship between the mass of a nucleon and the sum of the masses of its three constituent quarks?",
+      "options": [
+        "The nucleon's mass is much greater than the sum of its three quarks' masses",
+        "The nucleon's mass is approximately equal to the sum of its three quarks' masses",
+        "The nucleon's mass is less than the sum of its three quarks' masses",
+        "The nucleon has no mass because quarks are massless"
+      ],
+      "answer_explanations": [
+        "Correct. The article gives the sum of the three quarks in a nucleon as approximately 12.5 MeV/cÂ², low compared to the nucleon's mass of approximately 938 MeV/cÂ².",
+        "Incorrect. The article shows a large discrepancy between the two values.",
+        "Incorrect. The nucleon's mass is greater, not less.",
+        "Incorrect. The article does not state quarks are massless."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what does the particulate theory of matter propose?",
+      "options": [
+        "Matter is built of discrete building blocks",
+        "Matter is continuous and infinitely divisible",
+        "Matter is identical to energy",
+        "Matter includes light and heat"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes the particulate theory of matter as the idea that matter was built of discrete building blocks.",
+        "Incorrect. The particulate theory proposes discrete building blocks, not continuous divisibility.",
+        "Incorrect. The article distinguishes matter from energy phenomena such as light and heat.",
+        "Incorrect. Light and heat are explicitly excluded from matter."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, which of the following would be considered ordinary matter under the definition based on quarks and leptons?",
+      "options": [
+        "A carbon atom",
+        "A W boson",
+        "A photon",
+        "A gluon"
+      ],
+      "answer_explanations": [
+        "Correct. A carbon atom is composed of quarks (in protons and neutrons) and leptons (electrons), fitting the quarkâlepton definition of ordinary matter.",
+        "Incorrect. The article says W bosons are not made of quarks or leptons and are not ordinary matter.",
+        "Incorrect. Photons are massless particles and are not matter.",
+        "Incorrect. Gluons are force carriers (bosons), not quarks or leptons."
+      ]
+    }
+  ]
+}

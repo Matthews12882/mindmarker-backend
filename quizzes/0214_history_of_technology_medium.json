@@ -1,0 +1,167 @@
+{
+  "article_id": "0214",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which Greek words form the etymology of the term 'technology'?",
+      "options": [
+        "techne and logos",
+        "archÄ and kinesis",
+        "dianoia and praxis",
+        "physis and nomos"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the term technology comes from the Greek words techne, meaning art and craft, and logos, meaning word and speech.",
+        "Incorrect. The article does not mention archÄ and kinesis as components of the term technology.",
+        "Incorrect. The article does not reference dianoia and praxis in the etymology.",
+        "Incorrect. The article does not list physis and nomos as the source words."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to Leslie White, what is the primary function of culture?",
+      "options": [
+        "to harness and control energy",
+        "to create artistic expression",
+        "to preserve language",
+        "to develop religious rituals"
+      ],
+      "answer_explanations": [
+        "Correct. The article quotes White: \"the primary function of culture\" is to \"harness and control energy.\"",
+        "Incorrect. The article does not state that the primary function of culture is artistic expression.",
+        "Incorrect. The article does not claim that preserving language is culture's primary function.",
+        "Incorrect. The article does not mention religious rituals as culture's primary function."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does Whiteâs formula P = E/T represent?",
+      "options": [
+        "development index = energy consumed divided by efficiency of technical factors",
+        "population growth = energy output over time",
+        "productivity = efficiency times technology",
+        "progress = education divided by technology"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that White introduced the formula P = E/T, where P is the development index, E is a measure of energy consumed, and T is a measure of the efficiency of technical factors in using the energy.",
+        "Incorrect. The formula does not represent population growth as described.",
+        "Incorrect. The formula is not about productivity in that sense.",
+        "Incorrect. The formula does not relate to education divided by technology."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which stage in Lenskiâs model involves the use of symbols and writing?",
+      "options": [
+        "the fourth stage",
+        "the first stage",
+        "the second stage",
+        "the third stage"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in Lenskiâs fourth stage, humans can create symbols, develop language, and write.",
+        "Incorrect. The first stage involves information passed by genes, not symbols and writing.",
+        "Incorrect. The second stage is about sentience and learning through experience.",
+        "Incorrect. The third stage involves signs and logic, not writing."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is one indicator of technological progress in economics?",
+      "options": [
+        "productivity increases when fewer inputs produce a unit of output",
+        "increase in population",
+        "higher levels of imports",
+        "greater reliance on natural resources"
+      ],
+      "answer_explanations": [
+        "Correct. The article notes that productivity is a measure of technological progress, increasing when fewer inputs are used to produce a unit of output.",
+        "Incorrect. Population increase is not mentioned as an indicator.",
+        "Incorrect. Higher imports are not described as an indicator.",
+        "Incorrect. Greater reliance on natural resources is not cited."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which invention is listed as occurring around 1450â1455 AD?",
+      "options": [
+        "printing press",
+        "steam engine",
+        "atomic bomb",
+        "telephone"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the printing press as occurring from 1450 to 1455 AD.",
+        "Incorrect. The steam engine is listed as 1712 AD.",
+        "Incorrect. The atomic bomb is listed as 1945 AD.",
+        "Incorrect. The telephone is not mentioned in the timeline."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is NOT mentioned as a technological milestone dividing Morganâs stages of social evolution?",
+      "options": [
+        "fire",
+        "writing",
+        "agriculture",
+        "electricity"
+      ],
+      "answer_explanations": [
+        "Incorrect. The article mentions fire as a technological milestone dividing Morgan's stages.",
+        "Correct. The article does not list writing as a milestone dividing Morgan's stages; it mentions fire as an example.",
+        "Incorrect. Agriculture is a major technological development mentioned in the article.",
+        "Incorrect. Electricity is not a milestone in Morgan's stages."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what type of societies are described as 'post-industrial'?",
+      "options": [
+        "developed countries where services and information are more important than industry and goods",
+        "rural agrarian communities",
+        "hunter-gatherer groups",
+        "industrialized nations still focused on manufacturing"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines post-industrial societies as those where services and information become more important than industry and goods.",
+        "Incorrect. Rural agrarian communities are not described as post-industrial.",
+        "Incorrect. Hunter-gatherer groups are not post-industrial.",
+        "Incorrect. Industrialized nations still focused on manufacturing are not post-industrial."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which early stone tool industry is noted as dating back to at least 2.3 million years ago?",
+      "options": [
+        "Oldowan",
+        "Acheulean",
+        "Lomekwi",
+        "Mousterian"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the earliest methods of stone tool making, known as the Oldowan \"industry\", date back to at least 2.3 million years ago.",
+        "Incorrect. The Acheulean is noted as beginning around 1.6 million years ago.",
+        "Incorrect. Lomekwi stone technology is listed as 3.3 million years ago, but the Oldowan is specifically noted as 2.3 million years ago.",
+        "Incorrect. Mousterian is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What term does the article use for resources produced by technology that are used in everyday life?",
+      "options": [
+        "technological artifacts",
+        "cultural capital",
+        "social constructs",
+        "economic goods"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions that technology produces other resources, including *technological artifacts* used in everyday life.",
+        "Incorrect. Cultural capital is not the term used.",
+        "Incorrect. Social constructs are not described.",
+        "Incorrect. Economic goods is not the term used."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0003",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the scientific name Homo sapiens mean?",
+      "options": [
+        "thinking man or wise man",
+        "tool-using primate",
+        "upright walker",
+        "social animal"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Homo sapiens means 'thinking man' or 'wise man'.",
+        "Incorrect. The article does not define Homo sapiens as 'tool-using primate'.",
+        "Incorrect. The article does not define Homo sapiens as 'upright walker'.",
+        "Incorrect. The article does not define Homo sapiens as 'social animal'."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How long can humans survive without food?",
+      "options": [
+        "up to eight weeks",
+        "three or four days",
+        "seven to nine hours",
+        "several months"
+      ],
+      "answer_explanations": [
+        "Correct. The article states humans can survive for up to eight weeks without food.",
+        "Incorrect. Three or four days is how long humans can survive without water, not food.",
+        "Incorrect. Seven to nine hours is the average amount of sleep per day.",
+        "Incorrect. The article does not say humans can survive several months without food."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the average amount of sleep humans get per day?",
+      "options": [
+        "seven to nine hours",
+        "three or four days",
+        "up to eight weeks",
+        "twelve hours"
+      ],
+      "answer_explanations": [
+        "Correct. The article states humans sleep on average seven to nine hours per day.",
+        "Incorrect. Three or four days refers to survival without water.",
+        "Incorrect. Up to eight weeks refers to survival without food.",
+        "Incorrect. The article does not mention twelve hours of sleep."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who coined the species name Homo sapiens?",
+      "options": [
+        "Carl Linnaeus",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Alfred Russel Wallace"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Homo sapiens was coined by Carl Linnaeus in his 1735 work Systema Naturae.",
+        "Incorrect. The article does not credit Charles Darwin with coining Homo sapiens.",
+        "Incorrect. The article does not credit Gregor Mendel with coining Homo sapiens.",
+        "Incorrect. The article does not credit Alfred Russel Wallace with coining Homo sapiens."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How genetically similar are any two humans on average?",
+      "options": [
+        "over 99%",
+        "around 1% to 2%",
+        "less than 90%",
+        "exactly 100%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states any two humans are on average over 99% genetically similar.",
+        "Incorrect. Around 1% to 2% is the genetic difference between males and females.",
+        "Incorrect. The article does not say humans are less than 90% genetically similar.",
+        "Incorrect. The article does not say humans are exactly 100% genetically similar."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which continent has the most genetically diverse human populations?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "Australia"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the most genetically diverse populations are from Africa.",
+        "Incorrect. The article does not identify Asia as having the most genetically diverse populations.",
+        "Incorrect. The article does not identify Europe as having the most genetically diverse populations.",
+        "Incorrect. The article does not identify Australia as having the most genetically diverse populations."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "When did Homo sapiens emerge according to the article?",
+      "options": [
+        "around 300,000 years ago",
+        "2.8 million years ago",
+        "2 million years ago",
+        "160,000 years ago"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Homo sapiens emerged around 300,000 years ago.",
+        "Incorrect. 2.8 million years ago refers to the earliest record of the genus Homo (specimen LD 350-1).",
+        "Incorrect. 2 million years ago refers to when H. erectus evolved.",
+        "Incorrect. 160,000â70,000 years ago is when humans began exhibiting behavioral modernity."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which continent did the evolutionary branch humans descended from split from other hominins in?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "Australia"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the evolutionary branch humans descended from split from other hominins in Africa several million years ago.",
+        "Incorrect. The article does not say the split occurred in Asia.",
+        "Incorrect. The article does not say the split occurred in Europe.",
+        "Incorrect. The article does not say the split occurred in Australia."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which species was the first archaic human to leave Africa and disperse across Eurasia?",
+      "options": [
+        "Homo erectus",
+        "Homo habilis",
+        "Homo sapiens",
+        "Homo neanderthalensis"
+      ],
+      "answer_explanations": [
+        "Correct. The article states H. erectus was the first archaic human species to leave Africa and disperse across Eurasia.",
+        "Incorrect. The article does not say Homo habilis was the first archaic human to leave Africa.",
+        "Incorrect. Homo sapiens migrated out of Africa later, not as the first archaic human.",
+        "Incorrect. The article does not identify Homo neanderthalensis as the first archaic human to leave Africa."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Approximately how many humans occupied almost all regions of Earth in 2026?",
+      "options": [
+        "over 8.3 billion",
+        "around 300,000",
+        "2.8 million",
+        "70,000"
+      ],
+      "answer_explanations": [
+        "Correct. The article states over 8.3 billion humans occupied almost all regions of Earth in 2026.",
+        "Incorrect. Around 300,000 years ago is when Homo sapiens emerged.",
+        "Incorrect. 2.8 million years ago refers to the earliest Homo specimen.",
+        "Incorrect. 70,000 to 50,000 years ago refers to the Southern Dispersal migration."
+      ]
+    }
+  ]
+}

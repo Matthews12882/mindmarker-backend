@@ -1,0 +1,167 @@
+{
+  "article_id": "0272",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Antarctica's ranking by size among Earth's continents?",
+      "options": [
+        "Fifth-largest",
+        "Largest",
+        "Second-largest",
+        "Third-largest"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Antarctica is the fifth-largest continent.",
+        "Incorrect. The article explicitly ranks Antarctica as fifth-largest, not largest.",
+        "Incorrect. The article identifies Antarctica as fifth-largest, not second-largest.",
+        "Incorrect. The article states Antarctica is fifth-largest, not third-largest."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the area of Antarctica in square kilometres?",
+      "options": [
+        "14,200,000 km2",
+        "14,200 km2",
+        "1,420,000 km2",
+        "142,000,000 km2"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Antarctica has an area of 14,200,000 km2.",
+        "Incorrect. The article gives the area as 14,200,000 km2, not 14,200 km2.",
+        "Incorrect. The article states the area is 14,200,000 km2, not 1,420,000 km2.",
+        "Incorrect. The article lists the area as 14,200,000 km2, not 142,000,000 km2."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the average thickness of the Antarctic ice sheet?",
+      "options": [
+        "1.9 km",
+        "1.2 km",
+        "1.9 m",
+        "19 km"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Antarctic ice sheet has an average thickness of 1.9 km.",
+        "Incorrect. The article gives the average thickness as 1.9 km, not 1.2 km.",
+        "Incorrect. The article states the thickness is 1.9 km, not 1.9 m.",
+        "Incorrect. The article lists the average thickness as 1.9 km, not 19 km."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is true about Antarctica's climate?",
+      "options": [
+        "It is the coldest, driest, and windiest continent on average.",
+        "It is the warmest, wettest, and calmest continent.",
+        "It has moderate temperatures and high rainfall.",
+        "It is the smallest and least elevated continent."
+      ],
+      "answer_explanations": [
+        "Correct. The article states Antarctica is, on average, the coldest, driest, and windiest of the continents.",
+        "Incorrect. The article describes Antarctica as the coldest, driest, and windiest, not the warmest, wettest, and calmest.",
+        "Incorrect. The article describes Antarctica as a polar desert with low precipitation, not moderate temperatures and high rainfall.",
+        "Incorrect. The article states Antarctica has the highest average elevation and is the fifth-largest continent, not the smallest and least elevated."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What would happen to global sea levels if Antarctica's freshwater reserves melted?",
+      "options": [
+        "They would rise by almost 60 metres.",
+        "They would fall by almost 60 metres.",
+        "They would remain unchanged.",
+        "They would rise by 6 metres."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that if Antarctica's frozen freshwater reserves melted, global sea levels would rise by almost 60 metres.",
+        "Incorrect. The article says sea levels would rise, not fall, by almost 60 metres.",
+        "Incorrect. The article states melting would raise sea levels by almost 60 metres, not leave them unchanged.",
+        "Incorrect. The article gives the figure as almost 60 metres, not 6 metres."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which explorer first reached the geographic South Pole?",
+      "options": [
+        "Roald Amundsen",
+        "Douglas Mawson",
+        "Fabian Gottlieb von Bellingshausen",
+        "Matthew Flinders"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the geographic South Pole was first reached in 1911 by Norwegian explorer Roald Amundsen.",
+        "Incorrect. The article identifies Douglas Mawson as one of the first to reach the magnetic South Pole, not the geographic South Pole.",
+        "Incorrect. The article says Fabian Gottlieb von Bellingshausen led an expedition that probably first saw ice shelves, not the geographic South Pole.",
+        "Incorrect. The article mentions Matthew Flinders in the etymology section regarding the name Terra Australis, not as reaching the South Pole."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How many countries govern Antarctica under the Antarctic Treaty System?",
+      "options": [
+        "29",
+        "12",
+        "19",
+        "50"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Antarctica is governed by 29 countries, all parties to the 1959 Antarctic Treaty System.",
+        "Incorrect. The article specifies 29 governing countries, not 12.",
+        "Incorrect. The article states 29 countries govern Antarctica, not 19.",
+        "Incorrect. The article gives the number as 29 countries, not 50."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which activities are prohibited in Antarctica under the Antarctic Treaty?",
+      "options": [
+        "Military activity, mining, nuclear explosions, and nuclear waste disposal",
+        "Tourism, fishing, and research",
+        "Scientific exploration and tourism",
+        "Fishing and research only"
+      ],
+      "answer_explanations": [
+        "Correct. The article states military activity, mining, nuclear explosions, and nuclear waste disposal are all prohibited in Antarctica.",
+        "Incorrect. The article lists tourism, fishing, and research as the main human activities, not prohibited ones.",
+        "Incorrect. The article does not prohibit scientific exploration and tourism; it lists them as activities.",
+        "Incorrect. The article does not say fishing and research are prohibited; it lists them as main human activities."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Approximately how many people reside at Antarctic research stations during the summer months?",
+      "options": [
+        "About 5,000",
+        "About 1,000",
+        "About 50,000",
+        "About 500"
+      ],
+      "answer_explanations": [
+        "Correct. The article states about 5,000 people reside at research stations during the summer months.",
+        "Incorrect. The article says the figure drops to around 1,000 in winter, not summer.",
+        "Incorrect. The article gives the summer figure as about 5,000, not 50,000.",
+        "Incorrect. The article states about 5,000 people reside in summer, not 500."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following are native animal species of Antarctica?",
+      "options": [
+        "Mites, nematodes, penguins, seals, and tardigrades",
+        "Polar bears, penguins, and seals",
+        "Elephants, penguins, and mites",
+        "Kangaroos, seals, and tardigrades"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists mites, nematodes, penguins, seals, and tardigrades as native species of animals in Antarctica.",
+        "Incorrect. The article does not list polar bears as native to Antarctica.",
+        "Incorrect. The article does not mention elephants as native to Antarctica.",
+        "Incorrect. The article does not list kangaroos as native to Antarctica."
+      ]
+    }
+  ]
+}

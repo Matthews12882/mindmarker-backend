@@ -1,0 +1,167 @@
+{
+  "article_id": "0044",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is one criterion researchers often use to refine their definition of communicative behavior in non-human communication?",
+      "options": [
+        "Observable responses are present and participants benefit from the exchange.",
+        "The communication must involve a linguistic system.",
+        "The sender must be consciously aware of transmitting a message.",
+        "The exchange must occur between members of the same species."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that researchers in non-human communication often refine their definition by including criteria that observable responses are present and that participants benefit from the exchange.",
+        "Incorrect. The article notes that non-human communication happens without a linguistic system, so this is not a criterion used.",
+        "Incorrect. The article does not state that conscious awareness is required for non-human communicative behavior.",
+        "Incorrect. While the article says most communication occurs between members of the same species, this is not given as a defining criterion researchers use."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How does the article describe the difference between linear transmission models and interaction models of communication?",
+      "options": [
+        "Linear models describe one-way information flow, while interaction models include a feedback loop.",
+        "Linear models are used only for mass communication, while interaction models apply to interpersonal communication.",
+        "Linear models focus on meaning creation, while interaction models focus on message transmission.",
+        "Linear models require overlapping fields of experience, while interaction models do not."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that linear transmission models are linear because information flows in a single direction, while interaction models include a feedback loop.",
+        "Incorrect. The article says Lasswell's linear model was initially conceived for mass communication but applied elsewhere; it does not restrict linear models to mass communication.",
+        "Incorrect. The article associates meaning production with transaction models, not linear models.",
+        "Incorrect. Overlapping fields of experience are mentioned in Schramm's interaction model, not as a requirement of linear models."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article say about verbal communication in academic discourse?",
+      "options": [
+        "It encompasses any form of linguistic communication, including speech, writing, and sign language.",
+        "It is restricted to oral communication and excludes writing.",
+        "It refers only to written messages and excludes spoken language.",
+        "It is synonymous with non-verbal communication such as body language."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in academic discourse, verbal communication is usually used in a wider sense, encompassing speech, writing, and gestures such as sign language.",
+        "Incorrect. The article says this restriction applies only to colloquial usage, not academic discourse.",
+        "Incorrect. The article includes spoken messages as part of verbal communication.",
+        "Incorrect. The article treats verbal and non-verbal communication as distinct categories."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what is the purpose of models of communication?",
+      "options": [
+        "To provide a simplified overview of the main components of communication and their interactions.",
+        "To replace empirical observation with theoretical diagrams.",
+        "To capture every essential aspect of communication with full complexity.",
+        "To serve only as visual diagrams without helping formulate hypotheses."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that models are simplified overviews of communication's main components and interactions, making it easier to formulate hypotheses and test predictions.",
+        "Incorrect. The article says models help researchers observe and categorize empirical phenomena, not replace them.",
+        "Incorrect. The article notes that models may lack the conceptual complexity needed for comprehensive understanding.",
+        "Incorrect. The article explicitly says models help researchers formulate hypotheses and test predictions."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Based on the article, how do transaction models differ from interaction models?",
+      "options": [
+        "Transaction models allow simultaneous sending and responding, whereas interaction models involve turn-taking.",
+        "Transaction models are linear, whereas interaction models include feedback loops.",
+        "Transaction models reject the idea that meaning is produced during communication.",
+        "Transaction models were developed before interaction models in the mid-20th century."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that transaction models allow representations of sending and responding at the same time, while interaction models represent two-way communication where communicators take turns.",
+        "Incorrect. The article describes linear models as one-directional and interaction models as including feedback; transaction models are not linear.",
+        "Incorrect. The article states that transaction models hold that meaning is produced during communication.",
+        "Incorrect. The article says all early models from the mid-20th century are linear transmission models, not transactional."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the article say about the ShannonâWeaver model?",
+      "options": [
+        "It is a linear transmission model that includes discussion of how noise can distort a signal.",
+        "It is an interaction model that emphasizes feedback loops in conversation.",
+        "It was the first transactional model proposed by Dean Barnlund.",
+        "It holds that communication is the production of meaning rather than messages."
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies the ShannonâWeaver model as an influential linear transmission model that discusses how noise may interfere with and distort the signal.",
+        "Incorrect. The article classifies ShannonâWeaver as linear, not interaction.",
+        "Incorrect. The article attributes the first transactional model to Dean Barnlund in 1970.",
+        "Incorrect. The production of meaning rather than messages is Barnlund's view, not the ShannonâWeaver model."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what is communicative competence?",
+      "options": [
+        "The ability to communicate well, including formulating and understanding messages.",
+        "The ability to speak multiple languages fluently.",
+        "The ability to transmit information without any noise or distortion.",
+        "The ability to communicate only through verbal means."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines communicative competence as the ability to communicate well and applies to the skills of formulating messages and understanding them.",
+        "Incorrect. The article does not define communicative competence in terms of multilingualism.",
+        "Incorrect. The article discusses noise in the ShannonâWeaver model but does not tie it to communicative competence.",
+        "Incorrect. The article does not restrict communicative competence to verbal communication."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, what does I. A. Richards's broad definition of communication state?",
+      "options": [
+        "Communication happens when one mind acts upon its environment to transmit its own experience to another mind.",
+        "Communication is the transmission of information through a source, message, encoder, channel, decoder, and receiver.",
+        "Communication is the production of meaning rather than the production of messages.",
+        "Communication requires conscious intent to make the recipient aware of the communicator's intention."
+      ],
+      "answer_explanations": [
+        "Correct. The article presents Richards's definition as communication happening when one mind acts upon its environment to transmit its own experience to another mind.",
+        "Incorrect. This describes Shannon and Weaver's characterization, not Richards's.",
+        "Incorrect. This describes Dean Barnlund's transactional view.",
+        "Incorrect. This describes Paul Grice's view, not Richards's."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is one reason most communication takes place between members of the same species?",
+      "options": [
+        "Its purpose is usually some form of cooperation, which is not as common between different species.",
+        "Different species lack the physical channels needed to transmit messages.",
+        "Interspecies communication is limited to symbiotic relationships only.",
+        "Members of different species cannot decode each other's messages."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that most communication occurs between members of the same species because its purpose is usually cooperation, which is less common between different species.",
+        "Incorrect. The article does not claim different species lack physical channels.",
+        "Incorrect. While the article mentions interspecies communication happens mainly in symbiotic relationships, this is not the reason given for why most communication is intraspecies.",
+        "Incorrect. The article does not state that cross-species decoding is impossible."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what is one key feature of human language compared to animal communication?",
+      "options": [
+        "It can refer to spatially and temporally distant objects and abstract ideas.",
+        "It is always verbal and excludes non-verbal forms.",
+        "It is used only for cooperation within the same species.",
+        "It relies solely on observable responses rather than meaning."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that human language can refer not just to concrete objects in the here-and-now but also to distant objects and abstract ideas.",
+        "Incorrect. The article explicitly includes writing and sign language under verbal communication and discusses non-verbal communication separately.",
+        "Incorrect. The article says animal communication is often for cooperation within species, not that human language is limited to this.",
+        "Incorrect. Observable responses are mentioned as a criterion for animal and plant communication, not as the basis of human language."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0081",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which property allows metals to conduct electricity according to the article?",
+      "options": [
+        "Electrons available at the Fermi level",
+        "High density compared to nonmetals",
+        "Malleability under stress",
+        "Reaction with oxygen to form oxides"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that properties like conductivity are associated with having electrons available at the Fermi level.",
+        "Incorrect. Higher density than nonmetals is mentioned but is not linked to electrical conductivity.",
+        "Incorrect. Malleability refers to shaping via hammering or pressing, not conductivity.",
+        "Incorrect. Reacting with oxygen to form oxides is a chemical property, not the cause of conductivity."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the article say about metals at absolute zero?",
+      "options": [
+        "A metal conducts electricity at absolute zero",
+        "Metals become insulators at absolute zero",
+        "Metals lose their luster at absolute zero",
+        "Metals cannot exist at absolute zero"
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly states that a metal conducts electricity at a temperature of absolute zero.",
+        "Incorrect. The article states the opposite: metals conduct electricity at absolute zero.",
+        "Incorrect. The article does not mention luster changing at absolute zero.",
+        "Incorrect. The article does not state that metals cannot exist at absolute zero."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is given as an example of a metal that is a molecular compound?",
+      "options": [
+        "Polymeric sulfur nitride",
+        "Iron",
+        "Stainless steel",
+        "Copper"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists polymeric sulfur nitride as a molecular compound that is a metal.",
+        "Incorrect. Iron is described as a chemical element, not a molecular compound.",
+        "Incorrect. Stainless steel is described as an alloy, not a molecular compound.",
+        "Incorrect. Copper is not mentioned as a molecular compound in the article."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, which element is the least dense metal?",
+      "options": [
+        "Lithium",
+        "Osmium",
+        "Magnesium",
+        "Iron"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that lithium is the least dense metal at 0.534 g/cm3.",
+        "Incorrect. Osmium is described as the most dense metal, not the least dense.",
+        "Incorrect. Magnesium is a light metal but not the least dense according to the article.",
+        "Incorrect. Iron is listed at 7.9 g/cm3, much denser than lithium."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which three common crystal structures are mentioned for simple metallic substances?",
+      "options": [
+        "Body-centered cubic, face-centered cubic, and hexagonal close-packed",
+        "Rock salt, perovskite, and diamond cubic",
+        "Simple cubic, tetragonal, and orthorhombic",
+        "Amorphous, glassy, and polycrystalline"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists body-centered cubic, face-centered cubic, and hexagonal close-packed as the three common crystal structures.",
+        "Incorrect. Rock salt and perovskite are mentioned as more complicated structures, not the three common ones.",
+        "Incorrect. Simple cubic, tetragonal, and orthorhombic are not mentioned in the article.",
+        "Incorrect. Amorphous and glassy are not listed as common crystal structures for simple metallic substances."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the WiedemannâFranz law state about many metals?",
+      "options": [
+        "The ratio between thermal and electrical conductivities is proportional to temperature",
+        "Thermal conductivity is independent of temperature",
+        "Electrical conductivity increases linearly with temperature",
+        "Thermal conductivity is always greater than electrical conductivity"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the WiedemannâFranz law says the ratio between thermal and electrical conductivities is proportional to temperature.",
+        "Incorrect. The article does not state that thermal conductivity is independent of temperature.",
+        "Incorrect. The article notes that electrical conductivity typically decreases with heating, not increases linearly.",
+        "Incorrect. The article does not claim thermal conductivity is always greater than electrical conductivity."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which metals are mentioned as not reacting with the atmosphere at all?",
+      "options": [
+        "Palladium, platinum, and gold",
+        "Potassium, iron, and sodium",
+        "Lithium, magnesium, and aluminium",
+        "Chromium, manganese, and osmium"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that palladium, platinum, and gold do not react with the atmosphere at all.",
+        "Incorrect. Potassium burns in seconds and iron rusts over years, so they do react.",
+        "Incorrect. These are light metals but the article does not say they do not react with the atmosphere.",
+        "Incorrect. The article does not state that these metals do not react with the atmosphere."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What happens to the electrical conductivity of metals typically when they are heated?",
+      "options": [
+        "It decreases",
+        "It increases",
+        "It remains unchanged",
+        "It becomes zero"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that typically, the electrical conductivity of metals decreases with heating.",
+        "Incorrect. The article states conductivity typically decreases, not increases, with heating.",
+        "Incorrect. The article indicates conductivity changes with heating, typically decreasing.",
+        "Incorrect. The article does not state that conductivity becomes zero when heated."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is the general science of metals called?",
+      "options": [
+        "Metallurgy",
+        "Condensed matter physics",
+        "Solid-state chemistry",
+        "Materials science"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the general science of metals is called metallurgy.",
+        "Incorrect. Condensed matter physics covers aspects of electronic and thermal properties, but is not the general science of metals.",
+        "Incorrect. Solid-state chemistry covers aspects of electronic and thermal properties, but is not the general science of metals.",
+        "Incorrect. Materials science is the broader field of which metallurgy is a subtopic."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is described in the article as a nonmetallic material?",
+      "options": [
+        "Polymers",
+        "Stainless steel",
+        "Iron",
+        "Gold"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists polymers as nonmetallic materials in colloquial use.",
+        "Incorrect. Stainless steel is described as an alloy and referred to as a metal.",
+        "Incorrect. Iron is described as a chemical element that is a metal.",
+        "Incorrect. Gold is described as a metal, not a nonmetallic material."
+      ]
+    }
+  ]
+}

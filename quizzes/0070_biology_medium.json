@@ -1,0 +1,167 @@
+{
+  "article_id": "0070",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is one of the five fundamental themes central to biology according to the article?",
+      "options": [
+        "Homeostasis, the maintenance of internal stability",
+        "The atmosphere as the primary source of genetic variation",
+        "Photosynthesis as the sole energy source for all organisms",
+        "Geological time as the basic unit of life"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists homeostasis, defined as the maintenance of internal stability, as one of the five fundamental themes central to biology.",
+        "Incorrect. The article does not identify the atmosphere as a source of genetic variation or as a fundamental theme of biology.",
+        "Incorrect. The article mentions energy transformation as a theme but does not state that photosynthesis is the sole energy source for all organisms.",
+        "Incorrect. The article identifies the cell as the basic unit of life, not geological time."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, what did Schleiden and Schwann promote in 1838?",
+      "options": [
+        "That the basic unit of organisms is the cell and that individual cells have all the characteristics of life",
+        "That all cells arise from the division of other cells",
+        "That spontaneous generation explains the origin of cells",
+        "That cells are not the fundamental units of organisms"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Schleiden and Schwann promoted the ideas that the basic unit of organisms is the cell and that individual cells have all the characteristics of life.",
+        "Incorrect. The article notes that Schleiden and Schwann opposed the idea that all cells come from the division of other cells; this third tenet was later supported by Remak and Virchow.",
+        "Incorrect. The article says Schleiden and Schwann continued to support spontaneous generation rather than promoting cell division as the origin of cells.",
+        "Incorrect. The article explicitly states that they promoted the cell as the basic unit of organisms."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does the article say about Gregor Mendel's work published in 1865?",
+      "options": [
+        "It outlined the principles of biological inheritance",
+        "It established DNA as the molecule carrying genes",
+        "It introduced the modern synthesis reconciling evolution and genetics",
+        "It demonstrated the double-helical structure of DNA"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Mendel's work in 1865 outlined the principles of biological inheritance.",
+        "Incorrect. The article credits Hershey and Chase with pointing to DNA as the component of chromosomes holding genes, not Mendel.",
+        "Incorrect. The article says the modern synthesis occurred in the early 20th century, reconciling Darwinian evolution with classical genetics, not in Mendel's 1865 work.",
+        "Incorrect. The article attributes the discovery of DNA's double-helical structure to Watson and Crick in 1953."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which fields are explicitly named in the article as subdisciplines of biology?",
+      "options": [
+        "Molecular biology, physiology, ecology, evolutionary biology, developmental biology, and systematics",
+        "Astronomy, geology, meteorology, and oceanography",
+        "Physics, chemistry, mathematics, and computer science",
+        "Anatomy, paleontology, pharmacology, and neuroscience only"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists molecular biology, physiology, ecology, evolutionary biology, developmental biology, and systematics as subdisciplines of biology.",
+        "Incorrect. Astronomy, geology, meteorology, and oceanography are not listed in the article as subdisciplines of biology.",
+        "Incorrect. Physics, chemistry, mathematics, and computer science are not named in the article as biology subdisciplines.",
+        "Incorrect. While some related fields may exist, the article does not list anatomy, paleontology, pharmacology, and neuroscience as the subdisciplines of biology."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does the article state about the discovery of DNA's structure?",
+      "options": [
+        "It was discovered by James Watson and Francis Crick in 1953",
+        "It was first described by Gregor Mendel in 1865",
+        "It was determined by Schleiden and Schwann in 1838",
+        "It was elucidated by Hershey and Chase in the 1940s"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the discovery of the double-helical structure of DNA by James Watson and Francis Crick occurred in 1953.",
+        "Incorrect. The article credits Mendel with outlining principles of inheritance in 1865, not with discovering DNA's structure.",
+        "Incorrect. Schleiden and Schwann are associated with cell theory in 1838, not with DNA's structure.",
+        "Incorrect. Hershey and Chase's experiments pointed to DNA as the genetic material, but the article attributes the double-helical structure discovery to Watson and Crick in 1953."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the focus of evolutionary developmental biology?",
+      "options": [
+        "Comparing developmental processes of different organisms to infer how they evolved",
+        "Studying only the molecular structure of DNA in eukaryotes",
+        "Classifying species based solely on physical appearance",
+        "Measuring energy flow through ecosystems"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that evolutionary developmental biology compares the developmental processes of different organisms to infer how developmental processes evolved.",
+        "Incorrect. The article does not describe evolutionary developmental biology as studying only DNA structure.",
+        "Incorrect. Classification based on physical appearance relates to taxonomy, not evolutionary developmental biology as described in the article.",
+        "Incorrect. Energy flow through ecosystems is associated with ecology and bioenergetics, not evolutionary developmental biology."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does the article identify as the basis of inheritance?",
+      "options": [
+        "Genes and heredity",
+        "Cell division and spontaneous generation",
+        "Environmental temperature and diet",
+        "Atmospheric gases and sunlight"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies genes and heredity as the basis of inheritance among the five fundamental themes of biology.",
+        "Incorrect. The article discusses cell division in the context of cell theory and mentions spontaneous generation as an opposed idea, not as the basis of inheritance.",
+        "Incorrect. Environmental temperature and diet are not identified in the article as the basis of inheritance.",
+        "Incorrect. Atmospheric gases and sunlight are not presented in the article as the basis of inheritance."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How does the article describe modern biology's relationship to evolution?",
+      "options": [
+        "Modern biology is grounded in the theory of evolution by natural selection",
+        "Modern biology rejects evolutionary theory in favor of spontaneous generation",
+        "Modern biology treats evolution as irrelevant to biological study",
+        "Modern biology considers evolution only in the context of paleontology"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that modern biology is grounded in the theory of evolution by natural selection, first articulated by Charles Darwin.",
+        "Incorrect. The article presents evolution as central to modern biology, not rejected.",
+        "Incorrect. The article emphasizes that evolution is central to modern biology, not irrelevant.",
+        "Incorrect. The article does not limit evolution to paleontology; it describes evolution as a unifying principle of biology."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What does the article say about the term \"biology\" in its modern sense?",
+      "options": [
+        "It appears to have been introduced independently by Thomas Beddoes, Karl Friedrich Burdach, Gottfried Reinhold Treviranus, and Jean-Baptiste Lamarck",
+        "It was coined by Aristotle in ancient Greece",
+        "It was first used by Carl Linnaeus in 1735",
+        "It originated with the publication of the Human Genome Project in 1990"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the term biology in its modern sense appears to have been introduced independently by Thomas Beddoes, Karl Friedrich Burdach, Gottfried Reinhold Treviranus, and Jean-Baptiste Lamarck.",
+        "Incorrect. Aristotle contributed to biological knowledge in ancient Greece, but the article does not credit him with coining the term biology.",
+        "Incorrect. Carl Linnaeus published a taxonomy in 1735, but the article does not say he coined the term biology.",
+        "Incorrect. The Human Genome Project was launched in 1990, but the article traces the modern term biology to the late 18th and early 19th centuries."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, what did the HersheyâChase experiments in the 1940s and early 1950s indicate?",
+      "options": [
+        "DNA is the component of chromosomes that holds genes",
+        "Proteins are the sole carriers of genetic information",
+        "RNA is the primary molecule of inheritance",
+        "Cells arise spontaneously from nonliving matter"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that experiments by Alfred Hershey and Martha Chase pointed to DNA as the component of chromosomes that held the trait-carrying units known as genes.",
+        "Incorrect. The article indicates DNA, not proteins, was identified as the component holding genes.",
+        "Incorrect. The article identifies DNA, not RNA, as the component of chromosomes holding genes in the HersheyâChase experiments.",
+        "Incorrect. The article associates spontaneous generation with ideas opposed by Schleiden and Schwann, not with the HersheyâChase experiments."
+      ]
+    }
+  ]
+}

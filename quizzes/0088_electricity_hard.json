@@ -1,0 +1,167 @@
+{
+  "article_id": "0088",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If two lightweight balls are both charged by touching them with the same rubbed glass rod, what will happen when they are brought near each other?",
+      "options": [
+        "They will repel each other",
+        "They will attract each other",
+        "They will have no effect on each other",
+        "They will neutralize each other's charge"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that if a similar ball is charged by the same glass rod, it is found to repel the first, illustrating the axiom that like-charged objects repel.",
+        "Incorrect. The article indicates attraction occurs only when one ball is charged by a glass rod and the other by an amber rod, not when both are charged by the same glass rod.",
+        "Incorrect. The article describes a clear repulsive force between two balls charged by the same glass rod.",
+        "Incorrect. The article does not mention that the balls neutralize each other; instead, they repel due to carrying the same type of charge."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, what did Benjamin Franklin's kite experiment in June 1752 demonstrate?",
+      "options": [
+        "That lightning was electrical in nature",
+        "That electricity could be stored in a Leyden jar",
+        "That positive and negative charges both exist",
+        "That electric fish could cure ailments"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that sparks jumping from the key to the back of Franklin's hand showed that lightning was indeed electrical in nature.",
+        "Incorrect. While Franklin explained the Leyden jar as a charge-storage device, the kite experiment itself demonstrated the electrical nature of lightning.",
+        "Incorrect. Franklin explained the Leyden jar in terms of positive and negative charges, but the kite experiment specifically showed lightning's electrical nature.",
+        "Incorrect. The use of electric fish to treat ailments is described in the ancient history section, not in connection with Franklin's kite experiment."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What did William Gilbert accomplish in his 1600 work De Magnete?",
+      "options": [
+        "He distinguished the lodestone effect from static electricity produced by rubbing amber",
+        "He discovered that lightning was electrical in nature",
+        "He invented the electric motor",
+        "He coined the term 'electric current'"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in De Magnete, Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber.",
+        "Incorrect. The demonstration that lightning was electrical in nature is attributed to Benjamin Franklin's kite experiment in 1752, not to Gilbert.",
+        "Incorrect. The electric motor was invented by Michael Faraday in 1821, long after Gilbert's work.",
+        "Incorrect. The article does not credit Gilbert with coining the term 'electric current'; he coined the word 'electricus' to refer to the property of attracting small objects after being rubbed."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What did Luigi Galvani's 1791 discovery demonstrate?",
+      "options": [
+        "That electricity was the medium by which neurons passed signals to the muscles",
+        "That electric eels could deliver powerful shocks",
+        "That a voltaic pile could provide a reliable source of electrical energy",
+        "That magnetism and electricity were unified phenomena"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Galvani's discovery of bioelectromagnetics demonstrated that electricity was the medium by which neurons passed signals to the muscles.",
+        "Incorrect. Hugh Williamson reported experiments on electric eel shocks in 1775, but this was not Galvani's 1791 discovery.",
+        "Incorrect. Alessandro Volta's voltaic pile of 1800 provided a reliable source of electrical energy, not Galvani's discovery.",
+        "Incorrect. The recognition of electromagnetism as the unity of electric and magnetic phenomena is attributed to Ãrsted and AmpÃ¨re in 1819â1820."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "If a new solid-state device confines current flow entirely within engineered solid elements and compounds designed to switch and amplify current, which concept from the article does this device exemplify?",
+      "options": [
+        "Solid-state electronics",
+        "Electrostatic machines",
+        "The photoelectric effect",
+        "The cat's-whisker detector"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines solid-state electronics as components in which current is confined to solid elements and compounds engineered specifically to switch and amplify it.",
+        "Incorrect. Electrostatic machines are described as earlier sources of electrical energy, not as devices where current is confined to engineered solid elements.",
+        "Incorrect. The photoelectric effect involves light energy carried in discrete quantized packets energizing electrons, not solid-state current confinement.",
+        "Incorrect. The cat's-whisker detector is described as the first solid-state device, but the general concept of confining current to engineered solid elements is solid-state electronics."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Based on the article, what can be concluded about the magnitude of charge any object can carry?",
+      "options": [
+        "It must be a multiple of the elementary charge",
+        "It can be any value smaller than the elementary charge",
+        "It is always exactly 1.602176634Ã10â19 coulombs",
+        "It is unrelated to the charge of protons and electrons"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that no object can have a charge smaller than the elementary charge, and any amount of charge an object may carry is a multiple of the elementary charge.",
+        "Incorrect. The article explicitly states that no object can have a charge smaller than the elementary charge.",
+        "Incorrect. The article gives the elementary charge as 1.602176634Ã10â19 coulombs but states that any charge is a multiple of this value, not that every object carries exactly this amount.",
+        "Incorrect. The article defines the charge of electrons as negative and protons as positive, establishing that object charge is directly related to these particles."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "If two objects both carry positive electric charge, what will be the force between them according to the article?",
+      "options": [
+        "They will repel each other",
+        "They will attract each other",
+        "There will be no force between them",
+        "The force will depend on their mass"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the axiom that like-charged objects repel and opposite-charged objects attract, so two positively charged objects will repel.",
+        "Incorrect. Attraction occurs between opposite-charged objects, not between two objects with the same positive charge.",
+        "Incorrect. The article describes an electrostatic force between charges; like charges produce a repulsive force, not no force.",
+        "Incorrect. The article describes the force in terms of charge and distance via Coulomb's law, not mass."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following best describes the relationship between electricity and magnetism as presented in the article?",
+      "options": [
+        "Both are part of the phenomenon of electromagnetism",
+        "Electricity is a subset of magnetism",
+        "Magnetism is a type of static electricity",
+        "They are completely unrelated phenomena"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations.",
+        "Incorrect. The article presents electricity and magnetism as related but distinct parts of electromagnetism, not as a subset relationship.",
+        "Incorrect. The article distinguishes static electricity from magnetic effects, noting Thales was incorrect in believing amber's attraction was magnetic.",
+        "Incorrect. The article explicitly states that electricity is related to magnetism as part of electromagnetism."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what role did electricity play in the late 19th century?",
+      "options": [
+        "It was the driving force behind the Second Industrial Revolution",
+        "It remained an intellectual curiosity with no practical use",
+        "It was used only for treating medical ailments with electric fish",
+        "It was primarily used to power electrostatic machines"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the rapid expansion in electrical technology in the late 19th century was the driving force behind the Second Industrial Revolution.",
+        "Incorrect. The article describes electricity as having become an essential tool for modern life by the late 19th century, not as merely an intellectual curiosity.",
+        "Incorrect. The use of electric fish for ailments is described in the ancient history section, not as the role of electricity in the late 19th century.",
+        "Incorrect. Electrostatic machines are mentioned as earlier sources of electrical energy, not as the primary late-19th-century application of electricity."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "If an engineer designs a circuit in which current is carried by positively charged electron deficiencies moving through a crystalline semiconductor, what does the article call these deficiencies?",
+      "options": [
+        "Holes",
+        "Protons",
+        "Antiparticles",
+        "Charge carriers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that current flow can be understood as positively charged electron deficiencies called holes.",
+        "Incorrect. Protons carry positive charge but are not described in the article as electron deficiencies in a semiconductor.",
+        "Incorrect. Antiparticles are mentioned as bearing equal and opposite charge to their corresponding particles, not as electron deficiencies in semiconductors.",
+        "Incorrect. Charge carriers is a general term for entities whose motion constitutes electric current, but the specific term for positively charged electron deficiencies is holes."
+      ]
+    }
+  ]
+}

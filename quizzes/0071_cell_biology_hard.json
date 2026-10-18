@@ -1,0 +1,167 @@
+{
+  "article_id": "0071",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A researcher discovers a novel unicellular organism whose cells contain a membrane-bound nucleus and mitochondria but lack a cell wall. Based on the article, which domain would this organism belong to?",
+      "options": [
+        "Eukaryota",
+        "Archaea",
+        "Bacteria",
+        "Prokaryota"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that eukaryotes have a nucleus and other membrane-bound organelles such as mitochondria, and that animal cells (a type of eukaryote) lack a cell wall.",
+        "Incorrect. The article indicates that Archaea lack a nucleus and have ether-linked lipids in their cell membranes.",
+        "Incorrect. The article states that Bacteria lack a nucleus and have peptidoglycan cell walls (or ester-linked lipids).",
+        "Incorrect. Prokaryota is not presented as a domain in the article; the three domains listed are Archaea, Bacteria, and Eukaryota."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "If a newly isolated microorganism is found to be sensitive to diphtheria toxin and possesses only one RNA polymerase, which domain does it most likely belong to according to the article's comparison table?",
+      "options": [
+        "Archaea",
+        "Bacteria",
+        "Eukaryota",
+        "None of the above"
+      ],
+      "answer_explanations": [
+        "Correct. The table lists Archaea as having one RNA polymerase and EF-2/EF-G that is sensitive to diphtheria toxin.",
+        "Incorrect. The table states that Bacteria have one RNA polymerase but are resistant to diphtheria toxin.",
+        "Incorrect. The table states that Eukaryota have many RNA polymerases and are sensitive to diphtheria toxin.",
+        "Incorrect. Archaea match both criteria given in the question."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "A biologist is studying a prokaryotic species that performs methanogenesis. Based on the article, which domain is this organism most likely part of?",
+      "options": [
+        "Archaea",
+        "Bacteria",
+        "Eukaryota",
+        "Cannot be determined"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that methanogenesis is unique to Archaea among the domains.",
+        "Incorrect. The article lists various bacterial metabolisms including photosynthesis and fermentation, but not methanogenesis.",
+        "Incorrect. The article states that eukaryotes perform photosynthesis, cellular respiration, and fermentation, but no diazotrophy; methanogenesis is not listed for them.",
+        "Incorrect. The article explicitly identifies methanogenesis as unique to Archaea."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a membrane-bound prokaryotic organelle mentioned in the article?",
+      "options": [
+        "Magnetosome",
+        "Ribosome",
+        "Nucleoid",
+        "Cell wall"
+      ],
+      "answer_explanations": [
+        "Correct. The article identifies the magnetosome as a unique membrane-bound prokaryotic organelle found in magnetotactic bacteria.",
+        "Incorrect. The article describes ribosomes as proteinaceous, membrane-less organelles present in both prokaryotes and eukaryotes.",
+        "Incorrect. The nucleoid is described as the region containing genetic material in prokaryotes, not as a membrane-bound organelle.",
+        "Incorrect. The cell wall is a structural layer outside the cell membrane, not a membrane-bound organelle."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, which of the following is true about the cell envelope of bacteria?",
+      "options": [
+        "It generally consists of a plasma membrane covered by a cell wall, sometimes with a third capsule layer.",
+        "It consists solely of a plasma membrane in all bacteria.",
+        "It is composed of ether-linked lipids unique to bacteria.",
+        "It is absent in Mycoplasma species."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that bacteria are enclosed in a cell envelope generally consisting of a plasma membrane covered by a cell wall, which for some bacteria is covered by a third gelatinous capsule layer.",
+        "Incorrect. The article notes that Mycoplasma only possess the cell membrane, but this is an exception, not the rule for all bacteria.",
+        "Incorrect. Ether-linked lipids are described as a feature of archaeal cell membranes, not bacterial cell envelopes.",
+        "Incorrect. The article states that Mycoplasma only possess the cell membrane, meaning they still have part of the envelope rather than lacking it entirely."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "A scientist engineers a eukaryotic cell to initiate protein synthesis with formylmethionine instead of methionine. Based on the article, how would this modification affect the cell's classification relative to the domains?",
+      "options": [
+        "It would make protein synthesis initiation resemble that of Bacteria rather than Eukaryota or Archaea.",
+        "It would make the cell a prokaryote.",
+        "It would have no effect on classification because initiation amino acid is not a defining trait.",
+        "It would make the cell resemble Archaea."
+      ],
+      "answer_explanations": [
+        "Correct. The table shows that Bacteria use formylmethionine for protein synthesis initiation, while Archaea and Eukaryota use methionine.",
+        "Incorrect. Changing the initiation amino acid does not alter the cell's fundamental structure, such as having a nucleus, so it would not become a prokaryote.",
+        "Incorrect. The article presents protein synthesis initiation as a distinguishing property among the domains in its comparison table.",
+        "Incorrect. The article lists methionine, not formylmethionine, as the initiation amino acid for Archaea."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Based on the article, which statement accurately describes a difference between archaea and bacteria regarding their cell-surface appendages for movement?",
+      "options": [
+        "Archaea use an archaellum, which is differently structured from bacterial flagella.",
+        "Bacteria use an archaellum, while archaea use flagella.",
+        "Both use identical flagella for movement.",
+        "Neither archaea nor bacteria possess cell-surface appendages for movement."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the archaeal equivalent of flagella is the differently structured and unique archaellum.",
+        "Incorrect. The article assigns the archaellum to archaea, not bacteria, and flagella to bacteria.",
+        "Incorrect. The article explicitly describes the archaellum as differently structured from bacterial flagella.",
+        "Incorrect. The article describes cell-surface appendages such as flagella in bacteria and the archaellum in archaea."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "A microbiologist observes that a certain prokaryote's EF-G is resistant to diphtheria toxin. According to the article's table, which domain does this organism belong to?",
+      "options": [
+        "Bacteria",
+        "Archaea",
+        "Eukaryota",
+        "Cannot be determined"
+      ],
+      "answer_explanations": [
+        "Correct. The table indicates that Bacteria have EF-G that is resistant to diphtheria toxin.",
+        "Incorrect. The table states that Archaea have EF-2 that is sensitive to diphtheria toxin.",
+        "Incorrect. The table states that Eukaryota have EF-2 that is sensitive to diphtheria toxin.",
+        "Incorrect. The table provides a clear match: resistance to diphtheria toxin is listed for Bacteria."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, which of the following best describes the relationship between cell theory and the discovery of cells?",
+      "options": [
+        "Cell theory was developed after Robert Hooke discovered cells in 1665.",
+        "Robert Hooke developed cell theory in 1665.",
+        "Cell theory was developed before cells were discovered.",
+        "Cell theory and the discovery of cells occurred in the same year."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Robert Hooke discovered cells in 1665, and that cell theory was developed later through the work of Schleiden in 1838 and Schwann in 1839.",
+        "Incorrect. The article attributes the discovery of cells to Hooke in 1665, but attributes cell theory to Schleiden and Schwann in the late 1830s.",
+        "Incorrect. The article presents the discovery of cells in 1665 as preceding the development of cell theory in 1838â1839.",
+        "Incorrect. The article gives 1665 for the discovery of cells and 1838â1839 for cell theory, which are different years."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "A synthetic biologist creates an artificial cell with ester-linked lipids in its membrane, multiple linear chromosomes, and many RNA polymerases. Based on the article, which domain does this artificial cell most closely resemble?",
+      "options": [
+        "Eukaryota",
+        "Archaea",
+        "Bacteria",
+        "None of the above"
+      ],
+      "answer_explanations": [
+        "Correct. The table lists Eukaryota as having ester-linked lipids, multiple linear chromosomes, and many RNA polymerases.",
+        "Incorrect. The table lists Archaea as having ether-linked lipids, circular chromosomes, and one RNA polymerase.",
+        "Incorrect. The table lists Bacteria as having ester-linked lipids but circular chromosomes and one RNA polymerase.",
+        "Incorrect. The combination of traits matches the Eukaryota column in the article's table."
+      ]
+    }
+  ]
+}

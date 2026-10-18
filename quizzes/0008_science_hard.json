@@ -1,0 +1,167 @@
+{
+  "article_id": "0008",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the primary reason formal sciences such as logic and mathematics are typically regarded as separate from modern science?",
+      "options": [
+        "They rely mainly on deductive reasoning instead of the scientific method.",
+        "They do not produce testable explanations about nature and society.",
+        "They are not practiced by the scientific community.",
+        "They lack institutional and professional features."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology.",
+        "Incorrect. The article does not say formal sciences are excluded because they fail to produce testable explanations about nature and society.",
+        "Incorrect. The article does not link the separation of formal sciences to whether they are practiced by the scientific community.",
+        "Incorrect. Institutional and professional features are discussed in relation to 19th-century science generally, not as the reason formal sciences are separate."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which statement best captures the article's explanation of why the Socratic method is considered a turning point in early philosophical science?",
+      "options": [
+        "It applied philosophy to human matters and used hypothesis elimination to scrutinize beliefs for consistency.",
+        "It introduced the concept of phusis or nature to distinguish natural phenomena from convention.",
+        "It established a systematic teleological programme of philosophy in the 4th century BCE.",
+        "It rejected supernatural explanations of natural phenomena for the first time."
+      ],
+      "answer_explanations": [
+        "Correct. The article describes Socrates' application of philosophy to human matters and the Socratic method as hypothesis elimination that identifies and eliminates hypotheses leading to contradictions.",
+        "Incorrect. The article attributes the concept of phusis to pre-Socratic philosophers, not to Socrates or the Socratic method.",
+        "Incorrect. Aristotle created the systematic teleological programme in the 4th century BCE, not Socrates.",
+        "Incorrect. The Milesian school philosophers were the first to explain natural phenomena without relying on the supernatural, not Socrates."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If a researcher today uses only deductive reasoning to develop a new mathematical proof without empirical observation or hypothesis testing, how would the article classify this activity?",
+      "options": [
+        "As part of the formal sciences, which are typically separate from modern science because they rely on deductive reasoning.",
+        "As modern science, because mathematics is one of the two major branches of science.",
+        "As applied science, because it uses scientific knowledge for practical purposes.",
+        "As natural philosophy, because it explains events in the physical world based on natural causes."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that logic, mathematics, and theoretical computer science are typically regarded as separate from modern science because they rely on deductive reasoning instead of the scientific method.",
+        "Incorrect. The article divides modern science into natural and social sciences; it does not classify mathematics as a branch of modern science.",
+        "Incorrect. Applied sciences use scientific knowledge for practical purposes such as engineering and medicine, which is not what a purely deductive mathematical proof does.",
+        "Incorrect. Natural philosophy sought explanations of physical events based on natural causes, whereas the article treats formal sciences as separate from this empirical tradition."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article indicate about the term 'scientist' before 1834?",
+      "options": [
+        "A person conducting scientific research was called a 'natural philosopher' or 'man of science'.",
+        "The term 'scientist' was already widely used to describe researchers in academic institutions.",
+        "The word 'scientist' originated in ancient Greek natural philosophy.",
+        "Only individual researchers, not teams, were referred to as scientists."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in the past, a person who conducted scientific research was called a 'natural philosopher' or 'man of science', and William Whewell introduced 'scientist' in 1834.",
+        "Incorrect. The article indicates that 'scientist' was introduced in 1834, so it was not already widely used before then.",
+        "Incorrect. The article traces 'science' to Latin scientia, not 'scientist' to ancient Greek natural philosophy.",
+        "Incorrect. The article does not say that only individual researchers were called scientists before 1834; it uses the general terms 'natural philosopher' or 'man of science'."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Based on the article, which of the following best describes the relationship between ancient Egyptian and Mesopotamian contributions and later Greek science?",
+      "options": [
+        "Their contributions to mathematics, astronomy, and medicine entered and shaped Greek natural philosophy.",
+        "They directly invented the scientific method that Greek philosophers later formalized.",
+        "Greek science rejected Egyptian and Mesopotamian knowledge as too focused on practical applications.",
+        "Greek natural philosophy was entirely independent of earlier Bronze Age developments."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Egyptian and Mesopotamian contributions to mathematics, astronomy, and medicine entered and shaped Greek natural philosophy of classical antiquity.",
+        "Incorrect. The article does not credit Egyptians or Mesopotamians with inventing the scientific method.",
+        "Incorrect. The article says their contributions shaped Greek science, not that Greek science rejected them.",
+        "Incorrect. The article explicitly describes a transmission of knowledge from these civilizations to Greek and medieval science."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what was a key difference between ancient Mesopotamian scientific subjects and modern scientific curiosity?",
+      "options": [
+        "Mesopotamians studied subjects with practical or religious applications and had little interest in satisfying curiosity.",
+        "Mesopotamians focused exclusively on astronomy and ignored medicine and mathematics.",
+        "Mesopotamians used the scientific method to test hypotheses about natural causes.",
+        "Mesopotamians were primarily interested in theoretical knowledge rather than practical applications."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Mesopotamians seem to have studied scientific subjects with practical or religious applications and had little interest in satisfying curiosity.",
+        "Incorrect. The article lists many Mesopotamian interests, including animal physiology, anatomy, medicine, and manufacturing, not exclusively astronomy.",
+        "Incorrect. The article attributes the greater role of the scientific method to later periods, not to ancient Mesopotamia.",
+        "Incorrect. The article emphasizes Mesopotamian practical and religious applications, not theoretical knowledge for its own sake."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does the article suggest about the status of women in prehistoric science?",
+      "options": [
+        "Women likely played a central role in prehistoric science.",
+        "Women were excluded from prehistoric scientific activities.",
+        "Women's contributions to prehistoric science are well documented in written records.",
+        "Women only participated in religious rituals, not in scientific thinking."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that women likely played a central role in prehistoric science, as did religious rituals.",
+        "Incorrect. The article says the opposite: women likely played a central role.",
+        "Incorrect. The article notes that few details are known about the very earliest developments, so women's contributions are not well documented.",
+        "Incorrect. The article mentions women and religious rituals separately as contributors to prehistoric science."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the article, why was Aristarchus of Samos's heliocentric model widely rejected in antiquity?",
+      "options": [
+        "It was believed to violate the laws of physics.",
+        "It lacked mathematical support compared with Ptolemy's geocentric model.",
+        "It contradicted religious doctrine of the time.",
+        "It was not published until the Renaissance."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Aristarchus's heliocentric model was widely rejected because it was believed to violate the laws of physics.",
+        "Incorrect. The article does not mention a lack of mathematical support as the reason for rejection.",
+        "Incorrect. The article does not cite religious doctrine as the reason for rejection.",
+        "Incorrect. Aristarchus lived in the 3rd century BCE, long before the Renaissance."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "If a modern research team at a university and a company collaboratively develops a new health-care technology, which feature of contemporary scientific research described in the article does this scenario illustrate?",
+      "options": [
+        "Contemporary scientific research is often highly collaborative and carried out by teams in academic and research institutions, government agencies, and companies.",
+        "Major advances in fundamental science come primarily from individual researchers.",
+        "Science policies prioritize commercial products over health care and environmental protection.",
+        "The term 'natural philosopher' has replaced 'scientist' in contemporary research settings."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that contemporary scientific research is often highly collaborative and frequently carried out by teams in academic and research institutions, government agencies, and companies.",
+        "Incorrect. The article says many major advances in fundamental science have come from individual researchers, which contrasts with the collaborative team scenario.",
+        "Incorrect. The article says science policies seek to prioritize responsible development across several areas including health care, not that they prioritize commercial products over health care.",
+        "Incorrect. The article says 'natural philosopher' was a past term, not a contemporary replacement for 'scientist'."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following best reflects the article's characterization of the Scientific Revolution?",
+      "options": [
+        "It began in the 16th century and transformed natural philosophy as new ideas departed from previous Greek conceptions and traditions.",
+        "It introduced the HinduâArabic numeral system to Western Europe.",
+        "It occurred during the Islamic Golden Age and focused on medical prescriptions.",
+        "It established the formal sciences as a separate branch from natural and social sciences."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Scientific Revolution began in the 16th century and transformed natural philosophy as new ideas and discoveries departed from previous Greek conceptions and traditions.",
+        "Incorrect. The article says the HinduâArabic numeral system was introduced during the Golden Age of India and the Islamic Golden Age, not the Scientific Revolution.",
+        "Incorrect. The Islamic Golden Age is discussed separately from the Scientific Revolution, and medical prescriptions are linked to ancient Mesopotamia.",
+        "Incorrect. The article discusses formal sciences as separate because of deductive reasoning, not as an outcome of the Scientific Revolution."
+      ]
+    }
+  ]
+}

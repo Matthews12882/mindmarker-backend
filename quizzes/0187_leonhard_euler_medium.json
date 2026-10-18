@@ -1,0 +1,167 @@
+{
+  "article_id": "0187",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following mathematical notations is attributed to Leonhard Euler according to the article?",
+      "options": [
+        "Using f(x) to denote the value of a function",
+        "Using the letter n to represent natural numbers",
+        "Using the symbol â to represent infinity",
+        "Using the letter q to represent rational numbers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler was first to use the notation f(x) for the value of a function.",
+        "Incorrect. The article does not attribute the use of n for natural numbers to Euler.",
+        "Incorrect. The article does not mention Euler introducing the infinity symbol â.",
+        "Incorrect. The article does not credit Euler with using q for rational numbers."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What problem partly motivated Leonhard Euler's development of graph theory?",
+      "options": [
+        "The Seven Bridges of KÃ¶nigsberg problem",
+        "The Basel problem",
+        "The problem of placing masts on a ship",
+        "The problem of beam bending and column critical loads"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler developed graph theory partly as a solution for the problem of the Seven Bridges of KÃ¶nigsberg.",
+        "Incorrect. The Basel problem is mentioned as a separate unsolved problem Euler solved, not as the origin of graph theory.",
+        "Incorrect. The ship mast problem was a Paris Academy prize competition Euler entered, not the basis for graph theory.",
+        "Incorrect. Beam bending and column critical loads are mentioned as applied mathematics contributions, unrelated to graph theory's origin."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following did Euler accomplish while at the Berlin Academy?",
+      "options": [
+        "He published Introductio in analysin infinitorum in 1748.",
+        "He received a Master of Philosophy degree.",
+        "He won the Paris Academy prize competition for the first time.",
+        "He was made a professor of physics in 1731."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in 1748 his text on functions called the Introductio in analysin infinitorum was published during his Berlin period.",
+        "Incorrect. Euler received his Master of Philosophy in 1723 at the University of Basel, before moving to Berlin.",
+        "Incorrect. Euler first entered the Paris Academy prize competition in 1727, before his Berlin period.",
+        "Incorrect. Euler was made a professor of physics in 1731 while in Saint Petersburg, not Berlin."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What did Euler write to Friederike Charlotte of Brandenburg-Schwedt?",
+      "options": [
+        "Over 200 letters later compiled into Letters of Euler on different Subjects in Natural Philosophy Addressed to a German Princess",
+        "A mathematical treatise on differential calculus",
+        "A two-volume work on mechanics titled Mechanica",
+        "Three volumes on optics"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler wrote over 200 letters to the princess in the early 1760s, later compiled into Letters of Euler on different Subjects in Natural Philosophy Addressed to a German Princess.",
+        "Incorrect. Institutiones calculi differentialis was a text on differential calculus published in 1755, not written to the princess.",
+        "Incorrect. Mechanica was Euler's two-volume work on mechanics reformulating Newton's laws, not correspondence with the princess.",
+        "Incorrect. The three volumes on optics contributed to microscope and telescope design, not written to the princess."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, how did Frederick II of Prussia view Euler?",
+      "options": [
+        "He found Euler unsophisticated and ill-informed on matters beyond numbers and figures.",
+        "He considered Euler a skilled debater and sophisticated court intellectual.",
+        "He appointed Euler as president of the Berlin Academy.",
+        "He regarded Euler as the polar opposite of Voltaire in prestige."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Frederick II found the mathematician unsophisticated and ill-informed on matters beyond numbers and figures.",
+        "Incorrect. The article says Euler was not a skilled debater, contrary to this option.",
+        "Incorrect. The article states that Frederick II named himself as president of the academy, not Euler.",
+        "Incorrect. While Euler was the polar opposite of Voltaire, the article does not say Frederick regarded Euler this way in terms of prestige."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did Euler's father do for a living?",
+      "options": [
+        "He was a pastor of the Reformed Church.",
+        "He was a professor of mathematics at the University of Basel.",
+        "He was a theologian who tutored Euler privately.",
+        "He was a scholar of the classics."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler's father, Paul III Euler, was a pastor of the Reformed Church.",
+        "Incorrect. Johann Bernoulli, not Euler's father, was the professor of mathematics at the University of Basel.",
+        "Incorrect. Johannes Burckhardt was the private tutor, not Euler's father.",
+        "Incorrect. Euler's mother Marguerite's ancestors were scholars of the classics, not his father."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What happened when Euler applied for a physics professorship at the University of Basel?",
+      "options": [
+        "He was unsuccessful in obtaining the position.",
+        "He was appointed to the position immediately.",
+        "He declined the offer to stay in Saint Petersburg.",
+        "He won the Paris Academy prize competition instead."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler delayed his trip to Saint Petersburg while he unsuccessfully applied for a physics professorship at the University of Basel.",
+        "Incorrect. The article explicitly says his application was unsuccessful.",
+        "Incorrect. Euler did go to Saint Petersburg; he did not decline an offer to stay there.",
+        "Incorrect. The Paris Academy prize competition is a separate event mentioned elsewhere in the article."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is true about Euler's time in Saint Petersburg?",
+      "options": [
+        "He succeeded Daniel Bernoulli as head of the mathematics department.",
+        "He was made president of the Imperial Russian Academy of Sciences.",
+        "He declined an offer to move to Berlin in 1740 and never left Russia.",
+        "He was prevented from corresponding with the academy's secretary."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that when Daniel Bernoulli left for Basel, Euler succeeded him as head of the mathematics department.",
+        "Incorrect. The article does not say Euler was made president of the academy; Frederick II named himself president of the Berlin Academy.",
+        "Incorrect. Although Frederick II attempted to recruit Euler in 1740, Euler eventually moved to Berlin in 1741.",
+        "Incorrect. The article describes a lengthy correspondence with Johann Daniel Schumacher, not prevention of correspondence."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What did Euler do in 1731 regarding the Russian Navy?",
+      "options": [
+        "He left the Russian Navy, refusing a promotion to lieutenant.",
+        "He joined the Russian Navy as a medic.",
+        "He was promoted to lieutenant in the Russian Navy.",
+        "He began studying ship masts for the Russian Navy."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in 1731 Euler left the Russian Navy, refusing a promotion to lieutenant.",
+        "Incorrect. Euler had already taken on a job as a medic in the Russian Navy before 1731; in 1731 he left it.",
+        "Incorrect. The article says he refused a promotion to lieutenant, not that he accepted one.",
+        "Incorrect. The ship mast problem was part of the Paris Academy prize competition, not a Russian Navy study."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is one of Euler's contributions to physics mentioned in the article?",
+      "options": [
+        "He reformulated Newton's laws of motion into Euler's laws of motion in Mechanica.",
+        "He discovered the law of universal gravitation.",
+        "He invented the telescope.",
+        "He formulated the three laws of thermodynamics."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Euler reformulated Isaac Newton's laws of motion into new laws in his two-volume work Mechanica to better explain the motion of rigid bodies.",
+        "Incorrect. The article does not attribute the law of universal gravitation to Euler; Newton's laws are mentioned instead.",
+        "Incorrect. Euler's optics work contributed to telescope design, but he did not invent the telescope.",
+        "Incorrect. The laws of thermodynamics are not mentioned in the article."
+      ]
+    }
+  ]
+}

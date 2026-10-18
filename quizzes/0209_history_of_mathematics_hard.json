@@ -1,0 +1,167 @@
+{
+  "article_id": "0209",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which ancient civilization is credited with developing the sexagesimal (base-60) numeral system?",
+      "options": [
+        "The Babylonians",
+        "The Egyptians",
+        "The Greeks",
+        "The Romans"
+      ],
+      "answer_explanations": [
+        "Correct. The Babylonians used a sexagesimal (base-60) numeral system, which is why we have 60 seconds in a minute and 360 degrees in a circle.",
+        "Incorrect. While the Egyptians had their own numeral system, they did not use a base-60 system.",
+        "Incorrect. Greek mathematics used a different approach, focusing on geometry and deductive reasoning rather than a base-60 system.",
+        "Incorrect. Roman mathematics was primarily applied, used for engineering and bookkeeping, and they employed Roman numerals."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the name of the Babylonian clay tablet that provides an approximation of â2 accurate to five decimal places?",
+      "options": [
+        "YBC 7289",
+        "Plimpton 322",
+        "Rhind Mathematical Papyrus",
+        "Moscow Mathematical Papyrus"
+      ],
+      "answer_explanations": [
+        "Correct. The YBC 7289 tablet contains a highly accurate approximation of â2.",
+        "Incorrect. Plimpton 322 is a Babylonian tablet containing Pythagorean triples, not â2.",
+        "Incorrect. The Rhind Papyrus is an Egyptian mathematical text, not a Babylonian tablet.",
+        "Incorrect. The Moscow Papyrus is another Egyptian document, not related to â2."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which early civilization is associated with the Ishango bone, and what does it possibly represent?",
+      "options": [
+        "The Congo region; a tally of prime numbers or a lunar calendar",
+        "The Sumerians; a multiplication table",
+        "The Ancient Egyptians; a geometric design",
+        "The Neanderthals; a counting system for tools"
+      ],
+      "answer_explanations": [
+        "Correct. The Ishango bone, found near the Nile in the Congo region, may represent either a tally of prime numbers or a sixâmonth lunar calendar.",
+        "Incorrect. The Ishango bone is not linked to the Sumerians or multiplication tables.",
+        "Incorrect. The Ishango bone is not an Egyptian geometric design.",
+        "Incorrect. While Neanderthals used yarn, the Ishango bone is not associated with them."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which ancient text is considered the most extensive Egyptian mathematical document, dated to c. 1650 BC?",
+      "options": [
+        "The Rhind Papyrus",
+        "The Moscow Papyrus",
+        "The Edwin Smith Papyrus",
+        "The Kahun Papyrus"
+      ],
+      "answer_explanations": [
+        "Correct. The Rhind Papyrus is the largest surviving Egyptian mathematical text, serving as an instructional manual for arithmetic and geometry.",
+        "Incorrect. The Moscow Papyrus is also significant but shorter than the Rhind Papyrus.",
+        "Incorrect. The Edwin Smith Papyrus focuses on medicine, not mathematics.",
+        "Incorrect. The Kahun Papyrus, while mathematical, is not as extensive as the Rhind Papyrus."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What concept did the Maya civilization notably develop regarding zero?",
+      "options": [
+        "A standard symbol for zero in Maya numerals",
+        "A zero placeholder in their calendar",
+        "A zero as a number in calculations",
+        "A zero used in their architectural designs"
+      ],
+      "answer_explanations": [
+        "Correct. The Maya gave zero a standard symbol within their numeral system, a notable development in the Americas.",
+        "Incorrect. While the Maya had a calendar, the key innovation was the symbolic representation of zero.",
+        "Incorrect. The Maya used zero symbolically rather than as a computational number.",
+        "Incorrect. Maya architecture used zero symbolically but not as a primary concept."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which mathematician is credited with the development of infinitesimal calculus in the 17th century, alongside Leibniz?",
+      "options": [
+        "Isaac Newton",
+        "Gottfried Wilhelm Leibniz",
+        "Carl Friedrich Gauss",
+        "David Hilbert"
+      ],
+      "answer_explanations": [
+        "Correct. Isaac Newton coâdeveloped infinitesimal calculus, along with Gottfried Wilhelm Leibniz.",
+        "Incorrect. Leibniz is also a coâdeveloper, but the question asks for the mathematician alongside Leibniz.",
+        "Incorrect. Gauss and Hilbert contributed later, not to the initial calculus development.",
+        "Incorrect. Hilbert's work came much later in the 19thâ20th centuries."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What does the article state about the earliest mathematical texts available?",
+      "options": [
+        "They are from Mesopotamia and Egypt, including Plimpton 322, the Rhind Papyrus, and the Moscow Papyrus.",
+        "They are from the Indus Valley civilization.",
+        "They are from the Ancient Greeks.",
+        "They are from the Roman Empire."
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the earliest known mathematical texts as those from Mesopotamia (Plimpton 322) and Egypt (Rhind and Moscow papyri).",
+        "Incorrect. The Indus Valley is not mentioned as having early mathematical texts in the article.",
+        "Incorrect. Greek mathematics came later, after these early texts.",
+        "Incorrect. Roman mathematics was later and not among the earliest texts."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which ancient civilization introduced the concept of negative numbers?",
+      "options": [
+        "Chinese mathematics",
+        "Babylonian mathematics",
+        "Egyptian mathematics",
+        "Greek mathematics"
+      ],
+      "answer_explanations": [
+        "Correct. Chinese mathematics made early contributions, including the first use of negative numbers.",
+        "Incorrect. Babylonian mathematics did not introduce negative numbers.",
+        "Incorrect. Egyptian mathematics did not include negative numbers.",
+        "Incorrect. Greek mathematics did not introduce negative numbers."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what is one reason the sexagesimal system may have been chosen by Sumerian scribes?",
+      "options": [
+        "Because 60 can be evenly divided by many numbers, making hand calculations easier",
+        "Because it was inherited from the Akkadians",
+        "Because it aligned with the lunar cycle",
+        "Because it was mandated by religious law"
+      ],
+      "answer_explanations": [
+        "Correct. The article suggests the sexagesimal system was pragmatically easier for hand calculations due to 60's many divisors.",
+        "Incorrect. The article does not mention inheritance from the Akkadians as a reason.",
+        "Incorrect. While the lunar cycle is related to time, the article does not cite it as the reason for base-60.",
+        "Incorrect. Religious law is not mentioned as a factor."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article say about the development of zero in Babylonian mathematics?",
+      "options": [
+        "They developed a zero symbol as a placeholder for empty positions, but only for intermediate positions.",
+        "They had a fully developed zero as a number.",
+        "They never used any placeholder for zero.",
+        "They used zero only in terminal positions."
+      ],
+      "answer_explanations": [
+        "Correct. The article notes that by the Seleucid period, Babylonians had a zero placeholder for intermediate positions, but not for terminal ones.",
+        "Incorrect. The Babylonians did not have a fully developed zero as a number.",
+        "Incorrect. They did use a zero placeholder, though limited.",
+        "Incorrect. Their zero placeholder was not used in terminal positions."
+      ]
+    }
+  ]
+}

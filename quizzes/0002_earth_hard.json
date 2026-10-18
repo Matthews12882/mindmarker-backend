@@ -1,0 +1,167 @@
+{
+  "article_id": "0002",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what role does Earth's liquid outer core play in relation to solar winds?",
+      "options": [
+        "It generates a magnetosphere capable of deflecting most destructive solar winds",
+        "It absorbs solar winds directly into Earth's interior",
+        "It converts solar winds into atmospheric oxygen",
+        "It reflects solar winds back toward the Sun"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Earth's liquid outer core generates a magnetosphere capable of deflecting most of the destructive solar winds.",
+        "Incorrect. The article does not state that the outer core absorbs solar winds directly.",
+        "Incorrect. The article does not mention the outer core converting solar winds into oxygen.",
+        "Incorrect. The article describes deflection by the magnetosphere, not reflection back toward the Sun."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the article identify as the primary driver of atmospheric and ocean currents?",
+      "options": [
+        "Differences in the amount of captured solar energy between geographic regions",
+        "The rotation of Earth on its axis",
+        "The gravitational pull of the Moon",
+        "Volcanic outgassing from Earth's interior"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that differences in captured energy between geographic regions drive atmospheric and ocean currents.",
+        "Incorrect. While Earth's rotation is mentioned elsewhere, the article does not identify it as the driver of currents.",
+        "Incorrect. The Moon's gravity is linked to tides and axial stabilization, not to driving currents.",
+        "Incorrect. Volcanic outgassing is discussed in the context of atmosphere and ocean formation, not current generation."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Based on the article's description of Earth's water distribution, which statement is most accurate?",
+      "options": [
+        "Most of Earth's water is contained in the ocean, while ice sheets at the poles retain more water than groundwater, lakes, rivers, and atmospheric water combined",
+        "Groundwater contains more water than Earth's polar ice sheets",
+        "Atmospheric water represents the largest reservoir of water on Earth",
+        "Lakes and rivers together hold more water than the ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that almost all of Earth's water is in the ocean and that polar ice sheets retain more water than groundwater, lakes, rivers, and atmospheric water combined.",
+        "Incorrect. The article states the opposite: ice sheets retain more water than groundwater.",
+        "Incorrect. Atmospheric water is listed among the smaller reservoirs, not the largest.",
+        "Incorrect. The ocean covers 70.8% of the crust and holds almost all water, far exceeding lakes and rivers."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What does the article indicate about Earth's position among rocky planets in the Solar System?",
+      "options": [
+        "It is the largest and most massive of the four rocky planets",
+        "It is the smallest of the four rocky planets",
+        "It is the second largest rocky planet after Venus",
+        "It is tied with Mars as the most massive rocky planet"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that of the four rocky planets, Earth is the largest and most massive.",
+        "Incorrect. The article explicitly says Earth is the largest, not the smallest.",
+        "Incorrect. The article does not rank Venus above Earth; it says Earth is the largest of the rocky planets.",
+        "Incorrect. The article does not mention a tie with Mars; it states Earth is the most massive rocky planet."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "If a newly discovered planet had no liquid outer core, what could be inferred about its ability to protect surface life from solar winds based on the article's explanation of Earth?",
+      "options": [
+        "It would likely lack a magnetosphere capable of deflecting most destructive solar winds",
+        "It would automatically have a thicker atmosphere that blocks solar winds",
+        "It would generate stronger ocean currents to compensate for radiation exposure",
+        "It would rotate faster, naturally deflecting solar winds"
+      ],
+      "answer_explanations": [
+        "Correct. The article links Earth's liquid outer core to the generation of a magnetosphere that deflects solar winds, so without one, similar protection would not be expected.",
+        "Incorrect. The article does not claim that atmospheric thickness substitutes for a magnetosphere in deflecting solar winds.",
+        "Incorrect. Ocean currents are driven by energy differences and are not described as a defense against solar winds.",
+        "Incorrect. Rotation rate is not presented in the article as a mechanism for deflecting solar winds."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the article state about the Moon's gravitational effects on Earth?",
+      "options": [
+        "It helps stabilize Earth's axis, causes tides, and gradually slows Earth's rotation",
+        "It generates Earth's magnetosphere and deflects solar winds",
+        "It creates Earth's seasons by changing the axial tilt",
+        "It prevents atmospheric stripping by the solar wind"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Moon's gravity helps stabilize Earth's axis, causes tides, and gradually slows Earth's rotation.",
+        "Incorrect. The magnetosphere is generated by Earth's liquid outer core, not the Moon.",
+        "Incorrect. Seasons are produced by Earth's axial tilt, not created by the Moon changing that tilt.",
+        "Incorrect. The article attributes protection from solar wind stripping to Earth's magnetic field, not the Moon."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what is the relationship between greenhouse gases and Earth's average surface temperature?",
+      "options": [
+        "Greenhouse gases capture energy from the Sun's light, maintaining an average surface temperature of 14.76 Â°C at which water is liquid",
+        "Greenhouse gases block all solar energy, keeping Earth's surface below freezing",
+        "Greenhouse gases have no measurable effect on surface temperature",
+        "Greenhouse gases cool the surface by reflecting sunlight back into space"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that greenhouse gases capture energy from the Sun's light, maintaining the current average surface temperature of 14.76 Â°C.",
+        "Incorrect. The article describes greenhouse gases as capturing energy to maintain liquid water, not blocking all solar energy.",
+        "Incorrect. The article explicitly credits greenhouse gases with maintaining the temperature that allows liquid water.",
+        "Incorrect. The article says greenhouse gases capture energy, not that they cool the surface by reflecting sunlight."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does the article indicate about the timing of the Great Oxidation Event?",
+      "options": [
+        "It occurred two billion years ago as life altered Earth's atmosphere",
+        "It occurred 300,000 years ago when humans emerged",
+        "It occurred 4.5 billion years ago during Earth's formation",
+        "It occurred 4.4 billion years ago when felsic crust first formed"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that life led to the Great Oxidation Event two billion years ago.",
+        "Incorrect. The article says humans emerged 300,000 years ago, which is unrelated to the Great Oxidation Event.",
+        "Incorrect. Earth formed about 4.5 billion years ago, but the Great Oxidation Event is dated to two billion years ago.",
+        "Incorrect. Felsic crust evidence dates to 4.4 Ga, but the Great Oxidation Event occurred much later, two billion years ago."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Based on the article's etymology section, which statement about the word *Earth* is supported?",
+      "options": [
+        "The word developed from an Old English noun most often spelled *eorÃ°e* and has cognates in every Germanic language",
+        "The word was coined during Early Modern English and has no Germanic cognates",
+        "The word derives directly from Latin *terra* without any Old English intermediary",
+        "The word was always capitalized in English from its earliest attestation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Modern English *Earth* developed from an Old English noun most often spelled *eorÃ°e* and has cognates in every Germanic language.",
+        "Incorrect. The article traces the word to Old English, not to a coinage in Early Modern English.",
+        "Incorrect. While *eorÃ°e* translated Latin *terra*, the article says the English word developed from Old English, not directly from Latin.",
+        "Incorrect. The article notes that historically *Earth* was written in lowercase and capitalization conventions varied over time."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article state about the formation of Earth's first continental crust?",
+      "options": [
+        "It formed by the partial melting of mafic crust and was more felsic in composition",
+        "It formed directly from the solar nebula without any melting process",
+        "It was identical in composition to the first solid mafic crust",
+        "It was delivered to Earth by comets and asteroids after formation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the first continental crust, more felsic in composition, formed by the partial melting of mafic crust.",
+        "Incorrect. The article describes crust formation through cooling and partial melting, not direct formation from the solar nebula.",
+        "Incorrect. The article contrasts felsic continental crust with the mafic composition of the first solid crust.",
+        "Incorrect. While comets and asteroids are mentioned as augmenting water, the article does not say they delivered continental crust."
+      ]
+    }
+  ]
+}

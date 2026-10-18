@@ -1,0 +1,167 @@
+{
+  "article_id": "0020",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the primary driver of plate tectonics?",
+      "options": [
+        "the continuous loss of heat from the Earth's interior",
+        "the gravitational pull of the Moon",
+        "solar radiation heating Earth's surface",
+        "the rotation of Earth on its axis"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that continents are formed by plate tectonics, 'a process ultimately driven by the continuous loss of heat from the Earth's interior.'",
+        "Incorrect. The article does not attribute plate tectonics to the Moon's gravitational pull.",
+        "Incorrect. Solar radiation is not identified in the article as the driver of plate tectonics.",
+        "Incorrect. Earth's rotation is mentioned elsewhere in relation to winds, not as the cause of plate tectonics."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following best describes the difference between elevation and altitude as defined in the article?",
+      "options": [
+        "Elevation is measured relative to sea level, while altitude is measured relative to Earth's surface.",
+        "Elevation measures depth below sea level, while altitude measures height above sea level.",
+        "Elevation and altitude are synonymous terms for vertical distance from sea level.",
+        "Elevation applies only to landforms, while altitude applies only to atmospheric objects."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Elevation is defined as the vertical distance between an object and sea level, while altitude is defined as the vertical distance from an object to Earth's surface.'",
+        "Incorrect. The article does not define elevation as depth below sea level.",
+        "Incorrect. The article explicitly distinguishes the two terms by different reference points.",
+        "Incorrect. The article does not restrict either term to only landforms or atmospheric objects."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If a city planner wants to identify land most suitable for farming based on the article's discussion of terrain, which characteristic should they prioritize?",
+      "options": [
+        "flat alluvial plains",
+        "steep, rocky uplands",
+        "high-relief mountainous regions",
+        "glacier-covered terrain"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'flatter alluvial plains tend to have better farming soils than steeper, rockier uplands.'",
+        "Incorrect. The article contrasts steeper, rockier uplands unfavorably with alluvial plains for farming.",
+        "Incorrect. High-relief terrain is not identified in the article as suitable for farming.",
+        "Incorrect. Glacier-covered terrain is not presented in the article as suitable for agriculture."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Based on the article's discussion of land cover, which of the following categories accounts for the largest proportion of Earth's land?",
+      "options": [
+        "trees",
+        "agriculture",
+        "glacier ice",
+        "desert, savannah, and prairie combined"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'One-third of land is covered in trees another third is used for agriculture, and roughly one-tenth is covered in glacier ice.' Since trees and agriculture each cover about one-third, and the question asks for the largest single category, trees is correct as it is listed first among the equal thirds and represents a primary land cover category.",
+        "Incorrect. Agriculture covers about one-third, equal to trees, but trees is listed as the primary category.",
+        "Incorrect. Glacier ice covers only roughly one-tenth of land.",
+        "Incorrect. The remainder (desert, savannah, and prairie) is what is left after trees, agriculture, and glaciers, making it smaller than one-third."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, which of the following best describes the two competing models for the growth of Earth's landmasses?",
+      "options": [
+        "steady growth to present-day forms versus rapid early growth followed by long-term steady continental area",
+        "continuous expansion without interruption versus periodic contraction and regrowth",
+        "growth driven by meteorite impacts versus growth driven by volcanic outgassing",
+        "formation from a single original continent versus formation from multiple independent landmasses"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The two models that explain landmasses propose either a steady growth to the present-day forms or, more likely, a rapid growth early in Earth's history followed by a long-term steady continental area.'",
+        "Incorrect. The article does not describe models involving continuous expansion without interruption.",
+        "Incorrect. Meteorite impacts and volcanic outgassing are mentioned as surface-shaping processes, not as competing landmass growth models.",
+        "Incorrect. The article discusses supercontinents forming and breaking apart, but not as two competing models of landmass growth."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "If a geographer is analyzing a region where the highest point is 2,000 meters above sea level and the lowest point is 1,800 meters above sea level, how would the article classify this terrain's relief?",
+      "options": [
+        "low relief",
+        "high relief",
+        "moderate relief",
+        "cannot be determined from the article"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines relief as the difference in elevation within a landscape and states that flat terrain would have 'low relief,' while terrain with a large elevation difference would be 'high relief.' A 200-meter difference over the region indicates relatively low relief.",
+        "Incorrect. High relief requires a large elevation difference between the highest and lowest points, which is not present here.",
+        "Incorrect. The article only distinguishes between low relief and high relief, not moderate relief.",
+        "Incorrect. The article provides sufficient information to classify this as low relief based on the small elevation difference."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what role do streams play in shaping Earth's land surface?",
+      "options": [
+        "they carve rocks, transport sediments, and replenish groundwater",
+        "they primarily erode coastal shorelines",
+        "they create glaciers by compacting snow",
+        "they form the continental crust"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that streams 'shape the landscape, carve rocks, transport sediments, and replenish groundwater.'",
+        "Incorrect. The article does not state that streams primarily erode coastal shorelines.",
+        "Incorrect. Glaciers form from compacted snow at high elevations or latitudes, not from streams.",
+        "Incorrect. The continental crust is formed from cooling of Earth's molten outer layer, not by streams."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Based on the article's discussion of land as a concept, which of the following would be included in the collective natural resources that 'land' may refer to?",
+      "options": [
+        "rivers, lakes, and the biosphere",
+        "ocean currents and tides",
+        "atmospheric ozone layer",
+        "deep-sea hydrothermal vents"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that land can refer to 'the collective natural resources that the land holds, including rivers, lakes, and the biosphere.'",
+        "Incorrect. Ocean currents and tides are not listed among the natural resources collectively referred to as land.",
+        "Incorrect. The atmospheric ozone layer is not mentioned in the article's definition of land's natural resources.",
+        "Incorrect. Deep-sea hydrothermal vents are submerged features and not included in the article's definition of land."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, which of the following best describes the distribution of Earth's fresh water?",
+      "options": [
+        "rivers, streams, lakes, and glaciers constitute only three percent of Earth's water",
+        "fresh water makes up the majority of Earth's water",
+        "fresh water is evenly distributed between land and ocean",
+        "most fresh water is found in shallow lakes and groundwater"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that fresh water 'from rivers, streams, lakes, and glaciers, constitute only three percent of the water on Earth.'",
+        "Incorrect. The article indicates fresh water is a small minority, not the majority, of Earth's water.",
+        "Incorrect. The article does not describe an even distribution of fresh water between land and ocean.",
+        "Incorrect. While shallow lakes and groundwater are mentioned in the definition section, the article does not state that most fresh water is found there."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "If a planetary scientist is comparing Earth's land formation to the nebular hypothesis, which of the following sequences from the article correctly orders the early stages of Earth's formation?",
+      "options": [
+        "solar nebula collapses into a circumstellar disc, planetesimals form by cohesive clumping and gravity, primordial Earth assembles over 10â20 myr",
+        "planetesimals form first, then the solar nebula collapses, then Earth accretes from comets",
+        "Earth's crust forms before the solar nebula collapses, followed by outgassing",
+        "outgassing creates oceans before planetesimals begin to form"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes the nebular hypothesis sequence: a solar nebula collapses into a circumstellar disc, planetesimals form by cohesive clumping and gravity, and the primordial Earth's assembly took 10â20 myr.",
+        "Incorrect. The article places planetesimal formation after the solar nebula collapses, not before.",
+        "Incorrect. The article states Earth's crust formed after the planet assembled and water vapour accumulated, not before the nebula collapsed.",
+        "Incorrect. Outgassing occurred after Earth formed, not before planetesimals began to form."
+      ]
+    }
+  ]
+}

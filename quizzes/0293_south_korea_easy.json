@@ -1,0 +1,167 @@
+{
+  "article_id": "0293",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the official name of South Korea?",
+      "options": [
+        "Republic of Korea",
+        "Democratic People's Republic of Korea",
+        "Korean Empire",
+        "Great Han Republic"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'South Korea, officially the Republic of Korea (ROK).'",
+        "Incorrect. The Democratic People's Republic of Korea is the official name of North Korea.",
+        "Incorrect. The Korean Empire was a short-lived state from 1897 to 1910, not the current official name.",
+        "Incorrect. 'Great Han Republic' is a translation of the Korean name Daehan Minguk, but the official English name is Republic of Korea."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which body of water lies to the west of South Korea?",
+      "options": [
+        "Yellow Sea",
+        "Sea of Japan",
+        "East China Sea",
+        "Pacific Ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'with the Yellow Sea to the west.'",
+        "Incorrect. The Sea of Japan is to the east, not the west.",
+        "Incorrect. The East China Sea is not mentioned in the article as bordering South Korea.",
+        "Incorrect. The Pacific Ocean is not directly mentioned as a bordering sea."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Approximately how many people live in South Korea?",
+      "options": [
+        "About 52 million",
+        "About 100 million",
+        "About 25 million",
+        "About 10 million"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'It has a population of about 52 million.'",
+        "Incorrect. The population is about 52 million, not 100 million.",
+        "Incorrect. The population is about 52 million, not 25 million.",
+        "Incorrect. The population is about 52 million, not 10 million."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the name of the demilitarized zone that separates South Korea from North Korea?",
+      "options": [
+        "Korean Demilitarized Zone",
+        "38th Parallel",
+        "Iron Curtain",
+        "Peace Line"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'It borders North Korea to its north along the Korean Demilitarized Zone.'",
+        "Incorrect. The 38th Parallel is a historical reference but not the name of the zone in the article.",
+        "Incorrect. The Iron Curtain is a term for the division of Europe, not Korea.",
+        "Incorrect. 'Peace Line' is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which dynasty is credited with achieving lasting unification and establishing the basis for Korean identity?",
+      "options": [
+        "Goryeo dynasty",
+        "Joseon dynasty",
+        "Silla dynasty",
+        "Goguryeo dynasty"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The Goryeo dynasty (918â1392) achieved lasting unification and established the basis for Korean identity.'",
+        "Incorrect. The Joseon dynasty followed Goryeo and is noted for cultural achievements, but the basis for Korean identity was established by Goryeo.",
+        "Incorrect. Silla unified most of the peninsula earlier, but Goryeo achieved lasting unification.",
+        "Incorrect. Goguryeo was one of the Three Kingdoms, not the dynasty that established lasting unification."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What event ended Japanese rule in Korea?",
+      "options": [
+        "Japan's surrender in World War II",
+        "The Korean War",
+        "The June Democratic Struggle",
+        "The signing of the armistice"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'Japanese rule ended following Japan's surrender in World War II.'",
+        "Incorrect. The Korean War occurred after Japanese rule ended.",
+        "Incorrect. The June Democratic Struggle was in 1987, long after Japanese rule.",
+        "Incorrect. The armistice ended the Korean War in 1953, not Japanese rule."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In what year did the Republic of Korea come into existence?",
+      "options": [
+        "August 1948",
+        "September 1948",
+        "1950",
+        "1953"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'the southern zone became the Republic of Korea in August 1948.'",
+        "Incorrect. September 1948 is when the Democratic People's Republic of Korea was established.",
+        "Incorrect. 1950 is the year the Korean War started.",
+        "Incorrect. 1953 is the year the armistice was signed."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the name of the globally influential South Korean pop culture phenomenon mentioned in the article?",
+      "options": [
+        "Korean Wave",
+        "K-pop",
+        "Hallyu",
+        "Korean Renaissance"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'the country became renowned for the Korean Wave, its globally influential pop culture.'",
+        "Incorrect. K-pop is a part of the Korean Wave, but the article specifically uses the term 'Korean Wave'.",
+        "Incorrect. 'Hallyu' is the Korean term for Korean Wave, but the article uses 'Korean Wave'.",
+        "Incorrect. 'Korean Renaissance' is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a major city in South Korea mentioned in the article?",
+      "options": [
+        "Busan",
+        "Pyongyang",
+        "Tokyo",
+        "Beijing"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists Busan as one of the other major cities.",
+        "Incorrect. Pyongyang is the capital of North Korea, not mentioned as a South Korean city.",
+        "Incorrect. Tokyo is the capital of Japan, not mentioned in the article.",
+        "Incorrect. Beijing is the capital of China, not mentioned in the article."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What type of government does South Korea have under its 1987 constitution?",
+      "options": [
+        "Unitary presidential republic",
+        "Federal parliamentary republic",
+        "Constitutional monarchy",
+        "Communist state"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'it maintains a unitary presidential republic with a popularly elected, unicameral legislature.'",
+        "Incorrect. South Korea is not a federal state; it is unitary.",
+        "Incorrect. South Korea is a republic, not a monarchy.",
+        "Incorrect. South Korea is not a communist state; it is a democratic republic."
+      ]
+    }
+  ]
+}

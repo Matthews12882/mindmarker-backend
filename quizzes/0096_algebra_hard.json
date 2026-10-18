@@ -1,0 +1,167 @@
+{
+  "article_id": "0096",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which statement best describes how universal algebra differs from abstract algebra in terms of abstraction level?",
+      "options": [
+        "Universal algebra investigates characteristics of algebraic structures in general rather than focusing on specific structures.",
+        "Universal algebra focuses on specific algebraic structures such as groups and rings.",
+        "Universal algebra restricts itself to a particular domain of numbers and operations.",
+        "Universal algebra is equivalent to elementary algebra but uses symbolic formalism."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that universal algebra 'is still more abstract in that it is not interested in specific algebraic structures but investigates the characteristics of algebraic structures in general.'",
+        "Incorrect. Abstract algebra, not universal algebra, focuses on specific structures such as groups and rings.",
+        "Incorrect. Restricting itself to a particular domain describes elementary algebra or arithmetic, not universal algebra.",
+        "Incorrect. Universal algebra is presented as more abstract than abstract algebra, not equivalent to elementary algebra."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Based on the article, what is the primary goal of elementary algebra when working with equations containing variables?",
+      "options": [
+        "To determine the values for which a statement is true.",
+        "To convert equations into geometric graphs.",
+        "To prove that all equations are identity equations.",
+        "To replace variables with constants exclusively."
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The main goal of elementary algebra is to determine the values for which a statement is true.'",
+        "Incorrect. While equations can be interpreted geometrically, graphing is not described as the primary goal.",
+        "Incorrect. The article distinguishes identity equations from conditional equations and does not claim all equations are identities.",
+        "Incorrect. Elementary algebra uses variables alongside numbers, not exclusively constants."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If a mathematical system consists of a set equipped with two operations that satisfy a specific collection of axioms, how would abstract algebra classify this system?",
+      "options": [
+        "As an algebraic structure whose type depends on the number of operations and the axioms they follow.",
+        "As an elementary algebra problem requiring variable isolation.",
+        "As a polynomial equation of degree one.",
+        "As a linear system solvable by the quadratic formula."
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that abstract algebra distinguishes algebraic structures 'based on the number of operations they use and the laws they follow, called axioms.'",
+        "Incorrect. Isolating variables is a method of elementary algebra, not a classification in abstract algebra.",
+        "Incorrect. A polynomial equation is a statement equating a polynomial to zero, not a set with operations and axioms.",
+        "Incorrect. The quadratic formula solves second-degree polynomial equations and is unrelated to classifying algebraic structures."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which historical development marks the shift from describing equations in words to a rigorous symbolic formalism in algebra?",
+      "options": [
+        "The development of symbolic formalism in the 16th and 17th centuries.",
+        "Al-Khwarizmi's systematization of algebra in the 9th century.",
+        "The broadening of algebra beyond the theory of equations in the mid-19th century.",
+        "The translation of al-Khwarizmi's treatise into Latin in the 12th century."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that early mathematicians used words and abbreviations 'until the 16th and 17th centuries, when a rigorous symbolic formalism was developed.'",
+        "Incorrect. Al-Khwarizmi systematized algebra as an independent discipline, but the shift to symbolic formalism occurred later.",
+        "Incorrect. The 19th-century broadening concerned the scope of algebra, not the move from words to symbols.",
+        "Incorrect. The article mentions the Latin translation but does not tie it to the development of symbolic formalism."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How does elementary algebra generalize arithmetic according to the article?",
+      "options": [
+        "By allowing variables representing unspecified quantities in addition to numbers.",
+        "By restricting operations to addition and multiplication only.",
+        "By eliminating the use of equations and focusing solely on expressions.",
+        "By studying only numerical operations within the domain of real numbers."
+      ],
+      "answer_explanations": [
+        "Correct. The article says elementary algebra 'generalizes these operations by allowing indefinite quantities in the form of variables in addition to numbers.'",
+        "Incorrect. Elementary algebra relies on the same operations as arithmetic, not a restricted subset.",
+        "Incorrect. Equations are central to elementary algebra, not eliminated.",
+        "Incorrect. Studying numerical operations within a number domain describes arithmetic, not the generalization found in elementary algebra."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the relationship between linear algebra and systems of linear equations as described in the article?",
+      "options": [
+        "Linear algebra investigates linear equations and systems of linear equations to find values that solve all equations simultaneously.",
+        "Linear algebra is a subfield of elementary algebra concerned only with single-variable equations.",
+        "Linear algebra studies nonlinear combinations of equations called systems of linear equations.",
+        "Linear algebra focuses exclusively on geometric graphs of equations rather than their solutions."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that linear algebra 'investigates linear equations and combinations of them called systems of linear equations' and provides methods to find values solving all equations at once.",
+        "Incorrect. Linear algebra is described as a closely related field, not a subfield of elementary algebra, and it handles systems, not only single-variable equations.",
+        "Incorrect. The article refers to linear equations, not nonlinear combinations.",
+        "Incorrect. While algebraic equations can be interpreted geometrically, linear algebra is defined by its study of equations and systems, not exclusively graphs."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following best captures the original non-mathematical meaning of the Arabic term al-jabr, from which 'algebra' is derived?",
+      "options": [
+        "The surgical treatment of bonesetting.",
+        "A method for transforming equations.",
+        "The art of manipulating polynomial equations.",
+        "A type of bilinear map on a vector space."
+      ],
+      "answer_explanations": [
+        "Correct. The article states the term 'originally referred to the surgical treatment of bonesetting.'",
+        "Incorrect. The mathematical meaning as a method for transforming equations came later, in the 9th century.",
+        "Incorrect. The restriction to polynomial equations describes the initial English meaning, not the original Arabic term.",
+        "Incorrect. A bilinear map relates to the countable-noun sense of 'algebra' as a specific algebraic structure, not the etymology."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "If a polynomial has terms whose variable exponent sums are 2, 4, and 1, what is its degree according to the article's definition?",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "7"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines the degree of a polynomial as 'the maximal value (among its terms) of the sum of the exponents of the variables,' so the maximum of 2, 4, and 1 is 4.",
+        "Incorrect. The degree is the maximum, not the minimum, of the exponent sums.",
+        "Incorrect. The value 1 is one term's exponent sum but not the maximum.",
+        "Incorrect. The degree is the maximum individual sum, not the sum of all exponent sums."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which statement accurately describes the distinction between identity equations and conditional equations?",
+      "options": [
+        "Identity equations are true for all assignable values, whereas conditional equations are true for only some values.",
+        "Identity equations contain no variables, whereas conditional equations always contain variables.",
+        "Conditional equations are true for all values, whereas identity equations are true for only some values.",
+        "Identity equations and conditional equations are always true regardless of variable values."
+      ],
+      "answer_explanations": [
+        "Correct. The article states identity equations 'are true for all values that can be assigned to the variables,' while conditional equations 'are only true for some values.'",
+        "Incorrect. The article's example of an identity equation, 2x + 5x = 7x, contains a variable.",
+        "Incorrect. This reverses the definitions given in the article.",
+        "Incorrect. Conditional equations are not always true; their truth depends on the variable values."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "In a scenario where a researcher studies a collection of sets equipped with operations without focusing on any particular structure, which algebraic field is most aligned with this approach?",
+      "options": [
+        "Universal algebra.",
+        "Elementary algebra.",
+        "Linear algebra.",
+        "Abstract algebra focused on groups and rings."
+      ],
+      "answer_explanations": [
+        "Correct. The article states universal algebra 'is not interested in specific algebraic structures but investigates the characteristics of algebraic structures in general.'",
+        "Incorrect. Elementary algebra focuses on variables and solving equations within specific number types, not general structures.",
+        "Incorrect. Linear algebra investigates linear equations and systems of linear equations, not general characteristics of all algebraic structures.",
+        "Incorrect. Studying groups and rings means focusing on specific structures, which is the opposite of the described approach."
+      ]
+    }
+  ]
+}

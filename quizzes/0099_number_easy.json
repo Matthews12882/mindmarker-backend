@@ -1,0 +1,167 @@
+{
+  "article_id": "0099",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the most basic examples of numbers mentioned in the article?",
+      "options": [
+        "natural numbers",
+        "integers",
+        "rational numbers",
+        "complex numbers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The most basic examples are the natural numbers: 1, 2, 3, 4, 5, and so forth.\"",
+        "Incorrect. Integers include negative numbers and zero, which are not described as the most basic examples in the article.",
+        "Incorrect. Rational numbers are introduced later as an extension of numbers, not the most basic examples.",
+        "Incorrect. Complex numbers are mentioned as a later extension of real numbers, not the most basic examples."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which numeral system is described as the most common representation for any number?",
+      "options": [
+        "HinduâArabic numeral system",
+        "Roman numeral system",
+        "Babylonian sexagesimal system",
+        "Egyptian ciphered system"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"The most common representation is the HinduâArabic numeral system...\"",
+        "Incorrect. Roman numerals are described as having been dominant in Europe until the spread of the HinduâArabic system, not the most common today.",
+        "Incorrect. The Babylonian sexagesimal system is noted as an early system, not the most common representation.",
+        "Incorrect. The Egyptian ciphered system is mentioned as the first ciphered system, not the most common."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What term is used in the article to describe symbols like \"11\" that represent numbers?",
+      "options": [
+        "numerals",
+        "digits",
+        "number words",
+        "alphabets"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines: \"Individual numbers can be represented ... with dedicated symbols called numerals; for example, '11' is the corresponding numeral.\"",
+        "Incorrect. Digits are the symbols within a numeral system (e.g., 0-9), not the general term for symbols representing numbers.",
+        "Incorrect. Number words are spoken/written representations like 'eleven', not dedicated symbols.",
+        "Incorrect. Alphabets are letter sets used in writing, not the term for number symbols."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, what did Brahmagupta treat zero as?",
+      "options": [
+        "a number",
+        "a placeholder only",
+        "a symbol for nothing",
+        "an algebraic structure"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Brahmagupta treated 0 as a number and discussed operations involving it...\"",
+        "Incorrect. While zero was used as a placeholder earlier, Brahmagupta is noted for treating it as a full number.",
+        "Incorrect. The article emphasizes Brahmagupta's treatment of zero as a number, not just a symbol.",
+        "Incorrect. Algebraic structures are later developments; Brahmagupta's work is about zero as a number."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which ancient civilization is credited with inventing the first ciphered numeral system?",
+      "options": [
+        "Egyptians",
+        "Greeks",
+        "Babylonians",
+        "Romans"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"The Egyptians invented the first ciphered numeral system...\"",
+        "Incorrect. The Greeks followed the Egyptians with their own mapping, not the first.",
+        "Incorrect. The Babylonians used a sexagesimal system, not a ciphered system.",
+        "Incorrect. Roman numerals are a later system based on letters, not the first ciphered system."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the base of the Maya numeral system?",
+      "options": [
+        "20",
+        "10",
+        "60",
+        "5"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions: \"Maya used a baseÂ 20 numerical system...\"",
+        "Incorrect. The baseâ10 system is the HinduâArabic system, not Maya.",
+        "Incorrect. The Babylonian system used baseÂ 60.",
+        "Incorrect. The Maya system uses baseÂ 20, not baseÂ 5."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which ancient text is cited as containing methods for finding areas of figures using red and black rods?",
+      "options": [
+        "The Nine Chapters on the Mathematical Art",
+        "The Rhind Mathematical Papyrus",
+        "The Kahun Papyrus",
+        "Euclid's Elements"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"The Nine Chapters on the Mathematical Art contains methods for finding the areas of figures; red rods were used to denote positive coefficients, black for negative.\"",
+        "Incorrect. The Rhind Papyrus is about Egyptian fractions, not red/black rods.",
+        "Incorrect. The Kahun Papyrus is also about Egyptian fractions.",
+        "Incorrect. Euclid's Elements is Greek geometry, not about red/black rods."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did the Hellenistic zero look like, according to the article?",
+      "options": [
+        "a small circle with a long overbar",
+        "the Greek letter Omicron",
+        "a shell glyph",
+        "the symbol '0' as used today"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: \"Ptolemy ... was using a symbol forÂ 0 (a small circle with a long overbar)...\"",
+        "Incorrect. The Greek letter Omicron appears later in Byzantine manuscripts, not the Hellenistic zero.",
+        "Incorrect. The shell glyph was used by the late Olmec, not the Hellenistic zero.",
+        "Incorrect. The modern '0' symbol developed later; the Hellenistic zero was a circle with overbar."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which mathematician is credited with first formulating the mathematical concept of zero?",
+      "options": [
+        "Brahmagupta",
+        "Archimedes",
+        "Pythagoras",
+        "Euclid"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"He is usually considered the first to formulate the mathematical concept of zero.\" (referring to Brahmagupta)",
+        "Incorrect. Archimedes contributed to geometry and large numbers, not zero.",
+        "Incorrect. Pythagoras is known for the Pythagorean theorem and irrational numbers, not zero.",
+        "Incorrect. Euclid contributed to geometry and number theory, not zero."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article say about the status of zero among the Ancient Greeks?",
+      "options": [
+        "they questioned whether nothing could be something",
+        "they fully accepted zero as a number",
+        "they used zero in calculations",
+        "they invented a symbol for zero"
+      ],
+      "answer_explanations": [
+        "Correct. The article notes: \"The Ancient Greeks seemed unsure about the status ofÂ 0 as a number: they asked themselves 'How can 'nothing' be something?'...\"",
+        "Incorrect. The Greeks were uncertain and debated zero's status, not fully accepting it.",
+        "Incorrect. While they used zero in some contexts, they were generally unsure about its status.",
+        "Incorrect. The Greeks did not invent a symbol for zero; that came later."
+      ]
+    }
+  ]
+}

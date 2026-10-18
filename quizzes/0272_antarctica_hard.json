@@ -1,0 +1,167 @@
+{
+  "article_id": "0272",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If a research team discovers a new subglacial lake in Antarctica and wants to estimate how often its water is replaced, which known lake's replacement cycle would serve as the best model?",
+      "options": [
+        "Lake Vostok",
+        "Lake Bonney",
+        "Lake Ellsworth",
+        "Lake Whillans"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Lake Vostok's water is replaced by the slow melting and freezing of ice caps every 13,000 years, providing a known replacement cycle for subglacial lakes.",
+        "Incorrect. Lake Bonney is a surface lake in the McMurdo Dry Valleys, not a subglacial lake, and its water replacement cycle is not discussed in the article.",
+        "Incorrect. Lake Ellsworth is a subglacial lake, but the article does not provide information about its water replacement cycle.",
+        "Incorrect. Lake Whillans is a subglacial lake, but the article does not provide information about its water replacement cycle."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "A geologist finds a fossil of a large woody tree in a sedimentary layer in Antarctica. Based on the article, during which period did such trees first colonize the continent?",
+      "options": [
+        "Late Devonian",
+        "Cambrian",
+        "Carboniferous",
+        "Permian"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions that during the Late Devonian, Antarctica was colonized by the progymnosperm Archaeopteris, one of the first large woody trees.",
+        "Incorrect. The Cambrian period had a mild climate in Gondwana, but there is no mention of large woody trees colonizing Antarctica at that time.",
+        "Incorrect. During the Carboniferous, Antarctica became glaciated, but the colonization by large woody trees occurred earlier in the Late Devonian.",
+        "Incorrect. The Permian saw glossopterids dominating, but large woody trees like Archaeopteris first appeared in the Late Devonian."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "If a volcanic eruption under the Antarctic ice sheet were to increase significantly, which of the following would be the most direct threat according to the article?",
+      "options": [
+        "Destabilization of the ice sheet",
+        "Increased tourism in the region",
+        "Formation of new islands",
+        "Changes in the Southern Ocean overturning circulation"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that volcanoes under the ice could pose a risk to the ice sheet if activity levels were to rise, directly threatening its stability.",
+        "Incorrect. The article does not suggest that increased volcanic activity would directly lead to more tourism.",
+        "Incorrect. While volcanic islands exist around Antarctica, the article does not indicate that increased subglacial volcanic activity would directly form new islands.",
+        "Incorrect. Changes in the Southern Ocean overturning circulation are linked to melting of the West Antarctic ice sheet, not directly to increased volcanic activity under the ice."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "A cartographer in the 1890s wants to use the most recently adopted name for the southern continent. Which name should they use?",
+      "options": [
+        "Antarctica",
+        "Terra Australis",
+        "Ultima",
+        "Antipodea"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'Antarctica was adopted in the 1890s', making it the most recently adopted name at that time.",
+        "Incorrect. Terra Australis was an earlier hypothetical name that became unavailable after Australia was renamed in 1824.",
+        "Incorrect. Ultima was a suggested poetic replacement but was not adopted; Antarctica was chosen instead.",
+        "Incorrect. Antipodea was another suggested poetic replacement but was not adopted; Antarctica was chosen instead."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "A scientist is studying the impact of melting ice on global sea levels. According to the article, which ice sheet's melting causes the most uncertainty in century-scale sea level rise projections?",
+      "options": [
+        "West Antarctic ice sheet",
+        "East Antarctic ice sheet",
+        "Antarctic ice sheet",
+        "Ross Ice Shelf"
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly states that 'the melting of the potentially unstable West Antarctic ice sheet causes the most uncertainty in century-scale projections of sea level rise'.",
+        "Incorrect. The East Antarctic ice sheet is mentioned but not specifically linked to uncertainty in sea level rise projections in the article.",
+        "Incorrect. The Antarctic ice sheet as a whole is discussed, but the West Antarctic ice sheet is singled out for causing the most uncertainty.",
+        "Incorrect. The Ross Ice Shelf is an ice shelf, not an ice sheet, and is not mentioned in the context of sea level rise uncertainty."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "A team of explorers wants to follow the route of the first confirmed landing on Antarctica. Which nationality's expedition should they replicate?",
+      "options": [
+        "Norwegian",
+        "Russian",
+        "British",
+        "French"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'the first confirmed landing was by a Norwegian team in 1895'.",
+        "Incorrect. A Russian expedition led by Bellingshausen and Lazarev first saw the ice shelves in 1820, but did not land.",
+        "Incorrect. British explorers reached the magnetic South Pole in 1909, but the first confirmed landing was Norwegian.",
+        "Incorrect. French expeditions explored the region after the Russian sighting, but the first confirmed landing was Norwegian."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "If a researcher wants to study the longest river in Antarctica, which river should they visit?",
+      "options": [
+        "Onyx River",
+        "Alph River",
+        "Taylor Valley River",
+        "Mackay River"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'the longest is the Onyx River' among rivers in Antarctica.",
+        "Incorrect. The Alph River is not mentioned in the article as the longest river in Antarctica.",
+        "Incorrect. The Taylor Valley River is not mentioned in the article as the longest river in Antarctica.",
+        "Incorrect. The Mackay River is not mentioned in the article as the longest river in Antarctica."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "A biologist is studying the effects of climate change on Antarctic wildlife. Based on the article, which of the following native species would they most likely encounter in a coastal region during summer?",
+      "options": [
+        "Penguins",
+        "Polar bears",
+        "Arctic foxes",
+        "Reindeer"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists penguins as native species of animals in Antarctica, and coastal regions can reach temperatures over 10Â°C in summer, making them habitable.",
+        "Incorrect. Polar bears are native to the Arctic, not Antarctica, and are not mentioned in the article.",
+        "Incorrect. Arctic foxes are native to the Arctic, not Antarctica, and are not mentioned in the article.",
+        "Incorrect. Reindeer are native to the Arctic and subarctic regions, not Antarctica, and are not mentioned in the article."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "A policy maker is reviewing the Antarctic Treaty System. Which of the following activities is explicitly prohibited under the treaty according to the article?",
+      "options": [
+        "Nuclear explosions",
+        "Tourism",
+        "Fishing",
+        "Scientific research"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'nuclear explosions... are all prohibited in Antarctica' under the Antarctic Treaty System.",
+        "Incorrect. Tourism is listed as one of the main human activities in and around Antarctica, not prohibited.",
+        "Incorrect. Fishing is listed as one of the main human activities in and around Antarctica, not prohibited.",
+        "Incorrect. Scientific research is a main human activity in Antarctica, and research stations are inhabited, not prohibited."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "A geologist finds a coal deposit in Antarctica. Based on the article, which plant group is most likely responsible for forming this coal?",
+      "options": [
+        "Glossopterids",
+        "Lycopods",
+        "Cordaitales",
+        "Ferns"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that glossopterids, most prominently Glossopteris, formed extensive coal deposits in Antarctica during the Permian.",
+        "Incorrect. Lycopods colonized Antarctica during the Devonian, but the article does not link them to coal formation.",
+        "Incorrect. Cordaitales are mentioned as plants found in Antarctica during the Permian, but the article specifically states that glossopterids formed extensive coal deposits.",
+        "Incorrect. Ferns are mentioned as plants found in Antarctica during the Permian, but the article specifically states that glossopterids formed extensive coal deposits."
+      ]
+    }
+  ]
+}

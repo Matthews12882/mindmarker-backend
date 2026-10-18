@@ -1,0 +1,167 @@
+{
+  "article_id": "0073",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes the scope of ecology as defined in the article?",
+      "options": [
+        "The study of interactions between organisms and their environments",
+        "The study of only non-living components of the environment",
+        "The study of human populations exclusively",
+        "The study of geological formations over time"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that ecology is the natural science which studies the interactions between organisms and their environments.",
+        "Incorrect. Ecology studies both living organisms and their environments, not only non-living components.",
+        "Incorrect. Ecology studies all organisms, not exclusively human populations.",
+        "Incorrect. The article does not define ecology as the study of geological formations."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the article identify as a cornerstone of modern ecological theory?",
+      "options": [
+        "Evolutionary concepts relating to adaptation and natural selection",
+        "Geological dating techniques",
+        "Chemical synthesis methods",
+        "Astronomical observations"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that evolutionary concepts relating to adaptation and natural selection are cornerstones of modern ecological theory.",
+        "Incorrect. Geological dating techniques are not mentioned as a cornerstone of ecological theory.",
+        "Incorrect. Chemical synthesis methods are not discussed in relation to ecological theory.",
+        "Incorrect. Astronomical observations are not mentioned in the article."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is listed as an ecosystem service in the article?",
+      "options": [
+        "Climate regulation",
+        "Oil extraction",
+        "Urban planning",
+        "Manufacturing"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the regulation of climate among ecosystem services such as biomass production, water filtration, and soil formation.",
+        "Incorrect. Oil extraction is not listed as an ecosystem service.",
+        "Incorrect. Urban planning is not listed as an ecosystem service.",
+        "Incorrect. Manufacturing is not listed as an ecosystem service."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the correct order of the ecological hierarchy from smallest to largest scale according to the article?",
+      "options": [
+        "Organisms, populations, guilds, communities, ecosystems, biomes, biosphere",
+        "Biosphere, biomes, ecosystems, communities, guilds, populations, organisms",
+        "Populations, organisms, communities, ecosystems, biomes, guilds, biosphere",
+        "Organisms, communities, populations, ecosystems, biomes, guilds, biosphere"
+      ],
+      "answer_explanations": [
+        "Correct. The article's hierarchy section lists the order as organisms, populations, guilds, communities, ecosystems, biomes, and biosphere.",
+        "Incorrect. This reverses the order; the article lists organisms first and biosphere last.",
+        "Incorrect. This order places populations before organisms and communities before populations, which contradicts the article.",
+        "Incorrect. This order places communities before populations, which contradicts the article's stated hierarchy."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "How does the article distinguish ecosystem engineering from niche construction?",
+      "options": [
+        "Ecosystem engineering relates only to physical modifications of habitat, while niche construction also considers evolutionary implications and feedback on natural selection",
+        "Ecosystem engineering considers evolutionary implications, while niche construction relates only to physical modifications",
+        "Both terms are used interchangeably with no distinction",
+        "Ecosystem engineering applies only to marine organisms, while niche construction applies only to terrestrial organisms"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that ecosystem engineering relates only to physical modifications of the habitat, whereas niche construction also considers evolutionary implications of physical changes and feedback on natural selection.",
+        "Incorrect. This reverses the distinction made in the article.",
+        "Incorrect. The article explicitly distinguishes between the two concepts.",
+        "Incorrect. The article does not limit either concept to marine or terrestrial organisms exclusively."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the article say about the relationship between biodiversity and ecosystem services?",
+      "options": [
+        "Biodiversity plays an important role in ecosystem services which maintain and improve human quality of life",
+        "Biodiversity reduces the effectiveness of ecosystem services",
+        "Ecosystem services are independent of biodiversity",
+        "Biodiversity only affects genetic diversity, not ecosystem services"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that biodiversity plays an important role in ecosystem services which by definition maintain and improve human quality of life.",
+        "Incorrect. The article indicates biodiversity supports ecosystem services, not reduces their effectiveness.",
+        "Incorrect. The article explicitly links biodiversity to ecosystem services.",
+        "Incorrect. The article describes biodiversity as spanning genes to ecosystems and affecting ecological processes, not limited to genetic diversity."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "According to the article, what does the realized niche include that the fundamental niche does not?",
+      "options": [
+        "Ecological conditions in addition to environmental conditions",
+        "Only abiotic conditions",
+        "Only genetic factors",
+        "Only historical climate data"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines the realized niche as the set of environmental plus ecological conditions under which a species persists, while the fundamental niche is only environmental conditions.",
+        "Incorrect. The realized niche includes both environmental and ecological conditions, not only abiotic conditions.",
+        "Incorrect. Genetic factors are not mentioned as the distinguishing feature of the realized niche.",
+        "Incorrect. Historical climate data is not mentioned in the niche definitions."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which scientist is credited with coining the term ecology in 1866?",
+      "options": [
+        "Ernst Haeckel",
+        "Charles Darwin",
+        "G. Evelyn Hutchinson",
+        "Pierre Verhulst"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the term ecology was coined in 1866 by the German scientist Ernst Haeckel.",
+        "Incorrect. Charles Darwin is not credited in the article with coining the term ecology.",
+        "Incorrect. G. Evelyn Hutchinson is mentioned for niche concepts, not for coining the term ecology.",
+        "Incorrect. Pierre Verhulst is mentioned for the logistic equation, not for coining the term ecology."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the primary focus of ecosystem ecology according to the article?",
+      "options": [
+        "Materials and energy fluxes",
+        "Organisms' distribution and abundance",
+        "Human population demographics",
+        "Geological time scales"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that ecosystem ecology focuses on materials and energy fluxes, contrasting with population ecology which focuses on distribution and abundance.",
+        "Incorrect. Organisms' distribution and abundance is the focus of population ecology, not ecosystem ecology.",
+        "Incorrect. Human population demographics are not the focus of ecosystem ecology as described in the article.",
+        "Incorrect. Geological time scales are not mentioned as the focus of ecosystem ecology."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the article state about the Gaia hypothesis?",
+      "options": [
+        "It is an example of holism applied in ecological theory",
+        "It disproves the concept of ecosystem services",
+        "It applies only to marine ecosystems",
+        "It was proposed by Ernst Haeckel"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes the Gaia hypothesis as an example of holism applied in ecological theory.",
+        "Incorrect. The article does not state that the Gaia hypothesis disproves ecosystem services.",
+        "Incorrect. The article presents the Gaia hypothesis at the planetary scale, not limited to marine ecosystems.",
+        "Incorrect. Ernst Haeckel coined the term ecology; the article does not attribute the Gaia hypothesis to him."
+      ]
+    }
+  ]
+}

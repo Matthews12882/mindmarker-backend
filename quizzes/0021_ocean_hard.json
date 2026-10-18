@@ -1,0 +1,167 @@
+{
+  "article_id": "0021",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which ocean is described as the \"huge reservoir of heat\" for Earth's energy budget?",
+      "options": [
+        "The ocean",
+        "The Pacific Ocean",
+        "The Atlantic Ocean",
+        "The Indian Ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ocean acts as a huge reservoir of heat for Earth's energy budget.",
+        "Incorrect. While the Pacific Ocean is the largest, the article specifically credits the ocean as the heat reservoir.",
+        "Incorrect. The Atlantic Ocean is not described as the primary heat reservoir.",
+        "Incorrect. The Indian Ocean is not described as the primary heat reservoir."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the depth at which light intensity is only 1% of the surface value, defining the lower limit of the photic zone?",
+      "options": [
+        "200 meters",
+        "500 meters",
+        "1,000 meters",
+        "2,000 meters"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines the photic zone's lower limit as approximately 200 m in the open ocean where light intensity is 1% of the surface value.",
+        "Incorrect. 500 meters is deeper than the described limit.",
+        "Incorrect. 1,000 meters is deeper than the described limit.",
+        "Incorrect. 2,000 meters is deeper than the described limit."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which vertical zone is characterized by being cold and dark, and lies below the photic zone?",
+      "options": [
+        "The mesopelagic zone",
+        "The epipelagic zone",
+        "The abyssopelagic zone",
+        "The bathypelagic zone"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions that the deeper ocean is cold and dark, and these zones are called mesopelagic and aphotic zones, with mesopelagic being one of them.",
+        "Incorrect. The epipelagic zone is the same as the photic zone, which is illuminated.",
+        "Incorrect. The abyssopelagic zone is deeper than mesopelagic but the article specifically names mesopelagic as part of the cold, dark deeper ocean.",
+        "Incorrect. The bathypelagic zone is also deeper but the article specifically names mesopelagic as part of the cold, dark deeper ocean."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following gases is NOT listed as a dissolved gas in ocean water?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Helium"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists oxygen, carbon dioxide, and nitrogen as dissolved gases, not helium.",
+        "Incorrect. Oxygen is listed as a dissolved gas.",
+        "Incorrect. Carbon dioxide is listed as a dissolved gas.",
+        "Incorrect. Nitrogen is listed as a dissolved gas."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What term describes the process by which the ocean's surface absorbs CO2, leading to a drop in pH?",
+      "options": [
+        "Ocean acidification",
+        "Sea level rise",
+        "Thermal stratification",
+        "Upwelling"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as oceans absorb CO2, a higher concentration leads to ocean acidification (a drop in pH value).",
+        "Incorrect. Sea level rise is a separate effect of climate change.",
+        "Incorrect. Thermal stratification refers to layering of water by temperature.",
+        "Incorrect. Upwelling is the process of deep water rising to the surface."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is identified as a major ocean current?",
+      "options": [
+        "The Gulf Stream",
+        "The Amazon River",
+        "The Mississippi River",
+        "The Nile River"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the Gulf Stream as one of the major ocean currents.",
+        "Incorrect. The Amazon River is a river, not an ocean current.",
+        "Incorrect. The Mississippi River is a river, not an ocean current.",
+        "Incorrect. The Nile River is a river, not an ocean current."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which term refers to the zone where photosynthesis can occur?",
+      "options": [
+        "The photic zone",
+        "The aphotic zone",
+        "The abyssal zone",
+        "The hadal zone"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines the photic zone as the zone where photosynthesis can occur.",
+        "Incorrect. The aphotic zone is below the photic zone and lacks sufficient light for photosynthesis.",
+        "Incorrect. The abyssal zone is deeper and dark.",
+        "Incorrect. The hadal zone is the deepest trench region."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following best describes the concept of the World Ocean?",
+      "options": [
+        "A continuous body of salt water covering most of Earth's surface",
+        "A collection of separate seas with no connection",
+        "A freshwater lake system",
+        "A man-made reservoir"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes the World Ocean as the global, interconnected body of salt water, sometimes referred to as the global ocean or great ocean.",
+        "Incorrect. The World Ocean is interconnected, not separate seas.",
+        "Incorrect. It is salt water, not freshwater.",
+        "Incorrect. It is a natural ocean, not a man-made reservoir."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the approximate surface temperature of the ocean in the tropics?",
+      "options": [
+        "Over 30Â°C (86Â°F)",
+        "Below 0Â°C (32Â°F)",
+        "Around 10Â°C (50Â°F)",
+        "Around 20Â°C (68Â°F)"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in the tropics, surface temperatures can rise to over 30Â°C (86Â°F).",
+        "Incorrect. Below 0Â°C occurs near the poles, not the tropics.",
+        "Incorrect. Around 10Â°C is cooler than tropical surface temperatures.",
+        "Incorrect. Around 20Â°C is cooler than tropical surface temperatures."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a major environmental threat to the ocean mentioned in the article?",
+      "options": [
+        "Marine pollution",
+        "Volcanic activity",
+        "Solar radiation",
+        "Meteor impacts"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists marine pollution as one of the environmental threats.",
+        "Incorrect. Volcanic activity is not listed as a major threat.",
+        "Incorrect. Solar radiation is not listed as a major threat.",
+        "Incorrect. Meteor impacts are not listed as a major threat."
+      ]
+    }
+  ]
+}

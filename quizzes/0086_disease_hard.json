@@ -1,0 +1,167 @@
+{
+  "article_id": "0086",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A patient develops a bacterial infection after a primary viral infection weakens their immune system. How would the bacterial infection be classified in relation to the viral infection?",
+      "options": [
+        "A secondary disease",
+        "A primary disease",
+        "An iatrogenic disease",
+        "An idiopathic disease"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a secondary disease as a sequela or complication of a prior, causal disease (the primary disease), and gives the example of a primary viral infection weakening the immune system leading to a secondary bacterial infection.",
+        "Incorrect. A primary disease is due to a root cause of illness, whereas the bacterial infection here is a complication of the prior viral infection.",
+        "Incorrect. An iatrogenic disease is caused by medical intervention, not by a prior infection.",
+        "Incorrect. An idiopathic disease has an unknown cause, but here the cause is clearly linked to the prior viral infection."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, what does the term 'illness' sometimes refer to specifically, as distinct from 'disease'?",
+      "options": [
+        "The patient's personal, subjective experience of their disease",
+        "A condition caused by medical intervention",
+        "A disease present at birth",
+        "A disease with an unknown cause"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'illness' is occasionally used to refer specifically to the patient's personal, subjective experience of their disease, and that one can have a disease without being ill.",
+        "Incorrect. A condition caused by medical intervention is described as iatrogenic, not illness.",
+        "Incorrect. A disease present at birth is described as congenital, not illness.",
+        "Incorrect. A disease with an unknown cause is described as idiopathic, not illness."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "A patient has a condition that has persisted for eight months and is expected to last for the rest of their life. How would this condition be classified according to the article?",
+      "options": [
+        "A chronic disease",
+        "An acute disease",
+        "A congenital disease",
+        "An acquired disease"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a chronic disease as one that persists over time, often for at least six months, and may include illnesses expected to last for the entirety of one's natural life.",
+        "Incorrect. An acute disease is described as short-term in nature.",
+        "Incorrect. A congenital disease is present at birth, whereas this condition began during the patient's lifetime.",
+        "Incorrect. While the condition was acquired after birth, the more specific classification based on its duration is chronic disease."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following best describes an 'idiopathic disease' according to the article?",
+      "options": [
+        "A disease with an unknown cause or source",
+        "A disease caused by medical intervention",
+        "A disease present at birth",
+        "A disease that is expected to result in death"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that an idiopathic disease has an unknown cause or source.",
+        "Incorrect. A disease caused by medical intervention is termed iatrogenic.",
+        "Incorrect. A disease present at birth is termed congenital.",
+        "Incorrect. A disease expected to result in death is termed terminal."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "A person feels unwell and interprets embarrassment as sickness, despite having no objective medical condition. According to the article's distinction, how would this person be described?",
+      "options": [
+        "Ill but not diseased",
+        "Diseased but not ill",
+        "Both diseased and ill",
+        "Neither diseased nor ill"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that it is possible to be ill without being diseased, such as when an objectively healthy person perceives a normal experience as a medical condition.",
+        "Incorrect. Being diseased but not ill would mean having an objective medical condition without feeling sick, which is the opposite of this scenario.",
+        "Incorrect. The person has no objective medical condition, so they are not diseased.",
+        "Incorrect. The article explicitly describes this scenario as being ill without being diseased."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what is the relationship between association and causality in the context of idiopathic diseases?",
+      "options": [
+        "Association does not necessarily imply causality",
+        "Association always implies causality",
+        "Causality cannot be established without association",
+        "Association and causality are identical concepts"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that it is common to know certain factors are associated with certain diseases, but association does not necessarily imply causality.",
+        "Incorrect. The article explicitly says association does not necessarily imply causality.",
+        "Incorrect. The article does not state that causality requires association.",
+        "Incorrect. The article treats association and causality as distinct concepts."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "A disease cannot be cured, but its symptoms can be treated so well that it has little impact on quality of life. How would this disease be classified according to the article?",
+      "options": [
+        "An incurable disease",
+        "A terminal disease",
+        "An acute disease",
+        "A congenital disease"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines an incurable disease as one that cannot be cured, and notes that such diseases are not necessarily terminal and symptoms can be treated to have little impact on quality of life.",
+        "Incorrect. A terminal disease is expected to have the inevitable result of death, which is not the case here.",
+        "Incorrect. An acute disease is short-term in nature.",
+        "Incorrect. A congenital disease is present at birth."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "A doctor is deciding whether to prescribe antibiotics for a patient's rhinitis. According to the article, what must the doctor determine first?",
+      "options": [
+        "What primary disease is causing the secondary rhinitis",
+        "Whether the rhinitis is congenital or acquired",
+        "Whether the rhinitis is idiopathic or iatrogenic",
+        "Whether the rhinitis is acute or chronic"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a doctor must determine what primary disease, such as a cold or bacterial infection, is causing a patient's secondary rhinitis when deciding whether to prescribe antibiotics.",
+        "Incorrect. Whether the rhinitis is congenital or acquired is not the determining factor mentioned for antibiotic decisions.",
+        "Incorrect. Whether the rhinitis is idiopathic or iatrogenic is not relevant to the antibiotic decision described.",
+        "Incorrect. Whether the rhinitis is acute or chronic is not the factor the article says the doctor must determine."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, why might the term 'disorder' be preferred over 'disease' or 'illness' in some circumstances?",
+      "options": [
+        "Because it is considered more value-neutral and less stigmatizing",
+        "Because it refers only to infectious conditions",
+        "Because it always indicates a genetic cause",
+        "Because it is limited to mental health conditions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the term disorder is often considered more value-neutral and less stigmatizing than disease or illness, and is therefore preferred in some circumstances.",
+        "Incorrect. The article notes that disorders are often not caused by infectious organisms, so it does not refer only to infectious conditions.",
+        "Incorrect. The article lists many categories of disorders, not only genetic ones.",
+        "Incorrect. While mental disorder is one usage, the article says disorder is used in many other areas of medicine as well."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "A patient has a disease that was present at birth and resulted from a vertically transmitted infection from the mother. How would this be classified according to the article?",
+      "options": [
+        "A congenital disease",
+        "An acquired disease",
+        "An iatrogenic disease",
+        "A hereditary disease"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a congenital disorder or disease as one present at birth, which can result from a vertically transmitted infection from the mother.",
+        "Incorrect. An acquired disease begins during one's lifetime, as opposed to being present at birth.",
+        "Incorrect. An iatrogenic disease is caused by medical intervention.",
+        "Incorrect. While a congenital disease can be genetic and inherited, the article specifically classifies one present at birth from maternal infection as congenital, not necessarily hereditary."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0074",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is evolution defined as in the article?",
+      "options": [
+        "The change in the heritable characteristics of biological populations over successive generations",
+        "The change in an organism's external appearance during its lifetime",
+        "The process by which new species are created in a laboratory",
+        "The study of fossils and ancient organisms"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that evolution is the change in the heritable characteristics of biological populations over successive generations.",
+        "Incorrect. The article notes that evolution is often understood in common parlance as a change in external appearance, but this is not the strict biological definition.",
+        "Incorrect. The article does not define evolution as new species being created in a laboratory.",
+        "Incorrect. The article does not define evolution as the study of fossils and ancient organisms."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which two British naturalists independently conceived the scientific theory of evolution by natural selection?",
+      "options": [
+        "Charles Darwin and Alfred Russel Wallace",
+        "Charles Darwin and Gregor Mendel",
+        "Alfred Russel Wallace and John Maynard Smith",
+        "Charles Darwin and Jean-Baptiste Lamarck"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the theory was conceived independently by Charles Darwin and Alfred Russel Wallace.",
+        "Incorrect. Gregor Mendel is associated with Mendelian inheritance, not the conception of evolution by natural selection with Darwin.",
+        "Incorrect. John Maynard Smith is mentioned in relation to the two-fold cost of sex, not the conception of natural selection.",
+        "Incorrect. Jean-Baptiste Lamarck is not mentioned in the article as conceiving the theory with Darwin."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the name of Darwin's book in which the theory of evolution by natural selection was first set out in detail?",
+      "options": [
+        "On the Origin of Species",
+        "The Descent of Man",
+        "The Voyage of the Beagle",
+        "The Expression of the Emotions in Man and Animals"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the theory was first set out in detail in Darwin's book On the Origin of Species.",
+        "Incorrect. The Descent of Man is not mentioned in the article as the book where the theory was first set out in detail.",
+        "Incorrect. The Voyage of the Beagle is not mentioned in the article as the book where the theory was first set out in detail.",
+        "Incorrect. The Expression of the Emotions in Man and Animals is not mentioned in the article as the book where the theory was first set out in detail."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Approximately how many years ago did the last universal common ancestor (LUCA) live?",
+      "options": [
+        "3.5â3.8 billion years ago",
+        "1â2 billion years ago",
+        "100â200 million years ago",
+        "10â15 thousand years ago"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that LUCA lived approximately 3.5â3.8 billion years ago.",
+        "Incorrect. The article does not state that LUCA lived 1â2 billion years ago.",
+        "Incorrect. The article does not state that LUCA lived 100â200 million years ago.",
+        "Incorrect. The article does not state that LUCA lived 10â15 thousand years ago."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the complete set of genes within an organism's genome called?",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Allele",
+        "Chromosome"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the complete set of genes within an organism's genome is called its genotype.",
+        "Incorrect. The article defines phenotype as the complete set of observable traits, not the complete set of genes.",
+        "Incorrect. The article defines alleles as different forms of a DNA sequence at a locus, not the complete set of genes.",
+        "Incorrect. The article defines a chromosome as each long strand of DNA within cells, not the complete set of genes."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the complete set of observable traits that make up the structure and behaviour of an organism called?",
+      "options": [
+        "Phenotype",
+        "Genotype",
+        "Genome",
+        "Allele"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the complete set of observable traits that make up the structure and behaviour of an organism is called its phenotype.",
+        "Incorrect. The article defines genotype as the complete set of genes within an organism's genome, not the observable traits.",
+        "Incorrect. The article defines genome as genetic material, not the complete set of observable traits.",
+        "Incorrect. The article defines alleles as different forms of a DNA sequence at a locus, not the complete set of observable traits."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What are mutations described as in the article?",
+      "options": [
+        "The ultimate source of genetic variation in all organisms",
+        "Changes that always benefit an organism",
+        "Changes that only occur in bacteria",
+        "Changes that are always harmful"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that mutations are the ultimate source of genetic variation in all organisms.",
+        "Incorrect. The article states that about half of mutations in coding regions are deleterious, half are neutral, and only a small percentage confer a fitness benefit.",
+        "Incorrect. The article does not state that mutations only occur in bacteria.",
+        "Incorrect. The article states that mutations can be deleterious, neutral, or beneficial, not always harmful."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What can gene flow be caused by?",
+      "options": [
+        "The movement of individuals between separate populations",
+        "The mutation of DNA sequences within a single individual",
+        "The death of all members of a population",
+        "The duplication of chromosomes within a cell"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that gene flow can be caused by the movement of individuals between separate populations of organisms.",
+        "Incorrect. Mutation of DNA sequences within a single individual is not described as a cause of gene flow.",
+        "Incorrect. The death of all members of a population is not described as a cause of gene flow.",
+        "Incorrect. The duplication of chromosomes within a cell is not described as a cause of gene flow."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is horizontal gene transfer most common among?",
+      "options": [
+        "Bacteria",
+        "Plants",
+        "Mammals",
+        "Fungi"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that horizontal gene transfer is most common among bacteria.",
+        "Incorrect. The article does not state that horizontal gene transfer is most common among plants.",
+        "Incorrect. The article does not state that horizontal gene transfer is most common among mammals.",
+        "Incorrect. The article does not state that horizontal gene transfer is most common among fungi."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What are some heritable changes that cannot be explained by changes to the DNA nucleotide sequence called?",
+      "options": [
+        "Epigenetic inheritance systems",
+        "Genetic drift",
+        "Natural selection",
+        "Gene flow"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that these phenomena are classed as epigenetic inheritance systems.",
+        "Incorrect. Genetic drift is described as a process that changes allele frequencies, not as heritable changes unexplained by DNA sequence changes.",
+        "Incorrect. Natural selection is described as a process that changes allele frequencies, not as heritable changes unexplained by DNA sequence changes.",
+        "Incorrect. Gene flow is described as the exchange of genes between populations, not as heritable changes unexplained by DNA sequence changes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0291",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the official name of China?",
+      "options": [
+        "People's Republic of China",
+        "Republic of China",
+        "Democratic People's Republic of China",
+        "Chinese Empire"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The official name of the modern state is the \"People's Republic of China\"'.",
+        "Incorrect. The Republic of China refers to the government that retreated to Taiwan after 1949, not the current official name.",
+        "Incorrect. This is the official name of North Korea, not China.",
+        "Incorrect. China is not an empire; its official name is the People's Republic of China."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which dynasty first unified China in 221 BCE?",
+      "options": [
+        "Qin dynasty",
+        "Han dynasty",
+        "Zhou dynasty",
+        "Shang dynasty"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'In 221 BCE, China was unified under the Qin'.",
+        "Incorrect. The Han dynasty followed the Qin, but did not unify China in 221 BCE.",
+        "Incorrect. The Zhou dynasty ruled earlier but did not unify China in 221 BCE.",
+        "Incorrect. The Shang dynasty existed long before 221 BCE."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which river is associated with the early Neolithic agricultural societies in China?",
+      "options": [
+        "Yellow River",
+        "Yangtze River",
+        "Pearl River",
+        "Mekong River"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions: 'sedentary agricultural societies had spread across the lower Yellow River basin'.",
+        "Incorrect. The Yangtze is a major river, but the article specifically ties early agriculture to the Yellow River basin.",
+        "Incorrect. The Pearl River is not mentioned in this context.",
+        "Incorrect. The Mekong River is not in China's early agricultural heartland."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the origin of the English word 'China' according to a common etymology?",
+      "options": [
+        "The ancient state of Qin",
+        "The Sanskrit word CÄ«na",
+        "The Guizhou polity of Yelang",
+        "The Portuguese word for silk"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Martino Martini suggested that the word China is derived ultimately from the ancient state of Qin. This remains a common etymology.'",
+        "Incorrect. While CÄ«na is an early source, the common etymology traces it through Qin.",
+        "Incorrect. Yelang is a possible source but not the common etymology.",
+        "Incorrect. There is no mention of a Portuguese word for silk in the article."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which dynasty constructed the Grand Canal to link Northern and Southern China?",
+      "options": [
+        "Sui dynasty",
+        "Tang dynasty",
+        "Song dynasty",
+        "Yuan dynasty"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'China was reunited under the Sui dynasty in 589, which constructed the Grand Canal'.",
+        "Incorrect. The Tang dynasty succeeded the Sui but did not build the Grand Canal.",
+        "Incorrect. The Song dynasty came later and did not build the Grand Canal.",
+        "Incorrect. The Yuan dynasty also came later."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What event in 1949 led to the establishment of the People's Republic of China?",
+      "options": [
+        "The Chinese Communist Party proclaimed the PRC",
+        "The end of the Second Sino-Japanese War",
+        "The 1911 Revolution",
+        "The retreat of the ROC to Taiwan"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'In 1949, the Chinese Communist Party (CCP) proclaimed the PRC'.",
+        "Incorrect. The Second Sino-Japanese War ended in 1945, before the PRC was proclaimed.",
+        "Incorrect. The 1911 Revolution led to the Republic of China, not the PRC.",
+        "Incorrect. The retreat of the ROC to Taiwan occurred after the PRC was proclaimed."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is NOT one of the traditional 'three teachings' of Chinese philosophy mentioned in the article?",
+      "options": [
+        "Legalism",
+        "Confucianism",
+        "Daoism",
+        "Buddhism"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists Confucianism, Daoism, and Buddhism as the three teachings; Legalism is not included.",
+        "Incorrect. Confucianism is explicitly mentioned as one of the three teachings.",
+        "Incorrect. Daoism is explicitly mentioned as one of the three teachings.",
+        "Incorrect. Buddhism is explicitly mentioned as one of the three teachings."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What was the primary reason for the Song dynasty's focus on defense?",
+      "options": [
+        "It faced military crises and could not subdue its non-Han neighbors",
+        "It wanted to expand its territory through conquest",
+        "It was threatened by European colonial powers",
+        "It had a weak centralized government"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'The Song dynasty... faced military crises, unable to subdue its Sinicized non-Han neighbors... The Song's consistent focus on defense resulted in a heavily centralized state and military'.",
+        "Incorrect. The article emphasizes defense, not expansion.",
+        "Incorrect. European colonial powers are not mentioned in this context.",
+        "Incorrect. The article states the Song had a heavily centralized state."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which ethnic group is the dominant one in China?",
+      "options": [
+        "Han Chinese",
+        "Zhuang",
+        "Uyghurs",
+        "Tibetans"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The Han... are China's dominant ethnicity'.",
+        "Incorrect. The Zhuang are one of 55 recognized minorities, not dominant.",
+        "Incorrect. The Uyghurs are a recognized minority, not dominant.",
+        "Incorrect. Tibetans are a recognized minority, not dominant."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What major economic shift began in China in 1978?",
+      "options": [
+        "Reform and opening-up towards a socialist market economy",
+        "The establishment of a fully capitalist economy",
+        "The implementation of Maoist policies",
+        "The start of the Great Leap Forward"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'The reform and opening-up that began in 1978 moved China towards a socialist market economy'.",
+        "Incorrect. China moved to a socialist market economy, not a fully capitalist one.",
+        "Incorrect. Maoist policies were implemented earlier, not in 1978.",
+        "Incorrect. The Great Leap Forward occurred in the late 1950s and early 1960s."
+      ]
+    }
+  ]
+}

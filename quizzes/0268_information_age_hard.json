@@ -1,0 +1,167 @@
+{
+  "article_id": "0268",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what technological advance is linked to the onset of the Information Age?",
+      "options": [
+        "The development of the transistor in 1947",
+        "The invention of the World Wide Web in 1989",
+        "The introduction of the personal computer in the 1970s",
+        "The deployment of the T-carrier in 1962"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'The onset of the Information Age has been linked to the development of the transistor in 1947.'",
+        "Incorrect. The World Wide Web was invented in 1989, but the article links the onset of the Information Age to the transistor in 1947.",
+        "Incorrect. The personal computer was introduced in the 1970s, but the article identifies the transistor in 1947 as linked to the onset of the Information Age.",
+        "Incorrect. AT&T deployed the T-carrier in 1962, but the article associates the onset of the Information Age with the transistor's development in 1947."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What did the United Nations Public Administration Network identify as the driving force of social evolution in the Information Age?",
+      "options": [
+        "Modernized information systems and internet communications",
+        "The development of the transistor in 1947",
+        "The shift from traditional industries to an economy centered on information technology",
+        "The invention of the World Wide Web"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that computer miniaturization advances led to 'modernized information systems and internet communications as the driving force of social evolution.'",
+        "Incorrect. The transistor's development is linked to the onset of the Information Age, but the UN Public Administration Network specifically identified modernized information systems and internet communications as the driving force of social evolution.",
+        "Incorrect. This describes the general characterization of the Information Age, not the specific driving force of social evolution cited by the United Nations Public Administration Network.",
+        "Incorrect. The World Wide Web was invented in 1989, but the article attributes the driving force of social evolution to modernized information systems and internet communications."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What key capability of the digital revolution made it possible to make copies identical to the original?",
+      "options": [
+        "The conversion of technology from analog format to digital format",
+        "The development of repeating hardware for digital signals",
+        "The ability to move digital information between media",
+        "The change from analog to digitally recorded music"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'The digital revolution converted technology from analog format to digital format. By doing this, it became possible to make copies that were identical to the original.'",
+        "Incorrect. Repeating hardware could amplify digital signals with no loss of information, but the article attributes the ability to make identical copies to the conversion from analog to digital format.",
+        "Incorrect. The ability to move digital information between media was of equal importance to the revolution, but not the specific capability that made identical copies possible.",
+        "Incorrect. The change from analog to digitally recorded music was a turning point of the revolution, but not the capability that enabled identical copies."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What was Konrad Zuse's Z3, completed in 1941?",
+      "options": [
+        "The world's first working programmable, fully automatic digital computer",
+        "An electromechanical bombe used to break Enigma encoding",
+        "A base-10 electromechanical computer completed in 1944",
+        "A mechanical general-purpose computer proposed by Charles Babbage"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Konrad Zuse 'used electromechanical systems to complete in 1941 the Z3, the world's first working programmable, fully automatic digital computer.'",
+        "Incorrect. Bombes were constructed by Allied engineers during World War II to break Enigma encoding; the Z3 was Zuse's digital computer.",
+        "Incorrect. The Harvard Mark I was the base-10 electromechanical computer completed in 1944, not the Z3.",
+        "Incorrect. The Analytical Engine was Charles Babbage's proposed mechanical general-purpose computer, which was never successfully built."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What did the first integrated circuit milestone achieved by Jack Kilby in 1958 represent?",
+      "options": [
+        "The first integrated circuit milestone",
+        "The first single-chip microprocessor",
+        "The first commercially available general-purpose computer",
+        "The first working transistor"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'The first integrated circuit milestone was achieved by Jack Kilby in 1958.'",
+        "Incorrect. The Intel 4004 was the first single-chip microprocessor, released by Intel in 1971, not Kilby's 1958 achievement.",
+        "Incorrect. The LEO was the first commercially available general-purpose computer, not Kilby's integrated circuit milestone.",
+        "Incorrect. The first working transistor was invented in 1947 by Bardeen and Brattain, not by Kilby in 1958."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did the T1 format carry according to the article?",
+      "options": [
+        "24 pulse-code modulated, time-division multiplexed speech signals, each encoded in 64 kbit/s streams",
+        "Analog voice signals for long-haul transmission",
+        "Digital information between media with no loss of information",
+        "The first commercially available general-purpose computer"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'The T1 format carried 24 pulse-code modulated, time-division multiplexed speech signals, each encoded in 64 kbit/s streams, leaving 8 kbit/s of framing information.'",
+        "Incorrect. The T-carrier was deployed for digital voice transmission using pulse-code modulation, not analog voice signals.",
+        "Incorrect. Moving digital information between media was a capability of the digital revolution generally, not a specific feature of the T1 format.",
+        "Incorrect. The LEO was the first commercially available general-purpose computer, unrelated to the T1 format's specifications."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What did Federico Faggin develop in 1968 that he later used to create the Intel 4004?",
+      "options": [
+        "The silicon-gate MOS chip",
+        "The first integrated circuit",
+        "The point-contact transistor",
+        "The charge-coupled device"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'In 1968, Fairchild engineer Federico Faggin improved MOS technology with his development of the silicon-gate MOS chip, which he later used to develop the Intel 4004.'",
+        "Incorrect. The first integrated circuit milestone was achieved by Jack Kilby in 1958, not by Faggin in 1968.",
+        "Incorrect. The point-contact transistor was invented by Bardeen and Brattain in 1947, not by Faggin.",
+        "Incorrect. The charge-coupled device was developed by Boyle and Smith at Bell Labs in 1969, not by Faggin."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What job description was popularized as digital technology proliferated and the switch from analog to digital record keeping became standard in business?",
+      "options": [
+        "Data entry clerk",
+        "Computer programmer",
+        "Systems analyst",
+        "Network administrator"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'a relatively new job description was popularized, the data entry clerk,' whose job was to convert analog data into digital data.",
+        "Incorrect. The article does not mention computer programmers being popularized in this context.",
+        "Incorrect. The article does not mention systems analysts being popularized in this context.",
+        "Incorrect. The article does not mention network administrators being popularized in this context."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "When were digital cell phones first sold commercially according to the article?",
+      "options": [
+        "1991, when the 2G network started to be opened in Finland",
+        "1983, when Motorola created the DynaTAC",
+        "1989, when the World Wide Web was invented",
+        "The late 1990s, when analog continued in the last mile"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'digital cell phones were not sold commercially until 1991, when the 2G network started to be opened in Finland.'",
+        "Incorrect. Motorola created the first mobile phone, the DynaTAC, in 1983, but it used analog communication, not digital.",
+        "Incorrect. The World Wide Web was invented in 1989, but this is unrelated to the commercial sale of digital cell phones.",
+        "Incorrect. The article mentions that analog continued in the last mile into the late 1990s, but digital cell phones were sold commercially starting in 1991."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What was the first true digital camera created in, and when were the first marketed according to the article?",
+      "options": [
+        "Created in 1988; first marketed in December 1989 in Japan and in 1990 in the United States",
+        "Created in 1969; first marketed in the 1970s",
+        "Created in 1983; first marketed in 1984",
+        "Created in 1991; first marketed in 1992"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'The first true digital camera was created in 1988, and the first were marketed in December 1989 in Japan and in 1990 in the United States.'",
+        "Incorrect. The charge-coupled device image sensor was developed in 1969, but the first true digital camera was created in 1988.",
+        "Incorrect. Motorola created the DynaTAC in 1983, but this was a mobile phone, not a digital camera.",
+        "Incorrect. Digital cell phones were sold commercially starting in 1991, but the first true digital camera was created in 1988."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "article_id": "0092",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a computer?",
+      "options": [
+        "a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations",
+        "a device that only performs manual calculations",
+        "a type of software used for word processing",
+        "a network of human calculators"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations.",
+        "Incorrect. The article describes computers as automatic machines, not devices that only perform manual calculations.",
+        "Incorrect. Software is mentioned as part of a computer system, but a computer itself is defined as a machine, not software.",
+        "Incorrect. Human computers are discussed in the etymology section as people who carried out calculations, but a computer is defined as a machine."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does the term computer system refer to?",
+      "options": [
+        "a nominally complete computer that includes hardware, operating system, software, and peripheral equipment needed for full operation",
+        "only the central processing unit of a computer",
+        "a single peripheral device such as a keyboard",
+        "a type of computer program"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the term computer system may refer to a nominally complete computer that includes hardware, operating system, software, and peripheral equipment needed and used for full operation.",
+        "Incorrect. The article describes a computer system as including more than just the central processing unit.",
+        "Incorrect. A peripheral device is only one component of a computer system, not the entire system.",
+        "Incorrect. A computer program is part of a computer system, but the term refers to the complete computer including hardware and peripherals."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is listed as an example of a simple single-purpose device that uses a computer as a control system?",
+      "options": [
+        "key fobs",
+        "supercomputers",
+        "personal computers",
+        "mobile devices"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists key fobs, microwave ovens, and remote controls as simple single-purpose devices.",
+        "Incorrect. Supercomputers are mentioned at the opposite end of the range, not as simple single-purpose devices.",
+        "Incorrect. Personal computers are described as general-purpose devices, not simple single-purpose devices.",
+        "Incorrect. Mobile devices such as smartphones are described as general-purpose devices."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What were early computers meant to be used only for?",
+      "options": [
+        "calculations",
+        "word processing",
+        "gaming",
+        "networking"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that early computers were meant to be used only for calculations.",
+        "Incorrect. Word processing is not mentioned as a purpose of early computers.",
+        "Incorrect. Gaming is not mentioned as a purpose of early computers.",
+        "Incorrect. Networking is not mentioned as a purpose of early computers."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "During which conflict were early digital electronic calculating machines developed?",
+      "options": [
+        "World War II",
+        "World War I",
+        "the Cold War",
+        "the Korean War"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that early digital electronic calculating machines were developed during World War II.",
+        "Incorrect. World War I is not mentioned in connection with early digital electronic calculating machines.",
+        "Incorrect. The Cold War is not mentioned in connection with early digital electronic calculating machines.",
+        "Incorrect. The Korean War is not mentioned in connection with early digital electronic calculating machines."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is typically the processing element in a modern computer?",
+      "options": [
+        "central processing unit (CPU)",
+        "keyboard",
+        "monitor",
+        "printer"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that a modern computer typically has a central processing unit (CPU) in the form of a microprocessor as its processing element.",
+        "Incorrect. A keyboard is an input device, not the processing element.",
+        "Incorrect. A monitor is an output device, not the processing element.",
+        "Incorrect. A printer is an output device, not the processing element."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What did the word computer originally refer to before the mid-20th century?",
+      "options": [
+        "a human who carried out calculations or computations",
+        "a programmable digital electronic machine",
+        "a type of abacus",
+        "a mechanical loom"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the word computer originally referred to a human computer, a person who carried out calculations or computations.",
+        "Incorrect. The modern meaning of programmable digital electronic machine dates from 1945, not the original usage.",
+        "Incorrect. The abacus is mentioned as a manual instrument for calculations, but the word computer did not originally refer to it.",
+        "Incorrect. Mechanical looms are mentioned in the history of automation, but the word computer did not originally refer to them."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "According to the Oxford English Dictionary, in what year was the first known use of the word computer?",
+      "options": [
+        "1613",
+        "1897",
+        "1945",
+        "1937"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that according to the Oxford English Dictionary, the first known use of the word computer was in a 1613 book by Richard Brathwait.",
+        "Incorrect. 1897 is when the term began to mean calculating machine according to the Online Etymology Dictionary.",
+        "Incorrect. 1945 is when the modern use of the term dates from according to the Online Etymology Dictionary.",
+        "Incorrect. 1937 is when the theoretical use of the term dates from according to the Online Etymology Dictionary."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Who is considered the father of the computer?",
+      "options": [
+        "Charles Babbage",
+        "Richard Brathwait",
+        "Vannevar Bush",
+        "Leonardo Torres Quevedo"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Charles Babbage is considered the father of the computer.",
+        "Incorrect. Richard Brathwait is mentioned as the author of a 1613 book containing the first known use of the word computer.",
+        "Incorrect. Vannevar Bush developed mechanical differential analyzers starting in the 1920s, but is not called the father of the computer.",
+        "Incorrect. Leonardo Torres Quevedo developed advanced analog machines, but is not called the father of the computer."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What did Charles Babbage conceptualize and invent in the early 19th century?",
+      "options": [
+        "the first mechanical computer",
+        "the first electronic computer",
+        "the first smartphone",
+        "the first computer network"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Charles Babbage conceptualized and invented the first mechanical computer in the early 19th century.",
+        "Incorrect. The article does not state that Babbage invented the first electronic computer.",
+        "Incorrect. Smartphones are modern devices not invented by Babbage.",
+        "Incorrect. Computer networks are modern systems not invented by Babbage."
+      ]
+    }
+  ]
+}

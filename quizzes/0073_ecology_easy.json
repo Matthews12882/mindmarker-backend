@@ -1,0 +1,167 @@
+{
+  "article_id": "0073",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which two Greek words form the etymology of the term 'ecology'?",
+      "options": [
+        "'oÃ®kos' and '-logÃ­a'",
+        "'bios' and '-logia'",
+        "'eco' and '-logy'",
+        "'nature' and '-study'"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'Ecology' is derived from Ancient Greek Î¿á¼¶ÎºÎ¿Ï (oÃ®kos) meaning 'house' and -Î»Î¿Î³Î¯Î± (-logÃ­a) meaning 'study of'.",
+        "Incorrect. 'bios' and '-logia' are not mentioned as the source words for ecology.",
+        "Incorrect. The term does not come from 'eco' and '-logy'.",
+        "Incorrect. 'nature' and '-study' are not the Greek roots cited."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Who coined the term 'ecology' in 1866?",
+      "options": [
+        "Ernst Haeckel",
+        "Charles Darwin",
+        "Theodore Roosevelt",
+        "G. Evelyn Hutchinson"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the term ecology was coined in 1866 by the German scientist Ernst Haeckel.",
+        "Incorrect. Charles Darwin did not coin the term ecology.",
+        "Incorrect. Theodore Roosevelt was a U.S. president, not a scientist.",
+        "Incorrect. G. Evelyn Hutchinson contributed later, not in 1866."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT listed as a field that ecology overlaps with?",
+      "options": [
+        "Genetics",
+        "Ethology",
+        "Paleontology",
+        "Evolutionary biology"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists biogeography, evolutionary biology, genetics, and ethology as overlapping sciences; paleontology is not mentioned.",
+        "Incorrect. Genetics is listed as overlapping.",
+        "Incorrect. Ethology is listed as overlapping.",
+        "Incorrect. Evolutionary biology is listed as overlapping."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the primary focus of ecosystem ecology compared to population ecology?",
+      "options": [
+        "Materials and energy fluxes",
+        "Organisms' distribution and abundance",
+        "Species interactions only",
+        "Genetic diversity"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that population ecology focuses on organisms' distribution and abundance, while ecosystem ecology focuses on materials and energy fluxes.",
+        "Incorrect. That describes population ecology.",
+        "Incorrect. Species interactions are broader than the focus described.",
+        "Incorrect. Genetic diversity is not the primary focus."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an example of an ecosystem service mentioned in the article?",
+      "options": [
+        "Water filtration",
+        "Space travel",
+        "Industrial manufacturing",
+        "Financial trading"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists water filtration as one of the ecosystem services provided by ecosystems.",
+        "Incorrect. Space travel is not an ecosystem service mentioned.",
+        "Incorrect. Industrial manufacturing is not an ecosystem service.",
+        "Incorrect. Financial trading is not an ecosystem service."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What does the fundamental niche represent in ecology?",
+      "options": [
+        "The set of environmental conditions under which a species can persist",
+        "The set of ecological conditions including biotic interactions",
+        "The physical modifications made by organisms",
+        "The total biodiversity of an ecosystem"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines the fundamental niche as the set of environmental conditions under which a species is able to persist.",
+        "Incorrect. That describes the realized niche.",
+        "Incorrect. Physical modifications are related to niche construction, not the fundamental niche.",
+        "Incorrect. Biodiversity is a separate concept."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which level of ecological organization is considered the largest?",
+      "options": [
+        "Biosphere",
+        "Biome",
+        "Ecosystem",
+        "Population"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the biosphere is the largest scale of ecological organization, encompassing all ecosystems on the planet.",
+        "Incorrect. Biomes are larger than ecosystems but smaller than the biosphere.",
+        "Incorrect. Ecosystems are smaller than the biosphere.",
+        "Incorrect. Populations are much smaller."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What term describes the concept that small changes in critical variables can lead to disproportionate, perhaps irreversible, changes in system properties?",
+      "options": [
+        "Non-linear behaviors",
+        "Linear dynamics",
+        "Equilibrium stability",
+        "Homeostatic feedback"
+      ],
+      "answer_explanations": [
+        "Correct. The article explains that the hierarchy exhibits non-linear behaviors, meaning effect and cause are disproportionate, leading to large changes from small variables.",
+        "Incorrect. Linear dynamics would not produce disproportionate effects.",
+        "Incorrect. Equilibrium stability is not the term used.",
+        "Incorrect. Homeostatic feedback is not the term used."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT listed as a biome in the article?",
+      "options": [
+        "Tropical rainforest",
+        "Tundra",
+        "Coral reef",
+        "Taiga"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists tropical rainforest, temperate broadleaf and mixed forest, temperate deciduous forest, taiga, tundra, hot desert, and polar desert as biomes; coral reef is not listed.",
+        "Incorrect. Tundra is listed as a biome.",
+        "Incorrect. Coral reef is not mentioned as a biome in the article.",
+        "Incorrect. Taiga is listed as a biome."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What does the logistic equation model in population ecology?",
+      "options": [
+        "Population growth approaching a carrying capacity",
+        "Exponential growth without limits",
+        "Migration patterns only",
+        "Genetic mutation rates"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes the logistic equation as modeling population growth that approaches equilibrium, where the rate of increase balances crowding, leading to a carrying capacity K.",
+        "Incorrect. Exponential growth without limits is described by the Malthusian growth model, not the logistic equation.",
+        "Incorrect. Migration patterns are not the focus of the logistic equation.",
+        "Incorrect. Genetic mutation rates are not modeled by this equation."
+      ]
+    }
+  ]
+}

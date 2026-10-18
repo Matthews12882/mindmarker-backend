@@ -1,0 +1,167 @@
+{
+  "article_id": "0021",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the article, what is the photic zone?",
+      "options": [
+        "The depth at which light intensity is only 1% of the surface value",
+        "The deepest zone where no sunlight penetrates",
+        "The zone where ocean temperatures range between -2Â°C and 5Â°C",
+        "The zone where ocean currents are strongest"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the photic zone starts at the surface and is defined as 'the depth at which light intensity is only 1% of the surface value' (approximately 200 m in the open ocean).",
+        "Incorrect. The aphotic zone, not the photic zone, is the deeper ocean zone that is cold and dark.",
+        "Incorrect. Deep ocean temperatures ranging between -2Â°C and 5Â°C are mentioned separately and are not the definition of the photic zone.",
+        "Incorrect. Ocean currents are discussed in a separate section and are not used to define the photic zone."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is listed as a major ocean current in the article?",
+      "options": [
+        "Gulf Stream",
+        "Amazon Current",
+        "Mediterranean Current",
+        "Caribbean Current"
+      ],
+      "answer_explanations": [
+        "Correct. The article explicitly names the Gulf Stream as one of the major ocean currents, alongside the Kuroshio, Agulhas, and Antarctic Circumpolar Currents.",
+        "Incorrect. The Amazon Current is not mentioned in the article's list of major ocean currents.",
+        "Incorrect. The Mediterranean Current is not listed among the major ocean currents in the article.",
+        "Incorrect. The Caribbean Current is not mentioned in the article's discussion of major ocean currents."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What effect does the absorption of atmospheric CO2 by the oceans have, according to the article?",
+      "options": [
+        "Ocean acidification",
+        "Increased ocean salinity",
+        "Reduced oxygen levels",
+        "Higher surface temperatures"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as oceans absorb CO2 from the atmosphere, a higher concentration leads to ocean acidification, defined as a drop in pH value.",
+        "Incorrect. The article does not state that CO2 absorption increases ocean salinity.",
+        "Incorrect. The article does not link CO2 absorption to reduced oxygen levels.",
+        "Incorrect. While surface temperatures are discussed elsewhere, the article does not attribute them to CO2 absorption by the oceans."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What percentage of Earth's surface does the ocean cover?",
+      "options": [
+        "Approximately 70.8%",
+        "Approximately 50%",
+        "Approximately 97%",
+        "Approximately 30%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ocean covers approximately 70.8% of Earth.",
+        "Incorrect. The article does not state that the ocean covers 50% of Earth's surface.",
+        "Incorrect. The article states that the ocean contains 97% of Earth's water, not that it covers 97% of Earth's surface.",
+        "Incorrect. The article does not state that the ocean covers 30% of Earth's surface."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following best describes a 'sea' according to the article's terminology section?",
+      "options": [
+        "A body of water partly or fully enclosed by land",
+        "A body of water larger than an ocean",
+        "A body of water that contains no salt",
+        "A body of water found only in polar regions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that strictly speaking, a 'sea' is a body of water generally partly or fully enclosed by land.",
+        "Incorrect. The article does not describe seas as larger than oceans; it notes seas are generally smaller.",
+        "Incorrect. The article discusses seas as divisions of the world ocean, which is salt water, not bodies without salt.",
+        "Incorrect. The article does not restrict seas to polar regions."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the temperature range of deep ocean temperatures in all parts of the ocean, according to the article?",
+      "options": [
+        "Between -2Â°C (28Â°F) and 5Â°C (41Â°F)",
+        "Between 0Â°C and 10Â°C",
+        "Between -2Â°C and 30Â°C",
+        "Between 5Â°C and 30Â°C"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in all parts of the ocean, deep ocean temperatures range between -2Â°C (28Â°F) and 5Â°C (41Â°F).",
+        "Incorrect. The article does not give a deep ocean temperature range of 0Â°C to 10Â°C.",
+        "Incorrect. The article does not state that deep ocean temperatures range up to 30Â°C; surface temperatures in the tropics can rise above 30Â°C.",
+        "Incorrect. The article does not state that deep ocean temperatures range between 5Â°C and 30Â°C."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is identified in the article as an environmental threat to the ocean?",
+      "options": [
+        "Overfishing",
+        "Volcanic activity",
+        "Atmospheric escape",
+        "Plate tectonics"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists overfishing among the environmental threats the ocean faces, alongside marine pollution and the effects of climate change.",
+        "Incorrect. Volcanic activity is mentioned in the context of Earth's early atmosphere, not as an environmental threat to the ocean.",
+        "Incorrect. Atmospheric escape is discussed in the origin of water section, not as a threat to the ocean.",
+        "Incorrect. Plate tectonics is mentioned as changing coastlines, not as an environmental threat to the ocean."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What role does the ocean play in Earth's atmospheric oxygen supply, according to the article?",
+      "options": [
+        "It originated photosynthesis and still supplies half of Earth's atmospheric oxygen",
+        "It consumes most of Earth's atmospheric oxygen",
+        "It has no role in Earth's atmospheric oxygen",
+        "It supplies all of Earth's atmospheric oxygen"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ocean originated photosynthesis and therefore Earth's atmospheric oxygen, and still supplies half of it.",
+        "Incorrect. The article does not state that the ocean consumes most of Earth's atmospheric oxygen.",
+        "Incorrect. The article explicitly states the ocean plays a major role in atmospheric oxygen.",
+        "Incorrect. The article states the ocean supplies half, not all, of Earth's atmospheric oxygen."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, what happened to ocean levels during the last ice age?",
+      "options": [
+        "Oceans were about 122 m (400 ft) lower than today",
+        "Oceans were about 122 m (400 ft) higher than today",
+        "Oceans were about 5.5 m (18 ft) higher than today",
+        "Oceans were about 50 m (165 ft) higher than today"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that during the last ice age, glaciers covered almost one-third of Earth's landmass, resulting in oceans about 122 m (400 ft) lower than today.",
+        "Incorrect. The article states oceans were lower, not higher, during the last ice age.",
+        "Incorrect. The article states seas were about 5.5 m higher during the last global warm spell, about 125,000 years ago, not during the last ice age.",
+        "Incorrect. The article states oceans could have been up to 50 m higher about three million years ago, not during the last ice age."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which of the following forces is identified in the article as causing ocean currents?",
+      "options": [
+        "Temperature and salinity differences",
+        "The rotation of Earth's inner core",
+        "Underwater volcanic eruptions",
+        "The gravitational pull of Mars"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that ocean currents are caused by forces operating on the water, such as temperature and salinity differences, atmospheric circulation (wind), and the Coriolis effect.",
+        "Incorrect. The rotation of Earth's inner core is not mentioned in the article as a cause of ocean currents.",
+        "Incorrect. Underwater volcanic eruptions are not listed in the article as a cause of ocean currents.",
+        "Incorrect. The gravitational pull of Mars is not mentioned in the article as a cause of ocean currents."
+      ]
+    }
+  ]
+}

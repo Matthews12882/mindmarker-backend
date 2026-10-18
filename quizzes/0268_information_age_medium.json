@@ -1,0 +1,167 @@
+{
+  "article_id": "0268",
+  "difficulty": "medium",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which technological advance in 1947 is linked to the onset of the Information Age?",
+      "options": [
+        "The development of the transistor",
+        "The invention of the personal computer",
+        "The creation of the World Wide Web",
+        "The deployment of the T-carrier system"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'The onset of the Information Age has been linked to the development of the transistor in 1947.'",
+        "Incorrect. The article notes that digital communication became economical after the invention of the personal computer in the 1970s, not 1947.",
+        "Incorrect. Tim Berners-Lee invented the World Wide Web in 1989, not 1947.",
+        "Incorrect. AT&T deployed the T-carrier in 1962, not 1947."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the United Nations Public Administration Network, what became the driving force of social evolution in the Information Age?",
+      "options": [
+        "Internet communications",
+        "Analog electronics",
+        "Mechanical calculators",
+        "Punch card technology"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that internet communications became 'the driving force of social evolution' according to the United Nations Public Administration Network.",
+        "Incorrect. Analog electronics are mentioned as an older format replaced by digital compact discs, not as a driving force of social evolution.",
+        "Incorrect. Mechanical calculators appeared in the 1600s as earlier calculating devices, not as part of the Information Age's driving force.",
+        "Incorrect. Punch cards were an enabling technology of the Industrial Revolution era, not cited by the UN as the driving force of social evolution."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What was one advantage of converting technology from analog to digital format during the digital revolution?",
+      "options": [
+        "Copies could be made identical to the original",
+        "Signals could be transmitted without any hardware",
+        "Information could only be accessed locally",
+        "Digital media degraded more quickly than analog media"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that by converting to digital format, 'it became possible to make copies that were identical to the original.'",
+        "Incorrect. The article mentions repeating hardware was used to amplify digital signals, not that signals could be transmitted without hardware.",
+        "Incorrect. The article highlights the ability to 'access or distribute it remotely,' which is the opposite of local-only access.",
+        "Incorrect. The article describes digital copies as identical to the original, implying no degradation, unlike analog formats."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which device is described as the world's first working programmable, fully automatic digital computer?",
+      "options": [
+        "The Z3",
+        "The Harvard Mark I",
+        "The Analytical Engine",
+        "The LEO"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Konrad Zuse completed the Z3 in 1941, 'the world's first working programmable, fully automatic digital computer.'",
+        "Incorrect. The Harvard Mark I was completed in 1944 and was inspired by Babbage's designs, but is not called the first working programmable, fully automatic digital computer.",
+        "Incorrect. Charles Babbage proposed the Analytical Engine, but it was never successfully built.",
+        "Incorrect. The LEO was the first commercially available general-purpose computer, not the first working programmable, fully automatic digital computer."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Who is generally credited with laying the foundations of digitalization in a 1948 article?",
+      "options": [
+        "Claude Shannon",
+        "John Bardeen",
+        "Tim Berners-Lee",
+        "Robert Noyce"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Claude Shannon, a Bell Labs mathematician, 'is generally credited with laying the foundations of digitalization in his pioneering 1948 article, A Mathematical Theory of Communication.'",
+        "Incorrect. John Bardeen co-invented the transistor in 1947, but is not credited with laying the foundations of digitalization in a 1948 article.",
+        "Incorrect. Tim Berners-Lee invented the World Wide Web in 1989.",
+        "Incorrect. Robert Noyce invented the monolithic integrated circuit chip in 1959."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What was the first commercially available general-purpose computer mentioned in the article?",
+      "options": [
+        "The LEO",
+        "The Z3",
+        "The Harvard Mark I",
+        "The Intel 4004"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the LEO was 'the first commercially available general-purpose computer.'",
+        "Incorrect. The Z3 was the world's first working programmable, fully automatic digital computer, but not the first commercially available general-purpose computer.",
+        "Incorrect. The Harvard Mark I was completed in 1944 and was inspired by Babbage's designs, but is not identified as the first commercially available general-purpose computer.",
+        "Incorrect. The Intel 4004 was the first single-chip microprocessor, released in 1971."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What percentage of U.S. households owned a personal computer in 1984 according to the U.S. Census Bureau?",
+      "options": [
+        "8.2%",
+        "15.3%",
+        "22.9%",
+        "15%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the U.S. Census Bureau's first survey showed that 8.2% of all U.S. households owned a personal computer in 1984.",
+        "Incorrect. 15.3% was the percentage of households with children under 18 that owned a computer in 1984, not all households.",
+        "Incorrect. 22.9% was the percentage of middle and upper middle class households that owned a computer in 1984.",
+        "Incorrect. 15% was the percentage of all U.S. households that owned a computer by 1989, not 1984."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "When were digital cell phones first sold commercially?",
+      "options": [
+        "1991",
+        "1983",
+        "1989",
+        "1994"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that digital cell phones were not sold commercially until 1991, when the 2G network started to be opened in Finland.",
+        "Incorrect. 1983 was when Motorola created the first mobile phone, the DynaTac, which used analog communication.",
+        "Incorrect. 1989 is not mentioned as the year digital cell phones were first sold commercially.",
+        "Incorrect. 1994 is mentioned as the end year for Commodore 64 sales estimates, not for digital cell phone commercial availability."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which company's CAPS system was used for animation films between 1990 and 2004?",
+      "options": [
+        "Disney",
+        "Apple",
+        "Commodore",
+        "Tandy"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Disney's CAPS system was used for all their animation films between 1990's The Rescuers Down Under and 2004's Home on the Range.",
+        "Incorrect. Apple is mentioned as an early personal computer manufacturer, not as the creator of the CAPS animation system.",
+        "Incorrect. Commodore is mentioned as an early personal computer manufacturer, not as the creator of the CAPS animation system.",
+        "Incorrect. Tandy is mentioned as an early personal computer manufacturer, not as the creator of the CAPS animation system."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What did the change from analog to digitally recorded music during the 1980s illustrate about the digital revolution?",
+      "options": [
+        "It was a turning point in the revolution",
+        "It proved analog sound was superior to digital sound",
+        "It decreased the ability to distribute music remotely",
+        "It made copying music more difficult"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'One turning point of the revolution was the change from analog to digitally recorded music.'",
+        "Incorrect. The article does not claim analog sound was superior; it describes digital formats replacing analog ones.",
+        "Incorrect. The article emphasizes the ability to 'access or distribute it remotely' as an advantage of digital information.",
+        "Incorrect. The article states digital format made it possible to make copies identical to the original, implying copying became easier, not more difficult."
+      ]
+    }
+  ]
+}

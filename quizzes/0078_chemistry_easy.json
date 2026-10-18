@@ -1,0 +1,167 @@
+{
+  "article_id": "0078",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does chemistry study according to the article?",
+      "options": [
+        "The properties and behavior of matter",
+        "The properties and behavior of energy",
+        "The properties and behavior of forces",
+        "The properties and behavior of light"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that chemistry is the scientific study of the properties and behavior of matter.",
+        "Incorrect. The article does not say chemistry studies energy specifically.",
+        "Incorrect. The article does not say chemistry studies forces specifically.",
+        "Incorrect. The article does not say chemistry studies light specifically."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Why is chemistry sometimes called the central science?",
+      "options": [
+        "Because it provides a foundation for understanding basic and applied scientific disciplines at a fundamental level",
+        "Because it is the oldest of all sciences",
+        "Because it is the only science that uses mathematics",
+        "Because it studies only chemical reactions"
+      ],
+      "answer_explanations": [
+        "Correct. The article states chemistry is called the central science because it provides a foundation for understanding both basic and applied scientific disciplines at a fundamental level.",
+        "Incorrect. The article does not claim chemistry is the oldest science.",
+        "Incorrect. The article does not claim chemistry is the only science that uses mathematics.",
+        "Incorrect. The article does not say chemistry studies only chemical reactions."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "From which word does the modern word chemistry come?",
+      "options": [
+        "Alchemy",
+        "Physics",
+        "Biology",
+        "Mathematics"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the word chemistry comes from a modification during the Renaissance of the word alchemy.",
+        "Incorrect. The article does not say chemistry comes from physics.",
+        "Incorrect. The article does not say chemistry comes from biology.",
+        "Incorrect. The article does not say chemistry comes from mathematics."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the current model of atomic structure?",
+      "options": [
+        "The quantum mechanical model",
+        "The Bohr model",
+        "The plum pudding model",
+        "The Dalton model"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the current model of atomic structure is the quantum mechanical model.",
+        "Incorrect. The article does not mention the Bohr model as the current model.",
+        "Incorrect. The article does not mention the plum pudding model as the current model.",
+        "Incorrect. The article does not mention the Dalton model as the current model."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is a chemical reaction?",
+      "options": [
+        "A transformation of some substances into one or more different substances",
+        "A change in the temperature of a substance",
+        "A change in the color of a substance",
+        "A change in the state of matter of a substance"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a chemical reaction as a transformation of some substances into one or more different substances.",
+        "Incorrect. The article does not define a chemical reaction as a temperature change.",
+        "Incorrect. The article does not define a chemical reaction as a color change.",
+        "Incorrect. The article does not define a chemical reaction as a change in state of matter."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the atom described as in chemistry?",
+      "options": [
+        "The basic unit of chemistry",
+        "The largest unit of chemistry",
+        "The only unit of chemistry",
+        "The most complex unit of chemistry"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the atom is the basic unit of chemistry.",
+        "Incorrect. The article does not say the atom is the largest unit.",
+        "Incorrect. The article does not say the atom is the only unit.",
+        "Incorrect. The article does not say the atom is the most complex unit."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What characterizes a chemical element?",
+      "options": [
+        "A pure substance composed of a single type of atom",
+        "A mixture of different types of atoms",
+        "A substance with no definite composition",
+        "A substance made only of molecules"
+      ],
+      "answer_explanations": [
+        "Correct. The article states a chemical element is a pure substance composed of a single type of atom.",
+        "Incorrect. The article defines an element as a pure substance, not a mixture.",
+        "Incorrect. The article says an element has a definite composition.",
+        "Incorrect. The article does not say an element is made only of molecules."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is a compound?",
+      "options": [
+        "A pure chemical substance composed of more than one element",
+        "A pure substance made of only one element",
+        "A mixture of two or more substances",
+        "A substance that cannot be broken down"
+      ],
+      "answer_explanations": [
+        "Correct. The article states a compound is a pure chemical substance composed of more than one element.",
+        "Incorrect. A substance made of only one element is an element, not a compound.",
+        "Incorrect. The article defines a compound as a pure substance, not a mixture.",
+        "Incorrect. The article does not say a compound cannot be broken down."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is a molecule?",
+      "options": [
+        "The smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties",
+        "A collection of atoms with no chemical properties",
+        "A type of mixture",
+        "A charged particle only found in solids"
+      ],
+      "answer_explanations": [
+        "Correct. The article defines a molecule as the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties.",
+        "Incorrect. The article says molecules have unique chemical properties.",
+        "Incorrect. The article does not define a molecule as a mixture.",
+        "Incorrect. The article does not say molecules are charged particles only found in solids."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is one mole defined to contain?",
+      "options": [
+        "Exactly 6.02214076Ã10^23 particles",
+        "Exactly 6.02214076Ã10^22 particles",
+        "Exactly 6.02214076Ã10^24 particles",
+        "Exactly 6.02214076Ã10^21 particles"
+      ],
+      "answer_explanations": [
+        "Correct. The article states one mole is defined to contain exactly 6.02214076Ã10^23 particles.",
+        "Incorrect. The article specifies 10^23, not 10^22.",
+        "Incorrect. The article specifies 10^23, not 10^24.",
+        "Incorrect. The article specifies 10^23, not 10^21."
+      ]
+    }
+  ]
+}

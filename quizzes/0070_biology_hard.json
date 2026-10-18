@@ -1,0 +1,167 @@
+{
+  "article_id": "0070",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is NOT one of the five fundamental themes of biology listed in the article?",
+      "options": [
+        "The cell as the basic unit of life",
+        "Genes and heredity as the basis of inheritance",
+        "Evolution as the driver of biological diversity",
+        "Spontaneous generation as the origin of all cells"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists five fundamental themes: cell as basic unit of life, genes and heredity, evolution, energy transformation, and homeostasis; spontaneous generation is not among them.",
+        "Incorrect. The article explicitly names the cell as the basic unit of life as one of the five central themes.",
+        "Incorrect. The article explicitly names genes and heredity as the basis of inheritance as one of the five central themes.",
+        "Incorrect. The article explicitly names evolution as the driver of biological diversity as one of the five central themes."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "According to the article, what was the significance of Schleiden and Schwann's work in 1838?",
+      "options": [
+        "They promoted the ideas that the cell is the basic unit of organisms and that individual cells have all the characteristics of life.",
+        "They proved that all cells arise from the division of pre-existing cells.",
+        "They discovered spermatozoa and bacteria using improved microscopes.",
+        "They introduced the term biology in its modern sense in 1802."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in 1838 Schleiden and Schwann began promoting the ideas that the basic unit of organisms is the cell and that individual cells have all the characteristics of life.",
+        "Incorrect. The article credits Robert Remak and Rudolf Virchow with establishing that all cells come from the division of other cells, not Schleiden and Schwann.",
+        "Incorrect. The article attributes the discovery of spermatozoa and bacteria to Anton van Leeuwenhoek's improvement of the microscope, not to Schleiden and Schwann.",
+        "Incorrect. The article says the term biology in its modern sense was introduced by Thomas Beddoes, Karl Friedrich Burdach, Gottfried Reinhold Treviranus, and Jean-Baptiste Lamarck, not by Schleiden and Schwann."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "A researcher wants to determine whether a newly discovered organ in deep-sea fish shares an evolutionary origin with the eyes of insects, vertebrates, and cephalopods. Based on the article, which concept would best support the hypothesis that these organs are evolutionarily related despite their dissimilar appearance?",
+      "options": [
+        "Deep homology, the finding that dissimilar organs can be controlled by similar genes from the evo-devo gene toolkit.",
+        "Binomial nomenclature, the system of scientific names introduced by Carl Linnaeus.",
+        "Spontaneous generation, the idea that living forms arise from non-living matter.",
+        "Homeostasis, the maintenance of internal stability in living organisms."
+      ],
+      "answer_explanations": [
+        "Correct. The article describes deep homology as the finding that dissimilar organs such as insect, vertebrate, and cephalopod eyes are controlled by similar genes from the evo-devo gene toolkit.",
+        "Incorrect. Binomial nomenclature is a naming system introduced by Linnaeus and does not address evolutionary relationships between dissimilar organs.",
+        "Incorrect. Spontaneous generation is mentioned as an idea opposed by cell theory and is unrelated to evolutionary relatedness of organs.",
+        "Incorrect. Homeostasis refers to the maintenance of internal stability and does not explain shared evolutionary origins of dissimilar organs."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following best describes the relationship between classical genetics and Mendelian inheritance according to the article?",
+      "options": [
+        "Classical genetics is the study of how genes and traits are passed from parents to offspring, and its principles are called Mendelian inheritance.",
+        "Mendelian inheritance is a subfield of classical genetics that focuses exclusively on fruit fly experiments.",
+        "Classical genetics and Mendelian inheritance are unrelated concepts introduced by different scientists.",
+        "Mendelian inheritance predates classical genetics and was developed by Thomas Hunt Morgan."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that classical genetics is the study of how genes and traits are passed on from parents to offspring and that its principles are called Mendelian inheritance.",
+        "Incorrect. The article does not describe Mendelian inheritance as a subfield focused on fruit flies; fruit fly experiments are associated with Thomas Hunt Morgan's work on the chromosome theory of inheritance.",
+        "Incorrect. The article directly links classical genetics and Mendelian inheritance, stating that the principles of classical genetics are called Mendelian inheritance.",
+        "Incorrect. The article attributes Mendelian inheritance to Gregor Mendel's work, not to Thomas Hunt Morgan, and does not state that Mendelian inheritance predates classical genetics."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Based on the article, which of the following best explains why the discovery of DNA's structure by Watson and Crick in 1953 marked a major transition in biology?",
+      "options": [
+        "It marked the transition to the era of molecular genetics, along with a focus on new model organisms such as viruses and bacteria.",
+        "It immediately led to the launch of the Human Genome Project in 1953.",
+        "It disproved the chromosome theory of inheritance proposed by Thomas Hunt Morgan.",
+        "It established that genes are found on chromosomes through experiments with fruit flies."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the discovery of the double-helical structure of DNA by Watson and Crick in 1953, along with a focus on new model organisms such as viruses and bacteria, marked the transition to the era of molecular genetics.",
+        "Incorrect. The article says the Human Genome Project was launched in 1990, not in 1953.",
+        "Incorrect. The article does not state that the discovery of DNA's structure disproved the chromosome theory of inheritance; Morgan's experiments supported that theory.",
+        "Incorrect. The article attributes the chromosome theory of inheritance support to Thomas Hunt Morgan's fruit fly experiments, not to Watson and Crick's discovery of DNA's structure."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, which of the following is a defining characteristic of biochemistry?",
+      "options": [
+        "The study of chemical processes within and relating to living organisms.",
+        "The study of the molecular basis of biological activity in and between cells.",
+        "The study of the structure, function, and behaviour of cells.",
+        "The scientific study of inheritance and how traits are passed from parents to offspring."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines biochemistry as the study of chemical processes within and relating to living organisms.",
+        "Incorrect. The article defines molecular biology, not biochemistry, as the branch that seeks to understand the molecular basis of biological activity in and between cells.",
+        "Incorrect. The article defines cell biology, not biochemistry, as the branch that studies the structure, function, and behaviour of cells.",
+        "Incorrect. The article defines genetics, not biochemistry, as the scientific study of inheritance."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "The article states that modern biology is grounded in two major foundations. Which of the following pairs best represents those foundations?",
+      "options": [
+        "The theory of evolution by natural selection and the molecular understanding of genes encoded in DNA.",
+        "The cell theory and the theory of spontaneous generation.",
+        "The MillerâUrey experiment and the Human Genome Project.",
+        "Binomial nomenclature and the modern synthesis."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that modern biology is grounded in the theory of evolution by natural selection and in the molecular understanding of genes encoded in DNA.",
+        "Incorrect. The article presents spontaneous generation as an idea opposed by cell theory, not as a foundation of modern biology.",
+        "Incorrect. The MillerâUrey experiment and the Human Genome Project are mentioned as specific milestones, not as the two foundations of modern biology.",
+        "Incorrect. Binomial nomenclature and the modern synthesis are discussed in the article but are not identified as the two grounding foundations of modern biology."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Based on the article, what was Robert Remak and Rudolf Virchow's key contribution to cell theory?",
+      "options": [
+        "They reified the tenet that all cells come from the division of other cells.",
+        "They proposed that the basic unit of organisms is the cell.",
+        "They discovered spermatozoa and bacteria using improved microscopes.",
+        "They introduced the term biology in its modern sense."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Robert Remak and Rudolf Virchow were able to reify the third tenet of cell theoryâthat all cells come from the division of other cells.",
+        "Incorrect. The article credits Schleiden and Schwann with promoting the idea that the basic unit of organisms is the cell, not Remak and Virchow.",
+        "Incorrect. The article attributes the discovery of spermatozoa and bacteria to Anton van Leeuwenhoek's improvement of the microscope.",
+        "Incorrect. The article attributes the introduction of the term biology in its modern sense to Thomas Beddoes, Karl Friedrich Burdach, Gottfried Reinhold Treviranus, and Jean-Baptiste Lamarck."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "According to the article, which of the following best describes the focus of evolutionary developmental biology?",
+      "options": [
+        "Comparing the developmental processes of different organisms to infer how developmental processes evolved.",
+        "Studying how genetic variation develops and is inherited within populations.",
+        "Investigating chemical processes within and relating to living organisms.",
+        "Classifying organisms based on shared characteristics and evolutionary relationships."
+      ],
+      "answer_explanations": [
+        "Correct. The article states that evolutionary developmental biology compares the developmental processes of different organisms to infer how developmental processes evolved.",
+        "Incorrect. The article describes population genetics as the field that studies how genetic variation develops and is inherited, not evolutionary developmental biology.",
+        "Incorrect. The article defines biochemistry as the study of chemical processes within and relating to living organisms.",
+        "Incorrect. The article describes taxonomy and phylogenetics as the means of classifying organisms based on shared characteristics and evolutionary relationships."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "A scientist is designing a study to investigate how energy flows through a living system, including cellular respiration and other metabolic processes. Based on the article, which field is most directly relevant to this research?",
+      "options": [
+        "Bioenergetics.",
+        "Systematics.",
+        "Developmental biology.",
+        "Physiology."
+      ],
+      "answer_explanations": [
+        "Correct. The article defines bioenergetics as a field concerned with energy flow through living systems, including cellular respiration and metabolic processes.",
+        "Incorrect. The article mentions systematics as a subdiscipline of biology but does not define it as the study of energy flow through living systems.",
+        "Incorrect. The article mentions developmental biology as a subdiscipline but does not associate it with the study of energy flow and metabolic processes.",
+        "Incorrect. The article mentions physiology as a subdiscipline but does not define it specifically as the study of energy flow through living systems; bioenergetics is the field described that way."
+      ]
+    }
+  ]
+}

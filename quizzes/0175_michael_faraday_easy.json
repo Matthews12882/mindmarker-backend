@@ -1,0 +1,167 @@
+{
+  "article_id": "0175",
+  "difficulty": "easy",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What was Michael Faraday's nationality?",
+      "options": [
+        "English",
+        "Scottish",
+        "Welsh",
+        "Irish"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Michael Faraday was an English chemist and physicist.",
+        "Incorrect. The article identifies Faraday as English, not Scottish.",
+        "Incorrect. The article identifies Faraday as English, not Welsh.",
+        "Incorrect. The article identifies Faraday as English, not Irish."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What was Michael Faraday's date of birth?",
+      "options": [
+        "22 September 1791",
+        "25 August 1867",
+        "12 June 1821",
+        "1 March 1813"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Michael Faraday was born on 22 September 1791.",
+        "Incorrect. 25 August 1867 is Faraday's date of death, not his birth date.",
+        "Incorrect. 12 June 1821 is the date Faraday married Sarah Barnard.",
+        "Incorrect. 1 March 1813 is the date Faraday was appointed Chemical Assistant at the Royal Institution."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which SI unit is named after Michael Faraday?",
+      "options": [
+        "farad",
+        "volt",
+        "watt",
+        "ohm"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the SI unit of capacitance, the farad, is named after him.",
+        "Incorrect. The article does not mention the volt being named after Faraday.",
+        "Incorrect. The article does not mention the watt being named after Faraday.",
+        "Incorrect. The article does not mention the ohm being named after Faraday."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which chemical substance did Faraday discover?",
+      "options": [
+        "benzene",
+        "oxygen",
+        "hydrogen",
+        "nitrogen"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as a chemist, Faraday discovered benzene.",
+        "Incorrect. The article does not state that Faraday discovered oxygen.",
+        "Incorrect. The article does not state that Faraday discovered hydrogen.",
+        "Incorrect. The article does not state that Faraday discovered nitrogen."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What position did Faraday hold at the Royal Institution?",
+      "options": [
+        "Fullerian Professor of Chemistry",
+        "President of the Royal Society",
+        "Director of the Royal Mint",
+        "Head of the Royal Philharmonic Society"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Faraday became the first Fullerian Professor of Chemistry at the Royal Institution.",
+        "Incorrect. The article states that Faraday twice refused to become President of the Royal Society.",
+        "Incorrect. The article does not state that Faraday was Director of the Royal Mint.",
+        "Incorrect. The article does not state that Faraday was Head of the Royal Philharmonic Society."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did Faraday refuse to work on during the Crimean War?",
+      "options": [
+        "chemical weapons",
+        "lighthouse optimization",
+        "ship corrosion protection",
+        "coal mine safety"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Faraday refused to work on developing chemical weapons for use in the Crimean War.",
+        "Incorrect. Faraday worked on optimising lighthouses, but this was not what he refused during the Crimean War.",
+        "Incorrect. Faraday worked on protecting ships from corrosion, but this was not what he refused during the Crimean War.",
+        "Incorrect. Faraday investigated a colliery explosion, but this was not what he refused during the Crimean War."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Where was Faraday interred?",
+      "options": [
+        "Highgate Cemetery",
+        "Westminster Abbey",
+        "St Paul's Cathedral",
+        "Hampton Court"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Faraday was interred in the dissenters' section of Highgate Cemetery.",
+        "Incorrect. The article states that Faraday turned down an offer of burial in Westminster Abbey.",
+        "Incorrect. The article does not mention St Paul's Cathedral as Faraday's burial place.",
+        "Incorrect. Hampton Court is where Faraday lived and died, not where he was interred."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Who gave Faraday tickets to attend Humphry Davy's lectures?",
+      "options": [
+        "William Dance",
+        "John Tatum",
+        "Sarah Barnard",
+        "James Clerk Maxwell"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that many of the tickets for Davy's lectures were given to Faraday by William Dance.",
+        "Incorrect. John Tatum was the founder of the City Philosophical Society, not the person who gave Faraday lecture tickets.",
+        "Incorrect. Sarah Barnard was Faraday's wife, not the person who gave him lecture tickets.",
+        "Incorrect. James Clerk Maxwell summarised Faraday's work in equations, but did not give him lecture tickets."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What did Faraday decline to have published?",
+      "options": [
+        "his lectures",
+        "his research papers",
+        "his letters",
+        "his diary"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Faraday declined to have his lectures published.",
+        "Incorrect. The article does not state that Faraday declined to have his research papers published.",
+        "Incorrect. The article does not state that Faraday declined to have his letters published.",
+        "Incorrect. The article does not state that Faraday declined to have his diary published."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "How many children did Faraday and Sarah Barnard have?",
+      "options": [
+        "none",
+        "one",
+        "two",
+        "three"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Faraday and Sarah Barnard had no children.",
+        "Incorrect. The article states they had no children, not one.",
+        "Incorrect. The article states they had no children, not two.",
+        "Incorrect. The article states they had no children, not three."
+      ]
+    }
+  ]
+}
