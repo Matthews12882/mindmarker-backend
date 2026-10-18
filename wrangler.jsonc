@@ -1,0 +1,29 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+
+  // Must match the Worker name in the Cloudflare dashboard if you connect this
+  // repo to Workers Builds (Git integration).
+  "name": "congressional-app-backend-2026",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-18",
+  "observability": { "enabled": true },
+
+  // Everything under public/ is uploaded as static assets and served directly.
+  // `npm run build` assembles it from articles/ and quizzes/.
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    // Always run src/index.js first for /api/* so the API can never be shadowed
+    // by a file on disk. Every other path is served from assets when it exists.
+    "run_worker_first": ["/api/*"],
+    "not_found_handling": "none"
+  }
+
+  // Optional: attach the production hostname during `wrangler deploy`.
+  // The domain must already be an active zone in this Cloudflare account.
+  // Uncomment and replace with your real hostname:
+  //
+  // "routes": [
+  //   { "pattern": "apicongressapp2026backend.mydomain.com", "custom_domain": true }
+  // ]
+}

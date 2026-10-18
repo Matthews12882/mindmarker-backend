@@ -1,0 +1,19 @@
+{
+  "name": "congressional-app-backend-2026",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Content API for the Reading-Quiz app: serves the Wikipedia article corpus and the pre-generated quizzes from Cloudflare Workers static assets.",
+  "scripts": {
+    "build": "node scripts/build-public.mjs",
+    "dev": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "test": "npm run build && node tests/api.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

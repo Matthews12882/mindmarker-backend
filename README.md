@@ -30,7 +30,8 @@ Design goals:
 | Article corpus (300 vital articles as clean Markdown) | ✅ done |
 | `get_articles.py` downloader | ✅ done |
 | AI quiz generation (`generate_quizzes.py`) | ✅ done (900 quizzes for 300 articles) |
-| Backend API / database | ⏳ planned |
+| Content API (Cloudflare Worker + static assets) | ✅ done — see [`DEPLOY.md`](DEPLOY.md) |
+| Database / users / progress | ⏳ planned |
 | Frontend / gamification | ⏳ planned |
 
 The backend currently produces a local, self-contained corpus of articles and
@@ -52,6 +53,12 @@ congressional-app-backend-2026/
 │   ├── quiz_prompt.md    #   the reusable generation prompt
 │   └── NNNN_<slug>_<difficulty>.json
 ├── articles.json         # placeholder (reserved)
+├── src/index.js          # Cloudflare Worker: the /api/* JSON API
+├── scripts/build-public.mjs  # assembles public/ (the deployed static assets)
+├── wrangler.jsonc        # Cloudflare Worker configuration
+├── package.json          # build / dev / deploy scripts
+├── DEPLOY.md             # how to deploy the API on Cloudflare
+├── tests/api.test.mjs    # API checks against the real corpus (npm test)
 ├── venv/                 # local virtualenv (not tracked)
 └── README.md             # this file
 ```
@@ -112,12 +119,31 @@ id: 0001
 `pageid` field is Wikimedia's permanent page id — use it as a durable key if the
 ranking-based `NNNN` ids ever change.
 
+## Deploying the API
+
+The corpus and quizzes are served by a Cloudflare Worker (static assets + a
+small JSON API) so the frontend can read them over HTTP, for example:
+
+```
+GET https://apicongressapp2026backend.<domain>/api/articles?topic=History
+GET https://apicongressapp2026backend.<domain>/api/quizzes/0001/easy
+GET https://apicongressapp2026backend.<domain>/api/random?difficulty=medium
+```
+
+```bash
+npm run dev       # local Worker at http://localhost:8787
+npm run deploy    # build public/ and deploy
+```
+
+Full setup, GitHub auto-deploy, the custom domain and the endpoint reference are
+in **[`DEPLOY.md`](DEPLOY.md)**.
+
 ## Planned architecture
 
 - **Frontend / UI** — Streamlit (fast prototyping) or HTML; article browse +
   random-article button, reading view, quiz view, gamified progress page.
-- **Backend / API** — Python service exposing article + quiz endpoints (JSON over
-  HTTP), containerised with Docker and reachable via a Cloudflare tunnel.
+- **Backend / API** — ✅ Cloudflare Worker serving the corpus and quizzes as
+  static assets behind a JSON API (`src/index.js`, see [`DEPLOY.md`](DEPLOY.md)).
 - **Database** — PostgreSQL (Supabase-friendly). Simple, id-linked tables:
   `content` (articles/quizzes), `users` (profile, prefs), `progress`
   (completed articles/quizzes), `achievements` (points, level, badges).
@@ -136,9 +162,9 @@ ranking-based `NNNN` ids ever change.
 
 ## Roadmap
 
-- [ ] Generate + review a batch of quizzes from the corpus (AI pipeline)
+- [x] Generate + review a batch of quizzes from the corpus (AI pipeline)
 - [ ] Define and store the article/quiz schema in PostgreSQL
-- [ ] Build the API (random article, get article + quiz, submit answers)
+- [x] Build the API (random article, get article + quiz, submit answers)
 - [ ] Gamification: points, levels, streaks, badges
 - [ ] Streamlit frontend: browse → read → quiz → results
 
