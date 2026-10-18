@@ -13,9 +13,16 @@
   "assets": {
     "directory": "./public",
     "binding": "ASSETS",
-    // Always run src/index.js first for /api/* so the API can never be shadowed
-    // by a file on disk. Every other path is served from assets when it exists.
-    "run_worker_first": ["/api/*"],
+    // Run src/index.js first for these paths so the API can never be shadowed
+    // by a file on disk, and so raw content files get CORS headers and explicit
+    // content types. Everything else is served from assets when it exists.
+    "run_worker_first": [
+      "/api/*",
+      "/articles",
+      "/articles/*",
+      "/quizzes",
+      "/quizzes/*"
+    ],
     "not_found_handling": "none"
   }
 

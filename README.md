@@ -128,6 +128,12 @@ small JSON API) so the frontend can read them over HTTP, for example:
 GET https://apicongressapp2026backend.<domain>/api/articles?topic=History
 GET https://apicongressapp2026backend.<domain>/api/quizzes/0001/easy
 GET https://apicongressapp2026backend.<domain>/api/random?difficulty=medium
+
+# the files themselves are served too
+GET .../articles                  # every article file
+GET .../articles/0001_the_arts.md # raw Markdown
+GET .../quizzes                   # every quiz file
+GET .../quizzes/0001_the_arts_easy.json
 ```
 
 ```bash

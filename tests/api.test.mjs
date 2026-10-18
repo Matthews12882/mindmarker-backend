@@ -197,12 +197,71 @@ await check("methods + CORS", async () => {
   assert((ok.headers.get("content-type") || "").includes("application/json"), "content-type");
 });
 
-await check("raw static files pass through", async () => {
-  const md = await get("/articles/0001_the_arts.md");
-  assert(md.status === 200, `md=${md.status}`);
-  assert((await md.text()).includes("# The arts"), "markdown content");
-  assert((await get("/quizzes/0001_the_arts_easy.json")).status === 200, "quiz file");
-  assert((await get("/no/such/file")).status === 404, "unknown static file");
+await check("GET /articles lists every article file", async () => {
+  const body = await json("/articles");
+  assert(body.count === 300, `count=${body.count}`);
+  const first = body.articles[0];
+  assert(first.file === "0001_the_arts.md", `file=${first.file}`);
+  assert(first.file_url === "/articles/0001_the_arts.md", `file_url=${first.file_url}`);
+  assert(first.api_url === "/api/articles/0001", `api_url=${first.api_url}`);
+});
+
+await check("GET /quizzes lists every quiz file", async () => {
+  const body = await json("/quizzes");
+  assert(body.count === 900, `count=${body.count}`);
+  const first = body.quizzes.find((q) => q.article_id === "0001" && q.difficulty === "easy");
+  assert(first.file_url === "/quizzes/0001_the_arts_easy.json", `file_url=${first.file_url}`);
+  assert(first.api_url === "/api/quizzes/0001/easy", `api_url=${first.api_url}`);
+});
+
+await check("GET /articles/<file>.md shows the raw Markdown inline", async () => {
+  const response = await get("/articles/0001_the_arts.md");
+  assert(response.status === 200, `status=${response.status}`);
+  assert(
+    (response.headers.get("content-type") || "").startsWith("text/plain"),
+    `content-type=${response.headers.get("content-type")}`,
+  );
+  assert(
+    response.headers.get("content-disposition") === "inline",
+    "not inline",
+  );
+  assert(response.headers.get("access-control-allow-origin") === "*", "no CORS");
+  assert((await response.text()).includes("# The arts"), "wrong body");
+});
+
+await check("GET /quizzes/<file>.json returns the raw JSON with CORS", async () => {
+  const response = await get("/quizzes/0001_the_arts_easy.json");
+  assert(response.status === 200, `status=${response.status}`);
+  assert(
+    (response.headers.get("content-type") || "").includes("application/json"),
+    `content-type=${response.headers.get("content-type")}`,
+  );
+  assert(response.headers.get("access-control-allow-origin") === "*", "no CORS");
+  const quiz = await response.json();
+  assert(quiz.questions.length === 10, "wrong question count");
+  assert(quiz.questions[0].options[0] !== undefined, "should be the stored order");
+});
+
+await check("shortened content filenames resolve", async () => {
+  const article = await get("/articles/0001.md");
+  assert(article.status === 200, `/articles/0001.md -> ${article.status}`);
+  assert((await article.text()).includes("# The arts"), "wrong article");
+  const quiz = await get("/quizzes/0001_easy.json");
+  assert(quiz.status === 200, `/quizzes/0001_easy.json -> ${quiz.status}`);
+  assert((await quiz.json()).difficulty === "easy", "wrong quiz");
+});
+
+await check("content indexes are served", async () => {
+  assert((await json("/articles/index.json")).count === 300, "articles/index.json");
+  assert((await json("/quizzes/index.json")).count === 900, "quizzes/index.json");
+});
+
+await check("path traversal and unknown files are rejected", async () => {
+  assert((await get("/articles/..%2f..%2fpackage.json")).status === 404, "traversal");
+  assert((await get("/articles/nope.md")).status === 404, "unknown article file");
+  assert((await get("/quizzes/nope.json")).status === 404, "unknown quiz file");
+  assert((await get("/articles/.env")).status === 404, "hidden file");
+  assert((await get("/no/such/file")).status === 404, "unknown path");
 });
 
 console.log(`\n${pass} passed, ${fail} failed`);

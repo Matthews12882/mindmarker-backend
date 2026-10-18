@@ -20,16 +20,19 @@ Cloudflare Workers Builds ── npm run build ──▶ public/   (static asset
         │  npx wrangler deploy
         ▼
 Worker: congressional-app-backend-2026
-        ├── /api/*        → src/index.js     (the JSON API)
-        └── everything else → static assets  (raw .md and .json files)
+        ├── /api/*              → src/index.js  (the JSON API)
+        ├── /articles, /articles/* → src/index.js → static assets
+        ├── /quizzes,  /quizzes/*  → src/index.js → static assets
+        └── everything else     → static assets
         │
         ▼
 https://apicongressapp2026backend.mydomain.com
 ```
 
 The 300 articles and 900 quizzes are **uploaded as static assets**, not bundled
-into the Worker, so they stay fast and cheap to serve. `src/index.js` only adds
-the `/api/*` routes; it never re-implements file serving for the raw files.
+into the Worker, so they stay fast to serve. The Worker only sits in front of
+them to add the API, CORS headers and explicit content types — it never copies
+the files.
 
 ## What was added
 
@@ -152,6 +155,40 @@ origin can call them. `GET`/`HEAD`/`OPTIONS` only.
 `:id` accepts `1`, `0001` or `0001_the_arts`. `:difficulty` is `easy`, `medium`
 or `hard`.
 
+### Browsing the raw content
+
+The files themselves are also served, so you can open them in a browser or fetch
+them directly from the frontend:
+
+| Path | Returns |
+|------|---------|
+| `GET /articles` | Every article file, with each `file_url` and `api_url`. |
+| `GET /articles/<file>.md` | The raw Markdown (front matter + body). |
+| `GET /articles/index.json` | The corpus manifest. |
+| `GET /quizzes` | Every quiz file, with each `file_url` and `api_url`. |
+| `GET /quizzes/<file>.json` | The raw quiz JSON, exactly as stored. |
+| `GET /quizzes/index.json` | The quiz manifest. |
+
+```bash
+curl https://apicongressapp2026backend.mydomain.com/articles
+curl https://apicongressapp2026backend.mydomain.com/articles/0001_the_arts.md
+curl https://apicongressapp2026backend.mydomain.com/quizzes/0001_the_arts_easy.json
+```
+
+Notes:
+
+- The short filename works too: `/articles/0001.md` and `/quizzes/0001_easy.json`
+  resolve to the real file through the indexes.
+- `.md` is served as **`text/plain`**, not `text/markdown`, because Firefox and
+  Safari *download* `text/markdown` instead of displaying it. With `text/plain`
+  every browser shows the article inline.
+- Raw files carry the same `Access-Control-Allow-Origin: *` as the API, so a
+  frontend on another origin can `fetch()` them.
+- `..`-style paths and dotfiles are rejected with a 404.
+
+Raw files keep the stored shape (`options[0]` is the correct answer). Use
+`/api/quizzes/...` when you want the shuffled, client-ready version.
+
 ### Quiz shape
 
 The stored files always keep the **correct option at `options[0]`**. The API
@@ -219,6 +256,9 @@ console.log(q.answer_explanations[selectedIndex]);
 // "Surprise me"
 const { article: randomArticle, quiz: randomQuiz } =
   await fetch(`${API}/api/random?difficulty=medium`).then((r) => r.json());
+
+// Raw Markdown, if you would rather render it yourself (same CORS, no key)
+const markdown = await fetch(`${API}/articles/0001_the_arts.md`).then((r) => r.text());
 ```
 
 No API key and no CORS setup is needed. If you later restrict the origin

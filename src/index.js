@@ -14,7 +14,14 @@
  *   GET /api/quizzes/:articleId/:difficulty[?shuffle=0&raw=1]
  *   GET /api/random?difficulty=&topic=&level=
  *
- * Anything that is not /api/* is served from the static assets.
+ * The content itself is also browsable directly:
+ *
+ *   GET /articles              — list every article file
+ *   GET /articles/<file>.md    — the raw Markdown
+ *   GET /quizzes               — list every quiz file
+ *   GET /quizzes/<file>.json   — the raw quiz JSON
+ *
+ * Anything else is served from the static assets.
  */
 
 const DIFFICULTIES = ["easy", "medium", "hard"];
@@ -110,8 +117,17 @@ async function route(request, env, ctx, url, path) {
     throw new ApiError(404, `Unknown endpoint: ${path}`);
   }
 
-  // Non-API paths: serve the raw asset when it exists (for example
-  // /articles/0001_the_arts.md or /quizzes/0001_the_arts_easy.json).
+  // Browsable access to the content itself.
+  if (path === "/articles") return listArticleFiles(request, env, ctx);
+  if (path === "/quizzes") return listQuizFiles(request, env, ctx);
+  if (path.startsWith("/articles/")) {
+    return serveContentFile(request, env, path, path.slice("/articles/".length));
+  }
+  if (path.startsWith("/quizzes/")) {
+    return serveContentFile(request, env, path, path.slice("/quizzes/".length));
+  }
+
+  // Anything else: serve the raw asset when it exists.
   const asset = await env.ASSETS.fetch(request);
   if (asset.status === 404) {
     throw new ApiError(404, `Not found: ${path}`);
@@ -154,6 +170,10 @@ async function serviceIndex(request, env, ctx, path) {
         "GET /api/quizzes/:articleId",
         "GET /api/quizzes/:articleId/:difficulty?shuffle=0&raw=1",
         "GET /api/random?difficulty=&topic=&level=",
+        "GET /articles — list every article file",
+        "GET /articles/:file.md — raw Markdown",
+        "GET /quizzes — list every quiz file",
+        "GET /quizzes/:file.json — raw quiz JSON",
       ],
     };
   });
@@ -336,6 +356,120 @@ async function randomArticleQuiz(request, env, query) {
   });
 }
 
+/**
+ * GET /articles — every article file, with the URL to fetch the raw Markdown.
+ */
+async function listArticleFiles(request, env, ctx) {
+  return cachedJson(request, ctx, LIST_CACHE_TTL, async () => {
+    const manifest = await getManifest(env);
+    return {
+      count: manifest.articles.length,
+      source: "articles/index.json",
+      license: manifest.license ?? "CC BY-SA 4.0",
+      articles: manifest.articles.map((article) => ({
+        ...publicArticle(article),
+        file_url: `/articles/${article.file}`,
+        api_url: `/api/articles/${article.id}`,
+      })),
+    };
+  });
+}
+
+/**
+ * GET /quizzes — every quiz file, with the URL to fetch the raw JSON.
+ */
+async function listQuizFiles(request, env, ctx) {
+  return cachedJson(request, ctx, LIST_CACHE_TTL, async () => {
+    const index = await getQuizIndex(env);
+    return {
+      count: index.quizzes.length,
+      difficulties: DIFFICULTIES,
+      quizzes: index.quizzes.map((quiz) => ({
+        article_id: quiz.article_id,
+        difficulty: quiz.difficulty,
+        file: quiz.file,
+        file_url: `/quizzes/${quiz.file}`,
+        api_url: `/api/quizzes/${quiz.article_id}/${quiz.difficulty}`,
+      })),
+    };
+  });
+}
+
+/**
+ * Serves a raw file out of /articles/ or /quizzes/ with explicit content types
+ * and CORS headers, so it works both in a browser and from a frontend fetch().
+ *
+ * The filename may be given in full (`0001_the_arts_easy.json`) or shortened
+ * (`0001_easy.json`) — the short form is resolved through the indexes.
+ */
+async function serveContentFile(request, env, path, name) {
+  if (!name || name.startsWith(".") || !/^[A-Za-z0-9._-]+$/.test(name)) {
+    throw new ApiError(404, `Not found: ${path}`);
+  }
+
+  for (const candidate of await candidateContentPaths(env, path, name)) {
+    const url = new URL(request.url);
+    url.pathname = candidate;
+    const asset = await env.ASSETS.fetch(new Request(url, request));
+
+    const headers = new Headers(asset.headers);
+    applyCors(headers);
+
+    if (asset.status === 304) {
+      return new Response(null, { status: 304, headers });
+    }
+    if (!asset.ok) continue;
+
+    headers.set("Content-Type", contentTypeFor(candidate));
+    // `inline` keeps browsers displaying the file instead of downloading it.
+    headers.set("Content-Disposition", "inline");
+    return new Response(asset.body, { status: 200, headers });
+  }
+
+  throw new ApiError(404, `Not found: ${path}`);
+}
+
+async function candidateContentPaths(env, path, name) {
+  const lower = name.toLowerCase();
+  if (lower === "index.json") return [path];
+
+  const isMarkdown = lower.endsWith(".md");
+  const isJson = lower.endsWith(".json");
+  if (!isMarkdown && !isJson) return [path];
+
+  const stem = isMarkdown ? name.slice(0, -3) : name.slice(0, -5);
+  const candidates = [];
+
+  if (isMarkdown) {
+    const { articles, byId } = await getManifest(env);
+    const exact = articles.find((a) => a.base.toLowerCase() === stem.toLowerCase());
+    if (exact) candidates.push(`/articles/${exact.file}`);
+    const byIdentifier = byId.get(normalizeId(stem));
+    if (byIdentifier) candidates.push(`/articles/${byIdentifier.file}`);
+  } else {
+    const { quizzes, byArticle } = await getQuizIndex(env);
+    if (quizzes.some((q) => q.file.toLowerCase() === lower)) candidates.push(path);
+    const match = /^(.*)[_-](easy|medium|hard)$/i.exec(stem);
+    if (match) {
+      const entry = byArticle.get(normalizeId(match[1]))?.get(match[2].toLowerCase());
+      if (entry) candidates.push(`/quizzes/${entry.file}`);
+    }
+  }
+
+  candidates.push(path); // the exact filename, whatever the index says
+  return [...new Set(candidates)];
+}
+
+/**
+ * Browsers only display Markdown inline when it is served as `text/plain`;
+ * `text/markdown` is downloaded by Firefox and Safari instead of shown.
+ */
+function contentTypeFor(pathname) {
+  if (pathname.endsWith(".md")) return "text/plain; charset=utf-8";
+  if (pathname.endsWith(".json")) return "application/json; charset=utf-8";
+  return "application/octet-stream";
+}
+
 // ---------------------------------------------------------------------------
 // Asset access
 // ---------------------------------------------------------------------------
@@ -415,10 +549,17 @@ async function loadQuizFile(env, article, difficulty, byArticle) {
 // ---------------------------------------------------------------------------
 
 function json(data, { status = 200, cache = 0 } = {}) {
-  const headers = new Headers(CORS_HEADERS);
+  const headers = new Headers();
+  applyCors(headers);
   headers.set("Content-Type", "application/json; charset=utf-8");
   headers.set("Cache-Control", cache > 0 ? `public, max-age=${cache}` : "no-store");
   return new Response(JSON.stringify(data), { status, headers });
+}
+
+function applyCors(headers) {
+  for (const [name, value] of Object.entries(CORS_HEADERS)) {
+    headers.set(name, value);
+  }
 }
 
 function problem(status, message) {
