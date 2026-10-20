@@ -120,22 +120,76 @@ id: 0001
 `pageid` field is Wikimedia's permanent page id — use it as a durable key if the
 ranking-based `NNNN` ids ever change.
 
-## Deploying the API
+## Public API
 
-The corpus and quizzes are served by a Cloudflare Worker (static assets + a
-small JSON API) so the frontend can read them over HTTP, for example:
+The backend is live at **https://api.mindmarker.dev**. It is read-only: `GET`,
+`HEAD` and `OPTIONS` are supported, and every response includes
+`Access-Control-Allow-Origin: *` so browser clients can call it directly.
 
+### Content
+
+| Endpoint | Returns |
+|----------|---------|
+| `GET /articles` | JSON index of all 300 articles, including each article's `file_url` and `api_url` |
+| `GET /articles/<file>.md` | One article as raw Markdown (YAML front matter + body) |
+| `GET /quizzes` | JSON index of all 900 quiz files, with `file_url` and `api_url` |
+| `GET /quizzes/<file>.json` | One quiz as JSON |
+
+Use the full filename or the short id form:
+
+```bash
+curl https://api.mindmarker.dev/articles
+curl https://api.mindmarker.dev/articles/0001_the_arts.md
+curl https://api.mindmarker.dev/articles/0001.md          # same file
+curl https://api.mindmarker.dev/quizzes
+curl https://api.mindmarker.dev/quizzes/0001_the_arts_easy.json
+curl https://api.mindmarker.dev/quizzes/0001_easy.json   # same file
 ```
-GET https://apimindmarkerbackend.<domain>/api/articles?topic=History
-GET https://apimindmarkerbackend.<domain>/api/quizzes/0001/easy
-GET https://apimindmarkerbackend.<domain>/api/random?difficulty=medium
 
-# the files themselves are served too
-GET .../articles                  # every article file
-GET .../articles/0001_the_arts.md # raw Markdown
-GET .../quizzes                   # every quiz file
-GET .../quizzes/0001_the_arts_easy.json
+### JSON API
+
+All JSON endpoints live under `/api`. Lists are paginated with `limit` (default
+100, max 1000) and `offset`.
+
+| Endpoint | Description |
+|----------|-------------|
+| `GET /api/health` | Service health check |
+| `GET /api/topics` | Topics and article counts |
+| `GET /api/articles?topic=&level=&q=&limit=&offset=&random=1` | Search/filter articles; `random=1` returns one instead of a list |
+| `GET /api/articles/:id?include=content` | One article; add `include=content` (or `content=1`) to include its Markdown |
+| `GET /api/quizzes?article_id=&difficulty=&topic=&limit=&offset=` | Search/filter quizzes |
+| `GET /api/quizzes/:articleId` | All available difficulties for one article |
+| `GET /api/quizzes/:articleId/:difficulty?shuffle=0&raw=1` | One quiz. Options are shuffled by default; `shuffle=0` keeps stored order, `raw=1` returns the original file |
+| `GET /api/random?difficulty=&topic=&level=` | A random article plus a quiz |
+
+```bash
+# article metadata, or metadata + Markdown
+curl https://api.mindmarker.dev/api/articles/0001
+curl https://api.mindmarker.dev/api/articles/0001?include=content
+
+# all three quiz difficulties, or just one
+curl https://api.mindmarker.dev/api/quizzes/0001
+curl https://api.mindmarker.dev/api/quizzes/0001/easy
+
+# random medium quiz on a history topic
+curl "https://api.mindmarker.dev/api/random?difficulty=medium&topic=History"
 ```
+
+Quiz responses include `article_id`, `difficulty`, `question_count` and a
+`questions` array. Each question has `question`, `options`, `answer_index`,
+`answer`, and `answer_explanations`. The service index at `/` (also `/api`) lists
+the endpoint summary and corpus counts.
+
+Errors are JSON, for example:
+
+```json
+{"error":{"status":404,"message":"No article with id \"9999\"."}}
+```
+
+## Self-hosting / deployment
+
+The public deployment is a Cloudflare Worker (static assets + the JSON API).
+To run or deploy your own copy:
 
 ```bash
 npm run dev       # local Worker at http://localhost:8787
