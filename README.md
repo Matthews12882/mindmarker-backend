@@ -126,30 +126,79 @@ The backend is live at **https://api.mindmarker.dev**. It is read-only: `GET`,
 `HEAD` and `OPTIONS` are supported, and every response includes
 `Access-Control-Allow-Origin: *` so browser clients can call it directly.
 
-### Content
+### Content files
+
+The raw corpus can be browsed without going through the JSON API:
 
 | Endpoint | Returns |
 |----------|---------|
 | `GET /articles` | JSON index of all 300 articles, including each article's `file_url` and `api_url` |
-| `GET /articles/<file>.md` | One article as raw Markdown (YAML front matter + body) |
+| `GET /articles/<id>.md` or `GET /articles/<id>_<slug>.md` | One article as raw Markdown (YAML front matter + body) |
 | `GET /quizzes` | JSON index of all 900 quiz files, with `file_url` and `api_url` |
-| `GET /quizzes/<file>.json` | One quiz as JSON |
+| `GET /quizzes/<id>_<difficulty>.json` or `GET /quizzes/<id>_<slug>_<difficulty>.json` | One quiz as JSON |
 
-Use the full filename or the short id form:
+Ids are zero-padded automatically, so `1` and `0001` identify the same article.
+The slug is optional, and lookups are case-insensitive.
+
+**Articles — all of these return the same Markdown:**
 
 ```bash
-curl https://api.mindmarker.dev/articles
+curl https://api.mindmarker.dev/articles/0001.md
+curl https://api.mindmarker.dev/articles/1.md
 curl https://api.mindmarker.dev/articles/0001_the_arts.md
-curl https://api.mindmarker.dev/articles/0001.md          # same file
-curl https://api.mindmarker.dev/quizzes
-curl https://api.mindmarker.dev/quizzes/0001_the_arts_easy.json
-curl https://api.mindmarker.dev/quizzes/0001_easy.json   # same file
 ```
+
+```markdown
+---
+id: 0001
+title: "The arts"
+rank: 1
+level: 1
+topic: "Core topics"
+...
+---
+
+# The arts
+...
+```
+
+**Quizzes — all of these return the same JSON:**
+
+```bash
+curl https://api.mindmarker.dev/quizzes/0001_hard.json
+curl https://api.mindmarker.dev/quizzes/1_hard.json
+curl https://api.mindmarker.dev/quizzes/0001_the_arts_hard.json
+```
+
+```json
+{
+  "article_id": "0001",
+  "difficulty": "hard",
+  "question_count": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "An artist presents a work that consists only of a written set of instructions, producing no physical object. Based on the article's description, this work is best understood as an example of which category?",
+      "options": ["Conceptual art", "Ceramic art", "Photography", "Applied art"],
+      "answer_explanations": [
+        "Correct. The article defines conceptual art as art ...",
+        "Incorrect. Ceramic art is made from ceramic materials ...",
+        "Incorrect. Photography is a visual art ...",
+        "Incorrect. Applied art applies design and decoration ..."
+      ]
+    }
+  ]
+}
+```
+
+Stored quiz files keep the correct option first, with `answer_explanations` in the
+same order as `options`. The `/api` quiz endpoints shuffle by default and add
+`answer_index` and `answer` (see below).
 
 ### JSON API
 
 All JSON endpoints live under `/api`. Lists are paginated with `limit` (default
-100, max 1000) and `offset`.
+100, max 1000) and `offset`; filters can be combined with `&`.
 
 | Endpoint | Description |
 |----------|-------------|
@@ -162,25 +211,171 @@ All JSON endpoints live under `/api`. Lists are paginated with `limit` (default
 | `GET /api/quizzes/:articleId/:difficulty?shuffle=0&raw=1` | One quiz. Options are shuffled by default; `shuffle=0` keeps stored order, `raw=1` returns the original file |
 | `GET /api/random?difficulty=&topic=&level=` | A random article plus a quiz |
 
+### Query examples
+
+#### Articles
+
 ```bash
-# article metadata, or metadata + Markdown
-curl https://api.mindmarker.dev/api/articles/0001
-curl https://api.mindmarker.dev/api/articles/0001?include=content
+# first page (100 by default)
+curl "https://api.mindmarker.dev/api/articles"
 
-# all three quiz difficulties, or just one
-curl https://api.mindmarker.dev/api/quizzes/0001
-curl https://api.mindmarker.dev/api/quizzes/0001/easy
+# filter by topic and level
+curl "https://api.mindmarker.dev/api/articles?topic=History&level=3&limit=5"
 
-# random medium quiz on a history topic
+# search titles and descriptions
+curl "https://api.mindmarker.dev/api/articles?q=roman&limit=5"
+
+# paginate
+curl "https://api.mindmarker.dev/api/articles?limit=2&offset=2"
+
+# one random match
+curl "https://api.mindmarker.dev/api/articles?topic=History&random=1"
+```
+
+`count` is the number of matches after filtering, while `total_articles` is the
+size of the whole corpus. For example, `/api/articles?topic=History&limit=1`
+returns:
+
+```json
+{
+  "total_articles": 300,
+  "count": 78,
+  "limit": 1,
+  "offset": 0,
+  "articles": [
+    {
+      "id": "0011",
+      "title": "History",
+      "rank": 11,
+      "level": 2,
+      "topic": "History",
+      "description": "Study of the past",
+      "pageid": 10772350,
+      "url": "https://en.wikipedia.org/wiki/History",
+      "file": "0011_history.md"
+    }
+  ]
+}
+```
+
+A single article accepts the same id forms as the content routes, so
+`/api/articles/1`, `/api/articles/0001` and `/api/articles/0001_the_arts` are
+equivalent. Add `include=content` (or `content=1`) to include the Markdown:
+
+```bash
+curl "https://api.mindmarker.dev/api/articles/0001?include=content"
+```
+
+```json
+{
+  "id": "0001",
+  "title": "The arts",
+  "...": "...",
+  "markdown": "---\nid: 0001\n..."
+}
+```
+
+#### Quizzes
+
+```bash
+# every quiz for one article
+curl "https://api.mindmarker.dev/api/quizzes?article_id=0001"
+
+# filter by topic and difficulty
+curl "https://api.mindmarker.dev/api/quizzes?topic=History&difficulty=hard&limit=2"
+
+# all three difficulties for one article, or just one
+curl "https://api.mindmarker.dev/api/quizzes/0001"
+curl "https://api.mindmarker.dev/api/quizzes/0001/hard"
+
+# article ids accept the same short and slug forms
+curl "https://api.mindmarker.dev/api/quizzes/1/hard"
+curl "https://api.mindmarker.dev/api/quizzes/0001_the_arts/hard"
+```
+
+`/api/quizzes?article_id=0001` returns:
+
+```json
+{
+  "count": 3,
+  "limit": 100,
+  "offset": 0,
+  "quizzes": [
+    {
+      "article_id": "0001",
+      "difficulty": "easy",
+      "file": "0001_the_arts_easy.json",
+      "base": "0001_the_arts"
+    }
+  ]
+}
+```
+
+`/api/quizzes/0001` returns all available difficulties. A single quiz is
+returned by `/api/quizzes/<id>/<difficulty>`:
+
+```json
+{
+  "article_id": "0001",
+  "difficulty": "hard",
+  "question_count": 10,
+  "shuffled": true,
+  "questions": [
+    {
+      "id": 1,
+      "question": "...",
+      "options": ["...", "...", "...", "..."],
+      "answer_index": 0,
+      "answer": "...",
+      "answer_explanations": ["...", "...", "...", "..."]
+    }
+  ]
+}
+```
+
+Options are shuffled by default, so `answer_index` points at the correct option.
+Use `shuffle=0` to keep the stored order, or `raw=1` to return the original file
+shape without `answer_index`/`answer`.
+
+#### Random article + quiz
+
+```bash
 curl "https://api.mindmarker.dev/api/random?difficulty=medium&topic=History"
 ```
 
-Quiz responses include `article_id`, `difficulty`, `question_count` and a
-`questions` array. Each question has `question`, `options`, `answer_index`,
-`answer`, and `answer_explanations`. The service index at `/` (also `/api`) lists
-the endpoint summary and corpus counts.
+Returns one article and one matching quiz:
 
-Errors are JSON, for example:
+```json
+{
+  "article": {
+    "id": "0267",
+    "title": "Cold War",
+    "topic": "History",
+    "...": "..."
+  },
+  "quiz": {
+    "article_id": "0267",
+    "difficulty": "medium",
+    "question_count": 10,
+    "questions": [{"id": 1, "...": "..."}]
+  }
+}
+```
+
+`difficulty`, `topic` and `level` are optional and combine as filters.
+
+#### Topics and health
+
+```bash
+curl "https://api.mindmarker.dev/api/topics"
+curl "https://api.mindmarker.dev/api/health"
+```
+
+`/api/topics` returns topic names and article counts (`People` 97, `History` 78,
+`Geography` 42, …). `/api/health` returns the service status and current time.
+
+The service index at `/` (also `/api`) lists the endpoint summary and corpus
+counts. Errors are JSON, for example:
 
 ```json
 {"error":{"status":404,"message":"No article with id \"9999\"."}}
