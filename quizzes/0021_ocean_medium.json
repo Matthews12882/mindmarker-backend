@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what is the photic zone?",
-      "options": [
-        "The depth at which light intensity is only 1% of the surface value",
-        "The deepest zone where no sunlight penetrates",
-        "The zone where ocean temperatures range between -2Â°C and 5Â°C",
-        "The zone where ocean currents are strongest"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the photic zone starts at the surface and is defined as 'the depth at which light intensity is only 1% of the surface value' (approximately 200 m in the open ocean).",
-        "Incorrect. The aphotic zone, not the photic zone, is the deeper ocean zone that is cold and dark.",
-        "Incorrect. Deep ocean temperatures ranging between -2Â°C and 5Â°C are mentioned separately and are not the definition of the photic zone.",
-        "Incorrect. Ocean currents are discussed in a separate section and are not used to define the photic zone."
-      ]
-    },
-    {
-      "id": 2,
-      "question": "Which of the following is listed as a major ocean current in the article?",
-      "options": [
-        "Gulf Stream",
-        "Amazon Current",
-        "Mediterranean Current",
-        "Caribbean Current"
-      ],
-      "answer_explanations": [
-        "Correct. The article explicitly names the Gulf Stream as one of the major ocean currents, alongside the Kuroshio, Agulhas, and Antarctic Circumpolar Currents.",
-        "Incorrect. The Amazon Current is not mentioned in the article's list of major ocean currents.",
-        "Incorrect. The Mediterranean Current is not listed among the major ocean currents in the article.",
-        "Incorrect. The Caribbean Current is not mentioned in the article's discussion of major ocean currents."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "What effect does the absorption of atmospheric CO2 by the oceans have, according to the article?",
-      "options": [
-        "Ocean acidification",
-        "Increased ocean salinity",
-        "Reduced oxygen levels",
-        "Higher surface temperatures"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that as oceans absorb CO2 from the atmosphere, a higher concentration leads to ocean acidification, defined as a drop in pH value.",
-        "Incorrect. The article does not state that CO2 absorption increases ocean salinity.",
-        "Incorrect. The article does not link CO2 absorption to reduced oxygen levels.",
-        "Incorrect. While surface temperatures are discussed elsewhere, the article does not attribute them to CO2 absorption by the oceans."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What percentage of Earth's surface does the ocean cover?",
+      "question": "What percentage of Earth's surface is covered by the ocean?",
       "options": [
         "Approximately 70.8%",
         "Approximately 50%",
-        "Approximately 97%",
+        "Approximately 90%",
         "Approximately 30%"
       ],
       "answer_explanations": [
         "Correct. The article states that the ocean covers approximately 70.8% of Earth.",
-        "Incorrect. The article does not state that the ocean covers 50% of Earth's surface.",
-        "Incorrect. The article states that the ocean contains 97% of Earth's water, not that it covers 97% of Earth's surface.",
-        "Incorrect. The article does not state that the ocean covers 30% of Earth's surface."
+        "Incorrect. The article states the ocean covers approximately 70.8%, not 50%.",
+        "Incorrect. The article states the ocean covers approximately 70.8%, not 90%.",
+        "Incorrect. The article states the ocean covers approximately 70.8%, not 30%."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT listed as one of the five major oceans?",
+      "options": [
+        "The Mediterranean Ocean",
+        "The Pacific Ocean",
+        "The Atlantic Ocean",
+        "The Indian Ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the Pacific, Atlantic, Indian, Antarctic/Southern, and Arctic Oceans as the five major divisions. The Mediterranean is a sea, not one of the five major oceans.",
+        "Incorrect. The Pacific Ocean is listed as one of the five major oceans.",
+        "Incorrect. The Atlantic Ocean is listed as one of the five major oceans.",
+        "Incorrect. The Indian Ocean is listed as one of the five major oceans."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What percentage of Earth's water is contained in the ocean?",
+      "options": [
+        "97%",
+        "70.8%",
+        "50%",
+        "30%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the ocean contains 97% of Earth's water.",
+        "Incorrect. 70.8% is the percentage of Earth's surface covered by the ocean, not the percentage of Earth's water it contains.",
+        "Incorrect. The article states the ocean contains 97% of Earth's water, not 50%.",
+        "Incorrect. The article states the ocean contains 97% of Earth's water, not 30%."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the name of the zone in the ocean where photosynthesis can occur?",
+      "options": [
+        "The photic zone",
+        "The aphotic zone",
+        "The mesopelagic zone",
+        "The pelagic zone"
+      ],
+      "answer_explanations": [
+        "Correct. The article states, 'The photic zone starts at the surface... This is the zone where photosynthesis can occur.'",
+        "Incorrect. The aphotic zone is the deeper, dark zone where photosynthesis cannot occur.",
+        "Incorrect. The mesopelagic zone is a deeper zone below the photic zone where light is insufficient for photosynthesis.",
+        "Incorrect. The pelagic zone is the entire open ocean water column, not just the zone where photosynthesis occurs."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following best describes a 'sea' according to the article's terminology section?",
+      "question": "What is the approximate depth in the open ocean that defines the bottom of the photic zone?",
       "options": [
-        "A body of water partly or fully enclosed by land",
-        "A body of water larger than an ocean",
-        "A body of water that contains no salt",
-        "A body of water found only in polar regions"
+        "200 meters",
+        "100 meters",
+        "500 meters",
+        "1000 meters"
       ],
       "answer_explanations": [
-        "Correct. The article states that strictly speaking, a 'sea' is a body of water generally partly or fully enclosed by land.",
-        "Incorrect. The article does not describe seas as larger than oceans; it notes seas are generally smaller.",
-        "Incorrect. The article discusses seas as divisions of the world ocean, which is salt water, not bodies without salt.",
-        "Incorrect. The article does not restrict seas to polar regions."
+        "Correct. The article states the photic zone is defined as the depth where light intensity is only 1% of the surface value, which is approximately 200 m in the open ocean.",
+        "Incorrect. The article specifies approximately 200 meters, not 100 meters.",
+        "Incorrect. The article specifies approximately 200 meters, not 500 meters.",
+        "Incorrect. The article specifies approximately 200 meters, not 1000 meters."
       ]
     },
     {
       "id": 6,
-      "question": "What is the temperature range of deep ocean temperatures in all parts of the ocean, according to the article?",
+      "question": "Which of the following is a major ocean current mentioned in the article?",
       "options": [
-        "Between -2Â°C (28Â°F) and 5Â°C (41Â°F)",
-        "Between 0Â°C and 10Â°C",
-        "Between -2Â°C and 30Â°C",
-        "Between 5Â°C and 30Â°C"
+        "The Gulf Stream",
+        "The Nile Current",
+        "The Amazon Current",
+        "The Sahara Current"
       ],
       "answer_explanations": [
-        "Correct. The article states that in all parts of the ocean, deep ocean temperatures range between -2Â°C (28Â°F) and 5Â°C (41Â°F).",
-        "Incorrect. The article does not give a deep ocean temperature range of 0Â°C to 10Â°C.",
-        "Incorrect. The article does not state that deep ocean temperatures range up to 30Â°C; surface temperatures in the tropics can rise above 30Â°C.",
-        "Incorrect. The article does not state that deep ocean temperatures range between 5Â°C and 30Â°C."
+        "Correct. The article lists the Gulf Stream, Kuroshio Current, Agulhas Current, and Antarctic Circumpolar Current as major ocean currents.",
+        "Incorrect. The Nile Current is not mentioned in the article.",
+        "Incorrect. The Amazon Current is not mentioned in the article.",
+        "Incorrect. The Sahara Current is not mentioned in the article."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is identified in the article as an environmental threat to the ocean?",
+      "question": "What happens to the pH of the ocean as it absorbs more carbon dioxide from the atmosphere?",
       "options": [
-        "Overfishing",
-        "Volcanic activity",
-        "Atmospheric escape",
-        "Plate tectonics"
+        "It drops, causing ocean acidification",
+        "It rises, causing ocean basification",
+        "It stays the same",
+        "It becomes neutral"
       ],
       "answer_explanations": [
-        "Correct. The article lists overfishing among the environmental threats the ocean faces, alongside marine pollution and the effects of climate change.",
-        "Incorrect. Volcanic activity is mentioned in the context of Earth's early atmosphere, not as an environmental threat to the ocean.",
-        "Incorrect. Atmospheric escape is discussed in the origin of water section, not as a threat to the ocean.",
-        "Incorrect. Plate tectonics is mentioned as changing coastlines, not as an environmental threat to the ocean."
+        "Correct. The article states that as the oceans absorb more CO2, a higher concentration leads to ocean acidification, which is a drop in pH value.",
+        "Incorrect. The article states that absorbing more CO2 causes a drop in pH, not a rise.",
+        "Incorrect. The article states that the pH drops, so it does not stay the same.",
+        "Incorrect. The article states that the pH drops, not that it becomes neutral."
       ]
     },
     {
       "id": 8,
-      "question": "What role does the ocean play in Earth's atmospheric oxygen supply, according to the article?",
+      "question": "According to the article, what is the term for the interconnected body of salt water covering most of Earth?",
       "options": [
-        "It originated photosynthesis and still supplies half of Earth's atmospheric oxygen",
-        "It consumes most of Earth's atmospheric oxygen",
-        "It has no role in Earth's atmospheric oxygen",
-        "It supplies all of Earth's atmospheric oxygen"
+        "The World Ocean",
+        "The Atlantic",
+        "The Pacific",
+        "The Sea of Japan"
       ],
       "answer_explanations": [
-        "Correct. The article states that the ocean originated photosynthesis and therefore Earth's atmospheric oxygen, and still supplies half of it.",
-        "Incorrect. The article does not state that the ocean consumes most of Earth's atmospheric oxygen.",
-        "Incorrect. The article explicitly states the ocean plays a major role in atmospheric oxygen.",
-        "Incorrect. The article states the ocean supplies half, not all, of Earth's atmospheric oxygen."
+        "Correct. The article states that the global, interconnected body of salt water is sometimes referred to as the World Ocean, the 'global ocean' or the 'great ocean'.",
+        "Incorrect. The Atlantic is just one of the five major oceans, not the term for the entire interconnected body.",
+        "Incorrect. The Pacific is just one of the five major oceans, not the term for the entire interconnected body.",
+        "Incorrect. The Sea of Japan is a specific sea, not the term for the entire interconnected body."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what happened to ocean levels during the last ice age?",
+      "question": "From which figure in classical antiquity does the word 'ocean' come?",
       "options": [
-        "Oceans were about 122 m (400 ft) lower than today",
-        "Oceans were about 122 m (400 ft) higher than today",
-        "Oceans were about 5.5 m (18 ft) higher than today",
-        "Oceans were about 50 m (165 ft) higher than today"
+        "Oceanus",
+        "Zeus",
+        "Poseidon",
+        "Atlas"
       ],
       "answer_explanations": [
-        "Correct. The article states that during the last ice age, glaciers covered almost one-third of Earth's landmass, resulting in oceans about 122 m (400 ft) lower than today.",
-        "Incorrect. The article states oceans were lower, not higher, during the last ice age.",
-        "Incorrect. The article states seas were about 5.5 m higher during the last global warm spell, about 125,000 years ago, not during the last ice age.",
-        "Incorrect. The article states oceans could have been up to 50 m higher about three million years ago, not during the last ice age."
+        "Correct. The article states that the word 'ocean' comes from the figure in classical antiquity, Oceanus, the elder of the Titans in Greek mythology.",
+        "Incorrect. Zeus is not mentioned in the article as the origin of the word.",
+        "Incorrect. Poseidon is not mentioned in the article as the origin of the word.",
+        "Incorrect. Atlas is not mentioned in the article as the origin of the word."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following forces is identified in the article as causing ocean currents?",
+      "question": "What is the name of the point in the ocean that is furthest from any land, also known as the 'pole of inaccessibility'?",
       "options": [
-        "Temperature and salinity differences",
-        "The rotation of Earth's inner core",
-        "Underwater volcanic eruptions",
-        "The gravitational pull of Mars"
+        "Point Nemo",
+        "Point Zero",
+        "Point Alpha",
+        "Point Omega"
       ],
       "answer_explanations": [
-        "Correct. The article states that ocean currents are caused by forces operating on the water, such as temperature and salinity differences, atmospheric circulation (wind), and the Coriolis effect.",
-        "Incorrect. The rotation of Earth's inner core is not mentioned in the article as a cause of ocean currents.",
-        "Incorrect. Underwater volcanic eruptions are not listed in the article as a cause of ocean currents.",
-        "Incorrect. The gravitational pull of Mars is not mentioned in the article as a cause of ocean currents."
+        "Correct. The article states that the ocean's furthest pole of inaccessibility is known as 'Point Nemo', located in the South Pacific Ocean.",
+        "Incorrect. Point Zero is not mentioned in the article.",
+        "Incorrect. Point Alpha is not mentioned in the article.",
+        "Incorrect. Point Omega is not mentioned in the article."
       ]
     }
   ]

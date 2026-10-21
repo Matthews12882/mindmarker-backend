@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the name of Einstein's famous equation that relates mass and energy?",
+      "question": "When was Albert Einstein born?",
       "options": [
-        "E = mcÂ²",
-        "E = mc",
-        "E = mÂ²c",
-        "E = mcÂ³"
+        "14 March 1879",
+        "18 April 1955",
+        "14 March 1905",
+        "18 April 1879"
       ],
       "answer_explanations": [
-        "Correct. The article states that his massâenergy equivalence formula is *E* = *mc*Â², which has been called \"the world's most famous equation\".",
-        "Incorrect. The article only mentions the correct formula *E* = *mc*Â², not *E* = mc.",
-        "Incorrect. The article does not present a formula involving mÂ²c.",
-        "Incorrect. The article does not mention *E* = mcÂ³."
+        "Correct. The article states: 'Albert Einstein (14 March 1879 â 18 April 1955)'. So he was born on 14 March 1879.",
+        "Incorrect. 18 April 1955 is the date of his death, not his birth.",
+        "Incorrect. 14 March 1905 is not mentioned as his birth date; 1905 is the year of his 'miracle year' papers.",
+        "Incorrect. 18 April 1879 is not mentioned; the date of birth is 14 March 1879."
       ]
     },
     {
       "id": 2,
-      "question": "In which year did Einstein publish his four groundbreaking papers, known as his annus mirabilis?",
+      "question": "What is Albert Einstein best known for developing?",
       "options": [
-        "1905",
-        "1900",
-        "1910",
-        "1915"
+        "The theory of relativity",
+        "The theory of evolution",
+        "The theory of gravity",
+        "The theory of quantum mechanics"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly says: \"In 1905, sometimes described as his *annus mirabilis* (miracle year), he published four groundbreaking papers...\"",
-        "Incorrect. The article mentions 1905 as the annus mirabilis, not 1900.",
-        "Incorrect. The article does not list 1910 as the miracle year.",
-        "Incorrect. The article does not list 1915 as the miracle year."
+        "Correct. The article says: 'best known for developing the theory of relativity'.",
+        "Incorrect. The theory of evolution is associated with Charles Darwin, not Einstein.",
+        "Incorrect. Einstein developed theories of relativity and gravitation, but the article specifically states he is best known for the theory of relativity.",
+        "Incorrect. Einstein contributed to quantum theory, but the article says he is best known for the theory of relativity."
       ]
     },
     {
       "id": 3,
-      "question": "Which institution awarded Einstein his PhD?",
+      "question": "What is the name of Einstein's famous equation mentioned in the article?",
       "options": [
-        "University of Zurich",
-        "University of Berlin",
-        "University of Munich",
-        "Swiss Federal Polytechnic School"
+        "E = mcÂ²",
+        "F = ma",
+        "E = hv",
+        "c = Î»f"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"In 1905, he submitted a successful PhD dissertation to the University of Zurich.\"",
-        "Incorrect. The article does not mention the University of Berlin awarding his PhD.",
-        "Incorrect. The article does not mention the University of Munich awarding his PhD.",
-        "Incorrect. The article mentions he graduated from the Swiss Federal Polytechnic School, but his PhD was from the University of Zurich."
+        "Correct. The article refers to 'his massâenergy equivalence formula E = mcÂ²'.",
+        "Incorrect. F = ma is Newton's second law, not Einstein's famous equation.",
+        "Incorrect. E = hv is related to the photoelectric effect but is not the massâenergy equivalence formula.",
+        "Incorrect. c = Î»f is a wave equation, not the famous equation mentioned."
       ]
     },
     {
       "id": 4,
-      "question": "What was the primary reason Einstein renounced his German citizenship in 1896?",
+      "question": "In which year did Einstein receive the Nobel Prize in Physics?",
       "options": [
-        "To avoid conscription into military service",
-        "To pursue higher education in Switzerland",
-        "To become a Swiss citizen immediately",
-        "To protest against the German Empire"
+        "1921",
+        "1905",
+        "1915",
+        "1940"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"In January 1896, with his father's approval, Einstein renounced his citizenship of the German Kingdom of WÃ¼rttemberg in order to avoid conscription into military service.\"",
-        "Incorrect. While he later studied in Switzerland, the article specifies the renunciation was to avoid conscription.",
-        "Incorrect. He did not become a Swiss citizen immediately; he acquired it a year later.",
-        "Incorrect. The article does not mention protesting the Empire as the reason."
+        "Correct. The article states: 'He received the 1921 Nobel Prize in Physics'.",
+        "Incorrect. 1905 was the year of his 'miracle year' papers, not the Nobel Prize.",
+        "Incorrect. 1915 is when he proposed general relativity, not the Nobel Prize.",
+        "Incorrect. 1940 is when he was granted American citizenship, not the Nobel Prize."
       ]
     },
     {
       "id": 5,
-      "question": "Which award did Einstein receive in 1921 for his services to theoretical physics?",
+      "question": "What was the reason given for Einstein's Nobel Prize?",
       "options": [
-        "Nobel Prize in Physics",
-        "Fields Medal",
-        "Wolf Prize",
-        "Turin Prize"
+        "For his discovery of the law of the photoelectric effect",
+        "For his theory of relativity",
+        "For his work on Brownian motion",
+        "For his unified field theory"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"He received the 1921 Nobel Prize in Physics for 'his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect'.\"",
-        "Incorrect. The article does not mention a Fields Medal.",
-        "Incorrect. The article does not mention a Wolf Prize.",
-        "Incorrect. The article does not mention a Turin Prize."
+        "Correct. The article says: 'for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect'.",
+        "Incorrect. The theory of relativity is not mentioned as the reason for the Nobel Prize in the article.",
+        "Incorrect. Brownian motion is not mentioned as the reason for the Nobel Prize.",
+        "Incorrect. Unified field theory is not mentioned as the reason for the Nobel Prize."
       ]
     },
     {
       "id": 6,
-      "question": "What concept did Einstein introduce in a 1917 paper that is the core mechanism behind the laser?",
+      "question": "Where did Einstein move to in 1895?",
       "options": [
-        "Stimulated emission",
-        "Spontaneous emission",
-        "Quantum entanglement",
-        "Photoelectric effect"
+        "Switzerland",
+        "Germany",
+        "United States",
+        "Austria"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"In 1917, Einstein wrote a paper which introduced the concepts of spontaneous emission and stimulated emission, the latter of which is the core mechanism behind the laser...\"",
-        "Incorrect. While spontaneous emission was also introduced, the core mechanism behind the laser is stimulated emission.",
-        "Incorrect. The article does not mention quantum entanglement.",
-        "Incorrect. The photoelectric effect was discovered earlier and is not the core mechanism behind the laser."
+        "Correct. The article says: 'Einstein moved to Switzerland in 1895'.",
+        "Incorrect. He was born in Germany but moved to Switzerland in 1895.",
+        "Incorrect. He moved to the United States much later, in 1933.",
+        "Incorrect. Austria is not mentioned in the article."
       ]
     },
     {
       "id": 7,
-      "question": "Which element is named after Albert Einstein?",
+      "question": "At what age did Einstein enroll in the Swiss federal polytechnic school?",
       "options": [
-        "Einsteinium",
-        "Einsteiniumium",
-        "Einstineum",
-        "Einsteinium-1"
+        "17",
+        "16",
+        "18",
+        "20"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: \"Many things are named after him, including the element Einsteinium.\"",
-        "Incorrect. The element is not called Einsteiniumium.",
-        "Incorrect. The correct spelling is Einsteinium.",
-        "Incorrect. The element is not called Einsteinium-1."
+        "Correct. The article states: 'In 1896, at the age of seventeen, he enrolled in the mathematics and physics teaching diploma program'.",
+        "Incorrect. The article says seventeen, not sixteen.",
+        "Incorrect. The article says seventeen, not eighteen.",
+        "Incorrect. The article says seventeen, not twenty."
       ]
     },
     {
       "id": 8,
-      "question": "What was the name of Einstein's first wife?",
+      "question": "In which year did Einstein acquire Swiss citizenship?",
       "options": [
-        "Mileva MariÄ",
-        "Elsa LÃ¶wenthal",
-        "Margarita Konenkova",
-        "Marie Winteler"
+        "1901",
+        "1900",
+        "1896",
+        "1940"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Einstein and MariÄ married in January 1903.\"",
-        "Incorrect. Elsa LÃ¶wenthal was his second wife.",
-        "Incorrect. Margarita Konenkova was a later relationship.",
-        "Incorrect. Marie Winteler was his earlier romantic interest, not his wife."
+        "Correct. The article says: 'He acquired Swiss citizenship a year later' after graduating in 1900, so 1901.",
+        "Incorrect. 1900 is when he graduated, not when he acquired citizenship.",
+        "Incorrect. 1896 is when he enrolled, not when he acquired citizenship.",
+        "Incorrect. 1940 is when he was granted American citizenship, not Swiss."
       ]
     },
     {
       "id": 9,
-      "question": "Which city did Einstein move to in 1914 to join the Prussian Academy of Sciences?",
+      "question": "What did Einstein do in 1933 when Hitler came to power?",
       "options": [
-        "Berlin",
-        "Zurich",
-        "Vienna",
-        "Munich"
+        "He decided to remain in the US",
+        "He returned to Germany",
+        "He moved to Switzerland",
+        "He became a British citizen"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"In 1914, he moved to Berlin to join the Prussian Academy of Sciences...\"",
-        "Incorrect. He moved to Berlin, not Zurich.",
-        "Incorrect. He moved to Berlin, not Vienna.",
-        "Incorrect. He moved to Berlin, not Munich."
+        "Correct. The article says: 'Horrified by the Nazi persecution of his fellow Jews, he decided to remain in the US'.",
+        "Incorrect. He did not return to Germany; he stayed in the US.",
+        "Incorrect. He did not move to Switzerland at that time; he remained in the US.",
+        "Incorrect. He was granted American citizenship, not British."
       ]
     },
     {
       "id": 10,
-      "question": "What was the name of Einstein's daughter born in 1902?",
+      "question": "What did Einstein endorse in a letter to President Franklin D. Roosevelt?",
       "options": [
-        "Lieserl",
-        "Maja",
-        "Elsa",
-        "Margarete"
+        "A warning about the potential German nuclear weapons program",
+        "A request for funding for his unified field theory",
+        "A proposal for the Manhattan Project",
+        "A plan to move to the United States"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: \"Correspondence between Einstein and MariÄ ... revealed that the couple had a daughter named Lieserl. She was born in early 1902...\"",
-        "Incorrect. Maja was his sister.",
-        "Incorrect. Elsa was his second wife.",
-        "Incorrect. Margarete was not his daughter."
+        "Correct. The article says: 'he endorsed a letter to President Franklin D. Roosevelt alerting him to the potential German nuclear weapons program'.",
+        "Incorrect. The letter was about the German nuclear program, not about funding for his unified field theory.",
+        "Incorrect. The letter recommended that the US begin research, which later became the Manhattan Project, but the letter itself was not a proposal for the Manhattan Project.",
+        "Incorrect. He had already moved to the US by then; the letter was about the German nuclear program."
       ]
     }
   ]

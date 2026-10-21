@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what percentage of total greenhouse gas emissions does the conventional agriculture system account for?",
+      "question": "What is food according to the article?",
       "options": [
-        "as much as 37%",
-        "about 20%",
-        "roughly 50%",
-        "less than 10%"
+        "Any substance consumed by an organism for nutritional support",
+        "Only substances that come from plants",
+        "Only substances that are cooked",
+        "Any liquid that an organism drinks"
       ],
       "answer_explanations": [
-        "Correct. The article states that food and agricultural systems account for as much as 37% of total greenhouse gas emissions.",
-        "Incorrect. The article does not state that conventional agriculture accounts for about 20% of greenhouse gas emissions.",
-        "Incorrect. The article does not state that conventional agriculture accounts for roughly 50% of greenhouse gas emissions.",
-        "Incorrect. The article does not state that conventional agriculture accounts for less than 10% of greenhouse gas emissions."
+        "Correct. The article states that food is any substance that is consumed by an organism for nutritional support.",
+        "Incorrect. The article says food can be of plant, animal, or fungal origin, not just plant.",
+        "Incorrect. The article does not say food must be cooked; it says humans generally use cooking to prepare food, but food can be raw or processed.",
+        "Incorrect. The article defines food broadly, not just as liquids."
       ]
     },
     {
       "id": 2,
-      "question": "Which three crops account for 87% of all grain production worldwide?",
+      "question": "Which of the following is a major contributor to climate change according to the article?",
       "options": [
-        "corn (maize), wheat, and rice",
-        "corn, oats, and barley",
-        "wheat, rice, and sorghum",
-        "rice, millet, and wheat"
+        "Food and agricultural systems",
+        "The use of solar energy",
+        "The consumption of fruits",
+        "The production of biofuels"
       ],
       "answer_explanations": [
-        "Correct. The article states that corn (maize), wheat, and rice account for 87% of all grain production worldwide.",
-        "Incorrect. The article does not identify corn, oats, and barley as accounting for 87% of grain production.",
-        "Incorrect. The article does not identify wheat, rice, and sorghum as accounting for 87% of grain production.",
-        "Incorrect. The article does not identify rice, millet, and wheat as accounting for 87% of grain production."
+        "Correct. The article states that food and agricultural systems are one of the major contributors to climate change, accounting for up to 37% of greenhouse gas emissions.",
+        "Incorrect. Solar energy is not mentioned as a contributor to climate change.",
+        "Incorrect. The article does not say fruit consumption contributes to climate change.",
+        "Incorrect. Biofuels are mentioned as a use of crops, but not as a major contributor to climate change."
       ]
     },
     {
       "id": 3,
-      "question": "What role do apex predators occupy in a food web according to the article?",
+      "question": "Which of the following is NOT mentioned as a food group in the article?",
       "options": [
-        "the top of the food chain with no known predators",
-        "primary producers that acquire energy from sunlight",
-        "organisms that break down dead organisms",
-        "herbivores that consume plants"
+        "Minerals and vitamins",
+        "Vegetables and fruit",
+        "Cereals and bread",
+        "Dairy"
       ],
       "answer_explanations": [
-        "Correct. The article states that the food chain ends with apex predators, animals that have no known predators in their ecosystem.",
-        "Incorrect. Primary producers, not apex predators, acquire energy from sunlight.",
-        "Incorrect. Decomposers, not apex predators, break down dead organisms.",
-        "Incorrect. Herbivores, not apex predators, consume plants."
+        "Correct. The article lists four basic food groups: vegetables and fruit, cereals and bread, dairy, and meat. Minerals and vitamins are nutrients, not a food group.",
+        "Incorrect. Vegetables and fruit are listed as one of the four basic food groups.",
+        "Incorrect. Cereals and bread are listed as one of the four basic food groups.",
+        "Incorrect. Dairy is listed as one of the four basic food groups."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is true about whole grains according to the article?",
+      "question": "What is the primary source of energy for nearly all life on earth?",
       "options": [
-        "they contain all the elements of the original seed",
-        "they are low in starch compared to other grains",
-        "they are classified as legumes",
-        "they have no food energy"
+        "Photosynthesis",
+        "Cooking",
+        "Fossil fuels",
+        "Animal products"
       ],
       "answer_explanations": [
-        "Correct. The article defines whole grains as foods that contain all the elements of the original seed: bran, germ, and endosperm.",
-        "Incorrect. The article does not state that whole grains are low in starch compared to other grains.",
-        "Incorrect. The article classifies pulses as legumes, not whole grains.",
-        "Incorrect. The article states that water has no food energy, not whole grains."
+        "Correct. The article states that photosynthesis is the primary source of energy and food for nearly all life on earth.",
+        "Incorrect. Cooking is a method of preparing food, not a source of energy for life.",
+        "Incorrect. Fossil fuels are used in agriculture but are not the primary energy source for life.",
+        "Incorrect. Animal products are a food source, but not the primary energy source for all life."
       ]
     },
     {
       "id": 5,
-      "question": "Which nutrients does the article identify as the three main nutrients absorbed from soil for plant growth?",
+      "question": "Which of the following is a staple food that provides more food energy worldwide than any other type of crop?",
       "options": [
-        "nitrogen, phosphorus, and potassium",
-        "carbon, oxygen, and hydrogen",
-        "calcium, sulfur, and magnesium",
-        "iron, zinc, and copper"
+        "Cereal grain",
+        "Fruits",
+        "Vegetables",
+        "Nuts"
       ],
       "answer_explanations": [
-        "Correct. The article states that the three main nutrients absorbed from the soil for plant growth are nitrogen, phosphorus, and potassium.",
-        "Incorrect. The article states that carbon, oxygen, and hydrogen are absorbed from air or water, not soil.",
-        "Incorrect. The article lists calcium, sulfur, and magnesium as other important nutrients, not the three main soil nutrients.",
-        "Incorrect. The article lists iron, zinc, and copper among other important nutrients, not the three main soil nutrients."
+        "Correct. The article states that cereal grain is a staple food that provides more food energy worldwide than any other type of crop.",
+        "Incorrect. Fruits are not mentioned as the top staple food.",
+        "Incorrect. Vegetables are not mentioned as the top staple food.",
+        "Incorrect. Nuts are not mentioned as the top staple food."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article say about the protein content of animal products?",
+      "question": "What percentage of the world's crops are used to feed humans?",
       "options": [
-        "they contain all the essential amino acids humans need",
-        "they are low in protein compared to plant sources",
-        "they lack vitamin B12",
-        "they provide no minerals"
+        "55 percent",
+        "36 percent",
+        "9 percent",
+        "87 percent"
       ],
       "answer_explanations": [
-        "Correct. The article states that animal products are considered complete proteins because they contain all the essential amino acids that the human body needs.",
-        "Incorrect. The article does not state that animal products are low in protein compared to plant sources.",
-        "Incorrect. The article states that animal products contain essential vitamins including B12.",
-        "Incorrect. The article states that animal products contain minerals including zinc, iron, calcium, and magnesium."
+        "Correct. The article states that just over half of the world's crops are used to feed humans (55 percent).",
+        "Incorrect. 36 percent is the percentage grown as animal feed.",
+        "Incorrect. 9 percent is the percentage for biofuels.",
+        "Incorrect. 87 percent is the percentage of grain production accounted for by corn, wheat, and rice."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, how much protein does one large egg contain?",
+      "question": "Which of the following is a food product produced by animals?",
       "options": [
-        "7 grams",
-        "30 grams",
-        "15 grams",
-        "8 grams"
+        "Honey",
+        "Bread",
+        "Wine",
+        "Tofu"
       ],
       "answer_explanations": [
-        "Correct. The article states that one large egg has 7 grams of protein.",
-        "Incorrect. The article states that a 4-ounce steak, chicken breast, or pork chop contains about 30 grams of protein, not one egg.",
-        "Incorrect. The article states that a 4-ounce serving of cheese has about 15 grams of protein, not one egg.",
-        "Incorrect. The article states that 1 cup of milk has about 8 grams of protein, not one egg."
+        "Correct. The article mentions that bees produce honey, which is a food product from animals.",
+        "Incorrect. Bread is a fermented food made with fungi and bacteria, not directly from animals.",
+        "Incorrect. Wine is a fermented food made with fungi and bacteria, not directly from animals.",
+        "Incorrect. Tofu is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following does the article classify as fleshy fruits?",
+      "question": "What is the main component of most foods?",
       "options": [
-        "berries such as blackberry and strawberry",
-        "grains, seeds, and nuts",
-        "root vegetables such as potatoes and carrots",
-        "leaf vegetables such as spinach and lettuce"
+        "Water",
+        "Protein",
+        "Fat",
+        "Carbohydrates"
       ],
       "answer_explanations": [
-        "Correct. The article classifies berries, including blackberry and strawberry, as fleshy fruits.",
-        "Incorrect. The article distinguishes dry fruits like grain, seeds, and nuts from fleshy fruits.",
-        "Incorrect. The article classifies potatoes and carrots as root vegetables, not fleshy fruits.",
-        "Incorrect. The article classifies spinach and lettuce as leaf vegetables, not fleshy fruits."
+        "Correct. The article states that food is mainly composed of water, lipids, proteins, and carbohydrates, and that water is found in nearly all foods.",
+        "Incorrect. Protein is a component but not the main one; water is more prevalent.",
+        "Incorrect. Fat is a component but not the main one; water is more prevalent.",
+        "Incorrect. Carbohydrates are a component but not the main one; water is more prevalent."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article state about water as a component of food?",
+      "question": "Which of the following is a type of fleshy fruit?",
       "options": [
-        "it is found in nearly all foods and has no food energy",
-        "it is the most energy-dense component of food",
-        "it is not considered food by any definition",
-        "it provides high levels of dietary fiber"
+        "Berries",
+        "Grains",
+        "Nuts",
+        "Roots"
       ],
       "answer_explanations": [
-        "Correct. The article states that water is found in nearly all foods, has been defined as food by itself, and has no food energy.",
-        "Incorrect. The article states that fat is the most energy-dense component, not water.",
-        "Incorrect. The article explicitly states that water has been defined as food by itself.",
-        "Incorrect. The article associates dietary fiber with low energy densities, not with water."
+        "Correct. The article classifies fleshy fruits into categories including berries, stone fruits, pome fruits, citrus, melons, Mediterranean fruits, and tropical fruits.",
+        "Incorrect. Grains are dry fruits, not fleshy fruits.",
+        "Incorrect. Nuts are dry fruits, not fleshy fruits.",
+        "Incorrect. Roots are vegetables, not fruits."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is listed in the article as a fermented food prepared using fungi and bacteria?",
+      "question": "What is the role of bacteria in the food chain?",
       "options": [
-        "cheese",
-        "fresh fruit",
-        "raw vegetables",
-        "whole grains"
+        "They convert atmospheric nitrogen into ammonia",
+        "They are the top predators",
+        "They only produce oxygen",
+        "They are the main source of food for humans"
       ],
       "answer_explanations": [
-        "Correct. The article lists cheese among fermented foods like bread, wine, and yogurt that are prepared using fungi and bacteria.",
-        "Incorrect. The article does not list fresh fruit as a fermented food.",
-        "Incorrect. The article does not list raw vegetables as a fermented food.",
-        "Incorrect. The article does not list whole grains as a fermented food."
+        "Correct. The article states that bacteria convert atmospheric nitrogen into ammonia, which is a precursor to proteins and other nutrients.",
+        "Incorrect. Apex predators are at the top, not bacteria.",
+        "Incorrect. Photosynthetic organisms produce oxygen, but bacteria have broader roles.",
+        "Incorrect. Humans eat plants and animals, not primarily bacteria."
       ]
     }
   ]

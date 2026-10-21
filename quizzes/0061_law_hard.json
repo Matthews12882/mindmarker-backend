@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to Hans Kelsen's Pure Theory of Law, what does the 'basic norm' (Grundnorm) instruct us to do?",
+      "question": "Given the article's description of legal systems, what is the most significant implication of the distinction between civil law and common law jurisdictions?",
       "options": [
-        "obey the legal system",
-        "distinguish between law and morality",
-        "create positive 'is' statements",
-        "reject the rule of law"
+        "It implies that the source of legal authority and the role of judges in shaping law differ fundamentally between the two systems.",
+        "It implies that civil law systems are inherently more just because they codify laws, while common law systems rely on inconsistent judge-made rules.",
+        "It implies that common law systems are more democratic because judges are elected, whereas civil law systems are autocratic.",
+        "It implies that the two systems are converging so completely that the distinction will soon have no practical relevance."
       ],
       "answer_explanations": [
-        "Correct. Kelsen hypothesised that each legal system can be hypothesised to have a 'basic norm' (Grundnorm) instructing us to obey.",
-        "Incorrect. While Kelsen believed law is separate from morality, the basic norm itself instructs obedience, not the distinction.",
-        "Incorrect. Positive 'is' statements describe what laws are, but the basic norm instructs what we ought to doâobey.",
-        "Incorrect. Carl Schmitt, not Kelsen, rejected the rule of law; Kelsen's basic norm is about obedience within a legal system."
+        "Correct. The article explains that in civil law jurisdictions, a legislature or central body codifies and consolidates the law, while in common law systems, judges make binding case law through precedent. This shows the source of authority and the judiciary's law-making role are fundamentally different.",
+        "Incorrect. The article does not state that civil law is more just or that common law is inconsistent; it simply describes the different mechanisms for creating law.",
+        "Incorrect. The article does not discuss the election of judges in either system, nor does it characterize either system as autocratic.",
+        "Incorrect. While the article notes signs of convergence, it presents the distinction as a current and significant feature of legal systems, not as one that is about to disappear."
       ]
     },
     {
       "id": 2,
-      "question": "In H. L. A. Hart's framework, which category of secondary rules is specifically used to resolve legal disputes?",
+      "question": "How does the article's account of the philosophical debate between legal positivism and natural law explain their differing views on the relationship between law and morality?",
       "options": [
-        "rules of adjudication",
-        "rules of change",
-        "rule of recognition",
-        "primary rules of conduct"
+        "Positivists like Austin and Bentham argue law is separate from morality, while natural lawyers like Rousseau and Aquinas see law as reflecting moral principles.",
+        "Positivists believe law should be moral, while natural lawyers believe law is simply a command backed by a threat.",
+        "Both positivism and natural law agree that law is a system of rules, but they disagree on whether these rules should be enforced by sanctions.",
+        "The article suggests the debate is irrelevant because all legal systems are ultimately based on a 'basic norm' that is neither moral nor immoral."
       ],
       "answer_explanations": [
-        "Correct. Hart divided secondary rules into rules of adjudication (to resolve legal disputes), rules of change, and the rule of recognition.",
-        "Incorrect. Rules of change are used to vary laws, not to resolve disputes.",
-        "Incorrect. The rule of recognition is used to identify laws as valid, not to resolve disputes.",
-        "Incorrect. Primary rules are rules of conduct and are not part of the secondary rules Hart described."
+        "Correct. The article states that Austin's utilitarian answer was that law is 'commands, backed by threat of sanctions', while natural lawyers like Rousseau argue that law 'reflects essentially moral and unchangeable laws of nature'. This highlights the core disagreement.",
+        "Incorrect. This reverses the positions. Positivists argue law is separate from morality, while natural lawyers see law as moral.",
+        "Incorrect. While both may discuss rules and sanctions, the central conflict described is about the connection to morality, not about the enforcement mechanism.",
+        "Incorrect. Kelsen's 'basic norm' is a positivist concept, and the article presents the debate as a central and ongoing issue in jurisprudence, not an irrelevant one."
       ]
     },
     {
       "id": 3,
-      "question": "What did Jean-Jacques Rousseau claim about the object of laws in the passage from The Social Contract quoted in the article?",
+      "question": "Based on the article, what is the most profound implication of H. L. A. Hart's critique of John Austin's definition of law?",
       "options": [
-        "it is always general",
-        "it applies to particular persons",
-        "it is made by the prince",
-        "it can be unjust"
+        "It implies that law is not just a command from a superior but a complex system of rules that includes rules about how to make and apply other rules.",
+        "It implies that Austin's definition was entirely wrong and that law has no connection to a sovereign or sanctions.",
+        "It implies that Hart believed morality is the ultimate source of legal validity, rejecting positivism altogether.",
+        "It implies that the only valid rules in a legal system are those that are directly enforced by courts."
       ],
       "answer_explanations": [
-        "Correct. Rousseau wrote that 'the object of laws is always general' and that law considers subjects en masse and actions in the abstract.",
-        "Incorrect. Rousseau explicitly stated that law never concerns a particular person or action.",
-        "Incorrect. Rousseau argued that the prince is a member of the State, not that the prince makes laws.",
-        "Incorrect. Rousseau argued that the law cannot be unjust, since no one is unjust to himself."
+        "Correct. The article explains that Hart argued law is a system of rules divided into primary rules of conduct and secondary rules addressed to officials, which include rules of adjudication, change, and recognition. This is a more complex structure than Austin's simple 'command of a sovereign'.",
+        "Incorrect. Hart attacked Austin for 'simplifications', but his theory still includes the idea of a sovereign and sanctions, just within a more complex framework of rules.",
+        "Incorrect. Hart is presented as a positivist who attacked both Austin and Kelsen. His rule of recognition is a social rule, not a moral one.",
+        "Incorrect. Hart's theory includes secondary rules that govern how primary rules are made, changed, and adjudicated, not just rules enforced by courts."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following best describes Joseph Raz's position on law as presented in the article?",
+      "question": "What does the article's description of the historical development of law from the Codex Hammurabi to the Law Merchant suggest about the primary function of written legal codes?",
       "options": [
-        "law is authority identifiable purely through social sources without reference to moral reasoning",
-        "law is an interpretive concept requiring judges to find the most just solution",
-        "law is a system of rules divided into primary and secondary rules",
-        "law is a rational ordering of things concerning the common good"
+        "It suggests that written codes have served to standardize and publicize rules, making legal expectations clearer and more uniform across a community.",
+        "It suggests that written codes are primarily a tool for autocrats to control their populations through fear of punishment.",
+        "It suggests that written codes are a modern invention that replaced earlier, more flexible systems based on custom and oral tradition.",
+        "It suggests that the primary function of written codes is to preserve the historical record of a civilization for future generations."
       ],
       "answer_explanations": [
-        "Correct. Raz argued that law is authority, identifiable purely through social sources and without reference to moral reasoning.",
-        "Incorrect. This describes Ronald Dworkin's view, not Raz's.",
-        "Incorrect. This describes H. L. A. Hart's view, not Raz's.",
-        "Incorrect. This describes Thomas Aquinas's view, not Raz's."
+        "Correct. The article notes Hammurabi placed copies of his code 'for the entire public to see', and the Law Merchant was established so merchants could trade 'under common standards of practice'. This points to a function of standardization and publicity.",
+        "Incorrect. While codes can be used for control, the article's examples emphasize publicity and common standards, not just autocratic control.",
+        "Incorrect. The article shows that codes have existed since ancient times (e.g., Codex Hammurabi) and that they coexisted with custom and case law, not that they replaced them.",
+        "Incorrect. While codes are historical artifacts, the article's examples focus on their contemporary function in governing behavior and trade, not on their use for future historians."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, how does the public-private law divide compare between civil law and common law jurisdictions?",
+      "question": "Considering the article's discussion of the philosophy of law, what is the central point of conflict between Hans Kelsen and Carl Schmitt?",
       "options": [
-        "the distinction is stronger in civil law countries and less pronounced in common law jurisdictions",
-        "the distinction is stronger in common law countries and less pronounced in civil law jurisdictions",
-        "the distinction is equally strong in both civil law and common law jurisdictions",
-        "the distinction exists only in civil law countries"
+        "Kelsen believed law should be obeyed because of an abstract 'basic norm', while Schmitt rejected abstract norms in favor of concrete political decisions, especially in emergencies.",
+        "Kelsen believed law is a system of moral principles, while Schmitt believed law is purely a command from a sovereign.",
+        "Kelsen argued that law is a social fact, while Schmitt argued that law is an interpretive concept that must achieve justice.",
+        "Kelsen and Schmitt agreed on the primacy of legal norms, but they disagreed on the structure of the court system."
       ],
       "answer_explanations": [
-        "Correct. The article states that this distinction is stronger in civil law countries, particularly those with a separate system of administrative courts, while by contrast the public-private law divide is less pronounced in common law jurisdictions.",
-        "Incorrect. The article states the opposite: the distinction is stronger in civil law countries, not common law countries.",
-        "Incorrect. The article explicitly says the distinction is stronger in civil law countries and less pronounced in common law jurisdictions, so it is not equally strong.",
-        "Incorrect. The article says the divide is less pronounced in common law jurisdictions, not that it exists only in civil law countries."
+        "Correct. The article states Kelsen believed in the 'normativity' of law based on a 'basic norm', while Schmitt 'rejected both positivism and the idea of the rule of law' and advocated a 'jurisprudence of the exception' that denied legal norms could encompass all political experience.",
+        "Incorrect. Kelsen was a positivist who separated law from morality, and Schmitt rejected abstract norms, not in favor of a sovereign's command but in favor of concrete political decisions.",
+        "Incorrect. This inaccurately describes both thinkers. Kelsen focused on the 'is' and 'ought' of legal norms, while Schmitt focused on the primacy of political decisions.",
+        "Incorrect. The article describes a fundamental disagreement about the nature and supremacy of legal norms, not a shared belief in them."
       ]
     },
     {
       "id": 6,
-      "question": "What did Carl Schmitt reject that led him to advocate a jurisprudence of the exception?",
+      "question": "Based on the article, what is the most significant difference between the legal traditions of ancient Athens and ancient Rome?",
       "options": [
-        "both legal positivism and the idea of the rule of law",
-        "only the idea of the rule of law",
-        "only legal positivism",
-        "the concept of the basic norm"
+        "Athens lacked a unified concept of law, distinguishing between divine law, human decree, and custom, while Rome developed a sophisticated, professional legal science.",
+        "Athens was a democracy that included all citizens, while Rome was an autocracy that excluded its citizens from legal participation.",
+        "Athens relied on codified statutes, while Rome relied entirely on the decisions of judges and had no written laws.",
+        "Athens was heavily influenced by religious law, while Rome was completely secular and rejected any philosophical influence."
       ],
       "answer_explanations": [
-        "Correct. The article states that Kelsen's major opponent, Carl Schmitt, rejected both positivism and the idea of the rule of law because he did not accept the primacy of abstract normative principles over concrete political positions and decisions.",
-        "Incorrect. Schmitt rejected both positivism and the rule of law, not only the rule of law.",
-        "Incorrect. Schmitt rejected both positivism and the rule of law, not only legal positivism.",
-        "Incorrect. The basic norm is associated with Kelsen, not with what Schmitt rejected in advocating a jurisprudence of the exception."
+        "Correct. The article says Athens had 'no legal science or single word for law', relying on a three-way distinction (thÃ©mis, nÃ³mos, dÃ­kÄ), while Roman law was 'heavily influenced by Greek philosophy, but professional jurists developed its detailed rules and were highly sophisticated'.",
+        "Incorrect. The article states Athens excluded women and enslaved people, and it does not characterize Rome as an autocracy in this context.",
+        "Incorrect. The article does not say Athens relied on codified statutes, and it explicitly says Rome underwent major codification under Theodosius II and Justinian I.",
+        "Incorrect. The article says Roman law was heavily influenced by Greek philosophy, and it does not describe Athens as religiously dominated in its legal system."
       ]
     },
     {
       "id": 7,
-      "question": "Which ancient civilization is credited in the article with formulating the first law code consisting of casuistic 'if â¦ then â¦' statements?",
+      "question": "What conclusion can be drawn from the article's account of the different definitions of law proposed by Holmes, Aquinas, and Raz?",
       "options": [
-        "Sumerian",
-        "Egyptian",
-        "Babylonian",
-        "Roman"
+        "The definitions reflect different fundamental assumptions about what law is: a prediction of judicial behavior, a rational ordering for the common good, and a social authority, respectively.",
+        "The definitions are essentially the same, as they all agree that law is a system of rules enforced by the state.",
+        "The definitions show a clear historical progression from a natural law view to a positivist view, with no overlap or debate.",
+        "The definitions are all incorrect because the article states that no universally acceptable definition of law can be produced."
       ],
       "answer_explanations": [
-        "Correct. The article states that by the 22nd century BC, the ancient Sumerian ruler Ur-Nammu had formulated the first law code, which consisted of casuistic statements ('if â¦ then â¦').",
-        "Incorrect. Ancient Egyptian law was based on Ma'at, but the article credits the Sumerians with the first law code using casuistic statements.",
-        "Incorrect. King Hammurabi further developed Babylonian law around 1760 BC, but the first law code with casuistic statements is attributed to the Sumerian ruler Ur-Nammu.",
-        "Incorrect. Roman law developed much later and was influenced by Greek philosophy; it is not credited with the first casuistic law code."
+        "Correct. The article presents Holmes's definition as 'the prophecies of what the courts will do', Aquinas's as 'a rational ordering of things...for the common good', and Raz's as an 'authority' identifiable through social sources. These are distinct foundational views.",
+        "Incorrect. The definitions are presented as distinct and even conflicting, with Holmes focusing on judicial action, Aquinas on reason and common good, and Raz on authority.",
+        "Incorrect. The article presents these as different positions within an ongoing debate, not as a linear progression. For example, Aquinas's definition has both positivist and naturalist elements.",
+        "Incorrect. While the article notes the difficulty of defining law, it presents these definitions as serious and influential attempts, not as incorrect ones."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what did John Austin say law was?",
+      "question": "Given the article's description of the 'public-private law divide', what is the most likely reason this distinction is less pronounced in common law jurisdictions?",
       "options": [
-        "the command of a sovereign, backed by the threat of a sanction",
-        "a system of rules",
-        "an interpretive concept to achieve justice",
-        "an authority to mediate people's interests"
+        "Because common law systems developed through judicial precedent in specific disputes, which does not naturally separate issues of state power from private disputes.",
+        "Because common law jurisdictions do not have a constitution or any form of public law.",
+        "Because in common law systems, all law is created by the legislature, making the source of law uniform.",
+        "Because common law judges are not allowed to hear cases involving the government."
       ],
       "answer_explanations": [
-        "Correct. The article states that John Austin said law was 'the command of a sovereign, backed by the threat of a sanction'.",
-        "Incorrect. 'A system of rules' is H. L. A. Hart's definition, not Austin's.",
-        "Incorrect. 'An interpretive concept to achieve justice' is Ronald Dworkin's description, not Austin's.",
-        "Incorrect. 'An authority to mediate people's interests' is Joseph Raz's argument, not Austin's."
+        "Correct. The article states the distinction is stronger in civil law countries with separate administrative courts. Common law, which develops through precedent in individual cases, does not have this institutional separation, making the divide less pronounced.",
+        "Incorrect. The article mentions that common law jurisdictions have constitutional traditions (e.g., Dworkin's reference to 'Anglo-American constitutional traditions'), so they do have public law.",
+        "Incorrect. Common law is made by judges as well as legislatures, and the article does not attribute the weaker divide to legislative supremacy.",
+        "Incorrect. The article does not state that common law judges cannot hear cases involving the government; it only notes the divide is less pronounced."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following best describes Immanuel Kant's view of law as presented in the article?",
+      "question": "What is the most significant implication of the article's statement that the Law Merchant was a 'precursor to modern commercial law'?",
       "options": [
-        "a moral imperative requires laws be chosen as though they should hold as universal laws of nature",
-        "law is entirely separate from morality",
-        "law emanates from the will to power and cannot be labeled moral or immoral",
-        "law is commands backed by threat of sanctions from a sovereign"
+        "It implies that modern commercial law has its roots in a historical system designed to facilitate trade across different local jurisdictions.",
+        "It implies that modern commercial law was invented in the 18th and 19th centuries and has no earlier origins.",
+        "It implies that the Law Merchant was the first example of a national legal code.",
+        "It implies that modern commercial law is based on the same principles as ancient Roman law, which was its direct predecessor."
       ],
       "answer_explanations": [
-        "Correct. The article states that Kant believed a moral imperative requires laws 'be chosen as though they should hold as universal laws of nature'.",
-        "Incorrect. This is the positivist view associated with Bentham and Austin, not Kant's view.",
-        "Incorrect. This is Friedrich Nietzsche's view, not Kant's.",
-        "Incorrect. This is John Austin's utilitarian answer, not Kant's view."
+        "Correct. The article states the Law Merchant was established so merchants could trade 'under common standards of practice' and was a 'precursor to modern commercial law', emphasizing its role in facilitating cross-jurisdictional trade.",
+        "Incorrect. The article explicitly calls the Law Merchant a precursor, showing that modern commercial law has earlier origins.",
+        "Incorrect. The Law Merchant was a Europe-wide system, not a national code, and the article says it was later incorporated into national civil codes.",
+        "Incorrect. While Roman law influenced later legal development, the article specifically identifies the Law Merchant as the precursor to modern commercial law."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what did Thurman Arnold say about defining the word 'law'?",
+      "question": "Based on the article's discussion of the 'is-ought' problem in relation to law, what is the core distinction between the views of natural lawyers like Rousseau and positivists like Bentham and Austin?",
       "options": [
-        "it is impossible to define but the struggle to define it should not be abandoned",
-        "no such definition could ever be produced",
-        "the question has no simple answer",
-        "the meaning depends on the context in which the word is used"
+        "Natural lawyers believe law should reflect what ought to be (moral ideals), while positivists believe law is a matter of what is (sovereign commands), separate from morality.",
+        "Natural lawyers believe law is a set of commands, while positivists believe law is a set of moral principles.",
+        "Both groups agree that law is separate from morality, but they disagree on whether sanctions are a necessary part of law.",
+        "The article suggests that the 'is-ought' problem is irrelevant to the definition of law."
       ],
       "answer_explanations": [
-        "Correct. The article states that Thurman Arnold said it is obvious that it is impossible to define the word 'law' and that it is also equally obvious that the struggle to define that word should not ever be abandoned.",
-        "Incorrect. Baron Hampstead suggested that no such definition could be produced, not Thurman Arnold.",
-        "Incorrect. McCoubrey and White said the question 'what is law?' has no simple answer, not Thurman Arnold.",
-        "Incorrect. Glanville Williams said the meaning of the word 'law' depends on context, not Thurman Arnold."
+        "Correct. The article explains that Bentham and Austin, following Hume, believed natural law conflated the 'is' and 'ought to be' problem. They argued for positivism, that real law is separate from morality, while natural lawyers like Rousseau see law as reflecting moral and unchangeable laws of nature.",
+        "Incorrect. This reverses the positions. Positivists like Austin define law as commands, while natural lawyers see it as moral.",
+        "Incorrect. The article presents a fundamental disagreement about the connection between law and morality, not an agreement on separation.",
+        "Incorrect. The article presents the 'is-ought' problem as a central issue in the debate between these philosophical schools."
       ]
     }
   ]

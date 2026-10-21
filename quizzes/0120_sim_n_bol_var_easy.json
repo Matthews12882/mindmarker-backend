@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What colloquial title is SimÃ³n BolÃ­var known by?",
+      "question": "What was SimÃ³n BolÃ­var's full birth name?",
       "options": [
-        "El Libertador",
-        "El Presidente",
-        "El General",
-        "El HÃ©roe"
+        "SimÃ³n JosÃ© Antonio de la SantÃ­sima Trinidad BolÃ­var Palacios Ponte y Blanco",
+        "SimÃ³n JosÃ© Antonio de la SantÃ­sima Trinidad BolÃ­var Palacios",
+        "SimÃ³n BolÃ­var Palacios Ponte y Blanco",
+        "SimÃ³n JosÃ© Antonio BolÃ­var y Palacios"
       ],
       "answer_explanations": [
-        "Correct. The article states he is known colloquially as El Libertador, \"the Liberator,\" of America.",
-        "Incorrect. The article does not refer to BolÃ­var as El Presidente.",
-        "Incorrect. The article does not refer to BolÃ­var as El General.",
-        "Incorrect. The article does not refer to BolÃ­var as El HÃ©roe."
+        "Correct. The article states his full name as 'SimÃ³n JosÃ© Antonio de la SantÃ­sima Trinidad BolÃ­var Palacios Ponte y Blanco'.",
+        "Incorrect. The full name includes 'Ponte y Blanco' at the end, not just 'Palacios'.",
+        "Incorrect. The full name includes 'JosÃ© Antonio de la SantÃ­sima Trinidad' before 'BolÃ­var'.",
+        "Incorrect. The full name includes 'de la SantÃ­sima Trinidad' and 'Ponte y Blanco'."
       ]
     },
     {
       "id": 2,
-      "question": "In which city was SimÃ³n BolÃ­var born?",
+      "question": "When was SimÃ³n BolÃ­var born?",
       "options": [
-        "Caracas",
-        "Madrid",
-        "Rome",
-        "Paris"
+        "24 July 1783",
+        "17 December 1830",
+        "24 July 1783 and died 17 December 1830",
+        "24 July 1783 in Caracas"
       ],
       "answer_explanations": [
-        "Correct. The article states BolÃ­var was born in Caracas in the Captaincy General of Venezuela.",
-        "Incorrect. The article says BolÃ­var lived in Madrid but was not born there.",
-        "Incorrect. The article mentions Rome as part of his Grand Tour, not his birthplace.",
-        "Incorrect. The article mentions Paris as a place BolÃ­var visited, not his birthplace."
+        "Correct. The article states his birth date as '24 July 1783'.",
+        "Incorrect. 17 December 1830 is his death date, not his birth date.",
+        "Incorrect. The question asks for his birth date only, not his death date.",
+        "Incorrect. The birth date is 24 July 1783; the location is not part of the date."
       ]
     },
     {
       "id": 3,
-      "question": "What disease caused the death of BolÃ­var's wife MarÃ­a Teresa?",
+      "question": "What was SimÃ³n BolÃ­var's nationality?",
       "options": [
-        "Yellow fever",
-        "Tuberculosis",
-        "Malaria",
-        "Smallpox"
+        "Venezuelan",
+        "Spanish",
+        "Colombian",
+        "South American"
       ],
       "answer_explanations": [
-        "Correct. The article states MarÃ­a Teresa died in Venezuela from yellow fever in 1803.",
-        "Incorrect. The article mentions tuberculosis as the cause of BolÃ­var's own death, not his wife's.",
-        "Incorrect. The article does not mention malaria as the cause of her death.",
-        "Incorrect. The article does not mention smallpox as the cause of her death."
+        "Correct. The article describes him as 'a Venezuelan military officer and statesman'.",
+        "Incorrect. He was not Spanish; he was Venezuelan.",
+        "Incorrect. He was not Colombian; he was Venezuelan.",
+        "Incorrect. 'South American' is a regional description, not his nationality."
       ]
     },
     {
       "id": 4,
-      "question": "In which city did BolÃ­var swear to end Spanish rule in the Americas?",
+      "question": "What countries did BolÃ­var lead to independence from the Spanish Empire?",
       "options": [
-        "Rome",
-        "Madrid",
-        "Caracas",
-        "Paris"
+        "Bolivia, Colombia, Ecuador, Panama, Peru, and Venezuela",
+        "Bolivia, Colombia, Ecuador, Peru, and Venezuela",
+        "Colombia, Ecuador, Panama, and Venezuela",
+        "Bolivia, Colombia, Ecuador, Panama, and Peru"
       ],
       "answer_explanations": [
-        "Correct. The article states that in Rome, during his Grand Tour, BolÃ­var swore to end Spanish rule in the Americas.",
-        "Incorrect. The article says BolÃ­var lived in Madrid but did not swear the oath there.",
-        "Incorrect. The article says BolÃ­var returned to Caracas but does not place the oath there.",
-        "Incorrect. The article mentions Paris as part of his travels but not as the site of the oath."
+        "Correct. The article lists 'Bolivia, Colombia, Ecuador, Panama, Peru, and Venezuela'.",
+        "Incorrect. Panama is also included.",
+        "Incorrect. Bolivia and Peru are also included.",
+        "Incorrect. Venezuela is also included."
       ]
     },
     {
       "id": 5,
-      "question": "Which disease caused BolÃ­var's death in 1830?",
+      "question": "What is BolÃ­var known colloquially as?",
       "options": [
-        "Tuberculosis",
-        "Yellow fever",
-        "Cholera",
-        "Pneumonia"
+        "El Libertador",
+        "The Liberator of America",
+        "The Great Liberator",
+        "The Hero of America"
       ],
       "answer_explanations": [
-        "Correct. The article states BolÃ­var died of tuberculosis in 1830.",
-        "Incorrect. The article mentions yellow fever as the cause of his wife's death, not his own.",
-        "Incorrect. The article does not mention cholera as the cause of his death.",
-        "Incorrect. The article does not mention pneumonia as the cause of his death."
+        "Correct. The article states he is known colloquially as 'El Libertador'.",
+        "Incorrect. 'The Liberator of America' is a translation, but the colloquial name is 'El Libertador'.",
+        "Incorrect. The article does not use 'The Great Liberator'.",
+        "Incorrect. The article does not use 'The Hero of America'."
       ]
     },
     {
       "id": 6,
-      "question": "Which two countries are named after SimÃ³n BolÃ­var?",
+      "question": "Where was BolÃ­var born?",
       "options": [
-        "Bolivia and Venezuela",
-        "Colombia and Ecuador",
-        "Peru and Panama",
-        "Argentina and Chile"
+        "Caracas",
+        "Madrid",
+        "Rome",
+        "Haiti"
       ],
       "answer_explanations": [
-        "Correct. The article states the nations of Bolivia and Venezuela (as the Bolivarian Republic of Venezuela) are named after him.",
-        "Incorrect. The article does not say Colombia and Ecuador are named after BolÃ­var.",
-        "Incorrect. The article does not say Peru and Panama are named after BolÃ­var.",
-        "Incorrect. The article does not say Argentina and Chile are named after BolÃ­var."
+        "Correct. The article states he was born in 'Caracas'.",
+        "Incorrect. Madrid is where he lived later, not his birthplace.",
+        "Incorrect. Rome is where he made a vow, not his birthplace.",
+        "Incorrect. Haiti is where he met PÃ©tion, not his birthplace."
       ]
     },
     {
       "id": 7,
-      "question": "In what year did BolÃ­var return to Venezuela and promote independence to wealthy creoles?",
+      "question": "What happened to BolÃ­var's parents when he was a child?",
       "options": [
-        "1807",
-        "1803",
-        "1810",
-        "1815"
+        "He lost both parents",
+        "They moved to Spain",
+        "They died of yellow fever",
+        "They became wealthy"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1807, BolÃ­var returned to Venezuela and promoted Venezuelan independence to other wealthy creoles.",
-        "Incorrect. The article says BolÃ­var's wife died in 1803, not that he returned to Venezuela that year.",
-        "Incorrect. The article says BolÃ­var began his military career in 1810, not that he returned to Venezuela.",
-        "Incorrect. The article says Spanish forces subdued New Granada in 1815, not that BolÃ­var returned to Venezuela."
+        "Correct. The article states he 'lost both parents as a child'.",
+        "Incorrect. The article does not mention his parents moving to Spain.",
+        "Incorrect. His wife died of yellow fever, not his parents.",
+        "Incorrect. His family was wealthy, but that is not what happened to his parents."
       ]
     },
     {
       "id": 8,
-      "question": "Where was BolÃ­var forced into exile after Spanish forces subdued New Granada in 1815?",
+      "question": "While living in Madrid from 1800 to 1802, what was BolÃ­var introduced to?",
       "options": [
-        "Jamaica",
-        "Haiti",
-        "Madrid",
-        "Rome"
+        "Enlightenment philosophy",
+        "Military tactics",
+        "Spanish politics",
+        "The Grand Tour"
       ],
       "answer_explanations": [
-        "Correct. The article states that after Spanish forces subdued New Granada in 1815, BolÃ­var was forced into exile on Jamaica.",
-        "Incorrect. The article says BolÃ­var went to Haiti after Jamaica to meet Alexandre PÃ©tion, not as his initial exile destination.",
-        "Incorrect. The article does not say BolÃ­var was exiled to Madrid.",
-        "Incorrect. The article does not say BolÃ­var was exiled to Rome."
+        "Correct. The article states he was 'introduced to Enlightenment philosophy'.",
+        "Incorrect. The article does not mention military tactics in this context.",
+        "Incorrect. The article does not mention Spanish politics.",
+        "Incorrect. The Grand Tour was a later journey, not an introduction."
       ]
     },
     {
       "id": 9,
-      "question": "Which Haitian revolutionary leader did BolÃ­var meet and befriend in Haiti?",
+      "question": "Who did BolÃ­var marry while in Madrid?",
       "options": [
+        "MarÃ­a Teresa RodrÃ­guez del Toro y Alaysa",
         "Alexandre PÃ©tion",
-        "Toussaint Louverture",
-        "Jean-Jacques Dessalines",
-        "Henri Christophe"
+        "A wealthy creole",
+        "A Spanish noblewoman"
       ],
       "answer_explanations": [
-        "Correct. The article states that in Haiti, BolÃ­var met and befriended Haitian revolutionary leader Alexandre PÃ©tion.",
-        "Incorrect. The article does not mention Toussaint Louverture in connection with BolÃ­var.",
-        "Incorrect. The article does not mention Jean-Jacques Dessalines in connection with BolÃ­var.",
-        "Incorrect. The article does not mention Henri Christophe in connection with BolÃ­var."
+        "Correct. The article states he married 'MarÃ­a Teresa RodrÃ­guez del Toro y Alaysa'.",
+        "Incorrect. Alexandre PÃ©tion was a Haitian revolutionary leader, not his wife.",
+        "Incorrect. The article does not specify that his wife was a wealthy creole.",
+        "Incorrect. The article does not specify that she was a Spanish noblewoman."
       ]
     },
     {
       "id": 10,
-      "question": "Which countries were merged into the Republic of Colombia (Gran Colombia)?",
+      "question": "What did BolÃ­var swear to do in Rome?",
       "options": [
-        "Venezuela, New Granada, Ecuador, and Panama",
-        "Bolivia, Peru, Ecuador, and Panama",
-        "Venezuela, Colombia, Peru, and Bolivia",
-        "Argentina, Chile, Uruguay, and Paraguay"
+        "End Spanish rule in the Americas",
+        "Become president of Gran Colombia",
+        "Abolish slavery in Spanish America",
+        "Return to Venezuela"
       ],
       "answer_explanations": [
-        "Correct. The article states Venezuela, New Granada, Ecuador, and Panama were merged into the Republic of Colombia (Gran Colombia).",
-        "Incorrect. The article does not list Bolivia, Peru, Ecuador, and Panama as the countries merged into Gran Colombia.",
-        "Incorrect. The article does not list Venezuela, Colombia, Peru, and Bolivia as the countries merged into Gran Colombia.",
-        "Incorrect. The article does not mention Argentina, Chile, Uruguay, or Paraguay in connection with Gran Colombia."
+        "Correct. The article states he swore 'to end Spanish rule in the Americas'.",
+        "Incorrect. Becoming president of Gran Colombia is not mentioned in this context.",
+        "Incorrect. Abolishing slavery was a promise he made later in Haiti, not in Rome.",
+        "Incorrect. Returning to Venezuela is not mentioned as a vow."
       ]
     }
   ]

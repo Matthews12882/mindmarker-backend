@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does the national motto 'Bhinneka Tunggal Ika' mean?",
+      "question": "What is the official name of the country described in the article?",
       "options": [
-        "Unity in diversity",
-        "Indian islands",
-        "One nation, one language",
-        "Freedom from colonial rule"
+        "Republic of Indonesia",
+        "United States of Indonesia",
+        "Democratic Republic of Indonesia",
+        "People's Republic of Indonesia"
       ],
       "answer_explanations": [
-        "Correct. The article states that the motto means 'unity in diversity'.",
-        "Incorrect. 'Indian islands' is a translation of the name Indonesia, not the motto.",
-        "Incorrect. The article does not mention this phrase as the motto.",
-        "Incorrect. Freedom from colonial rule was a goal of nationalists, not the motto."
+        "Correct. The article states, 'Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia and Oceania.'",
+        "Incorrect. The article does not mention this name; it says the official name is the Republic of Indonesia.",
+        "Incorrect. The article does not mention this name; it says the official name is the Republic of Indonesia.",
+        "Incorrect. The article does not mention this name; it says the official name is the Republic of Indonesia."
       ]
     },
     {
       "id": 2,
-      "question": "Which island is described as the most heavily populated island in the world?",
+      "question": "How many islands does Indonesia comprise, according to the article?",
       "options": [
-        "Java",
-        "Sumatra",
-        "Borneo",
-        "Sulawesi"
+        "Between 13,000 and 17,000 islands",
+        "Exactly 10,000 islands",
+        "Over 20,000 islands",
+        "Fewer than 5,000 islands"
       ],
       "answer_explanations": [
-        "Correct. The article notes that 'more than half of Indonesians live on Java, the most heavily populated island in the world'.",
-        "Incorrect. Sumatra is mentioned as one of the major islands but not as the most heavily populated.",
-        "Incorrect. Borneo is mentioned as part of Indonesia but not as the most heavily populated island.",
-        "Incorrect. Sulawesi is mentioned as a major island but not as the most heavily populated."
+        "Correct. The article says, 'Comprising between 13,000 and 17,000 islandsâincluding Sumatra, Java, Sulawesi, and parts of Borneo and New Guinea.'",
+        "Incorrect. The article gives a range of 13,000 to 17,000 islands, not an exact number of 10,000.",
+        "Incorrect. The article states a range up to 17,000, not over 20,000.",
+        "Incorrect. The article states a minimum of 13,000, which is more than 5,000."
       ]
     },
     {
       "id": 3,
-      "question": "What was the primary reason the Dutch East India Company (VOC) was established in 1602?",
+      "question": "Which ocean is NOT mentioned as bordering Indonesia?",
       "options": [
-        "To merge competing Dutch companies and control the spice trade",
-        "To conquer all of Indonesia for the Dutch Republic",
-        "To spread Christianity in the archipelago",
-        "To establish a colony for Dutch settlers"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Both Indian and Pacific Oceans are mentioned"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'in 1602 competing Dutch companies were merged into the Dutch East India Company' to pursue the spice trade.",
-        "Incorrect. The article does not state that conquering all of Indonesia was the primary reason for the VOC's establishment.",
-        "Incorrect. The article does not mention spreading Christianity as a primary goal of the VOC.",
-        "Incorrect. The article does not mention establishing a settler colony as the primary goal."
+        "Correct. The article mentions the Indian and Pacific oceans but does not mention the Atlantic Ocean.",
+        "Incorrect. The article does mention the Indian Ocean as one of the oceans between which Indonesia lies.",
+        "Incorrect. The article does mention the Pacific Ocean as one of the oceans between which Indonesia lies.",
+        "Incorrect. The article mentions both the Indian and Pacific Oceans, so this option is not correct."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what event directly led to Sukarno proclaiming Indonesian independence?",
+      "question": "What is the national motto of Indonesia, as stated in the article?",
       "options": [
-        "Japan's surrender to the Allies",
-        "The atomic bombing of Hiroshima",
-        "The Dutch collapse in 1942",
-        "The Second Youth Congress in 1928"
+        "Bhinneka Tunggal Ika",
+        "Unity and Freedom",
+        "One Nation, One People",
+        "Strength in Diversity"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Japan surrendered to the Allies on 15 August 1945. Two days later, Sukarno proclaimed Indonesian independence'.",
-        "Incorrect. The bombing of Hiroshima occurred before the surrender, but the article states the surrender was the direct trigger.",
-        "Incorrect. The Dutch collapse in 1942 led to Japanese occupation, not immediate independence.",
-        "Incorrect. The 1928 congress was a pledge of unity, not the direct cause of the proclamation."
+        "Correct. The article states, 'This diversity is reflected in the national motto, Bhinneka Tunggal Ika, meaning \"unity in diversity\".'",
+        "Incorrect. The article gives the motto as Bhinneka Tunggal Ika, not 'Unity and Freedom'.",
+        "Incorrect. The article gives the motto as Bhinneka Tunggal Ika, not 'One Nation, One People'.",
+        "Incorrect. The article gives the motto as Bhinneka Tunggal Ika, not 'Strength in Diversity'."
       ]
     },
     {
       "id": 5,
-      "question": "What was the 'Ethical Policy' of 1901 intended to do?",
+      "question": "According to the article, which language is the official and national language of Indonesia?",
       "options": [
-        "Expand vernacular schooling, irrigation, and other public services",
-        "Establish Dutch control over western New Guinea",
-        "Suppress nationalist movements more strictly",
-        "Promote the use of the Dutch language in schools"
+        "Indonesian",
+        "Dutch",
+        "Malay",
+        "English"
       ],
       "answer_explanations": [
-        "Correct. The article states the Ethical Policy 'expanded vernacular schooling, irrigation, and other public services'.",
-        "Incorrect. Dutch control over western New Guinea was established later, not as part of the Ethical Policy.",
-        "Incorrect. Restrictions on nationalist activity became stricter later, during the Great Depression.",
-        "Incorrect. The article mentions vernacular schooling, not specifically promoting Dutch language."
+        "Correct. The article says, 'Indonesian, a standardised variety of Malay, is the official and national language and its lingua franca.'",
+        "Incorrect. The article mentions Dutch in the context of colonial rule, but the official language is Indonesian.",
+        "Incorrect. The article says Indonesian is a standardised variety of Malay, but the official language is Indonesian, not Malay.",
+        "Incorrect. The article does not mention English as an official language; it says Indonesian is the official language."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following was a maritime trading polity and a centre of Buddhist learning?",
+      "question": "What does the name 'Indonesia' mean, according to the etymology section?",
       "options": [
-        "Srivijaya",
-        "Majapahit",
-        "Demak",
-        "Samudra-Pasai"
+        "Indian islands",
+        "Islands of the East",
+        "Land of the Malays",
+        "Spice islands"
       ],
       "answer_explanations": [
-        "Correct. The article describes Srivijaya as 'a maritime trading polity and a centre of Buddhist learning and religious networks'.",
-        "Incorrect. Majapahit is described as a Javanese kingdom that claimed suzerainty over ports, not specifically as a centre of Buddhist learning.",
-        "Incorrect. Demak was an Islamic sultanate, not a Buddhist centre.",
-        "Incorrect. Samudra-Pasai was a Muslim sultanate and pepper port, not a Buddhist centre."
+        "Correct. The article explains, 'The name Indonesia is usually explained as a combination of India and the Greek word nesos, together meaning \"Indian islands\".'",
+        "Incorrect. The article says the name means 'Indian islands', not 'Islands of the East'.",
+        "Incorrect. The article says the name means 'Indian islands', not 'Land of the Malays'.",
+        "Incorrect. The article says the name means 'Indian islands', not 'Spice islands'."
       ]
     },
     {
       "id": 7,
-      "question": "What role did the Malay language play in the development of Indonesian national identity?",
+      "question": "Who proposed the term 'Indonesia' as a geographical term for the Indian Archipelago?",
       "options": [
-        "It was a lingua franca that did not favour any single ethnic group",
-        "It was the language of the Dutch colonizers",
-        "It was only spoken on the island of Java",
-        "It was banned by the Japanese during occupation"
+        "James Richardson Logan",
+        "George Windsor Earl",
+        "Adolf Bastian",
+        "Soewardi Soerjaningrat"
       ],
       "answer_explanations": [
-        "Correct. The article states that Malay 'had long been a lingua franca that did not favour any single ethnic group' and was adopted as the language of unity.",
-        "Incorrect. Dutch was the colonial language, not Malay.",
-        "Incorrect. Malay was a lingua franca across the archipelago, not limited to Java.",
-        "Incorrect. The Japanese banned Dutch, not Malay; in fact, they strengthened the use of Indonesian."
+        "Correct. The article states, 'James Richardson Logan adopts Indonesia as a geographical term for the Indian Archipelago.'",
+        "Incorrect. George Windsor Earl proposed the terms 'Indunesians' and 'Malayunesians', not 'Indonesia'.",
+        "Incorrect. Adolf Bastian used the term in his work's title, but it was James Richardson Logan who adopted it as a geographical term.",
+        "Incorrect. Soewardi Soerjaningrat was an early Indonesian promoter of the term, not the one who proposed it as a geographical term."
       ]
     },
     {
       "id": 8,
-      "question": "Based on the article, what is a key characteristic of Indonesia's biodiversity?",
+      "question": "Which ancient hominin species is mentioned as having fossils found on Java?",
       "options": [
-        "It supports some of the world's highest levels of biodiversity",
-        "It is mostly found on the island of New Guinea",
-        "It has been completely destroyed by deforestation",
-        "It is limited to marine ecosystems only"
+        "Homo erectus",
+        "Homo sapiens",
+        "Homo floresiensis",
+        "Homo neanderthalensis"
       ],
       "answer_explanations": [
-        "Correct. The article mentions 'extensive tropical forests and marine ecosystems that support some of the world's highest levels of biodiversity'.",
-        "Incorrect. The article does not state that biodiversity is mostly on New Guinea.",
-        "Incorrect. The article does not claim biodiversity has been completely destroyed.",
-        "Incorrect. The article mentions both tropical forests and marine ecosystems."
+        "Correct. The article says, 'The island of Java has yielded numerous hominin fossils generally attributed to Homo erectus.'",
+        "Incorrect. Homo sapiens is mentioned as having dispersed into Southeast Asia, but the fossils on Java are attributed to Homo erectus.",
+        "Incorrect. Homo floresiensis remains were found on Flores, not Java.",
+        "Incorrect. The article does not mention Homo neanderthalensis in connection with Java."
       ]
     },
     {
       "id": 9,
-      "question": "How did the Japanese occupation affect the use of the Indonesian language?",
+      "question": "What was the name of the Dutch East India Company in Dutch, as given in the article?",
       "options": [
-        "It strengthened the public use of Indonesian",
-        "It banned the Indonesian language",
-        "It had no effect on language use",
-        "It promoted the use of Japanese instead"
+        "Vereenigde Oost-Indische Compagnie",
+        "Nederlandsch Oost IndiÃ«",
+        "Maleische Archipel",
+        "Insulinde"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'the ban on the Dutch language strengthened the public use of Indonesian'.",
-        "Incorrect. The article does not say Indonesian was banned.",
-        "Incorrect. The article clearly states it strengthened public use.",
-        "Incorrect. While Japanese was promoted, the article specifically notes the ban on Dutch strengthened Indonesian."
+        "Correct. The article states, 'in 1602 competing Dutch companies were merged into the Dutch East India Company (Vereenigde Oost-Indische Compagnie, VOC).'",
+        "Incorrect. 'Nederlandsch Oost IndiÃ«' is mentioned as a Dutch term for the colony, not the company name.",
+        "Incorrect. 'Maleische Archipel' is mentioned as a Dutch term for the Malay Archipelago, not the company name.",
+        "Incorrect. 'Insulinde' is mentioned as a less common alternative name, not the company name."
       ]
     },
     {
       "id": 10,
-      "question": "What is the origin of the name 'Indonesia' according to the article?",
+      "question": "When did Sukarno proclaim Indonesian independence, according to the article?",
       "options": [
-        "A combination of 'India' and the Greek word 'nesos' meaning 'Indian islands'",
-        "A term invented by German ethnographer Adolf Bastian",
-        "A name chosen by Indonesian nationalists in 1928",
-        "A Dutch colonial term for the archipelago"
+        "17 August 1945",
+        "15 August 1945",
+        "18 August 1945",
+        "September 1945"
       ],
       "answer_explanations": [
-        "Correct. The article explains the name as 'a combination of India and the Greek word nesos, together meaning 'Indian islands''.",
-        "Incorrect. Bastian popularized the term but did not invent it; it was first proposed by George Windsor Earl and James Richardson Logan.",
-        "Incorrect. Nationalists adopted the term after 1900, but it was not invented in 1928.",
-        "Incorrect. Dutch scholars preferred terms like 'Malay Archipelago' or 'Netherlands East Indies'."
+        "Correct. The article says, 'Japan surrendered to the Allies on 15 August 1945. Two days later, Sukarno proclaimed Indonesian independence.'",
+        "Incorrect. 15 August 1945 is the date of Japan's surrender, not the proclamation of independence.",
+        "Incorrect. 18 August is when Sukarno and Hatta were named president and vice-president, not the proclamation date.",
+        "Incorrect. The article mentions September 1945 as a planned date for independence, but the proclamation happened on 17 August."
       ]
     }
   ]

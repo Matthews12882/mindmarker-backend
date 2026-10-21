@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "If a researcher wanted to apply Maxwell's unification principle to a new domain, what would be the most appropriate approach based on his work?",
+      "question": "What does Maxwell's unification of electricity, magnetism, and light imply about the nature of these phenomena?",
       "options": [
-        "Treat apparently distinct phenomena as different manifestations of a single underlying phenomenon",
-        "Study each phenomenon in isolation to avoid confounding variables",
-        "Focus exclusively on mathematical formalism without physical interpretation",
-        "Prioritize experimental results over theoretical unification"
+        "They are different manifestations of the same underlying phenomenon",
+        "They are separate and unrelated forces",
+        "They are all forms of mechanical waves",
+        "They are all caused by the motion of particles"
       ],
       "answer_explanations": [
-        "Correct. Maxwell unified electricity, magnetism, and light as different manifestations of the same phenomenon, so applying his principle means seeking a single underlying explanation for seemingly distinct phenomena.",
-        "Incorrect. Maxwell's approach was explicitly to connect phenomena rather than isolate them.",
-        "Incorrect. Maxwell combined mathematical formalism with physical interpretation, as shown by his electromagnetic field theory.",
-        "Incorrect. Maxwell's work balanced theory and experiment, but his defining contribution was theoretical unification, not prioritizing one over the other."
+        "Correct. The article states that Maxwell's classical theory was 'the first theory to describe electricity, magnetism and light as different manifestations of the same phenomenon.'",
+        "Incorrect. The article explicitly says they are different manifestations of the same phenomenon, not separate and unrelated forces.",
+        "Incorrect. While Maxwell's equations describe electromagnetic waves, the article does not say they are mechanical waves; it says they are different manifestations of the same phenomenon.",
+        "Incorrect. The article does not say they are caused by particle motion; it describes them as manifestations of the same phenomenon."
       ]
     },
     {
       "id": 2,
-      "question": "A modern engineer designing a control system for an autonomous vehicle references Maxwell's 1863 paper On Governors. Which concept from that paper is most directly relevant?",
+      "question": "What is the significance of Maxwell's 1865 publication 'A Dynamical Theory of the Electromagnetic Field'?",
       "options": [
-        "Mathematical analysis of control systems",
-        "The butterfly effect in weather prediction",
-        "The Maxwell-Boltzmann distribution of gas molecules",
-        "Photoelasticity in stressed materials"
+        "It demonstrated that electric and magnetic fields travel as waves at the speed of light",
+        "It proved that light is a particle",
+        "It showed that electricity and magnetism are unrelated",
+        "It introduced the concept of the atom"
       ],
       "answer_explanations": [
-        "Correct. The article states that On Governors serves as a foundation for control theory and was the earliest mathematical analysis on control systems.",
-        "Incorrect. The butterfly effect is mentioned separately as a concept Maxwell emphasized, not as content of On Governors.",
-        "Incorrect. The Maxwell-Boltzmann distribution relates to kinetic theory of gases, not control systems.",
-        "Incorrect. Photoelasticity concerns stress distribution in physical structures, discovered during Maxwell's Edinburgh years, unrelated to On Governors."
+        "Correct. The article says the publication 'demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light.'",
+        "Incorrect. The article says it proposed that light is an undulation, not a particle.",
+        "Incorrect. The publication unified electric and magnetic fields, not separated them.",
+        "Incorrect. The article does not mention atoms in this context."
       ]
     },
     {
       "id": 3,
-      "question": "A physicist proposes that a newly discovered form of radiation travels as a wave at the speed of light. Which of Maxwell's findings best supports this proposal?",
+      "question": "Why is Maxwell's work on the rings of Saturn considered important?",
       "options": [
-        "Electric and magnetic fields travel through space as waves moving at the speed of light",
-        "Any colour can be produced by mixing red, green, and blue",
-        "Saturn's rings are composed of numerous small particles",
-        "Information affects entropy in thermodynamics"
+        "It correctly proposed they were composed of numerous small particles, earning him the Adams Prize",
+        "It proved they were solid",
+        "It showed they were made of gas",
+        "It demonstrated they were not real"
       ],
       "answer_explanations": [
-        "Correct. Maxwell's 1865 publication demonstrated that electric and magnetic fields travel as waves at the speed of light, directly supporting wave propagation at light speed.",
-        "Incorrect. The three-primary-colour finding concerns colour vision and photography, not radiation propagation.",
-        "Incorrect. Saturn's ring composition is unrelated to electromagnetic wave propagation.",
-        "Incorrect. Maxwell's demon concerns information and entropy, not wave speed."
+        "Correct. The article states he 'correctly proposed that they were composed of numerous small particles, work that earned him the Adams Prize in 1859.'",
+        "Incorrect. The article says he proposed they were composed of small particles, not solid.",
+        "Incorrect. The article does not say they were made of gas.",
+        "Incorrect. The article does not say they were not real."
       ]
     },
     {
       "id": 4,
-      "question": "A materials scientist is studying a viscoelastic polymer and wants to use a model introduced by Maxwell. Which model should they use?",
+      "question": "What does Maxwell's derivation of the MaxwellâBoltzmann distribution imply about the kinetic theory of gases?",
       "options": [
-        "The Maxwell model",
-        "The Maxwell-Boltzmann distribution",
-        "Maxwell's demon",
-        "The Maxwell-Cattaneo equation"
+        "It provides a statistical means to describe aspects of gas behavior",
+        "It proves gases are static",
+        "It shows gases have no kinetic energy",
+        "It demonstrates gases are not made of particles"
       ],
       "answer_explanations": [
-        "Correct. The article states that in his 1867 paper On the Dynamical Theory of Gases, Maxwell introduced the Maxwell model for describing the behavior of a viscoelastic material.",
-        "Incorrect. The Maxwell-Boltzmann distribution describes aspects of the kinetic theory of gases, not viscoelastic material behavior.",
-        "Incorrect. Maxwell's demon is a thought experiment about information and entropy in thermodynamics.",
-        "Incorrect. The Maxwell-Cattaneo equation describes heat transport in a medium, not viscoelastic behavior."
+        "Correct. The article says it is 'a statistical means of describing aspects of the kinetic theory of gases.'",
+        "Incorrect. The distribution describes kinetic aspects, so gases are not static.",
+        "Incorrect. The distribution is about kinetic theory, which involves kinetic energy.",
+        "Incorrect. The kinetic theory of gases assumes gases are made of particles."
       ]
     },
     {
       "id": 5,
-      "question": "A historian argues that Maxwell's work at King's College London was primarily about teaching rather than research. Which evidence from the article most directly refutes this claim?",
+      "question": "What is the broader implication of Maxwell's work on color photography and primary colors?",
       "options": [
-        "He developed his theory of electromagnetic fields there from 1860 to 1865",
-        "He married Katherine Mary Dewar during his time at Marischal College",
-        "He earned the Smith's Prize at Cambridge in 1854",
-        "He oversaw construction of the Cavendish Laboratory after returning to Cambridge"
+        "It established the basis for color television by showing any color can be produced from red, green, and blue",
+        "It proved color is an illusion",
+        "It showed only primary colors exist in nature",
+        "It demonstrated that color photography is impossible"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states that from 1860 to 1865 at King's College London, he developed his theory of electromagnetic fields, indicating substantial research activity.",
-        "Incorrect. His marriage at Marischal College is biographical and does not address research at King's College London.",
-        "Incorrect. The Smith's Prize was earned at Cambridge, not during his King's College London tenure.",
-        "Incorrect. The Cavendish Laboratory work occurred after he returned to Cambridge, not at King's College London."
+        "Correct. The article states he 'showed that any colour can be produced with a mixture of any three primary colours, those being red, green, and blue, the basis for colour television.'",
+        "Incorrect. The article does not say color is an illusion; it describes how colors can be produced.",
+        "Incorrect. The article says any color can be produced from primaries, not that only primaries exist.",
+        "Incorrect. The article says he presented the first durable color photograph, so it was possible."
       ]
     },
     {
       "id": 6,
-      "question": "A science museum is designing an exhibit on the historical roots of colour television. Which Maxwell discovery should be featured as the direct basis?",
+      "question": "How does Maxwell's recognition of chaos and the butterfly effect relate to his other scientific contributions?",
       "options": [
-        "Any colour can be produced with a mixture of red, green, and blue",
-        "The first durable colour photograph was presented in 1861",
-        "He discovered photoelasticity using gelatine blocks",
-        "He correctly proposed Saturn's rings are made of small particles"
+        "It shows his work spanned from deterministic physics to the study of complex, sensitive systems",
+        "It proves he only worked on electromagnetism",
+        "It indicates he rejected the idea of unpredictability",
+        "It shows he focused solely on optics"
       ],
       "answer_explanations": [
-        "Correct. The article states that showing any colour can be produced with red, green, and blue is the basis for colour television.",
-        "Incorrect. The colour photograph is related but the article specifically identifies the three-primary-colour principle as the basis for colour television.",
-        "Incorrect. Photoelasticity concerns stress distribution in structures, not colour reproduction.",
-        "Incorrect. Saturn's rings are unrelated to colour television technology."
+        "Correct. The article lists his recognition of chaos and the butterfly effect alongside his work in electromagnetism, statistical mechanics, and control theory, showing a wide range.",
+        "Incorrect. The article mentions many fields, not just electromagnetism.",
+        "Incorrect. Recognizing chaos implies he accepted unpredictability in some systems.",
+        "Incorrect. The article mentions optics but also many other areas."
       ]
     },
     {
       "id": 7,
-      "question": "A thermodynamics student invokes Maxwell's demon to argue that information can reduce entropy in a closed system. What does the article say about the demon's purpose?",
+      "question": "What does Maxwell's 1863 paper 'On Governors' imply about his influence on engineering?",
       "options": [
-        "It challenges how information affects entropy in thermodynamics",
-        "It proves that entropy always increases regardless of information",
-        "It demonstrates the Maxwell-Boltzmann distribution in practice",
-        "It was designed to improve steam engine governors"
+        "It is an important foundation for control theory and cybernetics",
+        "It was a minor work with no lasting impact",
+        "It focused only on bridge construction",
+        "It was purely theoretical with no practical applications"
       ],
       "answer_explanations": [
-        "Correct. The article states that Maxwell's demon challenges how information affects entropy in thermodynamics.",
-        "Incorrect. The article does not say the demon proves entropy always increases; it says it challenges the relationship between information and entropy.",
-        "Incorrect. The Maxwell-Boltzmann distribution is a separate concept from the demon thought experiment.",
-        "Incorrect. Steam engine governors relate to his 1863 paper On Governors, not Maxwell's demon."
+        "Correct. The article says it 'serves as an important foundation for control theory and cybernetics.'",
+        "Incorrect. The article says it is an important foundation, so it had significant impact.",
+        "Incorrect. While he worked on trusses, this paper is about control systems, not bridges.",
+        "Incorrect. The article says it was the earliest mathematical analysis on control systems, implying practical relevance."
       ]
     },
     {
       "id": 8,
-      "question": "A physicist claims that Maxwell introduced the term relativity into physics. Which later development does the article connect to this contribution?",
+      "question": "What is the significance of Maxwell's demon thought experiment in thermodynamics?",
       "options": [
-        "His discoveries laid the foundations for relativity and quantum mechanics",
-        "His work on the Cavendish Laboratory construction",
-        "His 1865 paper on electromagnetic fields",
-        "His early paper on oval curves at age 14"
+        "It challenges how information affects entropy",
+        "It proves entropy always increases",
+        "It demonstrates that demons exist",
+        "It shows thermodynamics is irrelevant"
       ],
       "answer_explanations": [
-        "Correct. The article states his discoveries helped usher in modern physics, laying foundations for relativity (which he introduced the term into) and quantum mechanics.",
-        "Incorrect. The Cavendish Laboratory construction is an administrative achievement, not connected to the term relativity.",
-        "Incorrect. The 1865 paper concerns electromagnetic fields, not the introduction of the term relativity.",
-        "Incorrect. The oval curves paper was written at age 14 and concerns geometry, not relativity."
+        "Correct. The article says it 'challenges how information affects entropy in thermodynamics.'",
+        "Incorrect. The thought experiment challenges the idea, not proves it.",
+        "Incorrect. The demon is a hypothetical, not a real entity.",
+        "Incorrect. The thought experiment is about thermodynamics, not its irrelevance."
       ]
     },
     {
       "id": 9,
-      "question": "A researcher wants to apply Maxwell's approach to dimensional analysis to a new branch of engineering. What did Maxwell devise according to the article?",
+      "question": "Why is Maxwell's introduction of the term 'relativity' into physics significant?",
       "options": [
-        "Modern dimensional analysis",
-        "The CGS system of measurement alone",
-        "The first durable colour photograph",
-        "The Maxwell model for viscoelastic materials"
+        "It laid a foundation for the field of relativity",
+        "It proved relativity was wrong",
+        "It was unrelated to his other work",
+        "It was a minor linguistic contribution"
       ],
       "answer_explanations": [
-        "Correct. The article states that Maxwell devised modern dimensional analysis.",
-        "Incorrect. While he helped establish the CGS system, the article specifically credits him with devising modern dimensional analysis as a separate contribution.",
-        "Incorrect. The colour photograph relates to optics and colour vision, not dimensional analysis.",
-        "Incorrect. The Maxwell model describes viscoelastic behavior, not dimensional analysis."
+        "Correct. The article says his discoveries 'laid the foundations for such fields as relativity (he was the one to introduce the term into physics).'",
+        "Incorrect. The article says it laid foundations, not that it proved relativity wrong.",
+        "Incorrect. It is listed among his foundational contributions to modern physics.",
+        "Incorrect. The article implies it was part of his foundational work, not minor."
       ]
     },
     {
       "id": 10,
-      "question": "A biographer claims Maxwell's early interest in mechanical devices was merely a childhood phase with no scientific consequence. Which evidence from the article most directly contradicts this?",
+      "question": "What does Maxwell's early education and family background suggest about the factors that shaped his scientific career?",
       "options": [
-        "His childhood investigation of doors, locks, and keys reflected an unquenchable curiosity that persisted into his scientific career",
-        "He was nicknamed Daftie at Edinburgh Academy",
-        "His mother died when he was eight years old",
-        "He lodged at his aunt Isabella's house during school terms"
+        "His mother's early teaching and his father's support were pivotal, alongside his own innate curiosity",
+        "He was self-taught with no family involvement",
+        "His formal schooling was the only influence",
+        "His social isolation had no effect on his development"
       ],
       "answer_explanations": [
-        "Correct. The article describes his early fascination with how things work (doors, locks, keys) as evidence of an unquenchable curiosity, and his later career involved extensive mechanical and physical investigation.",
-        "Incorrect. The Daftie nickname concerns social isolation at school, not his mechanical interests.",
-        "Incorrect. His mother's death is biographical context but does not address the scientific consequence of his childhood curiosity.",
-        "Incorrect. Lodging arrangements at school are unrelated to his mechanical interests."
+        "Correct. The article says his mother 'took responsibility for his early education' and his father and aunt Jane 'played pivotal roles in his life,' and he had 'an unquenchable curiosity from an early age.'",
+        "Incorrect. The article clearly shows family involvement in his education.",
+        "Incorrect. His formal schooling was unsuccessful initially, and family and private study were important.",
+        "Incorrect. Social isolation at school was noted, but it led to friendships and did not hinder his development."
       ]
     }
   ]

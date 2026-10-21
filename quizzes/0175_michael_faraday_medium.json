@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Michael Faraday's formal educational background?",
+      "question": "What was Michael Faraday's main contribution to the study of electromagnetism?",
       "options": [
-        "He received little formal education and was largely self-taught",
-        "He attended university and earned a doctorate in chemistry",
-        "He was trained exclusively at the Royal Institution",
-        "He studied under James Clerk Maxwell at Cambridge"
+        "He established the concept of the electromagnetic field.",
+        "He invented the electric motor.",
+        "He discovered the electron.",
+        "He formulated Maxwell's equations."
       ],
       "answer_explanations": [
-        "Correct. The article states that despite receiving little formal education, Faraday became an autodidact and one of the most influential scientists in history.",
-        "Incorrect. The article notes he received little formal education, though Oxford later granted him an honorary degree.",
-        "Incorrect. While he worked at the Royal Institution, the article does not say he was trained exclusively there.",
-        "Incorrect. Maxwell came later and summarized Faraday's work; he was not Faraday's teacher."
+        "Correct. The article states that Faraday established the concept of the electromagnetic field in physics.",
+        "Incorrect. Faraday invented electromagnetic rotary devices that formed the foundation of electric motor technology, but he did not invent the electric motor itself.",
+        "Incorrect. The article does not mention Faraday discovering the electron.",
+        "Incorrect. Maxwell, not Faraday, summarized the work into a set of equations."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following did Faraday discover or establish as a chemist?",
+      "question": "Which of the following is named after Michael Faraday?",
       "options": [
-        "Benzene and tetrachloroethylene",
-        "The laws of thermodynamics",
-        "The structure of the atom",
-        "Penicillin"
+        "The farad, the SI unit of capacitance",
+        "The newton, the SI unit of force",
+        "The volt, the SI unit of electric potential",
+        "The ohm, the SI unit of electrical resistance"
       ],
       "answer_explanations": [
-        "Correct. The article states that as a chemist, Faraday discovered benzene and tetrachloroethylene.",
-        "Incorrect. The article does not attribute the laws of thermodynamics to Faraday.",
-        "Incorrect. The article does not mention Faraday determining the structure of the atom.",
-        "Incorrect. Penicillin is not mentioned in the article and was discovered much later."
+        "Correct. The article states that the SI unit of capacitance, the farad, is named after him.",
+        "Incorrect. The newton is named after Isaac Newton, not Faraday.",
+        "Incorrect. The volt is named after Alessandro Volta, not Faraday.",
+        "Incorrect. The ohm is named after Georg Ohm, not Faraday."
       ]
     },
     {
       "id": 3,
-      "question": "How did James Clerk Maxwell relate to Faraday's work?",
+      "question": "What did Faraday discover as a chemist?",
       "options": [
-        "Maxwell summarized Faraday's work in a set of equations",
-        "Maxwell was Faraday's student at the Royal Institution",
-        "Maxwell disproved Faraday's theory of electromagnetic induction",
-        "Maxwell collaborated with Faraday on the discovery of benzene"
+        "Benzene and tetrachloroethylene",
+        "Oxygen and hydrogen",
+        "Chlorine and carbon dioxide",
+        "Sodium and potassium"
       ],
       "answer_explanations": [
-        "Correct. The article states that Maxwell took Faraday's work and summarized it in a set of equations accepted as the basis of modern electromagnetic theory.",
-        "Incorrect. The article does not describe Maxwell as Faraday's student.",
-        "Incorrect. The article says Maxwell built on Faraday's work, not that he disproved it.",
-        "Incorrect. Benzene was discovered by Faraday himself; there is no mention of collaboration with Maxwell on it."
+        "Correct. The article states that Faraday discovered benzene and tetrachloroethylene.",
+        "Incorrect. Oxygen and hydrogen were discovered by other scientists, not Faraday.",
+        "Incorrect. Chlorine was discovered by Humphry Davy, and carbon dioxide was known before Faraday.",
+        "Incorrect. Sodium and potassium were discovered by Humphry Davy, not Faraday."
       ]
     },
     {
       "id": 4,
-      "question": "What did Faraday's research on a current-carrying conductor establish?",
+      "question": "What did Faraday invent that is still used in science laboratories today?",
       "options": [
-        "The concept of the electromagnetic field",
-        "The existence of the electron",
-        "The laws of thermodynamics",
-        "The photoelectric effect"
+        "An early form of the Bunsen burner",
+        "The microscope",
+        "The telescope",
+        "The barometer"
       ],
       "answer_explanations": [
-        "Correct. The article states that his research on the magnetic field around a conductor carrying direct current established the concept of the electromagnetic field in physics.",
-        "Incorrect. The article does not mention Faraday discovering the electron.",
-        "Incorrect. The laws of thermodynamics are not attributed to Faraday in the article.",
-        "Incorrect. The photoelectric effect is not mentioned in the article."
+        "Correct. The article states that Faraday invented an early form of the Bunsen burner, which is still in practical use in science laboratories.",
+        "Incorrect. The microscope was not invented by Faraday.",
+        "Incorrect. The telescope was not invented by Faraday.",
+        "Incorrect. The barometer was not invented by Faraday."
       ]
     },
     {
       "id": 5,
-      "question": "Which scientific terms did Faraday popularize?",
+      "question": "Which scientist summarized Faraday's work into a set of equations?",
       "options": [
-        "Anode, cathode, electrode, and ion",
-        "Voltage, resistance, capacitance, and inductance",
-        "Proton, neutron, electron, and nucleus",
-        "Catalyst, enzyme, substrate, and reactant"
+        "James Clerk Maxwell",
+        "Albert Einstein",
+        "Isaac Newton",
+        "Ernest Rutherford"
       ],
       "answer_explanations": [
-        "Correct. The article states that Faraday popularized terminology such as anode, cathode, electrode, and ion.",
-        "Incorrect. These terms are not listed in the article as ones Faraday popularized.",
-        "Incorrect. The article does not attribute these atomic terms to Faraday.",
-        "Incorrect. These chemistry terms are not mentioned in the article in connection with Faraday."
+        "Correct. The article states that James Clerk Maxwell took the work of Faraday and others and summarized it in a set of equations.",
+        "Incorrect. Albert Einstein kept a portrait of Faraday but did not summarize his work.",
+        "Incorrect. Isaac Newton lived before Faraday and did not summarize his work.",
+        "Incorrect. Ernest Rutherford praised Faraday but did not summarize his work."
       ]
     },
     {
       "id": 6,
-      "question": "What public-service work did Faraday undertake regarding industrial hazards?",
+      "question": "What did Faraday refuse to work on during the Crimean War?",
       "options": [
-        "He investigated a colliery explosion and showed coal dust contributed to its severity",
-        "He designed safety lamps for coal miners",
-        "He banned the use of coal in British factories",
-        "He invented a ventilation system for mines"
+        "Chemical weapons",
+        "Lighthouses",
+        "Ship corrosion",
+        "Coal dust explosions"
       ],
       "answer_explanations": [
-        "Correct. The article states that with Charles Lyell, Faraday investigated a colliery explosion at Haswell and indicated for the first time that coal dust contributed to the severity of the explosion.",
-        "Incorrect. The article does not mention Faraday designing safety lamps.",
-        "Incorrect. The article does not say Faraday banned coal use in factories.",
-        "Incorrect. While the article mentions ventilation could have prevented the explosion, it does not say Faraday invented a ventilation system."
+        "Correct. The article states that Faraday refused to work on developing chemical weapons for use in the Crimean War, citing ethical reservations.",
+        "Incorrect. Faraday worked on optimizing lighthouses, not refusing that.",
+        "Incorrect. Faraday worked on protecting ships from corrosion, not refusing that.",
+        "Incorrect. Faraday investigated a colliery explosion, not refusing that."
       ]
     },
     {
       "id": 7,
-      "question": "Why did Faraday refuse to work on chemical weapons for the Crimean War?",
+      "question": "Who was Faraday's first employer at the Royal Institution?",
       "options": [
-        "He cited ethical reservations",
-        "He lacked the necessary chemical expertise",
-        "He was already committed to lighthouse work",
-        "He believed chemical weapons were ineffective"
+        "Humphry Davy",
+        "James Clerk Maxwell",
+        "William Dance",
+        "John Tatum"
       ],
       "answer_explanations": [
-        "Correct. The article states that Faraday refused to work on developing chemical weapons for the Crimean War, citing ethical reservations.",
-        "Incorrect. The article does not suggest he lacked expertise; he was an accomplished chemist.",
-        "Incorrect. His lighthouse work is mentioned separately, not as a reason for refusing chemical weapons work.",
-        "Incorrect. The article gives ethical reasons, not beliefs about effectiveness."
+        "Correct. The article states that Davy hired Faraday as an assistant after an accident with nitrogen trichloride.",
+        "Incorrect. Maxwell was a later physicist, not Faraday's employer.",
+        "Incorrect. William Dance gave Faraday tickets to lectures, but did not employ him.",
+        "Incorrect. John Tatum was a lecturer, not Faraday's employer."
       ]
     },
     {
       "id": 8,
-      "question": "What honor did Faraday decline on religious grounds?",
+      "question": "Why did Faraday decline a knighthood?",
       "options": [
-        "A knighthood",
-        "Burial in Westminster Abbey",
-        "Membership in the Royal Society",
-        "The Fullerian Professorship"
+        "On religious grounds",
+        "Because he was too busy",
+        "Because he didn't like the queen",
+        "Because he wanted to be a politician"
       ],
       "answer_explanations": [
-        "Correct. The article states he was offered a knighthood but turned it down on religious grounds, believing it was against the Bible to pursue worldly reward.",
-        "Incorrect. He did turn down burial in Westminster Abbey, but the article does not say this was on religious grounds.",
-        "Incorrect. He was elected a Fellow of the Royal Society; there is no mention of declining membership.",
-        "Incorrect. He accepted the Fullerian Professorship, a lifetime position at the Royal Institution."
+        "Correct. The article states that Faraday turned down a knighthood on religious grounds, believing it was against the Bible to accumulate riches and pursue worldly reward.",
+        "Incorrect. His refusal was based on religious beliefs, not being busy.",
+        "Incorrect. There is no mention of disliking the queen.",
+        "Incorrect. There is no mention of wanting to be a politician."
       ]
     },
     {
       "id": 9,
-      "question": "Which position did Faraday hold at the Royal Institution?",
+      "question": "What did Faraday investigate that contributed to public safety?",
       "options": [
-        "First Fullerian Professor of Chemistry",
-        "President of the Royal Society",
-        "Head of the City Philosophical Society",
-        "Director of the Royal Mint"
+        "A colliery explosion at Haswell",
+        "The Great Fire of London",
+        "The sinking of the Titanic",
+        "The eruption of Mount Vesuvius"
       ],
       "answer_explanations": [
-        "Correct. The article states Faraday became the first Fullerian Professor of Chemistry at the Royal Institution, a lifetime position.",
-        "Incorrect. He twice refused to become President of the Royal Society.",
-        "Incorrect. He attended lectures at the City Philosophical Society but was not its head.",
-        "Incorrect. He investigated air pollution at the Royal Mint but was not its director."
+        "Correct. The article states that Faraday, with Charles Lyell, produced a forensic investigation on a colliery explosion at Haswell, indicating coal dust contributed to the severity.",
+        "Incorrect. The Great Fire of London happened centuries before Faraday.",
+        "Incorrect. The Titanic sank after Faraday's death.",
+        "Incorrect. Mount Vesuvius eruption is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "Why did Faraday decline to have his lectures published?",
+      "question": "Where was Faraday buried?",
       "options": [
-        "He believed they would lose impact without live experiments",
-        "He wanted to keep his discoveries secret",
-        "He was too busy with public service work",
-        "He disliked the publishers who approached him"
+        "In the dissenters' section of Highgate Cemetery",
+        "In Westminster Abbey",
+        "In St Paul's Cathedral",
+        "In his hometown of Newington Butts"
       ],
       "answer_explanations": [
-        "Correct. The article states Faraday refused offers to publish his lectures, believing they would lose impact if not accompanied by live experiments.",
-        "Incorrect. The article says he wanted people to recreate experiments to experience discovery, not to keep them secret.",
-        "Incorrect. While he did public service work, the article gives the lecture impact as the reason for declining publication.",
-        "Incorrect. The article quotes his letter about loving science more than money, not a dislike of publishers."
+        "Correct. The article states that Faraday was interred in the dissenters' section of Highgate Cemetery.",
+        "Incorrect. Faraday turned down an offer of burial in Westminster Abbey, though he has a memorial plaque there.",
+        "Incorrect. There is no mention of St Paul's Cathedral.",
+        "Incorrect. There is no mention of burial in Newington Butts."
       ]
     }
   ]

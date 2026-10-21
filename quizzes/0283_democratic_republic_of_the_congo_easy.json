@@ -5,23 +5,71 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the official and most widely spoken language of the Democratic Republic of the Congo?",
+      "question": "What is the Democratic Republic of the Congo also known as?",
       "options": [
-        "French",
-        "Lingala",
-        "Kikongo",
-        "English"
+        "Congo-Kinshasa",
+        "Congo-Brazzaville",
+        "Congo-LÃ©opoldville",
+        "Congo-Atlantique"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'French is the official and most widely spoken language.'",
-        "Incorrect. Lingala is the most widely spoken indigenous language, but not the official language.",
-        "Incorrect. Kikongo is one of the indigenous languages, but not the official language.",
-        "Incorrect. English is not mentioned as an official language of the DRC."
+        "Correct. The article states it is 'also known as the DR Congo, Congo-Kinshasa, or simply the Congo'.",
+        "Incorrect. The article names Congo-Kinshasa, not Congo-Brazzaville, as an alternative name.",
+        "Incorrect. Congo-LÃ©opoldville is not mentioned as a current alternative name in the introduction.",
+        "Incorrect. Congo-Atlantique is not mentioned in the introduction."
       ]
     },
     {
       "id": 2,
-      "question": "What is the capital and largest city of the Democratic Republic of the Congo?",
+      "question": "By land area, how does the DRC rank among African countries?",
+      "options": [
+        "Second-largest",
+        "Largest",
+        "Third-largest",
+        "Fourth-largest"
+      ],
+      "answer_explanations": [
+        "Correct. The article says it is 'the second-largest country in Africa' by land area.",
+        "Incorrect. The article says it is the second-largest, not the largest.",
+        "Incorrect. The article says it is the second-largest, not third-largest.",
+        "Incorrect. The article says it is the second-largest, not fourth-largest."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the population of the Democratic Republic of the Congo?",
+      "options": [
+        "About 124 million people",
+        "About 100 million people",
+        "About 150 million people",
+        "About 200 million people"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'With a population of about 124 million people'.",
+        "Incorrect. The article says about 124 million, not 100 million.",
+        "Incorrect. The article says about 124 million, not 150 million.",
+        "Incorrect. The article says about 124 million, not 200 million."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which language is the official and most widely spoken in the DRC?",
+      "options": [
+        "French",
+        "Lingala",
+        "English",
+        "Portuguese"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'French is the official and most widely spoken language'.",
+        "Incorrect. Lingala is the most widely spoken indigenous language, not the official language.",
+        "Incorrect. English is not mentioned as an official language in the introduction.",
+        "Incorrect. Portuguese is not mentioned as an official language in the introduction."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the capital and largest city of the DRC?",
       "options": [
         "Kinshasa",
         "Lubumbashi",
@@ -29,138 +77,90 @@
         "Goma"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The capital, largest city, and economic center is Kinshasa.'",
-        "Incorrect. Lubumbashi is a large mining city but not the capital.",
-        "Incorrect. Mbuji-Mayi is a mining community but not the capital.",
-        "Incorrect. Goma is a city in the east but not the capital."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Which country borders the Democratic Republic of the Congo to the west?",
-      "options": [
-        "Republic of the Congo",
-        "Angola",
-        "Central African Republic",
-        "Zambia"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists the Republic of the Congo as a western border.",
-        "Incorrect. Angola borders the DRC to the south and west (via Cabinda), but the Republic of the Congo is directly to the west.",
-        "Incorrect. The Central African Republic borders the DRC to the north.",
-        "Incorrect. Zambia borders the DRC to the south."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What was the name of the country when it was under the personal rule of King Leopold II of Belgium?",
-      "options": [
-        "Congo Free State",
-        "Belgian Congo",
-        "Zaire",
-        "Republic of the Congo"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'King Leopold II of Belgium acquired rights to the Congo territory in 1885 and called it the Congo Free State.'",
-        "Incorrect. Belgian Congo was the name after 1908 when it became a Belgian colony.",
-        "Incorrect. Zaire was the name from 1971 to 1997.",
-        "Incorrect. Republic of the Congo was the name at independence in 1960."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "In what year did the Democratic Republic of the Congo achieve independence from Belgium?",
-      "options": [
-        "1960",
-        "1965",
-        "1971",
-        "1997"
-      ],
-      "answer_explanations": [
-        "Correct. The article says: 'Congo achieved independence from Belgium in 1960.'",
-        "Incorrect. 1965 is the year Mobutu seized power.",
-        "Incorrect. 1971 is when Mobutu renamed the country Zaire.",
-        "Incorrect. 1997 is when Laurent-DÃ©sirÃ© Kabila overthrew Mobutu."
+        "Correct. The article states 'The capital, largest city, and economic center is Kinshasa'.",
+        "Incorrect. Lubumbashi is mentioned later as a large city, but not the capital.",
+        "Incorrect. Mbuji-Mayi is mentioned later as a large city, but not the capital.",
+        "Incorrect. Goma is mentioned later in the article, but not as the capital."
       ]
     },
     {
       "id": 6,
-      "question": "Who was the prime minister of the Republic of the Congo at independence in 1960?",
+      "question": "Which country borders the DRC to the north?",
       "options": [
-        "Patrice Lumumba",
-        "Joseph Kasa-Vubu",
-        "Mobutu Sese Seko",
-        "Laurent-DÃ©sirÃ© Kabila"
+        "Central African Republic and South Sudan",
+        "Republic of the Congo and Angola",
+        "Uganda and Rwanda",
+        "Zambia and Angola"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Lumumba became the first prime minister of the Republic of the Congo, on 24 June 1960.'",
-        "Incorrect. Joseph Kasa-Vubu was elected president, not prime minister.",
-        "Incorrect. Mobutu Sese Seko seized power in 1965.",
-        "Incorrect. Laurent-DÃ©sirÃ© Kabila became president in 1997."
+        "Correct. The article says 'the Central African Republic and South Sudan to the north'.",
+        "Incorrect. The Republic of the Congo and Angola are to the west, not the north.",
+        "Incorrect. Uganda, Rwanda, Burundi, and Tanzania are to the east, not the north.",
+        "Incorrect. Zambia and Angola are to the south, not the north."
       ]
     },
     {
       "id": 7,
-      "question": "What is the name of the river that flows through the Democratic Republic of the Congo and is the world's deepest?",
+      "question": "What is most of the DRC's terrain covered by?",
       "options": [
-        "Congo River",
-        "Zaire River",
-        "Nile River",
-        "Lualaba River"
+        "Dense rainforests",
+        "Deserts",
+        "Grasslands",
+        "Snow-capped mountains"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The Congo River is the world's deepest river.'",
-        "Incorrect. Zaire was a former name for the Congo River, but the current name is Congo River.",
-        "Incorrect. The Nile River is not mentioned in the article.",
-        "Incorrect. The Lualaba River is a tributary of the Congo, but not the main river."
+        "Correct. The article states 'most of the DRC's terrain is covered by dense rainforests'.",
+        "Incorrect. Deserts are not mentioned as covering the terrain.",
+        "Incorrect. Grasslands are not mentioned as covering the terrain.",
+        "Incorrect. Snow-capped mountains are not mentioned as covering the terrain."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is NOT a neighbouring country of the Democratic Republic of the Congo?",
+      "question": "When did the territory of the Congo first become inhabited?",
       "options": [
-        "Nigeria",
-        "Uganda",
-        "Rwanda",
-        "Tanzania"
+        "Around 90,000 years ago",
+        "Around 10,000 years ago",
+        "Around 2,000 years ago",
+        "Around 500 years ago"
       ],
       "answer_explanations": [
-        "Correct. Nigeria is not listed as a neighbour; the article lists Uganda, Rwanda, and Tanzania as eastern neighbours.",
-        "Incorrect. Uganda is listed as an eastern neighbour.",
-        "Incorrect. Rwanda is listed as an eastern neighbour.",
-        "Incorrect. Tanzania is listed as an eastern neighbour across Lake Tanganyika."
+        "Correct. The article says 'first inhabited by Central African foragers around 90,000 years ago'.",
+        "Incorrect. The article says around 90,000 years ago, not 10,000.",
+        "Incorrect. The article says around 90,000 years ago, not 2,000.",
+        "Incorrect. The article says around 90,000 years ago, not 500."
       ]
     },
     {
       "id": 9,
-      "question": "What is the term used to describe the paradox of the DRC being rich in natural resources yet very poor?",
+      "question": "Who acquired rights to the Congo territory in 1885?",
       "options": [
-        "resource curse",
-        "Dutch disease",
-        "poverty trap",
-        "economic paradox"
+        "King Leopold II of Belgium",
+        "King Leopold I of Belgium",
+        "Mobutu Sese Seko",
+        "Patrice Lumumba"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The nation is a prominent example of the \"resource curse\".'",
-        "Incorrect. Dutch disease is a different economic concept not mentioned in the article.",
-        "Incorrect. Poverty trap is a general term not specifically used in the article.",
-        "Incorrect. Economic paradox is a vague term not used in the article."
+        "Correct. The article states 'King Leopold II of Belgium acquired rights to the Congo territory in 1885'.",
+        "Incorrect. The article names King Leopold II, not Leopold I.",
+        "Incorrect. Mobutu Sese Seko is mentioned later, not as the acquirer in 1885.",
+        "Incorrect. Patrice Lumumba is mentioned later, not as the acquirer in 1885."
       ]
     },
     {
       "id": 10,
-      "question": "Who was the president of the DRC who stepped down in 2019 after the 2018 election?",
+      "question": "In what year did Congo achieve independence from Belgium?",
       "options": [
-        "Joseph Kabila",
-        "FÃ©lix Tshisekedi",
-        "Mobutu Sese Seko",
-        "Laurent-DÃ©sirÃ© Kabila"
+        "1960",
+        "1908",
+        "1971",
+        "1885"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'Kabila stepped down in 2019 after FÃ©lix Tshisekedi won the contentious 2018 election.'",
-        "Incorrect. FÃ©lix Tshisekedi won the election and became president.",
-        "Incorrect. Mobutu Sese Seko was overthrown in 1997.",
-        "Incorrect. Laurent-DÃ©sirÃ© Kabila was assassinated in 2001."
+        "Correct. The article says 'Congo achieved independence from Belgium in 1960'.",
+        "Incorrect. 1908 was when Leopold ceded the territory to Belgium, not independence.",
+        "Incorrect. 1971 was when Mobutu renamed the country Zaire, not independence.",
+        "Incorrect. 1885 was when Leopold acquired rights, not independence."
       ]
     }
   ]

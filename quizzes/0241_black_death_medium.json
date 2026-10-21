@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what percentage range of the European population is estimated to have died during the Black Death?",
+      "question": "What caused the Black Death?",
       "options": [
-        "30% to 60%",
-        "10% to 20%",
-        "60% to 80%",
-        "20% to 30%"
+        "The bacterium Yersinia pestis",
+        "A virus spread by mosquitoes",
+        "A fungus in contaminated grain",
+        "A curse from an astrological event"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Black Death led to the death of around 30% to 60% of the European population.",
-        "Incorrect. The article does not give a range of 10% to 20% for the European death toll.",
-        "Incorrect. The article does not state that 60% to 80% of Europeans died.",
-        "Incorrect. The article's stated range for Europe is 30% to 60%, not 20% to 30%."
+        "Correct. The article states the disease was caused by the bacterium *Yersinia pestis*.",
+        "Incorrect. The article identifies a bacterium, not a virus, as the cause.",
+        "Incorrect. The article does not mention a fungus as the cause.",
+        "Incorrect. Although some early theories blamed astrological conjunctions, the article clearly states the cause was the bacterium *Yersinia pestis*."
       ]
     },
     {
       "id": 2,
-      "question": "Which bacterium is identified in the article as the cause of the Black Death?",
+      "question": "How many people died from the Black Death in Europe?",
       "options": [
-        "Yersinia pestis",
-        "Yersinia enterocolitica",
-        "Yersinia pseudotuberculosis",
-        "Yersinia ruckerii"
+        "Up to 50 million people",
+        "About 10 million people",
+        "Exactly 100 million people",
+        "Around 5 million people"
       ],
       "answer_explanations": [
-        "Correct. The article states that the disease was caused by the bacterium Yersinia pestis.",
-        "Incorrect. The article does not identify Yersinia enterocolitica as the cause.",
-        "Incorrect. The article does not identify Yersinia pseudotuberculosis as the cause.",
-        "Incorrect. The article does not identify Yersinia ruckerii as the cause."
+        "Correct. The article says it led to the death of up to 50 million people.",
+        "Incorrect. The article states up to 50 million, not 10 million.",
+        "Incorrect. The article does not mention 100 million deaths.",
+        "Incorrect. The article states a much higher number than 5 million."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, when did the term \"Black Death\" first appear in English to describe this plague pandemic?",
+      "question": "When did the Black Death occur in Europe?",
       "options": [
-        "the 1750s",
-        "the 14th century",
-        "the 18th century",
-        "the 19th century"
+        "From 1346 to 1353",
+        "From 1200 to 1250",
+        "From 1500 to 1550",
+        "From 1700 to 1750"
       ],
       "answer_explanations": [
-        "Correct. The article states that in English, \"Black death\" was not used to describe this plague pandemic until the 1750s, first attested in 1755.",
-        "Incorrect. The article notes that in English prior to the 18th century, the event was called the \"pestilence\" or \"great pestilence,\" not \"Black Death.\"",
-        "Incorrect. The article specifies the 1750s rather than the 18th century broadly.",
-        "Incorrect. The article places the first English use in the 1750s, not the 19th century."
+        "Correct. The article states it occurred in Europe from 1346 to 1353.",
+        "Incorrect. The article gives a different time period.",
+        "Incorrect. The article gives a different time period.",
+        "Incorrect. The article gives a different time period."
       ]
     },
     {
       "id": 4,
-      "question": "What did researchers point to as the earliest victims of the Black Death found at two cemeteries in the ChÃ¼y Valley near Lake Issyk-Kul?",
+      "question": "What was the name used for the Black Death in English before the 18th century?",
       "options": [
-        "tombstones with Syriac inscriptions showing a spike due to \"pestilence\" in 1338â1339",
-        "DNA evidence from teeth dating to 1346â1347",
-        "written accounts by Genoese traders",
-        "archaeological evidence from mass graves in northern Europe"
+        "The pestilence or great pestilence",
+        "The black plague",
+        "The great sickness",
+        "The death of Europe"
       ],
       "answer_explanations": [
-        "Correct. The article describes graves with Syriac inscriptions showing a spike due to \"pestilence\" in 1338â1339 at Kara-Djigach and Burana.",
-        "Incorrect. The DNA evidence from teeth confirmed Yersinia pestis, but the earliest victims were identified via the tombstone inscriptions from 1338â1339.",
-        "Incorrect. The article does not cite written accounts by Genoese traders as the earliest victims found at these cemeteries.",
-        "Incorrect. Mass graves in northern Europe were used for DNA confirmation of Yersinia pestis, but they are not the ChÃ¼y Valley cemeteries."
+        "Correct. The article says that in English prior to the 18th century, the event was called the 'pestilence' or 'great pestilence'.",
+        "Incorrect. The article does not mention 'black plague' as the earlier English name.",
+        "Incorrect. The article does not use that term.",
+        "Incorrect. The article does not use that term."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, how did the Black Death mainly spread once it came ashore in Europe?",
+      "question": "What did the Medical Faculty of Paris say caused the plague?",
       "options": [
-        "from person-to-person as pneumonic plague",
-        "primarily through rat fleas causing bubonic plague",
-        "through contaminated water supplies",
-        "through direct contact with infected livestock"
+        "A conjunction of planets caused a great pestilence in the air",
+        "It was sent by God as punishment",
+        "It came from rats and fleas",
+        "It was caused by bad water"
       ],
       "answer_explanations": [
-        "Correct. The article states there is evidence that once it came ashore, the Black Death mainly spread from person-to-person as pneumonic plague.",
-        "Incorrect. The article says the quick inland spread was faster than expected if rat fleas causing bubonic plague were the primary vector.",
-        "Incorrect. The article does not mention contaminated water supplies as a main transmission route.",
-        "Incorrect. The article does not mention direct contact with infected livestock as the main spread mechanism."
+        "Correct. The article states that a report by the Medical Faculty of Paris said a conjunction of planets had caused 'a great pestilence in the air'.",
+        "Incorrect. The article mentions that some Muslim doctors cautioned against trying to prevent a disease sent by God, but that was not the Paris faculty's theory.",
+        "Incorrect. The rat-flea theory is the modern predominant theory, not the Paris faculty's early theory.",
+        "Incorrect. The article does not mention bad water as a cause."
       ]
     },
     {
       "id": 6,
-      "question": "What did the 2010 publication by Haensch et al. in PLOS Pathogens conclude about the cause of the Black Death?",
+      "question": "Who discovered the bacterium Yersinia pestis in 1894?",
       "options": [
-        "it unambiguously demonstrated that Yersinia pestis was the causative agent",
-        "it suggested the plague was caused by a virus rather than a bacterium",
-        "it found no DNA evidence linking Yersinia pestis to the Black Death",
-        "it concluded that multiple pathogens caused the epidemic"
+        "Alexandre Yersin",
+        "Louis Pasteur",
+        "Paul-Louis Simond",
+        "Simon de Covino"
       ],
       "answer_explanations": [
-        "Correct. The article quotes the authors as saying the research \"ends the debate about the cause of the Black Death\" and demonstrates Yersinia pestis was the causative agent.",
-        "Incorrect. The article does not suggest a viral cause; it confirms Yersinia pestis, a bacterium.",
-        "Incorrect. The article states that DNA/RNA evidence from tooth sockets confirmed Yersinia pestis.",
-        "Incorrect. The article indicates a single causative agent, Yersinia pestis, not multiple pathogens."
+        "Correct. The article states that *Y. pestis* was discovered by Alexandre Yersin during an epidemic in Hong Kong in 1894.",
+        "Incorrect. Louis Pasteur was Yersin's teacher, but the article credits Yersin with the discovery.",
+        "Incorrect. Paul-Louis Simond established the flea transmission mechanism in 1898, not the discovery of the bacterium.",
+        "Incorrect. Simon de Covino was a Belgian astronomer who used the phrase 'mors nigra' in 1350, not a discoverer of the bacterium."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what was the first great natural disaster to strike Europe during the late Middle Ages?",
+      "question": "According to the article, how did the Black Death mainly spread once it came ashore in Europe?",
       "options": [
-        "the Great Famine of 1315â1317",
-        "the Black Death",
-        "the Plague of Justinian",
-        "the Neolithic decline"
+        "From person-to-person as pneumonic plague",
+        "Only through rat fleas",
+        "Through contaminated water supplies",
+        "Through the air from rotting corpses"
       ],
       "answer_explanations": [
-        "Correct. The article states the Black Death was the second great natural disaster, the first being the Great Famine of 1315â1317.",
-        "Incorrect. The Black Death is described as the second great natural disaster, not the first.",
-        "Incorrect. The Plague of Justinian is discussed as the first plague pandemic, not the first late medieval natural disaster.",
-        "Incorrect. The Neolithic decline is discussed in the context of ancient plague evidence, not late medieval Europe."
+        "Correct. The article says there is evidence that once it came ashore, the Black Death mainly spread from person-to-person as pneumonic plague.",
+        "Incorrect. The article says the spread was faster than expected if the primary vector was rat fleas causing bubonic plague.",
+        "Incorrect. The article does not mention water as a transmission route.",
+        "Incorrect. The article does not mention that as a main spread method."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what did Bos et al. report in Nature in 2011 regarding the Black Death strain of Yersinia pestis?",
+      "question": "What did the 2022 study about the source of the Black Death find?",
       "options": [
-        "the first draft genome of Yersinia pestis from Black Death victims",
-        "DNA evidence from 25 skeletons from 14th-century London",
-        "the oldest known evidence of plague outbreaks near Lake Baikal",
-        "genetic evidence from victims in the ChÃ¼y Valley"
+        "The earliest victims were found at two cemeteries in the ChÃ¼y Valley near Lake Issyk-Kul in Kyrgyzstan",
+        "The earliest victims were found in China",
+        "The earliest victims were found in Italy",
+        "The earliest victims were found in Egypt"
       ],
       "answer_explanations": [
-        "Correct. The article states Bos et al. reported the first draft genome of Yersinia pestis from plague victims from the East Smithfield cemetery.",
-        "Incorrect. DNA from 25 London skeletons is mentioned separately as showing a strain similar to Madagascar in 2013.",
-        "Incorrect. The oldest known evidence near Lake Baikal comes from a 2026 study, not Bos et al. in 2011.",
-        "Incorrect. Genetic evidence from the ChÃ¼y Valley comes from a 2022 article, not Bos et al. in 2011."
+        "Correct. The article says researchers pointed to the earliest victims found at two cemeteries in the ChÃ¼y Valley near Lake Issyk-Kul in modern Kyrgyzstan.",
+        "Incorrect. The article does not mention China as the location of the earliest victims.",
+        "Incorrect. The article does not mention Italy as the location of the earliest victims.",
+        "Incorrect. The article does not mention Egypt as the location of the earliest victims."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what did the Medical Faculty of Paris state had caused \"a great pestilence in the air\"?",
+      "question": "What did the DNA evidence from 2010 confirm about the Black Death?",
       "options": [
-        "a conjunction of planets",
-        "fleas carried by black rats",
-        "contact with infected tissues",
-        "respiratory droplets"
+        "That Yersinia pestis was the causative agent",
+        "That it was caused by a virus",
+        "That it was caused by a fungus",
+        "That it was caused by a parasite"
       ],
       "answer_explanations": [
-        "Correct. The article states a report by the Medical Faculty of Paris said a conjunction of planets had caused \"a great pestilence in the air.\"",
-        "Incorrect. Fleas carried by black rats are part of the modern transmission theory, not the Paris faculty report.",
-        "Incorrect. Contact with infected tissues is listed as a possible spread route, not the Paris faculty's stated cause.",
-        "Incorrect. Respiratory droplets are mentioned for pneumonic cases, not as the Paris faculty's explanation."
+        "Correct. The article states that the 2010 publication by Haensch et al. 'ends the debate about the cause of the Black Death, and unambiguously demonstrates that *Y. pestis* was the causative agent'.",
+        "Incorrect. The DNA evidence confirmed a bacterium, not a virus.",
+        "Incorrect. The DNA evidence confirmed a bacterium, not a fungus.",
+        "Incorrect. The DNA evidence confirmed a bacterium, not a parasite."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what did the 2026 Nature study identify as the oldest known evidence of plague outbreaks in human remains?",
+      "question": "What was the name of the first plague pandemic mentioned in the article?",
       "options": [
-        "traces of Yersinia pestis DNA in the teeth of 18 ancient hunter-gatherers near Lake Baikal",
-        "DNA from seven individuals at cemeteries in the ChÃ¼y Valley",
-        "a draft genome of Yersinia pestis from East Smithfield victims",
-        "DNA from 25 skeletons from 14th-century London"
+        "The Plague of Justinian",
+        "The Great Famine",
+        "The Third Plague Pandemic",
+        "The Black Death"
       ],
       "answer_explanations": [
-        "Correct. The article states the 2026 Nature study found traces of Yersinia pestis DNA in the teeth of 18 ancient hunter-gatherers from four cemeteries near Lake Baikal.",
-        "Incorrect. The ChÃ¼y Valley evidence comes from a 2022 article, not the 2026 Nature study.",
-        "Incorrect. The East Smithfield draft genome was reported by Bos et al. in 2011.",
-        "Incorrect. The 25 London skeletons are mentioned separately in the DNA evidence section."
+        "Correct. The article says the Plague of Justinian (541â549) is known as the first plague pandemic.",
+        "Incorrect. The Great Famine of 1315â1317 was a famine, not a plague pandemic.",
+        "Incorrect. The Third Plague Pandemic is a later event, not the first.",
+        "Incorrect. The Black Death is considered the second plague pandemic, not the first."
       ]
     }
   ]

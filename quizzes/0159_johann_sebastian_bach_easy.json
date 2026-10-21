@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What period of music was Johann Sebastian Bach associated with?",
+      "question": "When was Johann Sebastian Bach born?",
       "options": [
-        "late Baroque period",
-        "Classical period",
-        "Romantic period",
-        "Renaissance period"
+        "31 March 1685",
+        "28 July 1750",
+        "21 March 1750",
+        "31 March 1683"
       ],
       "answer_explanations": [
-        "Correct. The article states that Bach was a German composer and musician of the late Baroque period.",
-        "Incorrect. The article identifies Bach with the late Baroque period, not the Classical period.",
-        "Incorrect. The article identifies Bach with the late Baroque period, not the Romantic period.",
-        "Incorrect. The article identifies Bach with the late Baroque period, not the Renaissance period."
+        "Correct. The article states that Bach was born on 31 March 1685 (Old Style 21 March).",
+        "Incorrect. 28 July 1750 is the date of his death, not his birth.",
+        "Incorrect. 21 March is the Old Style date, but the year is 1685, not 1750.",
+        "Incorrect. The article gives 1685, not 1683, as the year of his birth."
       ]
     },
     {
       "id": 2,
-      "question": "Which city was Bach born in?",
+      "question": "In which city was Bach born?",
       "options": [
         "Eisenach",
         "Leipzig",
-        "KÃ¶then",
-        "Weimar"
+        "Weimar",
+        "KÃ¶then"
       ],
       "answer_explanations": [
-        "Correct. The article states that Johann Sebastian Bach was born in Eisenach.",
-        "Incorrect. Leipzig is where Bach later worked as Thomaskantor, not his birthplace.",
-        "Incorrect. KÃ¶then was a court where Bach worked, not his birthplace.",
-        "Incorrect. Weimar was a court Bach visited, not his birthplace."
+        "Correct. The article says Bach was born in Eisenach.",
+        "Incorrect. Leipzig is where he later worked as Thomaskantor, not his birthplace.",
+        "Incorrect. Weimar is a city he visited, not his birthplace.",
+        "Incorrect. KÃ¶then is a court he visited, not his birthplace."
       ]
     },
     {
       "id": 3,
-      "question": "How old was Bach when he was orphaned?",
+      "question": "What is Bach known for his mastery of?",
       "options": [
-        "10",
-        "8",
-        "12",
-        "15"
+        "counterpoint",
+        "opera",
+        "symphony",
+        "jazz"
       ],
       "answer_explanations": [
-        "Correct. The article states that after being orphaned at age 10, he lived with his eldest brother.",
-        "Incorrect. The article specifies that Bach was orphaned at age 10, not 8.",
-        "Incorrect. The article specifies that Bach was orphaned at age 10, not 12.",
-        "Incorrect. The article specifies that Bach was orphaned at age 10, not 15."
+        "Correct. The article says he is known for his mastery of counterpoint.",
+        "Incorrect. Opera is not mentioned in the introduction.",
+        "Incorrect. Symphony is not mentioned in the introduction.",
+        "Incorrect. Jazz is not mentioned in the introduction."
       ]
     },
     {
       "id": 4,
-      "question": "In what year did Bach die?",
+      "question": "Which of these is an orchestral work by Bach mentioned in the introduction?",
       "options": [
-        "1750",
-        "1740",
-        "1760",
-        "1730"
+        "Brandenburg Concertos",
+        "Goldberg Variations",
+        "Cello Suites",
+        "St. Matthew Passion"
       ],
       "answer_explanations": [
-        "Correct. The article states that Bach died in 1750 at the age of 65.",
-        "Incorrect. The article states that Bach died in 1750, not 1740.",
-        "Incorrect. The article states that Bach died in 1750, not 1760.",
-        "Incorrect. The article states that Bach died in 1750, not 1730."
+        "Correct. The article lists the Brandenburg Concertos as orchestral works.",
+        "Incorrect. The Goldberg Variations are keyboard works, not orchestral.",
+        "Incorrect. The Cello Suites are solo instrumental works, not orchestral.",
+        "Incorrect. The St. Matthew Passion is a choral work, not orchestral."
       ]
     },
     {
       "id": 5,
-      "question": "Which work did Felix Mendelssohn perform in 1829 to precipitate the Bach Revival?",
+      "question": "Who precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829?",
       "options": [
-        "St. Matthew Passion",
-        "Mass in B minor",
-        "Goldberg Variations",
-        "Brandenburg Concertos"
+        "Felix Mendelssohn",
+        "Johann Ambrosius Bach",
+        "Augustus III of Poland",
+        "Johann Christoph Bach"
       ],
       "answer_explanations": [
         "Correct. The article states that Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829.",
-        "Incorrect. The article identifies the St. Matthew Passion as the work performed by Mendelssohn, not the Mass in B minor.",
-        "Incorrect. The article identifies the St. Matthew Passion as the work performed by Mendelssohn, not the Goldberg Variations.",
-        "Incorrect. The article identifies the St. Matthew Passion as the work performed by Mendelssohn, not the Brandenburg Concertos."
+        "Incorrect. Johann Ambrosius Bach was Bach's father, not the one who revived his music.",
+        "Incorrect. Augustus III of Poland was Bach's sovereign, not the reviver.",
+        "Incorrect. Johann Christoph was Bach's eldest brother, not the reviver."
       ]
     },
     {
       "id": 6,
-      "question": "What position did Bach hold in Leipzig starting in 1723?",
+      "question": "How old was Bach when he died?",
       "options": [
-        "Thomaskantor",
-        "court composer",
-        "organist",
-        "kapellmeister"
+        "65",
+        "55",
+        "70",
+        "60"
       ],
       "answer_explanations": [
-        "Correct. The article states that by 1723 Bach was hired as Thomaskantor, church music director of the city of Leipzig.",
-        "Incorrect. The article states Bach was hired as Thomaskantor in Leipzig, not court composer.",
-        "Incorrect. The article states Bach was hired as Thomaskantor in Leipzig, not organist.",
-        "Incorrect. The article states Bach was hired as Thomaskantor in Leipzig, not kapellmeister."
+        "Correct. The article says he died at the age of 65.",
+        "Incorrect. 55 is not the age mentioned.",
+        "Incorrect. 70 is not the age mentioned.",
+        "Incorrect. 60 is not the age mentioned."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is listed as a keyboard work by Bach?",
+      "question": "Which of these is a choral work by Bach mentioned in the introduction?",
       "options": [
-        "Goldberg Variations",
-        "Brandenburg Concertos",
-        "St. Matthew Passion",
-        "Toccata and Fugue in D minor"
+        "Mass in B minor",
+        "Toccata and Fugue in D minor",
+        "The Well-Tempered Clavier",
+        "The Art of Fugue"
       ],
       "answer_explanations": [
-        "Correct. The article lists the Goldberg Variations among Bach's keyboard works.",
-        "Incorrect. The article lists the Brandenburg Concertos as orchestral works, not keyboard works.",
-        "Incorrect. The article lists the St. Matthew Passion as a choral work, not a keyboard work.",
-        "Incorrect. The article lists the Toccata and Fugue in D minor as an organ work, not a keyboard work."
+        "Correct. The article lists the Mass in B minor as a choral work.",
+        "Incorrect. Toccata and Fugue in D minor is an organ work.",
+        "Incorrect. The Well-Tempered Clavier is a keyboard work.",
+        "Incorrect. The Art of Fugue is a work known for counterpoint, not choral."
       ]
     },
     {
       "id": 8,
-      "question": "How many of Bach's twenty children became composers?",
+      "question": "What was Bach's role in Leipzig starting in 1723?",
       "options": [
-        "4",
-        "2",
-        "6",
-        "8"
+        "Thomaskantor",
+        "Court composer",
+        "Organist",
+        "Violinist"
       ],
       "answer_explanations": [
-        "Correct. The article states that four of his twenty children became composers.",
-        "Incorrect. The article states that four of Bach's twenty children became composers, not two.",
-        "Incorrect. The article states that four of Bach's twenty children became composers, not six.",
-        "Incorrect. The article states that four of Bach's twenty children became composers, not eight."
+        "Correct. The article says he was hired as Thomaskantor, church music director of Leipzig.",
+        "Incorrect. Court composer was a title granted later by Augustus III, not his Leipzig role.",
+        "Incorrect. Organist is not his Leipzig role mentioned.",
+        "Incorrect. Violinist is not his Leipzig role mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "What caused Bach's death?",
+      "question": "How many of Bach's twenty children became composers?",
       "options": [
-        "complications following eye surgery",
-        "heart attack",
-        "pneumonia",
-        "stroke"
+        "Four",
+        "Two",
+        "Six",
+        "Eight"
       ],
       "answer_explanations": [
-        "Correct. The article states that Bach died due to complications following eye surgery in 1750.",
-        "Incorrect. The article states Bach died due to complications following eye surgery, not a heart attack.",
-        "Incorrect. The article states Bach died due to complications following eye surgery, not pneumonia.",
-        "Incorrect. The article states Bach died due to complications following eye surgery, not a stroke."
+        "Correct. The article states that four of his twenty children became composers.",
+        "Incorrect. Two is not the number given.",
+        "Incorrect. Six is not the number given.",
+        "Incorrect. Eight is not the number given."
       ]
     },
     {
       "id": 10,
-      "question": "Which of Bach's brothers did he live with after being orphaned?",
+      "question": "What caused Bach's death in 1750?",
       "options": [
-        "Johann Christoph",
-        "Johann Ambrosius",
-        "Johann Sebastian",
-        "Johann Ernst"
+        "Complications following eye surgery",
+        "A sudden illness",
+        "An accident",
+        "Old age"
       ],
       "answer_explanations": [
-        "Correct. The article states that after being orphaned at age 10, Bach lived for five years with his eldest brother, Johann Christoph.",
-        "Incorrect. Johann Ambrosius was Bach's father, not the brother he lived with.",
-        "Incorrect. Johann Sebastian is Bach himself, not his brother.",
-        "Incorrect. Johann Ernst is not identified in the article as the brother Bach lived with."
+        "Correct. The article says he died due to complications following eye surgery.",
+        "Incorrect. A sudden illness is not mentioned.",
+        "Incorrect. An accident is not mentioned.",
+        "Incorrect. Old age is not the stated cause."
       ]
     }
   ]

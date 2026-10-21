@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Where was Christopher Columbus born?",
+      "question": "Who was Christopher Columbus?",
       "options": [
-        "Republic of Genoa",
-        "Republic of Venice",
-        "Kingdom of Portugal",
-        "Crown of Castile"
+        "An Italian explorer and navigator from the Republic of Genoa",
+        "A Portuguese nobleman from Lisbon",
+        "A Spanish king from Castile",
+        "A British sailor from the British Isles"
       ],
       "answer_explanations": [
-        "Correct. The article states that Columbus was an Italian explorer and navigator from the Republic of Genoa.",
-        "Incorrect. The article does not say Columbus was born in the Republic of Venice.",
-        "Incorrect. The article does not say Columbus was born in the Kingdom of Portugal.",
-        "Incorrect. The article does not say Columbus was born in the Crown of Castile."
+        "Correct. The article states that Christopher Columbus was 'an Italian explorer and navigator from the Republic of Genoa'.",
+        "Incorrect. The article identifies him as Italian, not Portuguese.",
+        "Incorrect. The article identifies him as Italian, not a Spanish king.",
+        "Incorrect. The article identifies him as Italian, not British."
       ]
     },
     {
       "id": 2,
-      "question": "In what year did Columbus make landfall in the Americas?",
-      "options": [
-        "1492",
-        "1493",
-        "1498",
-        "1502"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Columbus left the Port of Palos in August 1492 and made landfall in the Americas on 12 October.",
-        "Incorrect. The article says Columbus returned to Castile in early 1493, not that he made landfall then.",
-        "Incorrect. The article associates 1498 with Columbus's third voyage to Trinidad and South America, not his first landfall.",
-        "Incorrect. The article associates 1502 with Columbus's exploration of the east coast of Central America, not his first landfall."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Who sponsored Columbus's first journey west?",
-      "options": [
-        "The Catholic Monarchs, Queen Isabella I and King Ferdinand II",
-        "The King of Portugal",
-        "The Republic of Genoa",
-        "The Ottoman Empire"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the Catholic Monarchs, Queen Isabella I and King Ferdinand II, agreed to sponsor a journey west.",
-        "Incorrect. The article does not say the King of Portugal sponsored Columbus's journey.",
-        "Incorrect. The article does not say the Republic of Genoa sponsored Columbus's journey.",
-        "Incorrect. The article does not say the Ottoman Empire sponsored Columbus's journey."
-      ]
-    },
-    {
-      "id": 4,
       "question": "How many Spanish transatlantic voyages did Columbus complete?",
       "options": [
         "Four",
         "Three",
-        "Two",
-        "Five"
+        "Five",
+        "Two"
       ],
       "answer_explanations": [
-        "Correct. The article states Columbus completed four Spanish transatlantic voyages.",
-        "Incorrect. The article states four voyages, not three.",
-        "Incorrect. The article states four voyages, not two.",
-        "Incorrect. The article states four voyages, not five."
+        "Correct. The article says he 'completed four Spanish transatlantic voyages'.",
+        "Incorrect. The article specifies four, not three.",
+        "Incorrect. The article specifies four, not five.",
+        "Incorrect. The article specifies four, not two."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "In whose name did Columbus make his voyages?",
+      "options": [
+        "The Catholic Monarchs",
+        "The Republic of Genoa",
+        "The King of Portugal",
+        "The British Crown"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he made voyages 'in the name of the Catholic Monarchs'.",
+        "Incorrect. The article names the Catholic Monarchs, not the Republic of Genoa.",
+        "Incorrect. The article names the Catholic Monarchs, not the King of Portugal.",
+        "Incorrect. The article names the Catholic Monarchs, not the British Crown."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What did Columbus's expeditions open the way for?",
+      "options": [
+        "Widespread European exploration and colonization of the Americas",
+        "The spice trade with the East Indies",
+        "The founding of the Republic of Genoa",
+        "The pre-Columbian era"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his expeditions opened the way for 'widespread European exploration and colonization of the Americas'.",
+        "Incorrect. The article mentions the spice trade as a goal, not as the result of his expeditions.",
+        "Incorrect. The article does not link his expeditions to the founding of Genoa.",
+        "Incorrect. The article says his landing ended the pre-Columbian era, not that it opened the way for it."
       ]
     },
     {
       "id": 5,
-      "question": "What was the name of the island in the Bahamas where Columbus made landfall, known by its native inhabitants?",
+      "question": "Where did Columbus grow up?",
       "options": [
-        "Guanahani",
-        "Cuba",
-        "Hispaniola",
-        "Trinidad"
+        "On the coast of Liguria",
+        "In Lisbon",
+        "In the British Isles",
+        "In Ghana"
       ],
       "answer_explanations": [
-        "Correct. The article states his landing place was an island in the Bahamas known by its native inhabitants as Guanahani.",
-        "Incorrect. The article says he visited Cuba after Guanahani.",
-        "Incorrect. The article says he visited Hispaniola after Guanahani.",
-        "Incorrect. The article associates Trinidad with his 1498 voyage, not his first landfall."
+        "Correct. The article says he grew up 'on the coast of Liguria'.",
+        "Incorrect. The article says he was based in Lisbon later, not that he grew up there.",
+        "Incorrect. The article mentions traveling to the British Isles, not growing up there.",
+        "Incorrect. The article mentions traveling to what is now Ghana, not growing up there."
       ]
     },
     {
       "id": 6,
-      "question": "What was Columbus's occupation?",
+      "question": "Who was Columbus's Portuguese noblewoman wife?",
       "options": [
-        "Italian explorer and navigator",
-        "Spanish king",
-        "Portuguese nobleman",
-        "Ottoman trader"
+        "Filipa Moniz Perestrelo",
+        "Beatriz EnrÃ­quez de Arana",
+        "Queen Isabella I",
+        "Diego"
       ],
       "answer_explanations": [
-        "Correct. The article describes Columbus as an Italian explorer and navigator from the Republic of Genoa.",
-        "Incorrect. The article does not describe Columbus as a Spanish king.",
-        "Incorrect. The article does not describe Columbus as a Portuguese nobleman.",
-        "Incorrect. The article does not describe Columbus as an Ottoman trader."
+        "Correct. The article says he married 'Portuguese noblewoman Filipa Moniz Perestrelo'.",
+        "Incorrect. Beatriz EnrÃ­quez de Arana was his Castilian mistress, not his Portuguese wife.",
+        "Incorrect. Queen Isabella I was a Catholic Monarch, not his wife.",
+        "Incorrect. Diego was his son, not his wife."
       ]
     },
     {
       "id": 7,
-      "question": "What name did Columbus give to the Indigenous peoples he encountered?",
+      "question": "What was the name of the son born to Columbus and Filipa Moniz Perestrelo?",
       "options": [
-        "indios",
-        "Indians",
-        "Native Americans",
-        "Americans"
+        "Diego",
+        "Ferdinand",
+        "Beatriz",
+        "Guanahani"
       ],
       "answer_explanations": [
-        "Correct. The article states he gave the name indios ('Indians') to the Indigenous peoples he encountered.",
-        "Incorrect. While 'Indians' is the English gloss, the article specifically says he gave the name indios.",
-        "Incorrect. The article does not say Columbus used the term Native Americans.",
-        "Incorrect. The article does not say Columbus used the term Americans."
+        "Correct. The article says Filipa 'bore a son, Diego'.",
+        "Incorrect. Ferdinand was the son of his mistress Beatriz, not of Filipa.",
+        "Incorrect. Beatriz was the mistress, not a son.",
+        "Incorrect. Guanahani is the native name of the island where Columbus landed, not a son."
       ]
     },
     {
       "id": 8,
-      "question": "Which two sons of Columbus are mentioned in the article?",
+      "question": "What was Columbus largely self-educated in?",
       "options": [
-        "Diego and Ferdinand",
-        "Bartholomew and Giovanni",
-        "Giacomo and Fernando",
-        "Domenico and Susanna"
+        "Geography, astronomy, and history",
+        "Navigation and shipbuilding",
+        "Medicine and law",
+        "Spice trading and commerce"
       ],
       "answer_explanations": [
-        "Correct. The article mentions Diego, born to Filipa Moniz Perestrelo, and Ferdinand, born to Beatriz EnrÃ­quez de Arana.",
-        "Incorrect. Bartholomew and Giovanni are mentioned as Columbus's brothers, not his sons.",
-        "Incorrect. Giacomo is mentioned as a brother, and Fernando is an alternate name for Ferdinand, but the pairing is wrong.",
-        "Incorrect. Domenico and Susanna are Columbus's parents, not his sons."
+        "Correct. The article states he was 'knowledgeable in geography, astronomy, and history'.",
+        "Incorrect. The article lists geography, astronomy, and history, not navigation and shipbuilding.",
+        "Incorrect. The article lists geography, astronomy, and history, not medicine and law.",
+        "Incorrect. The article lists geography, astronomy, and history, not spice trading."
       ]
     },
     {
       "id": 9,
-      "question": "What did Columbus hope to profit from by seeking a western sea passage to the East Indies?",
+      "question": "What was Columbus's plan to seek?",
       "options": [
-        "The lucrative spice trade",
-        "The silk trade",
-        "The gold trade",
-        "The slave trade"
+        "A western sea passage to the East Indies",
+        "A northern route to the British Isles",
+        "A southern route to Ghana",
+        "An eastern land route to the Americas"
       ],
       "answer_explanations": [
-        "Correct. The article states he hoped to profit from the lucrative spice trade.",
-        "Incorrect. The article does not say he hoped to profit from the silk trade.",
-        "Incorrect. The article does not say he hoped to profit from the gold trade in this context.",
-        "Incorrect. The article does not say he hoped to profit from the slave trade in this context."
+        "Correct. The article says he 'developed a plan to seek a western sea passage to the East Indies'.",
+        "Incorrect. The article mentions the British Isles as a place he traveled to, not as a destination of his plan.",
+        "Incorrect. The article mentions Ghana as a place he traveled to, not as a destination of his plan.",
+        "Incorrect. The article says he sought a western sea passage, not an eastern land route."
       ]
     },
     {
       "id": 10,
-      "question": "In what year did Columbus die?",
+      "question": "When did Columbus make landfall in the Americas?",
       "options": [
-        "1506",
-        "1492",
-        "1500",
-        "1451"
+        "12 October 1492",
+        "August 1492",
+        "20 May 1506",
+        "25 August 1451"
       ],
       "answer_explanations": [
-        "Correct. The article gives Columbus's lifespan as between 25 August and 31 October 1451 â 20 May 1506.",
-        "Incorrect. 1492 is the year of his first voyage, not his death.",
-        "Incorrect. 1500 is the year of his arrest and removal from Hispaniola, not his death.",
-        "Incorrect. 1451 is his birth year, not his death year."
+        "Correct. The article says he 'made landfall in the Americas on 12 October'.",
+        "Incorrect. August 1492 is when he left the Port of Palos, not when he made landfall.",
+        "Incorrect. 20 May 1506 is the date of his death, not his landfall.",
+        "Incorrect. 25 August 1451 is a possible date of his birth, not his landfall."
       ]
     }
   ]

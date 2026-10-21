@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what was Voltaire's famous assessment of the Holy Roman Empire?",
+      "question": "What was the Holy Roman Empire also known as after 1512?",
       "options": [
-        "It was in no way holy, nor Roman, nor an empire.",
-        "It was a truly unified German nation-state.",
-        "It was the direct continuation of the Western Roman Empire.",
-        "It was primarily a French-dominated polity."
+        "Holy Roman Empire of the German Nation",
+        "Carolingian Empire",
+        "German Confederation",
+        "First Reich"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Voltaire as saying: \"This body which was called and which still calls itself the Holy Roman Empire was in no way holy, nor Roman, nor an empire.\"",
-        "Incorrect. The article does not attribute this view to Voltaire; instead, it notes that by around 1500 the empire was associated with a German identity, but Voltaire's remark was critical of its nature.",
-        "Incorrect. The article states the title was revived more than three centuries after the fall of the Western Roman Empire, but Voltaire's assessment did not describe it as a direct continuation.",
-        "Incorrect. The article describes the empire as comprising much of Central and Western Europe, not as primarily French-dominated, and Voltaire's remark does not mention French domination."
+        "Correct. The article states that it was 'also known as the Holy Roman Empire of the German Nation after 1512'.",
+        "Incorrect. The Carolingian Empire was an earlier, separate entity that preceded the Holy Roman Empire.",
+        "Incorrect. The German Confederation was formed in 1815, after the Holy Roman Empire's dissolution.",
+        "Incorrect. 'First Reich' was a term used by 20th-century nationalists, not the official name after 1512."
       ]
     },
     {
       "id": 2,
-      "question": "What happened to the imperial title between 924 and 962?",
+      "question": "When did the Holy Roman Empire dissolve?",
       "options": [
-        "The title had lapsed and was not held by anyone.",
-        "It was continuously held by Carolingian rulers without interruption.",
-        "It was held exclusively by the kings of West Francia.",
-        "It was transferred permanently to the Papacy."
+        "1806",
+        "800",
+        "962",
+        "1512"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"The title had again lapsed by 924 but was revived again in 962 with the crowning of Otto of Saxony as emperor by Pope John XII.\"",
-        "Incorrect. The article explicitly says the title lapsed by 924, so it was not continuously held.",
-        "Incorrect. The article mentions disputes between rulers of West Francia and East Francia, but does not say the title was held exclusively by West Francia during this gap.",
-        "Incorrect. The article does not state that the Papacy held the title; rather, popes crowned emperors."
+        "Correct. The article says it 'lasted for a millennium until its dissolution in 1806'.",
+        "Incorrect. 800 is when Charlemagne was crowned, marking the beginning of the empire, not its end.",
+        "Incorrect. 962 is when Otto of Saxony was crowned, reviving the title, not dissolving the empire.",
+        "Incorrect. 1512 is when the name was changed to include 'of the German Nation', not when it ended."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, which three constituent kingdoms initially made up the Holy Roman Empire?",
+      "question": "Who crowned Charlemagne as Roman Emperor on 25 December 800?",
       "options": [
-        "Germany, Italy, and Burgundy.",
-        "Germany, France, and Italy.",
-        "Italy, Burgundy, and Lotharingia.",
-        "Germany, Burgundy, and Bohemia."
+        "Pope Leo III",
+        "Pope John XII",
+        "Emperor Constantine VI",
+        "Empress Irene"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Initially, it consisted of three constituent kingdomsâGermany, Italy, and (from 1032) Burgundyâheld together by the emperor's overlordship.\"",
-        "Incorrect. France is not listed as one of the three constituent kingdoms in the article.",
-        "Incorrect. Lotharingia is mentioned as a stem duchy of East Francia, not as one of the three initial constituent kingdoms of the empire.",
-        "Incorrect. Bohemia is not mentioned in the article as one of the three initial constituent kingdoms."
+        "Correct. The article states that 'Pope Leo III crowned Charlemagne' on that date.",
+        "Incorrect. Pope John XII crowned Otto of Saxony in 962, not Charlemagne.",
+        "Incorrect. Constantine VI was a Byzantine emperor, not a pope who crowned Charlemagne.",
+        "Incorrect. Irene was a Byzantine empress, not involved in crowning Charlemagne."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say about the official status of the name \"Holy Roman Empire of the German Nation\"?",
+      "question": "Which of these was NOT one of the three constituent kingdoms the empire initially consisted of?",
       "options": [
-        "It never had official status despite later textbook claims.",
-        "It was the empire's sole official title from 1512 onward.",
-        "It was used only in Hungarian documents as \"German Roman Empire.\"",
-        "It was officially adopted at the Diet of Cologne in 1512 and never changed."
+        "France",
+        "Germany",
+        "Italy",
+        "Burgundy"
       ],
       "answer_explanations": [
-        "Correct. The article cites Hermann Weisert's argument that, despite textbook claims, the name \"Holy Roman Empire of the German Nation\" never had official status, and documents were thirty times as likely to omit the national suffix.",
-        "Incorrect. The article explicitly contradicts this, stating the name never had official status and was often omitted.",
-        "Incorrect. The Hungarian denomination \"German Roman Empire\" is mentioned as a shortening, but the article does not say the full name was used only in Hungarian documents.",
-        "Incorrect. The article notes the name was changed in a decree after the Diet of Cologne in 1512, but also states it fell out of official use by the end of the 18th century and never had official status."
+        "Correct. The article lists the three kingdoms as Germany, Italy, and Burgundy; France is not mentioned as one of the initial constituent kingdoms.",
+        "Incorrect. Germany is listed as one of the three constituent kingdoms.",
+        "Incorrect. Italy is listed as one of the three constituent kingdoms.",
+        "Incorrect. Burgundy is listed as one of the three constituent kingdoms, having been added in 1032."
       ]
     },
     {
       "id": 5,
-      "question": "How did the Holy Roman Empire formally come to an end?",
+      "question": "Under which imperial dynasty did the empire reach its apex in territorial expansion and power in the mid-13th century?",
       "options": [
-        "Emperor Francis II abdicated and formally dissolved the empire on 6 August 1806.",
-        "It was conquered by Napoleon and annexed directly into the French Empire.",
-        "It was dissolved by the Peace of Westphalia in 1648.",
-        "It was voted out of existence by the Imperial Diet in 1800."
+        "House of Hohenstaufen",
+        "House of Habsburg",
+        "Carolingian dynasty",
+        "Ottonian dynasty"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"On 6 August 1806, Emperor Francis II abdicated and formally dissolved the empire following the creation by French emperor Napoleon of the Confederation of the Rhine.\"",
-        "Incorrect. The article says Francis II dissolved the empire himself; it was not annexed directly into the French Empire.",
-        "Incorrect. The Peace of Westphalia is mentioned regarding external borders and the exclusion of Switzerland and the Northern Netherlands, not the empire's dissolution.",
-        "Incorrect. The article does not mention a vote by the Imperial Diet in 1800; it describes Francis II's abdication as the formal dissolution."
+        "Correct. The article states the empire 'reached its apex in terms of territorial expansion and power in the mid-13th century, under the House of Hohenstaufen'.",
+        "Incorrect. The Habsburgs were a later dynasty that became prominent after the Hohenstaufen era.",
+        "Incorrect. The Carolingians were the earlier dynasty of Charlemagne, not the one at the 13th-century apex.",
+        "Incorrect. The Ottonians were the dynasty of Otto the Great, which ruled earlier than the 13th century."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following best describes the Holy Roman Empire's political structure as characterized in the article?",
+      "question": "Who was the emperor that abdicated and formally dissolved the empire on 6 August 1806?",
       "options": [
-        "Decentralized, with continuing cooperation between emperors and relatively powerful and independent vassals.",
-        "A highly centralized monarchy with the emperor exercising direct control over all territories.",
-        "A theocracy governed directly by the Pope and the College of Cardinals.",
-        "A federation of fully independent republics with no emperor."
+        "Francis II",
+        "Napoleon",
+        "Otto the Great",
+        "Frederick I Barbarossa"
       ],
       "answer_explanations": [
-        "Correct. The article characterizes the empire by a \"decentralized political structure\" and notes it \"depended on continuing cooperation between emperors and still relatively powerful and independent vassals.\"",
-        "Incorrect. The article explicitly describes the structure as decentralized, not centralized, and notes effective control over Italy and Burgundy had largely disappeared.",
-        "Incorrect. While the Pope crowned emperors, the article does not describe the empire as a theocracy governed by the Pope.",
-        "Incorrect. The article describes an empire headed by an emperor, not a federation of independent republics without an emperor."
+        "Correct. The article says 'Emperor Francis II abdicated and formally dissolved the empire' on that date.",
+        "Incorrect. Napoleon was the French emperor who created the Confederation of the Rhine, but he was not the Holy Roman Emperor who dissolved the empire.",
+        "Incorrect. Otto the Great was a medieval emperor, not the one in 1806.",
+        "Incorrect. Frederick I Barbarossa was a 12th-century emperor, not the one in 1806."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what was the significance of the Imperial Reform in the late 15th and early 16th centuries?",
+      "question": "What was the term 'sacrum' (holy) added to the empire's name to reflect, starting in 1157?",
       "options": [
-        "It created a set of institutions that endured until the empire's final demise in the 19th century.",
-        "It abolished the office of Holy Roman Emperor and replaced it with a republic.",
-        "It transferred imperial authority permanently to the Papacy.",
-        "It dissolved the empire and created the German Confederation."
+        "Frederick I Barbarossa's ambition to dominate Italy and the Papacy",
+        "The empire's Christian mission to convert pagans",
+        "The empire's control over the Holy Land",
+        "The emperor's role as a religious leader"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"A process of Imperial Reform in the late 15th and early 16th centuries transformed the empire, creating a set of institutions which endured until its final demise in the 19th century.\"",
-        "Incorrect. The article does not say the Imperial Reform abolished the imperial office; Francis II abdicated much later, in 1806.",
-        "Incorrect. The article does not state that imperial authority was transferred to the Papacy as a result of the Imperial Reform.",
-        "Incorrect. The German Confederation was created after the Napoleonic Wars in 1815, not by the Imperial Reform."
+        "Correct. The article states the term was added 'to reflect Frederick's ambition to dominate Italy and the Papacy'.",
+        "Incorrect. The article does not mention a mission to convert pagans as the reason for the term.",
+        "Incorrect. The empire did not control the Holy Land; this is not mentioned as a reason.",
+        "Incorrect. While the emperor had a religious role, the article specifically links the term to Frederick's ambition over Italy and the Papacy."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about the territorial composition of the Holy Roman Empire for most of its history?",
+      "question": "According to the article, what did Voltaire famously say about the Holy Roman Empire?",
       "options": [
-        "It primarily consisted of the entirety of modern Germany, Austria, Switzerland, the Netherlands, Belgium, the Czech Republic, Luxembourg, Liechtenstein, Monaco, and Slovenia, plus large parts of eastern France, northern and central Italy, and western Poland.",
-        "It was limited to the modern borders of Germany only.",
-        "It consisted mainly of the Italian peninsula and had little territory north of the Alps.",
-        "It included all of modern France, Spain, and England."
+        "It was in no way holy, nor Roman, nor an empire",
+        "It was the most powerful monarchy in Europe",
+        "It was a model of centralized government",
+        "It was the true successor to ancient Rome"
       ],
       "answer_explanations": [
-        "Correct. The article lists these modern countries and regions as comprising most of the Empire for most of its history.",
-        "Incorrect. The article states the empire included many modern countries beyond Germany, not just Germany.",
-        "Incorrect. The article describes the empire as centered on Central Europe with significant Italian territory, but not mainly the Italian peninsula with little north of the Alps.",
-        "Incorrect. The article does not mention Spain or England as part of the empire."
+        "Correct. The article quotes Voltaire as saying: 'This body which was called and which still calls itself the Holy Roman Empire was in no way holy, nor Roman, nor an empire.'",
+        "Incorrect. The article says it was one of the most powerful monarchies from 962 to the 13th century, but this is not Voltaire's quote.",
+        "Incorrect. The empire was decentralized, not centralized, and Voltaire's quote does not say this.",
+        "Incorrect. Voltaire's quote is a sardonic criticism, not an endorsement of its Roman heritage."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what happened to the Kingdom of Italy within the Holy Roman Empire after the 15th century?",
+      "question": "Which treaty acknowledged the exclusion of Switzerland and the Northern Netherlands from the Empire?",
       "options": [
-        "It was formally part of the empire but ignored in the Imperial Reform and splintered into numerous de facto independent territorial entities.",
-        "It became the sole remaining component of the empire, replacing Germany.",
-        "It was annexed by France and ceased to have any connection to the empire.",
-        "It was granted full independence and formally left the empire in 1512."
+        "Peace of Westphalia",
+        "Treaty of Verdun",
+        "Treaty of PrÃ¼m",
+        "Treaty of Ribemont"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Although the Italian territories were formally part of the empire, the territories were ignored in the Imperial Reform and splintered into numerous de facto independent territorial entities.\"",
-        "Incorrect. The article says the Kingdom of Germany became the sole remaining component, not Italy.",
-        "Incorrect. The article does not state that Italy was annexed by France; it describes Italian territories as formally part of the empire but splintered.",
-        "Incorrect. The article does not mention Italy being granted full independence or leaving the empire in 1512."
+        "Correct. The article mentions the 'Peace of Westphalia â which acknowledged the exclusion of Switzerland and the Northern Netherlands'.",
+        "Incorrect. The Treaty of Verdun divided Charlemagne's empire in 843, much earlier than the exclusion of Switzerland and the Netherlands.",
+        "Incorrect. The Treaty of PrÃ¼m was another 9th-century partition treaty, not related to Switzerland or the Netherlands.",
+        "Incorrect. The Treaty of Ribemont was another 9th-century treaty, not related to the exclusion of Switzerland or the Netherlands."
       ]
     },
     {
       "id": 10,
-      "question": "Based on the article, what can be inferred about the relationship between the Holy Roman Empire and the concept of translatio imperii?",
+      "question": "What happened to most of the Holy Roman Empire's territory after the Napoleonic Wars concluded in 1815?",
       "options": [
-        "The emperor's legitimacy rested on the idea that he held supreme power inherited from the ancient emperors of Rome.",
-        "The concept was rejected by the empire and replaced with a purely Germanic notion of rule.",
-        "It applied only to the Byzantine emperors and not to the Holy Roman emperors.",
-        "It was introduced by Napoleon to justify the Confederation of the Rhine."
+        "It was included in the German Confederation",
+        "It was absorbed into the French Empire",
+        "It became part of the Italian states",
+        "It was divided between the Habsburgs and Hohenstaufens"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"the Emperor's legitimacy always rested on the concept of translatio imperii, that he held supreme power inherited from the ancient emperors of Rome.\"",
-        "Incorrect. The article does not say the concept was rejected; it says legitimacy always rested on it.",
-        "Incorrect. The article associates translatio imperii with the Holy Roman Emperor, not exclusively with Byzantine emperors.",
-        "Incorrect. The article does not connect translatio imperii to Napoleon; it is presented as an ancient concept underlying imperial legitimacy."
+        "Correct. The article states that 'At the conclusion of the Napoleonic Wars in 1815, most of the Holy Roman Empire was included in the German Confederation'.",
+        "Incorrect. The article does not say the territory was absorbed into France; it mentions the German Confederation instead.",
+        "Incorrect. The article says the Italian states were the main exceptions, not that the territory became part of them.",
+        "Incorrect. The Hohenstaufens were a medieval dynasty, long gone by 1815, and the article does not mention this division."
       ]
     }
   ]

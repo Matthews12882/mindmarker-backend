@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, how does the Intergovernmental Panel on Climate Change (IPCC) estimate the climate effect of a commercial jet's flight compared to the same CO2 emissions made at ground level?",
+      "question": "Given the article's description of transport modes and their infrastructure, why does the choice of a transport mode depend on more than just its top speed?",
       "options": [
-        "Some 2-4 times greater",
-        "About the same",
-        "About half as much",
-        "Some 10 times greater"
+        "Because each mode has its own advantages and disadvantages, and the choice is based on cost, capability, and route, not just speed.",
+        "Because the article states that all modes are equally fast, so speed is not a differentiating factor.",
+        "Because the article claims that speed is the only factor considered when choosing a mode of transport.",
+        "Because the article says that the choice is made solely on the basis of the availability of infrastructure, ignoring cost and capability."
       ],
       "answer_explanations": [
-        "Correct. The article states that the IPCC estimates a commercial jet's flight to have some 2-4 times the effect on the climate than if the same CO2 emissions were made at ground level.",
-        "Incorrect. The article does not say the effects are about the same; it states they are 2-4 times greater.",
-        "Incorrect. The article does not say the effect is half as much; it states it is 2-4 times greater.",
-        "Incorrect. The article does not mention a 10 times greater effect; it specifies 2-4 times."
+        "Correct. The article states that 'Each mode has its own advantages and disadvantages, and will be chosen on the basis of cost, capability, and route,' implying that speed is only one of several factors.",
+        "Incorrect. The article does not claim all modes are equally fast; in fact, it notes that aircraft are the second fastest method of transport, after the rocket.",
+        "Incorrect. The article explicitly lists cost, capability, and route as the basis for choosing a mode, contradicting the idea that speed is the only factor.",
+        "Incorrect. While infrastructure is important, the article clearly states that the choice is based on cost, capability, and route, not just infrastructure availability."
       ]
     },
     {
       "id": 2,
-      "question": "Based on the article, which of the following best describes the distinction between 'modes of transport' and 'means of transport'?",
+      "question": "The article describes the IPCC estimate that a commercial jet's flight has 2-4 times the climate effect of the same CO2 emissions at ground level. What does this imply about comparing the environmental impact of air travel to other modes?",
       "options": [
-        "A mode is a method or way of travelling, while means are the facilities used to carry people or cargo.",
-        "A mode refers to vehicles, while means refers to infrastructure such as roads and railways.",
-        "A mode is only used for freight, while means is only used for passengers.",
-        "A mode and means are synonyms with no meaningful distinction."
+        "It implies that the environmental cost of air travel is not fully captured by its CO2 emissions alone, as altitude amplifies the climate impact.",
+        "It implies that air travel's CO2 emissions are actually lower than ground-level emissions, making it a greener option.",
+        "It implies that the IPCC estimate is irrelevant to comparing transport modes, as it only applies to military aircraft.",
+        "It implies that ground-level emissions have no climate effect, so air travel is the only contributor to climate change."
       ],
       "answer_explanations": [
-        "Correct. The article states that a mode of transport is a method or way of travelling, while means of transport refers to the transport facilities used to carry people or cargo according to the chosen mode.",
-        "Incorrect. The article does not define modes as vehicles and means as infrastructure; it defines modes as methods of travelling.",
-        "Incorrect. The article does not restrict modes to freight or means to passengers; both concepts apply to people and cargo.",
-        "Incorrect. The article explicitly distinguishes between the two terms rather than treating them as synonyms."
+        "Correct. The article notes the higher altitude causes 'different atmospheric chemistry and radiative forcing effects,' meaning the same CO2 has a greater impact, so comparisons must account for this amplification.",
+        "Incorrect. The article states the opposite: the same CO2 emissions have a greater effect when released at altitude, not a lower one.",
+        "Incorrect. The IPCC estimate applies to commercial jets, as stated in the article, not just military aircraft.",
+        "Incorrect. The article does not claim ground-level emissions have no effect; it only says the effect of air travel is amplified at altitude."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what is one reason human-powered transport remains popular?",
+      "question": "The article mentions that human-powered transport is 'sometimes the only type available, especially in underdeveloped or inaccessible regions.' What does this statement imply about the role of infrastructure in transport accessibility?",
       "options": [
-        "Cost-saving, leisure, physical exercise, and environmentalism",
-        "It is faster than motorized transport for long distances",
-        "It requires no infrastructure whatsoever",
-        "It is the only mode regulated by governments"
+        "It implies that in areas lacking developed transport infrastructure, human-powered modes become the default, highlighting the link between infrastructure and transport options.",
+        "It implies that human-powered transport is always the most efficient option, regardless of infrastructure.",
+        "It implies that underdeveloped regions have no need for any form of transport.",
+        "It implies that infrastructure is irrelevant to the availability of any transport mode."
       ],
       "answer_explanations": [
-        "Correct. The article states that human-powered transport remains popular for reasons of cost-saving, leisure, physical exercise, and environmentalism.",
-        "Incorrect. The article does not claim human-powered transport is faster than motorized transport for long distances.",
-        "Incorrect. Although humans can walk without infrastructure, the article notes accessibility can be enhanced with roads, sidewalks, and paths, so it does not require no infrastructure whatsoever.",
-        "Incorrect. The article does not state that human-powered transport is the only mode regulated by governments."
+        "Correct. The article links the necessity of human-powered transport to regions that are 'underdeveloped or inaccessible,' implying that the lack of infrastructure limits other options.",
+        "Incorrect. The article does not claim human-powered transport is always the most efficient; it is described as a necessity in certain contexts, not a universal optimum.",
+        "Incorrect. The article states that human-powered transport is used in such regions, implying a need for transport exists, not that it is absent.",
+        "Incorrect. The statement directly ties the availability of transport modes to the development of infrastructure, showing its relevance."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what is a key characteristic of a gyroplane?",
+      "question": "The article describes the ownership of transport operations and infrastructure as 'public, private, or a partnership between the two.' How does this relate to the example of 'privately owned cars and government-owned urban transport'?",
       "options": [
-        "It is both fixed-wing and rotary wing",
-        "It is a lighter-than-air aircraft",
-        "It requires a runway for takeoff and landing",
-        "It is human-powered"
+        "It illustrates that a single transport system can mix ownership types, with private vehicles and public transit coexisting within the same urban environment.",
+        "It shows that private ownership is always superior to public ownership in transport.",
+        "It demonstrates that public and private ownership are mutually exclusive and cannot coexist.",
+        "It suggests that urban transport is always privately owned, while cars are government-owned."
       ],
       "answer_explanations": [
-        "Correct. The article states that a gyroplane is both fixed-wing and rotary wing.",
-        "Incorrect. The article describes aerostats, not gyroplanes, as lighter-than-air aircraft.",
-        "Incorrect. The article does not state that gyroplanes require a runway; it notes helicopters can operate in places without runways.",
-        "Incorrect. The article does not describe gyroplanes as human-powered."
+        "Correct. The article uses this example to show that 'transport modes can be a mix of the two ownership systems,' with private cars and public transit operating side by side.",
+        "Incorrect. The article does not make a value judgment about which ownership type is superior.",
+        "Incorrect. The example explicitly shows that public and private ownership can coexist, contradicting the idea of mutual exclusivity.",
+        "Incorrect. The example states the opposite: cars are privately owned, and urban transport is government-owned."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what is one way animal-powered transport remains useful?",
+      "question": "The article states that 'good planning of transport is essential to make traffic flow and restrain urban sprawl.' What does this imply about the consequences of poor transport planning?",
       "options": [
-        "In rough terrain not readily accessible by automotive-based transportation",
-        "For high-speed travel between cities",
-        "As the primary means of urban public transport",
-        "For inter-modal container shipping"
+        "It implies that without good planning, traffic congestion and uncontrolled urban expansion are likely outcomes.",
+        "It implies that poor planning has no effect on traffic or urban development.",
+        "It implies that traffic flow and urban sprawl are unrelated to transport planning.",
+        "It implies that poor planning only affects rural areas, not cities."
       ],
       "answer_explanations": [
-        "Correct. The article states that animal-powered transport remains useful in rough terrain that is not readily accessible by automotive-based transportation.",
-        "Incorrect. The article does not describe animal-powered transport as suitable for high-speed travel between cities.",
-        "Incorrect. The article does not identify animal-powered transport as the primary means of urban public transport.",
-        "Incorrect. The article does not connect animal-powered transport to inter-modal container shipping."
+        "Correct. The article's statement directly links good planning to positive outcomes, implying that its absence would lead to the opposite problems: poor traffic flow and unchecked urban sprawl.",
+        "Incorrect. The article asserts that planning is 'essential,' implying its absence has negative consequences.",
+        "Incorrect. The article explicitly connects planning to both traffic flow and urban sprawl, showing they are related.",
+        "Incorrect. The article discusses urban sprawl, which is a city-related issue, and does not limit the impact of planning to rural areas."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, which of the following is an example of inter-modal or multi-modal transport?",
+      "question": "The article distinguishes between 'fixed-wing aircraft' and 'rotary-wing aircraft' by explaining how lift is generated. What is the fundamental difference in their lift mechanisms?",
       "options": [
-        "The transport of a person or cargo involving several modes",
-        "A journey using only a single automobile from start to finish",
-        "Walking without any infrastructure",
-        "A pipeline carrying oil over a fixed route"
+        "Fixed-wing aircraft generate lift by the movement of air over the wings, while rotary-wing aircraft generate lift by the movement of the lift surfaces relative to the air.",
+        "Fixed-wing aircraft generate lift by moving the lift surfaces, while rotary-wing aircraft rely on the movement of air over stationary wings.",
+        "Both types generate lift in exactly the same way, with no difference in mechanism.",
+        "Fixed-wing aircraft use hot air for lift, while rotary-wing aircraft use helium."
       ],
       "answer_explanations": [
-        "Correct. The article states that when the transport of a person or cargo involves several modes, it is called inter-modal or multi-modal transport.",
-        "Incorrect. Using only a single automobile represents a single mode, not several modes.",
-        "Incorrect. Walking without infrastructure is a single mode and does not involve several modes.",
-        "Incorrect. A pipeline carrying oil over a fixed route is described as a single mode, not several modes combined."
+        "Correct. The article explains that for fixed-wing aircraft, 'movement of the air in relation to the wings is used to generate lift,' whereas for rotary-wing aircraft, 'the movement of the lift surfaces relative to the air generates lift.'",
+        "Incorrect. This reverses the mechanisms described in the article.",
+        "Incorrect. The article explicitly describes a difference in how lift is generated for the two types.",
+        "Incorrect. The article discusses lift generation through airflow, not through hot air or helium, which are used in aerostats."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is mobility concerned with?",
+      "question": "The article notes that 'the global trend has been for increasing numbers of people to travel by air, and individually to do so with increasing frequency and over longer distances.' How does this trend relate to the concept of 'hypermobility' mentioned in the same paragraph?",
       "options": [
-        "The experience around transportation services, including availability, information, usability, accessibility, and affordability",
-        "The physical movement of goods from one location to another",
-        "The construction of roads, railways, and waterways",
-        "The regulation of vehicle ownership by governments"
+        "It suggests that the trend of frequent, long-distance air travel is what the article refers to as 'hypermobility,' which is a topic of research and concern.",
+        "It suggests that hypermobility is a separate issue unrelated to air travel trends.",
+        "It suggests that the trend is decreasing, so hypermobility is no longer a concern.",
+        "It suggests that hypermobility only applies to ground transport, not air travel."
       ],
       "answer_explanations": [
-        "Correct. The article states that mobility is concerned with the experience around transportation services, including availability, information, usability, accessibility, and affordability.",
-        "Incorrect. The physical movement of goods is described as transport, not mobility.",
-        "Incorrect. The construction of roads, railways, and waterways falls under infrastructure, not mobility.",
-        "Incorrect. Government regulation of vehicle ownership is discussed under operations, not mobility."
+        "Correct. The article directly links the trend of frequent, long-distance air travel to the issue of 'hypermobility,' stating it 'has been a topic of research and governmental concern.'",
+        "Incorrect. The article defines hypermobility as the 'issue of impacts from frequent travel, particularly by air,' directly connecting it to the trend.",
+        "Incorrect. The article states the trend is 'increasing,' not decreasing, and that hypermobility remains a concern.",
+        "Incorrect. The article specifically mentions air travel in its definition of hypermobility."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what are the two kinds of land transport?",
+      "question": "The article describes rail tracks as having rails 'anchored perpendicular to ties' to maintain a consistent distance apart. What is the purpose of this consistent distance, and how does the article's mention of 'dual gauge' railways complicate this?",
       "options": [
-        "Rail and road",
-        "Air and water",
-        "Pipeline and cable",
-        "Human-powered and animal-powered"
+        "The consistent distance, or gauge, is necessary for trains to run smoothly, but dual gauge railways use three or four rails to accommodate trains with different gauges, showing that gauge can vary.",
+        "The consistent distance is merely aesthetic, and dual gauge railways are built without any rails.",
+        "The consistent distance is only for the foundation, and dual gauge railways use the same two rails for all trains.",
+        "The consistent distance is irrelevant, and dual gauge railways are a failed concept."
       ],
       "answer_explanations": [
-        "Correct. The article states that land transport consists of two kinds, rail and road.",
-        "Incorrect. Air and water are separate modes of transport, not kinds of land transport.",
-        "Incorrect. Pipeline and cable are listed as other modes of transport, not kinds of land transport.",
-        "Incorrect. Human-powered and animal-powered transport are sometimes regarded as distinct modes but are not the two kinds of land transport identified in the article."
+        "Correct. The article explains that the gauge maintains a consistent distance, which is essential for the trains, and then describes dual gauge railways as having 'three or four rails, allowing use by trains with two or three track gauges,' showing that different gauges can be accommodated.",
+        "Incorrect. The gauge is a functional requirement for trains, not an aesthetic choice, and dual gauge railways do have rails.",
+        "Incorrect. The gauge is not about the foundation, and dual gauge railways use additional rails to support different gauges.",
+        "Incorrect. The article describes dual gauge as an 'alternative method,' implying it is a viable concept, not a failure."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is one environmental impact associated with machine-propelled transport?",
+      "question": "The article states that 'aerostats can transport passengers and a payload over long distances' and gives the example of zeppelins used in World War I. What does this example imply about the historical role of airships?",
       "options": [
-        "Air pollution and large land use",
-        "Increased availability of human-powered vehicles",
-        "Reduced need for transport infrastructure",
-        "Decreased globalization"
+        "It implies that airships were not just for civilian transport but also had significant military applications, such as long-range bombing raids.",
+        "It implies that airships were only used for leisure and had no military or cargo role.",
+        "It implies that zeppelins were exclusively used for passenger travel and never for military purposes.",
+        "It implies that airships were too fragile to be used in any practical way, including war."
       ],
       "answer_explanations": [
-        "Correct. The article states that machine-propelled forms cause air pollution and use large amounts of land.",
-        "Incorrect. The article does not link machine-propelled transport to increased availability of human-powered vehicles.",
-        "Incorrect. The article does not state that machine-propelled transport reduces the need for infrastructure; infrastructure is a core part of the field.",
-        "Incorrect. The article states transport plays an important part in globalization, not that it decreases globalization."
+        "Correct. The article's example of zeppelins on 'long-ranged bombing raids during World War I' directly shows a military application, implying a broader role than just civilian transport.",
+        "Incorrect. The article explicitly mentions a military use, contradicting the idea that airships were only for leisure.",
+        "Incorrect. The article's example of bombing raids shows military use, not exclusively passenger travel.",
+        "Incorrect. The article describes zeppelins as being used in war, implying they were practical enough for such missions."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what is one capability of unmanned aerial vehicles (UAVs)?",
+      "question": "The article mentions that 'machine-propelled forms cause air pollution and use large amounts of land.' How does this statement relate to the earlier description of human-powered transport as a form of 'sustainable transport'?",
       "options": [
-        "They are capable of carrying a payload and are being used for package delivery",
-        "They are the fastest method of transport, faster than rockets",
-        "They require a full-sized airport with runways to operate",
-        "They are lighter-than-air aircraft that use helium for lift"
+        "It implies that human-powered transport, which does not rely on machines, is considered more sustainable because it avoids the pollution and land use associated with machine-propelled modes.",
+        "It implies that human-powered transport also causes significant air pollution, making it equally unsustainable.",
+        "It implies that sustainability is unrelated to pollution or land use.",
+        "It implies that machine-propelled transport is more sustainable than human-powered transport."
       ],
       "answer_explanations": [
-        "Correct. The article states that UAVs, or drones, are capable of carrying a payload and are being used for package delivery.",
-        "Incorrect. The article states the aircraft is the second fastest method of transport after the rocket, so UAVs are not faster than rockets.",
-        "Incorrect. The article does not state that UAVs require a full-sized airport; it notes they range in size from less than a metre across to a full-sized airplane.",
-        "Incorrect. The article describes aerostats as lighter-than-air aircraft that use lifting gas such as helium, not UAVs."
+        "Correct. The article labels human-powered transport as 'sustainable transport' and contrasts it with machine-propelled forms that 'cause air pollution and use large amounts of land,' implying that the former avoids these negative impacts.",
+        "Incorrect. The article does not attribute pollution to human-powered transport; it specifically links pollution to machine-propelled forms.",
+        "Incorrect. The article's description of machine-propelled pollution and land use directly ties sustainability to these environmental factors.",
+        "Incorrect. The article's labeling of human-powered transport as 'sustainable' and the negative impacts of machine-propelled forms imply the opposite."
       ]
     }
   ]

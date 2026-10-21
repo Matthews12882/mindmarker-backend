@@ -5,18 +5,18 @@
   "questions": [
     {
       "id": 1,
-      "question": "What material was widely used to make stone tools during the Stone Age?",
+      "question": "What material was widely used to make tools during the Stone Age?",
       "options": [
         "Stone",
         "Bronze",
         "Iron",
-        "Copper"
+        "Gold"
       ],
       "answer_explanations": [
-        "Correct. The article states that stone was widely used to make stone tools during the Stone Age.",
-        "Incorrect. Bronze became widespread in the Bronze Age, which followed the Stone Age.",
-        "Incorrect. Iron was used in the Iron Age, which followed the Bronze Age.",
-        "Incorrect. Copper was used for ornamentation in the Stone Age, but stone was the material widely used for tools."
+        "Correct. The article states that stone was widely used to make stone tools.",
+        "Incorrect. Bronze is mentioned as marking the end of the Stone Age, not as the main tool material.",
+        "Incorrect. Iron is not mentioned in the introduction.",
+        "Incorrect. Gold was used for ornamentation, but stone was the main tool material."
       ]
     },
     {
@@ -24,143 +24,143 @@
       "question": "How long did the Stone Age last?",
       "options": [
         "Roughly 3.4 million years",
-        "Roughly 1 million years",
-        "Roughly 10,000 years",
-        "Roughly 100,000 years"
+        "Roughly 4,000 years",
+        "Roughly 2,000 years",
+        "Roughly 99,000 years"
       ],
       "answer_explanations": [
-        "Correct. The article states that the period lasted for roughly 3.4 million years.",
-        "Incorrect. The article specifies roughly 3.4 million years, not 1 million years.",
-        "Incorrect. The article specifies roughly 3.4 million years, not 10,000 years.",
-        "Incorrect. The article specifies roughly 3.4 million years, not 100,000 years."
+        "Correct. The article says the period lasted for roughly 3.4 million years.",
+        "Incorrect. 4000 BC is mentioned as an end date, not the duration.",
+        "Incorrect. 2000 BC is mentioned as an end date, not the duration.",
+        "Incorrect. 99% is the percentage of human history, not the duration."
       ]
     },
     {
       "id": 3,
-      "question": "What marks the end of the Stone Age?",
+      "question": "The Stone Age ended with the advent of what?",
       "options": [
-        "The advent of metalworking",
-        "The invention of writing",
-        "The discovery of fire",
-        "The domestication of animals"
+        "Metalworking",
+        "Agriculture",
+        "Writing",
+        "Pottery"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Stone Age ended with the advent of metalworking.",
-        "Incorrect. The article does not mention the invention of writing as marking the end of the Stone Age.",
-        "Incorrect. The article does not mention the discovery of fire as marking the end of the Stone Age.",
-        "Incorrect. The article does not mention the domestication of animals as marking the end of the Stone Age."
+        "Correct. The article states it ended with the advent of metalworking.",
+        "Incorrect. Agriculture is mentioned later in the introduction but not as the end of the Stone Age.",
+        "Incorrect. Writing is not mentioned in the introduction.",
+        "Incorrect. Pottery is not mentioned in the introduction."
       ]
     },
     {
       "id": 4,
-      "question": "Which era is the earliest and most primitive division of the Stone Age?",
+      "question": "What percentage of human history does the Stone Age encompass?",
       "options": [
-        "Paleolithic",
-        "Mesolithic",
-        "Neolithic",
-        "Chalcolithic"
+        "99%",
+        "50%",
+        "75%",
+        "10%"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Paleolithic era is the earliest and most primitive period of the Stone Age.",
-        "Incorrect. The article describes the Mesolithic as a transitional period with finer tools, not the earliest.",
-        "Incorrect. The article describes the Neolithic as the final stage, not the earliest.",
-        "Incorrect. The article describes the Chalcolithic as preceding the Bronze Age, not as part of the Stone Age's three divisions."
+        "Correct. The article says it encompasses 99% of human history.",
+        "Incorrect. 50% is not mentioned.",
+        "Incorrect. 75% is not mentioned.",
+        "Incorrect. 10% is not mentioned."
       ]
     },
     {
       "id": 5,
-      "question": "Which age followed the Stone Age in the three-age system?",
+      "question": "Which two metals were used for ornamentation in the Stone Age?",
       "options": [
-        "Bronze Age",
-        "Iron Age",
-        "Copper Age",
-        "Golden Age"
+        "Gold and copper",
+        "Gold and silver",
+        "Copper and bronze",
+        "Iron and gold"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Bronze Age is the next period after the Stone Age in the three-age system.",
-        "Incorrect. The article states that the Iron Age followed the Bronze Age, not the Stone Age directly.",
-        "Incorrect. The article describes the Copper Age (Chalcolithic) as part of the transition to the Bronze Age, not as the next age in the three-age system.",
-        "Incorrect. The article does not mention a Golden Age."
+        "Correct. The article mentions the use of gold and copper for ornamentation.",
+        "Incorrect. Silver is not mentioned.",
+        "Incorrect. Bronze is not mentioned as an ornamental metal in the Stone Age.",
+        "Incorrect. Iron is not mentioned."
       ]
     },
     {
       "id": 6,
-      "question": "What percentage of human history does the Stone Age encompass?",
+      "question": "What marks the end of the Stone Age according to the article?",
       "options": [
-        "99%",
-        "90%",
-        "50%",
-        "75%"
+        "The melting and smelting of copper",
+        "The discovery of gold",
+        "The invention of the wheel",
+        "The first use of bone tools"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Stone Age encompasses 99% of human history.",
-        "Incorrect. The article states 99%, not 90%.",
-        "Incorrect. The article states 99%, not 50%.",
-        "Incorrect. The article states 99%, not 75%."
+        "Correct. The article states that the melting and smelting of copper marks the end of the Stone Age.",
+        "Incorrect. Gold was used earlier for ornamentation, not as an end marker.",
+        "Incorrect. The wheel is not mentioned.",
+        "Incorrect. Bone tools are mentioned but not as the end marker."
       ]
     },
     {
       "id": 7,
-      "question": "Where were the oldest stone tools excavated from Lomekwi 3 located?",
+      "question": "In Western Asia, the end of the Stone Age occurred by about what date?",
       "options": [
-        "West Turkana, northwestern Kenya",
-        "Gona, Ethiopia",
-        "Lower Awash Valley, Ethiopia",
-        "Lake Turkana, Kenya"
+        "3000 BC",
+        "4000 BC",
+        "2000 BC",
+        "1000 BC"
       ],
       "answer_explanations": [
-        "Correct. The article states that the oldest stone tools were excavated from Lomekwi 3 in West Turkana, northwestern Kenya.",
-        "Incorrect. The article states that older known stone tools prior to the Lomekwi discovery were found at Gona, Ethiopia, but not the Lomekwi 3 tools.",
-        "Incorrect. The article mentions fossilised animal bones with tool marks from the Lower Awash Valley, not the Lomekwi 3 stone tools.",
-        "Incorrect. The article mentions Kenyanthropus platyops was discovered in Lake Turkana, but the Lomekwi 3 tools were from West Turkana, northwestern Kenya."
+        "Correct. The article says in Western Asia this occurred by about 3000 BC.",
+        "Incorrect. 4000 BC is mentioned as a possible end date for the whole period, not specifically Western Asia.",
+        "Incorrect. 2000 BC is mentioned as a possible end date for the whole period, not specifically Western Asia.",
+        "Incorrect. 1000 BC is not mentioned."
       ]
     },
     {
       "id": 8,
-      "question": "What did Neolithic peoples transition into from hunter-gatherer societies?",
+      "question": "What term describes the period that followed the Stone Age?",
       "options": [
-        "Settled lifestyle of inhabiting towns and villages",
-        "Nomadic herding",
-        "Metalworking",
-        "Cave dwelling"
+        "Bronze Age",
+        "Iron Age",
+        "Mesolithic",
+        "Chalcolithic"
       ],
       "answer_explanations": [
-        "Correct. The article states that Neolithic peoples transitioned away from hunter-gatherer societies into the settled lifestyle of inhabiting towns and villages.",
-        "Incorrect. The article does not mention nomadic herding as the Neolithic transition.",
-        "Incorrect. The article associates metalworking with the end of the Stone Age, not the Neolithic transition.",
-        "Incorrect. The article does not mention cave dwelling as the Neolithic transition."
+        "Correct. The article says the term Bronze Age is used to describe the period that followed the Stone Age.",
+        "Incorrect. Iron Age is mentioned later as part of the three-age system, but not as the immediate successor.",
+        "Incorrect. Mesolithic is a subdivision of the Stone Age, not the following period.",
+        "Incorrect. Chalcolithic overlaps with the Neolithic, not the period after the Stone Age."
       ]
     },
     {
       "id": 9,
-      "question": "In which regions did the Stone Age end around 6000 BC?",
+      "question": "Which of the following is NOT mentioned as a possible maker of Stone Age artifacts?",
       "options": [
-        "The Middle East and Southeast Asia",
-        "Europe and North America",
-        "Sub-Saharan Africa",
-        "South America"
+        "Neanderthals",
+        "Modern humans",
+        "The genus Homo",
+        "Australopithecus"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Middle East and Southeast Asian regions progressed past Stone Age technology around 6000 BC.",
-        "Incorrect. The article states that Europe and the rest of Asia became post-Stone Age societies by about 4000 BC.",
-        "Incorrect. The article states that in Sub-Saharan Africa, the Stone Age was followed directly by the Iron Age, not ending around 6000 BC.",
-        "Incorrect. The article states that proto-Inca cultures of South America continued at a Stone Age level until around 2000 BC."
+        "Correct. Neanderthals are not mentioned in the introduction; the article mentions modern humans, Homo, Australopithecus, and Paranthropus.",
+        "Incorrect. The article says artifacts include tools used by modern humans.",
+        "Incorrect. The article mentions the genus Homo.",
+        "Incorrect. The article mentions Australopithecus."
       ]
     },
     {
       "id": 10,
-      "question": "What is lithic analysis?",
+      "question": "According to the article, what is the first period in the three-age system?",
       "options": [
-        "The measurement of stone tools to determine their typology, function and technologies",
-        "The study of ancient human bones",
-        "The analysis of cave paintings",
-        "The dating of fossilised animal bones"
+        "The Stone Age",
+        "The Bronze Age",
+        "The Iron Age",
+        "The Neolithic"
       ],
       "answer_explanations": [
-        "Correct. The article states that lithic analysis involves the measurement of stone tools to determine their typology, function and technologies involved.",
-        "Incorrect. The article does not define lithic analysis as the study of ancient human bones.",
-        "Incorrect. The article does not define lithic analysis as the analysis of cave paintings.",
-        "Incorrect. The article does not define lithic analysis as the dating of fossilised animal bones."
+        "Correct. The article says the Stone Age is the first period in the three-age system.",
+        "Incorrect. The Bronze Age is the second period.",
+        "Incorrect. The Iron Age is the third period.",
+        "Incorrect. The Neolithic is a subdivision of the Stone Age, not a period in the three-age system."
       ]
     }
   ]

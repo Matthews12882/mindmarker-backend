@@ -5,6 +5,22 @@
   "questions": [
     {
       "id": 1,
+      "question": "In which hemispheres is South America located?",
+      "options": [
+        "Entirely in the Western Hemisphere and mostly in the Southern Hemisphere",
+        "Entirely in the Eastern Hemisphere and mostly in the Northern Hemisphere",
+        "Entirely in the Northern Hemisphere and mostly in the Western Hemisphere",
+        "Entirely in the Southern Hemisphere and mostly in the Eastern Hemisphere"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that South America is 'entirely in the Western Hemisphere and mostly in the Southern Hemisphere'.",
+        "Incorrect. The article does not say South America is in the Eastern Hemisphere or mostly in the Northern Hemisphere.",
+        "Incorrect. The article says it is mostly in the Southern Hemisphere, not the Northern Hemisphere.",
+        "Incorrect. The article says it is entirely in the Western Hemisphere, not mostly in the Eastern Hemisphere."
+      ]
+    },
+    {
+      "id": 2,
       "question": "Which ocean borders South America on the west?",
       "options": [
         "Pacific Ocean",
@@ -13,31 +29,63 @@
         "Arctic Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states that South America is bordered on the west by the Pacific Ocean.",
-        "Incorrect. The Atlantic Ocean borders South America on the north and east, not the west.",
-        "Incorrect. The Indian Ocean is not mentioned as bordering South America.",
-        "Incorrect. The Arctic Ocean is not mentioned as bordering South America."
-      ]
-    },
-    {
-      "id": 2,
-      "question": "How many sovereign countries does South America include?",
-      "options": [
-        "twelve",
-        "ten",
-        "fourteen",
-        "eleven"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists twelve sovereign countries in South America.",
-        "Incorrect. The article states twelve sovereign countries, not ten.",
-        "Incorrect. The article states twelve sovereign countries, not fourteen.",
-        "Incorrect. The article states twelve sovereign countries, not eleven."
+        "Correct. The article says South America is 'bordered on the west by the Pacific Ocean'.",
+        "Incorrect. The Atlantic Ocean borders the north and east, not the west.",
+        "Incorrect. The Indian Ocean is not mentioned as a border of South America.",
+        "Incorrect. The Arctic Ocean is not mentioned as a border of South America."
       ]
     },
     {
       "id": 3,
-      "question": "Which country is described as the most populous South American country?",
+      "question": "Which of these is a dependent territory of South America according to the article?",
+      "options": [
+        "Falkland Islands",
+        "Brazil",
+        "Chile",
+        "Peru"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the Falkland Islands as one of the two dependent territories.",
+        "Incorrect. Brazil is listed as a sovereign country, not a dependent territory.",
+        "Incorrect. Chile is listed as a sovereign country, not a dependent territory.",
+        "Incorrect. Peru is listed as a sovereign country, not a dependent territory."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How many sovereign countries are included in South America according to the article?",
+      "options": [
+        "Twelve",
+        "Ten",
+        "Fourteen",
+        "Fifteen"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the continent includes 'twelve sovereign countries'.",
+        "Incorrect. The article says twelve, not ten.",
+        "Incorrect. The article says twelve, not fourteen.",
+        "Incorrect. The article says twelve, not fifteen."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the area of South America as stated in the article?",
+      "options": [
+        "17,840,000 square kilometers",
+        "6,890,000 square kilometers",
+        "434,000,000 square kilometers",
+        "17,840,000 square miles"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'South America has an area of 17,840,000 square kilometers'.",
+        "Incorrect. 6,890,000 is the area in square miles, not square kilometers.",
+        "Incorrect. 434 million is the population estimate, not the area.",
+        "Incorrect. The area in square kilometers is 17,840,000, not square miles."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which country has almost half of the continent's population?",
       "options": [
         "Brazil",
         "Colombia",
@@ -45,14 +93,14 @@
         "Peru"
       ],
       "answer_explanations": [
-        "Correct. The article states that Brazil is by far the most populous South American country.",
-        "Incorrect. Colombia is mentioned as following Brazil in population, not as the most populous.",
-        "Incorrect. Argentina is mentioned after Colombia, not as the most populous.",
-        "Incorrect. Peru is listed after Venezuela, not as the most populous."
+        "Correct. The article says 'Brazil is by far the most populous South American country, with almost half of the continent's population'.",
+        "Incorrect. Colombia is mentioned as following Brazil in population, but not as having almost half.",
+        "Incorrect. Argentina is mentioned as following Brazil, but not as having almost half.",
+        "Incorrect. Peru is mentioned as following Brazil, but not as having almost half."
       ]
     },
     {
-      "id": 4,
+      "id": 7,
       "question": "Which mountain range dominates the geography of western South America?",
       "options": [
         "Andes Mountains",
@@ -61,106 +109,58 @@
         "Alps"
       ],
       "answer_explanations": [
-        "Correct. The article states that the geography of western South America is dominated by the Andes Mountains.",
-        "Incorrect. The Rocky Mountains are not mentioned in the article as part of South America.",
-        "Incorrect. The Himalayas are not located in South America according to the article.",
-        "Incorrect. The Alps are not mentioned in the article as part of South America."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "In what year did Portugal and Spain sign the Treaty of Tordesillas?",
-      "options": [
-        "1494",
-        "1492",
-        "1500",
-        "1530"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Portugal and Spain signed the Treaty of Tordesillas in 1494.",
-        "Incorrect. The article specifies 1494, not 1492.",
-        "Incorrect. The article specifies 1494, not 1500.",
-        "Incorrect. The 1530s mark the beginning of exploitation by conquistadors, not the treaty signing."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "Which two languages are spoken by the overwhelming majority of South Americans?",
-      "options": [
-        "Portuguese and Spanish",
-        "English and French",
-        "Quechua and Aymara",
-        "Dutch and German"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the overwhelming majority of South Americans speak Portuguese or Spanish.",
-        "Incorrect. English and French are not identified as the majority languages in the article.",
-        "Incorrect. Quechua and Aymara are mentioned in the context of evangelization, not as the majority languages.",
-        "Incorrect. Dutch and German are not identified as the majority languages in the article."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "Which civilization held its capital at the great city of Cusco?",
-      "options": [
-        "Inca civilization",
-        "Moche civilization",
-        "ChavÃ­n civilization",
-        "Tiwanaku civilization"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the Inca civilization held its capital at Cusco.",
-        "Incorrect. The Moche civilization is described as flourishing on the northern coast of Peru, not with its capital at Cusco.",
-        "Incorrect. The ChavÃ­n civilization is associated with ChavÃ­n de HuÃ¡ntar, not Cusco.",
-        "Incorrect. Tiwanaku is described as being on the Altiplano in Bolivia, not with its capital at Cusco."
+        "Correct. The article states that 'the geography of western South America is dominated by the Andes Mountains'.",
+        "Incorrect. The Rocky Mountains are not mentioned in the article.",
+        "Incorrect. The Himalayas are not mentioned in the article.",
+        "Incorrect. The Alps are not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "Which group resisted European and Chilean settlers in Central and Southern Chile for more than 300 years?",
+      "question": "Which river is NOT mentioned as flowing in the eastern part of South America?",
       "options": [
-        "Mapuche",
-        "Inca",
-        "Muisca",
-        "ChimÃº"
+        "Nile",
+        "Amazon",
+        "Orinoco",
+        "ParanÃ¡"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Mapuche in Central and Southern Chile resisted European and Chilean settlers for more than 300 years.",
-        "Incorrect. The Inca are described as dominating the Andes region, not resisting settlers in Chile for 300 years.",
-        "Incorrect. The Muisca are described as the main indigenous civilization in what is now Colombia.",
-        "Incorrect. The ChimÃº Empire is described as being on the Peruvian northern coast."
+        "Correct. The Nile is not mentioned in the article; the article mentions the Amazon, Orinoco, and ParanÃ¡.",
+        "Incorrect. The Amazon is mentioned as flowing in the eastern part.",
+        "Incorrect. The Orinoco is mentioned as flowing in the eastern part.",
+        "Incorrect. The ParanÃ¡ is mentioned as flowing in the eastern part."
       ]
     },
     {
       "id": 9,
-      "question": "Which river is mentioned as flowing through the vast lowlands of eastern South America?",
+      "question": "What is the origin of the continent's cultural and ethnic outlook according to the article?",
       "options": [
-        "Amazon",
-        "Nile",
-        "Mississippi",
-        "Yangtze"
+        "Interaction of Indigenous peoples with European conquerors and immigrants, and African slaves",
+        "Interaction of Asian traders with European settlers",
+        "Interaction of African explorers with Indigenous peoples",
+        "Interaction of European conquerors with Asian immigrants"
       ],
       "answer_explanations": [
-        "Correct. The article lists the Amazon among rivers that flow through the vast lowlands of eastern South America.",
-        "Incorrect. The Nile is not mentioned in the article as flowing through South America.",
-        "Incorrect. The Mississippi is not mentioned in the article as flowing through South America.",
-        "Incorrect. The Yangtze is not mentioned in the article as flowing through South America."
+        "Correct. The article says the origin is 'the interaction of Indigenous peoples with European conquerors and immigrants and, more locally, with African slaves'.",
+        "Incorrect. The article does not mention Asian traders.",
+        "Incorrect. The article does not mention African explorers.",
+        "Incorrect. The article does not mention Asian immigrants."
       ]
     },
     {
       "id": 10,
-      "question": "What is the estimated population of South America as of 2021?",
+      "question": "Which languages do the overwhelming majority of South Americans speak?",
       "options": [
-        "more than 434 million",
-        "more than 500 million",
-        "more than 300 million",
-        "more than 600 million"
+        "Portuguese or Spanish",
+        "English or French",
+        "Dutch or German",
+        "Italian or Portuguese"
       ],
       "answer_explanations": [
-        "Correct. The article states that South America's population as of 2021 has been estimated at more than 434 million.",
-        "Incorrect. The article gives the estimate as more than 434 million, not more than 500 million.",
-        "Incorrect. The article gives the estimate as more than 434 million, not more than 300 million.",
-        "Incorrect. The article gives the estimate as more than 434 million, not more than 600 million."
+        "Correct. The article states that 'the overwhelming majority of South Americans speak Portuguese or Spanish'.",
+        "Incorrect. English and French are not mentioned as the majority languages.",
+        "Incorrect. Dutch and German are not mentioned as the majority languages.",
+        "Incorrect. Italian is not mentioned as a majority language."
       ]
     }
   ]

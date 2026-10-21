@@ -5,39 +5,71 @@
   "questions": [
     {
       "id": 1,
-      "question": "From about what years did the Aztec civilization flourish in central Mexico?",
+      "question": "What was the Aztec civilization?",
       "options": [
-        "1300 to 1521",
-        "1427 to 1519",
-        "1521 to 1821",
-        "6th century CE to 900 CE"
+        "A Mesoamerican civilization that flourished in central Mexico",
+        "A South American civilization that flourished in Peru",
+        "A North American civilization that flourished in Canada",
+        "A European civilization that flourished in Spain"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Aztecs flourished in central Mexico from about 1300 to 1521.",
-        "Incorrect. 1427 marks the establishment of the Aztec Empire alliance, not the full span of Aztec civilization.",
-        "Incorrect. 1521 to 1821 refers to the Spanish colonial era (New Spain), not the Aztec flourishing period.",
-        "Incorrect. The 6th century CE to 900 CE relates to earlier central Mexican history, such as Teotihuacan and the postclassic period."
+        "Correct. The article states that the Aztecs were a Mesoamerican civilization that flourished in central Mexico.",
+        "Incorrect. The article specifies central Mexico, not Peru or South America.",
+        "Incorrect. The article specifies central Mexico, not Canada or North America in general.",
+        "Incorrect. The article specifies Mesoamerica, not Europe or Spain."
       ]
     },
     {
       "id": 2,
-      "question": "Which three city-states formed the Aztec Empire in 1427?",
+      "question": "From about what years did the Aztec civilization flourish?",
       "options": [
-        "Tenochtitlan, Tetzcoco, and Tlacopan",
-        "Tenochtitlan, Texcoco, and Tula",
-        "Tetzcoco, Tlacopan, and Azcapotzalco",
-        "Tenochtitlan, Tlatelolco, and Culhuacan"
+        "1300 to 1521",
+        "1200 to 1500",
+        "1400 to 1600",
+        "1000 to 1300"
       ],
       "answer_explanations": [
-        "Correct. The article states the Aztec Empire was a confederation of three city-states established in 1427: Tenochtitlan, Tetzcoco, and Tlacopan.",
-        "Incorrect. Tula is not listed as one of the three founding city-states of the Aztec Empire.",
-        "Incorrect. Azcapotzalco was the Tepanec state defeated by the alliance, not a member of it.",
-        "Incorrect. Tlatelolco and Culhuacan are not part of the three city-states that formed the empire in 1427."
+        "Correct. The article says it flourished from about 1300 to 1521.",
+        "Incorrect. The article gives the range as 1300 to 1521, not 1200 to 1500.",
+        "Incorrect. The article gives the range as 1300 to 1521, not 1400 to 1600.",
+        "Incorrect. The article gives the range as 1300 to 1521, not 1000 to 1300."
       ]
     },
     {
       "id": 3,
-      "question": "Which city-state became the dominant power of the Aztec Triple Alliance?",
+      "question": "Which language did many Aztec people speak?",
+      "options": [
+        "Nahuatl",
+        "Spanish",
+        "English",
+        "French"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the Aztec people included those who spoke Nahuatl.",
+        "Incorrect. Spanish is not mentioned as the language of the Aztecs.",
+        "Incorrect. English is not mentioned as the language of the Aztecs.",
+        "Incorrect. French is not mentioned as the language of the Aztecs."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What was the Aztec Empire a confederation of?",
+      "options": [
+        "Three city-states",
+        "Two city-states",
+        "Five city-states",
+        "Ten city-states"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the Aztec Empire was a confederation of three city-states established in 1427.",
+        "Incorrect. The article says three, not two.",
+        "Incorrect. The article says three, not five.",
+        "Incorrect. The article says three, not ten."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which city was the capital of the Mexica?",
       "options": [
         "Tenochtitlan",
         "Tetzcoco",
@@ -45,122 +77,90 @@
         "Azcapotzalco"
       ],
       "answer_explanations": [
-        "Correct. The article states that soon Texcoco and Tlacopan were relegated to junior partnership, with Tenochtitlan the dominant power.",
-        "Incorrect. The article says Tetzcoco was relegated to junior partnership in the alliance.",
-        "Incorrect. The article says Tlacopan was relegated to junior partnership in the alliance.",
-        "Incorrect. Azcapotzalco was the previously dominant Tepanec state that the alliance defeated."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What did client city-states pay to the Aztec emperor, the Huey Tlatoani?",
-      "options": [
-        "taxes",
-        "tribute",
-        "marriage alliances",
-        "military garrisons"
-      ],
-      "answer_explanations": [
-        "Correct. The article states client city-states paid taxes, not tribute, to the Aztec emperor, the Huey Tlatoani.",
-        "Incorrect. The article explicitly says client city-states paid taxes, not tribute.",
-        "Incorrect. Marriage alliances were a method of domination, not a payment from client city-states.",
-        "Incorrect. Military garrisons were not used; the empire was not a true territorial empire controlling territory by garrisons."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "Who led the Spanish conquistadors that arrived in 1519?",
-      "options": [
-        "HernÃ¡n CortÃ©s",
-        "CuauhtÃ©moc",
-        "Bernal DÃ­az del Castillo",
-        "Bernardino de SahagÃºn"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Spanish conquistadors led by HernÃ¡n CortÃ©s arrived in 1519.",
-        "Incorrect. CuauhtÃ©moc was the captured Aztec emperor, not the Spanish leader.",
-        "Incorrect. Bernal DÃ­az del Castillo wrote a history of the conquest but did not lead the conquistadors.",
-        "Incorrect. Bernardino de SahagÃºn was a Franciscan friar who created the Florentine Codex, not a conquistador leader."
+        "Correct. The article says Tenochtitlan was the capital of Mexica.",
+        "Incorrect. Tetzcoco was one of the three city-states but not the capital of Mexica.",
+        "Incorrect. Tlacopan was one of the three city-states but not the capital of Mexica.",
+        "Incorrect. Azcapotzalco is not mentioned as the capital of Mexica."
       ]
     },
     {
       "id": 6,
-      "question": "On what date did Tenochtitlan fall?",
+      "question": "When was the Aztec Empire established?",
       "options": [
-        "13 August 1521",
-        "13 August 1519",
+        "1427",
+        "1521",
         "1300",
-        "1427"
+        "1519"
       ],
       "answer_explanations": [
-        "Correct. The article states the fall of Tenochtitlan occurred on 13 August 1521.",
-        "Incorrect. 1519 is when the empire reached its maximum extent and CortÃ©s arrived, not when Tenochtitlan fell.",
-        "Incorrect. 1300 is approximately when the Aztec civilization began to flourish.",
-        "Incorrect. 1427 is when the Aztec Empire alliance was established."
+        "Correct. The article says the Aztec Empire was established in 1427.",
+        "Incorrect. 1521 is the year Tenochtitlan fell, not when the empire was established.",
+        "Incorrect. 1300 is the approximate start of the civilization, not the empire's establishment.",
+        "Incorrect. 1519 is when the empire reached its maximum extent, not when it was established."
       ]
     },
     {
       "id": 7,
-      "question": "What did the Spanish found on the ruins of Tenochtitlan?",
+      "question": "What are the three city-states that formed the Aztec Empire?",
       "options": [
-        "Mexico City",
-        "Texcoco",
-        "Tlatelolco",
-        "AztlÃ¡n"
+        "Tenochtitlan, Tetzcoco, and Tlacopan",
+        "Tenochtitlan, Texcoco, and Azcapotzalco",
+        "Tlacopan, Azcapotzalco, and Tenochtitlan",
+        "Tetzcoco, Tlacopan, and Azcapotzalco"
       ],
       "answer_explanations": [
-        "Correct. The article states the Spanish founded Mexico City on the ruins of Tenochtitlan.",
-        "Incorrect. Texcoco was an allied city-state, not founded on Tenochtitlan's ruins.",
-        "Incorrect. Tlatelolco was part of the Mexica tribal designation, not a Spanish foundation on the ruins.",
-        "Incorrect. AztlÃ¡n is a mythical place of origin, not a city founded by the Spanish."
+        "Correct. The article lists Tenochtitlan, Tetzcoco, and Tlacopan as the three city-states.",
+        "Incorrect. Azcapotzalco is not one of the three; it was the Tepanec state they defeated.",
+        "Incorrect. Azcapotzalco is not one of the three; it was the Tepanec state they defeated.",
+        "Incorrect. Azcapotzalco is not one of the three; it was the Tepanec state they defeated."
       ]
     },
     {
       "id": 8,
-      "question": "What do the Nahuatl words aztÄcatl and aztÄcah mean?",
+      "question": "Where did the Mexica found the city-state of Tenochtitlan?",
       "options": [
-        "people from AztlÃ¡n",
-        "people from Tenochtitlan",
-        "nobility",
-        "commoners"
+        "On islets in Lake Texcoco",
+        "On a mountain top",
+        "In a desert",
+        "On the coast of the Pacific Ocean"
       ],
       "answer_explanations": [
-        "Correct. The definitions section states aztÄcatl and aztÄcah mean \"people from AztlÃ¡n.\"",
-        "Incorrect. The article does not define these words as people from Tenochtitlan.",
-        "Incorrect. Nobility is referred to as pipiltin in the article.",
-        "Incorrect. Commoners are referred to as macehualtin in the article."
+        "Correct. The article says they founded Tenochtitlan on unpromising islets in Lake Texcoco.",
+        "Incorrect. The article mentions islets in a lake, not a mountain top.",
+        "Incorrect. The article mentions islets in a lake, not a desert.",
+        "Incorrect. The article mentions Lake Texcoco, not the Pacific coast."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following is a source of knowledge about Aztec society mentioned in the article?",
+      "question": "What did the Aztec Empire conquer?",
       "options": [
-        "archaeological evidence",
-        "modern Nahuatl newspapers",
-        "Aztec oral tradition only",
-        "20th-century photographs"
+        "Other city-states throughout Mesoamerica",
+        "European countries",
+        "African kingdoms",
+        "Asian empires"
       ],
       "answer_explanations": [
-        "Correct. The article states Aztec culture and history are primarily known through archaeological evidence found in excavations such as Templo Mayor.",
-        "Incorrect. Modern Nahuatl newspapers are not mentioned as a source in the article.",
-        "Incorrect. The article lists multiple written and archaeological sources, not oral tradition only.",
-        "Incorrect. 20th-century photographs are not mentioned as a source in the article."
+        "Correct. The article says the Aztec Empire conquered other city-states throughout Mesoamerica.",
+        "Incorrect. The article mentions Mesoamerica, not Europe.",
+        "Incorrect. The article mentions Mesoamerica, not Africa.",
+        "Incorrect. The article mentions Mesoamerica, not Asia."
       ]
     },
     {
       "id": 10,
-      "question": "Who originated the modern usage of the term \"Aztec\" in 1810?",
+      "question": "What is the term 'Aztecs' often narrowly restricted to?",
       "options": [
-        "Alexander von Humboldt",
-        "William H. Prescott",
-        "Robert H. Barlow",
-        "Pedro Carrasco"
+        "The Mexica of Tenochtitlan",
+        "All indigenous peoples of Mexico",
+        "The Spanish colonizers",
+        "The Tepanec state"
       ],
       "answer_explanations": [
-        "Correct. The article states Alexander von Humboldt originated the modern usage of \"Aztec\" in 1810.",
-        "Incorrect. William H. Prescott's 1843 work led to the term's widespread adoption, but he did not originate it in 1810.",
-        "Incorrect. Robert H. Barlow criticized the term and preferred \"Culhua-Mexica.\"",
-        "Incorrect. Pedro Carrasco preferred the term \"Tenochca Empire\" and criticized the term \"Aztec.\""
+        "Correct. The article says the term Aztecs is often narrowly restricted to the Mexica of Tenochtitlan.",
+        "Incorrect. The article says it is broadly used for Nahua polities, but narrowly it refers to the Mexica of Tenochtitlan.",
+        "Incorrect. The article does not refer to Spanish colonizers as Aztecs.",
+        "Incorrect. The Tepanec state is not mentioned as the narrow meaning of Aztecs."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which term describes the systematic discipline that builds and organises knowledge in the form of testable explanations about nature and society?",
+      "question": "What is science defined as in the article?",
       "options": [
-        "Science",
-        "Philosophy",
-        "Technology",
-        "Engineering"
+        "A systematic discipline that builds and organises knowledge in the form of testable explanations about nature and society",
+        "A collection of random facts about nature and society",
+        "A method of making guesses about nature without testing them",
+        "A way of studying only the physical world"
       ],
       "answer_explanations": [
-        "Correct. The article defines science as \"a systematic discipline that builds and organises knowledge in the form of testable explanations about nature and society.\"",
-        "Incorrect. Philosophy is not described as building testable explanations; it is a broader field of inquiry.",
-        "Incorrect. Technology refers to the application of scientific knowledge, not the systematic discipline itself.",
-        "Incorrect. Engineering is an applied science focused on design and building."
+        "Correct. The article states that science is 'a systematic discipline that builds and organises knowledge in the form of testable explanations about nature and society'.",
+        "Incorrect. The article describes science as systematic and organised, not random.",
+        "Incorrect. Science involves testing hypotheses with evidence, not just making guesses.",
+        "Incorrect. Science includes both natural and social sciences, not just the physical world."
       ]
     },
     {
       "id": 2,
-      "question": "Which method is described as an empirical cycle involving observations, hypotheses, testing with evidence, and drawing conclusions?",
+      "question": "What is the scientific method?",
       "options": [
-        "The scientific method",
-        "The experimental method",
-        "The inductive method",
-        "The deductive method"
+        "An empirical cycle involving observations, hypotheses, testing with evidence, and drawing conclusions",
+        "A way to make observations without forming hypotheses",
+        "A method that relies only on deductive reasoning",
+        "A process of making conclusions without testing"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"It is driven by the scientific method: an empirical cycle that typically involves making observations, producing hypotheses, testing them with evidence, and drawing conclusions.\"",
-        "Incorrect. The experimental method is a component but not the full cycle described.",
-        "Incorrect. Inductive reasoning is part of the method but not the entire cycle.",
-        "Incorrect. Deductive reasoning is used in formal sciences, not the empirical cycle."
+        "Correct. The article describes the scientific method as 'an empirical cycle that typically involves making observations, producing hypotheses, testing them with evidence, and drawing conclusions'.",
+        "Incorrect. The scientific method includes forming and testing hypotheses, not just observing.",
+        "Incorrect. Deductive reasoning is characteristic of formal sciences, not the scientific method.",
+        "Incorrect. The scientific method involves testing hypotheses, not jumping to conclusions."
       ]
     },
     {
       "id": 3,
-      "question": "Which two major branches are modern science typically divided into?",
+      "question": "Which are the two major branches of modern science?",
       "options": [
         "Natural sciences and social sciences",
-        "Physical sciences and life sciences",
-        "Hard sciences and soft sciences",
-        "Applied sciences and theoretical sciences"
+        "Formal sciences and applied sciences",
+        "Physics and chemistry",
+        "Biology and mathematics"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"Modern science is typically divided into two major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies.\"",
-        "Incorrect. Physical sciences and life sciences are subcategories, not the primary division.",
-        "Incorrect. 'Hard' and 'soft' are informal labels, not the official division.",
-        "Incorrect. Applied and theoretical are further classifications, not the main branches."
+        "Correct. The article states that 'Modern science is typically divided into two major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies'.",
+        "Incorrect. Formal and applied sciences are mentioned but not as the two major branches.",
+        "Incorrect. Physics and chemistry are part of natural sciences, not the major branches.",
+        "Incorrect. Biology and mathematics are separate disciplines, not the major branches."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is NOT listed as a separate field because it relies on deductive reasoning rather than the scientific method?",
+      "question": "Why are logic, mathematics, and theoretical computer science considered separate from natural and social sciences?",
       "options": [
-        "Logic",
-        "Mathematics",
-        "Theoretical computer science",
-        "Applied science"
+        "Because they rely on deductive reasoning instead of the scientific method",
+        "Because they are not useful for practical purposes",
+        "Because they do not produce knowledge",
+        "Because they are not studied by scientists"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"While referred to as the formal sciences, logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology.\" Applied science is not listed as separate; it uses scientific knowledge for practical purposes.",
-        "Incorrect. Logic is listed as a separate field relying on deductive reasoning.",
-        "Incorrect. Mathematics is listed as a separate field relying on deductive reasoning.",
-        "Incorrect. Theoretical computer science is listed as a separate field relying on deductive reasoning."
+        "Correct. The article says these are 'typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology'.",
+        "Incorrect. The article does not say they are not useful.",
+        "Incorrect. They do produce knowledge, but through a different methodology.",
+        "Incorrect. They are studied by scientists, but they are classified separately."
       ]
     },
     {
       "id": 5,
-      "question": "Which ancient civilization is credited with developing a non-positional decimal numbering system and solving practical problems using geometry?",
+      "question": "What are applied sciences?",
       "options": [
-        "Ancient Egypt",
-        "Mesopotamia",
-        "Ancient Greece",
-        "Indus Valley"
+        "Disciplines that use scientific knowledge for practical purposes, such as engineering and medicine",
+        "Disciplines that study the physical world",
+        "Disciplines that rely only on deductive reasoning",
+        "Disciplines that are not based on scientific knowledge"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"From the 3rd millennium BCE, the ancient Egyptians developed a non-positional decimal numbering system, solved practical problems using geometry, and developed a calendar.\"",
-        "Incorrect. Mesopotamia contributed to mathematics but not the specific non-positional decimal system.",
-        "Incorrect. Ancient Greece built on earlier systems but did not develop the Egyptian decimal system.",
-        "Incorrect. The Indus Valley civilization is not mentioned in this context."
+        "Correct. The article states that 'applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine'.",
+        "Incorrect. That describes natural sciences.",
+        "Incorrect. That describes formal sciences.",
+        "Incorrect. Applied sciences are based on scientific knowledge."
       ]
     },
     {
       "id": 6,
-      "question": "Which term is used in the article to describe early human activities that resemble modern science but are not fully equivalent?",
+      "question": "Where did the earliest identifiable predecessors to modern science date to?",
       "options": [
-        "Protoscience",
-        "Pseudoscience",
-        "Early science",
-        "Preâscience"
+        "Bronze Age Egypt and Mesopotamia",
+        "Ancient Greece",
+        "The Roman Empire",
+        "The Islamic Golden Age"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: \"Some scholars use the term 'protoscience' to label activities in the past that resemble modern science in some but not all features; however, this label has also been criticised as denigrating...\"",
-        "Incorrect. Pseudoscience refers to false or fraudulent claims, not historical precursors.",
-        "Incorrect. 'Early science' is not a term used in the article.",
-        "Incorrect. 'Preâscience' is not a term used in the article."
+        "Correct. The article says 'the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia'.",
+        "Incorrect. Greece came later and was influenced by earlier civilizations.",
+        "Incorrect. Rome came after the Bronze Age.",
+        "Incorrect. The Islamic Golden Age was much later."
       ]
     },
     {
       "id": 7,
-      "question": "Which ancient Greek philosopher is known as \"The Father of Medicine\" according to the article?",
+      "question": "What major change happened during the Scientific Revolution that began in the 16th century?",
       "options": [
-        "Hippocrates",
-        "Aristotle",
-        "Plato",
-        "Socrates"
+        "New ideas and discoveries departed from previous Greek conceptions and traditions",
+        "The scientific method was abandoned",
+        "Natural philosophy was completely replaced by religion",
+        "Science became less important"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"The Greek doctor Hippocrates established the tradition of systematic medical science and is known as '[The Father of Medicine]'\"",
-        "Incorrect. Aristotle contributed to many fields but not specifically as the father of medicine.",
-        "Incorrect. Plato focused on philosophy and politics, not medicine.",
-        "Incorrect. Socrates contributed to epistemology and the Socratic method."
+        "Correct. The article says the Scientific Revolution 'began in the 16th century as new ideas and discoveries departed from previous Greek conceptions and traditions'.",
+        "Incorrect. The scientific method played a greater role, not less.",
+        "Incorrect. Natural philosophy was transformed, not replaced by religion.",
+        "Incorrect. Science became more important, not less."
       ]
     },
     {
       "id": 8,
-      "question": "Which term did William Whewell introduce in 1834 to describe a person who conducts scientific research?",
+      "question": "Who introduced the term 'scientist' in 1834?",
       "options": [
-        "Scientist",
-        "Researcher",
-        "Scholar",
-        "Academic"
+        "William Whewell",
+        "Mary Somerville",
+        "Aristotle",
+        "Galileo Galilei"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"In 1834, William Whewell introduced the term scientist in a review of Mary Somerville's book...\"",
-        "Incorrect. 'Researcher' is a generic term not introduced by Whewell.",
-        "Incorrect. 'Scholar' is not the specific term introduced.",
-        "Incorrect. 'Academic' is a broader term not introduced by Whewell."
+        "Correct. The article states that 'In 1834, William Whewell introduced the term scientist in a review of Mary Somerville's book'.",
+        "Incorrect. Mary Somerville wrote the book, but Whewell introduced the term.",
+        "Incorrect. Aristotle lived much earlier.",
+        "Incorrect. Galileo lived centuries earlier."
       ]
     },
     {
       "id": 9,
-      "question": "Which ancient Greek astronomer first proposed a heliocentric model of the universe?",
+      "question": "What does the word 'science' originally mean in Latin?",
       "options": [
-        "Aristarchus of Samos",
-        "Ptolemy",
-        "Hipparchus",
-        "Eratosthenes"
+        "Knowledge, awareness, understanding",
+        "To test",
+        "To observe",
+        "Nature"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"In the 3rd century BCE, Greek astronomer Aristarchus of Samos was the first to propose a heliocentric model of the universe, with the Sun at the centre and all the planets orbiting it.\"",
-        "Incorrect. Ptolemy's Almagest presents a geocentric model.",
-        "Incorrect. Hipparchus contributed to astronomy but not heliocentrism.",
-        "Incorrect. Eratosthenes measured Earth's circumference."
+        "Correct. The article says the Latin word 'scientia' means 'knowledge, awareness, understanding'.",
+        "Incorrect. 'To test' is not the Latin meaning.",
+        "Incorrect. 'To observe' is not the Latin meaning.",
+        "Incorrect. 'Nature' is not the Latin meaning."
       ]
     },
     {
       "id": 10,
-      "question": "Which Latin word is the etymological root of the English word 'science'?",
+      "question": "What did the ancient Mesopotamians use knowledge about natural chemicals for?",
       "options": [
-        "Scientia",
-        "Scientia",
-        "Scientia",
-        "Scientia"
+        "Manufacturing pottery, faience, glass, soap, metals, lime plaster, and waterproofing",
+        "Creating the first telescopes",
+        "Developing the theory of atoms",
+        "Building the pyramids"
       ],
       "answer_explanations": [
-        "Correct. The article explains: \"The word science has been used in English since the 14th century... The word was borrowed from the Anglo-Norman language as the suffix -cience, which was borrowed from the Latin word scientia, meaning 'knowledge, awareness, understanding'\"",
-        "Incorrect. The other options are duplicates; the correct root is scientia.",
-        "Incorrect. The other options are duplicates; the correct root is scientia.",
-        "Incorrect. The other options are duplicates; the correct root is scientia."
+        "Correct. The article says the Mesopotamians 'used knowledge about the properties of various natural chemicals for manufacturing pottery, faience, glass, soap, metals, lime plaster, and waterproofing'.",
+        "Incorrect. Telescopes were not mentioned in this context.",
+        "Incorrect. The theory of atoms was developed by Greek philosophers.",
+        "Incorrect. The pyramids were built by Egyptians, not Mesopotamians."
       ]
     }
   ]

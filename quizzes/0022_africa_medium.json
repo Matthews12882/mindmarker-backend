@@ -5,55 +5,39 @@
   "questions": [
     {
       "id": 1,
-      "question": "What percentage of Earth's land area does Africa cover?",
+      "question": "What is Africa's rank among the world's continents in terms of size and population?",
       "options": [
-        "around 20%",
-        "around 6%",
-        "around 30%",
-        "around 10%"
+        "Second-largest and second-most populous after Asia",
+        "Largest and most populous",
+        "Third-largest and third-most populous",
+        "Smallest and least populous"
       ],
       "answer_explanations": [
-        "Correct. The article states Africa covers around 20% of Earth's land area.",
-        "Incorrect. 6% refers to Africa's share of Earth's total surface area, not land area.",
-        "Incorrect. The article does not state Africa covers around 30% of Earth's land area.",
-        "Incorrect. The article does not state Africa covers around 10% of Earth's land area."
+        "Correct. The article states Africa is the world's second-largest and second-most populous continent after Asia.",
+        "Incorrect. The article says Asia is the largest and most populous, with Africa second.",
+        "Incorrect. The article does not rank Africa third in size or population.",
+        "Incorrect. Africa is not the smallest or least populous continent."
       ]
     },
     {
       "id": 2,
-      "question": "What was Africa's median age in 2012 according to the article?",
+      "question": "Which country is the largest in Africa by area, and which is the largest by population?",
       "options": [
-        "19.7",
-        "30.4",
-        "25.0",
-        "15.2"
+        "Algeria is largest by area, Nigeria is largest by population",
+        "Nigeria is largest by area, Algeria is largest by population",
+        "Egypt is largest by area, Ethiopia is largest by population",
+        "South Africa is largest by area, Kenya is largest by population"
       ],
       "answer_explanations": [
-        "Correct. The article states the median age in Africa in 2012 was 19.7.",
-        "Incorrect. 30.4 was the worldwide median age in 2012, not Africa's.",
-        "Incorrect. The article does not mention a median age of 25.0 for Africa.",
-        "Incorrect. The article does not mention a median age of 15.2 for Africa."
+        "Correct. The article explicitly states Algeria is the largest country by area and Nigeria is the largest by population.",
+        "Incorrect. The article reverses these: Algeria is largest by area, Nigeria by population.",
+        "Incorrect. The article does not name Egypt or Ethiopia for these rankings.",
+        "Incorrect. The article does not name South Africa or Kenya for these rankings."
       ]
     },
     {
       "id": 3,
-      "question": "Which country is the largest in Africa by population?",
-      "options": [
-        "Nigeria",
-        "Algeria",
-        "Ethiopia",
-        "Egypt"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Nigeria is the largest country in Africa by population.",
-        "Incorrect. Algeria is the largest country by area, not by population.",
-        "Incorrect. The article does not identify Ethiopia as the largest by population.",
-        "Incorrect. The article does not identify Egypt as the largest by population."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Where is the African Union headquartered?",
+      "question": "What is the headquarters location of the African Union?",
       "options": [
         "Addis Ababa",
         "Cairo",
@@ -61,106 +45,122 @@
         "Pretoria"
       ],
       "answer_explanations": [
-        "Correct. The article states the African Union is headquartered in Addis Ababa.",
-        "Incorrect. The article does not state the African Union is headquartered in Cairo.",
-        "Incorrect. The article does not state the African Union is headquartered in Nairobi.",
-        "Incorrect. The article does not state the African Union is headquartered in Pretoria."
+        "Correct. The article says the African Union is headquartered in Addis Ababa.",
+        "Incorrect. The article does not mention Cairo as the headquarters.",
+        "Incorrect. The article does not mention Nairobi as the headquarters.",
+        "Incorrect. The article does not mention Pretoria as the headquarters."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "According to the article, which continent is the most vulnerable to climate change, as identified by the UN Intergovernmental Panel on Climate Change?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "South America"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the UN Intergovernmental Panel on Climate Change has identified Africa as the continent most vulnerable to climate change.",
+        "Incorrect. The article specifically names Africa, not Asia.",
+        "Incorrect. The article specifically names Africa, not Europe.",
+        "Incorrect. The article specifically names Africa, not South America."
       ]
     },
     {
       "id": 5,
-      "question": "Which two countries were not colonised by European nations during the Scramble for Africa?",
+      "question": "What does the article say about how African societies have traditionally recorded their history?",
       "options": [
-        "Ethiopia and Liberia",
-        "Egypt and South Africa",
-        "Nigeria and Kenya",
-        "Ghana and Morocco"
+        "They have generally recorded their history via oral tradition",
+        "They have always used written records",
+        "They have not recorded any history",
+        "They relied only on foreign accounts"
       ],
       "answer_explanations": [
-        "Correct. The article states most of Africa was colonised by European nations, save for Ethiopia and Liberia.",
-        "Incorrect. The article does not state Egypt and South Africa were the two uncolonised countries.",
-        "Incorrect. The article does not state Nigeria and Kenya were uncolonised.",
-        "Incorrect. The article does not state Ghana and Morocco were uncolonised."
+        "Correct. The article says African societies have generally recorded their history via oral tradition, leading to the term 'oral civilisations'.",
+        "Incorrect. The article contrasts them with 'literate civilisations' that pride the written word.",
+        "Incorrect. The article says they did record history, just through oral tradition.",
+        "Incorrect. The article does not say they relied only on foreign accounts."
       ]
     },
     {
       "id": 6,
-      "question": "What does the Berber word ifri mean?",
+      "question": "What is the origin of the name 'Africa' according to the Berber word mentioned in the article?",
       "options": [
-        "cave",
-        "dust",
-        "sunny",
-        "fertility"
+        "It comes from the Berber word 'ifri', meaning 'cave'",
+        "It comes from a Greek word for 'sunny'",
+        "It comes from a Latin word for 'dust'",
+        "It comes from an Egyptian word for 'birthplace'"
       ],
       "answer_explanations": [
-        "Correct. The article states the Berber word ifri means cave, in reference to cave worship.",
-        "Incorrect. Dust is associated with the Phoenician word Ê¿afar, not the Berber word ifri.",
-        "Incorrect. Sunny is associated with Isidore of Seville's hypothesis involving the Latin aprica.",
-        "Incorrect. Fertility refers to Africa as a goddess in Berber and Roman religion, not the meaning of ifri."
+        "Correct. The article states it stems from the Berber word 'ifri', meaning 'cave', in reference to cave worship.",
+        "Incorrect. The article attributes 'sunny' to Isidore of Seville's Latin suggestion, not a Greek word.",
+        "Incorrect. The article mentions 'dust' as a Phoenician or Arabic connection, not a Berber origin.",
+        "Incorrect. The article mentions an Egyptian origin as one hypothesis, but not the Berber one."
       ]
     },
     {
       "id": 7,
-      "question": "Which continent does the UN Intergovernmental Panel on Climate Change identify as most vulnerable to climate change?",
+      "question": "Which two African countries were not colonised by European nations during the late 19th to early 20th century, according to the article?",
       "options": [
-        "Africa",
-        "Asia",
-        "South America",
-        "Oceania"
+        "Ethiopia and Liberia",
+        "Egypt and Libya",
+        "Nigeria and Ghana",
+        "Kenya and Tanzania"
       ],
       "answer_explanations": [
-        "Correct. The article states the IPCC has identified Africa as the continent most vulnerable to climate change.",
-        "Incorrect. The article does not identify Asia as the continent most vulnerable to climate change.",
-        "Incorrect. The article does not identify South America as the continent most vulnerable to climate change.",
-        "Incorrect. The article does not identify Oceania as the continent most vulnerable to climate change."
+        "Correct. The article says most of Africa was colonised, save for Ethiopia and Liberia.",
+        "Incorrect. The article names Ethiopia and Liberia as the exceptions, not Egypt and Libya.",
+        "Incorrect. The article names Ethiopia and Liberia, not Nigeria and Ghana.",
+        "Incorrect. The article names Ethiopia and Liberia, not Kenya and Tanzania."
       ]
     },
     {
       "id": 8,
-      "question": "How many fully recognised sovereign states does Africa contain?",
+      "question": "What did the nascent countries decide to do with their colonial borders after decolonisation?",
       "options": [
-        "54",
-        "50",
-        "48",
-        "60"
+        "They decided to keep their colonial borders",
+        "They decided to erase all borders",
+        "They decided to create new tribal borders",
+        "They decided to merge into one country"
       ],
       "answer_explanations": [
-        "Correct. The article states Africa contains 54 fully recognised sovereign states.",
-        "Incorrect. The article does not state Africa contains 50 fully recognised sovereign states.",
-        "Incorrect. The article does not state Africa contains 48 fully recognised sovereign states.",
-        "Incorrect. The article does not state Africa contains 60 fully recognised sovereign states."
+        "Correct. The article states the nascent countries decided to keep their colonial borders.",
+        "Incorrect. The article does not say they erased borders.",
+        "Incorrect. The article does not say they created new tribal borders.",
+        "Incorrect. The article does not say they merged into one country."
       ]
     },
     {
       "id": 9,
-      "question": "When were modern humans believed to have originated in Africa?",
+      "question": "According to the article, what is the estimated age range for the origin of Homo sapiens in Africa?",
       "options": [
         "350,000 to 260,000 years ago",
         "7 million years ago",
-        "100,000 years ago",
-        "1 million years ago"
+        "3.9 to 3.0 million years ago",
+        "100,000 to 50,000 years ago"
       ],
       "answer_explanations": [
         "Correct. The article states Homo sapiens are believed to have originated in Africa 350,000 to 260,000 years ago.",
-        "Incorrect. 7 million years ago refers to the earliest hominids and their ancestors, not modern humans.",
-        "Incorrect. The article does not state modern humans originated 100,000 years ago.",
-        "Incorrect. The article does not state modern humans originated 1 million years ago."
+        "Incorrect. 7 million years ago is mentioned for the earliest hominids and their ancestors, not modern humans.",
+        "Incorrect. 3.9 to 3.0 million years ago is the date for Australopithecus afarensis fossils.",
+        "Incorrect. The article does not give this range for Homo sapiens origin."
       ]
     },
     {
       "id": 10,
-      "question": "What is one reason scholars criticise the terms North Africa and Sub-Saharan Africa?",
+      "question": "What is the name of the organisation established in 1963 that was the predecessor to the African Union?",
       "options": [
-        "They have roots in colonialist discourse that arbitrarily separated the continent",
-        "They are not used by any African governments",
-        "They refer only to climate zones",
-        "They were invented in the 21st century"
+        "Organisation of African Unity",
+        "United Nations",
+        "African Development Bank",
+        "Pan-African Congress"
       ],
       "answer_explanations": [
-        "Correct. The article states the terms have been criticised for their historical root in colonialist discourse which arbitrarily separated Africa.",
-        "Incorrect. The article does not state the terms are unused by African governments.",
-        "Incorrect. The article does not state the terms refer only to climate zones.",
-        "Incorrect. The article does not state the terms were invented in the 21st century."
+        "Correct. The article says the countries established the Organisation of African Unity in 1963, the predecessor to the African Union.",
+        "Incorrect. The article does not mention the United Nations in this context.",
+        "Incorrect. The article does not mention the African Development Bank.",
+        "Incorrect. The article does not mention the Pan-African Congress."
       ]
     }
   ]

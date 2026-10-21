@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which oceans border North America according to the article?",
+      "question": "In which hemispheres is North America located?",
       "options": [
-        "Arctic Ocean, Atlantic Ocean, and Pacific Ocean",
-        "Arctic Ocean, Indian Ocean, and Atlantic Ocean",
-        "Atlantic Ocean, Pacific Ocean, and Southern Ocean",
-        "Arctic Ocean, Pacific Ocean, and Indian Ocean"
+        "Northern and Western",
+        "Northern and Eastern",
+        "Southern and Western",
+        "Southern and Eastern"
       ],
       "answer_explanations": [
-        "Correct. The article states North America is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, and to the south and west by the Pacific Ocean.",
-        "Incorrect. The Indian Ocean is not mentioned as bordering North America in the article.",
-        "Incorrect. The Southern Ocean is not mentioned as bordering North America in the article.",
-        "Incorrect. The Indian Ocean is not mentioned as bordering North America in the article."
+        "Correct. The article states that North America is a continent in the Northern and Western hemispheres.",
+        "Incorrect. The article specifies the Northern and Western hemispheres, not the Eastern.",
+        "Incorrect. The article specifies the Northern and Western hemispheres, not the Southern.",
+        "Incorrect. The article specifies the Northern and Western hemispheres, not the Southern and Eastern."
       ]
     },
     {
       "id": 2,
-      "question": "What percentage of Earth's land area does North America represent?",
+      "question": "Which ocean borders North America to the north?",
       "options": [
-        "16.5%",
-        "4.8%",
-        "7.5%",
-        "24.7%"
+        "Arctic Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states North America covers an area representing approximately 16.5% of Earth's land area.",
-        "Incorrect. 4.8% refers to North America's share of Earth's total surface area, not its land area.",
-        "Incorrect. 7.5% refers to North America's share of the world's population.",
-        "Incorrect. 24.7% is not mentioned as a percentage of Earth's land area; 24,709,000 square kilometers is the continent's area."
+        "Correct. The article says it is bordered to the north by the Arctic Ocean.",
+        "Incorrect. The Atlantic Ocean borders to the east, not the north.",
+        "Incorrect. The Pacific Ocean borders to the south and west, not the north.",
+        "Incorrect. The Indian Ocean is not mentioned as a border of North America."
       ]
     },
     {
       "id": 3,
-      "question": "What is North America's rank by population among continents?",
+      "question": "What is the approximate area of North America in square kilometers?",
       "options": [
-        "Fourth-largest",
-        "Third-largest",
-        "Second-largest",
-        "Fifth-largest"
+        "24,709,000",
+        "9,540,000",
+        "592,000,000",
+        "16,500,000"
       ],
       "answer_explanations": [
-        "Correct. The article states North America is the fourth-largest continent by population after Asia, Africa, and Europe.",
-        "Incorrect. North America is the third-largest continent by size, not by population.",
-        "Incorrect. Asia is ranked first by population, not North America.",
-        "Incorrect. The article explicitly ranks North America fourth by population."
+        "Correct. The article states North America covers an area of around 24,709,000 square kilometers.",
+        "Incorrect. 9,540,000 is the area in square miles, not square kilometers.",
+        "Incorrect. 592,000,000 is the approximate population, not the area.",
+        "Incorrect. 16.5% is the percentage of Earth's land area, not the area in square kilometers."
       ]
     },
     {
       "id": 4,
-      "question": "Which countries are included in Northern America as described in the article?",
+      "question": "What percentage of Earth's land area does North America represent?",
       "options": [
-        "Canada, Greenland, and the continental United States",
-        "Mexico, Central America, and the Caribbean",
-        "Canada, Mexico, and the United States",
-        "United States, Bermuda, and Mexico"
+        "approximately 16.5%",
+        "approximately 4.8%",
+        "approximately 7.5%",
+        "approximately 20%"
       ],
       "answer_explanations": [
-        "Correct. The article states Northern America comprises Canada, Greenland, and the continental United States, as well as Bermuda and Saint Pierre and Miquelon.",
-        "Incorrect. Mexico, Central America, and the Caribbean comprise Middle America, not Northern America.",
-        "Incorrect. Canada, Mexico, and the United States are referenced in the context of NAFTA, not Northern America.",
-        "Incorrect. Mexico is part of Middle America, not Northern America."
+        "Correct. The article says North America represents approximately 16.5% of Earth's land area.",
+        "Incorrect. 4.8% is the percentage of Earth's total surface area, not land area.",
+        "Incorrect. 7.5% is the percentage of the world's population, not land area.",
+        "Incorrect. The article does not state 20%."
       ]
     },
     {
       "id": 5,
-      "question": "After whom were the Americas named?",
+      "question": "Which continent is larger than North America by size?",
       "options": [
-        "Amerigo Vespucci",
-        "Christopher Columbus",
-        "Martin WaldseemÃ¼ller",
-        "Matthias Ringmann"
+        "Asia",
+        "Europe",
+        "South America",
+        "Australia"
       ],
       "answer_explanations": [
-        "Correct. The article states the Americas were named after the Italian explorer Amerigo Vespucci by German cartographers Martin WaldseemÃ¼ller and Matthias Ringmann.",
-        "Incorrect. Christopher Columbus's voyages began in 1492, but the Americas were not named after him.",
-        "Incorrect. Martin WaldseemÃ¼ller was one of the cartographers who named the Americas, not the person they were named after.",
-        "Incorrect. Matthias Ringmann was one of the cartographers who named the Americas, not the person they were named after."
+        "Correct. The article says North America is the third-largest continent by size after Asia and Africa, so Asia is larger.",
+        "Incorrect. Europe is smaller than North America in size.",
+        "Incorrect. South America is not mentioned as larger; North America is the third-largest after Asia and Africa.",
+        "Incorrect. Australia is not mentioned as larger."
       ]
     },
     {
       "id": 6,
-      "question": "What does the term 'Baccalearum' mean as used on a 1553 world map?",
+      "question": "As of 2021, what is the estimated population of North America?",
       "options": [
-        "Realm of the Cod fish",
-        "New India",
-        "America",
-        "Parias"
+        "over 592 million people",
+        "over 592 billion people",
+        "about 7.5 million people",
+        "about 16.5 million people"
       ],
       "answer_explanations": [
-        "Correct. The article states that on a 1553 world map, North America was called 'Baccalearum', meaning 'realm of the Cod fish'.",
-        "Incorrect. 'America or New India' was used by Gerardus Mercator on his 1569 map, not the meaning of Baccalearum.",
-        "Incorrect. America is the name derived from Amerigo Vespucci, not the meaning of Baccalearum.",
-        "Incorrect. Parias was the name used for the continent north of present-day Mexico before the name America was extended to it."
+        "Correct. The article states North America's population is estimated at over 592 million people.",
+        "Incorrect. The population is in millions, not billions.",
+        "Incorrect. 7.5% is the percentage of the world's population, not the population count.",
+        "Incorrect. 16.5% is the percentage of Earth's land area, not the population count."
       ]
     },
     {
       "id": 7,
-      "question": "Which three countries does NAFTA reference in the limited context of regional trade agreements?",
+      "question": "Which of the following is a subregion of North America mentioned in the article?",
       "options": [
-        "Canada, Mexico, and the United States",
-        "Canada, Greenland, and the United States",
-        "Mexico, Central America, and the Caribbean",
-        "Canada, Mexico, and Greenland"
+        "Northern America",
+        "South America",
+        "Europe",
+        "Africa"
       ],
       "answer_explanations": [
-        "Correct. The article states that in the limited context of regional trade agreements such as NAFTA, the term North America is used to reference Canada, Mexico, and the United States.",
-        "Incorrect. Greenland is not included in the NAFTA definition referenced in the article.",
-        "Incorrect. Mexico, Central America, and the Caribbean comprise Middle America, not the NAFTA reference.",
-        "Incorrect. Greenland is not part of the three countries referenced by NAFTA in the article."
+        "Correct. The article mentions the subregions of Northern America and Middle America.",
+        "Incorrect. South America is a separate continent, not a subregion of North America.",
+        "Incorrect. Europe is a separate continent, not a subregion of North America.",
+        "Incorrect. Africa is a separate continent, not a subregion of North America."
       ]
     },
     {
       "id": 8,
-      "question": "What are the two primary linguistic and cultural regions of North America?",
+      "question": "Which countries are part of Northern America according to the article?",
       "options": [
-        "Anglo-America and Latin America",
-        "Northern America and Middle America",
-        "Central America and the Caribbean",
-        "Eastern Canada and Western Canada"
+        "Canada, Greenland, and the continental United States",
+        "Mexico, Central America, and the Caribbean",
+        "Canada, Mexico, and the United States",
+        "Greenland, Mexico, and the Caribbean"
       ],
       "answer_explanations": [
-        "Correct. The article states North America is divided linguistically and culturally into two primary regions, Anglo-America and Latin America.",
-        "Incorrect. Northern America and Middle America are subregions, not the two primary linguistic and cultural regions.",
-        "Incorrect. Central America and the Caribbean are parts of Middle America, not the two primary cultural regions.",
-        "Incorrect. Eastern Canada and Western Canada are subregions within Canada, not the two primary cultural regions of North America."
+        "Correct. The article lists Northern America as comprising Canada, Greenland, and the continental United States, as well as insular territories.",
+        "Incorrect. Mexico, Central America, and the Caribbean are part of Middle America, not Northern America.",
+        "Incorrect. Mexico is part of Middle America, not Northern America.",
+        "Incorrect. Mexico and the Caribbean are not part of Northern America."
       ]
     },
     {
       "id": 9,
-      "question": "Which languages do most North Americans speak as a result of European colonization?",
+      "question": "What is the name of the period that followed the Last Glacial Period in North America?",
       "options": [
-        "European languages such as English, Spanish, and French",
-        "Indigenous languages only",
-        "Asian languages such as Chinese and Japanese",
-        "African languages"
+        "Paleo-Indian period",
+        "Archaic period",
+        "Classic stage",
+        "Norse period"
       ],
       "answer_explanations": [
-        "Correct. The article states European colonization has led to most North Americans speaking European languages such as English, Spanish, and French.",
-        "Incorrect. The article notes that significant indigenous populations continue their pre-colonial traditions, but most North Americans speak European languages.",
-        "Incorrect. Asian languages are not identified in the article as the languages most North Americans speak due to colonization.",
-        "Incorrect. African languages are not identified in the article as the languages most North Americans speak due to colonization."
+        "Correct. The article states the Paleo-Indian period followed the Last Glacial Period.",
+        "Incorrect. The Archaic period came after the Paleo-Indian period.",
+        "Incorrect. The Classic stage followed the Archaic period.",
+        "Incorrect. The Norse period is not mentioned as a period following the Last Glacial Period."
       ]
     },
     {
       "id": 10,
-      "question": "Which countries are North America's largest by land area?",
+      "question": "What did the voyages of Christopher Columbus, beginning in 1492, lead to?",
       "options": [
-        "Canada and the U.S.",
-        "Canada and Mexico",
-        "The U.S. and Mexico",
-        "Canada and Greenland"
+        "a transatlantic exchange",
+        "the building of Norse settlements",
+        "the start of the Paleo-Indian period",
+        "the end of the Classic stage"
       ],
       "answer_explanations": [
-        "Correct. The article states North America's largest countries by land area are Canada and the U.S.",
-        "Incorrect. Mexico is not identified as one of the two largest countries by land area in the article.",
-        "Incorrect. Mexico is not identified as one of the two largest countries by land area in the article.",
-        "Incorrect. Greenland is not identified as one of the two largest countries by land area in the article."
+        "Correct. The article says the voyages of Christopher Columbus led to a transatlantic exchange.",
+        "Incorrect. Norse settlements were built earlier, not as a result of Columbus's voyages.",
+        "Incorrect. The Paleo-Indian period started much earlier, not as a result of Columbus's voyages.",
+        "Incorrect. The Classic stage ended before Columbus's voyages, not as a result of them."
       ]
     }
   ]

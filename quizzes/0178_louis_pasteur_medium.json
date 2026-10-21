@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What did Pasteur's experiment with sterilized and sealed flasks demonstrate?",
+      "question": "What was Louis Pasteur's nationality?",
       "options": [
-        "Nothing ever developed in sterilized and sealed flasks",
-        "Microorganisms grew readily in sterilized and sealed flasks",
-        "Only sealed flasks prevented microbial growth",
-        "Sterilized flasks always developed microorganisms regardless of sealing"
+        "French",
+        "German",
+        "English",
+        "Italian"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'in sterilized and sealed flasks, nothing ever developed; conversely, in sterilized but open flasks, microorganisms could grow.'",
-        "Incorrect. The article states that nothing developed in sterilized and sealed flasks, not that microorganisms grew readily there.",
-        "Incorrect. The article does not claim that only sealed flasks prevented microbial growth; it contrasts sealed flasks with open ones.",
-        "Incorrect. The article explicitly states that nothing developed in sterilized and sealed flasks, contradicting this claim."
+        "Correct. The article states that Louis Pasteur was a French chemist, pharmacist, and microbiologist.",
+        "Incorrect. The article identifies Pasteur as French, not German.",
+        "Incorrect. The article identifies Pasteur as French, not English.",
+        "Incorrect. The article identifies Pasteur as French, not Italian."
       ]
     },
     {
       "id": 2,
-      "question": "What was Pasteur's oft-quoted remark about observation and chance?",
+      "question": "What is the process of heating liquids like milk and wine to stop bacterial contamination called?",
       "options": [
-        "\"In the field of observation, chance favors only the prepared mind\"",
-        "\"Chance favors the bold observer\"",
-        "\"Observation alone reveals the secrets of nature\"",
-        "\"Prepared minds never rely on chance\""
+        "Pasteurization",
+        "Fermentation",
+        "Vaccination",
+        "Sterilization"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Pasteur as saying: 'dans les champs de l'observation, le hasard ne favorise que les esprits prÃ©parÃ©s' ('In the field of observation, chance favors only the prepared mind').",
-        "Incorrect. This phrase does not appear in the article; the quoted remark specifically mentions the prepared mind.",
-        "Incorrect. The article does not contain this statement; Pasteur's remark focuses on chance favoring the prepared mind.",
-        "Incorrect. The article's quote says chance favors the prepared mind, not that prepared minds never rely on chance."
+        "Correct. The article says that Pasteur invented a process of heating liquids such as milk to kill bacteria, and that this process became known as pasteurization.",
+        "Incorrect. Fermentation is a process involving yeast and sugar, not the heating process described in the question.",
+        "Incorrect. Vaccination is a method to prevent disease, not the process of heating liquids described in the question.",
+        "Incorrect. While sterilization is related, the article specifically names the process Pasteur invented as pasteurization."
       ]
     },
     {
       "id": 3,
-      "question": "What did Pasteur conclude about the corpuscles found on silkworms with pÃ©brine?",
+      "question": "Which of these diseases did Pasteur develop vaccines for?",
       "options": [
-        "The corpuscles were the cause of pÃ©brine",
-        "The corpuscles were merely a symptom of the disease",
-        "The corpuscles were caused by a microsporidian",
-        "The corpuscles had no connection to the disease"
+        "Rabies and anthrax",
+        "Typhoid and cholera",
+        "Influenza and measles",
+        "Tuberculosis and tetanus"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'In 1870, he concluded that the corpuscles were the cause of pÃ©brine.'",
-        "Incorrect. The article says Pasteur initially thought the corpuscles were a symptom during the first three years, but later concluded they were the cause.",
-        "Incorrect. While the article notes it is now known the cause is a microsporidian, Pasteur's own conclusion was that the corpuscles caused the disease.",
-        "Incorrect. The article clearly states Pasteur concluded the corpuscles were the cause of pÃ©brine."
+        "Correct. The article states that Pasteur's works are credited with saving millions of lives through the development of vaccines for rabies and anthrax.",
+        "Incorrect. The article mentions typhoid as a disease that killed Pasteur's children, but it does not say he developed vaccines for it or for cholera.",
+        "Incorrect. The article does not mention Pasteur developing vaccines for influenza or measles.",
+        "Incorrect. The article does not mention Pasteur developing vaccines for tuberculosis or tetanus."
       ]
     },
     {
       "id": 4,
-      "question": "What did Pasteur demonstrate about fermentation?",
+      "question": "What did Pasteur's experiment for the French Academy of Sciences demonstrate about spontaneous generation?",
       "options": [
-        "Yeast was responsible for fermentation to produce alcohol from sugar",
-        "Fermentation was caused by decomposition",
-        "Fermentation occurred only in the presence of air",
-        "Fermentation required lactic acid bacteria exclusively"
+        "That sterilized and sealed flasks had nothing develop in them",
+        "That sterilized and sealed flasks always developed microorganisms",
+        "That open flasks never developed microorganisms",
+        "That spontaneous generation was a proven fact"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Pasteur demonstrated that this theory was incorrect, and that yeast was responsible for fermentation to produce alcohol from sugar.'",
-        "Incorrect. The article says Berzelius and Liebig proposed decomposition caused fermentation, but Pasteur demonstrated this theory was incorrect.",
-        "Incorrect. The article notes that less sugar fermented when yeast was exposed to air, not that fermentation occurred only in air.",
-        "Incorrect. The article discusses alcoholic fermentation by yeast and lactic acid fermentation separately, not that fermentation required lactic acid bacteria exclusively."
+        "Correct. The article says his experiment demonstrated that in sterilized and sealed flasks, nothing ever developed.",
+        "Incorrect. The article states the opposite: nothing ever developed in sterilized and sealed flasks.",
+        "Incorrect. The article says that in sterilized but open flasks, microorganisms could grow.",
+        "Incorrect. Pasteur's experiment helped disprove the doctrine of spontaneous generation, not prove it."
       ]
     },
     {
       "id": 5,
-      "question": "What was the outcome of Pasteur's threat to expel students caught smoking at the Ãcole Normale SupÃ©rieure?",
+      "question": "Where was Louis Pasteur born?",
       "options": [
-        "73 of the 80 students resigned",
-        "All students stopped smoking immediately",
-        "The students were expelled en masse",
-        "No students were affected by the threat"
+        "Dole, Jura, France",
+        "Paris, France",
+        "Strasbourg, France",
+        "Lille, France"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'he threatened to expel any student caught smoking, and 73 of the 80 students in the school resigned.'",
-        "Incorrect. The article does not say students stopped smoking; it says 73 of 80 resigned.",
-        "Incorrect. The article says students resigned, not that they were expelled.",
-        "Incorrect. The article states that 73 of the 80 students resigned in response to the threat."
+        "Correct. The article states that Louis Pasteur was born on 27 December 1822, in Dole, Jura, France.",
+        "Incorrect. Paris is where he later moved for his education and career, but he was not born there.",
+        "Incorrect. Strasbourg is where he became a professor of chemistry, but he was not born there.",
+        "Incorrect. Lille is where he was named dean of the faculty of sciences, but he was not born there."
       ]
     },
     {
       "id": 6,
-      "question": "What did Pasteur's investigation of sodium ammonium tartrate initiate?",
+      "question": "In his early work, what did Pasteur study that led to the field of optical isomerism?",
       "options": [
-        "The field of optical isomerism",
-        "The study of molecular asymmetry in crystals",
-        "The discovery of racemization",
-        "The development of pasteurization"
+        "Sodium ammonium tartrate",
+        "Beetroot alcohol",
+        "Silkworm diseases",
+        "Milk and wine"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Early in his career, his investigation of sodium ammonium tartrate initiated the field of optical isomerism.'",
-        "Incorrect. While related to molecular asymmetry, the article specifically says the investigation initiated optical isomerism, not the broader study of molecular asymmetry in crystals.",
-        "Incorrect. The article mentions racemization as a separate discovery, not as what the tartrate investigation initiated.",
-        "Incorrect. Pasteurization is discussed in the context of milk and wine, not sodium ammonium tartrate."
+        "Correct. The article states that early in his career, his investigation of sodium ammonium tartrate initiated the field of optical isomerism.",
+        "Incorrect. Beetroot alcohol was related to his fermentation studies, not his early work on optical isomerism.",
+        "Incorrect. Silkworm diseases were a later research topic, not related to the start of optical isomerism.",
+        "Incorrect. Milk and wine were related to his pasteurization work, not his early work on optical isomerism."
       ]
     },
     {
       "id": 7,
-      "question": "What did Pasteur's research show about the growth of micro-organisms and beverages?",
+      "question": "What was the name of the institute that Pasteur directed and where his body is interred?",
       "options": [
-        "The growth of micro-organisms was responsible for spoiling beverages such as beer, wine and milk",
-        "Micro-organisms improved the flavor of beverages",
-        "Only wine was affected by micro-organism contamination",
-        "Beverages could not be spoiled by micro-organisms"
+        "The Pasteur Institute",
+        "The Ãcole Normale SupÃ©rieure",
+        "The University of Strasbourg",
+        "The Sorbonne"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Pasteur's research also showed that the growth of micro-organisms was responsible for spoiling beverages, such as beer, wine and milk.'",
-        "Incorrect. The article says micro-organisms spoiled beverages, not that they improved flavor.",
-        "Incorrect. The article lists beer, wine, and milk as beverages spoiled by micro-organisms, not only wine.",
-        "Incorrect. The article explicitly states that micro-organisms were responsible for spoiling beverages."
+        "Correct. The article says he was the director of the Pasteur Institute, established in 1887, until his death, and his body was interred in a vault beneath the institute.",
+        "Incorrect. The Ãcole Normale SupÃ©rieure is where he was director of scientific studies, but his body is not interred there.",
+        "Incorrect. The University of Strasbourg is where he was a professor of chemistry, but his body is not interred there.",
+        "Incorrect. The Sorbonne is where he was chair of organic chemistry, but his body is not interred there."
       ]
     },
     {
       "id": 8,
-      "question": "What did Pasteur develop to prevent pÃ©brine in silkworms?",
+      "question": "What did Pasteur conclude was the cause of the silkworm disease pÃ©brine?",
       "options": [
-        "A system where female moths were pulped and examined microscopically for corpuscles before their eggs were used",
-        "A vaccine administered to silkworm eggs",
-        "A method of isolating infected silkworms from healthy ones",
-        "A chemical treatment applied to mulberry leaves"
+        "Corpuscles",
+        "Viruses",
+        "Bacteria",
+        "Fungi"
       ],
       "answer_explanations": [
-        "Correct. The article states that Pasteur developed a system where moths were turned into pulp, examined with a microscope, and if corpuscles were observed, the eggs were destroyed.",
-        "Incorrect. The article does not mention a vaccine for silkworm eggs.",
-        "Incorrect. The article describes microscopic examination of moth pulp, not isolation of infected silkworms.",
-        "Incorrect. The article does not mention chemical treatment of mulberry leaves as a prevention method."
+        "Correct. The article states that in 1870, Pasteur concluded that the corpuscles were the cause of pÃ©brine.",
+        "Incorrect. The article says the primary cause of flacherie is currently thought to be viruses, not pÃ©brine.",
+        "Incorrect. The article says Pasteur concluded that bacteria caused flacherie, not pÃ©brine.",
+        "Incorrect. The article does not state that Pasteur concluded fungi caused pÃ©brine."
       ]
     },
     {
       "id": 9,
-      "question": "What did Pasteur's work on tartaric acid demonstrate about optical activity?",
+      "question": "According to the article, what did Pasteur's historical reassessment of his notebook reveal?",
       "options": [
-        "Optical activity related to the shape of the crystals and an asymmetric internal arrangement of molecules",
-        "Optical activity depended solely on the chemical composition of the compound",
-        "Synthetic tartaric acid rotated light more strongly than natural tartaric acid",
-        "Only right-handed tartrates exhibited optical activity"
+        "That he practiced deception to overcome his rivals",
+        "That he was dyslexic",
+        "That he was an average student",
+        "That he was homesick"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Pasteur determined that optical activity related to the shape of the crystals, and that an asymmetric internal arrangement of the molecules of the compound was responsible for twisting the light.'",
-        "Incorrect. The article notes that synthetic tartaric acid had identical chemical reactions and elemental composition but no optical effect, showing composition alone did not determine optical activity.",
-        "Incorrect. The article states synthetic tartaric acid had no optical effect, not that it rotated light more strongly.",
-        "Incorrect. The article states both right-handed and left-handed tartrates existed in racemic mixtures, so optical activity was not limited to right-handed forms."
+        "Correct. The article states that historical reassessment of his notebook revealed that he practiced deception to overcome his rivals.",
+        "Incorrect. The article mentions he was dyslexic and dysgraphic, but this is not what the notebook reassessment revealed.",
+        "Incorrect. The article says he was an average student in his early years, but this is not what the notebook reassessment revealed.",
+        "Incorrect. The article mentions he was homesick when he first went to Paris, but this is not what the notebook reassessment revealed."
       ]
     },
     {
       "id": 10,
-      "question": "What position did Pasteur hold at the Pasteur Institute until his death?",
+      "question": "What did Pasteur demonstrate about yeast and fermentation?",
       "options": [
-        "Director",
-        "Founding chemist",
-        "Head of bacteriology",
-        "Honorary president"
+        "That yeast was responsible for fermentation to produce alcohol from sugar",
+        "That fermentation was caused by decomposition",
+        "That yeast was not alive",
+        "That fermentation produced lactic acid from alcohol"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'He was the director of the Pasteur Institute, established in 1887, until his death.'",
-        "Incorrect. While he founded the institute, the article specifically identifies his role as director until his death.",
-        "Incorrect. The article does not mention a position called 'head of bacteriology' at the institute.",
-        "Incorrect. The article states he was the director, not an honorary president."
+        "Correct. The article says Pasteur demonstrated that the theory of decomposition was incorrect, and that yeast was responsible for fermentation to produce alcohol from sugar.",
+        "Incorrect. This was the theory proposed by Berzelius and Liebig, which Pasteur demonstrated was incorrect.",
+        "Incorrect. Pasteur repeated and confirmed the works of Theodor Schwann, who demonstrated that yeast were alive.",
+        "Incorrect. The article states that when a different microorganism contaminated the wine, lactic acid was produced, making the wine sour, not that fermentation produced lactic acid from alcohol."
       ]
     }
   ]

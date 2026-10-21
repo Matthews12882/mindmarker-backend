@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "When did the Information Age begin according to the article?",
+      "question": "When did the Information Age begin?",
       "options": [
-        "mid-20th century",
-        "early 19th century",
-        "late 19th century",
-        "early 21st century"
+        "Mid-20th century",
+        "Early 19th century",
+        "Late 21st century",
+        "Early 20th century"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Information Age is a historical period that began in the mid-20th century.",
-        "Incorrect. The article does not place the beginning of the Information Age in the early 19th century.",
-        "Incorrect. The late 19th century is associated with the Second Industrial Revolution, not the Information Age.",
-        "Incorrect. The article states the Information Age began in the mid-20th century, not the early 21st century."
+        "Correct. The article states: 'The Information Age is a historical period that began in the mid-20th century.'",
+        "Incorrect. The article says the Information Age began in the mid-20th century, not the early 19th century.",
+        "Incorrect. The article says the Information Age began in the mid-20th century, not the late 21st century.",
+        "Incorrect. The article says the Information Age began in the mid-20th century, not the early 20th century."
       ]
     },
     {
       "id": 2,
-      "question": "Which technological development in 1947 is linked to the onset of the Information Age?",
+      "question": "What is the Information Age characterized by?",
       "options": [
-        "the development of the transistor",
-        "the invention of the personal computer",
-        "the creation of the World Wide Web",
-        "the deployment of the T-carrier"
+        "A rapid shift from traditional industries to an economy centered on information technology",
+        "A shift from agriculture to manufacturing",
+        "A focus on manual labor and crafts",
+        "A return to pre-industrial methods"
       ],
       "answer_explanations": [
-        "Correct. The article states that the onset of the Information Age has been linked to the development of the transistor in 1947.",
-        "Incorrect. The personal computer was invented in the 1970s, not 1947.",
-        "Incorrect. The World Wide Web was invented by Tim Berners-Lee in 1989.",
-        "Incorrect. The T-carrier was deployed by AT&T in 1962."
+        "Correct. The article says it is 'characterized by a rapid shift from traditional industries... to an economy centered on information technology.'",
+        "Incorrect. The article describes a shift to information technology, not manufacturing.",
+        "Incorrect. The article describes a shift away from traditional industries, not a focus on manual labor.",
+        "Incorrect. The article describes a shift to information technology, not a return to pre-industrial methods."
       ]
     },
     {
       "id": 3,
-      "question": "What did the digital revolution convert technology from and to?",
+      "question": "What invention is linked to the onset of the Information Age?",
       "options": [
-        "from analog format to digital format",
-        "from digital format to analog format",
-        "from mechanical format to electrical format",
-        "from electrical format to mechanical format"
+        "The transistor",
+        "The steam engine",
+        "The telephone",
+        "The computer mouse"
       ],
       "answer_explanations": [
-        "Correct. The article states that the digital revolution converted technology from analog format to digital format.",
-        "Incorrect. The article states the conversion was from analog to digital, not the reverse.",
-        "Incorrect. The article does not describe the digital revolution as converting from mechanical to electrical format.",
-        "Incorrect. The article does not describe the digital revolution as converting from electrical to mechanical format."
+        "Correct. The article states: 'The onset of the Information Age has been linked to the development of the transistor in 1947.'",
+        "Incorrect. The article links the onset to the transistor, not the steam engine.",
+        "Incorrect. The article links the onset to the transistor, not the telephone.",
+        "Incorrect. The article links the onset to the transistor, not the computer mouse."
       ]
     },
     {
       "id": 4,
-      "question": "During which decade did the digital format of optical compact discs gradually replace analog formats like vinyl records and cassette tapes?",
+      "question": "In what year was the transistor developed?",
       "options": [
-        "the 1980s",
-        "the 1970s",
-        "the 1990s",
-        "the 1960s"
+        "1947",
+        "1950",
+        "1935",
+        "1960"
       ],
       "answer_explanations": [
-        "Correct. The article states that during the 1980s, the digital format of optical compact discs gradually replaced analog formats such as vinyl records and cassette tapes.",
-        "Incorrect. The article specifies the 1980s for this transition, not the 1970s.",
-        "Incorrect. The article specifies the 1980s for this transition, not the 1990s.",
-        "Incorrect. The article specifies the 1980s for this transition, not the 1960s."
+        "Correct. The article says 'the development of the transistor in 1947.'",
+        "Incorrect. The article specifies 1947, not 1950.",
+        "Incorrect. The article specifies 1947, not 1935.",
+        "Incorrect. The article specifies 1947, not 1960."
       ]
     },
     {
       "id": 5,
-      "question": "Who completed the Z3 in 1941, described as the world's first working programmable, fully automatic digital computer?",
+      "question": "According to the United Nations Public Administration Network, what advances led to modernized information systems and internet communications?",
       "options": [
-        "Konrad Zuse",
-        "Charles Babbage",
-        "John Bardeen",
-        "Tim Berners-Lee"
+        "Computer miniaturization advances",
+        "Steam power advances",
+        "Electricity generation advances",
+        "Railway expansion advances"
       ],
       "answer_explanations": [
-        "Correct. The article states that German inventor Konrad Zuse completed the Z3 in 1941.",
-        "Incorrect. Charles Babbage proposed the Analytical Engine, but it was never successfully built.",
-        "Incorrect. John Bardeen co-invented the transistor in 1947.",
-        "Incorrect. Tim Berners-Lee invented the World Wide Web in 1989."
+        "Correct. The article says 'the Information Age was formed by capitalizing on computer miniaturization advances, which led to modernized information systems and internet communications.'",
+        "Incorrect. The article mentions computer miniaturization, not steam power.",
+        "Incorrect. The article mentions computer miniaturization, not electricity generation.",
+        "Incorrect. The article mentions computer miniaturization, not railway expansion."
       ]
     },
     {
       "id": 6,
-      "question": "What was the first commercially available general-purpose computer mentioned in the article?",
+      "question": "What is described as the driving force of social evolution in the Information Age?",
       "options": [
-        "LEO",
-        "Z3",
-        "Harvard Mark I",
-        "Analytical Engine"
+        "Internet communications",
+        "Agricultural production",
+        "Industrial manufacturing",
+        "Maritime trade"
       ],
       "answer_explanations": [
-        "Correct. The article states that the LEO was the first commercially available general-purpose computer.",
-        "Incorrect. The Z3 was the world's first working programmable, fully automatic digital computer, but not the first commercially available general-purpose computer.",
-        "Incorrect. The Harvard Mark I was completed in 1944 but is not identified as the first commercially available general-purpose computer.",
-        "Incorrect. The Analytical Engine was proposed by Charles Babbage but was never successfully built."
+        "Correct. The article says 'internet communications as the driving force of social evolution.'",
+        "Incorrect. The article identifies internet communications, not agricultural production.",
+        "Incorrect. The article identifies internet communications, not industrial manufacturing.",
+        "Incorrect. The article identifies internet communications, not maritime trade."
       ]
     },
     {
       "id": 7,
-      "question": "In what year did Tim Berners-Lee invent the World Wide Web?",
+      "question": "What is the ongoing debate about?",
       "options": [
-        "1989",
-        "1969",
-        "1971",
-        "1984"
+        "Whether the Third Industrial Revolution has ended and a Fourth has begun",
+        "Whether the Information Age ever started",
+        "Whether the transistor was invented in 1947",
+        "Whether the internet is useful"
       ],
       "answer_explanations": [
-        "Correct. The article states that Tim Berners-Lee invented the World Wide Web in 1989.",
-        "Incorrect. 1969 is when a message was first sent over the ARPANET.",
-        "Incorrect. 1971 is when the Intel 4004 was released.",
-        "Incorrect. 1984 is when the U.S. Census Bureau began collecting data on computer and Internet use."
+        "Correct. The article says 'There is ongoing debate concerning whether the Third Industrial Revolution has already ended and recent breakthroughs... have spawned a Fourth Industrial Revolution.'",
+        "Incorrect. The debate is about the Third and Fourth Industrial Revolutions, not whether the Information Age started.",
+        "Incorrect. The debate is about the Third and Fourth Industrial Revolutions, not the transistor's invention year.",
+        "Incorrect. The debate is about the Third and Fourth Industrial Revolutions, not the internet's usefulness."
       ]
     },
     {
       "id": 8,
-      "question": "Which company released the Intel 4004, the first single-chip microprocessor, in 1971?",
+      "question": "Which areas of recent breakthroughs are mentioned as possibly spawning a Fourth Industrial Revolution?",
       "options": [
-        "Intel",
-        "Fairchild Semiconductor",
-        "Bell Labs",
-        "Motorola"
+        "Artificial intelligence and biotechnology",
+        "Agriculture and mining",
+        "Textiles and steel",
+        "Navigation and cartography"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Intel 4004 was released by Intel in 1971.",
-        "Incorrect. Fairchild Semiconductor is where Federico Faggin worked before developing the Intel 4004, but Intel released it.",
-        "Incorrect. Bell Labs developed the transistor and other technologies, but did not release the Intel 4004.",
-        "Incorrect. Motorola created the first mobile phone, the DynaTAC, in 1983."
+        "Correct. The article mentions 'recent breakthroughs in areas such as artificial intelligence and biotechnology.'",
+        "Incorrect. The article mentions artificial intelligence and biotechnology, not agriculture and mining.",
+        "Incorrect. The article mentions artificial intelligence and biotechnology, not textiles and steel.",
+        "Incorrect. The article mentions artificial intelligence and biotechnology, not navigation and cartography."
       ]
     },
     {
       "id": 9,
-      "question": "What percentage of U.S. households owned a personal computer in 1984 according to the U.S. Census Bureau?",
+      "question": "What is theorized to harken the advent of the Imagination Age, the Internet of things, and rapid advances in machine learning?",
       "options": [
-        "8.2%",
-        "15.3%",
-        "22.9%",
-        "15%"
+        "The next transition (Fourth Industrial Revolution)",
+        "The invention of the transistor",
+        "The end of the Information Age",
+        "The rise of social media"
       ],
       "answer_explanations": [
-        "Correct. The article states that the first survey showed 8.2% of all U.S. households owned a personal computer in 1984.",
-        "Incorrect. 15.3% refers to households with children under 18, not all households.",
-        "Incorrect. 22.9% refers to middle and upper middle class households, not all households.",
-        "Incorrect. 15% is the figure for all U.S. households owning a computer by 1989, not 1984."
+        "Correct. The article says 'This next transition has been theorized to harken the advent of the Imagination Age, the Internet of things (IoT), and rapid advances in machine learning.'",
+        "Incorrect. The article refers to the next transition, not the transistor's invention.",
+        "Incorrect. The article refers to the next transition, not the end of the Information Age.",
+        "Incorrect. The article refers to the next transition, not the rise of social media."
       ]
     },
     {
       "id": 10,
-      "question": "When were digital cell phones first sold commercially?",
+      "question": "What does the abbreviation IoT stand for in the article?",
       "options": [
-        "1991",
-        "1983",
-        "1989",
-        "2005"
+        "Internet of things",
+        "Information of technology",
+        "International of trade",
+        "Internet of technology"
       ],
       "answer_explanations": [
-        "Correct. The article states that digital cell phones were not sold commercially until 1991, when the 2G network started to be opened in Finland.",
-        "Incorrect. 1983 is when Motorola created the first mobile phone, the DynaTAC, which used analog communication.",
-        "Incorrect. 1989 is when Tim Berners-Lee invented the World Wide Web.",
-        "Incorrect. 2005 is when the Web 1.0 era ended, not when digital cell phones were first sold commercially."
+        "Correct. The article says 'the Internet of things (IoT).'",
+        "Incorrect. The article defines IoT as 'Internet of things,' not 'Information of technology.'",
+        "Incorrect. The article defines IoT as 'Internet of things,' not 'International of trade.'",
+        "Incorrect. The article defines IoT as 'Internet of things,' not 'Internet of technology.'"
       ]
     }
   ]

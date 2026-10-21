@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "A geologist discovers a rock sample that shows breakage along closely spaced parallel planes rather than uneven surfaces. Which property of minerals is being observed?",
+      "question": "What does the article imply about the relationship between geology and other Earth sciences?",
       "options": [
-        "Cleavage",
-        "Fracture",
-        "Streak",
-        "Specific gravity"
+        "Geology is not isolated but significantly overlaps with other Earth sciences like hydrology and is integrated with Earth system science and planetary science.",
+        "Geology is a distinct field that has no overlap with other Earth sciences.",
+        "Geology is a subfield of hydrology and planetary science.",
+        "Geology is only concerned with the solid Earth and excludes any study of water or other planets."
       ],
       "answer_explanations": [
-        "Correct. The article states that cleavage is 'a breakage along closely spaced parallel planes,' distinguishing it from fracture, which is breakage of uneven surfaces.",
-        "Incorrect. Fracture is defined as breakage of uneven surfaces, not breakage along parallel planes.",
-        "Incorrect. Streak refers to the color of the powder left when scratching a sample on a porcelain plate, not the pattern of breakage.",
-        "Incorrect. Specific gravity is the weight of a specific volume of a mineral, unrelated to how the mineral breaks."
+        "Correct. The article states that 'Modern geology significantly overlaps all other Earth sciences, including hydrology' and is 'integrated with Earth system science and planetary science,' showing it is not isolated.",
+        "Incorrect. The article explicitly states geology overlaps all other Earth sciences, so it is not distinct or isolated.",
+        "Incorrect. The article says geology overlaps with hydrology and planetary science but does not say it is a subfield of them.",
+        "Incorrect. The article says geology studies Earth and other astronomical bodies, and overlaps with hydrology, so it is not limited to solid Earth only."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what is the relationship between oceanic lithosphere and mantle convection currents?",
+      "question": "Why does the article suggest that plate tectonics is considered a 'grand unifying theory of geology'?",
       "options": [
-        "Oceanic lithosphere moves in the same direction as adjoining mantle convection currents because it forms the rigid upper thermal boundary layer of the convecting mantle.",
-        "Oceanic lithosphere moves independently of mantle convection currents.",
-        "Oceanic lithosphere moves in the opposite direction from mantle convection currents.",
-        "Oceanic lithosphere remains stationary while mantle convection currents move beneath it."
+        "Because it combines diverse observations like seafloor spreading, mountain distribution, seismicity, and continental drift into a single theory of lithosphere movement over the convecting mantle.",
+        "Because it explains only the formation of mid-ocean ridges.",
+        "Because it was the first theory proposed by Alfred Wegener.",
+        "Because it describes the internal structure of the Earth in detail."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'oceanic parts of plates and the adjoining mantle convection currents always move in the same direction â because the oceanic lithosphere is actually the rigid upper thermal boundary layer of the convecting mantle.'",
-        "Incorrect. The article explicitly states they move in the same direction, not independently.",
-        "Incorrect. The article states they move in the same direction, not opposite directions.",
-        "Incorrect. The article describes the oceanic lithosphere as moving with the convection currents, not remaining stationary."
+        "Correct. The article states that plate tectonics combines all these observations into a single theory, forming a 'grand unifying theory of geology'.",
+        "Incorrect. Plate tectonics explains more than just mid-ocean ridges; it explains boundaries, continental drift, and crustal deformation.",
+        "Incorrect. Wegener proposed continental drift, but plate tectonics provided the mechanism for it, not the first theory.",
+        "Incorrect. The internal structure is covered by seismology and mineralogy, not by plate tectonics as the unifying theory."
       ]
     },
     {
       "id": 3,
-      "question": "A mineral sample fizzes when hydrochloric acid is dripped onto it. Which mineral identification test does this demonstrate?",
+      "question": "What conclusion can be drawn from the article about the evolution of Earth's internal model?",
       "options": [
-        "Effervescence",
-        "Magnetism",
-        "Hardness",
-        "Luster"
+        "The initial layered model of the Earth was replaced by a more dynamic model due to advanced seismic imaging techniques.",
+        "The layered model was confirmed and remains unchanged.",
+        "Seismology showed that the Earth has no distinct layers.",
+        "The internal model was developed solely from mineralogy experiments."
       ],
       "answer_explanations": [
-        "Correct. The article defines effervescence as 'dripping hydrochloric acid on the mineral to test for fizzing.'",
-        "Incorrect. Magnetism involves using a magnet to test for magnetic properties, not acid reactions.",
-        "Incorrect. Hardness measures resistance to scratching or indentation, not reaction to acid.",
-        "Incorrect. Luster describes the quality of light reflected from a mineral's surface, not chemical reactions."
+        "Correct. The article says that new techniques like full-waveform inversion 'have replaced the simplified layered model with a much more dynamic model.'",
+        "Incorrect. The article states the layered model was replaced, not confirmed.",
+        "Incorrect. The article describes a layered model with lithosphere, mantle, outer core, and inner core, so layers exist.",
+        "Incorrect. The model was developed from seismology, computer modeling, and mineralogy, not solely mineralogy."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following best describes how geologists determine the absolute ages of rocks?",
+      "question": "How does the article indicate that mineralogy contributes to understanding Earth's deep interior?",
       "options": [
-        "Through geochemistry, a branch of geology.",
-        "By studying the mineralogical composition of rocks.",
-        "By determining relative ages of rocks at a given location.",
-        "By applying the rock cycle to classify rocks as igneous, sedimentary, or metamorphic."
+        "By reproducing high-pressure and high-temperature conditions in experiments to measure crystal structure changes, explaining seismic discontinuities.",
+        "By analyzing surface rocks only.",
+        "By studying fossils to determine rock ages.",
+        "By mapping the ocean floor."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'geochemistry (a branch of geology) determines their absolute ages.'",
-        "Incorrect. Studying mineralogical composition provides insight into a rock's history of formation, not its absolute age.",
-        "Incorrect. Relative ages are determined by geology generally, but absolute ages specifically require geochemistry.",
-        "Incorrect. The rock cycle illustrates relationships among rock types but does not determine absolute ages."
+        "Correct. The article states mineralogists use pressure and temperature data to reproduce conditions experimentally and 'measure changes within the crystal structure,' explaining chemical changes at discontinuities.",
+        "Incorrect. The article focuses on experimental reproduction of deep Earth conditions, not just surface rocks.",
+        "Incorrect. Fossils are used in paleontology, not for deep interior structure.",
+        "Incorrect. Mapping the ocean floor is related to plate tectonics, not mineralogy's role in deep interior."
       ]
     },
     {
       "id": 5,
-      "question": "A geologist wants to reproduce the high-pressure and high-temperature conditions of Earth's interior in a laboratory to study crystal structure changes. Which scientific approach described in the article supports this work?",
+      "question": "What does the article imply about the importance of geological time scale for understanding Earth's history?",
       "options": [
-        "Mineralogists using pressure and temperature data from seismic and modeling studies alongside elemental composition knowledge to recreate conditions experimentally.",
-        "Seismologists using arrival times of seismic waves to image Earth's interior.",
-        "Geologists conducting fieldwork and rock description at the surface.",
-        "Numerical modelling of mantle convection currents alone."
+        "It provides a framework that brackets Earth's history from solar system formation to the present, allowing for the sequence of major events to be understood.",
+        "It only covers the most recent period of Earth's history.",
+        "It is irrelevant to understanding past climates.",
+        "It is based solely on fossil evidence."
       ],
       "answer_explanations": [
-        "Correct. The article describes mineralogists using seismic and modeling data with elemental composition knowledge to reproduce conditions in experimental settings and measure crystal structure changes.",
-        "Incorrect. Seismic wave arrival times are used to image the interior, not to reproduce conditions in a lab.",
-        "Incorrect. Fieldwork and rock description are surface-based methods and do not involve recreating interior conditions experimentally.",
-        "Incorrect. Numerical modelling alone does not involve the experimental reproduction of pressure and temperature conditions described for mineralogists."
+        "Correct. The article says the geological time scale 'encompasses the history of the Earth' from 4.567 Ga to the present, and lists milestones, showing it provides a chronological framework.",
+        "Incorrect. The time scale covers the entire history, not just the most recent period.",
+        "Incorrect. The article links geology to insights into past climate change, and the time scale would be relevant.",
+        "Incorrect. The time scale is based on various dating methods, not solely fossils."
       ]
     },
     {
       "id": 6,
-      "question": "Based on the article's important milestones, approximately when did the transition of Earth's crust from stagnant lid to plate tectonics occur?",
+      "question": "Why does the article suggest that the study of unlithified materials is often called Quaternary geology?",
       "options": [
-        "3.2â2.3 Ga",
-        "4.54 Ga",
-        "c. 4 Ga",
-        "c. 2.3 Ga"
+        "Because these materials are primarily from the most recent period of geologic time, the Quaternary period.",
+        "Because they are found only in the Quaternary period.",
+        "Because they are unrelated to the bedrock.",
+        "Because they are studied only by quaternary scientists."
       ],
       "answer_explanations": [
-        "Correct. The article lists '3.2â2.3 Ga: Transition of crust from stagnant lid to plate tectonics.'",
-        "Incorrect. 4.54 Ga marks the accretion or formation of Earth, not the transition to plate tectonics.",
-        "Incorrect. c. 4 Ga marks the end of the Late Heavy Bombardment and the first life, not the crustal transition.",
-        "Incorrect. c. 2.3 Ga marks the oxygenated atmosphere and first snowball Earth, not the transition to plate tectonics."
+        "Correct. The article states that unlithified materials lie above bedrock and this study is 'often known as Quaternary geology, after the Quaternary period... which is the most recent period of geologic time.'",
+        "Incorrect. The article says the study is named after the period, not that the materials are found only there.",
+        "Incorrect. The article mentions they lie above bedrock but does not say they are unrelated.",
+        "Incorrect. The naming is based on the period, not on who studies them."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is NOT one of the three major types of rock described in the article?",
+      "question": "What does the article imply about the relationship between oceanic lithosphere and mantle convection?",
       "options": [
-        "Igneous",
-        "Sedimentary",
-        "Metamorphic",
-        "Unlithified"
+        "They move in the same direction because oceanic lithosphere is the rigid upper thermal boundary layer of the convecting mantle.",
+        "They move in opposite directions due to friction.",
+        "They are unrelated because the lithosphere is solid and the mantle is liquid.",
+        "They only move together during earthquakes."
       ],
       "answer_explanations": [
-        "Correct. The article identifies igneous, sedimentary, and metamorphic as the three major types of rock; unlithified material is discussed separately as superficial deposits above bedrock.",
-        "Incorrect. Igneous is explicitly listed as one of the three major types of rock.",
-        "Incorrect. Sedimentary is explicitly listed as one of the three major types of rock.",
-        "Incorrect. Metamorphic is explicitly listed as one of the three major types of rock."
+        "Correct. The article states that oceanic parts of plates and mantle convection currents 'always move in the same direction' because the oceanic lithosphere is the rigid upper thermal boundary layer of the convecting mantle.",
+        "Incorrect. The article explicitly says they move in the same direction.",
+        "Incorrect. The mantle is described as solid but ductile, not liquid, and they are coupled.",
+        "Incorrect. The coupling is continuous, not only during earthquakes."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what is the role of plate tectonics in relation to Alfred Wegener's theory of continental drift?",
+      "question": "How does the article indicate that the rock cycle illustrates relationships among rock types?",
       "options": [
-        "Plate tectonics provided a mechanism and driving force for continental drift.",
-        "Plate tectonics disproved continental drift entirely.",
-        "Plate tectonics replaced continental drift with the concept of seafloor spreading only.",
-        "Plate tectonics has no connection to continental drift."
+        "It shows how igneous, sedimentary, and metamorphic rocks can transform into each other through processes like melting, weathering, and heat/pressure.",
+        "It shows that each rock type is permanent and unchanging.",
+        "It only shows the formation of igneous rocks.",
+        "It demonstrates that sedimentary rocks are the oldest."
       ],
       "answer_explanations": [
-        "Correct. The article states that plate tectonics 'provided a mechanism for Alfred Wegener's theory of continental drift' and 'a driving force for crustal deformation.'",
-        "Incorrect. The article does not say plate tectonics disproved continental drift; rather, it supported it by providing a mechanism.",
-        "Incorrect. The article does not state that plate tectonics replaced continental drift with seafloor spreading alone.",
-        "Incorrect. The article explicitly links plate tectonics to continental drift as its physical basis."
+        "Correct. The article describes how igneous rocks form from melt, can be weathered into sedimentary, and both can become metamorphic, and all can melt again, showing transformation.",
+        "Incorrect. The cycle shows transformation, not permanence.",
+        "Incorrect. The cycle includes all three types, not just igneous.",
+        "Incorrect. The article does not state that sedimentary rocks are the oldest."
       ]
     },
     {
       "id": 9,
-      "question": "A researcher identifies a naturally occurring substance that lacks an ordered atomic arrangement but resembles a mineral. According to the article, what might this substance be called?",
+      "question": "What does the article suggest about the role of fieldwork and other methods in geology?",
       "options": [
-        "Mineraloid",
-        "Igneous rock",
-        "Superficial deposit",
-        "Meteorite"
+        "Geologists use a variety of methods including fieldwork, rock description, geophysical techniques, chemical analysis, physical experiments, and numerical modelling to understand Earth's structure and evolution.",
+        "Fieldwork is the only method used by geologists.",
+        "Numerical modelling is more important than fieldwork.",
+        "Chemical analysis is used only for studying meteorites."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'amorphous substances that resemble a mineral are sometimes referred to as mineraloids.'",
-        "Incorrect. Igneous rock is a rock formed from solidified magma or lava, not an amorphous mineral-like substance.",
-        "Incorrect. Superficial deposits are unlithified materials above bedrock, not amorphous mineral-like substances.",
-        "Incorrect. Meteorites are extraterrestrial natural materials studied by geological methods, not amorphous mineral-like substances."
+        "Correct. The article lists these methods as used by geologists to understand Earth's structure and evolution.",
+        "Incorrect. The article lists multiple methods, not just fieldwork.",
+        "Incorrect. The article does not rank methods by importance.",
+        "Incorrect. Chemical analysis is used broadly, not only for meteorites."
       ]
     },
     {
       "id": 10,
-      "question": "In the article's description of Earth's internal structure, what did early seismological advances reveal about the outer core?",
+      "question": "Why does the article imply that geology is important for practical applications?",
       "options": [
-        "It is liquid, as shear waves were not able to propagate through it.",
-        "It is solid and dense, like the inner core.",
-        "It is separated from the mantle by seismic discontinuities at 410 and 660 kilometers.",
-        "It forms the rigid uppermost portion of the upper mantle."
+        "It is important for mineral and hydrocarbon exploration, water resource evaluation, understanding natural hazards, environmental remediation, and insights into past climate change.",
+        "It is only important for academic research.",
+        "It is mainly used for predicting earthquakes with certainty.",
+        "It is only relevant for studying rocks on other planets."
       ],
       "answer_explanations": [
-        "Correct. The article states that early advances showed the existence of a liquid outer core 'where shear waves were not able to propagate.'",
-        "Incorrect. The article describes the inner core as dense and solid, not the outer core.",
-        "Incorrect. The seismic discontinuities at 410 and 660 kilometers are within the mantle, not boundaries of the outer core.",
-        "Incorrect. The rigid uppermost portion of the upper mantle is part of the lithosphere/asthenosphere system, not the outer core."
+        "Correct. The article lists these practical applications, showing geology's importance beyond academia.",
+        "Incorrect. The article explicitly lists practical applications, so it is not only academic.",
+        "Incorrect. The article mentions understanding natural hazards, not predicting earthquakes with certainty.",
+        "Incorrect. The article includes applications on Earth, such as mineral and water resources."
       ]
     }
   ]

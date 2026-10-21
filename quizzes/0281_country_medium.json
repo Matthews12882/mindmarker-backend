@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what is one reason there is no universal agreement on the number of countries in the world?",
+      "question": "According to the article, what is a 'country'?",
       "options": [
-        "Several countries are not recognized as sovereign states by the UN system but are recognized by at least one UN member.",
-        "All countries are members of the United Nations, making the count straightforward.",
-        "The article states that the number is fixed at 193, the number of UN member states.",
-        "The number of countries is determined solely by geographic size."
+        "A political entity or its territory in the world",
+        "A specific type of landscape",
+        "A large city with a government",
+        "A group of people who speak the same language"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'This ambiguity is a result of several countries not being recognized as sovereign states by the UN system, but are recognized by at least one UN member, known as \"diplomatic recognition\".'",
-        "Incorrect. The article explicitly says there is no universal agreement and that some countries are not UN members.",
-        "Incorrect. The article mentions 193 UN member states but does not say that is the total number of countries.",
-        "Incorrect. The article does not mention geographic size as a factor in counting countries."
+        "Correct. The article begins by stating, 'A **country** is a political entity or its territory in the [world].'",
+        "Incorrect. While the article mentions areas like 'coal country' or 'cottage country', it first defines a country as a political entity or its territory.",
+        "Incorrect. The article does not define a country as a large city; it discusses political entities and territories.",
+        "Incorrect. The article mentions that a country may consist of multiple nations, but its definition is based on being a political entity or territory."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is NOT mentioned in the article as a type of entity that can be referred to as a 'country'?",
+      "question": "What is the main reason there is no universal agreement on the number of countries in the world?",
       "options": [
-        "A multinational corporation",
-        "A sovereign state",
-        "A dependent territory",
-        "A rural area"
+        "Some countries are not recognized as sovereign states by the UN system but are recognized by at least one UN member",
+        "Countries often change their names",
+        "The world map is constantly changing due to natural disasters",
+        "There is no international organization that counts countries"
       ],
       "answer_explanations": [
-        "Correct. The article does not mention multinational corporations as a type of entity called a 'country'.",
-        "Incorrect. The article states that 'country' can refer to a 'sovereign state'.",
-        "Incorrect. The article states that 'country' can refer to a 'dependent territory'.",
-        "Incorrect. The article states that 'the country' can be used to describe a 'rural area'."
+        "Correct. The article states, 'This ambiguity is a result of several countries not being recognized as sovereign states by the UN system, but are recognized by at least one UN member, known as \"[diplomatic recognition]\".'",
+        "Incorrect. While countries can change their names, this is not the reason given for the ambiguity in the number of countries.",
+        "Incorrect. The article does not mention natural disasters as a reason for the disagreement.",
+        "Incorrect. The article mentions the UN system and diplomatic recognition as factors, not a lack of international organizations."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article suggest about the relationship between 'country' and 'nation'?",
+      "question": "According to the article, which of the following is an example of an area smaller than a political state that is referred to as a 'country'?",
       "options": [
-        "The relationship varies so much from place to place that it cannot be reduced to a simple opposition or fusion.",
-        "The two terms are always synonymous and interchangeable.",
-        "A 'nation' is always larger than a 'country'.",
-        "A 'country' always contains exactly one 'nation'."
+        "The West Country in England",
+        "The United Kingdom",
+        "The Kingdom of the Netherlands",
+        "The Danish Realm"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Clifford Geertz saying 'it is clear that the relationships between \"country\" and \"nation\" are so different from one [place] to the next as to be impossible to fold into a dichotomous opposition as they are into a promiscuous fusion.'",
-        "Incorrect. The article emphasizes that the relationship is complex and varies, not that they are always synonymous.",
-        "Incorrect. The article does not make any claim about relative size.",
-        "Incorrect. The article mentions multinational states, where a country consists of multiple nations."
+        "Correct. The article mentions, 'Areas much smaller than a political state may be referred to as countries, such as the [West Country] in England.'",
+        "Incorrect. The United Kingdom is a sovereign state, not an area smaller than a political state.",
+        "Incorrect. The Kingdom of the Netherlands is a sovereign state that is a union of separate polities.",
+        "Incorrect. The Danish Realm is a sovereign state that includes constituent countries."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, which of the following is an example of a union of separate polities, each considered a country in its own right?",
+      "question": "What did Raymond Williams say about the word 'country' in English?",
       "options": [
-        "The United Kingdom",
-        "The United States",
-        "The European Union",
-        "The African Union"
+        "It can mean both a nation and a part of a 'land', and 'the country' can mean the whole society or its rural area",
+        "It is a word that has always had a clear and simple definition",
+        "It is a term that only refers to political states",
+        "It is a word that is rarely used in the English language"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The United Kingdom consists of England, Scotland, Wales and Northern Ireland.' It lists the UK as an example of a union of separate polities that are constituent countries.",
-        "Incorrect. The article does not list the United States as an example of such a union.",
-        "Incorrect. The European Union is not mentioned as a union of constituent countries in this context.",
-        "Incorrect. The African Union is not mentioned as a union of constituent countries in this context."
+        "Correct. The article quotes Williams: \"In English, 'country' is both a nation and a part of a 'land'; 'the country' can be the whole society or its rural area.\"",
+        "Incorrect. Williams's quote highlights the complexity and multiple meanings of the word, not a clear and simple definition.",
+        "Incorrect. Williams's quote shows that 'country' can refer to a nation or a rural area, not just political states.",
+        "Incorrect. Williams's quote suggests the word is powerful and stands for much in human experience, not that it is rarely used."
       ]
     },
     {
       "id": 5,
-      "question": "What does the Montevideo Convention's declarative theory state about the existence of a sovereign state?",
+      "question": "According to the article, what is a sovereign state?",
       "options": [
-        "A sovereign state can exist even if no other countries recognize it.",
-        "A state must be recognized by at least one other country to exist.",
-        "A state must be a member of the United Nations to be considered sovereign.",
-        "A state must have a constitution to be considered sovereign."
+        "A political entity that has supreme legitimate authority over a part of the world",
+        "Any territory that has a flag",
+        "A region that is culturally distinct",
+        "A country that is a member of the United Nations"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The Montevideo Convention in Article 3 implies that a sovereign state can exist even if no other countries recognise it.'",
-        "Incorrect. That describes the constitutive theory, not the declarative theory.",
-        "Incorrect. The article does not state that UN membership is required for sovereignty.",
-        "Incorrect. The article does not mention a constitution as a requirement for sovereignty."
+        "Correct. The article defines a sovereign state as 'a political entity that has supreme legitimate authority over a part of the world.'",
+        "Incorrect. Having a flag is a symbol of a country, but it is not the definition of a sovereign state.",
+        "Incorrect. Cultural distinctness is not the defining feature of a sovereign state according to the article.",
+        "Incorrect. The article states that a sovereign state is a political entity with supreme authority; being a UN member is a separate matter, as some sovereign states have limited recognition."
       ]
     },
     {
       "id": 6,
-      "question": "According to the constitutive theory of statehood, when does a state become a subject of international law?",
+      "question": "Which of the following is given as an example of a country with limited recognition?",
       "options": [
-        "Only after it is recognized by at least one other country.",
-        "Immediately upon meeting the criteria of the Montevideo Convention.",
-        "Only after it joins the United Nations.",
-        "Only after it establishes a permanent population."
+        "Taiwan",
+        "Canada",
+        "England",
+        "Greenland"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Oppenheim: 'Through recognition only and exclusively a State becomes an International Person and a subject of International Law.'",
-        "Incorrect. That aligns with the declarative theory, not the constitutive theory.",
-        "Incorrect. The article does not state that UN membership is required under constitutive theory.",
-        "Incorrect. Having a permanent population is a criterion of the declarative theory, not the constitutive theory."
+        "Correct. The article states, 'Some countries, such as [Taiwan], [Sahrawi Republic] and [Kosovo], have limited recognition or actively disputed sovereignty from sovereign states.'",
+        "Incorrect. Canada is given as an example in a quote by Clifford Geertz, but not as a country with limited recognition.",
+        "Incorrect. England is described as a constituent country of the United Kingdom, not as a country with limited recognition.",
+        "Incorrect. Greenland is described as a constituent country of the Danish Realm, not as a country with limited recognition."
       ]
     },
     {
       "id": 7,
-      "question": "The article mentions that the long name of a country often describes its form of government. Which of the following is an example of a country that changed its name for cultural or diplomatic reasons, as mentioned in the article?",
+      "question": "According to the article, what does the declarative theory outlined in the 1933 Montevideo Convention state?",
       "options": [
-        "Upper Volta changed its name to Burkina Faso.",
-        "France changed its name to the French Republic.",
-        "Germany changed its name to the Federal Republic of Germany.",
-        "Italy changed its name to the Italian Republic."
+        "A state must have a permanent population, a defined territory, a government, and the ability to enter into relations with other states",
+        "A state only exists if it is recognized by the United Nations",
+        "A state must be a member of the European Union",
+        "A state must have a long name and a short name"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Upper Volta changed its name to Burkina Faso to reflect the end of French colonization.'",
-        "Incorrect. The article does not mention France changing its name.",
-        "Incorrect. The article does not mention Germany changing its name.",
-        "Incorrect. The article does not mention Italy changing its name."
+        "Correct. The article lists the four criteria from Article 1 of the Montevideo Convention: '1. Having a permanent population 2. Having a defined territory 3. Having a government 4. Having the ability to enter into [relations with other states]'.",
+        "Incorrect. The article states that the Montevideo Convention implies a state can exist even if no other countries recognize it.",
+        "Incorrect. The Montevideo Convention does not mention the European Union.",
+        "Incorrect. The article discusses long and short names in the 'Name' section, but this is not part of the declarative theory."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is listed in the article as a dependent territory that is treated as a separate 'country of origin' in international trade?",
+      "question": "What is the main difference between the declarative and constitutive theories of statehood?",
       "options": [
-        "Hong Kong",
-        "Puerto Rico",
-        "Gibraltar",
-        "Bermuda"
+        "The declarative theory says a state exists if it meets certain criteria, while the constitutive theory says a state exists only if it is recognized by another country",
+        "The declarative theory is about names, while the constitutive theory is about flags",
+        "The declarative theory applies only to UN members, while the constitutive theory applies to everyone",
+        "The declarative theory is newer than the constitutive theory"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'A few dependent territories are treated as a separate \"country of origin\" in international trade, such as Hong Kong, Greenland, and Macau.'",
-        "Incorrect. Puerto Rico is not mentioned in the article.",
-        "Incorrect. Gibraltar is not mentioned in the article.",
-        "Incorrect. Bermuda is not mentioned in the article."
+        "Correct. The article explains that the declarative theory outlines criteria for statehood, while the constitutive theory states that 'a state is a legal entity of international law if, and only if, it is recognised as sovereign by at least one other country.'",
+        "Incorrect. The theories are about statehood, not about names or flags.",
+        "Incorrect. The article suggests the Montevideo Convention applies to all subjects of international law, not just UN members, and the constitutive theory is about recognition by any other country.",
+        "Incorrect. The article does not compare the theories based on age."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is one way the term 'country' is used in a non-political sense?",
+      "question": "According to the article, what is the difference between a country's long name and its short name?",
       "options": [
-        "To describe a rural area, as in 'the country'.",
-        "To describe a city, as in 'the country of London'.",
-        "To describe a continent, as in 'the country of Africa'.",
-        "To describe a planet, as in 'the country of Earth'."
+        "The long name is used in formal contexts and often describes the form of government, while the short name is the common name",
+        "The long name is always the same as the short name",
+        "The long name is used for rural areas, while the short name is used for cities",
+        "The long name is a country's name in its own language, while the short name is in English"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The term \"country\" is also used as a qualifier descriptively, such as country music or country living.' It also says 'simply \"the country\" (used to describe a rural area).'",
-        "Incorrect. The article does not use 'country' to describe a city.",
-        "Incorrect. The article does not use 'country' to describe a continent.",
-        "Incorrect. The article does not use 'country' to describe a planet."
+        "Correct. The article states, 'The long name is typically used in formal contexts and often describes the country's form of government. The short name is the country's common name by which it is typically identified.'",
+        "Incorrect. The article notes that for certain states, the long and short forms are identical, but this is not always the case.",
+        "Incorrect. The article does not link long and short names to rural or urban areas.",
+        "Incorrect. The article does not mention languages in this context."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article indicate about the definition of 'country' over time?",
+      "question": "Which organization maintains a list of country codes as part of the ISO 3166 standard?",
       "options": [
-        "The definition and usage have fluctuated and changed over time.",
-        "The definition has remained constant and universally agreed upon.",
-        "The definition was only established in the 21st century.",
-        "The definition is now fixed by international law."
+        "The International Organization for Standardization",
+        "The United Nations",
+        "The European Union",
+        "The Organisation of African Unity"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The definition and usage of the word \"country\" has fluctuated and changed over time.'",
-        "Incorrect. The article explicitly says the definition has changed.",
-        "Incorrect. The article discusses historical changes, not a recent establishment.",
-        "Incorrect. The article notes that there is no binding definition for UN members on statehood criteria."
+        "Correct. The article states, 'The [International Organization for Standardization] maintains a [list of country codes] as part of [ISO 3166] to designate each country with a [country code].'",
+        "Incorrect. The UN is mentioned in the article, but it is not the organization that maintains the ISO 3166 list.",
+        "Incorrect. The EU is mentioned in relation to the Badinter Committee, but it does not maintain the ISO 3166 list.",
+        "Incorrect. The OAU is mentioned in relation to state recognition in 1976, but it does not maintain the ISO 3166 list."
       ]
     }
   ]

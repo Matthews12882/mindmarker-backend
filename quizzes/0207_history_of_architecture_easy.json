@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the basic need thought to be the beginning of architectural traditions?",
+      "question": "What does the history of architecture trace?",
       "options": [
-        "shelter and protection",
-        "religious expression",
-        "social status",
-        "artistic display"
+        "Changes in architecture through various traditions, regions, stylistic trends, and dates",
+        "The history of individual architects",
+        "The construction of famous buildings only",
+        "The development of engineering tools"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The beginnings of all these traditions is thought to be humans satisfying the very basic need of shelter and protection.'",
-        "Incorrect. The article does not identify religious expression as the basic need behind architectural traditions.",
-        "Incorrect. The article does not identify social status as the basic need behind architectural traditions.",
-        "Incorrect. The article does not identify artistic display as the basic need behind architectural traditions."
+        "Correct. The article states that the history of architecture traces the changes in architecture through various traditions, regions, overarching stylistic trends, and dates.",
+        "Incorrect. The article does not mention tracing individual architects.",
+        "Incorrect. The article does not limit the history to famous buildings.",
+        "Incorrect. The article does not focus on engineering tools."
       ]
     },
     {
       "id": 2,
-      "question": "Which material did not help Art Nouveau appear according to the article?",
+      "question": "What is thought to be the beginning of all architectural traditions?",
       "options": [
-        "wood",
-        "steel",
-        "cast iron",
-        "glass"
+        "Humans satisfying the very basic need of shelter and protection",
+        "The invention of steel",
+        "The rise of urbanism",
+        "The construction of the first temple"
       ],
       "answer_explanations": [
-        "Correct. The article lists steel, cast iron, tile, reinforced concrete, and glass as materials that helped Art Nouveau appear; wood is not mentioned.",
-        "Incorrect. The article explicitly names steel as one of the materials that helped Art Nouveau appear.",
-        "Incorrect. The article explicitly names cast iron as one of the materials that helped Art Nouveau appear.",
-        "Incorrect. The article explicitly names glass as one of the materials that helped Art Nouveau appear."
+        "Correct. The article says the beginnings of all these traditions is thought to be humans satisfying the very basic need of shelter and protection.",
+        "Incorrect. Steel is mentioned later as a technological innovation, not as the beginning.",
+        "Incorrect. Urbanism is listed as a specialized form of practice, not the beginning.",
+        "Incorrect. The article does not mention temples."
       ]
     },
     {
       "id": 3,
-      "question": "Which non-human great ape currently makes the most complex nests?",
+      "question": "According to the article, what does the term 'architecture' generally refer to?",
       "options": [
-        "Orangutans",
-        "Chimpanzees",
-        "Gorillas",
-        "Bonobos"
+        "Buildings",
+        "Urbanism",
+        "Civil engineering",
+        "Landscape architecture"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Orangutans currently make the most complex nests out of all non-human great apes, complete with roofs, blankets, pillows, and \"bunks\".'",
-        "Incorrect. The article describes chimpanzee nests as bundles of branches woven together, not as the most complex.",
-        "Incorrect. The article does not mention gorillas in the Paleolithic nest-building discussion.",
-        "Incorrect. The article does not mention bonobos in the Paleolithic nest-building discussion."
+        "Correct. The article states that the term 'architecture' generally refers to buildings.",
+        "Incorrect. Urbanism is mentioned as a specialized form of practice, not the general meaning.",
+        "Incorrect. Civil engineering is listed as a specialized form of practice, not the general meaning.",
+        "Incorrect. Landscape architecture is listed as a specialized form of practice, not the general meaning."
       ]
     },
     {
       "id": 4,
-      "question": "What did Adriaan Kortlandt propose hominins built on open ground to deter predators?",
+      "question": "Which fields are mentioned as specialized forms of practice included in the essence of architecture?",
       "options": [
-        "temporary enclosures of thorny bushes",
-        "rock shelters",
-        "mammoth-bone dwellings",
-        "mud-brick huts"
+        "Urbanism, civil engineering, naval, military, and landscape architecture",
+        "Painting, sculpture, and music",
+        "Mathematics, physics, and chemistry",
+        "Literature, poetry, and drama"
       ],
       "answer_explanations": [
-        "Correct. The article states that Adriaan Kortlandt proposed hominins could have built temporary enclosures of thorny bushes to deter predators.",
-        "Incorrect. Rock shelters are mentioned as natural opportunities, not as Kortlandt's proposed construction.",
-        "Incorrect. Mammoth-bone dwellings are mentioned as later Paleolithic structures, not as Kortlandt's proposal.",
-        "Incorrect. Mud-brick huts are associated with Mesopotamia, not with Kortlandt's proposal."
+        "Correct. The article lists urbanism, civil engineering, naval, military, and landscape architecture as specialized forms of practice.",
+        "Incorrect. These are not mentioned in the article.",
+        "Incorrect. These are not mentioned in the article.",
+        "Incorrect. These are not mentioned in the article."
       ]
     },
     {
       "id": 5,
-      "question": "Where are the earliest confirmed purpose-built structures located?",
+      "question": "What factors influenced trends in architecture, according to the article?",
       "options": [
-        "France",
-        "Sudan",
-        "Jordan",
-        "Japan"
+        "Technological innovations",
+        "Political elections",
+        "Religious ceremonies",
+        "Climate change only"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Currently, the earliest confirmed purpose-built structures are in France at the site of Terra Amata.'",
-        "Incorrect. Sudan is mentioned for the Arkin 8 site with sandstone circles, not for the earliest confirmed purpose-built structures.",
-        "Incorrect. Jordan is mentioned for post hole markings of houses, not for the earliest confirmed purpose-built structures.",
-        "Incorrect. Japan is mentioned only in connection with Meiji University archaeologists, not as the location of the earliest confirmed structures."
+        "Correct. The article says trends in architecture were influenced, among other factors, by technological innovations.",
+        "Incorrect. Political elections are not mentioned.",
+        "Incorrect. Religious ceremonies are not mentioned.",
+        "Incorrect. Climate change is not mentioned as a factor."
       ]
     },
     {
       "id": 6,
-      "question": "Approximately how old are the Terra Amata structures?",
+      "question": "In which centuries did technological innovations particularly influence architecture?",
       "options": [
-        "400,000 years",
-        "500,000 years",
-        "100,000 years",
-        "20,000 years"
+        "19th, 20th, and 21st centuries",
+        "15th and 16th centuries",
+        "17th and 18th centuries",
+        "Ancient times"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Terra Amata structures date to 'c. 400,000 years ago.'",
-        "Incorrect. 500,000 years refers to the claimed Chichibu huts, not the confirmed Terra Amata structures.",
-        "Incorrect. 100,000 years refers to the Arkin 8 site in Sudan.",
-        "Incorrect. 20,000 years refers to houses in eastern Jordan."
+        "Correct. The article states that technological innovations, particularly in the 19th, 20th and 21st centuries, influenced trends.",
+        "Incorrect. These centuries are not mentioned.",
+        "Incorrect. These centuries are not mentioned.",
+        "Incorrect. Ancient times are not specified."
       ]
     },
     {
       "id": 7,
-      "question": "What material preserved structures well at Mal'ta-Buret' and Mezhirich?",
+      "question": "Which materials are mentioned as improving or being used in architecture?",
       "options": [
-        "mammoth bone",
-        "sandstone",
-        "mud brick",
-        "reinforced concrete"
+        "Steel, cast iron, tile, reinforced concrete, and glass",
+        "Wood, stone, and clay",
+        "Plastic, rubber, and fiberglass",
+        "Copper, bronze, and silver"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'In areas where bone â especially mammoth bone â is a viable material, evidence of structures preserve much more easily, such as the mammoth-bone dwellings among the Mal'ta-Buret' culture... and at Mezhirich.'",
-        "Incorrect. Sandstone circles are mentioned at the Arkin 8 site in Sudan, not at Mal'ta-Buret' or Mezhirich.",
-        "Incorrect. Mud brick is associated with Mesopotamian buildings, not with these Paleolithic dwellings.",
-        "Incorrect. Reinforced concrete is mentioned as a 19th-21st century material, not a Paleolithic one."
+        "Correct. The article lists steel, cast iron, tile, reinforced concrete, and glass.",
+        "Incorrect. These materials are not mentioned.",
+        "Incorrect. These materials are not mentioned.",
+        "Incorrect. These materials are not mentioned."
       ]
     },
     {
       "id": 8,
-      "question": "Which site is listed as a Neolithic settlement in Turkey dating to ca. 9,000 BC?",
+      "question": "What did the improvement and use of these materials help appear?",
       "options": [
-        "GÃ¶bekli Tepe",
-        "Jericho",
-        "ÃatalhÃ¶yÃ¼k",
-        "Skara Brae"
+        "Art Nouveau",
+        "Gothic architecture",
+        "Renaissance architecture",
+        "Modernism"
       ],
       "answer_explanations": [
-        "Correct. The article lists 'GÃ¶bekli Tepe in Turkey, ca. 9,000 BC' among Neolithic settlements.",
-        "Incorrect. Jericho is listed as being in Palestine, Neolithic from around 8,350 BC.",
-        "Incorrect. ÃatalhÃ¶yÃ¼k is listed as being in Turkey but dated to 7,500 BC.",
-        "Incorrect. Skara Brae is listed as being in the Orkney Islands, Scotland, from 3,500 BC."
+        "Correct. The article says the improvement and/or use of these materials helped Art Nouveau appear.",
+        "Incorrect. Gothic architecture is not mentioned.",
+        "Incorrect. Renaissance architecture is not mentioned.",
+        "Incorrect. Modernism is not mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "What is Mesopotamia most noted for constructing?",
+      "question": "What did the improvement and use of these materials make more grandiose?",
       "options": [
-        "mud-brick buildings and ziggurats",
-        "pyramids and temples",
-        "stone circles and megaliths",
-        "steel and glass skyscrapers"
+        "Beaux Arts",
+        "Art Deco",
+        "Brutalism",
+        "Postmodernism"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Mesopotamia is most noted for its construction of mud-brick buildings and the construction of ziggurats.'",
-        "Incorrect. Pyramids are associated with Ancient Egypt, not Mesopotamia.",
-        "Incorrect. Stone circles and megaliths are not identified as Mesopotamian constructions in the article.",
-        "Incorrect. Steel and glass skyscrapers are modern materials not associated with ancient Mesopotamia."
+        "Correct. The article states that these materials made Beaux Arts more grandiose.",
+        "Incorrect. Art Deco is not mentioned.",
+        "Incorrect. Brutalism is not mentioned.",
+        "Incorrect. Postmodernism is not mentioned."
       ]
     },
     {
       "id": 10,
-      "question": "Who designed the Pyramid of Djoser?",
+      "question": "Which of the following is NOT listed as a specialized form of practice in the article?",
       "options": [
-        "Imhotep",
-        "Hemiunu",
-        "Leonard Woolley",
-        "Ur-Nammu"
+        "Interior design",
+        "Urbanism",
+        "Naval architecture",
+        "Landscape architecture"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Imhotep, an ancient Egyptian priest and architect, had to design a tomb for the Pharaoh Djoser... creating the first Egyptian pyramid, the Pyramid of Djoser.'",
-        "Incorrect. Hemiunu is listed as the architect of the Great Pyramid of Giza, not the Pyramid of Djoser.",
-        "Incorrect. Leonard Woolley excavated the Ziggurat of Ur, not the Pyramid of Djoser.",
-        "Incorrect. Ur-Nammu built the Ziggurat of Ur, not the Pyramid of Djoser."
+        "Correct. Interior design is not mentioned in the article; urbanism, naval architecture, and landscape architecture are listed.",
+        "Incorrect. Urbanism is explicitly listed as a specialized form of practice.",
+        "Incorrect. Naval architecture is explicitly listed as a specialized form of practice.",
+        "Incorrect. Landscape architecture is explicitly listed as a specialized form of practice."
       ]
     }
   ]

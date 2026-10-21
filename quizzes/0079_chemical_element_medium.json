@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What defines a chemical element according to the article?",
+      "question": "What defines a chemical element?",
       "options": [
         "The number of protons in its atoms",
         "The number of neutrons in its atoms",
         "The number of electrons in its atoms",
-        "The number of chemical bonds it can form"
+        "The total number of protons and neutrons"
       ],
       "answer_explanations": [
-        "Correct. The article states that a chemical element is defined by its number of protons, called the atomic number.",
-        "Incorrect. Neutrons vary among isotopes of the same element and do not define the element.",
-        "Incorrect. Electron count is determined by proton count but is not the defining characteristic.",
-        "Incorrect. Chemical bonding behavior is not how elements are defined in the article."
+        "Correct. The article states, 'A chemical element is a species of atom defined by its number of protons.'",
+        "Incorrect. The article says the number of protons, not neutrons, defines an element.",
+        "Incorrect. The number of electrons is determined by the number of protons, but it is not the defining characteristic.",
+        "Incorrect. That is the mass number, not the defining characteristic of an element."
       ]
     },
     {
       "id": 2,
-      "question": "How many elements had IUPAC recognized by November 2016?",
-      "options": [
-        "118",
-        "94",
-        "24",
-        "80"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that by November 2016, IUPAC recognized a total of 118 elements.",
-        "Incorrect. 94 is the number of naturally occurring elements, not the total recognized.",
-        "Incorrect. 24 is the number of synthetic elements, not the total recognized.",
-        "Incorrect. 80 is the number of stable elements, not the total recognized."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "What did Dmitri Mendeleev publish in 1869?",
-      "options": [
-        "The first recognizable periodic table",
-        "A list of all known chemical elements",
-        "A theory of atomic nuclei",
-        "A classification of isotopes"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Dmitri Mendeleev published the first recognizable periodic table in 1869.",
-        "Incorrect. The article does not credit Mendeleev with publishing a list of all known elements.",
-        "Incorrect. The article does not attribute a theory of atomic nuclei to Mendeleev.",
-        "Incorrect. The article does not credit Mendeleev with classifying isotopes."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What is an isotope?",
+      "question": "What are isotopes?",
       "options": [
         "Atoms of the same element with different numbers of neutrons",
         "Atoms of different elements with the same number of neutrons",
-        "Atoms that have undergone nuclear reactions",
-        "Atoms with no protons in their nucleus"
+        "Atoms of the same element with different numbers of protons",
+        "Atoms of different elements with the same number of protons"
       ],
       "answer_explanations": [
-        "Correct. The article defines isotopes as atoms of the same element with different numbers of neutrons.",
-        "Incorrect. Isotopes belong to the same element, not different elements.",
-        "Incorrect. Nuclear reactions transform elements but do not define isotopes.",
-        "Incorrect. Isotopes still contain protons; they differ in neutron count."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "Which of the following best describes how the periodic table organizes elements?",
-      "options": [
-        "By increasing atomic number into periods and groups",
-        "By increasing atomic weight into rows and columns",
-        "By decreasing density from top to bottom",
-        "By alphabetical order of element names"
-      ],
-      "answer_explanations": [
-        "Correct. The article states the periodic table organizes elements by increasing atomic number into periods and groups.",
-        "Incorrect. The article specifies atomic number, not atomic weight, as the organizing principle.",
-        "Incorrect. Density is not mentioned as the basis for the periodic table's organization.",
-        "Incorrect. The article does not describe alphabetical organization."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "What does the article say about the chemical properties of carbon isotopes?",
-      "options": [
-        "They are nearly identical because all carbon isotopes have six electrons",
-        "They differ significantly due to varying neutron counts",
-        "Only carbon-12 exhibits typical carbon chemical properties",
-        "They cannot be compared because isotopes are different elements"
-      ],
-      "answer_explanations": [
-        "Correct. The article states all carbon isotopes have nearly identical chemical properties because they all have six electrons.",
-        "Incorrect. The article says neutron count has very little effect on chemical properties.",
-        "Incorrect. The article indicates all carbon isotopes share nearly identical chemical properties.",
+        "Correct. The article defines isotopes as 'atoms of the same element (that is, with the same number of protons in their nucleus), but having different numbers of neutrons.'",
+        "Incorrect. Isotopes are atoms of the same element, not different elements.",
+        "Incorrect. Isotopes have the same number of protons, not different numbers.",
         "Incorrect. Isotopes are atoms of the same element, not different elements."
       ]
     },
     {
-      "id": 7,
-      "question": "How many naturally occurring elements have more than one stable isotope?",
+      "id": 3,
+      "question": "How many elements did IUPAC recognize by November 2016?",
       "options": [
-        "54 of 94",
-        "26",
-        "80",
+        "118",
+        "94",
+        "24",
+        "100"
+      ],
+      "answer_explanations": [
+        "Correct. The article says, 'By November 2016, the International Union of Pure and Applied Chemistry (IUPAC) recognized a total of 118 elements.'",
+        "Incorrect. 94 is the number of naturally occurring elements, not the total recognized.",
+        "Incorrect. 24 is the number of synthetic elements, not the total.",
+        "Incorrect. The article states 118, not 100."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who published the first recognizable periodic table in 1869?",
+      "options": [
+        "Dmitri Mendeleev",
+        "Albert Einstein",
+        "Marie Curie",
+        "Isaac Newton"
+      ],
+      "answer_explanations": [
+        "Correct. The article states, 'Dmitri Mendeleev, a Russian chemist who published the first recognizable periodic table in 1869.'",
+        "Incorrect. Einstein is not mentioned in this context.",
+        "Incorrect. Marie Curie is not mentioned in this context.",
+        "Incorrect. Isaac Newton is not mentioned in this context."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the atomic number of oxygen?",
+      "options": [
+        "8",
+        "6",
+        "16",
         "10"
       ],
       "answer_explanations": [
-        "Correct. The article states that most (54 of 94) naturally occurring elements have more than one stable isotope.",
-        "Incorrect. 26 is the number of monoisotopic elements, not those with multiple stable isotopes.",
-        "Incorrect. 80 is the number of stable elements overall, not those with more than one stable isotope.",
-        "Incorrect. 10 is the largest number of stable isotopes for a single element (tin)."
+        "Correct. The article states, 'oxygen has an atomic number of 8: each oxygen atom has 8 protons in its nucleus.'",
+        "Incorrect. 6 is the atomic number of carbon, not oxygen.",
+        "Incorrect. 16 is the mass number of a common oxygen isotope, not its atomic number.",
+        "Incorrect. The atomic number of oxygen is 8, not 10."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which two elements were created by Big Bang nucleosynthesis in the first 20 minutes of the universe?",
+      "options": [
+        "Hydrogen and helium",
+        "Carbon and oxygen",
+        "Lithium and beryllium",
+        "Nitrogen and oxygen"
+      ],
+      "answer_explanations": [
+        "Correct. The article says, 'The lightest elements are hydrogen and helium, both created by Big Bang nucleosynthesis in the first 20 minutes of the universe.'",
+        "Incorrect. Carbon and oxygen were not created in the Big Bang; they are made later in stars.",
+        "Incorrect. Lithium and beryllium were created only in tiny traces, not as the main products.",
+        "Incorrect. Nitrogen and oxygen are not the lightest elements and were not created in the Big Bang."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the defining characteristic of an element according to the article?",
+      "options": [
+        "Atomic number",
+        "Mass number",
+        "Atomic weight",
+        "Number of neutrons"
+      ],
+      "answer_explanations": [
+        "Correct. The article states, 'That is why atomic number, rather than mass number or atomic weight, is considered the identifying characteristic of an element.'",
+        "Incorrect. Mass number is not the identifying characteristic.",
+        "Incorrect. Atomic weight is not the identifying characteristic.",
+        "Incorrect. The number of neutrons can vary among isotopes of the same element."
       ]
     },
     {
       "id": 8,
-      "question": "Which elements are described as occurring in extreme trace amounts on Earth?",
+      "question": "Which element has the largest number of stable isotopes?",
       "options": [
-        "Technetium, promethium, astatine, francium, neptunium, and plutonium",
-        "Hydrogen, helium, lithium, and beryllium",
-        "Carbon, nitrogen, oxygen, and argon",
-        "Gold, platinum, and iron group metals"
+        "Tin",
+        "Lead",
+        "Carbon",
+        "Oxygen"
       ],
       "answer_explanations": [
-        "Correct. The article lists these six elements as occurring in extreme trace amounts.",
-        "Incorrect. These are the lightest elements created by Big Bang nucleosynthesis.",
-        "Incorrect. These are common components of air and are not described as trace elements.",
-        "Incorrect. These are native element minerals sometimes found uncombined, not trace elements."
+        "Correct. The article states, 'The largest number of stable isotopes for a single element is 10 (for tin, element 50).'",
+        "Incorrect. Lead has many isotopes but not the largest number of stable ones.",
+        "Incorrect. Carbon has three main stable isotopes, not the largest number.",
+        "Incorrect. Oxygen has three stable isotopes, not the largest number."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article say about elements with atomic numbers 1 through 82 regarding stable isotopes?",
+      "question": "What is a nuclide?",
       "options": [
-        "Each has at least one stable isotope except technetium and promethium",
-        "None have stable isotopes",
-        "All have exactly one stable isotope",
-        "Only elements with even atomic numbers have stable isotopes"
+        "A class of atoms characterized by their number of protons, neutrons, and nuclear energy state",
+        "A type of chemical bond",
+        "A molecule made of two atoms",
+        "A radioactive decay product"
       ],
       "answer_explanations": [
-        "Correct. The article states elements 1 through 82 each have at least one stable isotope except technetium (43) and promethium (61).",
-        "Incorrect. The article explicitly states most have at least one stable isotope.",
-        "Incorrect. Only 26 elements are monoisotopic; most have multiple stable isotopes.",
-        "Incorrect. The article does not restrict stable isotopes to even atomic numbers."
+        "Correct. The article defines a nuclide as 'a class of atoms characterized by their number of protons, Z, their number of neutrons, N, and their nuclear energy state.'",
+        "Incorrect. A nuclide is not a chemical bond.",
+        "Incorrect. A nuclide is not a molecule.",
+        "Incorrect. A nuclide is a class of atoms, not just a decay product."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what happens when different elements undergo chemical reactions?",
+      "question": "Which of the following elements is a noble gas that is chemically inert?",
       "options": [
-        "Atoms are rearranged into new compounds held together by chemical bonds",
-        "Atoms of one element are transformed into atoms of a different element",
-        "Isotopes are converted into different elements",
-        "Elements break down into protons, neutrons, and electrons"
+        "Argon",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon"
       ],
       "answer_explanations": [
-        "Correct. The article states that when different elements undergo chemical reactions, atoms are rearranged into new compounds held together by chemical bonds.",
-        "Incorrect. Transformation of one element into another occurs in nuclear reactions, not chemical reactions.",
-        "Incorrect. Isotopes remain the same element and are not converted in chemical reactions.",
-        "Incorrect. Chemical reactions rearrange atoms but do not break them into subatomic particles."
+        "Correct. The article mentions 'atomic argon, a noble gas which is chemically inert and therefore does not undergo chemical reactions.'",
+        "Incorrect. Oxygen is reactive and not a noble gas.",
+        "Incorrect. Nitrogen is not a noble gas and is not chemically inert.",
+        "Incorrect. Carbon is not a noble gas."
       ]
     }
   ]

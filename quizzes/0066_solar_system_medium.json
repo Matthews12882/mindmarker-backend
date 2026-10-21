@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the primary definition of the Solar System according to the article?",
+      "question": "What is the Solar System?",
       "options": [
-        "The Solar System includes the Sun and all objects that are bound to it by gravity and orbit it.",
-        "The Solar System is a single-star planetary system within the Milky Way Galaxy.",
-        "The Solar System consists of the Sun, eight planets, and their moons.",
-        "The Solar System is formed from a molecular cloud collapse about 4.6 billion years ago."
+        "The gravitationally bound system of the Sun and the masses that orbit it",
+        "A group of stars that orbit a common center",
+        "A single planet with its moons",
+        "A cloud of gas and dust in space"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"The Solar System includes the Sun and all objects that are bound to it by gravity and orbit it.\"",
-        "Incorrect. While the article mentions it is a single-star planetary system, the primary definition focuses on gravitational binding.",
-        "Incorrect. This describes a component but not the full definition given.",
-        "Incorrect. This describes formation, not the definition."
+        "Correct. The article states: 'The Solar System is the gravitationally bound system of the Sun and the masses that orbit it.'",
+        "Incorrect. The article describes the Solar System as a single-star planetary system, not a group of stars.",
+        "Incorrect. The Solar System includes the Sun and all orbiting bodies, not just one planet.",
+        "Incorrect. While it formed from a molecular cloud, the Solar System is the bound system of the Sun and its orbiting masses."
       ]
     },
     {
       "id": 2,
-      "question": "Which objects are classified as dwarf planets by the International Astronomical Union's Minor Planet Center according to the article?",
+      "question": "How much of the Solar System's total mass does the Sun account for?",
       "options": [
-        "Ceres, Pluto, Eris, Makemake, and Haumea.",
-        "Pluto, Eris, Haumea, Makemake, and Ceres.",
-        "Ceres, Pluto, Eris, Haumea, and Makemake.",
-        "Pluto, Eris, Makemake, Haumea, and Ceres."
+        "99.86%",
+        "50%",
+        "75%",
+        "90%"
       ],
       "answer_explanations": [
-        "Correct. The article lists: \"The International Astronomical Union's Minor Planet Center lists Ceres, Pluto, Eris, Makemake, and Haumea as dwarf planets.\"",
-        "Incorrect. The order is not the same as the article; the correct list includes Ceres first.",
-        "Incorrect. The order differs; the article lists Ceres first.",
-        "Incorrect. The order differs; the article lists Ceres first."
+        "Correct. The article states: 'The Sun accounts for 99.86% of the Solar System's total mass.'",
+        "Incorrect. The article states the Sun accounts for 99.86%, not 50%.",
+        "Incorrect. The article states the Sun accounts for 99.86%, not 75%.",
+        "Incorrect. The article states the Sun accounts for 99.86%, not 90%."
       ]
     },
     {
       "id": 3,
-      "question": "What is the approximate age of the Solar System as stated in the article?",
+      "question": "Which planets are the terrestrial planets in the inner Solar System?",
       "options": [
-        "About 4.6 billion years old.",
-        "Around 10 billion years old.",
-        "Approximately 2.5 billion years old.",
-        "Roughly 1 billion years old."
+        "Mercury, Venus, Earth, and Mars",
+        "Jupiter, Saturn, Uranus, and Neptune",
+        "Earth, Mars, Jupiter, and Saturn",
+        "Venus, Earth, Mars, and Jupiter"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"The Solar System formed about 4.6 billion years ago.\"",
-        "Incorrect. The article does not state 10 billion years for formation.",
-        "Incorrect. The article does not state 2.5 billion years.",
-        "Incorrect. The article does not state 1 billion years."
+        "Correct. The article says: 'Closest to the Sun in order of increasing distance are the terrestrial planets â Mercury, Venus, Earth and Mars.'",
+        "Incorrect. Those are the gas and ice giants of the outer Solar System.",
+        "Incorrect. Jupiter and Saturn are not terrestrial planets.",
+        "Incorrect. Jupiter is not a terrestrial planet."
       ]
     },
     {
       "id": 4,
-      "question": "Which region of the Solar System contains the majority of the non-stellar mass after the Sun?",
+      "question": "What are dwarf planets?",
       "options": [
-        "Jupiter and Saturn together comprise more than 90% of the non-stellar mass.",
-        "The asteroid belt contains most of the non-stellar mass.",
-        "The Kuiper belt holds the majority of the non-stellar mass.",
-        "The Oort cloud contains most of the non-stellar mass."
+        "Objects of planetary mass that do not dominate their orbit but directly orbit the Sun",
+        "Small moons that orbit planets",
+        "Asteroids that are larger than usual",
+        "Comets that have a spherical shape"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Jupiter and Saturn possess nearly 90% of the non-stellar mass of the Solar System.\"",
-        "Incorrect. The asteroid belt contains much less mass.",
-        "Incorrect. The Kuiper belt contains far less mass.",
-        "Incorrect. The Oort cloud contains far less mass."
+        "Correct. The article states: 'Objects of planetary mass that do not dominate their orbit but directly orbit the Sun are called dwarf planets.'",
+        "Incorrect. Dwarf planets orbit the Sun directly, not planets.",
+        "Incorrect. Dwarf planets are not asteroids; they are planetary-mass objects.",
+        "Incorrect. Dwarf planets are not comets."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, which planets are considered terrestrial planets?",
+      "question": "Which dwarf planet is located in the asteroid belt?",
       "options": [
-        "Mercury, Venus, Earth, and Mars.",
-        "Jupiter, Saturn, Uranus, and Neptune.",
-        "Earth, Mars, Jupiter, and Saturn.",
-        "Mercury, Venus, Uranus, and Neptune."
+        "Ceres",
+        "Pluto",
+        "Eris",
+        "Haumea"
       ],
       "answer_explanations": [
-        "Correct. The article lists: \"Closest to the Sun in order of increasing distance are the terrestrial planets â Mercury, Venus, Earth and Mars.\"",
-        "Incorrect. Those are the giant planets.",
-        "Incorrect. This mixes terrestrial and giant planets.",
-        "Incorrect. This mixes terrestrial and ice giants."
+        "Correct. The article says: 'The dwarf planet Ceres and many of these smaller bodies are located in the asteroid belt.'",
+        "Incorrect. Pluto is a trans-Neptunian object, not in the asteroid belt.",
+        "Incorrect. Eris is a trans-Neptunian object, not in the asteroid belt.",
+        "Incorrect. Haumea is a trans-Neptunian object, not in the asteroid belt."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article identify as the source of long-period comets?",
+      "question": "What are natural satellites commonly called?",
       "options": [
-        "The Oort cloud is the source for long-period comets.",
-        "The Kuiper belt is the source for long-period comets.",
-        "The asteroid belt is the source for long-period comets.",
-        "The scattered disc is the source for long-period comets."
+        "Moons",
+        "Planets",
+        "Asteroids",
+        "Comets"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"The theorized Oort cloud â the source for long-period comets â extends from somewhere beyond 2,000 AU...\"",
-        "Incorrect. The Kuiper belt is the source for short-period comets.",
-        "Incorrect. The asteroid belt is not the source.",
-        "Incorrect. The scattered disc is not the source."
+        "Correct. The article states: 'Many objects in the Solar System do not orbit the Sun directly and are instead natural satellites, commonly called 'moons'.'",
+        "Incorrect. Planets orbit the Sun directly.",
+        "Incorrect. Asteroids are small bodies, not natural satellites.",
+        "Incorrect. Comets are small bodies, not natural satellites."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following statements about the Sun's mass is correct according to the article?",
+      "question": "What is the heliosphere?",
       "options": [
-        "The Sun accounts for 99.86% of the Solar System's total mass.",
-        "The Sun accounts for 90% of the Solar System's total mass.",
-        "The Sun accounts for 50% of the Solar System's total mass.",
-        "The Sun accounts for 10% of the Solar System's total mass."
+        "A bubble created by the solar wind that surrounds the Solar System",
+        "The region where the Sun's gravity is strongest",
+        "The area between the planets",
+        "The cloud of dust around the Sun"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"The Sun accounts for 99.86% of the Solar System's total mass.\"",
-        "Incorrect. The article does not state 90%.",
-        "Incorrect. The article does not state 50%.",
-        "Incorrect. The article does not state 10%."
+        "Correct. The article mentions that the solar wind creates the heliosphere and that it is halted by the interstellar medium, forming the heliopause.",
+        "Incorrect. The heliosphere is not about gravity but about the solar wind.",
+        "Incorrect. The interplanetary medium is between bodies, but the heliosphere is the region influenced by the solar wind.",
+        "Incorrect. The heliosphere is not just a dust cloud."
       ]
     },
     {
       "id": 8,
-      "question": "What is the term used in the article for the boundary where the solar wind is halted by the interstellar medium?",
+      "question": "What is the theorized source for long-period comets?",
       "options": [
-        "The heliopause.",
-        "The Hill sphere.",
-        "The frost line.",
-        "The soot line."
+        "The Oort cloud",
+        "The Kuiper belt",
+        "The asteroid belt",
+        "The scattered disc"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"At around 70â90 AU from the Sun, the solar wind is halted by the interstellar medium, resulting in the heliopause...\"",
-        "Incorrect. The Hill sphere is the outer gravitational boundary.",
-        "Incorrect. The frost line is a temperature boundary for planet formation.",
-        "Incorrect. The soot line is a carbon condensation line."
+        "Correct. The article states: 'The theorized Oort cloud â the source for long-period comets â extends from somewhere beyond 2,000 AU.'",
+        "Incorrect. The Kuiper belt is a different region, not the source for long-period comets.",
+        "Incorrect. The asteroid belt is between Mars and Jupiter, not the source for long-period comets.",
+        "Incorrect. The scattered disc is a different region, not the source for long-period comets."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following is NOT listed as a small Solar System body in the article?",
+      "question": "What will happen to the Sun when it becomes a red giant?",
       "options": [
-        "Asteroids.",
-        "Comets.",
-        "Meteoroids.",
-        "Nebulas."
+        "Its outer layers will expand to roughly 260 times its current diameter",
+        "It will shrink to the size of Earth",
+        "It will turn into a black hole",
+        "It will explode as a supernova"
       ],
       "answer_explanations": [
-        "Correct. The article lists asteroids, comets, meteoroids, centaurs, and interplanetary dust clouds as small Solar System bodies, but not nebulas.",
-        "Incorrect. Asteroids are listed as small Solar System bodies.",
-        "Incorrect. Comets are listed as small Solar System bodies.",
-        "Incorrect. Meteoroids are listed as small Solar System bodies."
+        "Correct. The article states: 'The outer layers of the Sun will expand to roughly 260 times its current diameter, and the Sun will become a red giant.'",
+        "Incorrect. The Sun will expand, not shrink.",
+        "Incorrect. The Sun is not massive enough to become a black hole.",
+        "Incorrect. The Sun will not explode as a supernova; it will become a red giant and later a white dwarf."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article state about the habitability of Earth and Mars?",
+      "question": "What is the final remnant of the Sun after it ejects its outer layers?",
       "options": [
-        "Earth and Mars are the only planets that orbit within the Sun's habitable zone.",
-        "Earth and Mars are the only planets that can support liquid water on their surfaces.",
-        "Earth and Mars are the only planets that have atmospheres.",
-        "Earth and Mars are the only planets that have moons."
+        "A white dwarf",
+        "A red giant",
+        "A neutron star",
+        "A black hole"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"Earth and Mars are the only planets that orbit within the Sun's habitable zone, in which sunlight can keep surface water liquid under atmospheric pressure.\"",
-        "Incorrect. While they can support liquid water, the article specifically mentions the habitable zone.",
-        "Incorrect. The article does not state they are the only planets with atmospheres.",
-        "Incorrect. The article does not state they are the only planets with moons."
+        "Correct. The article states: 'Its outer layers will be ejected into space, leaving behind a dense white dwarf.'",
+        "Incorrect. The red giant is a phase before the white dwarf.",
+        "Incorrect. The Sun is not massive enough to become a neutron star.",
+        "Incorrect. The Sun is not massive enough to become a black hole."
       ]
     }
   ]

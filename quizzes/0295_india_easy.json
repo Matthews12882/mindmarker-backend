@@ -8,35 +8,51 @@
       "question": "What is the official name of India?",
       "options": [
         "Republic of India",
-        "Dominion of India",
         "Union of India",
+        "Dominion of India",
         "Federal Republic of India"
       ],
       "answer_explanations": [
-        "Correct. The article states, 'India, officially the Republic of India, is a country in South Asia.'",
-        "Incorrect. The article mentions the Dominion of India only in the context of the 1947 partition, not as the official name.",
-        "Incorrect. The article does not refer to India as the 'Union of India' as its official name.",
-        "Incorrect. While India is described as a 'federal republic' in the Constitution, the official name is 'Republic of India'."
+        "Correct. The article states: 'India, officially the Republic of India'.",
+        "Incorrect. The article does not use 'Union of India' as the official name.",
+        "Incorrect. 'Dominion of India' is not mentioned as the official name.",
+        "Incorrect. The article specifies 'Republic of India', not 'Federal Republic of India'."
       ]
     },
     {
       "id": 2,
-      "question": "Which ocean bounds India to the south?",
+      "question": "By what rank is India the world's most populous country?",
       "options": [
-        "Indian Ocean",
-        "Arabian Sea",
-        "Bay of Bengal",
-        "Pacific Ocean"
+        "Most populous",
+        "Second most populous",
+        "Third most populous",
+        "Fourth most populous"
       ],
       "answer_explanations": [
-        "Correct. The article says India is 'Bounded by the Indian Ocean on the south'.",
-        "Incorrect. The Arabian Sea is to the southwest, not the south.",
-        "Incorrect. The Bay of Bengal is to the southeast, not the south.",
-        "Incorrect. The Pacific Ocean is not mentioned as a boundary of India."
+        "Correct. The article says India is 'its most populous' country.",
+        "Incorrect. The article does not state India is second most populous.",
+        "Incorrect. The article does not state India is third most populous.",
+        "Incorrect. The article does not state India is fourth most populous."
       ]
     },
     {
       "id": 3,
+      "question": "Which ocean bounds India on the south?",
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article says India is 'Bounded by the Indian Ocean on the south'.",
+        "Incorrect. The Pacific Ocean is not mentioned as bounding India.",
+        "Incorrect. The Atlantic Ocean is not mentioned as bounding India.",
+        "Incorrect. The Arctic Ocean is not mentioned as bounding India."
+      ]
+    },
+    {
+      "id": 4,
       "question": "Which country shares a land border with India to the west?",
       "options": [
         "Pakistan",
@@ -52,88 +68,24 @@
       ]
     },
     {
-      "id": 4,
-      "question": "When did the British Raj, or Crown rule, begin in India?",
-      "options": [
-        "1858",
-        "1947",
-        "1950",
-        "1920"
-      ],
-      "answer_explanations": [
-        "Correct. The article states, 'Crown rule, or the British Raj, began in 1858.'",
-        "Incorrect. 1947 is the year India gained independence, not when Crown rule began.",
-        "Incorrect. 1950 is the year the Constitution of India was adopted.",
-        "Incorrect. 1920 is noted as the start of nonviolent resistance, not the beginning of Crown rule."
-      ]
-    },
-    {
       "id": 5,
-      "question": "In which year was the Constitution of India adopted?",
+      "question": "How many years ago did modern humans arrive on the Indian subcontinent from Africa?",
       "options": [
-        "1950",
-        "1947",
-        "1951",
-        "1956"
+        "55,000 years ago",
+        "9,000 years ago",
+        "1200 BCE",
+        "500 BCE"
       ],
       "answer_explanations": [
-        "Correct. The article says, 'The Constitution of India was adopted in 1950'.",
-        "Incorrect. 1947 is the year of independence, not the adoption of the Constitution.",
-        "Incorrect. 1951 is when the first amendment was enacted, not when the Constitution was adopted.",
-        "Incorrect. 1956 is the year of the States Reorganisation Act, not the adoption of the Constitution."
+        "Correct. The article says 'Modern humans arrived on the Indian subcontinent from Africa by 55,000 years ago'.",
+        "Incorrect. 9,000 years ago refers to settled life emerging, not human arrival.",
+        "Incorrect. 1200 BCE refers to Sanskrit diffusion, not human arrival.",
+        "Incorrect. 500 BCE refers to caste stratification, not human arrival."
       ]
     },
     {
       "id": 6,
-      "question": "What did the Green Revolution in India during the 1970s achieve?",
-      "options": [
-        "National food security",
-        "Industrial growth",
-        "Population control",
-        "Regional language pride"
-      ],
-      "answer_explanations": [
-        "Correct. The article states the Green Revolution 'achieved national food security'.",
-        "Incorrect. The Green Revolution is specifically linked to agriculture, not general industrial growth.",
-        "Incorrect. The article does not mention population control in relation to the Green Revolution.",
-        "Incorrect. Regional language pride is associated with the reorganization of states in 1956, not the Green Revolution."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "Which of these is NOT a body of water that bounds India?",
-      "options": [
-        "Pacific Ocean",
-        "Indian Ocean",
-        "Arabian Sea",
-        "Bay of Bengal"
-      ],
-      "answer_explanations": [
-        "Correct. The article does not list the Pacific Ocean as a boundary; it mentions the Indian Ocean, Arabian Sea, and Bay of Bengal.",
-        "Incorrect. The Indian Ocean is explicitly mentioned as bounding India on the south.",
-        "Incorrect. The Arabian Sea is explicitly mentioned as bounding India on the southwest.",
-        "Incorrect. The Bay of Bengal is explicitly mentioned as bounding India on the southeast."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "What type of government system does India have according to its Constitution?",
-      "options": [
-        "Democratic parliamentary system",
-        "Presidential system",
-        "Absolute monarchy",
-        "One-party state"
-      ],
-      "answer_explanations": [
-        "Correct. The article says the Constitution declared India 'governed through a democratic parliamentary system'.",
-        "Incorrect. India does not have a presidential system; it has a parliamentary system.",
-        "Incorrect. India is a republic, not an absolute monarchy.",
-        "Incorrect. India is a multi-party democracy, not a one-party state."
-      ]
-    },
-    {
-      "id": 9,
-      "question": "Which ancient civilisation flourished in the Indus River basin?",
+      "question": "Which civilisation evolved in the third millennium BCE?",
       "options": [
         "Indus Valley Civilisation",
         "Maurya Empire",
@@ -141,26 +93,74 @@
         "Vijayanagara Empire"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the 'Indus Valley Civilisation' which 'flourished during 2500â1900 BCE'.",
-        "Incorrect. The Maurya Empire emerged later, after the Indus Valley Civilisation.",
-        "Incorrect. The Gupta Empire emerged later, after the Indus Valley Civilisation.",
-        "Incorrect. The Vijayanagara Empire emerged much later, in the 2nd millennium CE."
+        "Correct. The article says 'evolving into the Indus Valley Civilisation of the third millennium BCE'.",
+        "Incorrect. The Maurya Empire is mentioned later, not as a third-millennium civilisation.",
+        "Incorrect. The Gupta Empire is mentioned later, not as a third-millennium civilisation.",
+        "Incorrect. The Vijayanagara Empire is mentioned in the 2nd millennium, not the third millennium BCE."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which language diffused into India from the northwest by 1200 BCE?",
+      "options": [
+        "Sanskrit",
+        "Dravidian",
+        "Hindi",
+        "Tamil"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'an archaic form of Sanskrit... diffused into India from the northwest' by 1200 BCE.",
+        "Incorrect. Dravidian languages were pre-existing, not diffused from the northwest.",
+        "Incorrect. Hindi is not mentioned in this context.",
+        "Incorrect. Tamil is not mentioned in this context."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which two religions arose during the period after 500 BCE?",
+      "options": [
+        "Buddhism and Jainism",
+        "Hinduism and Sikhism",
+        "Islam and Christianity",
+        "Judaism and Zoroastrianism"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'Buddhism and Jainism arose' during this period.",
+        "Incorrect. Hinduism took fuller shape but did not arise then; Sikhism emerged later.",
+        "Incorrect. Islam and Christianity became established later, not arising in this period.",
+        "Incorrect. Judaism and Zoroastrianism were established later, not arising in this period."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "In which year did the British Raj begin?",
+      "options": [
+        "1858",
+        "1947",
+        "1950",
+        "1956"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Crown rule, or the British Raj, began in 1858'.",
+        "Incorrect. 1947 is when partition occurred, not when the Raj began.",
+        "Incorrect. 1950 is when the Constitution was adopted, not when the Raj began.",
+        "Incorrect. 1956 is when states were reorganized, not when the Raj began."
       ]
     },
     {
       "id": 10,
-      "question": "What is the name for India that is mentioned in both Indian epic poetry and the Constitution?",
+      "question": "In what year was the Constitution of India adopted?",
       "options": [
-        "Bharat",
-        "Hindustan",
-        "Indus",
-        "Sindhu"
+        "1950",
+        "1947",
+        "1858",
+        "1951"
       ],
       "answer_explanations": [
-        "Correct. The article states, 'The term Bharat... mentioned in both Indian epic poetry and the Constitution of India'.",
-        "Incorrect. Hindustan is a Middle Persian name that became popular later, not mentioned in the Constitution.",
-        "Incorrect. Indus is the name of a river, not a name for the country used in the Constitution.",
-        "Incorrect. Sindhu is a Sanskrit word for river, specifically the Indus, not a constitutional name for India."
+        "Correct. The article says 'The Constitution of India was adopted in 1950'.",
+        "Incorrect. 1947 is when partition happened, not when the Constitution was adopted.",
+        "Incorrect. 1858 is when the British Raj began, not when the Constitution was adopted.",
+        "Incorrect. 1951 is when amendments began, not when the Constitution was adopted."
       ]
     }
   ]

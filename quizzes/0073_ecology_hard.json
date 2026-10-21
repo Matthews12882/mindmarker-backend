@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which scientist coined the term 'ecology' in 1866?",
+      "question": "Why does the article argue that the nature of connections in ecological communities cannot be explained by knowing the details of each species in isolation?",
       "options": [
-        "Ernst Haeckel",
-        "Pierre Verhulst",
-        "G. Evelyn Hutchinson",
-        "Charles Darwin"
+        "Because the emergent pattern is neither revealed nor predicted until the ecosystem is studied as an integrated whole.",
+        "Because individual species have no effect on the larger ecosystem.",
+        "Because ecological communities are too large to be studied in detail.",
+        "Because the details of each species are irrelevant to the community's function."
       ],
       "answer_explanations": [
-        "Correct. The article states that the term *ecology* was coined in 1866 by the German scientist Ernst Haeckel.",
-        "Incorrect. Pierre Verhulst is noted for the logistic equation, not for coining the term ecology.",
-        "Incorrect. G. Evelyn Hutchinson contributed the niche concept in 1957, not the term's origin.",
-        "Incorrect. Charles Darwin is known for evolution, not for coining the term ecology."
+        "Correct. The article states that 'the emergent pattern is neither revealed nor predicted until the ecosystem is studied as an integrated whole', implying that the whole is more than the sum of its parts.",
+        "Incorrect. The article says individual species, like a single tree, are 'critically relevant' to organisms living in and on it, so they do have effects.",
+        "Incorrect. The article does not claim communities are too large to study; it claims that isolated knowledge of species is insufficient to explain community connections.",
+        "Incorrect. The article emphasizes that details of each species matter, but they are insufficient alone; it does not say they are irrelevant."
       ]
     },
     {
       "id": 2,
-      "question": "What does the logistic equation incorporate that the Malthusian growth model does not?",
+      "question": "How do the paradigms of population/community ecology and ecosystem ecology differ in their fundamental focus, according to the article?",
       "options": [
-        "A crowding coefficient that limits growth",
-        "Immigration and emigration rates",
-        "The effect of predation",
-        "The role of biodiversity"
+        "Population/community ecology focuses on organisms' distribution and abundance, while ecosystem ecology focuses on materials and energy fluxes.",
+        "Population/community ecology focuses on materials and energy fluxes, while ecosystem ecology focuses on organisms' distribution and abundance.",
+        "Both focus equally on organisms' distribution and energy fluxes.",
+        "Population/community ecology focuses on abiotic factors, while ecosystem ecology focuses on biotic factors."
       ],
       "answer_explanations": [
-        "Correct. The logistic equation includes the crowding coefficient (Î±) that reduces growth as population approaches carrying capacity, unlike the exponential Malthusian model.",
-        "Incorrect. Immigration and emigration are separate variables in population models but not introduced by the logistic equation.",
-        "Incorrect. Predation is not a component of the logistic equation as described.",
-        "Incorrect. Biodiversity is not part of the logistic equation's formulation."
+        "Correct. The article explicitly states that 'the former focuses on organisms' distribution and abundance, while the latter focuses on materials and energy fluxes'.",
+        "Incorrect. This reverses the two paradigms as described in the article.",
+        "Incorrect. The article states they have 'contrasting paradigms', implying different focuses, not an equal focus on both.",
+        "Incorrect. The article does not describe the difference in terms of biotic vs. abiotic factors."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is NOT listed as a subdiscipline of ecology in the article?",
+      "question": "What does the article imply about the relationship between the fundamental niche and the realized niche?",
       "options": [
-        "Population ecology",
-        "Community ecology",
-        "Evolutionary ecology",
-        "Ecosystem ecology"
+        "The realized niche is a subset of the fundamental niche, as it includes additional ecological conditions beyond just environmental ones.",
+        "The fundamental niche is a subset of the realized niche, as it includes ecological interactions.",
+        "They are identical concepts with different names.",
+        "The realized niche is always larger than the fundamental niche because it includes more conditions."
       ],
       "answer_explanations": [
-        "Incorrect. Population ecology is explicitly mentioned as a main subdiscipline.",
-        "Incorrect. Community ecology is also listed as a main subdiscipline.",
-        "Correct. Evolutionary ecology is not listed among the main subdisciplines; the article mentions evolutionary biology as overlapping but not as a subdiscipline.",
-        "Incorrect. Ecosystem ecology is explicitly listed as a main subdiscipline."
+        "Correct. The article defines the fundamental niche as 'the set of environmental conditions' and the realized niche as 'the set of environmental plus ecological conditions', implying the realized niche is a more constrained, subset version of the fundamental.",
+        "Incorrect. The realized niche adds ecological conditions, so it is not a subset of the fundamental; it is more specific, not more inclusive.",
+        "Incorrect. The article explicitly sub-divides the niche into fundamental and realized, indicating they are distinct concepts.",
+        "Incorrect. The realized niche includes more types of conditions (ecological), but this makes it a narrower set where the species persists, not a larger one."
       ]
     },
     {
       "id": 4,
-      "question": "What concept describes the set of environmental conditions under which a species can persist without biotic interactions?",
+      "question": "Why is the Gaia hypothesis considered an example of holism applied in ecological theory, based on the article?",
       "options": [
-        "Fundamental niche",
-        "Realized niche",
-        "Habitat",
-        "Ecosystem"
+        "Because it proposes that the planet's temperature and atmospheric conditions are maintained by an emergent feedback loop generated by the metabolism of all living organisms, treating the Earth as a self-regulating whole.",
+        "Because it suggests that individual organisms act independently to regulate the climate.",
+        "Because it focuses on the parts of the system in isolation rather than the whole.",
+        "Because it denies any interaction between living organisms and the physical environment."
       ],
       "answer_explanations": [
-        "Correct. The article defines the fundamental niche as the set of environmental conditions under which a species is able to persist, without considering biotic interactions.",
-        "Incorrect. The realized niche includes ecological interactions, not just abiotic conditions.",
-        "Incorrect. Habitat refers to the physical environment where a species occurs, not the full set of conditions.",
-        "Incorrect. An ecosystem includes multiple organisms and abiotic components, not a species' niche."
+        "Correct. The article states that the Gaia hypothesis posits 'an emergent feedback loop generated by the metabolism of living organisms that maintains the core temperature of the Earth and atmospheric conditions within a narrow self-regulating range', which is a holistic, whole-system view.",
+        "Incorrect. The hypothesis is about a collective, emergent feedback loop, not independent action.",
+        "Incorrect. Holism emphasizes the whole, not isolated parts, and the Gaia hypothesis is about the whole planet.",
+        "Incorrect. The hypothesis is based on the interaction between organisms and the environment, not a denial of it."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following best describes ecosystem engineering?",
+      "question": "What conclusion can be drawn from the article's description of the Malthusian growth model and its transformation into the logistic equation?",
       "options": [
-        "Physical modifications of the habitat by organisms",
-        "The process of niche construction only",
-        "The regulation of climate by biodiversity",
-        "The study of nutrient cycling"
+        "The logistic equation refines the Malthusian model by adding a crowding coefficient that accounts for limits to growth, leading to a carrying capacity.",
+        "The logistic equation is a simpler version of the Malthusian model with fewer variables.",
+        "The Malthusian model and logistic equation are unrelated and describe different phenomena.",
+        "The logistic equation proves that populations always grow exponentially without limits."
       ],
       "answer_explanations": [
-        "Correct. The article states that ecosystem engineering relates to physical modifications of the habitat by organisms.",
-        "Incorrect. Niche construction includes evolutionary implications beyond physical modifications.",
-        "Incorrect. Climate regulation is an ecosystem service, not ecosystem engineering.",
-        "Incorrect. Nutrient cycling is an ecosystem process, not engineering."
+        "Correct. The article describes how Malthus' principle was 'transformed into a model known as the logistic equation' by adding a crowding coefficient, which leads to an equilibrium or carrying capacity, refining the exponential growth model.",
+        "Incorrect. The logistic equation is more complex, adding a crowding coefficient to the Malthusian model.",
+        "Incorrect. The article explicitly states the logistic equation was derived from Malthus' principle.",
+        "Incorrect. The logistic equation introduces a crowding coefficient that limits growth, contradicting unlimited exponential growth."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, which of the following is a key characteristic of the Gaia hypothesis?",
+      "question": "How does the concept of niche construction differ from ecosystem engineering, as explained in the article?",
       "options": [
-        "A feedback loop generated by organism metabolism maintains Earth's temperature",
-        "A hierarchical organization of biomes",
-        "The role of nitrogen fixers in population dynamics",
-        "The measurement of species diversity"
+        "Niche construction considers the evolutionary implications of physical changes and feedback on natural selection, while ecosystem engineering only relates to physical modifications of the habitat.",
+        "Ecosystem engineering considers evolutionary implications, while niche construction only relates to physical modifications.",
+        "They are identical concepts with no differences.",
+        "Niche construction is a subset of ecosystem engineering that focuses only on dead organisms."
       ],
       "answer_explanations": [
-        "Correct. The Gaia hypothesis is described as an emergent feedback loop generated by the metabolism of living organisms that maintains Earth's temperature and atmospheric conditions within a narrow range.",
-        "Incorrect. Hierarchical organization of biomes is a separate concept, not the Gaia hypothesis.",
-        "Incorrect. Nitrogen fixers are mentioned in the context of panarchy, not Gaia.",
-        "Incorrect. Species diversity measurement is unrelated to Gaia."
+        "Correct. The article states that ecosystem engineering 'relates only to the physical modifications of the habitat' whereas niche construction 'also considers the evolutionary implications of physical changes to the environment and feedback on natural selection'.",
+        "Incorrect. This reverses the definitions given in the article.",
+        "Incorrect. The article explicitly distinguishes between the two concepts.",
+        "Incorrect. The article gives examples of niche construction after death, but this is not the defining difference."
       ]
     },
     {
       "id": 7,
-      "question": "What term refers to the total sum of ecosystems on the planet?",
+      "question": "What does the article imply about the relationship between biodiversity and ecosystem services?",
       "options": [
-        "Biosphere",
-        "Biome",
-        "Community",
-        "Guild"
+        "Biodiversity plays an important role in delivering ecosystem services that maintain and improve human quality of life.",
+        "Biodiversity has no effect on ecosystem services.",
+        "Ecosystem services are only provided by human-managed landscapes, not by biodiversity.",
+        "Biodiversity reduces the quality of ecosystem services."
       ],
       "answer_explanations": [
-        "Correct. The article defines the biosphere as the largest scale of ecological organization: the total sum of ecosystems on the planet.",
-        "Incorrect. A biome is a larger unit categorizing regions of ecosystems, not the total sum.",
-        "Incorrect. A community refers to interacting populations in a given area.",
-        "Incorrect. A guild is a group of species sharing similar resource use."
+        "Correct. The article states that 'Biodiversity plays an important role in ecosystem services which by definition maintain and improve human quality of life'.",
+        "Incorrect. The article explicitly states biodiversity plays an important role in ecosystem services.",
+        "Incorrect. The article mentions that biodiversity delivers services across heterogeneous real-world landscapes, influenced by human management, but it does not say services are only from human-managed landscapes.",
+        "Incorrect. The article states biodiversity helps maintain and improve human quality of life through ecosystem services."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is NOT listed as an ecosystem service?",
+      "question": "Why does the article suggest that the oceanic microbiome is significant?",
       "options": [
-        "Soil formation",
-        "Erosion control",
-        "Genetic sequencing",
-        "Water filtration"
+        "Because it plays a significant role in the ecological biogeochemistry of the planet's oceans.",
+        "Because it is the only source of microbial diversity on the planet.",
+        "Because it was discovered before molecular genetics existed.",
+        "Because it is unrelated to the planet's biogeochemical cycles."
       ],
       "answer_explanations": [
-        "Incorrect. Soil formation is listed as an ecosystem service.",
-        "Incorrect. Erosion control is listed as an ecosystem service.",
-        "Correct. Genetic sequencing is not listed among the ecosystem services in the article.",
-        "Incorrect. Water filtration is listed as an ecosystem service."
+        "Correct. The article explicitly states that 'The oceanic microbiome plays a significant role in the ecological biogeochemistry of the planet's oceans'.",
+        "Incorrect. The article mentions a 'hidden richness of microbial diversity on the planet', implying diversity is not limited to the ocean.",
+        "Incorrect. The article states microbiomes were 'discovered largely through advances in molecular genetics', implying they were discovered after such advances.",
+        "Incorrect. The article explicitly links the oceanic microbiome to biogeochemistry."
       ]
     },
     {
       "id": 9,
-      "question": "In population ecology, what does the variable *K* commonly represent?",
+      "question": "What does the article imply about the use of metapopulation models in conservation research?",
       "options": [
-        "Carrying capacity",
-        "Intrinsic growth rate",
-        "Crowding coefficient",
-        "Birth rate"
+        "They are a statistical approach that simplifies landscapes into patches of varying quality, useful for understanding extinction and recolonization dynamics.",
+        "They are only used for studying single, isolated populations.",
+        "They ignore the spatial structure of landscapes.",
+        "They are a type of model that assumes no extinction or recolonization occurs."
       ],
       "answer_explanations": [
-        "Correct. The article explains that *K* is commonly used as the equilibrium value known as the \"carrying capacity.\"",
-        "Incorrect. The intrinsic growth rate is denoted by *r*.",
-        "Incorrect. The crowding coefficient is denoted by Î±.",
-        "Incorrect. The birth rate per capita is denoted by b."
+        "Correct. The article states that 'Metapopulation ecology is another statistical approach that is often used in conservation research' and that 'Metapopulation models simplify the landscape into patches of varying levels of quality'.",
+        "Incorrect. The article defines metapopulations as 'a population of populations which go extinct locally and recolonize', implying multiple populations, not a single one.",
+        "Incorrect. The article says the models simplify the landscape into patches, which implies they incorporate spatial structure.",
+        "Incorrect. The definition of metapopulation explicitly includes local extinction and recolonization."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following best captures the definition of biodiversity as presented in the article?",
+      "question": "How does the article suggest that the hierarchy of ecological organization helps in the study of ecology?",
       "options": [
-        "The diversity of life from genes to ecosystems across all levels of biological organization",
-        "The total number of species in a given area",
-        "The genetic variation within a single population",
-        "The variety of ecosystem services provided by nature"
+        "It structures the study into a conceptually manageable framework, ranging from organisms to the biosphere, and exhibits non-linear behaviors.",
+        "It makes the study of ecology more complex and unmanageable.",
+        "It only applies to the study of individual species, not ecosystems.",
+        "It is a linear framework where cause and effect are always proportional."
       ],
       "answer_explanations": [
-        "Correct. The article defines biodiversity as describing the diversity of life from genes to ecosystems and spans every level of biological organization.",
-        "Incorrect. This definition is narrower than the article's broader definition.",
-        "Incorrect. This focuses only on genetic variation, not the full scope.",
-        "Incorrect. Ecosystem services are an outcome of biodiversity, not its definition."
+        "Correct. The article states that the hierarchy is used 'to structure the study of ecology into a conceptually manageable framework' and that it exhibits 'non-linear behaviors'.",
+        "Incorrect. The article says it makes the study 'conceptually manageable', not more complex or unmanageable.",
+        "Incorrect. The hierarchy spans from organisms to the biosphere, including ecosystems and biomes, not just individual species.",
+        "Incorrect. The article explicitly states the framework exhibits 'non-linear behaviors', meaning cause and effect are disproportionate."
       ]
     }
   ]

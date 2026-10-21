@@ -8,31 +8,31 @@
       "question": "What was Catherine the Great's birth name?",
       "options": [
         "Sophie Auguste Friederike von Anhalt-Zerbst",
-        "Joanna Elisabeth of Holstein-Gottorp",
-        "Catherine I of Russia",
-        "Elizabeth of Russia"
+        "Catherine II",
+        "Maria Feodorovna",
+        "Anna Petrovna"
       ],
       "answer_explanations": [
         "Correct. The article states she was born Sophie Auguste Friederike von Anhalt-Zerbst.",
-        "Incorrect. Joanna Elisabeth of Holstein-Gottorp was Catherine's mother.",
-        "Incorrect. Catherine I of Russia was an earlier empress whose name Catherine took at baptism.",
-        "Incorrect. Elizabeth of Russia was the reigning empress who arranged Catherine's marriage to Peter."
+        "Incorrect. Catherine II was her title as empress, not her birth name.",
+        "Incorrect. Maria Feodorovna is not mentioned in the article.",
+        "Incorrect. Anna Petrovna is not mentioned in the article."
       ]
     },
     {
       "id": 2,
-      "question": "How long did Catherine the Great reign as Empress of Russia?",
+      "question": "When did Catherine the Great become Empress of Russia?",
       "options": [
-        "Over 34 years",
-        "Seven months",
-        "10 years",
-        "20 years"
+        "9 July 1762",
+        "2 May 1729",
+        "17 November 1796",
+        "1762"
       ],
       "answer_explanations": [
-        "Correct. The article states her reign of over 34 years lasted from 9 July 1762 until her death in 1796.",
-        "Incorrect. Seven months was the length of Peter III's reign before his deposition.",
-        "Incorrect. The article does not state a 10-year reign.",
-        "Incorrect. The article does not state a 20-year reign."
+        "Correct. The article says she was Empress of Russia from 9 July 1762.",
+        "Incorrect. 2 May 1729 is her birth date, not her accession date.",
+        "Incorrect. 17 November 1796 is her death date, not her accession date.",
+        "Incorrect. While 1762 is the year, the article specifies 9 July 1762."
       ]
     },
     {
@@ -40,127 +40,127 @@
       "question": "Whom did Catherine overthrow in a coup d'Ã©tat?",
       "options": [
         "Emperor Peter III",
-        "Emperor Peter the Great",
-        "Count Grigory Orlov",
-        "Empress Elizabeth"
+        "Peter the Great",
+        "Grigory Orlov",
+        "Grigory Potemkin"
       ],
       "answer_explanations": [
-        "Correct. The article states Catherine overthrew her husband, Emperor Peter III, in a coup d'Ã©tat.",
-        "Incorrect. Peter the Great was Peter III's grandfather, not the emperor Catherine overthrew.",
-        "Incorrect. Count Grigory Orlov was a noble favourite of Catherine, not the emperor she overthrew.",
-        "Incorrect. Empress Elizabeth preceded Catherine and arranged her marriage to Peter."
+        "Correct. The article states she overthrew her husband Emperor Peter III in a coup d'Ã©tat.",
+        "Incorrect. Peter the Great was a previous emperor, not the one she overthrew.",
+        "Incorrect. Grigory Orlov was a favourite, not an emperor.",
+        "Incorrect. Grigory Potemkin was a favourite, not an emperor."
       ]
     },
     {
       "id": 4,
-      "question": "Where was Catherine born?",
+      "question": "How long did Catherine's reign last?",
       "options": [
-        "Stettin",
-        "Saint Petersburg",
-        "Moscow",
-        "Oranienbaum"
+        "over 34 years",
+        "7 months",
+        "20 years",
+        "exactly 34 years"
       ],
       "answer_explanations": [
-        "Correct. The article states Catherine was born in the city of Stettin, now known as Szczecin.",
-        "Incorrect. Saint Petersburg was where her wedding took place, not her birthplace.",
-        "Incorrect. The article does not state she was born in Moscow.",
-        "Incorrect. Oranienbaum was the residence of the young court after her marriage."
+        "Correct. The article says her reign of over 34 years saw an era of prosperity.",
+        "Incorrect. 7 months is the length of Peter III's reign, not Catherine's.",
+        "Incorrect. The article does not mention 20 years.",
+        "Incorrect. The article says 'over 34 years', not exactly 34."
       ]
     },
     {
       "id": 5,
-      "question": "At what age did Catherine marry Peter?",
+      "question": "What era did Catherine's reign see prosperity during?",
       "options": [
-        "16",
-        "15",
-        "10",
-        "18"
+        "the Enlightenment",
+        "the Renaissance",
+        "the Industrial Revolution",
+        "the Middle Ages"
       ],
       "answer_explanations": [
-        "Correct. The article states Catherine had recently turned 16 when the marriage took place on 21 August 1745.",
-        "Incorrect. She arrived in Russia at age 15, but married the following year at 16.",
-        "Incorrect. She met Peter at age 10, but did not marry him then.",
-        "Incorrect. The article does not state she married at age 18."
+        "Correct. The article mentions 'an era of prosperity during the Enlightenment'.",
+        "Incorrect. The Renaissance is not mentioned in the article.",
+        "Incorrect. The Industrial Revolution is not mentioned in the article.",
+        "Incorrect. The Middle Ages are not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "Which religion did Catherine convert to upon arriving in Russia?",
+      "question": "What was Catherine's nationality at birth?",
       "options": [
-        "Eastern Orthodoxy",
-        "Lutheranism",
-        "Catholicism",
-        "Islam"
+        "German",
+        "Russian",
+        "French",
+        "Polish"
       ],
       "answer_explanations": [
-        "Correct. The article states the Russian Orthodox Church received Sophie as a member and she took the baptismal name Catherine.",
-        "Incorrect. Catherine was born a Lutheran but converted to Eastern Orthodoxy despite her father's objections.",
-        "Incorrect. The article does not mention conversion to Catholicism.",
-        "Incorrect. The article does not mention conversion to Islam."
+        "Correct. The article states she was 'Born a German princess'.",
+        "Incorrect. She was not born Russian, though she became Empress of Russia.",
+        "Incorrect. French is not mentioned in the article.",
+        "Incorrect. Polish is not mentioned in the article."
       ]
     },
     {
       "id": 7,
-      "question": "Which institution did Catherine establish as the first state-financed higher education institution for women in Europe?",
+      "question": "At what age did Catherine marry Peter?",
       "options": [
-        "Smolny Institute of Noble Maidens",
-        "University of Moscow",
-        "St. Petersburg Academy",
-        "Catherine Palace School"
+        "16",
+        "18",
+        "20",
+        "15"
       ],
       "answer_explanations": [
-        "Correct. The article states Catherine established the Smolny Institute of Noble Maidens, the first state-financed higher education institution for women in Europe.",
-        "Incorrect. The article does not attribute the founding of the University of Moscow to Catherine.",
-        "Incorrect. The article does not mention the St. Petersburg Academy in this context.",
-        "Incorrect. The article does not mention a Catherine Palace School."
+        "Correct. The article says she married Peter 'at the age of 16'.",
+        "Incorrect. The article does not say 18.",
+        "Incorrect. The article does not say 20.",
+        "Incorrect. The article does not say 15."
       ]
     },
     {
       "id": 8,
-      "question": "Which territory did Russians colonise under Catherine, becoming the first Europeans to do so?",
+      "question": "Who was Peter III in relation to Peter the Great?",
       "options": [
-        "Alaska",
-        "Poland",
-        "Crimea",
-        "New Russia"
+        "a grandson",
+        "a son",
+        "a brother",
+        "a cousin"
       ],
       "answer_explanations": [
-        "Correct. The article states Russians became the first Europeans to colonise Alaska, establishing Russian America.",
-        "Incorrect. Catherine installed a former lover on the throne of Poland, but did not colonise it as the first Europeans.",
-        "Incorrect. The Crimean Khanate was annexed, but the article does not describe Russians as the first Europeans to colonise it.",
-        "Incorrect. New Russia was colonised with British support along the Black and Azov seas, but Alaska is described as the first European colonisation."
+        "Correct. The article describes Peter as 'a grandson of Peter the Great'.",
+        "Incorrect. He was not a son.",
+        "Incorrect. He was not a brother.",
+        "Incorrect. He was not a cousin."
       ]
     },
     {
       "id": 9,
-      "question": "What did the Manifesto on Freedom of the Nobility free Russian nobles from?",
+      "question": "Which of the following was a close ally and favourite of Catherine?",
       "options": [
-        "Compulsory military or state service",
-        "Payment of taxes",
-        "Serfdom",
-        "Foreign alliances"
+        "Grigory Potemkin",
+        "Alexander Suvorov",
+        "Pyotr Rumyantsev",
+        "Samuel Greig"
       ],
       "answer_explanations": [
-        "Correct. The article states the manifesto freed Russian nobles from compulsory military or state service.",
-        "Incorrect. The article does not mention freedom from payment of taxes.",
-        "Incorrect. The article states serfdom continued and was not abolished by this manifesto.",
-        "Incorrect. The article does not mention freedom from foreign alliances."
+        "Correct. The article mentions 'favourites such as Count Grigory Orlov and Grigory Potemkin'.",
+        "Incorrect. Alexander Suvorov was a general, not a favourite.",
+        "Incorrect. Pyotr Rumyantsev was a general, not a favourite.",
+        "Incorrect. Samuel Greig was an admiral, not a favourite."
       ]
     },
     {
       "id": 10,
-      "question": "Which language was used as the main language of the Russian imperial court until 1812?",
+      "question": "In which direction did Russia expand to become the first Europeans to colonise Alaska?",
       "options": [
-        "French",
-        "Russian",
-        "German",
-        "Latin"
+        "east",
+        "west",
+        "south",
+        "north"
       ],
       "answer_explanations": [
-        "Correct. The article states the use of French as the main language of the Russian imperial court continued until 1812.",
-        "Incorrect. Although Catherine learned Russian, she spoke French in court most circumstances.",
-        "Incorrect. German was Catherine's native language, but not the main court language.",
-        "Incorrect. The article does not identify Latin as the main court language."
+        "Correct. The article says 'In the east, Russians became the first Europeans to colonise Alaska'.",
+        "Incorrect. The west is mentioned for Poland, not Alaska.",
+        "Incorrect. The south is mentioned for Crimea, not Alaska.",
+        "Incorrect. The north is not mentioned in the article."
       ]
     }
   ]

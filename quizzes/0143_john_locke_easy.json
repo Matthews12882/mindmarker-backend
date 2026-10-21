@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which work by John Locke was published anonymously in 1689?",
+      "question": "What was John Locke's profession besides being a philosopher?",
       "options": [
-        "A Letter Concerning Toleration",
-        "Two Treatises of Government",
-        "An Essay Concerning Human Understanding",
-        "Fundamental Constitutions of Carolina"
+        "Physician",
+        "Lawyer",
+        "Priest",
+        "Merchant"
       ],
       "answer_explanations": [
-        "Correct. A Letter Concerning Toleration was published anonymously in 1689, as stated in the article.",
-        "Incorrect. Two Treatises of Government was also published anonymously in 1689/90, but the question asks for the work published in 1689, which is A Letter Concerning Toleration.",
-        "Incorrect. An Essay Concerning Human Understanding was published in 1689/90, not 1689 alone.",
-        "Incorrect. The Fundamental Constitutions of Carolina was drafted in 1669, not published anonymously in 1689."
+        "Correct. The article states that John Locke was an 'English philosopher and physician'.",
+        "Incorrect. The article does not mention Locke being a lawyer; it identifies him as a philosopher and physician.",
+        "Incorrect. The article does not mention Locke being a priest; it identifies him as a philosopher and physician.",
+        "Incorrect. The article does not mention Locke being a merchant; it identifies him as a philosopher and physician."
       ]
     },
     {
       "id": 2,
-      "question": "What phrase did Locke use to describe the mind at birth?",
+      "question": "What is John Locke commonly known as?",
       "options": [
-        "tabula rasa",
-        "blank slate",
-        "innate ideas",
-        "empiricism"
+        "The father of liberalism",
+        "The father of democracy",
+        "The father of science",
+        "The father of empiricism"
       ],
       "answer_explanations": [
-        "Correct. Locke postulated that at birth the mind is a blank slate, or tabula rasa, as mentioned in the article.",
-        "Incorrect. While 'blank slate' is a description, the specific phrase Locke used is 'tabula rasa'.",
-        "Incorrect. Innate ideas are the opposite of Locke's view; he argued we are born without them.",
-        "Incorrect. Empiricism is the broader philosophical concept, not the phrase describing the mind at birth."
+        "Correct. The article says he is 'commonly known as the \"father of liberalism\"'.",
+        "Incorrect. The article does not call him the father of democracy; it calls him the father of liberalism.",
+        "Incorrect. The article does not call him the father of science; it calls him the father of liberalism.",
+        "Incorrect. The article does not call him the father of empiricism; it calls him the father of liberalism."
       ]
     },
     {
       "id": 3,
-      "question": "Which later philosopher's work was influenced by Locke's philosophy of mind?",
+      "question": "Which of these works is NOT mentioned as one of John Locke's important works?",
       "options": [
-        "David Hume",
-        "Immanuel Kant",
-        "Rousseau",
-        "Voltaire"
+        "The Social Contract",
+        "A Letter Concerning Toleration",
+        "Two Treatises of Government",
+        "An Essay Concerning Human Understanding"
       ],
       "answer_explanations": [
-        "Correct. The article states that Locke's philosophy of mind influenced later philosophers such as Rousseau, David Hume, and Immanuel Kant.",
-        "Incorrect. While Kant was influenced, the article specifically mentions Hume as one of the later philosophers influenced by Locke's philosophy of mind.",
-        "Incorrect. Rousseau is also mentioned as influenced, but the question asks for which later philosopher's work was influenced, and the article lists Hume and Kant as examples.",
-        "Incorrect. Voltaire is mentioned as influenced by Locke's writings, but not specifically his philosophy of mind."
+        "Correct. The article lists 'A Letter Concerning Toleration', 'Two Treatises of Government', and 'An Essay Concerning Human Understanding' as important works, but does not mention 'The Social Contract'.",
+        "Incorrect. 'A Letter Concerning Toleration' is explicitly listed as one of his important works.",
+        "Incorrect. 'Two Treatises of Government' is explicitly listed as one of his important works.",
+        "Incorrect. 'An Essay Concerning Human Understanding' is explicitly listed as one of his important works."
       ]
     },
     {
       "id": 4,
-      "question": "Which organization elected Locke as a Fellow in 1668?",
+      "question": "According to the article, what does Locke's writing on toleration contend about religion?",
       "options": [
-        "Royal Society",
-        "Royal Geographical Society",
-        "British Academy",
-        "American Philosophical Society"
+        "That religion is a matter for the individual",
+        "That religion should be controlled by the state",
+        "That religion requires uniformity",
+        "That religion is a matter for the churches"
       ],
       "answer_explanations": [
-        "Correct. Locke was elected a Fellow of the Royal Society in 1668, as noted in the article.",
-        "Incorrect. The Royal Geographical Society did not exist at that time.",
-        "Incorrect. The British Academy was founded later.",
-        "Incorrect. The American Philosophical Society was founded in 1743."
+        "Correct. The article states that 'His writing on toleration contends that religion is a matter for the individual'.",
+        "Incorrect. The article says religion is a matter for the individual, not for state control.",
+        "Incorrect. The article says his writing rules out religious coercion and uniformity, not that it requires uniformity.",
+        "Incorrect. The article says religion is a matter for the individual, not for the churches."
       ]
     },
     {
       "id": 5,
-      "question": "What was the name of the school Locke attended before Oxford?",
+      "question": "What does Locke's 'Two Treatises on Government' argue for?",
       "options": [
-        "Westminster School",
-        "Eton College",
-        "Charterhouse School",
-        "St Paul's School"
+        "Government based on the consent of the governed",
+        "Government based on divine right",
+        "Government based on hereditary succession",
+        "Government based on military power"
       ],
       "answer_explanations": [
-        "Correct. The article states that Locke attended the prestigious Westminster School before entering Christ Church, Oxford.",
-        "Incorrect. Eton College was founded earlier but Locke did not attend it.",
-        "Incorrect. Charterhouse School was not his school.",
-        "Incorrect. St Paul's School is not mentioned as his school."
+        "Correct. The article says 'His Two Treatises on Government argues for government based on the consent of the governed'.",
+        "Incorrect. The article argues for consent of the governed, not divine right.",
+        "Incorrect. The article argues for consent of the governed, not hereditary succession.",
+        "Incorrect. The article argues for consent of the governed, not military power."
       ]
     },
     {
       "id": 6,
-      "question": "Which political event did Locke witness that influenced his political thinking?",
+      "question": "Which historical document is believed to have been influenced by Locke's 'Two Treatises'?",
       "options": [
-        "Glorious Revolution",
-        "American Revolution",
-        "French Revolution",
-        "Industrial Revolution"
+        "The Declaration of Independence",
+        "The Magna Carta",
+        "The Bill of Rights",
+        "The Constitution of the United States"
       ],
       "answer_explanations": [
-        "Correct. Locke lived through the Glorious Revolution of 1688, which influenced his political thinking, as the article mentions.",
-        "Incorrect. The American Revolution occurred later.",
-        "Incorrect. The French Revolution occurred later.",
-        "Incorrect. The Industrial Revolution began later."
+        "Correct. The article states the 'Two Treatises' are believed to have influenced the language Thomas Jefferson chose in drafting the 'Declaration of Independence'.",
+        "Incorrect. The article mentions the Declaration of Independence, not the Magna Carta.",
+        "Incorrect. The article mentions the Declaration of Independence, not the Bill of Rights.",
+        "Incorrect. The article mentions the Declaration of Independence, not the Constitution."
       ]
     },
     {
       "id": 7,
-      "question": "What was Locke's profession besides being a philosopher?",
+      "question": "During which war was the Declaration of Independence drafted, according to the article?",
       "options": [
-        "physician",
-        "lawyer",
-        "teacher",
-        "engineer"
+        "The American War of Independence",
+        "The English Civil War",
+        "The Glorious Revolution",
+        "The French Revolution"
       ],
       "answer_explanations": [
-        "Correct. Locke was also a physician, as the article describes his medical studies and practice.",
-        "Incorrect. While his father was an attorney, Locke himself was not primarily a lawyer.",
-        "Incorrect. He was not primarily a teacher, though he tutored.",
-        "Incorrect. He was not an engineer."
+        "Correct. The article says the Declaration was drafted 'during the American War of Independence'.",
+        "Incorrect. The article mentions the English Civil War as a period Locke lived through, not as the war during which the Declaration was drafted.",
+        "Incorrect. The article mentions the Glorious Revolution as a period Locke lived through, not as the war during which the Declaration was drafted.",
+        "Incorrect. The article does not mention the French Revolution."
       ]
     },
     {
       "id": 8,
-      "question": "Which later document is believed to have been influenced by Locke's Two Treatises of Government?",
+      "question": "What political era did Locke live through, as mentioned in the article?",
       "options": [
-        "United States Declaration of Independence",
-        "French Declaration of the Rights of Man",
-        "British Magna Carta",
-        "Canadian Charter of Rights and Freedoms"
+        "The English Civil War and Commonwealth of England",
+        "The French Revolution",
+        "The American Revolution",
+        "The Industrial Revolution"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Two Treatises are believed to have influenced the language Thomas Jefferson chose in drafting the July 1776 Declaration of Independence.",
-        "Incorrect. While the French Declaration was influenced by Enlightenment ideas, the article specifically mentions the U.S. Declaration.",
-        "Incorrect. The Magna Carta predates Locke.",
-        "Incorrect. The Canadian Charter is much later."
+        "Correct. The article states 'Locke lived through the tumultuous political era of the English Civil War and Commonwealth of England'.",
+        "Incorrect. The article does not mention the French Revolution as an era Locke lived through.",
+        "Incorrect. The article mentions the American War of Independence, but not as an era Locke lived through.",
+        "Incorrect. The article does not mention the Industrial Revolution."
       ]
     },
     {
       "id": 9,
-      "question": "What was the name of the house where Locke lived for the last fourteen years of his life?",
+      "question": "Which school did Locke attend before winning a place at Christ Church, Oxford?",
       "options": [
-        "Sir Francis Masham's household",
-        "The White House",
-        "Number 10 Downing Street",
-        "The Tower of London"
+        "Westminster School",
+        "Eton College",
+        "Harrow School",
+        "Winchester College"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that for the last fourteen years of his life, Locke lived in the household of Sir Francis Masham and his wife, Lady Masham.",
-        "Incorrect. The White House is in the United States and was not his residence.",
-        "Incorrect. Number 10 Downing Street is the UK Prime Minister's residence, not his.",
-        "Incorrect. The Tower of London was a prison, not his residence."
+        "Correct. The article says Locke won a place at Christ Church, Oxford 'after attending the prestigious Westminster School'.",
+        "Incorrect. The article mentions Westminster School, not Eton College.",
+        "Incorrect. The article mentions Westminster School, not Harrow School.",
+        "Incorrect. The article mentions Westminster School, not Winchester College."
       ]
     },
     {
       "id": 10,
-      "question": "Which company listed Locke as a shareholder?",
+      "question": "How many years did Locke spend at Oxford, according to the article?",
       "options": [
-        "Royal Company of Adventures Trading to Africa",
-        "British East India Company",
-        "Hudson's Bay Company",
-        "Virginia Company"
+        "15 years",
+        "10 years",
+        "20 years",
+        "5 years"
       ],
       "answer_explanations": [
-        "Correct. The article states that Locke is listed as a shareholder with the 'Royal Company of Adventures Trading to Africa'.",
-        "Incorrect. The British East India Company is a different entity.",
-        "Incorrect. The Hudson's Bay Company was chartered later.",
-        "Incorrect. The Virginia Company was earlier."
+        "Correct. The article states 'He spent 15 years at Oxford'.",
+        "Incorrect. The article states he spent 15 years, not 10 years.",
+        "Incorrect. The article states he spent 15 years, not 20 years.",
+        "Incorrect. The article states he spent 15 years, not 5 years."
       ]
     }
   ]

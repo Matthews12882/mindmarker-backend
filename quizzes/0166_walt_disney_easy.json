@@ -5,71 +5,103 @@
   "questions": [
     {
       "id": 1,
-      "question": "When was Walt Disney born?",
+      "question": "What was Walt Disney's full name?",
       "options": [
-        "December 5, 1901",
-        "December 15, 1966",
-        "December 5, 1903",
-        "December 15, 1901"
+        "Walter Elias Disney",
+        "Walter Edward Disney",
+        "William Elias Disney",
+        "Walter Disney"
       ],
       "answer_explanations": [
-        "Correct. The article states Walter Elias Disney was born on December 5, 1901.",
-        "Incorrect. December 15, 1966 is the date of Disney's death, not his birth.",
-        "Incorrect. The article does not state Disney was born on December 5, 1903; that date relates to his sister Ruth's birth.",
-        "Incorrect. December 15, 1901 is not mentioned as Disney's birth date in the article."
+        "Correct. The article states his full name as Walter Elias Disney.",
+        "Incorrect. The article gives his middle name as Elias, not Edward.",
+        "Incorrect. The article gives his first name as Walter, not William.",
+        "Incorrect. The article includes his middle name, Elias."
       ]
     },
     {
       "id": 2,
-      "question": "In which city was Walt Disney born?",
+      "question": "When was Walt Disney born?",
       "options": [
-        "Chicago",
-        "Marceline",
-        "Kansas City",
-        "Hollywood"
+        "December 5, 1901",
+        "December 15, 1901",
+        "December 5, 1966",
+        "December 15, 1966"
       ],
       "answer_explanations": [
-        "Correct. The article states Disney was born in Chicago in 1901.",
-        "Incorrect. Marceline, Missouri is where the family moved when Disney was four, not where he was born.",
-        "Incorrect. Kansas City, Missouri is where the family moved in 1911, not where Disney was born.",
-        "Incorrect. Hollywood is where Disney moved in 1923, not where he was born."
+        "Correct. The article states he was born on December 5, 1901.",
+        "Incorrect. December 15, 1901 is not his birth date; it is close to his death date.",
+        "Incorrect. December 5, 1966 is not his birth date; he died in 1966.",
+        "Incorrect. December 15, 1966 is his death date, not his birth date."
       ]
     },
     {
       "id": 3,
-      "question": "How many Academy Awards did Walt Disney win?",
+      "question": "What was Walt Disney's profession?",
       "options": [
-        "22",
-        "59",
-        "5",
-        "2"
+        "Animator, film producer, voice actor, and entrepreneur",
+        "Actor and singer",
+        "Director and writer",
+        "Businessman and politician"
       ],
       "answer_explanations": [
-        "Correct. The article states Disney holds the record for most Academy Awards won by an individual, with 22.",
-        "Incorrect. 59 is the number of Academy Award nominations Disney received, not the number he won.",
-        "Incorrect. Five Academy Awards were received by Mary Poppins, not by Disney personally as a total count.",
-        "Incorrect. Two Golden Globe Special Achievement Awards were presented to Disney, not Academy Awards."
+        "Correct. The article describes him as an American animator, film producer, voice actor, and entrepreneur.",
+        "Incorrect. The article does not list actor or singer as his professions.",
+        "Incorrect. The article does not list director or writer as his professions.",
+        "Incorrect. The article does not list politician as his profession."
       ]
     },
     {
       "id": 4,
-      "question": "Which character did Walt Disney develop with Ub Iwerks in 1928?",
+      "question": "How many Academy Awards did Walt Disney win?",
       "options": [
-        "Mickey Mouse",
-        "Oswald the Lucky Rabbit",
-        "Snow White",
-        "Pinocchio"
+        "22",
+        "59",
+        "20",
+        "25"
       ],
       "answer_explanations": [
-        "Correct. The article states that with Ub Iwerks, Disney developed Mickey Mouse in 1928.",
-        "Incorrect. Oswald the Lucky Rabbit was created earlier, after Mintz requested new material for Universal Pictures.",
-        "Incorrect. Snow White and the Seven Dwarfs is a feature film released in 1937, not a character developed in 1928.",
-        "Incorrect. Pinocchio is a feature film released in 1940, not a character developed in 1928."
+        "Correct. The article states he holds the record for most Academy Awards won (22).",
+        "Incorrect. 59 is the number of nominations, not wins.",
+        "Incorrect. The article states 22 wins, not 20.",
+        "Incorrect. The article states 22 wins, not 25."
       ]
     },
     {
       "id": 5,
-      "question": "In what year did Disney open Disneyland?",
+      "question": "Where was Walt Disney born?",
+      "options": [
+        "Chicago",
+        "Missouri",
+        "California",
+        "Anaheim"
+      ],
+      "answer_explanations": [
+        "Correct. The article states he was born in Chicago in 1901.",
+        "Incorrect. Missouri is where he was raised, not born.",
+        "Incorrect. California is where he moved later, not his birthplace.",
+        "Incorrect. Anaheim is where Disneyland is located, not his birthplace."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Who did Walt Disney develop the character Mickey Mouse with?",
+      "options": [
+        "Ub Iwerks",
+        "Roy Disney",
+        "His brother",
+        "A colleague"
+      ],
+      "answer_explanations": [
+        "Correct. The article states he developed Mickey Mouse with Ub Iwerks.",
+        "Incorrect. Roy Disney was his brother, but the article names Ub Iwerks as the collaborator.",
+        "Incorrect. The article specifically names Ub Iwerks, not just 'his brother'.",
+        "Incorrect. The article names Ub Iwerks, not a generic colleague."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In what year did Walt Disney open Disneyland?",
       "options": [
         "1955",
         "1950",
@@ -77,90 +109,58 @@
         "1965"
       ],
       "answer_explanations": [
-        "Correct. The article states that in July 1955 Disney opened Disneyland in Anaheim, California.",
-        "Incorrect. 1950 is the release year of Cinderella, not the opening of Disneyland.",
-        "Incorrect. 1964 is the release year of Mary Poppins, not the opening of Disneyland.",
-        "Incorrect. 1965 is when Disney began development of Disney World, not when Disneyland opened."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "What was the cause of Walt Disney's death?",
-      "options": [
-        "lung cancer",
-        "heart attack",
-        "stroke",
-        "pneumonia"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Disney died of lung cancer in 1966.",
-        "Incorrect. The article does not state that Disney died of a heart attack.",
-        "Incorrect. The article does not state that Disney died of a stroke.",
-        "Incorrect. The article does not state that Disney died of pneumonia."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "What job did Walt Disney take at the age of 18?",
-      "options": [
-        "commercial illustrator",
-        "animator",
-        "film director",
-        "voice actor"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Disney took a job as a commercial illustrator at the age of 18.",
-        "Incorrect. Although Disney later became an animator, the article says he took a job as a commercial illustrator at 18.",
-        "Incorrect. The article does not say Disney became a film director at age 18.",
-        "Incorrect. Although Disney later provided voice work, the article says he took a job as a commercial illustrator at 18."
+        "Correct. The article states he opened Disneyland in July 1955.",
+        "Incorrect. 1950 is the year Cinderella was released, not Disneyland's opening.",
+        "Incorrect. 1964 is the year Mary Poppins was released, not Disneyland's opening.",
+        "Incorrect. 1965 is when he began development of Disney World, not Disneyland's opening."
       ]
     },
     {
       "id": 8,
-      "question": "With whom did Walt Disney set up the Disney Brothers Studio?",
+      "question": "What did Walt Disney die of?",
       "options": [
-        "his brother Roy",
-        "Ub Iwerks",
-        "Margaret J. Winkler",
-        "Fred Harman"
+        "Lung cancer",
+        "Heart attack",
+        "Pneumonia",
+        "Old age"
       ],
       "answer_explanations": [
-        "Correct. The article states Disney set up the Disney Brothers Studio with his brother Roy.",
-        "Incorrect. Ub Iwerks collaborated with Disney on characters like Mickey Mouse, but the studio was set up with Roy.",
-        "Incorrect. Margaret J. Winkler was a film distributor, not a co-founder of the Disney Brothers Studio.",
-        "Incorrect. Fred Harman was a co-worker from the Film Ad Company, not a co-founder of the Disney Brothers Studio."
+        "Correct. The article states he died of lung cancer.",
+        "Incorrect. The article does not mention a heart attack.",
+        "Incorrect. The article does not mention pneumonia.",
+        "Incorrect. The article specifies lung cancer as the cause."
       ]
     },
     {
       "id": 9,
-      "question": "Where did the Disney family move in 1906 when Walt was four?",
+      "question": "Which of these films is mentioned in the article as receiving five Academy Awards?",
       "options": [
-        "a farm in Marceline, Missouri",
-        "Kansas City, Missouri",
-        "Chicago, Illinois",
-        "Hollywood, California"
+        "Mary Poppins",
+        "Snow White and the Seven Dwarfs",
+        "Pinocchio",
+        "Bambi"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1906, when Disney was four, the family moved to a farm in Marceline, Missouri.",
-        "Incorrect. The Disneys moved to Kansas City in 1911, not in 1906.",
-        "Incorrect. Disney was born in Chicago, but the family moved away from there in 1906.",
-        "Incorrect. Disney moved to Hollywood in 1923, not in 1906."
+        "Correct. The article states that Mary Poppins (1964) received five Academy Awards.",
+        "Incorrect. The article does not state that Snow White received five Academy Awards.",
+        "Incorrect. The article does not state that Pinocchio received five Academy Awards.",
+        "Incorrect. The article does not state that Bambi received five Academy Awards."
       ]
     },
     {
       "id": 10,
-      "question": "What did Walt Disney do during World War I after being rejected by the Army?",
+      "question": "What was the name of the studio Walt Disney set up with his brother Roy?",
       "options": [
-        "joined the Red Cross as an ambulance driver",
-        "worked as a commercial illustrator",
-        "attended McKinley High School",
-        "opened the Disney Brothers Studio"
+        "Disney Brothers Studio",
+        "Walt Disney Company",
+        "Disney Studios",
+        "Mickey Mouse Studio"
       ],
       "answer_explanations": [
-        "Correct. The article states that after being rejected by the Army, Disney joined the Red Cross in September 1918 as an ambulance driver.",
-        "Incorrect. Disney worked as a commercial illustrator earlier, at age 18, not during World War I after Army rejection.",
-        "Incorrect. Disney enrolled at McKinley High School in 1917, before attempting to join the Army.",
-        "Incorrect. The Disney Brothers Studio was formed later, in 1923, not during World War I."
+        "Correct. The article states he set up the Disney Brothers Studio with his brother Roy.",
+        "Incorrect. The article notes the studio is now the Walt Disney Company, but the original name was Disney Brothers Studio.",
+        "Incorrect. The article does not use the name 'Disney Studios'.",
+        "Incorrect. The article does not use the name 'Mickey Mouse Studio'."
       ]
     }
   ]

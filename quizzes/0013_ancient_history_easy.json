@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the approximate span of recorded history according to the article?",
+      "question": "What is ancient history?",
       "options": [
-        "roughly 5,000 years",
-        "roughly 3,000 years",
-        "roughly 7,000 years",
-        "roughly 10,000 years"
+        "A time period from the beginning of writing and recorded human history through late antiquity",
+        "A time period from the beginning of the universe to the present",
+        "A time period from the invention of the wheel to the Middle Ages",
+        "A time period from the first humans to the end of the Ice Age"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The span of recorded history is roughly 5,000 years, beginning with the development of Sumerian cuneiform script.'",
-        "Incorrect. The article does not give a span of roughly 3,000 years for recorded history.",
-        "Incorrect. The article does not give a span of roughly 7,000 years for recorded history.",
-        "Incorrect. The article does not give a span of roughly 10,000 years for recorded history."
+        "Correct. The article states that ancient history is 'a time period from the beginning of writing and recorded human history through late antiquity.'",
+        "Incorrect. The article does not mention the beginning of the universe; it specifies the beginning of writing and recorded human history.",
+        "Incorrect. The article does not mention the invention of the wheel or the Middle Ages.",
+        "Incorrect. The article does not mention the first humans or the Ice Age."
       ]
     },
     {
       "id": 2,
-      "question": "Which script marks the beginning of recorded history according to the article?",
+      "question": "Roughly how many years of recorded history are covered by ancient history?",
       "options": [
-        "Sumerian cuneiform script",
-        "Egyptian hieroglyphs",
-        "Indus script",
-        "Oracle Bone Script"
+        "5,000 years",
+        "10,000 years",
+        "2,000 years",
+        "1,000 years"
       ],
       "answer_explanations": [
-        "Correct. The article states that recorded history begins with the development of Sumerian cuneiform script.",
-        "Incorrect. Egyptian hieroglyphs developed by about 3200 BC, but recorded history is said to begin with Sumerian cuneiform.",
-        "Incorrect. The Indus script is mentioned as developed by the Indus Valley Civilisation by 2800 BC, not as the start of recorded history.",
-        "Incorrect. Oracle Bone Script dates to 1600 to 1100 BC in China, much later than the start of recorded history."
+        "Correct. The article says 'The span of recorded history is roughly 5,000 years.'",
+        "Incorrect. The article states 5,000 years, not 10,000.",
+        "Incorrect. The article states 5,000 years, not 2,000.",
+        "Incorrect. The article states 5,000 years, not 1,000."
       ]
     },
     {
       "id": 3,
-      "question": "Which three periods make up the three-age system?",
+      "question": "What script is mentioned as the beginning of recorded history?",
       "options": [
-        "Stone Age, Bronze Age, and Iron Age",
-        "Paleolithic, Mesolithic, and Neolithic",
-        "Lower Paleolithic, Upper Paleolithic, and Neolithic",
-        "Copper Age, Bronze Age, and Iron Age"
+        "Sumerian cuneiform script",
+        "Egyptian hieroglyphs",
+        "Greek alphabet",
+        "Latin script"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The three-age system periodises ancient history into the Stone Age, the Bronze Age, and the Iron Age.'",
-        "Incorrect. Paleolithic, Mesolithic, and Neolithic are not the three periods named in the three-age system in this article.",
-        "Incorrect. Lower Paleolithic, Upper Paleolithic, and Neolithic are not the three periods named in the three-age system.",
-        "Incorrect. Copper Age is not one of the three ages in the three-age system described in the article."
+        "Correct. The article says 'beginning with the development of Sumerian cuneiform script.'",
+        "Incorrect. The article does not mention Egyptian hieroglyphs.",
+        "Incorrect. The article does not mention the Greek alphabet.",
+        "Incorrect. The article does not mention Latin script."
       ]
     },
     {
       "id": 4,
-      "question": "What was the estimated world population in 3000 BC according to the article?",
+      "question": "Which continents are covered by ancient history?",
       "options": [
-        "45 million",
-        "2 million",
-        "72 million",
-        "209 million"
+        "All continents inhabited by humans",
+        "Only Europe and Asia",
+        "Only Africa and Asia",
+        "Only Europe, Asia, and Africa"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'it rose to 45 million by 3000 BC.'",
-        "Incorrect. 2 million is the estimated population in 10,000 BC, not 3000 BC.",
-        "Incorrect. 72 million is the population by the Iron Age in 1000 BC, not 3000 BC.",
-        "Incorrect. 209 million is the estimated population by AD 500, not 3000 BC."
+        "Correct. The article states 'Ancient history covers all continents inhabited by humans.'",
+        "Incorrect. The article says all inhabited continents, not just Europe and Asia.",
+        "Incorrect. The article says all inhabited continents, not only Africa and Asia.",
+        "Incorrect. The article says all inhabited continents, not only Europe, Asia, and Africa."
       ]
     },
     {
       "id": 5,
-      "question": "Which region is described as the cradle of civilisation in the article?",
+      "question": "What time period does ancient history cover?",
       "options": [
-        "the ancient Near East",
-        "Mesoamerica",
-        "China",
-        "New Guinea"
+        "3000 BC â AD 500",
+        "10,000 BC â AD 1000",
+        "500 BC â AD 1500",
+        "3000 BC â AD 1000"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The ancient Near East is considered the cradle of civilisation.'",
-        "Incorrect. Mesoamerica is mentioned for squash cultivation and writing, but not as the cradle of civilisation.",
-        "Incorrect. China is mentioned for millet, rice, and legumes cultivation and independent writing, but not as the cradle of civilisation.",
-        "Incorrect. New Guinea is mentioned for taro cultivation, but not as the cradle of civilisation."
+        "Correct. The article says 'in the period 3000 BC â AD 500.'",
+        "Incorrect. The article specifies 3000 BC â AD 500, not 10,000 BC â AD 1000.",
+        "Incorrect. The article specifies 3000 BC â AD 500, not 500 BC â AD 1500.",
+        "Incorrect. The article specifies 3000 BC â AD 500, not 3000 BC â AD 1000."
       ]
     },
     {
       "id": 6,
-      "question": "Which empire fell to Alexander the Great by 330 BC according to the article?",
+      "question": "Which system periodises ancient history into the Stone Age, Bronze Age, and Iron Age?",
       "options": [
-        "the Achaemenid Empire",
-        "the Neo-Babylonian Empire",
-        "the Parthian Empire",
-        "the Sasanian Empire"
+        "The three-age system",
+        "The two-age system",
+        "The four-age system",
+        "The five-age system"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Achaemenid dynasty and empire fell to Alexander the Great by 330 BC.'",
-        "Incorrect. The Neo-Babylonian Empire is not described as falling to Alexander the Great in the article.",
-        "Incorrect. The Parthian Empire ended in the 3rd century AD due to internal rebellions, not Alexander the Great.",
-        "Incorrect. The Sasanian Empire began in AD 224, long after Alexander the Great."
+        "Correct. The article says 'The three-age system periodises ancient history into the Stone Age, the Bronze Age, and the Iron Age.'",
+        "Incorrect. The article mentions the three-age system, not a two-age system.",
+        "Incorrect. The article mentions the three-age system, not a four-age system.",
+        "Incorrect. The article mentions the three-age system, not a five-age system."
       ]
     },
     {
       "id": 7,
-      "question": "When did agriculture emerge in what is now eastern Turkey according to the article?",
+      "question": "With which age does recorded history usually begin?",
       "options": [
-        "about 9000 BC",
-        "about 8000 BC",
-        "about 7000 BC",
-        "about 6000 BC"
+        "The Bronze Age",
+        "The Stone Age",
+        "The Iron Age",
+        "The Neolithic Age"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Evidence for agriculture emerges in about 9000 BC in what is now eastern Turkey.'",
-        "Incorrect. 8000 BC is associated with sorghum and millet cultivation in the Nile River Valley, not eastern Turkey.",
-        "Incorrect. 7000 BC is associated with cultivation in China and New Guinea, not eastern Turkey.",
-        "Incorrect. 6000 BC is associated with the invention of the simple plough, not the emergence of agriculture in eastern Turkey."
+        "Correct. The article says 'recorded history usually considered to begin with the Bronze Age.'",
+        "Incorrect. The article says recorded history begins with the Bronze Age, not the Stone Age.",
+        "Incorrect. The article says recorded history begins with the Bronze Age, not the Iron Age.",
+        "Incorrect. The article does not mention the Neolithic Age in this context."
       ]
     },
     {
       "id": 8,
-      "question": "Which animals were domesticated around 9000 BC in the Fertile Crescent according to the article?",
+      "question": "What was the estimated world population in 10,000 BC?",
       "options": [
-        "sheep and goats",
-        "cattle and water buffalo",
-        "horses, donkeys, and camels",
-        "pigs and poultry"
+        "2 million",
+        "45 million",
+        "72 million",
+        "209 million"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Sheep and goats were domesticated around 9000 BC in the Fertile Crescent, alongside the first evidence for agriculture.'",
-        "Incorrect. Cattle and water buffalo were domesticated around 7000 BC, not 9000 BC.",
-        "Incorrect. Horses, donkeys, and camels were domesticated by about 4000 BC, not 9000 BC.",
-        "Incorrect. Pigs and poultry were domesticated later, not around 9000 BC in the Fertile Crescent."
+        "Correct. The article states 'In 10,000 BC, the world population stood at an estimated 2 million.'",
+        "Incorrect. 45 million was the population in 3000 BC, not 10,000 BC.",
+        "Incorrect. 72 million was the population in 1000 BC, not 10,000 BC.",
+        "Incorrect. 209 million was the population in AD 500, not 10,000 BC."
       ]
     },
     {
       "id": 9,
-      "question": "By what year did the potter's wheel get adapted into wheeled vehicles according to the article?",
+      "question": "What was the world population by the end of the ancient period in AD 500?",
       "options": [
-        "3000 BC",
-        "4000 BC",
-        "5000 BC",
-        "6000 BC"
+        "209 million",
+        "2 million",
+        "45 million",
+        "72 million"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'By 3000 BC, the pottery wheel was adapted into wheeled vehicles which could be used to carry loads further and easier than with human or animal power alone.'",
-        "Incorrect. 4000 BC is not the date given for the adaptation of the potter's wheel into wheeled vehicles.",
-        "Incorrect. The potter's wheel was invented sometime between 5000 and 4000 BC, but wheeled vehicles came by 3000 BC.",
-        "Incorrect. 6000 BC is associated with copper smelting and the invention of the simple plough, not wheeled vehicles."
+        "Correct. The article says 'By the end of the ancient period in AD 500, the world population is thought to have stood at 209 million.'",
+        "Incorrect. 2 million was the population in 10,000 BC, not AD 500.",
+        "Incorrect. 45 million was the population in 3000 BC, not AD 500.",
+        "Incorrect. 72 million was the population in 1000 BC, not AD 500."
       ]
     },
     {
       "id": 10,
-      "question": "When did writing develop in Mesoamerica according to the article?",
+      "question": "Over 10,500 years, by how many times did the world population increase?",
       "options": [
-        "600 BC",
-        "3400 BC",
-        "3200 BC",
-        "2800 BC"
+        "100 times",
+        "10 times",
+        "50 times",
+        "200 times"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Writing in Mesoamerica dates to 600 BC with the Zapotec civilisation.'",
-        "Incorrect. 3400 BC is when proto-literate cuneiform spread in the Middle East, not Mesoamerican writing.",
-        "Incorrect. 3200 BC is when Egypt developed hieroglyphs, not Mesoamerican writing.",
-        "Incorrect. 2800 BC is when the Indus Valley Civilisation developed the Indus script, not Mesoamerican writing."
+        "Correct. The article says 'In 10,500 years, the world population increased by 100 times.'",
+        "Incorrect. The article states 100 times, not 10.",
+        "Incorrect. The article states 100 times, not 50.",
+        "Incorrect. The article states 100 times, not 200."
       ]
     }
   ]

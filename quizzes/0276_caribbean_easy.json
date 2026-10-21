@@ -9,158 +9,158 @@
       "options": [
         "The Caribbean Sea",
         "The Atlantic Ocean",
-        "The Gulf of Mexico",
-        "The Sargasso Sea"
+        "The Pacific Ocean",
+        "The Gulf of Mexico"
       ],
       "answer_explanations": [
         "Correct. The article states the Caribbean is 'centered around the Caribbean Sea'.",
-        "Incorrect. The Atlantic Ocean is mentioned as the body of water containing the Caribbean Sea, but it is not the center of the region.",
-        "Incorrect. The Gulf of Mexico borders the region to the north, but it is not the center.",
-        "Incorrect. The Sargasso Sea is where Bermuda lies, but it is not part of the Caribbean."
+        "Incorrect. The article mentions the North Atlantic Ocean as the location of the Caribbean Sea, not the center of the region.",
+        "Incorrect. The Pacific Ocean is not mentioned in the article.",
+        "Incorrect. The Gulf of Mexico is not mentioned in the article."
       ]
     },
     {
       "id": 2,
-      "question": "Which archipelago is NOT part of the Caribbean?",
+      "question": "The Caribbean is a region in the middle of which continents?",
       "options": [
-        "Bermuda",
-        "Lucayan Archipelago",
-        "Greater Antilles",
-        "Lesser Antilles"
+        "The Americas",
+        "Europe and Africa",
+        "Asia and Australia",
+        "Antarctica"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The archipelago of Bermuda is not part of the Caribbean'.",
-        "Incorrect. The Lucayan Archipelago is included in the Caribbean region.",
-        "Incorrect. The Greater Antilles are part of the Caribbean.",
-        "Incorrect. The Lesser Antilles are part of the Caribbean."
+        "Correct. The article says the Caribbean is 'in the middle of the Americas'.",
+        "Incorrect. Europe and Africa are not mentioned in the article.",
+        "Incorrect. Asia and Australia are not mentioned in the article.",
+        "Incorrect. Antarctica is not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "How many political entities is the Caribbean region generally organized into?",
+      "question": "The Caribbean Sea is located in which ocean?",
       "options": [
-        "33",
-        "13",
-        "12",
-        "7"
+        "The North Atlantic Ocean",
+        "The Indian Ocean",
+        "The Southern Ocean",
+        "The Arctic Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states 'the Caribbean region is organized into 33 political entities'.",
-        "Incorrect. 13 is the number of sovereign states, not the total political entities.",
-        "Incorrect. 12 is the number of dependencies, not the total political entities.",
-        "Incorrect. 7 is the number of overseas territories, not the total political entities."
+        "Correct. The article states the Caribbean Sea is 'in the North Atlantic Ocean'.",
+        "Incorrect. The Indian Ocean is not mentioned in the article.",
+        "Incorrect. The Southern Ocean is not mentioned in the article.",
+        "Incorrect. The Arctic Ocean is not mentioned in the article."
       ]
     },
     {
       "id": 4,
-      "question": "From which Amerindian ethnic group does the Caribbean take its name?",
+      "question": "What does the Caribbean mostly overlap with?",
       "options": [
-        "The Caribs",
-        "The TaÃ­no",
-        "The Arawak",
-        "The Ciboney"
+        "The West Indies",
+        "The East Indies",
+        "The British Isles",
+        "The Canary Islands"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The region takes its name from the Caribs'.",
-        "Incorrect. The TaÃ­no lived in the Greater Antilles but did not give the region its name.",
-        "Incorrect. The Arawak are a language group, not the namesake of the Caribbean.",
-        "Incorrect. The Ciboney lived in western Cuba but did not give the region its name."
+        "Correct. The article says the Caribbean is 'mostly overlapping with the West Indies'.",
+        "Incorrect. The East Indies are not mentioned in the article.",
+        "Incorrect. The British Isles are not mentioned in the article.",
+        "Incorrect. The Canary Islands are not mentioned in the article."
       ]
     },
     {
       "id": 5,
-      "question": "What is the oldest evidence of humans in the Caribbean?",
+      "question": "What borders the Caribbean to the north?",
       "options": [
-        "Remains found at Banwari Trace in southern Trinidad from 7,000 years ago",
-        "Remains found in Hispaniola from 3600 BC",
-        "Remains found in Cuba from 3100 BC",
-        "Remains found in Antigua from 2000 BC"
+        "North America",
+        "South America",
+        "Europe",
+        "Africa"
       ],
       "answer_explanations": [
-        "Correct. The article states 'The oldest evidence of humans in the Caribbean is in southern Trinidad at Banwari Trace, where remains have been found from 7,000 years ago'.",
-        "Incorrect. The Hispaniola finds date to about 3600 BC, but their reliability is questioned and they are not the oldest.",
-        "Incorrect. The Cuba finds date to 3100 BC, which is later than the Trinidad evidence.",
-        "Incorrect. The Antigua finds date to 2000 BC, which is much later."
+        "Correct. The article states the Caribbean is 'Bordered by North America to the north'.",
+        "Incorrect. South America is to the south, not the north.",
+        "Incorrect. Europe is not mentioned in the article.",
+        "Incorrect. Africa is not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "Which group were the first ceramic-using agriculturalists in the Caribbean?",
+      "question": "What borders the Caribbean to the south?",
       "options": [
-        "The Saladoid culture",
-        "The Barancoid",
-        "The Arauquinoid",
-        "The Mayoid"
+        "South America",
+        "North America",
+        "Central America",
+        "YucatÃ¡n Peninsula"
       ],
       "answer_explanations": [
-        "Correct. The article says 'the first ceramic-using agriculturalists, the Saladoid culture, entered Trinidad from South America'.",
-        "Incorrect. The Barancoid entered Trinidad after the Saladoid.",
-        "Incorrect. The Arauquinoid expanded after the Barancoid collapsed.",
-        "Incorrect. The Mayoid entered Trinidad around 1300 AD, much later."
+        "Correct. The article says the Caribbean is bordered by 'South America to the south'.",
+        "Incorrect. North America is to the north.",
+        "Incorrect. Central America is to the west.",
+        "Incorrect. The YucatÃ¡n Peninsula is part of North America, not the southern border."
       ]
     },
     {
       "id": 7,
-      "question": "Which three major Amerindian peoples lived on the islands at the time of European discovery?",
+      "question": "Besides islands, what other features does the Caribbean comprise?",
       "options": [
-        "TaÃ­no, Island Caribs, and Ciboney",
-        "TaÃ­no, Arawak, and Carib",
-        "Saladoid, Barancoid, and Mayoid",
-        "Ortoiroid, Ceramic Age people, and Galibi"
+        "Cays, islets, reefs, and banks",
+        "Mountains, valleys, and plains",
+        "Deserts, rivers, and lakes",
+        "Glaciers, fjords, and tundra"
       ],
       "answer_explanations": [
-        "Correct. The article lists 'the TaÃ­no... the Island Caribs and Galibi... and the Ciboney' as the three major groups.",
-        "Incorrect. Arawak is a language group, not a distinct people listed here.",
-        "Incorrect. Saladoid, Barancoid, and Mayoid are earlier archaeological cultures.",
-        "Incorrect. Ortoiroid and Ceramic Age people are broader categories, not the three specific peoples."
+        "Correct. The article lists 'numerous islands, cays, islets, reefs, and banks'.",
+        "Incorrect. Mountains, valleys, and plains are not mentioned in the article.",
+        "Incorrect. Deserts, rivers, and lakes are not mentioned in the article.",
+        "Incorrect. Glaciers, fjords, and tundra are not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "Who arrived in the Caribbean on the island of Hispaniola in 1492?",
+      "question": "Which archipelago is included in the Caribbean?",
       "options": [
-        "Christopher Columbus",
-        "Portuguese explorers",
-        "Spanish conquistadors",
-        "Dominican friars"
+        "The Lucayan Archipelago",
+        "The Hawaiian Archipelago",
+        "The GalÃ¡pagos Archipelago",
+        "The Japanese Archipelago"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Christopher Columbus arrived in the Caribbean on the island of Hispaniola in 1492'.",
-        "Incorrect. Portuguese explorers began claiming territories afterward, but Columbus was first.",
-        "Incorrect. Spanish conquistadors came after Columbus's arrival.",
-        "Incorrect. Dominican friars were involved later in advocating for native rights."
+        "Correct. The article mentions the 'Lucayan Archipelago' as part of the Caribbean.",
+        "Incorrect. The Hawaiian Archipelago is not mentioned in the article.",
+        "Incorrect. The GalÃ¡pagos Archipelago is not mentioned in the article.",
+        "Incorrect. The Japanese Archipelago is not mentioned in the article."
       ]
     },
     {
       "id": 9,
-      "question": "What was the name of the Spanish system of slavery mentioned in the article?",
+      "question": "The Caribbean includes islands of which peninsula?",
       "options": [
-        "Encomienda",
-        "Plantation system",
-        "Indentured servitude",
-        "Atlantic slave trade"
+        "The YucatÃ¡n Peninsula",
+        "The Iberian Peninsula",
+        "The Balkan Peninsula",
+        "The Korean Peninsula"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The Spanish used a form of slavery called the Encomienda'.",
-        "Incorrect. The plantation system is a broader concept, not the specific Spanish system.",
-        "Incorrect. Indentured servitude came later from the Indian subcontinent and East Asia.",
-        "Incorrect. The Atlantic slave trade was the broader trade, not the specific Spanish system."
+        "Correct. The article mentions 'the Quintana Roo islands and Belizean islands of the YucatÃ¡n Peninsula'.",
+        "Incorrect. The Iberian Peninsula is not mentioned in the article.",
+        "Incorrect. The Balkan Peninsula is not mentioned in the article.",
+        "Incorrect. The Korean Peninsula is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "Which island was ceded to England by Spain?",
+      "question": "The Caribbean also includes coastal areas on the continental mainland from the YucatÃ¡n Peninsula to where in South America?",
       "options": [
-        "Jamaica",
-        "Hispaniola",
-        "Puerto Rico",
-        "Cuba"
+        "The Guianas",
+        "Patagonia",
+        "The Amazon Basin",
+        "The Andes"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Jamaica was ceded to England by Spain'.",
-        "Incorrect. Hispaniola was not ceded to England; it remained divided.",
-        "Incorrect. Puerto Rico remained under Spanish control.",
-        "Incorrect. Cuba remained under Spanish control."
+        "Correct. The article says the coastal areas extend 'to the Guianas in South America'.",
+        "Incorrect. Patagonia is not mentioned in the article.",
+        "Incorrect. The Amazon Basin is not mentioned in the article.",
+        "Incorrect. The Andes are not mentioned in the article."
       ]
     }
   ]

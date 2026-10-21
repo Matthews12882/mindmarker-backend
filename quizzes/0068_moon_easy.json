@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the Moon's relationship to Earth?",
+      "question": "What is the Moon?",
       "options": [
-        "It is Earth's only natural satellite.",
-        "It is one of several natural satellites of Earth.",
-        "It is a planet that orbits Earth.",
-        "It is a dwarf planet near Earth."
+        "The only natural satellite of Earth",
+        "A dwarf planet",
+        "A star",
+        "An asteroid"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The Moon is the only natural satellite of Earth.'",
-        "Incorrect. The article says the Moon is the only natural satellite, not one of several.",
-        "Incorrect. The article describes the Moon as Earth's natural satellite, not as a planet orbiting Earth.",
-        "Incorrect. The article does not classify the Moon as a dwarf planet."
+        "Correct. The article states: 'The Moon is the only natural satellite of Earth.'",
+        "Incorrect. The article describes the Moon as a natural satellite, not a dwarf planet.",
+        "Incorrect. The Moon is not a star; it is a natural satellite.",
+        "Incorrect. The Moon is not an asteroid; it is a natural satellite."
       ]
     },
     {
       "id": 2,
-      "question": "How long does the Moon take to complete an orbit in relation to Earth and the Sun?",
+      "question": "What is the average distance of the Moon from Earth?",
       "options": [
-        "29.5 days.",
-        "27.3 days.",
-        "30 days.",
-        "365 days."
+        "About 378,000 kilometers",
+        "About 235,000 kilometers",
+        "About 29.5 kilometers",
+        "About 3,474 kilometers"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moon completes an orbit every 29.5 days in relation to Earth and the Sun.",
-        "Incorrect. The article does not mention 27.3 days as the orbital period.",
-        "Incorrect. The article specifies 29.5 days, not 30 days.",
-        "Incorrect. The article does not state that the Moon takes 365 days to orbit."
+        "Correct. The article says the distance averages around 378,000 kilometers (235,000 mi).",
+        "Incorrect. 235,000 is the distance in miles, not kilometers.",
+        "Incorrect. 29.5 days is the lunar month, not a distance.",
+        "Incorrect. 3,474 km is the Moon's diameter, not its distance from Earth."
       ]
     },
     {
       "id": 3,
-      "question": "What effect do tidal forces between the Moon and Earth have on the Moon?",
+      "question": "How often does the Moon complete an orbit in relation to Earth and the Sun?",
       "options": [
-        "They have pulled the Moon to always face Earth with the same near side.",
-        "They cause the Moon to rotate faster than it orbits Earth.",
-        "They push the Moon away from Earth completely.",
-        "They have no effect on the Moon's orientation."
+        "Every 29.5 days",
+        "Every 365 days",
+        "Every 24 hours",
+        "Every 12 months"
       ],
       "answer_explanations": [
-        "Correct. The article states that tidal forces 'have pulled the Moon to always face Earth with the same near side.'",
-        "Incorrect. The article says the Moon's rotation is synchronized to its orbital period, not faster.",
-        "Incorrect. The article does not say tidal forces push the Moon away from Earth completely.",
-        "Incorrect. The article explicitly states that tidal forces affect the Moon's orientation by locking it to Earth."
+        "Correct. The article states: 'It completes an orbit (lunar month) in relation to Earth and the Sun (synodically) every 29.5 days.'",
+        "Incorrect. 365 days is Earth's orbital period, not the Moon's synodic period.",
+        "Incorrect. 24 hours is Earth's rotation period, not the Moon's orbit.",
+        "Incorrect. 12 months is roughly a year, not the lunar month."
       ]
     },
     {
       "id": 4,
-      "question": "What is the Moon's surface gravity compared to Earth's?",
+      "question": "What is the Moon's diameter?",
       "options": [
-        "About one-sixth of Earth's.",
-        "About equal to Earth's.",
-        "About twice Earth's.",
-        "About half of Earth's."
+        "3,474 km",
+        "1.2% of Earth's diameter",
+        "378,000 km",
+        "29.5 km"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moon's surface gravity is 'about one-sixth of Earth's.'",
-        "Incorrect. The article says the Moon's gravity is about one-sixth of Earth's, not equal.",
-        "Incorrect. The article states the Moon's gravity is much weaker than Earth's, not twice as strong.",
-        "Incorrect. The article says about one-sixth, not half, of Earth's gravity."
+        "Correct. The article says 'its diameter is 3,474 km (2,159 mi)'.",
+        "Incorrect. 1.2% is the Moon's mass relative to Earth, not its diameter.",
+        "Incorrect. 378,000 km is the average distance from Earth, not the diameter.",
+        "Incorrect. 29.5 is the number of days in a lunar month, not a diameter."
       ]
     },
     {
       "id": 5,
-      "question": "What is the average distance between the Moon and Earth?",
+      "question": "What is the Moon's surface gravity compared to Earth's?",
       "options": [
-        "Around 378,000 kilometers.",
-        "Around 100,000 kilometers.",
-        "Around 1 million kilometers.",
-        "Around 10,000 kilometers."
+        "About one-sixth of Earth's",
+        "About half of Earth's",
+        "About twice Earth's",
+        "About the same as Earth's"
       ],
       "answer_explanations": [
-        "Correct. The article states the distance averages around 378,000 kilometers.",
-        "Incorrect. The article gives an average of around 378,000 kilometers, not 100,000.",
-        "Incorrect. The article does not mention 1 million kilometers as the average distance.",
-        "Incorrect. The article states around 378,000 kilometers, not 10,000."
+        "Correct. The article states: 'Its surface gravity is about one-sixth of Earth's'.",
+        "Incorrect. Half of Earth's is not correct; it is one-sixth.",
+        "Incorrect. Twice Earth's is not correct; it is much less.",
+        "Incorrect. It is not the same; it is about one-sixth."
       ]
     },
     {
       "id": 6,
-      "question": "What is the Moon's diameter?",
+      "question": "What covers the lunar surface?",
       "options": [
-        "3,474 km.",
-        "12,742 km.",
-        "6,371 km.",
-        "4,000 km."
+        "Regolith dust",
+        "Water",
+        "Lava",
+        "Ice"
       ],
       "answer_explanations": [
-        "Correct. The article states the Moon's diameter is 3,474 km.",
-        "Incorrect. The article gives the Moon's diameter as 3,474 km, not 12,742 km.",
-        "Incorrect. The article states 3,474 km, not 6,371 km.",
-        "Incorrect. The article specifies 3,474 km, not 4,000 km."
+        "Correct. The article says 'The lunar surface is covered in regolith dust'.",
+        "Incorrect. Water is not described as covering the surface.",
+        "Incorrect. Lava is not on the surface now; it formed maria in the past.",
+        "Incorrect. Ice is not mentioned as covering the surface."
       ]
     },
     {
       "id": 7,
-      "question": "Which celestial body is the brightest in Earth's night sky?",
+      "question": "What are the dark plains on the Moon called?",
       "options": [
-        "The Moon.",
-        "The Sun.",
-        "Venus.",
-        "Sirius."
+        "Maria",
+        "Craters",
+        "Rays",
+        "Regolith"
       ],
       "answer_explanations": [
-        "Correct. The article states 'The Moon is the brightest celestial object in Earth's night sky.'",
-        "Incorrect. The article identifies the Moon, not the Sun, as the brightest object in Earth's night sky.",
-        "Incorrect. The article does not name Venus as the brightest object in Earth's night sky.",
-        "Incorrect. The article states the Moon is the brightest celestial object in Earth's night sky, not Sirius."
+        "Correct. The article says 'dark plains of basalt called maria ('seas')'.",
+        "Incorrect. Craters are impact features, not the dark plains.",
+        "Incorrect. Rays are bright streaks, not dark plains.",
+        "Incorrect. Regolith is the dust covering the surface, not the dark plains."
       ]
     },
     {
       "id": 8,
-      "question": "What was the first spacecraft to fly by the Moon?",
+      "question": "How was the Moon thought to have been formed?",
       "options": [
-        "Luna 1.",
-        "Apollo 8.",
-        "Luna 2.",
-        "Luna 9."
+        "From material ejected by a giant impact of a Mars-sized body",
+        "From the Sun's gravity",
+        "From a collision with Jupiter",
+        "From volcanic eruptions on Earth"
       ],
       "answer_explanations": [
-        "Correct. The article states the first spaceflight to an extraterrestrial body was the flyby of Luna 1 in 1959.",
-        "Incorrect. Apollo 8 was the first crewed mission to orbit the Moon, not the first flyby.",
-        "Incorrect. Luna 2 was an intentional impactor, not the first flyby.",
-        "Incorrect. Luna 9 achieved the first soft landing, not the first flyby."
+        "Correct. The article states: 'The Moon is thought to have been formed out of material from Earth that was ejected by a giant impact of a Mars-sized body.'",
+        "Incorrect. The Sun's gravity is not the formation mechanism described.",
+        "Incorrect. Jupiter is not mentioned in the Moon's formation.",
+        "Incorrect. Volcanic eruptions on Earth are not the cause."
       ]
     },
     {
       "id": 9,
-      "question": "When did humans first land on the Moon?",
+      "question": "What happens when the Moon passes through Earth's shadow?",
       "options": [
-        "July 20, 1969.",
-        "December 24, 1968.",
-        "July 20, 1968.",
-        "December 24, 1969."
+        "A lunar eclipse is observable",
+        "A solar eclipse occurs",
+        "The Moon changes color",
+        "The Moon disappears"
       ],
       "answer_explanations": [
-        "Correct. The article states humans first arrived on the surface with Apollo 11 on July 20, 1969.",
-        "Incorrect. December 24, 1968, was when Apollo 8 first arrived in orbit, not when humans landed.",
-        "Incorrect. The article gives July 20, 1969, as the landing date, not 1968.",
-        "Incorrect. The article states July 20, 1969, not December 24, 1969."
+        "Correct. The article says 'when the Moon passes through Earth's shadow a lunar eclipse is observable'.",
+        "Incorrect. A solar eclipse occurs when the Moon covers the Sun, not when it passes through Earth's shadow.",
+        "Incorrect. The article does not say the Moon changes color.",
+        "Incorrect. The Moon does not disappear; it is eclipsed."
       ]
     },
     {
       "id": 10,
-      "question": "How many people landed on the Moon by 1972?",
+      "question": "What was the name of the first spacecraft to fly by the Moon?",
       "options": [
-        "Twelve people.",
-        "Six people.",
-        "Twenty-four people.",
-        "Three people."
+        "Luna 1",
+        "Luna 2",
+        "Apollo 8",
+        "Apollo 11"
       ],
       "answer_explanations": [
-        "Correct. The article states that by 1972, six Apollo missions had landed twelve people on the Moon.",
-        "Incorrect. The article says twelve people landed, not six.",
-        "Incorrect. The article states twelve people landed on the Moon by 1972, not twenty-four.",
-        "Incorrect. The article says twelve people landed, not three."
+        "Correct. The article states: 'starting in 1959 with the flyby of Luna 1'.",
+        "Incorrect. Luna 2 was an intentional impact, not a flyby.",
+        "Incorrect. Apollo 8 was a crewed mission to orbit the Moon, not the first flyby.",
+        "Incorrect. Apollo 11 was the first crewed landing, not the first flyby."
       ]
     }
   ]

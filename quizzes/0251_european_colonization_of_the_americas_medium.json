@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which European power founded the oldest continuously inhabited European settlement in the Americas, and in which present-day country is it located?",
+      "question": "Which European country began the systematic and long-term colonization of the Americas in 1492?",
       "options": [
-        "Spain; Dominican Republic",
-        "Portugal; Brazil",
-        "France; Canada",
-        "England; United States"
+        "Spain",
+        "Portugal",
+        "France",
+        "England"
       ],
       "answer_explanations": [
-        "Correct. The article states that Santo Domingo, founded in 1496 by Columbus, is credited as the oldest continuously inhabited European-established settlement in the Americas and is located in the present-day Dominican Republic.",
-        "Incorrect. While Portugal established Brazil, the oldest continuously inhabited settlement mentioned is Santo Domingo, not a Portuguese settlement.",
-        "Incorrect. French colonization is not described as establishing the oldest continuously inhabited settlement in the article.",
-        "Incorrect. English colonization is not mentioned as establishing the oldest continuously inhabited settlement in the article."
+        "Correct. The article states, 'The systematic and long-term European colonization began in 1492 with Spain.'",
+        "Incorrect. The article mentions Portugal but says Spain began the systematic colonization in 1492.",
+        "Incorrect. France is mentioned as a later colonizer, not the one that began in 1492.",
+        "Incorrect. England is mentioned as a later colonizer, not the one that began in 1492."
       ]
     },
     {
       "id": 2,
-      "question": "What was the primary reason Western European monarchs sought new trade routes to Asia in the late 15th century?",
+      "question": "What was the purpose of the Treaty of Tordesillas signed in 1494?",
       "options": [
-        "Ottoman domination of trade routes to Asia",
-        "Desire to spread Christianity",
-        "Need for new agricultural lands",
-        "Competition with African kingdoms"
+        "To divide the non-European world into two spheres of exploration and colonization between Portugal and Spain",
+        "To end the war between France and England",
+        "To establish the first permanent European settlement in the Americas",
+        "To create a trade alliance between European nations and the Ottoman Empire"
       ],
       "answer_explanations": [
-        "Correct. The article explains that Ottoman control of the Silk Road forced European traders to look for alternative routes, prompting Western European monarchs to search for new routes to Asia.",
-        "Incorrect. While spreading Christianity was a motive, the article specifically cites Ottoman domination of trade routes as the primary reason.",
-        "Incorrect. The article does not mention a need for agricultural lands as a primary driver.",
-        "Incorrect. Competition with African kingdoms is not described as the reason for seeking new routes."
+        "Correct. The article says, 'The treaty divided the entire non-European world into two spheres of exploration and colonization.'",
+        "Incorrect. The treaty was between Portugal and Spain, not about a war between France and England.",
+        "Incorrect. The treaty was about dividing the world, not establishing a settlement.",
+        "Incorrect. The treaty was about dividing non-European lands, not creating a trade alliance with the Ottoman Empire."
       ]
     },
     {
       "id": 3,
-      "question": "Which treaty divided the non-European world into two spheres of exploration and colonization between Portugal and Spain?",
+      "question": "Which city is credited as the oldest continuously inhabited European-established settlement in the Americas?",
       "options": [
-        "Treaty of Tordesillas",
-        "Treaty of Paris",
-        "Treaty of Utrecht",
-        "Treaty of Ghent"
+        "Santo Domingo",
+        "Mexico City",
+        "L'Anse aux Meadows",
+        "PotosÃ­"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Treaty of Tordesillas, signed in 1494, divided the Earth in two, with Portugal and Spain agreeing on spheres of influence.",
-        "Incorrect. The Treaty of Paris ended the American Revolutionary War, not related to this division.",
-        "Incorrect. The Treaty of Utrecht ended the War of Spanish Succession.",
-        "Incorrect. The Treaty of Ghent ended the War of 1812."
+        "Correct. The article states, 'The city of Santo Domingo... is credited as the oldest continuously inhabited European-established settlement in the Americas.'",
+        "Incorrect. Mexico City was the Aztec capital Tenochtitlan, later renamed, but not the oldest continuously inhabited European settlement.",
+        "Incorrect. L'Anse aux Meadows was a Norse settlement, not a continuously inhabited European city.",
+        "Incorrect. PotosÃ­ was a silver mine city in Peru, not the oldest continuously inhabited European settlement."
       ]
     },
     {
       "id": 4,
-      "question": "What major demographic impact did European contact have on the indigenous population of the Americas by 1650?",
+      "question": "What was the estimated drop in the native population of the Americas after European contact?",
       "options": [
-        "Population declined by about 80%",
-        "Population increased due to intermarriage",
-        "Population remained stable",
-        "Population doubled"
+        "About 80%, from around 50 million in 1492 to eight million in 1650",
+        "About 50%, from 100 million to 50 million",
+        "About 20%, from 10 million to 8 million",
+        "About 95%, from 200 million to 10 million"
       ],
       "answer_explanations": [
-        "Correct. The article notes that the native population plummeted by an estimated 80% (from around 50 million in 1492 to eight million in 1650), due to Old World diseases and colonization conditions.",
-        "Incorrect. The article describes a dramatic decline, not an increase.",
-        "Incorrect. The article clearly states a significant decline.",
-        "Incorrect. The article does not mention any population increase."
+        "Correct. The article states, 'the native population of the Americas plummeted by an estimated 80% (from around 50 million in 1492 to eight million in 1650).'",
+        "Incorrect. The article gives a specific estimate of 80%, not 50%.",
+        "Incorrect. The article gives a specific estimate of 80%, not 20%.",
+        "Incorrect. The article gives a specific estimate of 80%, not 95%."
       ]
     },
     {
       "id": 5,
-      "question": "Which Spanish institution was established in 1524 to oversee the overseas possessions?",
+      "question": "Which disease was especially devastating to indigenous populations after European contact?",
       "options": [
-        "Council of the Indies",
-        "House of Burgundies",
-        "Royal Court of Castile",
-        "Council of the Crown"
+        "Smallpox",
+        "Malaria",
+        "Influenza",
+        "Tuberculosis"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the crown established the Council of the Indies in 1524, based in Seville, to issue laws and govern overseas possessions.",
-        "Incorrect. The House of Burgundies is not mentioned in the article.",
-        "Incorrect. The Royal Court of Castile is not the institution described.",
-        "Incorrect. The Council of the Crown is not referenced."
+        "Correct. The article says, 'Smallpox was especially devastating, for it could be passed through touch.'",
+        "Incorrect. The article specifically names smallpox, not malaria.",
+        "Incorrect. The article specifically names smallpox, not influenza.",
+        "Incorrect. The article specifically names smallpox, not tuberculosis."
       ]
     },
     {
       "id": 6,
-      "question": "Which European explorer is credited with the accidental arrival in the New World in 1492, leading to widespread European colonization?",
+      "question": "Who led the Spanish conquest of the Aztec Empire?",
       "options": [
+        "HernÃ¡n CortÃ©s",
+        "Francisco Pizarro",
         "Christopher Columbus",
-        "John Cabot",
-        "Ferdinand Magellan",
-        "Vasco da Gama"
+        "Leif Erikson"
       ],
       "answer_explanations": [
-        "Correct. The article states that Christopher Columbus's voyages, particularly his accidental arrival at the New World, triggered the later colonization by Europeans.",
-        "Incorrect. John Cabot explored later for England, not the initial accidental arrival.",
-        "Incorrect. Ferdinand Magellan circumnavigated the globe, not the first to arrive in the Americas.",
-        "Incorrect. Vasco da Gama found a sea route to India, not the Americas."
+        "Correct. The article states, 'It was led by HernÃ¡n CortÃ©s' regarding the conquest of the Aztec Empire.",
+        "Incorrect. Francisco Pizarro led the conquest of the Inca Empire, not the Aztec Empire.",
+        "Incorrect. Christopher Columbus led early voyages but not the conquest of the Aztec Empire.",
+        "Incorrect. Leif Erikson was a Norse explorer, not a Spanish conquistador."
       ]
     },
     {
       "id": 7,
-      "question": "Which Norse site in Newfoundland is widely accepted as evidence of pre-Columbian trans-oceanic contact?",
+      "question": "What was the encomienda system?",
       "options": [
-        "L'Anse aux Meadows",
-        "Vinland",
-        "BrattahlÃ­Ã°",
-        "GarÃ°ar"
+        "A practice where labor and tribute of indigenous inhabitants were granted to Spaniards, involving coerced labor",
+        "A system of free trade between Spain and its colonies",
+        "A religious ceremony to convert indigenous people",
+        "A military alliance between Spanish and indigenous tribes"
       ],
       "answer_explanations": [
-        "Correct. The article identifies L'Anse aux Meadows as the only site widely accepted as evidence of pre-Columbian trans-oceanic contact and notes its UNESCO World Heritage Site status.",
-        "Incorrect. Vinland is a broader term for the attempted colony, but the specific accepted site is L'Anse aux Meadows.",
-        "Incorrect. BrattahlÃ­Ã° is a Norse settlement in Greenland, not in Newfoundland.",
-        "Incorrect. GarÃ°ar is a bishop's seat in Greenland, not the site in Newfoundland."
+        "Correct. The article says, 'the labor and tribute of inhabitants of Hispaniola were granted in encomienda to Spaniards... it was coerced labor for the benefit of the Spanish grantees.'",
+        "Incorrect. The encomienda was not about free trade but about forced labor.",
+        "Incorrect. The encomienda was a labor system, not a religious ceremony.",
+        "Incorrect. The encomienda was not a military alliance."
       ]
     },
     {
       "id": 8,
-      "question": "What was the name of the forced labor system used by the Spanish in the Americas, similar to the encomienda but applied to indigenous peoples?",
+      "question": "Which Norse explorer is associated with the attempted colony of Vinland?",
       "options": [
-        "Mit'a",
-        "Mita",
-        "Encomienda",
-        "Requerimiento"
+        "Leif Erikson",
+        "Christopher Columbus",
+        "HernÃ¡n CortÃ©s",
+        "Francisco Pizarro"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that in Peru, the silver mine of PotosÃ­ was worked by traditional forced indigenous labor drafts known as the mit'a.",
-        "Incorrect. While similar, the article specifically uses the term mit'a, not mita.",
-        "Incorrect. Encomienda was a different system applied to conquered Muslims and later indigenous peoples, not the specific forced labor draft described.",
-        "Incorrect. The Requerimiento was a proclamation, not a labor system."
+        "Correct. The article states, 'It is also notable for its possible connection with the attempted colony of Vinland, established by Leif Erikson.'",
+        "Incorrect. Christopher Columbus was a Spanish explorer, not a Norse explorer.",
+        "Incorrect. HernÃ¡n CortÃ©s was a Spanish conquistador, not a Norse explorer.",
+        "Incorrect. Francisco Pizarro was a Spanish conquistador, not a Norse explorer."
       ]
     },
     {
       "id": 9,
-      "question": "Which European power established the colony of New Sweden in the early 17th century?",
+      "question": "Which empire was conquered by Francisco Pizarro?",
       "options": [
-        "Sweden",
-        "Netherlands",
-        "DenmarkâNorway",
-        "France"
+        "The Inca Empire",
+        "The Aztec Empire",
+        "The Mayan Empire",
+        "The Ottoman Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states that within a century, the Swedish established New Sweden.",
-        "Incorrect. The Netherlands established New Netherland, not New Sweden.",
-        "Incorrect. DenmarkâNorway established colonies in the Caribbean, not New Sweden.",
-        "Incorrect. France colonized parts of present-day United States, not New Sweden."
+        "Correct. The article states, 'The other great conquest was of the Inca Empire (1531â35), led by Francisco Pizarro.'",
+        "Incorrect. The Aztec Empire was conquered by HernÃ¡n CortÃ©s.",
+        "Incorrect. The Mayan Empire is not mentioned as being conquered by Pizarro.",
+        "Incorrect. The Ottoman Empire was not in the Americas."
       ]
     },
     {
       "id": 10,
-      "question": "What concept did the United States use to justify its settler colonial policies and Indian removal in the 19th century?",
+      "question": "What was the name of the Spanish proclamation read to indigenous populations stating they were now subjects of the Spanish Crown?",
       "options": [
-        "Manifest destiny",
-        "Imperialism",
-        "Isolationism",
-        "Republicanism"
+        "The Requerimento",
+        "The New Laws",
+        "The Treaty of Tordesillas",
+        "The Encomienda"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the United States practiced a settler colonial policy of Manifest destiny and Indian removal.",
-        "Incorrect. Imperialism is a broader term not specifically referenced in the article for U.S. justification.",
-        "Incorrect. Isolationism is not described as a justification for colonization.",
-        "Incorrect. Republicanism is not mentioned as a justification for U.S. policies."
+        "Correct. The article says, 'Spain had a legal tradition and devised a proclamation known as The Requerimento to be read to indigenous populations in Spanish.'",
+        "Incorrect. The New Laws were passed later to regulate the encomienda system, not a proclamation to read to indigenous people.",
+        "Incorrect. The Treaty of Tordesillas was an agreement between Spain and Portugal, not a proclamation.",
+        "Incorrect. The Encomienda was a labor system, not a proclamation."
       ]
     }
   ]

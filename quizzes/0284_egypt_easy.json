@@ -5,18 +5,18 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the capital of Egypt?",
+      "question": "What is the official name of Egypt?",
       "options": [
-        "Cairo",
-        "Alexandria",
-        "Memphis",
-        "Giza"
+        "Arab Republic of Egypt",
+        "Republic of Egypt",
+        "United Arab Republic",
+        "Egyptian Republic"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Cairo is the capital, largest city, and leading cultural centre.'",
-        "Incorrect. Alexandria is the second-largest city, not the capital.",
-        "Incorrect. Memphis was an ancient capital, but the current capital is Cairo.",
-        "Incorrect. Giza is a city near Cairo, not the capital."
+        "Correct. The article states that Egypt is officially the 'Arab Republic of Egypt'.",
+        "Incorrect. The article does not use 'Republic of Egypt' as the official name.",
+        "Incorrect. The article mentions 'United Arab Republic' as a past union with Syria, not the official name.",
+        "Incorrect. The article does not use 'Egyptian Republic'."
       ]
     },
     {
@@ -26,65 +26,97 @@
         "Mediterranean Sea",
         "Red Sea",
         "Gulf of Aqaba",
-        "Aegean Sea"
+        "Caspian Sea"
       ],
       "answer_explanations": [
-        "Correct. The article says Egypt is 'bordered by the Mediterranean Sea to the north'.",
+        "Correct. The article says Egypt is bordered by the 'Mediterranean Sea' to the north.",
         "Incorrect. The Red Sea is to the east, not the north.",
-        "Incorrect. The Gulf of Aqaba is in the northeast, separating Egypt from Jordan and Saudi Arabia.",
-        "Incorrect. The Aegean Sea is not mentioned as a border of Egypt."
+        "Incorrect. The Gulf of Aqaba is in the northeast, not the north.",
+        "Incorrect. The Caspian Sea is not mentioned as a border of Egypt."
       ]
     },
     {
       "id": 3,
-      "question": "What is the official religion of Egypt?",
+      "question": "What is the capital and largest city of Egypt?",
       "options": [
-        "Islam",
-        "Christianity",
-        "Judaism",
-        "Hinduism"
+        "Cairo",
+        "Alexandria",
+        "Giza",
+        "Luxor"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Islam is the official religion'.",
-        "Incorrect. Christianity was historically important, but Islam is the official religion.",
-        "Incorrect. Judaism is not mentioned as the official religion.",
-        "Incorrect. Hinduism is not mentioned as the official religion."
+        "Correct. The article states that 'Cairo is the capital, largest city, and leading cultural centre'.",
+        "Incorrect. Alexandria is the second-largest city, not the capital.",
+        "Incorrect. Giza is not mentioned as the capital.",
+        "Incorrect. Luxor is not mentioned as the capital."
       ]
     },
     {
       "id": 4,
-      "question": "Which country is to the west of Egypt?",
+      "question": "How many inhabitants does Egypt have, according to the article?",
       "options": [
-        "Libya",
-        "Sudan",
-        "Israel",
-        "Palestine"
+        "Over 107 million",
+        "Over 100 million",
+        "Over 110 million",
+        "Over 90 million"
       ],
       "answer_explanations": [
-        "Correct. The article says Egypt is bordered by 'Libya to the west'.",
-        "Incorrect. Sudan is to the south, not the west.",
-        "Incorrect. Israel is to the northeast, not the west.",
-        "Incorrect. Palestine is to the northeast, not the west."
+        "Correct. The article says 'With over 107 million inhabitants'.",
+        "Incorrect. The article specifies over 107 million, not just over 100 million.",
+        "Incorrect. The article does not state over 110 million.",
+        "Incorrect. The article does not state over 90 million."
       ]
     },
     {
       "id": 5,
-      "question": "What is the official language of Egypt?",
+      "question": "Which country is bordered by Egypt to the south?",
       "options": [
-        "Arabic",
-        "Egyptian Arabic",
-        "Coptic",
-        "English"
+        "Sudan",
+        "Libya",
+        "Israel",
+        "Jordan"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Arabic its official language'.",
-        "Incorrect. Egyptian Arabic is a local dialect, but the official language is Arabic.",
-        "Incorrect. Coptic is a liturgical language, not the official language.",
-        "Incorrect. English is not mentioned as an official language."
+        "Correct. The article says Egypt is bordered by 'Sudan and the Sahara to the south'.",
+        "Incorrect. Libya is to the west, not the south.",
+        "Incorrect. Israel is to the northeast, not the south.",
+        "Incorrect. Jordan is separated by the Gulf of Aqaba, not a southern border."
       ]
     },
     {
       "id": 6,
+      "question": "Which city is described as the second-largest city and an important hub of industry and tourism?",
+      "options": [
+        "Alexandria",
+        "Cairo",
+        "Port Said",
+        "Suez"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Alexandria is the second-largest city and an important hub of industry and tourism'.",
+        "Incorrect. Cairo is the largest city, not the second-largest.",
+        "Incorrect. Port Said is not mentioned in the article.",
+        "Incorrect. Suez is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Egypt is the most populous country in which region?",
+      "options": [
+        "Arab world",
+        "Africa",
+        "Middle East",
+        "Muslim world"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Egypt is 'the most populous country in the Arab world'.",
+        "Incorrect. The article says it is third-most populous in Africa, not the most populous.",
+        "Incorrect. The article does not say it is the most populous in the Middle East.",
+        "Incorrect. The article does not say it is the most populous in the Muslim world."
+      ]
+    },
+    {
+      "id": 8,
       "question": "Which peninsula connects Egypt to Asia?",
       "options": [
         "Sinai Peninsula",
@@ -93,74 +125,42 @@
         "Iberian Peninsula"
       ],
       "answer_explanations": [
-        "Correct. The article says Egypt spans 'southwest corner of Asia via the Sinai Peninsula'.",
-        "Incorrect. The Arabian Peninsula is not mentioned in relation to Egypt's geography.",
+        "Correct. The article says Egypt spans the northeast corner of Africa and southwest corner of Asia 'via the Sinai Peninsula'.",
+        "Incorrect. The Arabian Peninsula is not mentioned as connecting Egypt to Asia.",
         "Incorrect. The Anatolian Peninsula is not mentioned.",
         "Incorrect. The Iberian Peninsula is not mentioned."
       ]
     },
     {
-      "id": 7,
-      "question": "What is the second-largest city in Egypt?",
-      "options": [
-        "Alexandria",
-        "Cairo",
-        "Giza",
-        "Luxor"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'Alexandria is the second-largest city'.",
-        "Incorrect. Cairo is the largest city, not the second-largest.",
-        "Incorrect. Giza is not mentioned as the second-largest city.",
-        "Incorrect. Luxor is not mentioned as the second-largest city."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "In which year did Egypt gain independence as a monarchy?",
-      "options": [
-        "1922",
-        "1952",
-        "1953",
-        "1978"
-      ],
-      "answer_explanations": [
-        "Correct. The article says Egypt 'gained independence in 1922 as a monarchy'.",
-        "Incorrect. 1952 is the year of the revolution, not independence.",
-        "Incorrect. 1953 is when Egypt declared itself a republic, not independence.",
-        "Incorrect. 1978 is the year of the Camp David Accords, not independence."
-      ]
-    },
-    {
       "id": 9,
-      "question": "Which ancient Egyptian name means 'black' and refers to the fertile soil?",
+      "question": "Which country is separated from Egypt by the Gulf of Aqaba?",
       "options": [
-        "Kemet",
-        "Deshret",
-        "Ta-Sheme'aw",
-        "Ta-Mehew"
+        "Jordan and Saudi Arabia",
+        "Israel and Palestine",
+        "Libya and Sudan",
+        "Syria and Iraq"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'km.t, which is formed from ð , meaning black. This likely refers to the fertile black soils of the Nile floodplains' and is 'commonly vocalised as Kemet'.",
-        "Incorrect. Deshret means 'red land' of the desert, not black.",
-        "Incorrect. Ta-Sheme'aw means 'sedgeland' for Upper Egypt.",
-        "Incorrect. Ta-Mehew means 'northland' for Lower Egypt."
+        "Correct. The article states 'The Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia'.",
+        "Incorrect. Israel and Palestine are mentioned as borders, not separated by the Gulf of Aqaba.",
+        "Incorrect. Libya and Sudan are land borders, not separated by the Gulf.",
+        "Incorrect. Syria and Iraq are not mentioned in this context."
       ]
     },
     {
       "id": 10,
-      "question": "Which international organization is Egypt a founding member of?",
+      "question": "What is the official language of Egypt?",
       "options": [
-        "United Nations",
-        "BRICS",
-        "World Youth Forum",
-        "Organisation of Islamic Cooperation"
+        "Arabic",
+        "English",
+        "French",
+        "Berber"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Egypt is a founding member of the United Nations'.",
-        "Incorrect. Egypt is a member of BRICS, but not a founding member.",
-        "Incorrect. Egypt is a member of the World Youth Forum, but not a founding member.",
-        "Incorrect. Egypt is a member of the Organisation of Islamic Cooperation, but not a founding member."
+        "Correct. The article states 'Arabic its official language'.",
+        "Incorrect. English is not mentioned as the official language.",
+        "Incorrect. French is not mentioned as the official language.",
+        "Incorrect. Berber is not mentioned as the official language."
       ]
     }
   ]

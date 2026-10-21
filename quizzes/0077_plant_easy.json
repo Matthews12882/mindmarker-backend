@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the name of the kingdom that plants constitute?",
+      "question": "What kingdom do plants belong to?",
       "options": [
         "Plantae",
         "Animalia",
@@ -14,153 +14,153 @@
       ],
       "answer_explanations": [
         "Correct. The article states that plants constitute the kingdom Plantae.",
-        "Incorrect. Animalia is the animal kingdom, not the plant kingdom.",
-        "Incorrect. Fungi are excluded from the current definition of plants.",
-        "Incorrect. Protista is not mentioned as the plant kingdom in the article."
+        "Incorrect. The article does not say plants belong to Animalia; that is the animal kingdom.",
+        "Incorrect. The article says fungi are not included in the current definition of plants.",
+        "Incorrect. The article does not mention Protista as the kingdom for plants."
       ]
     },
     {
       "id": 2,
-      "question": "Which green pigment do plants use in their chloroplasts to obtain energy from sunlight?",
+      "question": "What pigment do plants use to obtain energy from sunlight?",
       "options": [
-        "chlorophyll",
-        "hemoglobin",
-        "melanin",
-        "carotene"
+        "Chlorophyll",
+        "Melanin",
+        "Carotene",
+        "Hemoglobin"
       ],
       "answer_explanations": [
-        "Correct. The article states that plants use the green pigment chlorophyll in their chloroplasts to produce sugars from carbon dioxide and water.",
-        "Incorrect. Hemoglobin is not mentioned in the article as a plant pigment.",
-        "Incorrect. Melanin is not mentioned in the article as a plant pigment.",
-        "Incorrect. Carotene is not mentioned in the article as the pigment used for photosynthesis."
+        "Correct. The article says plants use the green pigment chlorophyll.",
+        "Incorrect. Melanin is not mentioned in the article.",
+        "Incorrect. Carotene is not mentioned as the pigment used by plants.",
+        "Incorrect. Hemoglobin is not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "What do plants produce from carbon dioxide and water using chlorophyll?",
+      "question": "What do plants produce from carbon dioxide and water using sunlight?",
       "options": [
-        "sugars",
-        "proteins",
-        "fats",
-        "vitamins"
+        "Sugars",
+        "Proteins",
+        "Fats",
+        "Minerals"
       ],
       "answer_explanations": [
-        "Correct. The article states that plants use chlorophyll in their chloroplasts to produce sugars from carbon dioxide and water.",
-        "Incorrect. Proteins are not mentioned as the product of photosynthesis in the article.",
-        "Incorrect. Fats are not mentioned as the product of photosynthesis in the article.",
-        "Incorrect. Vitamins are not mentioned as the product of photosynthesis in the article."
+        "Correct. The article states that plants use chlorophyll to produce sugars from carbon dioxide and water.",
+        "Incorrect. The article does not say plants produce proteins from carbon dioxide and water.",
+        "Incorrect. The article does not mention fats as the product of photosynthesis.",
+        "Incorrect. The article does not say plants produce minerals."
       ]
     },
     {
       "id": 4,
-      "question": "Which group is excluded from the current definition of plants?",
+      "question": "What is the approximate number of known species of plants?",
       "options": [
-        "fungi",
-        "green algae",
-        "land plants",
-        "embryophytes"
+        "380,000",
+        "260,000",
+        "100,000",
+        "500,000"
       ],
       "answer_explanations": [
-        "Correct. The article states that current definitions exclude fungi and some of the algae.",
-        "Incorrect. Green algae are included in the clade Viridiplantae.",
-        "Incorrect. Land plants are embryophytes and are included in the definition.",
-        "Incorrect. Embryophytes are land plants and are included in the definition."
+        "Correct. The article says there are about 380,000 known species of plants.",
+        "Incorrect. 260,000 is the number of seed-producing species, not the total.",
+        "Incorrect. The article does not state 100,000.",
+        "Incorrect. The article does not state 500,000."
       ]
     },
     {
       "id": 5,
-      "question": "Approximately how many known species of plants are there?",
+      "question": "Which of these is NOT listed as a land plant in the article?",
       "options": [
-        "380,000",
-        "38,000",
-        "3,800,000",
-        "38,000,000"
+        "Fungi",
+        "Mosses",
+        "Ferns",
+        "Conifers"
       ],
       "answer_explanations": [
-        "Correct. The article states there are about 380,000 known species of plants.",
-        "Incorrect. 38,000 is far fewer than the number stated in the article.",
-        "Incorrect. 3,800,000 is far more than the number stated in the article.",
-        "Incorrect. 38,000,000 is far more than the number stated in the article."
+        "Correct. The article lists mosses, ferns, and conifers as land plants, but fungi are excluded from the current definition of plants.",
+        "Incorrect. Mosses are listed as land plants.",
+        "Incorrect. Ferns are listed as land plants.",
+        "Incorrect. Conifers are listed as land plants."
       ]
     },
     {
       "id": 6,
-      "question": "What is the scientific study of plants known as?",
+      "question": "What do some plants evolve to become, taking energy from other organisms?",
       "options": [
-        "botany",
-        "zoology",
-        "mycology",
-        "ecology"
+        "Parasitic",
+        "Carnivorous",
+        "Symbiotic",
+        "Autotrophic"
       ],
       "answer_explanations": [
-        "Correct. The article states that the scientific study of plants is known as botany.",
-        "Incorrect. Zoology is the study of animals, not plants.",
-        "Incorrect. Mycology is the study of fungi, not plants.",
-        "Incorrect. Ecology is the study of ecosystems, not specifically the scientific study of plants."
+        "Correct. The article says some plants have evolved to be parasitic, meaning they take energy from other organisms.",
+        "Incorrect. The article does not mention carnivorous plants.",
+        "Incorrect. The article does not mention symbiotic plants in this context.",
+        "Incorrect. Autotrophic is not the term used for plants that take energy from others."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following are basic human foods derived from plants?",
+      "question": "What do green plants provide a substantial proportion of?",
       "options": [
-        "grain, fruit, and vegetables",
-        "meat, dairy, and eggs",
-        "fish, shellfish, and seaweed",
-        "salt, sugar, and oil"
+        "The world's molecular oxygen",
+        "The world's carbon dioxide",
+        "The world's nitrogen",
+        "The world's water"
       ],
       "answer_explanations": [
-        "Correct. The article states that grain, fruit, and vegetables are basic human foods.",
-        "Incorrect. Meat, dairy, and eggs are animal products, not plant foods.",
-        "Incorrect. Fish and shellfish are animal products.",
-        "Incorrect. Salt is a mineral, not a plant food."
+        "Correct. The article states that green plants provide a substantial proportion of the world's molecular oxygen.",
+        "Incorrect. The article does not say they provide carbon dioxide.",
+        "Incorrect. The article does not mention nitrogen.",
+        "Incorrect. The article does not say they provide water."
       ]
     },
     {
       "id": 8,
-      "question": "What type of soul did Aristotle say plants have?",
+      "question": "What is the scientific study of plants called?",
       "options": [
-        "vegetative soul",
-        "sensitive soul",
-        "rational soul",
-        "immortal soul"
+        "Botany",
+        "Zoology",
+        "Ecology",
+        "Geology"
       ],
       "answer_explanations": [
-        "Correct. Aristotle distinguished beings based on whether they had a sensitive soul or, like plants, only a vegetative soul.",
-        "Incorrect. The sensitive soul was attributed to animals, not plants.",
-        "Incorrect. The rational soul is not mentioned in the article.",
-        "Incorrect. The immortal soul is not mentioned in the article."
+        "Correct. The article says the scientific study of plants is known as botany.",
+        "Incorrect. Zoology is the study of animals, not plants.",
+        "Incorrect. Ecology is the study of ecosystems, not specifically plants.",
+        "Incorrect. Geology is the study of the Earth, not plants."
       ]
     },
     {
       "id": 9,
-      "question": "Which student of Aristotle continued his work in plant taxonomy and classification?",
+      "question": "Which of the following is a basic human food mentioned in the article?",
       "options": [
-        "Theophrastus",
-        "Carl Linnaeus",
-        "Charles Darwin",
-        "Lynn Margulis"
+        "Grain",
+        "Meat",
+        "Fish",
+        "Dairy"
       ],
       "answer_explanations": [
-        "Correct. The article states that Theophrastus, Aristotle's student, continued his work in plant taxonomy and classification.",
-        "Incorrect. Carl Linnaeus lived much later and created the basis of the modern system of scientific classification.",
-        "Incorrect. Charles Darwin is mentioned in relation to flowering plants, not Aristotle's student.",
-        "Incorrect. Lynn Margulis is mentioned in relation to plant classifications, not Aristotle's student."
+        "Correct. The article lists grain, fruit, and vegetables as basic human foods.",
+        "Incorrect. Meat is not mentioned as a basic human food in this context.",
+        "Incorrect. Fish is not mentioned.",
+        "Incorrect. Dairy is not mentioned."
       ]
     },
     {
       "id": 10,
-      "question": "What do some plants evolve to be, meaning they take energy from other organisms?",
+      "question": "According to the article, which of these is a use of plants by people?",
       "options": [
-        "parasitic",
-        "carnivorous",
-        "saprophytic",
-        "symbiotic"
+        "Building materials",
+        "Fuel for cars",
+        "Clothing only",
+        "Electronic devices"
       ],
       "answer_explanations": [
-        "Correct. The article states that some plants have evolved to be parasitic, meaning they take energy from other organisms.",
-        "Incorrect. Carnivorous is not mentioned in the article.",
-        "Incorrect. Saprophytic is not mentioned in the article.",
-        "Incorrect. Symbiotic is not mentioned in the article as taking energy from other organisms."
+        "Correct. The article mentions building materials, ornaments, writing materials, and medicines as uses of plants.",
+        "Incorrect. The article does not mention using plants as fuel for cars.",
+        "Incorrect. The article does not say clothing is the only use.",
+        "Incorrect. The article does not mention electronic devices."
       ]
     }
   ]

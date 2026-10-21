@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what is the primary reason continents are identified?",
+      "question": "How are continents generally identified?",
       "options": [
-        "by convention rather than any strict criteria",
-        "by their total surface area",
-        "by the presence of a continental shelf",
-        "by the type of rock composition"
+        "By convention rather than any strict criteria",
+        "By their size alone",
+        "By the number of countries they contain",
+        "By their distance from the equator"
       ],
       "answer_explanations": [
         "Correct. The article states that continents are generally identified by convention rather than any strict criteria.",
-        "Incorrect. While surface area is mentioned, the article emphasizes convention as the primary method of identification.",
-        "Incorrect. The continental shelf is considered in some definitions, but the article highlights convention as the main reason.",
-        "Incorrect. Rock composition is part of the geological definition, but not the primary reason for identifying continents."
+        "Incorrect. The article does not say continents are identified by size alone; it says they are identified by convention.",
+        "Incorrect. The article does not mention the number of countries as a criterion for identifying continents.",
+        "Incorrect. The article does not mention distance from the equator as a criterion for identifying continents."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as one of the seven continents recognized by most English-speaking countries?",
+      "question": "Which continent is the largest by area?",
       "options": [
         "Asia",
-        "Madagascar",
-        "Greenland",
-        "Iceland"
+        "Africa",
+        "North America",
+        "Europe"
       ],
       "answer_explanations": [
-        "Correct. Asia is explicitly listed among the seven continents recognized by most English-speaking countries.",
-        "Incorrect. Madagascar is described as a microcontinent, not one of the seven major continents.",
-        "Incorrect. Greenland is considered the world's largest island, not a continent.",
-        "Incorrect. Iceland is mentioned as an island part of Europe, not a separate continent."
+        "Correct. The article lists the seven continents in order from largest to smallest, and Asia is first.",
+        "Incorrect. Africa is the second largest continent, not the largest.",
+        "Incorrect. North America is the third largest continent, not the largest.",
+        "Incorrect. Europe is the sixth largest continent, not the largest."
       ]
     },
     {
       "id": 3,
-      "question": "What does the geological definition of a continent include?",
+      "question": "What is the geological definition of a continent?",
       "options": [
-        "high elevation relative to the ocean floor, a wide range of silica-rich rocks, a crust thicker than oceanic crust, and well-defined limits",
-        "continuous landmasses separated by water",
-        "cultural and historical considerations",
-        "the presence of oceanic islands"
+        "One of Earth's major landmasses, including both dry land and continental shelves",
+        "Any large island surrounded by water",
+        "A continuous area of land with no mountains",
+        "A region with a single language"
       ],
       "answer_explanations": [
-        "Correct. The article outlines four criteria for the geological definition: high elevation, silica-rich rocks, thicker crust, and well-defined limits.",
-        "Incorrect. Continuous landmasses are part of the conventional definition, not the geological one.",
-        "Incorrect. Cultural and historical considerations are part of the social construct view, not the geological definition.",
-        "Incorrect. Oceanic islands are included in cultural definitions, not the geological criteria."
+        "Correct. The article states that in geology, a continent is defined as 'one of Earth's major landmasses, including both dry land and continental shelves'.",
+        "Incorrect. The geological definition specifically includes continental shelves, not just any large island.",
+        "Incorrect. The geological definition does not mention mountains or their absence.",
+        "Incorrect. The geological definition is about landmasses, not language."
       ]
     },
     {
       "id": 4,
-      "question": "Which isthmus connects Africa and Asia, according to the article?",
+      "question": "What does the idea of continental drift postulate?",
       "options": [
-        "Isthmus of Suez",
-        "Isthmus of Panama",
-        "Bering Land Bridge",
-        "Sahara Desert"
+        "That the current continents formed from the breaking up of a supercontinent called Pangaea",
+        "That continents are moving closer together to form a new supercontinent",
+        "That continents have always been in their current positions",
+        "That continents are made of oceanic crust"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the Isthmus of Suez as connecting Africa and Asia.",
-        "Incorrect. The Isthmus of Panama connects North and South America.",
-        "Incorrect. The Bering Land Bridge connected Afro-Eurasia and the Americas during ice ages.",
-        "Incorrect. The Sahara Desert is not an isthmus."
+        "Correct. The article says continental drift postulates that the current continents formed from the breaking up of a supercontinent (Pangaea).",
+        "Incorrect. The article does not say continents are moving closer together; it says they formed from the breaking up of Pangaea.",
+        "Incorrect. The article says continents formed from the breaking up of a supercontinent, not that they have always been in their current positions.",
+        "Incorrect. The article does not say continents are made of oceanic crust."
       ]
     },
     {
       "id": 5,
-      "question": "In the context of continental definitions, what does the term 'continental Europe' typically exclude?",
+      "question": "From what Latin term was the English noun 'continent' derived?",
       "options": [
-        "mainland Europe",
-        "the island of Great Britain",
-        "the continent of Asia",
-        "the country of Russia"
+        "Terra continens",
+        "Terra firma",
+        "Mare liberum",
+        "Mundus novus"
       ],
       "answer_explanations": [
-        "Correct. The article explains that 'continental Europe' refers to mainland Europe, excluding islands such as Great Britain, Iceland, Ireland, and Malta.",
-        "Incorrect. 'Continental Europe' excludes islands like Great Britain, not mainland Europe.",
-        "Incorrect. Continental Europe does not exclude Asia; it refers to mainland Europe.",
-        "Incorrect. Russia is not excluded from continental Europe; it is part of Eurasia."
+        "Correct. The article states that the noun was translated from the Latin 'terra continens'.",
+        "Incorrect. The article does not mention 'terra firma' as the origin.",
+        "Incorrect. The article does not mention 'mare liberum' as the origin.",
+        "Incorrect. The article does not mention 'mundus novus' as the origin."
       ]
     },
     {
       "id": 6,
-      "question": "Which model of continents includes America as a single continent?",
+      "question": "Which island is considered the world's largest island, not a continent?",
       "options": [
-        "six-continent combined-America model",
-        "seven-continent model",
-        "four-continent model",
-        "five-continent model"
+        "Greenland",
+        "Australia",
+        "Madagascar",
+        "New Guinea"
       ],
       "answer_explanations": [
-        "Correct. The article states that the six-continent combined-America model treats North and South America as a single continent known as America.",
-        "Incorrect. The seven-continent model treats North and South America as separate continents.",
-        "Incorrect. The four-continent model includes Afro-Eurasia, America, Antarctica, and Australia.",
-        "Incorrect. The five-continent model includes Africa, Eurasia, America, Antarctica, and Australia."
+        "Correct. The article says Greenland is only considered the world's largest island, while Australia is deemed the smallest continent.",
+        "Incorrect. Australia is considered the smallest continent, not the world's largest island.",
+        "Incorrect. Madagascar is mentioned as a microcontinent, not the world's largest island.",
+        "Incorrect. New Guinea is mentioned as part of a continent, not the world's largest island."
       ]
     },
     {
       "id": 7,
-      "question": "What is the name of the supercontinent that, according to the article, the current continents formed from?",
+      "question": "Which two continents are completely separated from other continents by the ocean?",
       "options": [
-        "Pangaea",
-        "Laurasia",
-        "Gondwana",
-        "Rodinia"
+        "Antarctica and Australia",
+        "Africa and Asia",
+        "North America and South America",
+        "Europe and Asia"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the current continents formed from the breaking up of the supercontinent Pangaea.",
-        "Incorrect. Laurasia is a later division of Pangaea, not the original supercontinent.",
-        "Incorrect. Gondwana is another division of Pangaea, not the original supercontinent.",
-        "Incorrect. Rodinia is a much older supercontinent predating Pangaea."
+        "Correct. The article states that of the seven most globally recognized continents, only Antarctica and Australia are completely separated from other continents by the ocean.",
+        "Incorrect. Africa and Asia are joined by the Isthmus of Suez.",
+        "Incorrect. North America and South America are joined by the Isthmus of Panama.",
+        "Incorrect. Europe and Asia are part of the continuous landmass of Eurasia."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is described as a microcontinent in the article?",
+      "question": "What is the name of the single continent that Africa, Asia, and Europe form when considered as one?",
       "options": [
-        "Madagascar",
-        "Australia",
-        "Europe",
-        "Antarctica"
+        "Afro-Eurasia",
+        "Eurasia",
+        "Americas",
+        "Oceania"
       ],
       "answer_explanations": [
-        "Correct. The article refers to Madagascar as a small continental fragment generally referred to as a microcontinent.",
-        "Incorrect. Australia is considered a continent, not a microcontinent.",
-        "Incorrect. Europe is a major continent.",
-        "Incorrect. Antarctica is a major continent."
+        "Correct. The article says that if continents are defined strictly as discrete landmasses, Africa, Asia, and Europe form a single continent referred to as Afro-Eurasia.",
+        "Incorrect. Eurasia refers to just Europe and Asia, not Africa.",
+        "Incorrect. The Americas refers to North and South America.",
+        "Incorrect. Oceania is a region including Australia and Pacific islands, not Africa, Asia, and Europe."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article suggest about the number of continents when using the most restricted meaning of 'continent' as a continuous area of land?",
+      "question": "Which model of continents is taught in most English-speaking countries?",
       "options": [
-        "it could be as few as three: Antarctica, Australia-New Guinea, and a single mega-continent joining Afro-Eurasia and America",
-        "it would be exactly seven",
-        "it would be exactly four",
-        "it would be exactly five"
+        "The seven-continent model",
+        "The four-continent model",
+        "The six-continent combined-America model",
+        "The six-continent combined-Eurasia model"
       ],
       "answer_explanations": [
-        "Correct. The article explains that taking the restricted meaning to its limit could support a view of only three continents: Antarctica, Australia-New Guinea, and a single mega-continent joining Afro-Eurasia and America.",
-        "Incorrect. The seven-continent model is a different convention, not the most restricted meaning.",
-        "Incorrect. The four-continent model is another variation, not the most restricted meaning.",
-        "Incorrect. The five-continent model is another variation, not the most restricted meaning."
+        "Correct. The article states that the seven-continent model is taught in most English-speaking countries, including Australia, Canada, the UK, and the US.",
+        "Incorrect. The four-continent model is based on continuous landmasses, not the standard in English-speaking countries.",
+        "Incorrect. The six-continent combined-America model is taught in Greece and many Romance-speaking countries.",
+        "Incorrect. The six-continent combined-Eurasia model is mostly used in Russia and parts of Eastern Europe."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, which geographical region includes most of the island countries and territories in the Pacific Ocean and is sometimes described as a continent?",
+      "question": "What is Oceania?",
       "options": [
-        "Oceania",
-        "Melanesia",
-        "Polynesia",
-        "Micronesia"
+        "A geographical region that includes most of the island countries and territories in the Pacific Ocean, as well as the continent of Australia",
+        "A single large landmass",
+        "A continent that includes Africa and Asia",
+        "A term for the world's largest island"
       ],
       "answer_explanations": [
-        "Correct. The article states that Oceania denotes a geographical region which includes most of the island countries and territories in the Pacific Ocean, and is also described as a continent.",
-        "Incorrect. Melanesia is a subregion of Oceania, not the broader region described.",
-        "Incorrect. Polynesia is also a subregion of Oceania, not the broader region described.",
-        "Incorrect. Micronesia is also a subregion of Oceania, not the broader region described."
+        "Correct. The article says geographers often use the term Oceania to denote a geographical region which includes most of the island countries and territories in the Pacific Ocean, as well as the continent of Australia.",
+        "Incorrect. Oceania includes many islands and Australia, not a single landmass.",
+        "Incorrect. Oceania does not include Africa and Asia.",
+        "Incorrect. Oceania is not described as the world's largest island; Greenland is the largest island."
       ]
     }
   ]

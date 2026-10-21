@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "A scientist observes that a solid substance lacks identifiable molecules and instead consists of a repeating unit cell structure. Based on the article, which category does this substance most likely belong to?",
+      "question": "Why is chemistry often called 'the central science'?",
       "options": [
-        "Chemical compounds without molecules, such as ionic compounds and network solids",
-        "Pure chemical substances composed of a single type of atom",
-        "Molecules held together by covalent bonds",
-        "Mixtures of substances with definite composition"
+        "Because it provides a foundation for understanding both basic and applied scientific disciplines at a fundamental level.",
+        "Because it is the oldest of all natural sciences.",
+        "Because it is the only science that studies matter.",
+        "Because it is the most economically important science."
       ],
       "answer_explanations": [
-        "Correct. The article states that many solid substances, such as ionic compounds and network solids, lack identifiable molecules and are discussed in terms of formula units or unit cells.",
-        "Incorrect. A pure chemical substance composed of a single type of atom is an element, not a compound lacking molecules.",
-        "Incorrect. Molecules held together by covalent bonds are discrete molecular units, which the article contrasts with substances lacking molecules.",
-        "Incorrect. Mixtures are collections of substances, such as air and alloys, not single solids organized by unit cells."
+        "Correct. The article states that chemistry is 'sometimes called the central science because it provides a foundation for understanding both basic and applied scientific disciplines at a fundamental level.'",
+        "Incorrect. The article does not claim chemistry is the oldest science; it says chemistry has existed under various names since ancient times, but not that it is the oldest.",
+        "Incorrect. The article says chemistry studies matter, but it does not say it is the only science that does so; physics also studies matter.",
+        "Incorrect. The article mentions the chemical industry's economic use but does not tie this to the 'central science' label."
       ]
     },
     {
       "id": 2,
-      "question": "If a new element were discovered with atoms containing 7 protons in their nuclei, how would the articleâs definition of an element classify it?",
+      "question": "What does the etymology of the word 'chemistry' reveal about the historical scope of alchemy?",
       "options": [
-        "As a distinct chemical element with atomic number 7",
-        "As an isotope of nitrogen",
-        "As a compound with multiple elements",
-        "As a molecule with covalent bonds"
+        "It shows that alchemy encompassed a broad range of practices including metallurgy, philosophy, astrology, and medicine.",
+        "It proves that alchemy was exclusively focused on turning base metals into gold.",
+        "It indicates that chemistry originated in Renaissance Europe without any earlier influences.",
+        "It demonstrates that alchemy was a purely mystical practice with no scientific aspects."
       ],
       "answer_explanations": [
-        "Correct. The article defines a chemical element by its particular number of protons, known as the atomic number, so 7 protons defines a distinct element.",
-        "Incorrect. Isotopes are atoms of the same element with different mass numbers, not different proton counts.",
-        "Incorrect. A compound is composed of more than one element, whereas this scenario describes a single type of atom.",
-        "Incorrect. Molecules are sets of atoms bound together, not single atoms defined by proton count."
+        "Correct. The article says alchemy 'referred to an earlier set of practices that encompassed elements of chemistry, metallurgy, philosophy, astrology, astronomy, mysticism, and medicine.'",
+        "Incorrect. The article notes that alchemy is 'often associated with the quest to turn lead or other base metals into gold' but also that alchemists were interested in many other questions, so it was not exclusively that.",
+        "Incorrect. The article traces the word back through Arabic and Greek to Egyptian origins, showing earlier influences, not just Renaissance origins.",
+        "Incorrect. The article lists both scientific and mystical elements in alchemy, so it was not purely mystical."
       ]
     },
     {
       "id": 3,
-      "question": "A researcher balances a chemical equation and finds equal numbers of each type of atom on both sides. According to the article, what does this indicate about the transformation?",
+      "question": "What distinguishes a nuclear reaction from a chemical reaction, according to the article?",
       "options": [
-        "It is a chemical reaction rather than a nuclear reaction or radioactive decay",
-        "It is a nuclear reaction involving changes to the nucleus",
-        "It is radioactive decay emitting particles from the nucleus",
-        "It is a physical change with no atomic rearrangement"
+        "In a nuclear reaction, the number of atoms on the left and right of the equation is unequal, whereas in a chemical reaction it is equal.",
+        "Nuclear reactions involve only electrons, while chemical reactions involve protons.",
+        "Nuclear reactions occur only in the laboratory, while chemical reactions occur in nature.",
+        "Nuclear reactions always release energy, while chemical reactions always absorb energy."
       ],
       "answer_explanations": [
-        "Correct. The article states that when the number of atoms on either side is equal, the transformation is a chemical reaction; unequal numbers indicate a nuclear reaction or radioactive decay.",
-        "Incorrect. Nuclear reactions are identified by unequal atom counts on either side of the equation.",
-        "Incorrect. Radioactive decay is likewise associated with unequal atom counts, not balanced equations.",
-        "Incorrect. The article describes chemical reactions as rearrangements of chemical bonds between atoms, not as physical changes."
+        "Correct. The article states that in a chemical equation the number of atoms on the left and right is equal, and 'when the number of atoms on either side is unequal, the transformation is referred to as a nuclear reaction or radioactive decay.'",
+        "Incorrect. The article describes chemical reactions as rearrangements of electrons in chemical bonds, but nuclear reactions involve changes in atomic nuclei, not just electrons.",
+        "Incorrect. The article does not restrict nuclear reactions to the laboratory; it defines them by the unequal atom count.",
+        "Incorrect. The article does not make such a blanket claim about energy release or absorption for either type of reaction."
       ]
     },
     {
       "id": 4,
-      "question": "A student claims that because chemistry studies matter and biology studies living organisms, chemistry cannot explain biological processes. Using the article, which response best refutes this claim?",
+      "question": "Why are energy and entropy considerations described as 'invariably important' in almost all chemical studies?",
       "options": [
-        "Chemistry provides a foundation for understanding applied disciplines such as pharmacology, including how medications work",
-        "Chemistry is limited to the study of inorganic substances and has no bearing on biology",
-        "Biology completely overlaps with chemistry, making the two fields indistinguishable",
-        "Chemistry only addresses non-living matter such as rocks and atmospheric ozone"
+        "Because they constrain the type of chemical reactions a substance may undergo and the energy changes that may accompany it.",
+        "Because they are the only factors that determine the phase of a substance.",
+        "Because they are used to classify substances as elements or compounds.",
+        "Because they are the basis of the periodic table's arrangement."
       ],
       "answer_explanations": [
-        "Correct. The article gives pharmacologyâhow medications workâas an example of chemistry explaining aspects of a biological discipline.",
-        "Incorrect. The article presents chemistry as broad and foundational, not limited to inorganic substances.",
-        "Incorrect. The article describes chemistry as occupying an intermediate position and providing a foundation, not as completely overlapping with biology.",
-        "Incorrect. The article lists biological examples such as plant growth and medications, showing chemistry is not restricted to non-living matter."
+        "Correct. The article says that 'the type of chemical reactions a substance may undergo and the energy changes that may accompany it are constrained by certain basic rules, known as chemical laws,' and that energy and entropy considerations are 'invariably important in almost all chemical studies.'",
+        "Incorrect. Phase is discussed separately, but energy and entropy are not said to be the only determinants of phase.",
+        "Incorrect. Classification into elements and compounds is based on composition, not on energy and entropy.",
+        "Incorrect. The periodic table is ordered by atomic number, not by energy or entropy."
       ]
     },
     {
       "id": 5,
-      "question": "In a laboratory, a substance is found to consist of discrete, electrically neutral units in which all valence electrons are paired. According to the article, what is the most precise term for this substanceâs smallest independent unit?",
+      "question": "What does the definition of matter in chemistry imply about the photon?",
       "options": [
-        "Molecule",
-        "Ion",
-        "Molecular ion",
-        "Formula unit"
+        "A photon is not matter because it lacks rest mass, even though it has energy.",
+        "A photon is matter because it has volume.",
+        "A photon is matter because it is made of particles.",
+        "A photon is matter because it can be part of a mixture."
       ],
       "answer_explanations": [
-        "Correct. The article defines molecules as typically electrically neutral units with paired valence electrons, unlike ions.",
-        "Incorrect. Ions are charged, whereas the described units are electrically neutral.",
-        "Incorrect. Molecular ions arise when the neutral rule is broken and the unit carries a charge.",
-        "Incorrect. Formula units apply to substances lacking identifiable molecules, such as ionic compounds and network solids."
+        "Correct. The article defines matter as anything that has rest mass and volume, and explicitly notes that 'not all particles have rest mass, such as the photon,' implying photons are not matter by this definition.",
+        "Incorrect. The definition requires both rest mass and volume; the article does not say a photon has volume.",
+        "Incorrect. The article says matter is made up of particles, but it also clarifies that not all particles (like photons) have rest mass, so being a particle is not sufficient.",
+        "Incorrect. The article discusses mixtures as collections of substances, but it does not suggest that photons are substances or that they make up matter."
       ]
     },
     {
       "id": 6,
-      "question": "A chemist isolates a radical containing one unpaired electron. Based on the article, which statement about this radical is most accurate?",
+      "question": "Why is the nucleus described as 'dense' relative to the atom as a whole?",
       "options": [
-        "It is comparatively reactive, though some radicals such as nitric oxide can be stable",
-        "It is always stable because unpaired electrons confer stability",
-        "It cannot exist outside a mass spectrometer",
-        "It is electrically neutral by definition and therefore not a molecule"
+        "Because the mass of a nucleon is about 1,836 times that of an electron, yet the radius of an atom is about 10,000 times that of its nucleus.",
+        "Because the nucleus contains all the protons and neutrons, which are the heaviest particles in the atom.",
+        "Because the electron cloud has almost no mass, so the nucleus accounts for nearly all the atom's mass.",
+        "Because the nucleus is positively charged, which makes it dense."
       ],
       "answer_explanations": [
-        "Correct. The article states that most radicals are comparatively reactive, but some, such as nitric oxide, can be stable.",
-        "Incorrect. The article says most radicals are reactive, not always stable.",
-        "Incorrect. The article associates molecular ions with mass spectrometers, not radicals specifically.",
-        "Incorrect. The article does not define radicals as electrically neutral non-molecules; it notes some molecules contain unpaired electrons."
+        "Correct. The article states: 'The nucleus is dense; the mass of a nucleon is approximately 1,836 times that of an electron, yet the radius of an atom is about 10,000 times that of its nucleus.' This comparison of mass and size explains the density.",
+        "Incorrect. While the nucleus does contain protons and neutrons, this statement alone does not explain density; density is mass per volume, and the article provides the specific mass and radius comparison.",
+        "Incorrect. This is a related fact but not the direct explanation given in the article; the article explicitly provides the mass and radius comparison to illustrate density.",
+        "Incorrect. Charge is not related to density in the article's explanation."
       ]
     },
     {
       "id": 7,
-      "question": "A materials scientist studies table salt and quartz. According to the article, what concept should be used instead of molecules to describe the smallest repeating structure in these substances?",
+      "question": "What does the existence of isotopes imply about the relationship between atomic number and mass number?",
       "options": [
-        "Formula units or unit cells",
-        "Molecular ions",
-        "Atomic nuclei",
-        "Electron clouds"
+        "Atoms of the same element can have different mass numbers because they have different numbers of neutrons, while the number of protons remains the same.",
+        "Atoms of the same element always have the same mass number.",
+        "Isotopes are atoms of different elements that have the same mass number.",
+        "The mass number is determined solely by the number of protons."
       ],
       "answer_explanations": [
-        "Correct. The article states that substances such as table salt and silica minerals lack identifiable molecules and are discussed in terms of formula units or unit cells.",
-        "Incorrect. Molecular ions are charged molecular units, not the repeating structures of ionic or network solids.",
-        "Incorrect. Atomic nuclei are the dense cores of atoms, not the smallest repeating structures of bulk solids.",
-        "Incorrect. Electron clouds surround atomic nuclei and are not used to describe repeating solid structures."
+        "Correct. The article says: 'all the nuclei of all atoms belonging to one element will have the same atomic number, they may not necessarily have the same mass number; atoms of an element which have different mass numbers are known as isotopes.' This implies that neutrons vary, changing the mass number.",
+        "Incorrect. The article explicitly says they may not have the same mass number.",
+        "Incorrect. Isotopes are defined as atoms of the same element with different mass numbers, not different elements.",
+        "Incorrect. The mass number is the sum of protons and neutrons, as stated in the article."
       ]
     },
     {
       "id": 8,
-      "question": "Which statement best captures the articleâs position on the role of laboratory glassware in chemistry?",
+      "question": "Why are charged polyatomic collections in solids, such as sulfate ions, generally not considered 'molecules'?",
       "options": [
-        "Glassware is common but not central, since much experimental and industrial chemistry is done without it",
-        "Glassware is indispensable for all chemical experiments",
-        "Glassware is used only in analytical chemistry and never in industrial chemistry",
-        "Glassware defines the boundary between chemistry and alchemy"
+        "Because molecules are defined as electrically neutral units, and these ions carry a charge.",
+        "Because they are too large to be molecules.",
+        "Because they are not composed of atoms.",
+        "Because they do not have covalent bonds."
       ],
       "answer_explanations": [
-        "Correct. The article explicitly says glassware is not central to chemistry and that a great deal of experimental and industrial chemistry is done without it.",
-        "Incorrect. The article contradicts the idea that glassware is indispensable for all experiments.",
-        "Incorrect. The article does not restrict glassware to analytical chemistry or exclude it from industrial chemistry.",
-        "Incorrect. The article never links glassware to the distinction between chemistry and alchemy."
+        "Correct. The article states that molecules 'exist as electrically neutral units, unlike ions,' and that 'charged polyatomic collections residing in solids... are generally not considered molecules in chemistry.'",
+        "Incorrect. The article does not mention size as a criterion for molecules.",
+        "Incorrect. Sulfate and nitrate ions are composed of atoms, as they are polyatomic.",
+        "Incorrect. The article does not say they lack covalent bonds; the key distinction is the charge."
       ]
     },
     {
       "id": 9,
-      "question": "A historian traces the word âchemistryâ back through Renaissance modifications to an earlier set of practices. According to the article, what was that earlier set of practices called?",
+      "question": "What does the article imply about the relationship between the molecular concept and substances like table salt or quartz?",
       "options": [
-        "Alchemy",
-        "Kemet",
-        "Arabic",
-        "Physics"
+        "These substances lack identifiable molecules and are instead described in terms of formula units or unit cells.",
+        "They are composed of molecules that are too small to be seen.",
+        "They are not chemical compounds because they lack molecules.",
+        "They are mixtures of different molecules."
       ],
       "answer_explanations": [
-        "Correct. The article states that the word chemistry comes from a Renaissance modification of the word alchemy, which referred to an earlier set of practices.",
-        "Incorrect. Kemet is the ancient name of Egypt and a possible root of al-kÄ«mÄ«Ä, not the earlier set of practices itself.",
-        "Incorrect. Arabic is the language of the word al-kÄ«mÄ«Ä, not the name of the earlier practices.",
-        "Incorrect. Physics is a separate physical science, not the earlier set of practices from which chemistry derives."
+        "Correct. The article says that substances like ionic compounds and network solids 'lack the existence of identifiable molecules per se' and are discussed in terms of 'formula units or unit cells as the smallest repeating structure.'",
+        "Incorrect. The article says they lack molecules entirely, not that the molecules are too small to see.",
+        "Incorrect. The article calls them chemical compounds, but they are just not molecular compounds.",
+        "Incorrect. They are not described as mixtures; they are pure substances with a repeating structure."
       ]
     },
     {
       "id": 10,
-      "question": "An engineer is selecting a unit to quantify the number of particles in a sample of reactants. Based on the article, which unit and defining value should the engineer use?",
+      "question": "Why is the structure of a polyatomic molecule with more than six atoms described as 'crucial for its chemical nature'?",
       "options": [
-        "The mole, defined as exactly 6.02214076Ã10^23 particles",
-        "The Avogadro constant, defined as one mole of substance",
-        "Molar concentration, reported in mol/dm^3",
-        "The mass number, equal to protons plus neutrons"
+        "Because the geometry of a molecule influences how it interacts with other substances, affecting its chemical properties.",
+        "Because larger molecules always have more chemical reactions.",
+        "Because the structure determines the atomic number of the molecule.",
+        "Because polyatomic molecules are always radicals and therefore reactive."
       ],
       "answer_explanations": [
-        "Correct. The article defines the mole as a unit denoting amount of substance, containing exactly 6.02214076Ã10^23 particles.",
-        "Incorrect. The Avogadro constant is the number of particles per mole, not the unit itself.",
-        "Incorrect. Molar concentration measures amount per volume, not the total number of particles in a sample.",
-        "Incorrect. The mass number is the sum of protons and neutrons in a nucleus, not a unit for counting particles."
+        "Correct. The article states that 'the structure of polyatomic molecules, that are constituted of more than six atoms... can be crucial for its chemical nature,' implying that geometry affects chemical behavior.",
+        "Incorrect. The article does not claim that larger molecules always have more reactions; it says structure is crucial, not size alone.",
+        "Incorrect. Atomic number is a property of elements, not molecules.",
+        "Incorrect. The article says some molecules are radicals, but not all polyatomic molecules are radicals."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which city was al-Khwarizmi working in around 820?",
+      "question": "What was the full name of al-Khwarizmi?",
       "options": [
-        "Baghdad",
-        "Cairo",
-        "Damascus",
-        "Istanbul"
+        "Muhammad ibn Musa al-Khwarizmi",
+        "Al-Khwarizmi ibn Muhammad",
+        "Musa ibn Muhammad al-Khwarizmi",
+        "Al-Khwarizmi ibn Musa"
       ],
       "answer_explanations": [
-        "Correct. The article states that around 820 he worked at the House of Wisdom in Baghdad.",
-        "Incorrect. The article does not mention Cairo as a location for his work.",
-        "Incorrect. The article does not mention Damascus as a location for his work.",
-        "Incorrect. The article does not mention Istanbul as a location for his work."
+        "Correct. The article states his full name as 'Muhammad ibn Musa al-Khwarizmi'.",
+        "Incorrect. The article gives the name as 'Muhammad ibn Musa al-Khwarizmi', not 'Al-Khwarizmi ibn Muhammad'.",
+        "Incorrect. The article gives the name as 'Muhammad ibn Musa al-Khwarizmi', not 'Musa ibn Muhammad al-Khwarizmi'.",
+        "Incorrect. The article gives the name as 'Muhammad ibn Musa al-Khwarizmi', not 'Al-Khwarizmi ibn Musa'."
       ]
     },
     {
       "id": 2,
-      "question": "What is the English term derived from the title of al-Khwarizmi's treatise on algebra?",
+      "question": "During which period was al-Khwarizmi active?",
       "options": [
-        "Algebra",
-        "Geometry",
-        "Trigonometry",
-        "Calculus"
+        "The Islamic Golden Age",
+        "The European Renaissance",
+        "The Roman Empire",
+        "The Industrial Revolution"
       ],
       "answer_explanations": [
-        "Correct. The article says the English term algebra comes from the shorthand title of his treatise, Al-Jabr.",
-        "Incorrect. Geometry is not derived from that title.",
-        "Incorrect. Trigonometry is not derived from that title.",
-        "Incorrect. Calculus is not derived from that title."
+        "Correct. The article says he was 'active during the Islamic Golden Age'.",
+        "Incorrect. The article identifies the Islamic Golden Age, not the European Renaissance.",
+        "Incorrect. The article identifies the Islamic Golden Age, not the Roman Empire.",
+        "Incorrect. The article identifies the Islamic Golden Age, not the Industrial Revolution."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following works introduced the decimal-based positional number system to the Western world?",
+      "question": "In which fields did al-Khwarizmi produce Arabic-language works?",
       "options": [
-        "Al-Jabr",
-        "Kitab surat al-ard",
-        "Algorithmo de Numero Indorum",
-        "Zij"
+        "Mathematics, astronomy, and geography",
+        "Medicine, chemistry, and biology",
+        "Philosophy, logic, and ethics",
+        "History, law, and poetry"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that Latin translations of al-Khwarizmi's textbook on Indian arithmetic, Algorithmo de Numero Indorum, introduced the decimal-based positional number system to the Western world.",
-        "Incorrect. Kitab surat al-ard is a geography work, not the source of the decimal system.",
-        "Correct. The article mentions that Latin translations of al-Khwarizmi's textbook on Indian arithmetic, Algorithmo de Numero Indorum, introduced the decimal-based positional number system to the Western world.",
-        "Incorrect. Zij refers to astronomical tables, not the numeral system."
+        "Correct. The article states he produced works in 'mathematics, astronomy, and geography'.",
+        "Incorrect. The article lists mathematics, astronomy, and geography, not medicine, chemistry, and biology.",
+        "Incorrect. The article lists mathematics, astronomy, and geography, not philosophy, logic, and ethics.",
+        "Incorrect. The article lists mathematics, astronomy, and geography, not history, law, and poetry."
       ]
     },
     {
       "id": 4,
-      "question": "Which epithet given to al-Khwarizmi suggests he may have been of Zoroastrian background?",
+      "question": "Around what year did al-Khwarizmi work at the House of Wisdom?",
       "options": [
-        "al-MajÅ«sÄ«",
-        "al-Qutrubbulli",
-        "al-Ma'mÅ«n",
-        "al-Nadim"
+        "820",
+        "850",
+        "780",
+        "900"
       ],
       "answer_explanations": [
-        "Correct. The article says al-á¹¬abarÄ« gives him the epithet \"al-MajÅ«sÄ«,\" which could indicate he was an adherent of the old Zoroastrian religion.",
-        "Incorrect. al-Qutrubbulli refers to a place, not religion.",
-        "Incorrect. al-Ma'mÅ«n was a caliph, not an epithet.",
-        "Incorrect. al-Nadim is a historian, not an epithet."
+        "Correct. The article says 'Around 820, he worked at the House of Wisdom'.",
+        "Incorrect. The article says 'Around 820', not 850.",
+        "Incorrect. The article says 'Around 820', not 780.",
+        "Incorrect. The article says 'Around 820', not 900."
       ]
     },
     {
       "id": 5,
-      "question": "Which of al-Khwarizmi's works was revised from a 2nd-century Greek treatise by Ptolemy?",
+      "question": "In which city was the House of Wisdom located?",
       "options": [
-        "Geography",
-        "Astronomy",
-        "Algebra",
-        "Trigonometry"
+        "Baghdad",
+        "Cairo",
+        "Damascus",
+        "Mecca"
       ],
       "answer_explanations": [
-        "Correct. The article says al-Khwarizmi revised Geography, the 2nd-century Greek-language treatise by Ptolemy.",
-        "Incorrect. Astronomy is not a revised work from Ptolemy.",
-        "Incorrect. Algebra is his own original work.",
-        "Incorrect. Trigonometry is not a revised work from Ptolemy."
+        "Correct. The article says he worked at the House of Wisdom 'in Baghdad'.",
+        "Incorrect. The article specifies Baghdad, not Cairo.",
+        "Incorrect. The article specifies Baghdad, not Damascus.",
+        "Incorrect. The article specifies Baghdad, not Mecca."
       ]
     },
     {
       "id": 6,
-      "question": "Which term originates from al-Khwarizmi's name, referring to a digit or number?",
+      "question": "What was the title of al-Khwarizmi's popularizing treatise on algebra?",
       "options": [
+        "Al-Jabr",
         "Algorism",
-        "Geometry",
-        "Trigonometry",
-        "Calculus"
+        "Algorithm",
+        "Geography"
       ],
       "answer_explanations": [
-        "Correct. The article states his name gave rise to the English terms algorism and algorithm, as well as several terms in other languages meaning '[digit](https://en.wikipedia.org/wiki/Numerical_digit \"Numerical digit\")'.",
-        "Incorrect. Geometry is unrelated to his name.",
-        "Incorrect. Trigonometry is unrelated to his name.",
-        "Incorrect. Calculus is unrelated to his name."
+        "Correct. The article says his treatise was compiled as '*Al-Jabr*'.",
+        "Incorrect. 'Algorism' is an English term derived from his name, not the title of the treatise.",
+        "Incorrect. 'Algorithm' is an English term derived from his name, not the title of the treatise.",
+        "Incorrect. 'Geography' is a separate work he revised, not the algebra treatise."
       ]
     },
     {
       "id": 7,
-      "question": "Which caliph commissioned al-Khwarizmi's work on algebra?",
+      "question": "What was one of al-Khwarizmi's achievements in algebra?",
       "options": [
-        "Al-Ma'mun",
-        "Al-Wathiq",
-        "Harun al-Rashid",
-        "Al-Mustadi"
+        "Solving quadratic equations by completing the square",
+        "Inventing the decimal number system",
+        "Discovering the astrolabe",
+        "Writing the first geography book"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that Al-Jabr was written with the encouragement of Caliph al-Ma'mun.",
-        "Incorrect. Al-Wathiq is mentioned in a different context.",
-        "Incorrect. Harun al-Rashid is not mentioned as a patron of this work.",
-        "Incorrect. Al-Mustadi is not mentioned."
+        "Correct. The article says 'his demonstration of how to solve quadratic equations by completing the square'.",
+        "Incorrect. The decimal system was not invented by him; he codified Indian numerals in a later work.",
+        "Incorrect. The astrolabe is mentioned as a subject he wrote about, not an algebraic achievement.",
+        "Incorrect. He revised Ptolemy's Geography, but that is not an algebraic achievement."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is NOT listed as a field in which al-Khwarizmi wrote?",
+      "question": "The English term 'algebra' comes from which word?",
       "options": [
-        "Cartography",
-        "Biology",
-        "Astronomy",
-        "Geography"
+        "Al-Jabr",
+        "Algorism",
+        "Algorithm",
+        "Guarismo"
       ],
       "answer_explanations": [
-        "Correct. The article lists cartography, astronomy, geography, mathematics, and other fields, but not biology.",
-        "Incorrect. Biology is not listed, making it the correct answer.",
-        "Incorrect. Astronomy is listed.",
-        "Incorrect. Geography is listed."
+        "Correct. The article says 'The English term *algebra* comes from the short-hand title of his aforementioned treatise (*Al-Jabr*)'.",
+        "Incorrect. 'Algorism' comes from his name, not from the term for algebra.",
+        "Incorrect. 'Algorithm' comes from his name, not from the term for algebra.",
+        "Incorrect. 'Guarismo' is a Spanish term meaning 'digit', not the source of 'algebra'."
       ]
     },
     {
       "id": 9,
-      "question": "What is the primary method al-Khwarizmi used to solve quadratic equations?",
+      "question": "What did al-Khwarizmi's textbook on Indian arithmetic introduce to the Western world?",
       "options": [
-        "Completing the square",
-        "Factoring",
-        "Newton's method",
-        "Euler's method"
+        "The decimal-based positional number system",
+        "The concept of zero",
+        "The astrolabe",
+        "The sundial"
       ],
       "answer_explanations": [
-        "Correct. The article says one of his achievements in algebra was his demonstration of how to solve quadratic equations by completing the square.",
-        "Incorrect. Factoring is not the method described.",
-        "Incorrect. Newton's method is a later development.",
-        "Incorrect. Euler's method is unrelated."
+        "Correct. The article says it 'introduced the decimal-based positional number system to the Western world'.",
+        "Incorrect. The article mentions the decimal-based positional number system, not specifically the concept of zero.",
+        "Incorrect. The astrolabe is mentioned as a subject he wrote about, not as an introduction from the arithmetic textbook.",
+        "Incorrect. The sundial is mentioned as a subject he wrote about, not as an introduction from the arithmetic textbook."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following languages did al-Khwarizmi write his scientific works in?",
+      "question": "What is the origin of the word 'algorithm'?",
       "options": [
-        "Arabic",
-        "Persian",
-        "Greek",
-        "Sanskrit"
+        "Al-Khwarizmi's latinized name, Algoritmi",
+        "The title of his algebra book",
+        "The word 'algorism'",
+        "The Arabic word for 'digit'"
       ],
       "answer_explanations": [
-        "Correct. The article says despite being of non-Arabic origin, he wrote his scientific works entirely in Arabic.",
-        "Incorrect. While he was Persian, his scientific works were in Arabic.",
-        "Incorrect. He did not write scientific works in Greek.",
-        "Incorrect. He did not write scientific works in Sanskrit."
+        "Correct. The article says 'Al-Khwarizmi's name was latinized as *Algoritmi*, making his name the origin of the word \"algorithm\".'",
+        "Incorrect. The word 'algorithm' comes from his name, not from the title of his algebra book.",
+        "Incorrect. 'Algorism' is a related term, but the article states the origin is his latinized name.",
+        "Incorrect. The article does not say 'algorithm' comes from the Arabic word for 'digit'."
       ]
     }
   ]

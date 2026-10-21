@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what is mathematics primarily concerned with?",
+      "question": "What is mathematics primarily concerned with?",
       "options": [
-        "abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities",
-        "empirical observation and laboratory experimentation",
-        "the historical development of scientific instruments",
-        "the classification of biological species"
+        "Abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities",
+        "The study of physical objects and their interactions",
+        "The interpretation of historical documents",
+        "The creation of artistic works"
       ],
       "answer_explanations": [
-        "Correct. The article states mathematics is 'a field of knowledge concerned with abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities.'",
-        "Incorrect. The article explicitly says mathematical results are established by deductive proof rather than by experiment.",
-        "Incorrect. The article does not describe mathematics as concerned with the historical development of scientific instruments.",
-        "Incorrect. The article does not mention the classification of biological species as a concern of mathematics."
+        "Correct. The article states that mathematics is 'a field of knowledge concerned with abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities.'",
+        "Incorrect. The article focuses on abstract concepts, not physical objects.",
+        "Incorrect. The article does not mention historical document interpretation as a primary concern.",
+        "Incorrect. Artistic creation is not mentioned as a primary concern of mathematics."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed in the article as an area of mathematics?",
+      "question": "According to the article, which area of mathematics is the study of integers and their properties?",
       "options": [
-        "analysis",
-        "astronomy",
-        "chemistry",
-        "biology"
+        "Number theory",
+        "Algebra",
+        "Geometry",
+        "Analysis"
       ],
       "answer_explanations": [
-        "Correct. The article lists analysis among the areas of mathematics, describing it as 'the quantitative study of approximation and convergence.'",
-        "Incorrect. Astronomy is not listed among the areas of mathematics in the article.",
-        "Incorrect. Chemistry is not listed among the areas of mathematics in the article.",
-        "Incorrect. Biology is not listed among the areas of mathematics in the article."
+        "Correct. The article defines number theory as 'the study of integers and their properties'.",
+        "Incorrect. Algebra is described as 'the study of operations and the structures they form'.",
+        "Incorrect. Geometry is described as 'the study of shapes and spaces that contain them'.",
+        "Incorrect. Analysis is described as 'the quantitative study of approximation and convergence'."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say about the relationship between mathematical results and experiment?",
+      "question": "How are results in mathematics established, according to the article?",
       "options": [
-        "Mathematical results are established by deductive proof rather than by experiment.",
-        "Mathematical results require experimental verification before they are accepted.",
-        "Mathematical results are established primarily through laboratory experiments.",
-        "Mathematical results are established only when they match empirical observations."
+        "By deductive proof rather than by experiment",
+        "By conducting experiments in laboratories",
+        "By relying on public opinion",
+        "By observing natural phenomena directly"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Although mathematics is widely used to model empirical phenomena, its results are established by deductive proof rather than by experiment.'",
-        "Incorrect. The article says the opposite: mathematical results are established by deductive proof rather than by experiment.",
-        "Incorrect. The article does not say mathematical results are established primarily through laboratory experiments.",
-        "Incorrect. The article does not state that mathematical results must match empirical observations to be established."
+        "Correct. The article states that 'its results are established by deductive proof rather than by experiment'.",
+        "Incorrect. The article explicitly contrasts mathematics with experiment-based fields.",
+        "Incorrect. Public opinion is not mentioned as a method for establishing mathematical results.",
+        "Incorrect. Direct observation is not the method described; deductive proof is."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say about the concept of proof and mathematical rigor?",
+      "question": "Where did the concept of proof and mathematical rigor first begin?",
       "options": [
-        "It began in ancient Greek mathematics.",
-        "It began in Ancient Egypt.",
-        "It began in Mesopotamia.",
-        "It began in the 16th century."
+        "In ancient Greek mathematics",
+        "In Ancient Egypt",
+        "In Mesopotamia",
+        "In China"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'the concept of proof and its associated mathematical rigor began in ancient Greek mathematics.'",
-        "Incorrect. The article says mathematical written records first appeared in Ancient Egypt, but proof and rigor began in ancient Greek mathematics.",
-        "Incorrect. The article says mathematical written records first appeared in Mesopotamia, but proof and rigor began in ancient Greek mathematics.",
-        "Incorrect. The article associates the 16th century with the evolution of algebra, not the origin of proof and mathematical rigor."
+        "Correct. The article says 'the concept of proof and its associated mathematical rigor began in ancient Greek mathematics'.",
+        "Incorrect. The article notes that written records first appeared in Ancient Egypt and Mesopotamia, but not the concept of proof.",
+        "Incorrect. Mesopotamia had early written records, but the concept of proof began in ancient Greece.",
+        "Incorrect. China is not mentioned in this context in the article."
       ]
     },
     {
       "id": 5,
-      "question": "Before the Renaissance, into which two main areas was mathematics divided?",
+      "question": "Before the Renaissance, what were the two main areas of mathematics?",
       "options": [
-        "arithmetic and geometry",
-        "algebra and calculus",
-        "number theory and set theory",
-        "analysis and topology"
+        "Arithmetic and geometry",
+        "Algebra and calculus",
+        "Number theory and topology",
+        "Analysis and set theory"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Before the Renaissance, mathematics was divided into two main areas: arithmetic... and geometry...'",
-        "Incorrect. The article says algebra and calculus became predominant beginning with the Renaissance, not before it.",
-        "Incorrect. Number theory and set theory are not identified in the article as the two main pre-Renaissance divisions.",
-        "Incorrect. Analysis and topology are not identified in the article as the two main pre-Renaissance divisions."
+        "Correct. The article states that 'Before the Renaissance, mathematics was divided into two main areas: arithmetic... and geometry'.",
+        "Incorrect. Algebra and calculus became predominant beginning with the Renaissance.",
+        "Incorrect. Number theory and topology are not mentioned as the pre-Renaissance division.",
+        "Incorrect. Analysis and set theory are not mentioned as the pre-Renaissance division."
       ]
     },
     {
       "id": 6,
-      "question": "What did RenÃ© Descartes introduce in the 17th century that changed the paradigm of geometry?",
+      "question": "What is the 2020 Mathematics Subject Classification's number of first-level areas?",
       "options": [
-        "Cartesian coordinates",
-        "non-Euclidean geometries",
-        "the axiomatic method",
-        "algebraic expressions"
+        "63",
+        "60",
+        "50",
+        "70"
       ],
       "answer_explanations": [
-        "Correct. The article states that in the 17th century, 'RenÃ© Descartes introduced what is now called Cartesian coordinates,' which constituted a major change of paradigm.",
-        "Incorrect. Non-Euclidean geometries were discovered in the 19th century, not introduced by Descartes.",
-        "Incorrect. The axiomatic method was systematized at the end of the 19th century, not introduced by Descartes.",
-        "Incorrect. Algebraic expressions are associated with modern algebra beginning with the Renaissance, not specifically with Descartes's 17th-century contribution."
+        "Correct. The article states that 'The 2020 Mathematics Subject Classification contains 63 first-level areas.'",
+        "Incorrect. The article mentions 'more than 60' in the intro but specifies 63 in the areas section.",
+        "Incorrect. 50 is not mentioned in the article.",
+        "Incorrect. 70 is not mentioned in the article."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is topology the study of?",
+      "question": "Which conjecture was stated in 1742 and remains unproven?",
       "options": [
-        "properties that are kept under continuous deformations",
-        "distance properties in curved spaces",
-        "properties relative to parallelism independent of length",
-        "curves and surfaces defined using polynomials"
+        "Goldbach's conjecture",
+        "Fermat's Last Theorem",
+        "Russell's paradox",
+        "The parallel postulate"
       ],
       "answer_explanations": [
-        "Correct. The article states that topology is 'the study of properties that are kept under continuous deformations.'",
-        "Incorrect. The article describes Riemannian geometry, not topology, as 'the study of distance properties in curved spaces.'",
-        "Incorrect. The article describes affine geometry, not topology, as 'the study of properties relative to parallelism and independent of the concept of length.'",
-        "Incorrect. The article describes algebraic geometry, not topology, as 'the study of curves, surfaces, and their generalizations, which are defined using polynomials.'"
+        "Correct. The article says Goldbach's conjecture was 'Stated in 1742 by Christian Goldbach, it remains unproven despite considerable effort.'",
+        "Incorrect. Fermat's Last Theorem was proved in 1994 by Andrew Wiles.",
+        "Incorrect. Russell's paradox is not described as a conjecture stated in 1742.",
+        "Incorrect. The parallel postulate is not described as a conjecture stated in 1742."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about areas of mathematics developed independently from application?",
+      "question": "Who introduced Cartesian coordinates in the 17th century?",
       "options": [
-        "They often find practical applications later.",
-        "They never find practical applications.",
-        "They are grouped under applied mathematics.",
-        "They are developed in close correlation with their applications."
+        "RenÃ© Descartes",
+        "Euclid",
+        "Pierre de Fermat",
+        "Leonhard Euler"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Other areas are developed independently from any application but often find practical applications later.'",
-        "Incorrect. The article says such areas often find practical applications later, not that they never do.",
-        "Incorrect. The article says areas developed in close correlation with applications are grouped under applied mathematics, not areas developed independently.",
-        "Incorrect. The article says areas developed in close correlation with applications are distinct from those developed independently from any application."
+        "Correct. The article states 'RenÃ© Descartes introduced what is now called Cartesian coordinates'.",
+        "Incorrect. Euclid systematized geometry around 300 BC, long before the 17th century.",
+        "Incorrect. Pierre de Fermat is mentioned as a number theorist, not as the introducer of Cartesian coordinates.",
+        "Incorrect. Leonhard Euler is mentioned as a number theorist, not as the introducer of Cartesian coordinates."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article say about the contemporary Mathematics Subject Classification?",
+      "question": "What did the discovery of non-Euclidean geometries question?",
       "options": [
-        "It lists more than 60 first-level areas of mathematics.",
-        "It lists exactly four first-level areas of mathematics.",
-        "It lists only arithmetic and geometry as first-level areas.",
-        "It lists algebra and calculus as first-level areas."
+        "The parallel postulate",
+        "The concept of numbers",
+        "The use of algebra",
+        "The existence of calculus"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The contemporary Mathematics Subject Classification lists more than 60 first-level areas of mathematics.'",
-        "Incorrect. The article says the classification lists more than 60 first-level areas, not exactly four.",
-        "Incorrect. The article says arithmetic and geometry were the two main areas before the Renaissance, not that the contemporary classification lists only them.",
-        "Incorrect. The article states that algebra and calculus do not appear as first-level areas but are split into several first-level areas."
+        "Correct. The article states that non-Euclidean geometries 'do not follow the parallel postulate' and that this discovery questioned 'that postulate's truth'.",
+        "Incorrect. The discovery questioned the parallel postulate, not the concept of numbers.",
+        "Incorrect. The discovery questioned the parallel postulate, not the use of algebra.",
+        "Incorrect. The discovery questioned the parallel postulate, not the existence of calculus."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article identify as the modern name for higher arithmetic?",
+      "question": "Which subarea of geometry studies properties that are kept under continuous deformations?",
       "options": [
-        "number theory",
-        "algebra",
-        "geometry",
-        "analysis"
+        "Topology",
+        "Projective geometry",
+        "Affine geometry",
+        "Riemannian geometry"
       ],
       "answer_explanations": [
-        "Correct. The article states that number theory is 'the modern name for higher arithmetic.'",
-        "Incorrect. Algebra is described in the article as the study of operations and the structures they form, not as the modern name for higher arithmetic.",
-        "Incorrect. Geometry is described as the study of shapes and spaces, not as the modern name for higher arithmetic.",
-        "Incorrect. Analysis is described as the quantitative study of approximation and convergence, not as the modern name for higher arithmetic."
+        "Correct. The article defines topology as 'the study of properties that are kept under continuous deformations'.",
+        "Incorrect. Projective geometry adds points at infinity, not continuous deformations.",
+        "Incorrect. Affine geometry studies properties relative to parallelism, not continuous deformations.",
+        "Incorrect. Riemannian geometry studies distance properties in curved spaces, not continuous deformations."
       ]
     }
   ]

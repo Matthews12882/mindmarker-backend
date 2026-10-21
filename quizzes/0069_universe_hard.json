@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "If the universe's massâenergy density were significantly higher than its current value of about 5 protons per cubic meter, what would the article suggest about its long-term fate?",
+      "question": "What does the article imply about the relationship between the observable universe's diameter and the age of the universe?",
       "options": [
-        "It would eventually re-collapse into a black hole",
-        "It would expand forever at an accelerating rate",
-        "It would remain static in size indefinitely",
-        "It would fragment into multiple disconnected universes"
+        "The observable universe's diameter is much larger than the distance light could have traveled in the universe's age, because space itself has expanded.",
+        "The observable universe's diameter is exactly equal to the age of the universe times the speed of light, because light travels at a finite speed.",
+        "The observable universe's diameter is smaller than the distance light could have traveled, because the universe is contracting.",
+        "The observable universe's diameter is unrelated to the age of the universe, because the speed of light is infinite."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'if the universe were too dense then it would re-collapse into a black hole.'",
-        "Incorrect. The article does not say higher density causes perpetual acceleration; dark energy drives acceleration.",
-        "Incorrect. A static universe is not mentioned as an outcome of higher density in the article.",
-        "Incorrect. The article discusses connectedness and multiverses separately, not as a result of density."
+        "Correct. The article explains that the proper distance to the edge of the observable universe is 46 billion light-years, while the light travel distance is close to 13.8 billion light-years, because 'the edge of the observable universe and the Earth have since moved further apart' due to expansion.",
+        "Incorrect. The article states that the distance traveled by light is close to 13.8 billion light-years, but the proper distance is 46 billion light-years, so they are not equal.",
+        "Incorrect. The article states the universe is expanding, not contracting, and the observable universe's diameter is larger than the light travel distance.",
+        "Incorrect. The article explicitly notes the finite speed of light as the reason for the particle horizon, so the speed of light is not infinite."
       ]
     },
     {
       "id": 2,
-      "question": "Based on the article's chronology, what condition allowed neutral atoms to first form approximately 377,000 years after the Big Bang?",
+      "question": "Why does the article's description of the transition from a radiation-dominated era to a matter-dominated era imply about the expansion of the universe?",
       "options": [
-        "The universe cooled sufficiently for electrons and nuclei to bind",
-        "Dark energy density fell below matter density",
-        "Cosmic inflation ended and reheated the plasma",
-        "Population III stars emitted enough radiation to ionize gas"
+        "The expansion causes radiation energy density to drop faster than matter density, leading to matter's dominance.",
+        "The expansion causes matter density to drop faster than radiation energy density, leading to radiation's continued dominance.",
+        "The expansion has no effect on the relative densities of radiation and matter.",
+        "The expansion causes both radiation and matter densities to decrease at the same rate, so neither ever dominates."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'after about 377,000 years, the universe had cooled enough that electrons and nuclei could form the first stable atoms.'",
-        "Incorrect. Dark energy domination began much later, after about 9.8 billion years.",
-        "Incorrect. Cosmic inflation occurred in the earliest fraction of a second, not at 377,000 years.",
-        "Incorrect. Population III stars formed later, around 100â300 million years after the Big Bang."
+        "Correct. The article states that 'the energy density of electromagnetic radiation decreased more quickly than that of matter because the energy of each photon decreased as it is cosmologically redshifted,' which explains why matter came to dominate.",
+        "Incorrect. The article says the opposite: radiation energy density decreases more quickly, not matter density.",
+        "Incorrect. The article explicitly describes how expansion affects the densities differently.",
+        "Incorrect. The article states that radiation density decreases more quickly, so matter eventually dominates, not that they decrease at the same rate."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article identify as the reason the universe became transparent to light after recombination?",
+      "question": "What does the article's discussion of the deceleration parameter imply about cosmologists' expectations before 1998?",
       "options": [
-        "Neutral atoms are transparent to many wavelengths of light",
-        "Photons stopped being redshifted by cosmic expansion",
-        "The plasma became opaque to electromagnetic radiation",
-        "Dark matter ceased interacting with ordinary matter"
+        "They expected the expansion rate to be slowing down due to gravity, but the measured negative value showed it is accelerating.",
+        "They expected the expansion rate to be accelerating, and the negative value confirmed their prediction.",
+        "They expected the expansion rate to be constant, and the negative value was a surprise.",
+        "They expected the expansion rate to be zero, and the negative value was a measurement error."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Unlike plasma, neutral atoms are transparent to many wavelengths of light, so for the first time, the universe also became transparent.'",
-        "Incorrect. Redshift is discussed separately and is not given as the reason for transparency.",
-        "Incorrect. The article says plasma was optically opaque, not that it became opaque after recombination.",
-        "Incorrect. Dark matter interactions are not cited as the cause of transparency."
+        "Correct. The article says 'Before 1998, it was expected that the expansion rate would be decreasing as time went on due to the influence of gravitational interactions,' but the measured deceleration parameter was negative, implying acceleration.",
+        "Incorrect. The article says the expectation was for decreasing expansion, not acceleration.",
+        "Incorrect. The article says the expectation was for decreasing expansion, not constant.",
+        "Incorrect. The article does not mention an expectation of zero expansion; it mentions a positive deceleration parameter expectation."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what does the negative deceleration parameter measured in 1998 imply about the universe's expansion?",
+      "question": "How does the article's explanation of the formation of the first stars relate to the concept of reionization?",
       "options": [
-        "The second derivative of the cosmic scale factor has been positive in the last 5â6 billion years",
-        "The expansion rate has been decreasing monotonically since the Big Bang",
-        "Gravitational interactions alone determine the expansion rate",
-        "The universe is contracting rather than expanding"
+        "The first stars, being massive and luminous, were responsible for reionizing the universe through their radiation.",
+        "The first stars were formed after reionization, so they had no role in it.",
+        "Reionization was caused by dark matter, not by the first stars.",
+        "The first stars caused recombination, which is the same as reionization."
       ],
       "answer_explanations": [
-        "Correct. The article states that the negative deceleration parameter 'technically implies that the second derivative of the cosmic scale factor has been positive in the last 5â6 billion years.'",
-        "Incorrect. The article says expansion has been monotonic, but the negative parameter indicates acceleration, not decreasing rate.",
-        "Incorrect. The article notes that before 1998 gravity was expected to dominate, but the measurement showed otherwise.",
-        "Incorrect. The article describes expansion, not contraction."
+        "Correct. The article states that Population III stars 'were responsible for the gradual reionization of the universe between about 200â500 million years and 1 billion years.'",
+        "Incorrect. The article says the first stars formed before reionization and were responsible for it.",
+        "Incorrect. The article attributes reionization to the first stars, not dark matter.",
+        "Incorrect. Recombination is the earlier formation of neutral atoms, while reionization is a later process caused by stars."
       ]
     },
     {
       "id": 5,
-      "question": "If a new observation showed that ordinary baryonic matter made up 10% of the universe rather than the figure in the article, how would that compare to the article's ÎCDM model values?",
+      "question": "What conclusion can be drawn from the article's comparison of the Milky Way's diameter and the observable universe's diameter?",
       "options": [
-        "It would be more than double the article's stated 4.84% for ordinary matter",
-        "It would match the article's figure for dark matter exactly",
-        "It would equal the combined percentage of dark matter and dark energy",
-        "It would contradict the article's claim that stars are 6% of ordinary matter"
+        "The observable universe is vastly larger than the Milky Way, by a factor of over a million.",
+        "The Milky Way is about the same size as the observable universe.",
+        "The Milky Way is larger than the observable universe.",
+        "The two diameters are not comparable because they are measured in different units."
       ],
       "answer_explanations": [
-        "Correct. The article states ordinary matter composes 4.84%Â±0.1%, so 10% would be more than double.",
-        "Incorrect. Dark matter is about 25.8%, not 10%.",
-        "Incorrect. Dark matter plus dark energy totals about 95%, not 10%.",
-        "Incorrect. The 6% figure refers to stars within ordinary matter, not the total ordinary matter percentage."
+        "Correct. The article gives the Milky Way's diameter as 87,400 light-years and the observable universe's as 93 billion light-years, which is about a million times larger.",
+        "Incorrect. The observable universe is much larger than the Milky Way.",
+        "Incorrect. The observable universe is much larger than the Milky Way.",
+        "Incorrect. Both are given in light-years, so they are comparable."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, which era began when the energy density of matter became larger than that of photons and neutrinos?",
+      "question": "Why does the article's definition of the universe include a condition about connectedness in some definitions?",
       "options": [
-        "The matter-dominated era",
-        "The radiation-dominated era",
-        "The dark-energy-dominated era",
-        "The recombination era"
+        "To allow for the possibility of other mutually existing universes, which would not be part of a single connected universe.",
+        "To ensure that the universe is infinite in size.",
+        "To exclude the possibility of dark matter and dark energy.",
+        "To emphasize that the universe is geocentric."
       ],
       "answer_explanations": [
-        "Correct. The article states this marked 'the end of the radiation-dominated era and the start of the matter-dominated era.'",
-        "Incorrect. The radiation-dominated era ended at this transition, not began.",
-        "Incorrect. The dark-energy-dominated era began after about 9.8 billion years.",
-        "Incorrect. Recombination occurred after about 377,000 years, unrelated to this density crossover."
+        "Correct. The article says 'More restrictive definitions include the condition that the universe is connected, to allow for the possibility of other mutually existing universes.'",
+        "Incorrect. The connectedness condition is about the possibility of multiple universes, not about infinity.",
+        "Incorrect. The condition is not about excluding dark matter or dark energy.",
+        "Incorrect. The article does not link the definition to geocentrism."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the total size of the universe beyond the observable portion?",
+      "question": "What does the article's description of the universe's mass-energy density imply about the conditions needed for structure formation?",
       "options": [
-        "It is not known whether it is finite or infinite",
-        "It is exactly 93 billion light-years in diameter",
-        "It is smaller than the observable universe",
-        "It is finite but unbounded like a hypersphere"
+        "The density is just right: too much matter would cause collapse, too little would prevent structure formation.",
+        "The density is too high, so the universe is about to collapse.",
+        "The density is too low, so galaxies cannot form.",
+        "The density has no effect on structure formation."
       ],
       "answer_explanations": [
-        "Correct. The article states 'Because humans cannot observe space beyond the edge of the observable universe, it is unknown whether the size of the universe in its totality is finite or infinite.'",
-        "Incorrect. 93 billion light-years is the diameter of the observable universe, not the total universe.",
-        "Incorrect. The article does not claim the total universe is smaller than the observable portion.",
-        "Incorrect. The article does not describe the total universe as finite but unbounded."
+        "Correct. The article states that if the universe were 'too dense then it would re-collapse into a black hole' and if it had 'too little matter then it would expand too quickly for astronomical structures to form.' The current density allowed for 13.8 billion years of expansion and structure formation.",
+        "Incorrect. The article says the density is not too high, as the universe has not collapsed.",
+        "Incorrect. The article says the density is not too low, as structures have formed.",
+        "Incorrect. The article explicitly discusses the importance of density for structure formation."
       ]
     },
     {
       "id": 8,
-      "question": "Based on the article's description of the ÎCDM model, which component accounts for the largest share of the universe's mass and energy?",
+      "question": "How does the article's explanation of the Big Bang's early phase transitions relate to the formation of elementary particles?",
       "options": [
-        "Dark energy",
-        "Dark matter",
-        "Ordinary baryonic matter",
-        "Stars and visible gas clouds"
+        "As the universe cooled, phase transitions allowed particles to stabilize and form a plasma of electrons, protons, and neutrons.",
+        "Phase transitions caused particles to be destroyed, leaving only photons.",
+        "Phase transitions had no effect on particle formation.",
+        "Phase transitions only occurred after atoms formed."
       ],
       "answer_explanations": [
-        "Correct. The article states about 69.2%Â±1.2% is dark energy, the largest share.",
-        "Incorrect. Dark matter accounts for about 25.8%Â±1.1%, less than dark energy.",
-        "Incorrect. Ordinary matter composes only 4.84%Â±0.1%.",
-        "Incorrect. Stars and visible gas clouds form only about 6% of ordinary matter, a tiny fraction."
+        "Correct. The article says that 'the state of the universe went through phase transitions analogous to water freezing,' and that various elementary particles 'associated stably producing a plasma of electrons, protons, and neutrons.'",
+        "Incorrect. The article says particles formed a plasma, not that they were destroyed.",
+        "Incorrect. The article explicitly links phase transitions to particle formation.",
+        "Incorrect. Phase transitions occurred before atoms formed, as described in the early chronology."
       ]
     },
     {
       "id": 9,
-      "question": "If astronomers observed a galaxy at the edge of the observable universe, what does the article say about the proper distance from Earth to that galaxy compared to the distance light traveled?",
+      "question": "What does the article's mention of the cosmological constant and cold dark matter in the Lambda-CDM model imply about the model's success?",
       "options": [
-        "The proper distance is larger because both have moved further apart since the light was emitted",
-        "The proper distance equals exactly 13.8 billion light-years",
-        "The proper distance is smaller because light travels faster than expansion",
-        "The proper distance cannot be measured at all"
+        "The model's inclusion of these components allows it to account for most observations of the universe.",
+        "The model is successful because it ignores dark matter and dark energy.",
+        "The model is only a rough approximation and fails to explain most observations.",
+        "The model is based on geocentrism and is not widely accepted."
       ],
       "answer_explanations": [
-        "Correct. The article states the proper distance is 46 billion light-years and is larger than the light-travel distance because 'the edge of the observable universe and the Earth have since moved further apart.'",
-        "Incorrect. 13.8 billion light-years is the approximate light-travel distance, not the proper distance.",
-        "Incorrect. The article says proper distance is larger, not smaller.",
-        "Incorrect. The article gives a specific proper distance of 46 billion light-years."
+        "Correct. The article states that the Lambda-CDM model 'provides an excellent account of most observations of the universe,' and it includes a cosmological constant and cold dark matter.",
+        "Incorrect. The model includes dark matter and dark energy, not ignores them.",
+        "Incorrect. The article says it provides an excellent account, not that it fails.",
+        "Incorrect. The model is based on general relativity and is widely accepted, not geocentric."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what role did Population III stars play in the early universe?",
+      "question": "What can be inferred from the article's statement that the universe's total size is unknown?",
       "options": [
-        "They caused reionization and seeded the universe with elements heavier than helium",
-        "They formed during Big Bang nucleosynthesis within the first 15 minutes",
-        "They were the first neutral atoms to form after recombination",
-        "They prevented the formation of dark matter concentrations"
+        "The observable universe is only a portion of the entire universe, and the rest may be infinite or finite but unobservable.",
+        "The universe is definitely infinite, but we cannot measure it.",
+        "The universe is definitely finite, but we cannot see the edge.",
+        "The universe's size is known to be exactly 93 billion light-years."
       ],
       "answer_explanations": [
-        "Correct. The article states Population III stars 'were responsible for the gradual reionization of the universe... and also for seeding the universe with elements heavier than helium.'",
-        "Incorrect. Big Bang nucleosynthesis produced nuclei, not stars, and occurred in the first 15 minutes.",
-        "Incorrect. Neutral atoms formed during recombination, long before Population III stars.",
-        "Incorrect. The article says ordinary matter was attracted to dark matter concentrations, not that stars prevented them."
+        "Correct. The article says 'the total size of the universe is not known' and later explains that 'it is unknown whether the size of the universe in its totality is finite or infinite.'",
+        "Incorrect. The article says it is unknown whether it is finite or infinite.",
+        "Incorrect. The article says it is unknown, not that it is definitely finite.",
+        "Incorrect. 93 billion light-years is the diameter of the observable universe, not the total universe."
       ]
     }
   ]

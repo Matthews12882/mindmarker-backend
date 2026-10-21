@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Who was Muhammad according to the article?",
+      "question": "Who was the founder of Islam?",
       "options": [
-        "An Arab religious, military, and political leader, and the founder of Islam",
-        "A Persian poet and philosopher",
-        "A Roman emperor who converted to Christianity",
-        "A Byzantine general who fought the Arabs"
+        "Muhammad",
+        "Abraham",
+        "Moses",
+        "Jesus"
       ],
       "answer_explanations": [
-        "Correct. The article states that Muhammad was an Arab religious, military, and political leader, and the founder of Islam.",
-        "Incorrect. The article does not describe Muhammad as a Persian poet and philosopher.",
-        "Incorrect. The article does not describe Muhammad as a Roman emperor who converted to Christianity.",
-        "Incorrect. The article does not describe Muhammad as a Byzantine general who fought the Arabs."
+        "Correct. The article states that Muhammad was 'the founder of Islam'.",
+        "Incorrect. Abraham is mentioned as one of the prophets before Muhammad, but not as the founder of Islam.",
+        "Incorrect. Moses is mentioned as one of the prophets before Muhammad, but not as the founder of Islam.",
+        "Incorrect. Jesus is mentioned as one of the prophets before Muhammad, but not as the founder of Islam."
       ]
     },
     {
       "id": 2,
-      "question": "In what city was Muhammad born according to the traditional account?",
+      "question": "According to the article, when was Muhammad born?",
       "options": [
-        "Mecca",
-        "Medina",
-        "Jerusalem",
-        "Damascus"
+        "c. 570 CE",
+        "c. 610 CE",
+        "c. 622 CE",
+        "c. 632 CE"
       ],
       "answer_explanations": [
-        "Correct. The article states that Muhammad was born in Mecca to the aristocratic Banu Hashim clan of the Quraysh.",
-        "Incorrect. The article identifies Medina as the city Muhammad migrated to, not his birthplace.",
-        "Incorrect. The article does not state that Muhammad was born in Jerusalem.",
-        "Incorrect. The article does not state that Muhammad was born in Damascus."
+        "Correct. The article says 'Muhammad (c. 570 CE â 8 June 632 CE)'.",
+        "Incorrect. 610 CE is the year he reported receiving his first revelation, not his birth year.",
+        "Incorrect. 622 CE is the year of the migration to Medina, not his birth year.",
+        "Incorrect. 632 CE is the year of his death, not his birth year."
       ]
     },
     {
       "id": 3,
-      "question": "Who were Muhammad's parents according to the article?",
+      "question": "What is the name of the mountain cave where Muhammad secluded himself for prayer?",
       "options": [
-        "Abdullah ibn Abd al-Muttalib and Amina bint Wahb",
-        "Abd al-Muttalib and Khadijah",
-        "Abu Talib and Fatima",
-        "Gabriel and Mary"
+        "Hira",
+        "Mecca",
+        "Medina",
+        "Abyssinia"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Muhammad's father as Abdullah ibn Abd al-Muttalib and his mother as Amina bint Wahb.",
-        "Incorrect. The article names Abd al-Muttalib as Muhammad's grandfather, not his father, and Khadijah as his wife.",
-        "Incorrect. The article names Abu Talib as Muhammad's paternal uncle, not his father, and Fatima as his daughter.",
-        "Incorrect. The article identifies Gabriel as the angel who visited Muhammad, not as his parent."
+        "Correct. The article states that he would seclude himself in a mountain cave named Hira.",
+        "Incorrect. Mecca is the city where he was born, not the cave.",
+        "Incorrect. Medina is the city to which he migrated, not the cave.",
+        "Incorrect. Abyssinia is a place to which he sent some followers, not the cave."
       ]
     },
     {
       "id": 4,
-      "question": "At what age did Muhammad report receiving his first revelation in the cave of Hira?",
+      "question": "At what age did Muhammad report receiving his first revelation from God?",
       "options": [
         "40",
-        "25",
-        "30",
-        "50"
+        "6",
+        "13",
+        "30"
       ],
       "answer_explanations": [
-        "Correct. The article states that when he was 40, in c. 610, Muhammad reported being visited by Gabriel in the cave and receiving his first revelation from God.",
-        "Incorrect. The article states that Muhammad met and married Khadijah at age 24â25, not that he received his first revelation then.",
-        "Incorrect. The article does not associate the first revelation with age 30.",
-        "Incorrect. The article does not associate the first revelation with age 50."
+        "Correct. The article says 'When he was 40, in c. 610, Muhammad reported being visited by Gabriel in the cave and receiving his first revelation from God.'",
+        "Incorrect. Age 6 is when his mother died, not when he received the first revelation.",
+        "Incorrect. 13 years is the duration of persecution, not his age at first revelation.",
+        "Incorrect. The article does not mention age 30 in this context."
       ]
     },
     {
       "id": 5,
-      "question": "What event marks the beginning of the Islamic calendar according to the article?",
+      "question": "Who did Muhammad report being visited by in the cave?",
       "options": [
-        "The Hijrah, Muhammad's migration from Mecca to Medina",
-        "Muhammad's birth in Mecca",
-        "The Conquest of Mecca",
-        "Muhammad's death in 632"
+        "Gabriel",
+        "Noah",
+        "Abraham",
+        "Moses"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Hijrah, the migration from Mecca to Medina in 622, marks the beginning of the Islamic calendar.",
-        "Incorrect. The article gives Muhammad's birth as c. 570 but does not link it to the start of the Islamic calendar.",
-        "Incorrect. The Conquest of Mecca occurred in 630, after the Hijrah.",
-        "Incorrect. Muhammad's death in 632 is mentioned, but it is not the event that begins the Islamic calendar."
+        "Correct. The article states that Muhammad reported being visited by Gabriel in the cave.",
+        "Incorrect. Noah is mentioned as a prophet, but not as the visitor.",
+        "Incorrect. Abraham is mentioned as a prophet, but not as the visitor.",
+        "Incorrect. Moses is mentioned as a prophet, but not as the visitor."
       ]
     },
     {
       "id": 6,
-      "question": "What did Muhammad proclaim when he began preaching publicly in 613?",
+      "question": "In what year did Muhammad start preaching publicly?",
       "options": [
-        "That God is One, that submission to God is the right way of life, and that he was a prophet and messenger of God",
-        "That Jesus was the final prophet",
-        "That the Meccan polytheists were correct",
-        "That the Quran had already been completed"
+        "613",
+        "615",
+        "622",
+        "629"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 613 Muhammad proclaimed that God is One, that complete submission to God is the right way of life, and that he was a prophet and messenger of God.",
-        "Incorrect. The article presents Muhammad, not Jesus, as the final prophet.",
-        "Incorrect. The article describes persecution by Meccan polytheists, not Muhammad proclaiming them correct.",
-        "Incorrect. The article describes the revelations forming the Quran over time, not a completed Quran in 613."
+        "Correct. The article says 'In 613, Muhammad started preaching these revelations publicly.'",
+        "Incorrect. 615 is the year he sent some followers to Abyssinia, not when he started preaching.",
+        "Incorrect. 622 is the year of the migration to Medina, not when he started preaching.",
+        "Incorrect. 629 is the year he marched on Mecca, not when he started preaching."
       ]
     },
     {
       "id": 7,
-      "question": "How long did Muhammad's followers experience persecution by Meccan polytheists before the migration to Medina?",
+      "question": "What did Muhammad proclaim about God?",
       "options": [
-        "13 years",
-        "3 years",
-        "20 years",
-        "7 years"
+        "God is One",
+        "God is many",
+        "God is absent",
+        "God is a prophet"
       ],
       "answer_explanations": [
-        "Correct. The article states that Muhammad's followers experienced persecution by Meccan polytheists for 13 years.",
-        "Incorrect. The article specifies 13 years, not 3 years.",
-        "Incorrect. The article specifies 13 years, not 20 years.",
-        "Incorrect. The article specifies 13 years, not 7 years."
+        "Correct. The article states that he proclaimed that 'God is One'.",
+        "Incorrect. The article says 'God is One', not many.",
+        "Incorrect. The article does not say God is absent.",
+        "Incorrect. The article does not say God is a prophet."
       ]
     },
     {
       "id": 8,
-      "question": "In what year did Muhammad march on Mecca with an army of 10,000 Muslim converts?",
+      "question": "What is the name of the event that marks the beginning of the Islamic calendar?",
       "options": [
-        "629",
-        "613",
-        "622",
-        "632"
+        "Hijrah",
+        "Farewell Pilgrimage",
+        "Conquest of Mecca",
+        "Migration to Abyssinia"
       ],
       "answer_explanations": [
-        "Correct. The article states that in December 629 Muhammad gathered an army of 10,000 Muslim converts and marched on Mecca.",
-        "Incorrect. 613 is when Muhammad began preaching publicly, not when he marched on Mecca.",
-        "Incorrect. 622 is the year of the Hijrah to Medina, not the march on Mecca.",
-        "Incorrect. 632 is the year of Muhammad's death, not the march on Mecca."
+        "Correct. The article states: 'This event, the Hijrah, marks the beginning of the Islamic calendar.'",
+        "Incorrect. The Farewell Pilgrimage is mentioned later, but it does not mark the beginning of the Islamic calendar.",
+        "Incorrect. The Conquest of Mecca is mentioned later, but it does not mark the beginning of the Islamic calendar.",
+        "Incorrect. The Migration to Abyssinia is mentioned, but it is not the event that marks the beginning of the Islamic calendar."
       ]
     },
     {
       "id": 9,
-      "question": "What do Muslims regard the Quran as according to the article?",
+      "question": "How many Muslim converts did Muhammad gather to march on Mecca in December 629?",
       "options": [
-        "The verbatim word of God and his final revelation",
-        "A collection of Muhammad's personal opinions",
-        "A historical novel written by later scholars",
-        "A text revealed directly to Jesus"
+        "10,000",
+        "1,000",
+        "100,000",
+        "5,000"
       ],
       "answer_explanations": [
-        "Correct. The article states that the revelations forming the Quran are regarded by Muslims as the verbatim word of God and his final revelation.",
-        "Incorrect. The article presents the Quran as divinely revealed, not as Muhammad's personal opinions.",
-        "Incorrect. The article does not describe the Quran as a historical novel written by later scholars.",
-        "Incorrect. The article states the Quran was revealed to Muhammad, not directly to Jesus."
+        "Correct. The article says 'Muhammad gathered an army of 10,000 Muslim converts.'",
+        "Incorrect. The article does not mention 1,000.",
+        "Incorrect. The article does not mention 100,000.",
+        "Incorrect. The article does not mention 5,000."
       ]
     },
     {
       "id": 10,
-      "question": "What does the name Muhammad mean in Arabic?",
+      "question": "What do Muslims regard the revelations as?",
       "options": [
-        "Praised",
-        "Prophet",
-        "Messenger",
-        "Seal"
+        "The verbatim word of God",
+        "The word of Gabriel",
+        "The word of Muhammad",
+        "The word of the prophets"
       ],
       "answer_explanations": [
-        "Correct. The article states that the name Muhammad means praised in Arabic.",
-        "Incorrect. The article does not state that the name Muhammad means prophet.",
-        "Incorrect. The article does not state that the name Muhammad means messenger.",
-        "Incorrect. The article refers to Muhammad as the Seal of the Prophets, but does not state that his name means seal."
+        "Correct. The article states that the revelations 'are regarded by Muslims as the verbatim word of God and his final revelation.'",
+        "Incorrect. Gabriel was the messenger, but the revelations are regarded as the word of God, not Gabriel.",
+        "Incorrect. Muhammad received the revelations, but they are regarded as the word of God, not Muhammad.",
+        "Incorrect. The revelations are not regarded as the word of the prophets."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "A researcher discovers a novel unicellular organism whose cells contain a membrane-bound nucleus and mitochondria but lack a cell wall. Based on the article, which domain would this organism belong to?",
+      "question": "Based on the article, what is the most significant implication of the fact that most cells are only visible under a microscope?",
       "options": [
-        "Eukaryota",
-        "Archaea",
-        "Bacteria",
-        "Prokaryota"
+        "It implies that the discovery of cells was dependent on the development of microscopy, which explains why cells were not described until 1665.",
+        "It means that cells were always too small to be seen, and therefore their existence was purely theoretical before the invention of the microscope.",
+        "It suggests that all cells are the same size, and that size is too small to be seen with the naked eye.",
+        "It indicates that the only way to study cells is through a microscope, and that no other tools or methods are useful in cell biology."
       ],
       "answer_explanations": [
-        "Correct. The article states that eukaryotes have a nucleus and other membrane-bound organelles such as mitochondria, and that animal cells (a type of eukaryote) lack a cell wall.",
-        "Incorrect. The article indicates that Archaea lack a nucleus and have ether-linked lipids in their cell membranes.",
-        "Incorrect. The article states that Bacteria lack a nucleus and have peptidoglycan cell walls (or ester-linked lipids).",
-        "Incorrect. Prokaryota is not presented as a domain in the article; the three domains listed are Archaea, Bacteria, and Eukaryota."
+        "Correct. The article states that 'Most cells are only visible under a microscope' and later that 'Cells were discovered by Robert Hooke in 1665', which implies that the invention and use of the microscope was a prerequisite for their discovery.",
+        "Incorrect. The article does not say cells were theoretical before the microscope; it simply states they were discovered in 1665, implying they were observed then, not that they were only theoretical before.",
+        "Incorrect. The article does not claim all cells are the same size; it mentions a range of sizes for prokaryotes (0.1 to 5.0 Î¼m) and that eukaryotic cells can be 2 to 100 times larger, so cells vary in size.",
+        "Incorrect. While microscopy is important, the article discusses other methods and structures (e.g., cell theory, biochemistry) and does not state that microscopy is the only useful tool."
       ]
     },
     {
       "id": 2,
-      "question": "If a newly isolated microorganism is found to be sensitive to diphtheria toxin and possesses only one RNA polymerase, which domain does it most likely belong to according to the article's comparison table?",
+      "question": "Considering the article's description of prokaryotes and eukaryotes, what conclusion can be drawn about the relationship between cell structure and organism complexity?",
       "options": [
-        "Archaea",
-        "Bacteria",
-        "Eukaryota",
-        "None of the above"
+        "The presence of a membrane-bound nucleus and other organelles in eukaryotic cells is associated with the ability to form multicellular organisms, as prokaryotes are always single-celled.",
+        "Prokaryotes are simpler and smaller, which directly causes them to be single-celled, while eukaryotes are always multicellular because they are larger.",
+        "The lack of a nucleus in prokaryotes means they cannot perform vital biological processes like cell signaling, which is why they are less complex.",
+        "Eukaryotic cells are always larger than prokaryotic cells, and this size difference is the sole reason why eukaryotes can be multicellular."
       ],
       "answer_explanations": [
-        "Correct. The table lists Archaea as having one RNA polymerase and EF-2/EF-G that is sensitive to diphtheria toxin.",
-        "Incorrect. The table states that Bacteria have one RNA polymerase but are resistant to diphtheria toxin.",
-        "Incorrect. The table states that Eukaryota have many RNA polymerases and are sensitive to diphtheria toxin.",
-        "Incorrect. Archaea match both criteria given in the question."
+        "Correct. The article states that 'Prokaryotes are single-celled' and that 'Eukaryotes can be single-celled or multicellular', and it links the presence of a nucleus and membrane-bound organelles to eukaryotic cells, implying that this structural complexity is related to the capacity for multicellularity.",
+        "Incorrect. The article says eukaryotes can be single-celled or multicellular, so it is not true that eukaryotes are always multicellular. Also, it does not state that prokaryote simplicity directly causes them to be single-celled.",
+        "Incorrect. The article states that prokaryotes have 'vital biological processes including cell signaling', so they can perform these processes despite lacking a nucleus.",
+        "Incorrect. The article says a eukaryotic cell can be 2 to 100 times larger, but it does not claim that size is the sole reason for multicellularity; it also mentions the presence of a nucleus and organelles."
       ]
     },
     {
       "id": 3,
-      "question": "A biologist is studying a prokaryotic species that performs methanogenesis. Based on the article, which domain is this organism most likely part of?",
+      "question": "How does the article's comparison of archaea and bacteria in the table support the idea that they are distinct domains of life?",
       "options": [
-        "Archaea",
-        "Bacteria",
-        "Eukaryota",
-        "Cannot be determined"
+        "It shows that they differ in fundamental biochemical and structural properties, such as membrane lipid linkage, cell wall composition, and response to toxins, indicating deep evolutionary divergence.",
+        "It shows that they are similar in most properties, such as having circular chromosomes and asexual reproduction, which suggests they are not distinct domains.",
+        "It shows that archaea are more similar to eukaryotes than to bacteria, because both archaea and eukaryotes have methionine as the first amino acid in protein synthesis.",
+        "It shows that bacteria are more complex than archaea because bacteria have more types of metabolism, including photosynthesis and fermentation."
       ],
       "answer_explanations": [
-        "Correct. The article states that methanogenesis is unique to Archaea among the domains.",
-        "Incorrect. The article lists various bacterial metabolisms including photosynthesis and fermentation, but not methanogenesis.",
-        "Incorrect. The article states that eukaryotes perform photosynthesis, cellular respiration, and fermentation, but no diazotrophy; methanogenesis is not listed for them.",
-        "Incorrect. The article explicitly identifies methanogenesis as unique to Archaea."
+        "Correct. The table lists distinct properties for archaea (e.g., ether-linked lipids, methanogenesis unique to archaea, diphtheria toxin sensitive) and bacteria (e.g., ester-linked lipids, peptidoglycan cell wall, diphtheria toxin resistant), which are fundamental differences supporting their classification as separate domains.",
+        "Incorrect. While they share some features like circular chromosomes and asexual reproduction, the table also highlights many differences, so it does not suggest they are not distinct.",
+        "Incorrect. The table shows that archaea and eukaryotes share some features (e.g., methionine, similar translation/transcription), but it also shows many differences (e.g., membrane lipids, cell wall), so it does not suggest archaea are more similar to eukaryotes overall.",
+        "Incorrect. The table lists various metabolisms for bacteria, but it also lists many for archaea (including methanogenesis), and it does not rank complexity; it just lists properties."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is a membrane-bound prokaryotic organelle mentioned in the article?",
+      "question": "Based on the article, what is the most likely reason why the cell wall is crucial for bacteria in a hypotonic environment?",
       "options": [
-        "Magnetosome",
-        "Ribosome",
-        "Nucleoid",
-        "Cell wall"
+        "It prevents the cell from expanding and bursting due to osmotic pressure, as it acts as a rigid barrier against water influx.",
+        "It allows the cell to absorb more water from the environment, which is necessary for growth and reproduction.",
+        "It helps the cell to move towards higher concentrations of solutes, thereby avoiding the hypotonic environment.",
+        "It secretes extracellular polymeric substances that neutralize the hypotonic environment, making it isotonic."
       ],
       "answer_explanations": [
-        "Correct. The article identifies the magnetosome as a unique membrane-bound prokaryotic organelle found in magnetotactic bacteria.",
-        "Incorrect. The article describes ribosomes as proteinaceous, membrane-less organelles present in both prokaryotes and eukaryotes.",
-        "Incorrect. The nucleoid is described as the region containing genetic material in prokaryotes, not as a membrane-bound organelle.",
-        "Incorrect. The cell wall is a structural layer outside the cell membrane, not a membrane-bound organelle."
+        "Correct. The article states that the cell wall 'prevents the cell from expanding and bursting (cytolysis) from osmotic pressure due to a hypotonic environment', meaning it provides mechanical protection against water influx.",
+        "Incorrect. The article says the cell wall prevents the cell from expanding, not that it allows more water absorption.",
+        "Incorrect. The article does not mention that the cell wall aids in movement; movement is attributed to flagella and pili.",
+        "Incorrect. The article does not say the cell wall secretes substances to change the environment; it mentions that all prokaryotic cells secrete substances, but not that this neutralizes hypotonic environments."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, which of the following is true about the cell envelope of bacteria?",
+      "question": "What does the article's description of the bacterial capsule and its composition imply about the adaptability of bacteria?",
       "options": [
-        "It generally consists of a plasma membrane covered by a cell wall, sometimes with a third capsule layer.",
-        "It consists solely of a plasma membrane in all bacteria.",
-        "It is composed of ether-linked lipids unique to bacteria.",
-        "It is absent in Mycoplasma species."
+        "The capsule can be made of different materials (polysaccharide, polypeptide, or hyaluronic acid) in different species, suggesting that bacteria can adapt their protective layers to different environments or host interactions.",
+        "The capsule is always made of the same material, which implies that bacteria have a uniform defense mechanism that is effective in all situations.",
+        "The capsule is only present in a few bacteria, which implies that most bacteria lack any form of external protection and are therefore more vulnerable.",
+        "The capsule is primarily used for movement, which implies that bacteria that have a capsule are more motile than those that do not."
       ],
       "answer_explanations": [
-        "Correct. The article states that bacteria are enclosed in a cell envelope generally consisting of a plasma membrane covered by a cell wall, which for some bacteria is covered by a third gelatinous capsule layer.",
-        "Incorrect. The article notes that Mycoplasma only possess the cell membrane, but this is an exception, not the rule for all bacteria.",
-        "Incorrect. Ether-linked lipids are described as a feature of archaeal cell membranes, not bacterial cell envelopes.",
-        "Incorrect. The article states that Mycoplasma only possess the cell membrane, meaning they still have part of the envelope rather than lacking it entirely."
+        "Correct. The article lists different capsule compositions for different bacteria (e.g., polysaccharide in pneumococci, polypeptide in Bacillus anthracis, hyaluronic acid in streptococci), which implies that the capsule is not a fixed structure but can vary, indicating adaptability.",
+        "Incorrect. The article explicitly describes different compositions, so the capsule is not always the same material.",
+        "Incorrect. The article does not say the capsule is rare; it describes it as a possible third layer for some bacteria, but it does not quantify how many have it.",
+        "Incorrect. The article does not link the capsule to movement; it says flagella and pili facilitate movement and communication."
       ]
     },
     {
       "id": 6,
-      "question": "A scientist engineers a eukaryotic cell to initiate protein synthesis with formylmethionine instead of methionine. Based on the article, how would this modification affect the cell's classification relative to the domains?",
+      "question": "How does the article's information about the largest bacterium, Thiomargarita magnifica, challenge a common assumption about prokaryotes?",
       "options": [
-        "It would make protein synthesis initiation resemble that of Bacteria rather than Eukaryota or Archaea.",
-        "It would make the cell a prokaryote.",
-        "It would have no effect on classification because initiation amino acid is not a defining trait.",
-        "It would make the cell resemble Archaea."
+        "It challenges the assumption that all prokaryotes are microscopic, since this bacterium is visible to the naked eye and can reach 2 cm in length.",
+        "It challenges the assumption that prokaryotes are always single-celled, since this bacterium is large enough to be seen without a microscope.",
+        "It challenges the assumption that prokaryotes lack a nucleus, since this bacterium is so large that it must have a membrane-bound nucleus.",
+        "It challenges the assumption that prokaryotes are the first form of life, since this bacterium is so large and complex."
       ],
       "answer_explanations": [
-        "Correct. The table shows that Bacteria use formylmethionine for protein synthesis initiation, while Archaea and Eukaryota use methionine.",
-        "Incorrect. Changing the initiation amino acid does not alter the cell's fundamental structure, such as having a nucleus, so it would not become a prokaryote.",
-        "Incorrect. The article presents protein synthesis initiation as a distinguishing property among the domains in its comparison table.",
-        "Incorrect. The article lists methionine, not formylmethionine, as the initiation amino acid for Archaea."
+        "Correct. The article states that 'Most prokaryotes are the smallest of all organisms' but then describes Thiomargarita magnifica as 'visible to the naked eye with an average length of 1 cm, but can reach 2 cm', which contradicts the idea that all prokaryotes are microscopic.",
+        "Incorrect. The article still classifies Thiomargarita magnifica as a bacterium, which is a prokaryote, and prokaryotes are defined as single-celled; the article does not say it is multicellular.",
+        "Incorrect. The article does not say that Thiomargarita magnifica has a nucleus; it is still described as a bacterium, which lacks a nucleus.",
+        "Incorrect. The article does not connect the size of Thiomargarita magnifica to the origin of life; it says prokaryotes were likely the first form of life, but this bacterium is just an example of a large prokaryote."
       ]
     },
     {
       "id": 7,
-      "question": "Based on the article, which statement accurately describes a difference between archaea and bacteria regarding their cell-surface appendages for movement?",
+      "question": "Based on the article, what is the most significant difference between the flagella of bacteria and the archaellum of archaea?",
       "options": [
-        "Archaea use an archaellum, which is differently structured from bacterial flagella.",
-        "Bacteria use an archaellum, while archaea use flagella.",
-        "Both use identical flagella for movement.",
-        "Neither archaea nor bacteria possess cell-surface appendages for movement."
+        "The archaellum has a different structure than the bacterial flagellum, even though both are used for movement, indicating that these structures evolved independently.",
+        "The bacterial flagellum is used for communication, while the archaellum is used for movement, showing that they have different functions.",
+        "The archaellum is found in all archaea, while the flagellum is only found in some bacteria, showing that archaea are more motile.",
+        "The bacterial flagellum is made of peptidoglycan, while the archaellum is made of ether-linked lipids, showing that they are chemically different."
       ],
       "answer_explanations": [
-        "Correct. The article states that the archaeal equivalent of flagella is the differently structured and unique archaellum.",
-        "Incorrect. The article assigns the archaellum to archaea, not bacteria, and flagella to bacteria.",
-        "Incorrect. The article explicitly describes the archaellum as differently structured from bacterial flagella.",
-        "Incorrect. The article describes cell-surface appendages such as flagella in bacteria and the archaellum in archaea."
+        "Correct. The article says that in archaea, the 'cell-surface appendage equivalent of the flagella is the differently structured and unique archaellum', which implies that while both serve as appendages, the archaellum is structurally different, suggesting independent evolution.",
+        "Incorrect. The article says that flagella and pili 'facilitate movement and communication', but it does not say that the archaellum has a different function; it is described as the 'equivalent of the flagella'.",
+        "Incorrect. The article does not say that all archaea have an archaellum or that only some bacteria have flagella; it just describes the structures.",
+        "Incorrect. The article does not state the chemical composition of the flagellum or archaellum; it only mentions that archaeal membranes have ether-linked lipids."
       ]
     },
     {
       "id": 8,
-      "question": "A microbiologist observes that a certain prokaryote's EF-G is resistant to diphtheria toxin. According to the article's table, which domain does this organism belong to?",
+      "question": "What does the article's mention of 'no known archaean pathogens' imply about the relationship between archaea and humans?",
       "options": [
-        "Bacteria",
-        "Archaea",
-        "Eukaryota",
-        "Cannot be determined"
+        "It implies that archaea are not a direct cause of human diseases, which is a notable difference from bacteria, some of which are pathogens.",
+        "It implies that archaea are harmless to humans and cannot cause any infections, so they are not studied in medicine.",
+        "It implies that archaea are only found in extreme environments and never in or on the human body.",
+        "It implies that archaea are less dangerous than bacteria, but they can still cause diseases that are not yet known."
       ],
       "answer_explanations": [
-        "Correct. The table indicates that Bacteria have EF-G that is resistant to diphtheria toxin.",
-        "Incorrect. The table states that Archaea have EF-2 that is sensitive to diphtheria toxin.",
-        "Incorrect. The table states that Eukaryota have EF-2 that is sensitive to diphtheria toxin.",
-        "Incorrect. The table provides a clear match: resistance to diphtheria toxin is listed for Bacteria."
+        "Correct. The article states 'There are no known archaean pathogens', which directly implies that archaea are not known to cause disease, in contrast to bacteria, which can be pathogenic (e.g., Borrelia causes Lyme disease).",
+        "Incorrect. The article only says there are no known pathogens; it does not say archaea are harmless or that they are not studied in medicine.",
+        "Incorrect. The article does not say where archaea are found; it only mentions that many are extremophiles, but that does not exclude them from other environments.",
+        "Incorrect. The article says 'no known archaean pathogens', which means none are known, not that there could be unknown ones; it also does not compare danger levels."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, which of the following best describes the relationship between cell theory and the discovery of cells?",
+      "question": "How does the article's description of the bacterial nucleoid and the process of transcription and translation support the idea that prokaryotes are less compartmentalized than eukaryotes?",
       "options": [
-        "Cell theory was developed after Robert Hooke discovered cells in 1665.",
-        "Robert Hooke developed cell theory in 1665.",
-        "Cell theory was developed before cells were discovered.",
-        "Cell theory and the discovery of cells occurred in the same year."
+        "In bacteria, the DNA is in direct contact with the cytoplasm and transcription happens alongside translation, meaning there is no physical separation of these processes, unlike in eukaryotes where the nucleus separates them.",
+        "In bacteria, the nucleoid is surrounded by a membrane, which separates the DNA from the cytoplasm, but this membrane is not as complex as the nuclear membrane in eukaryotes.",
+        "In bacteria, transcription and translation occur in different organelles, which shows that they have a high degree of compartmentalization, similar to eukaryotes.",
+        "In bacteria, the ribosomes are only found attached to the cell membrane, which prevents them from interacting with the DNA in the nucleoid."
       ],
       "answer_explanations": [
-        "Correct. The article states that Robert Hooke discovered cells in 1665, and that cell theory was developed later through the work of Schleiden in 1838 and Schwann in 1839.",
-        "Incorrect. The article attributes the discovery of cells to Hooke in 1665, but attributes cell theory to Schleiden and Schwann in the late 1830s.",
-        "Incorrect. The article presents the discovery of cells in 1665 as preceding the development of cell theory in 1838â1839.",
-        "Incorrect. The article gives 1665 for the discovery of cells and 1838â1839 for cell theory, which are different years."
+        "Correct. The article says that in bacteria, the DNA is 'in direct contact with the cytoplasm' in the nucleoid, and that 'transcription takes place alongside translation', which shows that these processes are not spatially separated, unlike in eukaryotes where transcription occurs in the nucleus.",
+        "Incorrect. The article states that the nucleoid is a region where DNA is in direct contact with the cytoplasm, so it is not surrounded by a membrane.",
+        "Incorrect. The article does not say transcription and translation occur in different organelles; it says they occur alongside each other, which indicates a lack of compartmentalization.",
+        "Incorrect. The article says ribosomes are found 'freely in the cytoplasm, or attached to the cell membrane', so they are not only attached to the membrane, and this does not prevent interaction with DNA."
       ]
     },
     {
       "id": 10,
-      "question": "A synthetic biologist creates an artificial cell with ester-linked lipids in its membrane, multiple linear chromosomes, and many RNA polymerases. Based on the article, which domain does this artificial cell most closely resemble?",
+      "question": "Based on the article, what is the most important conclusion about the evolutionary relationship between archaea and eukaryotes, given their similarities and differences?",
       "options": [
-        "Eukaryota",
-        "Archaea",
-        "Bacteria",
-        "None of the above"
+        "Archaea and eukaryotes share some molecular features (e.g., methionine as the first amino acid, similar translation/transcription), but they differ in other fundamental ways (e.g., membrane lipids, cell wall), suggesting a common ancestor but with significant divergence.",
+        "Archaea and eukaryotes are essentially the same because they both have methionine and are sensitive to diphtheria toxin, so they should be classified together.",
+        "Archaea are more closely related to bacteria because they both have circular chromosomes and lack a nucleus, so the similarities with eukaryotes are coincidental.",
+        "Eukaryotes evolved directly from archaea, as evidenced by the fact that they share the same membrane lipid structure and cell wall composition."
       ],
       "answer_explanations": [
-        "Correct. The table lists Eukaryota as having ester-linked lipids, multiple linear chromosomes, and many RNA polymerases.",
-        "Incorrect. The table lists Archaea as having ether-linked lipids, circular chromosomes, and one RNA polymerase.",
-        "Incorrect. The table lists Bacteria as having ester-linked lipids but circular chromosomes and one RNA polymerase.",
-        "Incorrect. The combination of traits matches the Eukaryota column in the article's table."
+        "Correct. The table shows that archaea and eukaryotes share features like methionine and similar translation/transcription, but also have differences like membrane lipids (ether vs. ester) and cell wall composition, which indicates they share a common ancestor but have diverged significantly.",
+        "Incorrect. The table also shows many differences between archaea and eukaryotes (e.g., membrane lipids, cell wall, reproduction), so they are not essentially the same.",
+        "Incorrect. While archaea and bacteria share some features (e.g., circular chromosomes), the table also shows that archaea and eukaryotes share unique features (e.g., methionine, diphtheria toxin sensitivity), so the similarities are not coincidental.",
+        "Incorrect. The article does not say eukaryotes evolved directly from archaea, and the table shows they have different membrane lipids (ether vs. ester) and cell wall structures, so they are not the same."
       ]
     }
   ]

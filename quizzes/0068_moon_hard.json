@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "If the Moon were moved to an independent orbit around the Sun, what would be required for the EarthâMoon system to be classified as a double planet under the view held by most scientists?",
+      "question": "Why does the Moon always show the same face to Earth?",
       "options": [
-        "The MoonâEarth barycenter would need to lie outside of Earth.",
-        "The Moon would need to clear its orbit around the Sun.",
-        "The Moon would need to be more massive than Io.",
-        "The Moon would need to orbit Earth in a circular path."
+        "Tidal forces have synchronized its rotation period with its orbital period.",
+        "The Moon's rotation is too slow to show its far side.",
+        "Earth's gravity prevents the Moon from rotating at all.",
+        "The Moon's near side is heavier than its far side."
       ],
       "answer_explanations": [
-        "Correct. The article states that most scientists agree identifying the EarthâMoon system as a double planet would require the MoonâEarth barycenter to be outside of Earth, which it is not.",
-        "Incorrect. While the article notes the Moon's mass would be enough to clear its orbit around the Sun if it were on its own, this is not what most scientists require for a double planet classification.",
-        "Incorrect. The article compares the Moon's surface gravity to Io's but does not link Io's mass to double planet criteria.",
-        "Incorrect. The article describes the Moon's orbit as elliptical, not circular, and does not connect orbital shape to double planet classification."
+        "Correct. The article states that tidal forces 'have pulled the Moon to always face Earth with the same near side' and that this 'tidal locking effectively synchronizes the Moon's rotation period to its orbital period.'",
+        "Incorrect. The article does not say the Moon's rotation is slow; it says the rotation period is synchronized with the orbital period, not that rotation is absent or slow.",
+        "Incorrect. The Moon does rotate; it is tidally locked, meaning its rotation period matches its orbital period, not that gravity prevents rotation.",
+        "Incorrect. The article does not mention any mass imbalance between the near and far sides as the cause; it attributes the same-face appearance to tidal locking."
       ]
     },
     {
       "id": 2,
-      "question": "What does the article identify as the main driver of Earth's tides?",
+      "question": "What does the Moon's surface gravity being about one-sixth of Earth's imply for a person standing on the Moon?",
       "options": [
-        "Tidal forces from the Moon's gravitational attraction.",
-        "The Moon's elliptical orbit around Earth.",
-        "The Sun's gravitational pull on Earth's oceans.",
-        "Earth's rotation on its axis."
+        "They would weigh less than on Earth.",
+        "They would have the same mass but more weight.",
+        "They would be unable to walk due to low gravity.",
+        "They would weigh the same as on Earth but have more mass."
       ],
       "answer_explanations": [
-        "Correct. The article states that the resulting tidal forces from gravitational attraction are the main driver of Earth's tides.",
-        "Incorrect. The elliptical orbit is mentioned as the Moon's path, but not as the main driver of tides.",
-        "Incorrect. The Sun is mentioned in relation to the synodic period, not as the main driver of tides.",
-        "Incorrect. Earth's rotation is not identified in the article as the main driver of tides."
+        "Correct. The article states the Moon's surface gravity is 'about one-sixth of Earth's,' which directly implies that weight (the force of gravity on mass) would be about one-sixth of what it is on Earth.",
+        "Incorrect. Weight is the force of gravity on mass; lower surface gravity means lower weight, not more weight.",
+        "Incorrect. The article does not suggest inability to walk; it only states the gravity is lower, which would make movement easier, not impossible.",
+        "Incorrect. Mass is intrinsic and does not change, but weight would be less, not the same."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, why is the same side of the Moon always facing Earth?",
+      "question": "Why does the Moon appear about the same size as the Sun in Earth's sky?",
       "options": [
-        "Tidal locking has synchronized the Moon's rotation period with its orbital period.",
-        "The Moon does not rotate on its axis.",
-        "Earth's gravity only pulls on the Moon's near side.",
-        "The Moon's surface gravity is one-sixth of Earth's."
+        "Because the Sun is much farther away but much larger than the Moon.",
+        "Because the Moon is closer and larger than the Sun.",
+        "Because both are the same physical size.",
+        "Because the Moon's orbit brings it exactly in front of the Sun every day."
       ],
       "answer_explanations": [
-        "Correct. The article states that tidal forces have pulled the Moon to always face Earth with the same near side, a condition called tidal locking that synchronizes its rotation period with its orbital period.",
-        "Incorrect. The article explicitly says the Moon's rotation period is synchronized to its orbital period, meaning it does rotate.",
-        "Incorrect. The article says gravitational attraction is stronger on the sides facing each other, not that it acts only on the near side.",
-        "Incorrect. The Moon's surface gravity being one-sixth of Earth's is a separate fact and not the cause of the same side facing Earth."
+        "Correct. The article notes that the Moon's apparent size is 'about the same as that of the Sun,' which is a result of the Sun being much larger but much farther away, making their angular sizes similar.",
+        "Incorrect. The Moon is much smaller than the Sun; it only appears similar in size due to distance.",
+        "Incorrect. The Sun is vastly larger than the Moon; they are not the same physical size.",
+        "Incorrect. The Moon does not pass in front of the Sun every day; that would cause daily solar eclipses, which do not happen."
       ]
     },
     {
       "id": 4,
-      "question": "Based on the article, what can be inferred about the Moon's surface compared to Earth's continents?",
+      "question": "What does the fact that the Moon's albedo is comparable to asphalt imply about its brightness?",
       "options": [
-        "The Moon's diameter is roughly as wide as the contiguous United States.",
-        "The Moon has a larger land area than all of Earth's continents combined.",
-        "The Moon's surface is entirely covered by maria.",
-        "The Moon's crust is thicker than Earth's continental crust."
+        "The Moon is not very reflective, so its brightness comes from its large apparent size.",
+        "The Moon is highly reflective, making it the brightest object in the night sky.",
+        "The Moon reflects most of the sunlight it receives.",
+        "The Moon's brightness is due to its own light emission."
       ],
       "answer_explanations": [
-        "Correct. The article states the Moon's diameter is 3,474 km, roughly one-quarter of Earth's, about as wide as the contiguous United States.",
-        "Incorrect. The article does not compare the Moon's total surface area to Earth's continents.",
-        "Incorrect. The article describes maria as dark plains filling ancient craters, not as covering the entire surface.",
-        "Incorrect. The article notes the near side's crust is thinner than the far side's, but does not compare lunar crust thickness to Earth's continental crust."
+        "Correct. The article states the Moon is 'the brightest celestial object in Earth's night sky because of its large apparent size, while the reflectance (albedo) of its surface is comparable to that of asphalt.' This implies that despite low reflectivity, its brightness is due to size.",
+        "Incorrect. Asphalt has low albedo, so the Moon is not highly reflective.",
+        "Incorrect. Asphalt reflects little light, so the Moon does not reflect most sunlight.",
+        "Incorrect. The Moon shines by reflected sunlight, not its own light."
       ]
     },
     {
       "id": 5,
-      "question": "If a new moon were discovered with surface gravity higher than the Moon's but lower than Io's, how would it rank among Solar System moons according to the article?",
+      "question": "Why might the Moon be considered a planet by some scientists?",
       "options": [
-        "It could rank second-highest in surface gravity among all moons.",
-        "It would rank first in surface gravity among all moons.",
-        "It would rank below the Moon in surface gravity among all moons.",
-        "It would be the most massive moon in the Solar System."
+        "Because it orbits the Sun in a heliocentric frame and has enough mass to clear its orbit around the Sun.",
+        "Because it is larger than any dwarf planet.",
+        "Because it has a differentiated interior and a magnetic field.",
+        "Because it has a hydrosphere and atmosphere."
       ],
       "answer_explanations": [
-        "Correct. The article states the Moon's surface gravity is the second-highest among all moons after Io, so a moon between them would also be second-highest.",
-        "Incorrect. Io has the highest surface gravity among moons according to the article, so the new moon could not rank first.",
-        "Incorrect. Since the new moon's gravity is higher than the Moon's, it would not rank below the Moon.",
-        "Incorrect. The article does not connect surface gravity ranking to being the most massive moon."
+        "Correct. The article explains that in a heliocentric frame the Moon orbits the Sun, and some argue its mass would be enough to clear its orbit around the Sun, leading to planet classification.",
+        "Incorrect. Being larger than dwarf planets is a fact, but it is not the reason given for planet classification.",
+        "Incorrect. Differentiation and magnetic field are characteristics of the Moon, but they are not cited as reasons for planet status.",
+        "Incorrect. The Moon has only a minuscule hydrosphere and atmosphere, so this is not a basis for planet classification."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article suggest about the Moon's formation age based on isotopic dating?",
+      "question": "What does the near-identical isotopic composition of Earth and the Moon suggest about the Moon's origin?",
       "options": [
-        "The Moon formed 4.35 billion years ago, late in the history of the Solar System.",
-        "The Moon formed within the first 200 million years after the origin of the Solar System, with major rock types reporting 4.35 Gyr.",
-        "The Moon formed 1.2 billion years ago when volcanic activity ended.",
-        "The Moon formed at the same time as Earth, 4.54 billion years ago."
+        "It suggests that the Moon and Earth share a common origin, possibly from a giant impact with extensive mixing.",
+        "It suggests that the Moon formed independently from the same nebula as Earth.",
+        "It suggests that the Moon was captured by Earth's gravity.",
+        "It suggests that the Moon is a fragment of Mars."
       ],
       "answer_explanations": [
-        "Correct. The article states that isotope dating of lunar samples suggests formation in the first 200 million years after the Solar System's origin, with the most reliable measurements reporting 4.35 Gyr.",
-        "Incorrect. This option omits the specific 4.35 Gyr measurement highlighted as the most reliable across major rock types.",
-        "Incorrect. 1.2 billion years ago refers to the end of lunar volcanic activity, not formation.",
-        "Incorrect. The article does not state the Moon formed at the same time as Earth or give an age of 4.54 billion years."
+        "Correct. The article states that Earth and the Moon have 'nearly identical isotopic compositions,' and this 'might be explained by the post-impact mixing of the vaporized material that formed the two,' supporting the giant-impact hypothesis.",
+        "Incorrect. Independent formation from the same nebula would not necessarily produce identical isotopic compositions, and the article links the similarity to giant impact mixing.",
+        "Incorrect. Capture would likely result in different isotopic compositions, not near-identical ones.",
+        "Incorrect. Mars has different isotopic compositions, as noted in the article."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following best describes the Moon's status in geophysical terms according to the article?",
+      "question": "Why are the lunar maria predominantly on the near side of the Moon?",
       "options": [
-        "A planetary-mass object or satellite planet.",
-        "A dwarf planet larger than any known moon.",
-        "A terrestrial planet with a substantial hydrosphere.",
-        "A captured asteroid in an elliptical orbit."
+        "The near side's crust is thinner, making it easier for lava to reach the surface.",
+        "The far side has more impact craters, preventing lava flow.",
+        "The near side is volcanically more active today.",
+        "The Moon's rotation causes lava to pool on the near side."
       ],
       "answer_explanations": [
-        "Correct. The article states that in geophysical terms, the Moon is a planetary-mass object or satellite planet.",
-        "Incorrect. The article says the Moon is larger and more massive than any known dwarf planet, not that it is a dwarf planet.",
-        "Incorrect. The article describes the Moon as terrestrial but notes it has only a minuscule hydrosphere, not a substantial one.",
-        "Incorrect. The article describes the Moon as Earth's natural satellite formed from a giant impact, not as a captured asteroid."
+        "Correct. The article states that 'the relative thinness of the crust on the near side of the Moon is hypothesized to be a factor' and that large impacts may have made it easier for lava to flow onto the surface there.",
+        "Incorrect. The article does not say the far side has more craters preventing lava; it discusses crustal thickness.",
+        "Incorrect. The Moon is no longer volcanically active; activity ceased 1.2 billion years ago.",
+        "Incorrect. Rotation is not cited as a cause for maria distribution."
       ]
     },
     {
       "id": 8,
-      "question": "Based on the article, what explains the uneven distribution of lunar mare basalts between the near and far sides?",
+      "question": "What does the lunar geologic timescale being based on prominent impact events imply about the Moon's history?",
       "options": [
-        "The relative thinness of the crust on the near side is hypothesized to be a factor.",
-        "The far side experienced more volcanic activity until 1.2 billion years ago.",
-        "Impact craters on the near side prevented lava from surfacing.",
-        "The maria formed primarily during the Imbrian period on the far side."
+        "Impacts have been the dominant force shaping the lunar surface over time.",
+        "Volcanic eruptions were the main shapers of the lunar surface.",
+        "The Moon's surface has remained unchanged since formation.",
+        "Erosion by water has been a major factor."
       ],
       "answer_explanations": [
-        "Correct. The article states the reasons for the uneven distribution are not yet known, although the relative thinness of the crust on the near side is hypothesized to be a factor.",
-        "Incorrect. The article says volcanic activity occurred on the Moon generally until 1.2 billion years ago, not specifically more on the far side.",
-        "Incorrect. The article suggests large impacts on the near side may have made it easier for lava to flow, not that craters prevented lava.",
-        "Incorrect. The article says most mare basalts erupted during the Imbrian period and predominantly appear on the near side, not the far side."
+        "Correct. The article says the timescale is 'based on the most prominent impact events,' indicating that impacts are the key markers of lunar geological history.",
+        "Incorrect. While volcanism created maria, the timescale is defined by impacts, not eruptions.",
+        "Incorrect. The surface has been shaped by impacts and volcanism, so it has changed.",
+        "Incorrect. The Moon has no liquid water erosion; the article mentions a minuscule hydrosphere."
       ]
     },
     {
       "id": 9,
-      "question": "If a spacecraft were to land on the Moon today, what approximate fraction of Earth's surface gravity would it experience?",
+      "question": "Why might the Moon be considered a 'double planet' with Earth?",
       "options": [
-        "About one-sixth.",
-        "About one-half.",
-        "About equal to Earth's.",
-        "About one-quarter."
+        "Because the Moon is large relative to Earth and some argue it could be a planet if alone.",
+        "Because the Moon and Earth are exactly the same size.",
+        "Because the Moon's orbit is perfectly circular around Earth.",
+        "Because the Moon has its own atmosphere and magnetic field."
       ],
       "answer_explanations": [
-        "Correct. The article states the Moon's surface gravity is about one-sixth of Earth's.",
-        "Incorrect. The article says the Moon's surface gravity is about half that of Mars, not half of Earth's.",
-        "Incorrect. The article explicitly gives the Moon's gravity as about one-sixth of Earth's, not equal.",
-        "Incorrect. The article does not state the Moon's gravity is one-quarter of Earth's."
+        "Correct. The article mentions that some suggest the EarthâMoon system is a double planet because the Moon's mass would allow it to clear its orbit around the Sun, and it is large relative to Earth.",
+        "Incorrect. The Moon is about one-quarter Earth's diameter, not the same size.",
+        "Incorrect. The Moon's orbit is elliptical, not perfectly circular.",
+        "Incorrect. The Moon's atmosphere and magnetic field are minuscule, not a basis for double planet status."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article indicate about the visibility of the Moon's far side from Earth?",
+      "question": "What does the fact that the Moon's orbit has become significantly larger over time imply about the past?",
       "options": [
-        "About 59% of the lunar surface is visible from Earth due to libration, making parts of the far side visible.",
-        "Only the near side is visible from Earth because the Moon is tidally locked.",
-        "The far side is completely visible during a lunar eclipse.",
-        "The far side is never visible from Earth under any circumstances."
+        "The Moon was once much closer to Earth, making eclipses more frequent and tidal effects stronger.",
+        "The Moon was once farther away and has been moving inward.",
+        "The Moon has always been at its current distance.",
+        "The Moon's orbit has not changed since its formation."
       ],
       "answer_explanations": [
-        "Correct. The article states that about 59% of the Moon's surface is visible from Earth owing to libration, making parts of the far side visible.",
-        "Incorrect. While the Moon is tidally locked to show the same near side, libration still allows parts of the far side to be seen.",
-        "Incorrect. The article does not connect lunar eclipses to visibility of the far side.",
-        "Incorrect. The article explicitly states parts of the far side are visible due to libration."
+        "Correct. The article states that the newly formed Moon 'settled into a much closer Earth orbit' and that due to tidal acceleration, its orbit has 'become significantly larger,' implying it was closer in the past.",
+        "Incorrect. The orbit has expanded, not contracted; the Moon is moving away, not inward.",
+        "Incorrect. The article explicitly says the orbit has changed.",
+        "Incorrect. The article describes significant orbital change."
       ]
     }
   ]

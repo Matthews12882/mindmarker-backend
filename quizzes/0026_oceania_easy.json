@@ -5,102 +5,70 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which subregions are included in Oceania according to the article?",
+      "question": "Which of the following is NOT listed as a part of Oceania?",
       "options": [
-        "Australasia, Melanesia, Micronesia, and Polynesia",
-        "Australasia, Melanesia, Micronesia, and Southeast Asia",
-        "Australasia, Melanesia, Polynesia, and the Malay Archipelago",
-        "Melanesia, Micronesia, Polynesia, and Indonesia"
+        "Australasia",
+        "Melanesia",
+        "Micronesia",
+        "Polynesia"
       ],
       "answer_explanations": [
         "Correct. The article states that Oceania includes Australasia, Melanesia, Micronesia, and Polynesia.",
-        "Incorrect. The article does not list Southeast Asia as one of Oceania's subregions.",
-        "Incorrect. The Malay Archipelago is explicitly excluded from Oceania in the article.",
-        "Incorrect. Indonesia is not listed as one of Oceania's subregions in the article."
+        "Incorrect. Melanesia is listed as part of Oceania in the article.",
+        "Incorrect. Micronesia is listed as part of Oceania in the article.",
+        "Incorrect. Polynesia is listed as part of Oceania in the article."
       ]
     },
     {
       "id": 2,
       "question": "What is the estimated land area of Oceania?",
       "options": [
-        "about 9,000,000 square kilometres",
-        "about 3,500,000 square kilometres",
-        "about 9,000,000 square miles",
-        "about 46.3 million square kilometres"
+        "About 9,000,000 square kilometres",
+        "About 3,500,000 square kilometres",
+        "About 46.3 million square kilometres",
+        "About 4,884 square kilometres"
       ],
       "answer_explanations": [
-        "Correct. The article states Oceania is estimated to have a land area of about 9,000,000 square kilometres.",
-        "Incorrect. 3,500,000 square miles is the equivalent in square miles, not square kilometres.",
-        "Incorrect. The figure 9,000,000 is given in square kilometres, not square miles.",
-        "Incorrect. 46.3 million refers to the population, not the land area."
+        "Correct. The article states that Oceania is estimated to have a land area of about 9,000,000 square kilometres.",
+        "Incorrect. 3,500,000 square miles is the equivalent in square miles, not the land area in square kilometres.",
+        "Incorrect. 46.3 million is the population estimate, not the land area.",
+        "Incorrect. 4,884 metres is the height of Puncak Jaya, not the land area."
       ]
     },
     {
       "id": 3,
-      "question": "What is the population of Oceania as of 2024 according to the article?",
+      "question": "What is the estimated population of Oceania as of 2024?",
       "options": [
-        "around 46.3 million",
-        "around 9,000,000",
-        "around 3,500,000",
-        "around 60,000"
+        "Around 46.3 million",
+        "Around 9 million",
+        "Around 3.5 million",
+        "Around 60,000"
       ],
       "answer_explanations": [
-        "Correct. The article states the population is around 46.3 million as of 2024.",
-        "Incorrect. 9,000,000 refers to the estimated land area in square kilometres.",
-        "Incorrect. 3,500,000 refers to the land area in square miles.",
-        "Incorrect. 60,000 years ago refers to when the first settlers arrived, not the population."
+        "Correct. The article states that Oceania has a population of around 46.3 million as of 2024.",
+        "Incorrect. 9 million is not the population; it is the land area in square kilometres.",
+        "Incorrect. 3.5 million is not the population; it is the land area in square miles.",
+        "Incorrect. 60,000 is not the population; it is a time period mentioned for the first settlers."
       ]
     },
     {
       "id": 4,
-      "question": "How does Oceania compare to other continental land areas in size and population?",
+      "question": "Which country is the largest and most populous in Oceania?",
       "options": [
-        "It is the smallest and second-least populated after Antarctica",
-        "It is the largest and most populated",
-        "It is the second-smallest and least populated",
-        "It is the smallest and least populated"
+        "Australia",
+        "New Zealand",
+        "Papua New Guinea",
+        "Indonesia"
       ],
       "answer_explanations": [
-        "Correct. The article states Oceania is the smallest and second-least populated after Antarctica.",
-        "Incorrect. The article states Oceania is the smallest, not the largest.",
-        "Incorrect. The article states Oceania is second-least populated, not least populated.",
-        "Incorrect. The article states Oceania is second-least populated after Antarctica, not the least populated."
+        "Correct. The article states that the largest and most populous country in Oceania is Australia.",
+        "Incorrect. New Zealand is not described as the largest and most populous country in Oceania.",
+        "Incorrect. Papua New Guinea is not described as the largest and most populous country in Oceania.",
+        "Incorrect. Indonesia is not described as the largest and most populous country in Oceania; Puncak Jaya is in Indonesia."
       ]
     },
     {
       "id": 5,
-      "question": "Which island is home to Earth's third-largest remaining area of tropical rainforest?",
-      "options": [
-        "New Guinea",
-        "Australia",
-        "Tahiti",
-        "Hawaii"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Earth's third-largest remaining area of tropical rainforest covers much of the island of New Guinea.",
-        "Incorrect. The article attributes the rainforest to New Guinea, not Australia.",
-        "Incorrect. Tahiti is mentioned as a destination James Cook visited, not as the location of the rainforest.",
-        "Incorrect. Hawaii is mentioned as a highly developed economy, not as the location of the rainforest."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "Which is the largest and most populous country in Oceania?",
-      "options": [
-        "Australia",
-        "Papua New Guinea",
-        "New Zealand",
-        "Fiji"
-      ],
-      "answer_explanations": [
-        "Correct. The article states the largest and most populous country in Oceania is Australia.",
-        "Incorrect. Papua New Guinea is listed among the much less developed economies, not as the largest and most populous country.",
-        "Incorrect. New Zealand is listed among the highly developed economies, but not as the largest and most populous country.",
-        "Incorrect. Fiji is not identified in the article as the largest and most populous country."
-      ]
-    },
-    {
-      "id": 7,
       "question": "What is the largest city in Oceania?",
       "options": [
         "Sydney",
@@ -109,58 +77,90 @@
         "Honolulu"
       ],
       "answer_explanations": [
-        "Correct. The article states the largest city in Oceania is Sydney.",
-        "Incorrect. Melbourne is not mentioned in the article as the largest city.",
-        "Incorrect. Auckland is not mentioned in the article as the largest city.",
-        "Incorrect. Honolulu is not mentioned in the article as the largest city."
+        "Correct. The article states that the largest city is Sydney.",
+        "Incorrect. Melbourne is not mentioned as the largest city.",
+        "Incorrect. Auckland is not mentioned as the largest city.",
+        "Incorrect. Honolulu is not mentioned as the largest city."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the highest peak in Oceania and where is it located?",
+      "options": [
+        "Puncak Jaya in Indonesia",
+        "Mount Cook in New Zealand",
+        "Mount Kosciuszko in Australia",
+        "Mauna Kea in Hawaii"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Puncak Jaya in Indonesia is the highest peak in Oceania at 4,884 m.",
+        "Incorrect. Mount Cook is not mentioned as the highest peak.",
+        "Incorrect. Mount Kosciuszko is not mentioned as the highest peak.",
+        "Incorrect. Mauna Kea is not mentioned as the highest peak."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which island is covered by much of Earth's third-largest remaining area of tropical rainforest?",
+      "options": [
+        "New Guinea",
+        "Australia",
+        "Tahiti",
+        "Hawaii"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the third-largest remaining area of tropical rainforest covers much of the island of New Guinea.",
+        "Incorrect. Australia is not mentioned as the location of this rainforest.",
+        "Incorrect. Tahiti is not mentioned as the location of this rainforest.",
+        "Incorrect. Hawaii is not mentioned as the location of this rainforest."
       ]
     },
     {
       "id": 8,
-      "question": "What is the highest peak in Oceania and its elevation?",
+      "question": "Which hemispheres does Oceania span?",
       "options": [
-        "Puncak Jaya at 4,884 m (16,024 ft)",
-        "Mount Kosciuszko at 2,228 m",
-        "Mount Fuji at 3,776 m",
-        "Mount Cook at 3,724 m"
+        "Eastern and Western",
+        "Northern and Southern",
+        "Eastern and Northern",
+        "Western and Southern"
       ],
       "answer_explanations": [
-        "Correct. The article states Puncak Jaya in Indonesia is the highest peak in Oceania at 4,884 m (16,024 ft).",
-        "Incorrect. Mount Kosciuszko is not mentioned in the article as the highest peak.",
-        "Incorrect. Mount Fuji is not mentioned in the article as the highest peak in Oceania.",
-        "Incorrect. Mount Cook is not mentioned in the article as the highest peak in Oceania."
+        "Correct. The article states that Oceania spans the Eastern and Western hemispheres.",
+        "Incorrect. Northern and Southern are not the hemispheres mentioned.",
+        "Incorrect. Eastern and Northern are not the hemispheres mentioned.",
+        "Incorrect. Western and Southern are not the hemispheres mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "Who coined the term Oceania and in what year?",
+      "question": "Which of the following countries is listed as having a highly developed economy in Oceania?",
       "options": [
-        "Conrad Malte-Brun in 1812",
-        "Adrien-Hubert BruÃ© in 1814",
-        "James Cook in the 18th century",
-        "Alfred Russel Wallace in 1879"
+        "New Zealand",
+        "Kiribati",
+        "Tuvalu",
+        "Vanuatu"
       ],
       "answer_explanations": [
-        "Correct. The article states Oceania was coined in 1812 by geographer Conrad Malte-Brun.",
-        "Incorrect. Adrien-Hubert BruÃ© coined the shorter OcÃ©anie in 1814, not the term Oceania in 1812.",
-        "Incorrect. James Cook explored Oceania but did not coin the term.",
-        "Incorrect. Alfred Russel Wallace wrote about Oceania in 1879 but did not coin the term."
+        "Correct. The article lists New Zealand among the highly developed economies in Oceania.",
+        "Incorrect. Kiribati is listed as a less developed economy.",
+        "Incorrect. Tuvalu is listed as a less developed economy.",
+        "Incorrect. Vanuatu is listed as a less developed economy."
       ]
     },
     {
       "id": 10,
-      "question": "What is the origin of the word Oceania?",
+      "question": "Which of the following is listed as a less developed economy in Oceania?",
       "options": [
-        "French ocÃ©anie, from Greek OkeanÃ²s meaning ocean",
-        "Latin oceania meaning sea",
-        "Spanish ocÃ©ano meaning ocean",
-        "English ocean meaning large body of water"
+        "Papua New Guinea",
+        "Australia",
+        "French Polynesia",
+        "New Caledonia"
       ],
       "answer_explanations": [
-        "Correct. The article states Oceania is from the French ocÃ©anie, coming from Greek OkeanÃ²s, Î©ÎºÎµÎ±Î½ÏÏ, ocean.",
-        "Incorrect. The article traces the word to French and Greek, not directly to Latin oceania.",
-        "Incorrect. The article does not state the word comes from Spanish ocÃ©ano.",
-        "Incorrect. The article states the word comes from French and Greek, not English."
+        "Correct. The article lists Papua New Guinea among the much less developed economies.",
+        "Incorrect. Australia is listed as highly developed.",
+        "Incorrect. French Polynesia is listed as highly developed.",
+        "Incorrect. New Caledonia is listed as highly developed."
       ]
     }
   ]

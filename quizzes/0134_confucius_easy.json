@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Confucius's birth name?",
+      "question": "What was the birth name of Confucius?",
       "options": [
         "Kong Qiu",
-        "Kong He",
-        "Zhongni",
-        "Kong Li"
+        "Laozi",
+        "Mencius",
+        "Sun Tzu"
       ],
       "answer_explanations": [
-        "Correct. The article states that Confucius was born Kong Qiu.",
-        "Incorrect. Kong He was Confucius's father, not his birth name.",
-        "Incorrect. Zhongni was Confucius's courtesy name, not his birth name.",
-        "Incorrect. Kong Li was Confucius's son, not Confucius himself."
+        "Correct. The article states that Confucius, born Kong Qiu, was a Chinese philosopher.",
+        "Incorrect. Laozi is not mentioned in the article as Confucius's birth name.",
+        "Incorrect. Mencius is not mentioned in the article as Confucius's birth name.",
+        "Incorrect. Sun Tzu is not mentioned in the article as Confucius's birth name."
       ]
     },
     {
       "id": 2,
-      "question": "Which period of Chinese history did Confucius live in?",
+      "question": "During which period did Confucius live?",
       "options": [
         "Spring and Autumn period",
         "Warring States period",
-        "Qin dynasty",
-        "Han dynasty"
+        "Tang dynasty",
+        "Qin dynasty"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Confucius as a philosopher of the Spring and Autumn period.",
-        "Incorrect. The Warring States period came after Confucius's lifetime, though his ideas gained prominence then.",
-        "Incorrect. The Qin dynasty followed Confucius's time and caused setbacks to his ideas.",
-        "Incorrect. The Han dynasty came later and gave official sanction to Confucian ideas."
+        "Correct. The article says Confucius was a philosopher of the Spring and Autumn period.",
+        "Incorrect. The Warring States period is mentioned later in the article, not as the period of Confucius's life.",
+        "Incorrect. The Tang dynasty is mentioned later in the article, not as the period of Confucius's life.",
+        "Incorrect. The Qin dynasty is mentioned later in the article, not as the period of Confucius's life."
       ]
     },
     {
       "id": 3,
-      "question": "What did Confucius champion as a negative form of the Golden Rule?",
+      "question": "What is Confucius traditionally considered to be?",
       "options": [
-        "Silver Rule",
-        "Bronze Rule",
-        "Iron Rule",
-        "Steel Rule"
+        "The paragon of Chinese sages",
+        "The first emperor of China",
+        "A famous warrior",
+        "A great explorer"
       ],
       "answer_explanations": [
-        "Correct. The article states that Confucius championed the Silver Rule, advising 'Do not do unto others what you do not want done to yourself.'",
-        "Incorrect. The Bronze Rule is not mentioned in the article.",
-        "Incorrect. The Iron Rule is not mentioned in the article.",
-        "Incorrect. The Steel Rule is not mentioned in the article."
+        "Correct. The article states that Confucius is traditionally considered the paragon of Chinese sages.",
+        "Incorrect. The article does not describe Confucius as the first emperor of China.",
+        "Incorrect. The article does not describe Confucius as a famous warrior.",
+        "Incorrect. The article does not describe Confucius as a great explorer."
       ]
     },
     {
       "id": 4,
-      "question": "Which emperor gave official sanction to Confucius's ideas?",
+      "question": "What are Confucius's philosophical teachings called?",
       "options": [
-        "Emperor Wu of Han",
-        "Emperor Qin Shi Huang",
-        "Emperor Taizong of Tang",
-        "Emperor Taizu of Song"
+        "Confucianism",
+        "Taoism",
+        "Buddhism",
+        "Legalism"
       ],
       "answer_explanations": [
-        "Correct. The article states that under Emperor Wu of Han, Confucius's ideas received official sanction.",
-        "Incorrect. The Qin dynasty caused setbacks to Confucian ideas, including the burning of books.",
-        "Incorrect. The Tang dynasty saw the development of Neo-Confucianism, but official sanction came earlier under Emperor Wu of Han.",
-        "Incorrect. The Song dynasty also contributed to Neo-Confucianism, but official sanction came earlier under Emperor Wu of Han."
+        "Correct. The article says his philosophical teachings, called Confucianism, emphasized various moral values.",
+        "Incorrect. Taoism is not mentioned in the article as the name of Confucius's teachings.",
+        "Incorrect. Buddhism is not mentioned in the article as the name of Confucius's teachings.",
+        "Incorrect. Legalism is not mentioned in the article as the name of Confucius's teachings."
       ]
     },
     {
       "id": 5,
-      "question": "What does the name 'Confucius' mean in Mandarin Chinese?",
+      "question": "Which of the following did Confucius's teachings emphasize?",
       "options": [
-        "Great Master Kong or Wise Teacher Kong",
-        "Master Kong",
-        "Second Son Kong",
-        "Hill Kong"
+        "Personal and governmental morality",
+        "Military conquest",
+        "Wealth accumulation",
+        "Artistic expression"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Confucius' is a Latinized form of KÇngfÅ«zÇ, roughly meaning 'Great Master Kong' or 'Wise Teacher Kong'.",
-        "Incorrect. 'Master Kong' is the meaning of KÇngzÇ, the more common modern Mandarin name, not 'Confucius'.",
-        "Incorrect. 'Second Son Kong' relates to the courtesy name Zhongni, not Confucius.",
-        "Incorrect. 'Hill' is the meaning of the given name Qiu, not Confucius."
+        "Correct. The article states that Confucianism emphasized personal and governmental morality, harmonious social relationships, righteousness, kindness, sincerity, and a ruler's responsibilities.",
+        "Incorrect. Military conquest is not mentioned as an emphasis of Confucius's teachings.",
+        "Incorrect. Wealth accumulation is not mentioned as an emphasis of Confucius's teachings.",
+        "Incorrect. Artistic expression is not mentioned as an emphasis of Confucius's teachings."
       ]
     },
     {
       "id": 6,
-      "question": "Where was Confucius born?",
+      "question": "What did Confucius consider himself to be?",
       "options": [
-        "Zou, in modern Qufu, Shandong",
-        "Lu",
-        "Song",
-        "Shang dynasty"
+        "A transmitter for the values of earlier periods",
+        "A revolutionary",
+        "A merchant",
+        "A farmer"
       ],
       "answer_explanations": [
-        "Correct. The article states Confucius was born on 28 September 551 BCE, in Zou, in modern Qufu, Shandong.",
-        "Incorrect. Lu was the state that effectively controlled the area, but not the specific birthplace named.",
-        "Incorrect. Song was the state his ancestry traced back to, not his birthplace.",
-        "Incorrect. The Shang dynasty was an earlier dynasty linked to his ancestry, not a birthplace."
+        "Correct. The article says Confucius considered himself a transmitter for the values of earlier periods which he claimed had been abandoned in his time.",
+        "Incorrect. The article does not describe Confucius as a revolutionary.",
+        "Incorrect. The article does not describe Confucius as a merchant.",
+        "Incorrect. The article does not describe Confucius as a farmer."
       ]
     },
     {
       "id": 7,
-      "question": "How old was Confucius when his father died?",
+      "question": "What did Confucius advocate for regarding family?",
       "options": [
-        "Three years old",
-        "Nineteen years old",
-        "Twenty-three years old",
-        "Sixty-eight years old"
+        "Filial piety",
+        "Independence from family",
+        "Large families",
+        "Equal rights for all family members"
       ],
       "answer_explanations": [
-        "Correct. The article states Kong He died when Confucius was three years old.",
-        "Incorrect. Nineteen is when Confucius married Qi Guanshi.",
-        "Incorrect. Twenty-three is when Confucius's mother died and he mourned for three years.",
-        "Incorrect. Sixty-eight is when Confucius returned home to Lu."
+        "Correct. The article states that Confucius advocated for filial piety, endorsing strong family loyalty, ancestor veneration, and the respect of elders by their children.",
+        "Incorrect. Independence from family is not mentioned; Confucius endorsed strong family loyalty.",
+        "Incorrect. Large families are not mentioned in the article.",
+        "Incorrect. Equal rights for all family members is not mentioned; Confucius emphasized respect of elders and husbands."
       ]
     },
     {
       "id": 8,
-      "question": "What position did Confucius eventually rise to in the Lu government?",
+      "question": "What did Confucius recommend as the cornerstone for an ideal government?",
       "options": [
-        "Minister of Crime",
-        "Governor of a town",
-        "Prime Minister",
-        "Minister of War"
+        "A robust family unit",
+        "A strong military",
+        "A wealthy economy",
+        "A powerful ruler"
       ],
       "answer_explanations": [
-        "Correct. The article states Confucius eventually rose to the position of Minister of Crime.",
-        "Incorrect. Governor of a town was a minor position he held earlier, not the highest he rose to.",
-        "Incorrect. Prime Minister was held by the head of the Ji family, not Confucius.",
-        "Incorrect. Minister of War was held by the head of the Shu family, not Confucius."
+        "Correct. The article says Confucius recommended a robust family unit as the cornerstone for an ideal government.",
+        "Incorrect. A strong military is not mentioned as the cornerstone for an ideal government.",
+        "Incorrect. A wealthy economy is not mentioned as the cornerstone for an ideal government.",
+        "Incorrect. A powerful ruler is not mentioned as the cornerstone for an ideal government."
       ]
     },
     {
       "id": 9,
-      "question": "In what year did Confucius depart his homeland of Lu?",
+      "question": "What is the Silver Rule that Confucius championed?",
       "options": [
-        "497 BCE",
-        "501 BCE",
-        "500 BCE",
-        "498 BCE"
+        "Do not do unto others what you do not want done to yourself",
+        "Treat others as you would like to be treated",
+        "Always put yourself first",
+        "Help others before yourself"
       ],
       "answer_explanations": [
-        "Correct. The article states Confucius departed his homeland in 497 BCE after the failed attempt to dismantle fortified city walls.",
-        "Incorrect. 501 BCE is when Confucius was appointed governor of a town.",
-        "Incorrect. 500 BCE is when Hou Fan revolted against his lord of the Shu family.",
-        "Incorrect. 498 BCE is when the Shu family tore down the walls of Hou and other wall-dismantling events occurred."
+        "Correct. The article quotes Confucius advising, 'Do not do unto others what you do not want done to yourself.'",
+        "Incorrect. This is the Golden Rule, not the Silver Rule as described in the article.",
+        "Incorrect. The article does not say Confucius championed putting yourself first.",
+        "Incorrect. The article does not say Confucius championed helping others before yourself."
       ]
     },
     {
       "id": 10,
-      "question": "At what age did Confucius die?",
+      "question": "What did Confucius claim had been abandoned in his time?",
       "options": [
-        "71 or 72",
-        "68",
-        "73",
-        "70"
+        "The values of earlier periods",
+        "The art of calligraphy",
+        "The practice of meditation",
+        "The worship of nature"
       ],
       "answer_explanations": [
-        "Correct. The article states Confucius died at the age of 71 or 72 from natural causes.",
-        "Incorrect. 68 is when Confucius returned home to Lu, not when he died.",
-        "Incorrect. 73 is not mentioned as Confucius's age at death.",
-        "Incorrect. 70 is not mentioned as Confucius's age at death."
+        "Correct. The article states that Confucius claimed the values of earlier periods had been abandoned in his time.",
+        "Incorrect. The article does not mention calligraphy being abandoned.",
+        "Incorrect. The article does not mention meditation being abandoned.",
+        "Incorrect. The article does not mention nature worship being abandoned."
       ]
     }
   ]

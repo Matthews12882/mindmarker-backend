@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Ibn Khaldun's full name?",
+      "question": "What was Ibn Khaldun's date of birth?",
       "options": [
-        "Ê¿Abd al-Raá¸¥mÄn ibn KhaldÅ«n",
-        "Ibn á¸¤azm",
-        "AbÅ« Bakr Muá¸¥ammad ibn al-á¸¤asan",
-        "Muá¸¥ammad V"
+        "27 May 1332",
+        "17 March 1406",
+        "732 AH",
+        "1400"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Ê¿Abd al-Raá¸¥mÄn ibn KhaldÅ«n was born in Tunis on 26 May 1332'.",
-        "Incorrect. Ibn á¸¤azm was a scholar who mentioned the BanÅ« KhaldÅ«n family, not Ibn Khaldun's name.",
-        "Incorrect. AbÅ« Bakr Muá¸¥ammad ibn al-á¸¤asan was Ibn Khaldun's great grandfather.",
-        "Incorrect. Muhammad V was the Nasrid Sultan of Granada, not Ibn Khaldun."
+        "Correct. The article states that Ibn Khaldun was born on 27 May 1332.",
+        "Incorrect. 17 March 1406 is the date of his death, not his birth.",
+        "Incorrect. 732 AH is the Hijri year of his birth, but the question asks for the Gregorian date.",
+        "Incorrect. 1400 is not mentioned in the article."
       ]
     },
     {
       "id": 2,
-      "question": "What is the title of Ibn Khaldun's best-known book?",
+      "question": "On what date did Ibn Khaldun die?",
       "options": [
-        "Muqaddimah",
-        "Lubab al-Muhassal",
-        "KitÄb al-Muwaá¹­á¹­aÊ¾",
-        "Riá¸¥lat Ibn KhaldÅ«n"
+        "17 March 1406",
+        "27 May 1332",
+        "808 AH",
+        "1400"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'His best-known book is the Muqaddimah or Prolegomena'.",
-        "Incorrect. Lubab al-Muhassal is a work by al-Razi that Ibn Khaldun abridged.",
-        "Incorrect. KitÄb al-Muwaá¹­á¹­aÊ¾ is the basis of Maliki law that Ibn Khaldun studied.",
-        "Incorrect. Riá¸¥lat Ibn KhaldÅ«n is a work quoted in the article regarding his ancestry."
+        "Correct. The article states that Ibn Khaldun died on 17 March 1406.",
+        "Incorrect. 27 May 1332 is his birth date, not his death date.",
+        "Incorrect. 808 AH is the Hijri year of his death, but the question asks for the Gregorian date.",
+        "Incorrect. 1400 is not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "In which city was Ibn Khaldun born?",
+      "question": "Which of the following best describes Ibn Khaldun's nationality and ethnicity?",
       "options": [
-        "Tunis",
-        "Seville",
-        "Fez",
-        "Cairo"
+        "Arab Tunisian",
+        "Ottoman",
+        "Persian",
+        "European"
       ],
       "answer_explanations": [
-        "Correct. The article states he was born in Tunis on 26 May 1332.",
-        "Incorrect. Seville is where his ancestors settled before leaving in 1232.",
-        "Incorrect. Fez is where he went after leaving Tunis, not his birthplace.",
-        "Incorrect. Cairo is where he later arrived, not where he was born."
+        "Correct. The article describes him as an Arab Tunisian scholar.",
+        "Incorrect. The article does not describe him as Ottoman.",
+        "Incorrect. The article does not describe him as Persian.",
+        "Incorrect. The article does not describe him as European."
       ]
     },
     {
       "id": 4,
-      "question": "What year was Ibn Khaldun born?",
+      "question": "Which fields is Ibn Khaldun considered a major forerunner of?",
       "options": [
-        "1332",
-        "1337",
-        "1352",
-        "1357"
+        "Historiography, sociology, economics, and demography",
+        "Medicine, astronomy, and chemistry",
+        "Literature, poetry, and linguistics",
+        "Law, politics, and theology"
       ],
       "answer_explanations": [
-        "Correct. The article states he was born on 26 May 1332.",
-        "Incorrect. 1337 is the year his grandfather died.",
-        "Incorrect. 1352 is when AbÅ« Ziad marched on Tunis.",
-        "Incorrect. 1357 is when Ibn Khaldun received a prison sentence."
+        "Correct. The article states he is considered a major forerunner of historiography, sociology, economics, and demography studies.",
+        "Incorrect. These fields are not mentioned in the article.",
+        "Incorrect. These fields are not mentioned in the article.",
+        "Incorrect. These fields are not mentioned in the article."
       ]
     },
     {
       "id": 5,
-      "question": "Which dynasty's historians were influenced by Ibn Khaldun's Muqaddimah?",
+      "question": "What is the name of Ibn Khaldun's best-known book?",
       "options": [
-        "Ottoman",
-        "Abbasid",
-        "Umayyad",
-        "Almohad"
+        "Muqaddimah",
+        "Prolegomena",
+        "The History of the Ottoman Empire",
+        "The Arab Renaissance"
       ],
       "answer_explanations": [
-        "Correct. The article says it influenced 17th-century and 19th-century Ottoman historians.",
-        "Incorrect. The Abbasids are not mentioned in connection with the Muqaddimah's influence.",
-        "Incorrect. The Umayyads are mentioned regarding his ancestry, not the Muqaddimah's influence.",
-        "Incorrect. The Almohads are mentioned regarding his family's ties, not the Muqaddimah's influence."
+        "Correct. The article says his best-known book is the Muqaddimah or Prolegomena.",
+        "Incorrect. Prolegomena is the alternative title, but the primary name is Muqaddimah.",
+        "Incorrect. This is not mentioned in the article.",
+        "Incorrect. This is not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "Who was Ibn Khaldun's first and most influential teacher?",
+      "question": "How long did Ibn Khaldun say it took him to write the Muqaddimah?",
       "options": [
-        "his father",
-        "Muá¸¥ammad ibn IbrÄhÄ«m al-ÄbilÄ«",
-        "Ibn Ê¿Abd AllÄh al-JayyÄnÄ«",
-        "Abu Ê¿Abdallah Muhammad al-Ansari"
+        "Six months",
+        "One year",
+        "Two years",
+        "Ten years"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Ibn Khaldun's first and most influential teacher was his father.'",
-        "Incorrect. Al-ÄbilÄ« was his most prominent teacher of rational sciences, not his first teacher.",
-        "Incorrect. Ibn Ê¿Abd AllÄh al-JayyÄnÄ« taught him Maliki law.",
-        "Incorrect. Abu Ê¿Abdallah Muhammad al-Ansari taught him the Quran and fiqh."
+        "Correct. The article states he wrote it in six months as he states in his autobiography.",
+        "Incorrect. The article does not say one year.",
+        "Incorrect. The article does not say two years.",
+        "Incorrect. The article does not say ten years."
       ]
     },
     {
       "id": 7,
-      "question": "What position did Ibn Khaldun hold at age 20 in the chancellery of the Tunisian ruler Ibn Tafrakin?",
+      "question": "Which Ottoman historians were influenced by Ibn Khaldun's work?",
       "options": [
-        "KÄtib al-'AlÄmah (seal-bearer)",
-        "prime minister",
-        "chamberlain",
-        "Director of Finances"
+        "KÃ¢tip Ãelebi, Mustafa Naima, and Ahmed Cevdet Pasha",
+        "Tamerlane and Genghis Khan",
+        "Machiavelli and Vico",
+        "Hume and Hegel"
       ],
       "answer_explanations": [
-        "Correct. The article says he began his political career at age 20 as KÄtib al-'AlÄmah (seal-bearer).",
-        "Incorrect. Prime minister was a later position under the Hafsid sultan of BÃ©jaÃ¯a.",
-        "Incorrect. Chamberlain was a position held by his grandfather, not Ibn Khaldun at age 20.",
-        "Incorrect. Director of Finances was held by his great grandfather."
+        "Correct. The article mentions these three Ottoman historians as being influenced by his theories.",
+        "Incorrect. Tamerlane is mentioned but not as an Ottoman historian.",
+        "Incorrect. These are European philosophers, not Ottoman historians.",
+        "Incorrect. These are European philosophers, not Ottoman historians."
       ]
     },
     {
       "id": 8,
-      "question": "Which epidemic killed Ibn Khaldun's mother and father?",
+      "question": "Who did Ibn Khaldun interact with, according to the article?",
       "options": [
-        "Black Death",
-        "smallpox",
-        "cholera",
-        "malaria"
+        "Tamerlane",
+        "Adam Smith",
+        "Karl Marx",
+        "Auguste Comte"
       ],
       "answer_explanations": [
-        "Correct. The article states the Black Death was a major turning point in which he lost both his mother and father.",
-        "Incorrect. Smallpox is not mentioned in the article.",
-        "Incorrect. Cholera is not mentioned in the article.",
-        "Incorrect. Malaria is not mentioned in the article."
+        "Correct. The article states that Ibn Khaldun interacted with Tamerlane, the founder of the Timurid Empire.",
+        "Incorrect. Adam Smith is mentioned only in a comparison, not as someone he interacted with.",
+        "Incorrect. Karl Marx is mentioned only in a comparison, not as someone he interacted with.",
+        "Incorrect. Auguste Comte is mentioned only in a comparison, not as someone he interacted with."
       ]
     },
     {
       "id": 9,
-      "question": "Which city did Ibn Khaldun's family settle in before moving to Tunis?",
+      "question": "Which European philosophers are Ibn Khaldun's works compared with?",
       "options": [
-        "Ceuta",
-        "Seville",
-        "Fez",
-        "Granada"
+        "NiccolÃ² Machiavelli, Giambattista Vico, David Hume, G. W. F. Hegel, Karl Marx, and Auguste Comte",
+        "Plato and Aristotle",
+        "Descartes and Kant",
+        "Nietzsche and Freud"
       ],
       "answer_explanations": [
-        "Correct. The article says the BanÅ« KhaldÅ«n first settled in Ceuta before moving to Tunis.",
-        "Incorrect. Seville was their original home before leaving in 1232.",
-        "Incorrect. Fez is where Ibn Khaldun later went, not where his family settled before Tunis.",
-        "Incorrect. Granada is where Ibn Khaldun later moved, not his family's settlement before Tunis."
+        "Correct. The article lists these philosophers as being compared with Ibn Khaldun.",
+        "Incorrect. These philosophers are not mentioned in the article.",
+        "Incorrect. These philosophers are not mentioned in the article.",
+        "Incorrect. These philosophers are not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "Which scholar did Ibn Khaldun describe as 'the grand master of the rational sciences'?",
+      "question": "Which economists are mentioned in the article as having ideas that found precedent in Ibn Khaldun's work?",
       "options": [
-        "Muá¸¥ammad ibn IbrÄhÄ«m al-ÄbilÄ«",
-        "al-Farabi",
-        "Ibn Sina",
-        "Ibn Rushd"
+        "David Ricardo and Adam Smith",
+        "John Maynard Keynes and Milton Friedman",
+        "Karl Marx and Friedrich Engels",
+        "Thomas Malthus and John Stuart Mill"
       ],
       "answer_explanations": [
-        "Correct. The article states al-ÄbilÄ« was described by Ibn Khaldun as 'the grand master of the rational sciences'.",
-        "Incorrect. Al-Farabi was one of the Greco-Islamic thinkers who influenced al-ÄbilÄ«.",
-        "Incorrect. Ibn Sina was one of the Greco-Islamic thinkers who influenced al-ÄbilÄ«.",
-        "Incorrect. Ibn Rushd was one of the Greco-Islamic thinkers who influenced al-ÄbilÄ«."
+        "Correct. The article mentions David Ricardo and Adam Smith as economists whose ideas found precedent in his work.",
+        "Incorrect. These economists are not mentioned in the article.",
+        "Incorrect. Karl Marx is mentioned as a philosopher, not as an economist in this context.",
+        "Incorrect. These economists are not mentioned in the article."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the official name of China?",
+      "question": "What is the official name of the country commonly known as China?",
       "options": [
         "People's Republic of China",
         "Republic of China",
-        "Democratic People's Republic of China",
-        "Chinese Empire"
+        "Central Kingdom",
+        "Qin Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The official name of the modern state is the \"People's Republic of China\"'.",
-        "Incorrect. The Republic of China refers to the government that retreated to Taiwan after 1949, not the current official name.",
-        "Incorrect. This is the official name of North Korea, not China.",
-        "Incorrect. China is not an empire; its official name is the People's Republic of China."
+        "Correct. The article states that China is officially the People's Republic of China (PRC).",
+        "Incorrect. The Republic of China (ROC) is mentioned as the government that retreated to Taiwan in 1949, not the official name of the PRC.",
+        "Incorrect. 'Central Kingdom' is a translation of Zhongguo, a shorter form of the name, but not the official name.",
+        "Incorrect. Qin was an ancient dynasty, not the current official name."
       ]
     },
     {
       "id": 2,
-      "question": "Which dynasty first unified China in 221 BCE?",
+      "question": "Which city is the capital of China?",
       "options": [
-        "Qin dynasty",
-        "Han dynasty",
-        "Zhou dynasty",
-        "Shang dynasty"
+        "Beijing",
+        "Shanghai",
+        "Chang'an",
+        "Hong Kong"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'In 221 BCE, China was unified under the Qin'.",
-        "Incorrect. The Han dynasty followed the Qin, but did not unify China in 221 BCE.",
-        "Incorrect. The Zhou dynasty ruled earlier but did not unify China in 221 BCE.",
-        "Incorrect. The Shang dynasty existed long before 221 BCE."
+        "Correct. The article states that Beijing is the capital.",
+        "Incorrect. Shanghai is described as the most populous city by urban area, not the capital.",
+        "Incorrect. Chang'an was the capital of the Tang dynasty, not the current capital.",
+        "Incorrect. Hong Kong is a special administrative region, not the capital."
       ]
     },
     {
       "id": 3,
-      "question": "Which river is associated with the early Neolithic agricultural societies in China?",
+      "question": "How many province-level divisions is China divided into?",
       "options": [
-        "Yellow River",
-        "Yangtze River",
-        "Pearl River",
-        "Mekong River"
+        "33",
+        "23",
+        "50",
+        "55"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: 'sedentary agricultural societies had spread across the lower Yellow River basin'.",
-        "Incorrect. The Yangtze is a major river, but the article specifically ties early agriculture to the Yellow River basin.",
-        "Incorrect. The Pearl River is not mentioned in this context.",
-        "Incorrect. The Mekong River is not in China's early agricultural heartland."
+        "Correct. The article says China is divided into 33 province-level divisions.",
+        "Incorrect. 23 is not the number mentioned in the article.",
+        "Incorrect. 50 is not the number mentioned in the article.",
+        "Incorrect. 55 is the number of recognized minority groups, not province-level divisions."
       ]
     },
     {
       "id": 4,
-      "question": "What is the origin of the English word 'China' according to a common etymology?",
+      "question": "What event happened in 1949 according to the article?",
       "options": [
-        "The ancient state of Qin",
-        "The Sanskrit word CÄ«na",
-        "The Guizhou polity of Yelang",
-        "The Portuguese word for silk"
+        "The Chinese Communist Party proclaimed the People's Republic of China",
+        "The Han dynasty was established",
+        "The Qin dynasty unified China",
+        "The Silk Road was opened"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Martino Martini suggested that the word China is derived ultimately from the ancient state of Qin. This remains a common etymology.'",
-        "Incorrect. While CÄ«na is an early source, the common etymology traces it through Qin.",
-        "Incorrect. Yelang is a possible source but not the common etymology.",
-        "Incorrect. There is no mention of a Portuguese word for silk in the article."
+        "Correct. The article states that in 1949, the Chinese Communist Party proclaimed the PRC.",
+        "Incorrect. The Han dynasty was established around 206 BCE, not 1949.",
+        "Incorrect. The Qin unification occurred in 221 BCE, not 1949.",
+        "Incorrect. The Silk Road was established during the Han dynasty, not 1949."
       ]
     },
     {
       "id": 5,
-      "question": "Which dynasty constructed the Grand Canal to link Northern and Southern China?",
+      "question": "Which river is mentioned as a major river in China's geography?",
       "options": [
-        "Sui dynasty",
-        "Tang dynasty",
-        "Song dynasty",
-        "Yuan dynasty"
+        "Yangtze",
+        "Amazon",
+        "Nile",
+        "Ganges"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'China was reunited under the Sui dynasty in 589, which constructed the Grand Canal'.",
-        "Incorrect. The Tang dynasty succeeded the Sui but did not build the Grand Canal.",
-        "Incorrect. The Song dynasty came later and did not build the Grand Canal.",
-        "Incorrect. The Yuan dynasty also came later."
+        "Correct. The article mentions the Yangtze as one of the major rivers.",
+        "Incorrect. The Amazon is not in China.",
+        "Incorrect. The Nile is not in China.",
+        "Incorrect. The Ganges is not in China."
       ]
     },
     {
       "id": 6,
-      "question": "What event in 1949 led to the establishment of the People's Republic of China?",
+      "question": "What is the dominant ethnicity in China?",
       "options": [
-        "The Chinese Communist Party proclaimed the PRC",
-        "The end of the Second Sino-Japanese War",
-        "The 1911 Revolution",
-        "The retreat of the ROC to Taiwan"
+        "Han Chinese",
+        "Uyghurs",
+        "Tibetans",
+        "Mongols"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'In 1949, the Chinese Communist Party (CCP) proclaimed the PRC'.",
-        "Incorrect. The Second Sino-Japanese War ended in 1945, before the PRC was proclaimed.",
-        "Incorrect. The 1911 Revolution led to the Republic of China, not the PRC.",
-        "Incorrect. The retreat of the ROC to Taiwan occurred after the PRC was proclaimed."
+        "Correct. The article states that the Han are China's dominant ethnicity.",
+        "Incorrect. Uyghurs are one of the 55 recognized minorities, not the dominant group.",
+        "Incorrect. Tibetans are one of the 55 recognized minorities, not the dominant group.",
+        "Incorrect. Mongols are one of the 55 recognized minorities, not the dominant group."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is NOT one of the traditional 'three teachings' of Chinese philosophy mentioned in the article?",
+      "question": "Which philosophy originated in China according to the article?",
       "options": [
-        "Legalism",
         "Confucianism",
-        "Daoism",
-        "Buddhism"
+        "Buddhism",
+        "Taoism",
+        "Shintoism"
       ],
       "answer_explanations": [
-        "Correct. The article lists Confucianism, Daoism, and Buddhism as the three teachings; Legalism is not included.",
-        "Incorrect. Confucianism is explicitly mentioned as one of the three teachings.",
-        "Incorrect. Daoism is explicitly mentioned as one of the three teachings.",
-        "Incorrect. Buddhism is explicitly mentioned as one of the three teachings."
+        "Correct. The article says China is the birthplace of Confucianism and Daoism.",
+        "Incorrect. Buddhism was introduced to China, not originated there.",
+        "Incorrect. Taoism (Daoism) is mentioned, but the correct answer is Confucianism as it is listed first and is a clear birthplace.",
+        "Incorrect. Shintoism is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "What was the primary reason for the Song dynasty's focus on defense?",
+      "question": "What is China's rank in the world by population?",
       "options": [
-        "It faced military crises and could not subdue its non-Han neighbors",
-        "It wanted to expand its territory through conquest",
-        "It was threatened by European colonial powers",
-        "It had a weak centralized government"
+        "Second-most populous",
+        "Most populous",
+        "Third-most populous",
+        "Fourth-most populous"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The Song dynasty... faced military crises, unable to subdue its Sinicized non-Han neighbors... The Song's consistent focus on defense resulted in a heavily centralized state and military'.",
-        "Incorrect. The article emphasizes defense, not expansion.",
-        "Incorrect. European colonial powers are not mentioned in this context.",
-        "Incorrect. The article states the Song had a heavily centralized state."
+        "Correct. The article states China is the world's second-most populous country after India.",
+        "Incorrect. The article says India is first, so China is not the most populous.",
+        "Incorrect. The article clearly states second, not third.",
+        "Incorrect. The article clearly states second, not fourth."
       ]
     },
     {
       "id": 9,
-      "question": "Which ethnic group is the dominant one in China?",
+      "question": "Which dynasty is credited with constructing the Grand Canal?",
       "options": [
-        "Han Chinese",
-        "Zhuang",
-        "Uyghurs",
-        "Tibetans"
+        "Sui dynasty",
+        "Tang dynasty",
+        "Qin dynasty",
+        "Han dynasty"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Han... are China's dominant ethnicity'.",
-        "Incorrect. The Zhuang are one of 55 recognized minorities, not dominant.",
-        "Incorrect. The Uyghurs are a recognized minority, not dominant.",
-        "Incorrect. Tibetans are a recognized minority, not dominant."
+        "Correct. The article states that the Sui dynasty constructed the Grand Canal to link Northern and Southern China.",
+        "Incorrect. The Tang dynasty succeeded the Sui but is not credited with the Grand Canal.",
+        "Incorrect. The Qin dynasty unified China but did not build the Grand Canal.",
+        "Incorrect. The Han dynasty established the Silk Road, not the Grand Canal."
       ]
     },
     {
       "id": 10,
-      "question": "What major economic shift began in China in 1978?",
+      "question": "What is the origin of the word 'China' according to a common etymology?",
       "options": [
-        "Reform and opening-up towards a socialist market economy",
-        "The establishment of a fully capitalist economy",
-        "The implementation of Maoist policies",
-        "The start of the Great Leap Forward"
+        "It derives from the ancient state of Qin",
+        "It comes from the Chinese word for 'central'",
+        "It is from the Sanskrit word for 'land'",
+        "It was invented by Martino Martini"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The reform and opening-up that began in 1978 moved China towards a socialist market economy'.",
-        "Incorrect. China moved to a socialist market economy, not a fully capitalist one.",
-        "Incorrect. Maoist policies were implemented earlier, not in 1978.",
-        "Incorrect. The Great Leap Forward occurred in the late 1950s and early 1960s."
+        "Correct. The article says that Martino Martini suggested the word China derives from the ancient state of Qin, and this remains a common etymology.",
+        "Incorrect. The Chinese word for 'central' relates to Zhongguo, not the origin of 'China'.",
+        "Incorrect. The article traces it to the Sanskrit word CÄ«na, not a generic word for 'land'.",
+        "Incorrect. Martino Martini suggested the etymology, but he did not invent the word."
       ]
     }
   ]

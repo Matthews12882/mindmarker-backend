@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What year was Isaac Newton's book Principia Mathematica first published?",
+      "question": "What was Isaac Newton's nationality?",
       "options": [
-        "1687",
-        "1704",
-        "1665",
-        "1705"
+        "English",
+        "French",
+        "German",
+        "Italian"
       ],
       "answer_explanations": [
-        "Correct. The article states that Principia Mathematica was first published in 1687.",
-        "Incorrect. 1704 is the publication year of Opticks, not Principia Mathematica.",
-        "Incorrect. 1665 is when Newton discovered the generalised binomial theorem, not when Principia was published.",
-        "Incorrect. 1705 is the year Newton was knighted by Queen Anne."
+        "Correct. The article states that Newton was 'an English polymath'.",
+        "Incorrect. The article identifies Newton as English, not French.",
+        "Incorrect. The article identifies Newton as English, not German.",
+        "Incorrect. The article identifies Newton as English, not Italian."
       ]
     },
     {
       "id": 2,
-      "question": "Which university did Isaac Newton attend?",
+      "question": "In what year was Newton's book 'PhilosophiÃ¦ Naturalis Principia Mathematica' first published?",
       "options": [
-        "University of Cambridge",
-        "University of Oxford",
-        "University of London",
-        "University of Edinburgh"
+        "1687",
+        "1704",
+        "1643",
+        "1727"
       ],
       "answer_explanations": [
-        "Correct. The article states Newton was admitted to Trinity College at the University of Cambridge in June 1661.",
-        "Incorrect. The article does not mention Newton attending the University of Oxford.",
-        "Incorrect. The article does not mention Newton attending the University of London.",
-        "Incorrect. The article does not mention Newton attending the University of Edinburgh."
+        "Correct. The article says the book was 'first published in 1687'.",
+        "Incorrect. 1704 is the publication year of 'Opticks', not the Principia.",
+        "Incorrect. 1643 is the year of Newton's birth, not the publication of the Principia.",
+        "Incorrect. 1727 is the year of Newton's death, not the publication of the Principia."
       ]
     },
     {
       "id": 3,
-      "question": "What position did Isaac Newton hold at the University of Cambridge?",
+      "question": "With which German mathematician did Newton share credit for formulating infinitesimal calculus?",
       "options": [
-        "Lucasian Professor of Mathematics",
-        "Master of Trinity College",
-        "Chancellor of the University",
-        "Head of the Physics Department"
+        "Gottfried Wilhelm Leibniz",
+        "Albert Einstein",
+        "Johannes Kepler",
+        "Pierre Louis Maupertuis"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Newton as the second Lucasian Professor of Mathematics at the University of Cambridge.",
-        "Incorrect. Isaac Barrow became master of Trinity College, not Newton.",
-        "Incorrect. The article does not mention Newton serving as chancellor.",
-        "Incorrect. The article does not mention Newton heading a physics department."
+        "Correct. The article states that Newton 'shares credit with the German mathematician Gottfried Wilhelm Leibniz' for calculus.",
+        "Incorrect. Albert Einstein is not mentioned in the article as sharing credit for calculus.",
+        "Incorrect. Johannes Kepler is not mentioned in this context; he is known for planetary laws.",
+        "Incorrect. Pierre Louis Maupertuis is mentioned later in the article for geodetic measurements, not calculus."
       ]
     },
     {
       "id": 4,
-      "question": "In what year was Isaac Newton knighted?",
+      "question": "What did Newton formulate in the Principia?",
       "options": [
-        "1705",
-        "1687",
-        "1704",
-        "1689"
+        "The laws of motion and universal gravitation",
+        "The theory of relativity",
+        "The laws of planetary motion",
+        "The law of cooling"
       ],
       "answer_explanations": [
-        "Correct. The article states Newton was knighted by Queen Anne in 1705.",
-        "Incorrect. 1687 is the publication year of Principia Mathematica.",
-        "Incorrect. 1704 is the publication year of Opticks.",
-        "Incorrect. 1689 is when Newton began serving as Member of Parliament."
+        "Correct. The article says 'In the Principia, Newton formulated the laws of motion and universal gravitation'.",
+        "Incorrect. The theory of relativity is mentioned as superseding Newton's viewpoint, not as formulated by him.",
+        "Incorrect. Kepler's laws of planetary motion were derived by Newton using his gravity, not formulated in the Principia.",
+        "Incorrect. The law of cooling is mentioned later, but not as formulated in the Principia."
       ]
     },
     {
       "id": 5,
-      "question": "What did Isaac Newton build that was the first of its kind?",
+      "question": "What did Newton's laws serve as sufficient approximations for?",
       "options": [
-        "the first reflecting telescope",
-        "the first refracting telescope",
-        "the first microscope",
-        "the first wind tunnel"
+        "All physical phenomena involving low speeds and weak gravitational fields",
+        "All physical phenomena at any speed",
+        "Only celestial motions",
+        "Only phenomena involving high speeds"
       ],
       "answer_explanations": [
-        "Correct. The article states Newton built the first reflecting telescope.",
-        "Incorrect. The article credits Newton with the first reflecting telescope, not the refracting telescope.",
-        "Incorrect. The article does not credit Newton with building the first microscope.",
-        "Incorrect. The article says Newton described a precursor to the modern wind tunnel, not that he built the first one."
+        "Correct. The article states that his laws 'still serve as sufficient approximations for all physical phenomena involving low speeds (much less than the speed of light) and weak gravitational fields'.",
+        "Incorrect. The article specifies low speeds and weak gravitational fields, not any speed.",
+        "Incorrect. The article says 'all physical phenomena' under those conditions, not only celestial motions.",
+        "Incorrect. The article specifies low speeds, not high speeds."
       ]
     },
     {
       "id": 6,
-      "question": "Where was Isaac Newton born?",
+      "question": "What did Newton use his mathematical description of gravity to derive?",
       "options": [
-        "Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, Lincolnshire",
-        "London, England",
-        "Cambridge, England",
-        "Grantham, England"
+        "Kepler's laws of planetary motion",
+        "The theory of relativity",
+        "The binomial theorem",
+        "The law of cooling"
       ],
       "answer_explanations": [
-        "Correct. The article states Newton was born at Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, Lincolnshire.",
-        "Incorrect. The article says Newton spent his last decades in London, but was not born there.",
-        "Incorrect. Newton attended university in Cambridge but was not born there.",
-        "Incorrect. Newton attended The King's School in Grantham but was not born there."
+        "Correct. The article says he 'used his mathematical description of gravity to derive Kepler's laws of planetary motion'.",
+        "Incorrect. The theory of relativity is not mentioned as derived by Newton.",
+        "Incorrect. The binomial theorem is a mathematical work, not derived from gravity.",
+        "Incorrect. The law of cooling is a separate empirical law, not derived from gravity."
       ]
     },
     {
       "id": 7,
-      "question": "What did Isaac Newton share credit with Gottfried Wilhelm Leibniz for formulating?",
+      "question": "What did Newton's inference about the Earth being an oblate spheroid get confirmed by?",
       "options": [
-        "infinitesimal calculus",
-        "the laws of motion",
-        "the theory of relativity",
-        "the binomial theorem"
+        "Geodetic measurements of Maupertuis, Clairaut, and La Condamine",
+        "The work of Gottfried Wilhelm Leibniz",
+        "The invention of the reflecting telescope",
+        "His calculation of the age of Earth"
       ],
       "answer_explanations": [
-        "Correct. The article states Newton shares credit with Leibniz for formulating infinitesimal calculus.",
-        "Incorrect. The laws of motion were formulated by Newton alone in the Principia.",
-        "Incorrect. The theory of relativity superseded Newton's laws and is not attributed to Newton or Leibniz.",
-        "Incorrect. Newton generalised the binomial theorem himself; it is not shared with Leibniz."
+        "Correct. The article says his inference 'was subsequently confirmed by the geodetic measurements of Pierre Louis Maupertuis, Alexis Clairaut, Charles Marie de La Condamine, and others'.",
+        "Incorrect. Leibniz is mentioned in relation to calculus, not geodetic measurements.",
+        "Incorrect. The reflecting telescope is a separate invention, not confirmation of the oblate spheroid.",
+        "Incorrect. The age of Earth calculation is a separate achievement, not confirmation of the oblate spheroid."
       ]
     },
     {
       "id": 8,
-      "question": "What was Isaac Newton's religious affiliation?",
+      "question": "What did Newton build?",
       "options": [
-        "a devout but unorthodox Christian",
-        "an atheist",
-        "a Muslim",
-        "a devout Anglican"
+        "The first reflecting telescope",
+        "The first refracting telescope",
+        "The first wind tunnel",
+        "The first microscope"
       ],
       "answer_explanations": [
-        "Correct. The article describes Newton as a devout but unorthodox Christian who privately rejected the doctrine of the Trinity.",
-        "Incorrect. The article explicitly describes Newton as Christian, not atheist.",
-        "Incorrect. The article does not describe Newton as Muslim.",
-        "Incorrect. The article says Newton was unorthodox and rejected Anglican doctrine, so he was not a devout Anglican."
+        "Correct. The article states that 'Newton built the first reflecting telescope'.",
+        "Incorrect. The article does not mention a refracting telescope.",
+        "Incorrect. The article says he described a precursor to the wind tunnel, not built one.",
+        "Incorrect. The article does not mention a microscope."
       ]
     },
     {
       "id": 9,
-      "question": "What did Isaac Newton serve as at the Royal Mint?",
+      "question": "What did Newton's theory of colour base on the observation that a prism separates white light into?",
       "options": [
-        "Warden and Master",
-        "Treasurer and Secretary",
-        "Director and Governor",
-        "Chief Engraver and Assayer"
+        "The colours of the visible spectrum",
+        "The primary colours only",
+        "The colours of the rainbow in order",
+        "The colours of the spectrum plus infrared"
       ],
       "answer_explanations": [
-        "Correct. The article states Newton served as Warden (1696â1699) and Master (1699â1727) of the Royal Mint.",
-        "Incorrect. The article does not mention Newton serving as treasurer or secretary of the Royal Mint.",
-        "Incorrect. The article does not mention Newton serving as director or governor.",
-        "Incorrect. The article does not mention Newton serving as chief engraver or assayer."
+        "Correct. The article says his theory was 'based on the observation that a prism separates white light into the colours of the visible spectrum'.",
+        "Incorrect. The article mentions the visible spectrum, not just primary colours.",
+        "Incorrect. The article mentions the visible spectrum, not specifically a rainbow order.",
+        "Incorrect. The article mentions the visible spectrum, not infrared."
       ]
     },
     {
       "id": 10,
-      "question": "Where was Isaac Newton buried?",
+      "question": "What did Newton also formulate an empirical law of?",
       "options": [
-        "Westminster Abbey",
-        "Trinity College Chapel",
-        "St. Paul's Cathedral",
-        "Woolsthorpe Manor"
+        "Cooling",
+        "Motion",
+        "Gravitation",
+        "Reflection"
       ],
       "answer_explanations": [
-        "Correct. The article states Newton was the first scientist to be buried at Westminster Abbey.",
-        "Incorrect. The article does not mention Newton being buried at Trinity College Chapel.",
-        "Incorrect. The article does not mention Newton being buried at St. Paul's Cathedral.",
-        "Incorrect. The article states Newton was born at Woolsthorpe Manor, not buried there."
+        "Correct. The article says 'Newton also formulated an empirical law of cooling'.",
+        "Incorrect. The laws of motion are mentioned, but the empirical law specifically is of cooling.",
+        "Incorrect. Universal gravitation is a law, but the empirical law mentioned is of cooling.",
+        "Incorrect. Reflection is not mentioned as a law formulated by Newton."
       ]
     }
   ]

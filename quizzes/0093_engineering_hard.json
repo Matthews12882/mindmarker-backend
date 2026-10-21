@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what does engineering primarily involve when solving problems?",
+      "question": "What does the evolution of the term 'engineer' from its 14th-century usage to its modern meaning imply about the field's historical roots?",
       "options": [
-        "Finding optimal solutions to constrained problems",
-        "Applying trial-and-error methods without constraints",
-        "Prioritizing artistic expression over functionality",
-        "Avoiding testing and simulations before production"
+        "Engineering's origins are deeply tied to military applications, as the term originally referred to builders of siege engines.",
+        "Engineering was originally a purely civilian discipline focused on infrastructure like bridges and buildings.",
+        "The term 'engineer' has always had a broad meaning encompassing all technical professions.",
+        "The term 'engineer' was first used in the 14th century to describe scientists applying mathematics to design."
       ],
       "answer_explanations": [
-        "Correct. The article states that engineering tasks involve finding optimal solutions to constrained problems.",
-        "Incorrect. The article describes engineering as working within constraints, not using unconstrained trial-and-error.",
-        "Incorrect. The article defines engineering as applying natural science and mathematics to design systems, not prioritizing artistic expression.",
-        "Incorrect. The article explicitly mentions that testing and simulations are used prior to production."
+        "Correct. The article states that 'engineer' originally referred to 'a constructor of military engines' and that 'engine' meant a military machine, implying a military origin.",
+        "Incorrect. The article says the term 'civil engineering' was later coined to distinguish non-military projects from military engineering, indicating the original focus was military.",
+        "Incorrect. The article shows the term originally had a narrow military meaning, not a broad one.",
+        "Incorrect. The article indicates the original meaning was about constructing military machines, not applying mathematics to design."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed in the article as one of the traditional disciplines of engineering?",
+      "question": "How does the article's description of the Antikythera mechanism and Archimedes' inventions illustrate the relationship between ancient Greek engineering and later technological developments?",
       "options": [
-        "Chemical engineering",
-        "Software engineering",
-        "Environmental engineering",
-        "Biomedical engineering"
+        "They required sophisticated gearing principles that later influenced machine theory and modern fields like robotics.",
+        "They were simple machines that had little impact on later engineering.",
+        "They were primarily military inventions with no civilian applications.",
+        "They were the first examples of steam-powered machines."
       ],
       "answer_explanations": [
-        "Correct. The article lists chemical engineering among the traditional disciplines of engineering.",
-        "Incorrect. Software engineering is not listed among the traditional disciplines in the article.",
-        "Incorrect. Environmental engineering is not listed among the traditional disciplines in the article.",
-        "Incorrect. Biomedical engineering is not listed among the traditional disciplines in the article."
+        "Correct. The article notes these inventions required knowledge of differential or epicyclic gearing, which 'helped design the gear trains of the Industrial Revolution' and are used in robotics and automotive engineering.",
+        "Incorrect. The article emphasizes their sophisticated gearing and lasting influence, not simplicity or lack of impact.",
+        "Incorrect. The article mentions both civilian and military domains for Greek machines, and the Antikythera mechanism was not military.",
+        "Incorrect. The article does not describe them as steam-powered; steam machines appear later."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say is the origin of the word 'engineering'?",
+      "question": "What conclusion can be drawn from the article's account of the invention of the six simple machines across different ancient civilizations?",
       "options": [
-        "It is derived from the Latin word ingenium",
-        "It comes from the Greek word for machine",
-        "It derives from an Old English term for builder",
-        "It originates from a French word meaning design"
+        "Engineering knowledge developed incrementally across multiple cultures, with each machine appearing in a specific time and place.",
+        "All six simple machines were invented simultaneously in ancient Egypt.",
+        "The simple machines were all invented in ancient Greece.",
+        "The simple machines were not known until the Industrial Revolution."
       ],
       "answer_explanations": [
-        "Correct. The article states that the word engineering is derived from the Latin ingenium.",
-        "Incorrect. The article does not attribute the origin to a Greek word for machine.",
-        "Incorrect. The article does not mention an Old English term for builder as the origin.",
-        "Incorrect. The article does not mention a French word meaning design as the origin."
+        "Correct. The article details specific origins for each machine (e.g., wheel in Mesopotamia, lever in Near East, screw in Neo-Assyrian period), showing a cumulative, cross-cultural development.",
+        "Incorrect. The article gives different dates and locations for each machine, not a single simultaneous invention.",
+        "Incorrect. The article attributes inventions to Mesopotamia, Egypt, and the Near East, not Greece.",
+        "Incorrect. The article states they were known in ancient times, long before the Industrial Revolution."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what did an 'engine'er refer to in the 14th century?",
+      "question": "How does the article's definition of engineering by the American Engineers' Council for Professional Development emphasize the role of creativity?",
       "options": [
-        "A constructor of military engines",
-        "A designer of civilian bridges",
-        "An operator of steam engines",
-        "A builder of aqueducts"
+        "It calls engineering the 'creative application of scientific principles' to design or develop structures and processes.",
+        "It states that engineering is purely a mathematical discipline with no room for creativity.",
+        "It suggests that creativity is only needed in the arts, not in engineering.",
+        "It defines engineering as the simple application of known formulas without innovation."
       ],
       "answer_explanations": [
-        "Correct. The article states that in the 14th century, an engine'er referred to a constructor of military engines.",
-        "Incorrect. The article associates the 14th-century term with military engines, not civilian bridges.",
-        "Incorrect. Steam engines are not connected to the 14th-century meaning in the article.",
-        "Incorrect. The article does not link the 14th-century term to aqueduct builders."
+        "Correct. The quoted definition begins with 'The creative application of scientific principles,' directly highlighting creativity as a core element.",
+        "Incorrect. The definition explicitly includes creativity, contradicting the idea that engineering is purely mathematical.",
+        "Incorrect. The definition applies creativity to engineering, not just arts.",
+        "Incorrect. The definition emphasizes creative application, not rote formula use."
       ]
     },
     {
       "id": 5,
-      "question": "Which ancient civilization is credited in the article with the invention of the wheel and wheel-and-axle mechanism during the 5th millennium BC?",
+      "question": "What does the article's mention of the spinning wheel and cotton gin in the Middle Ages suggest about the relationship between earlier inventions and the Industrial Revolution?",
       "options": [
-        "Mesopotamia",
-        "Ancient Egypt",
-        "Ancient Greece",
-        "Ancient China"
+        "These earlier inventions were precursors to later key developments like the spinning jenny, showing a continuity of innovation.",
+        "The Industrial Revolution was independent of any earlier inventions.",
+        "The cotton gin and spinning wheel were invented during the Industrial Revolution itself.",
+        "These inventions had no impact on later industrial developments."
       ],
       "answer_explanations": [
-        "Correct. The article states that the wheel and wheel-and-axle mechanism were invented in Mesopotamia during the 5th millennium BC.",
-        "Incorrect. The article attributes the wheel to Mesopotamia, not Ancient Egypt.",
-        "Incorrect. The article attributes the wheel to Mesopotamia, not Ancient Greece.",
-        "Incorrect. The article attributes the wheel to Mesopotamia, not Ancient China."
+        "Correct. The article states the spinning wheel was 'a precursor to the spinning jenny, which was a key development during the early Industrial Revolution,' indicating a direct lineage.",
+        "Incorrect. The article explicitly links earlier inventions to later industrial developments.",
+        "Incorrect. The article dates the cotton gin to the 6th century AD and the spinning wheel to the 11th century, well before the Industrial Revolution.",
+        "Incorrect. The article says they were 'fundamental to the growth of the cotton industry' and the spinning wheel influenced the spinning jenny."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what role does economics play in engineering at larger scales?",
+      "question": "Why does the article's description of early programmable machines in the Muslim world challenge a common assumption about the history of computing?",
       "options": [
-        "A knowledge of economics and business practices is needed because projects are funded by companies, investors, or government",
-        "Economics is irrelevant to engineering decisions",
-        "Only government-funded projects require economic knowledge",
-        "Economics matters only during the manufacturing phase"
+        "It shows that the concept of programmability existed long before modern computers, with automated musical instruments and robots.",
+        "It proves that the first computers were steam-powered.",
+        "It indicates that programmability was invented in ancient Greece.",
+        "It suggests that programmable machines were not possible until the 20th century."
       ],
       "answer_explanations": [
-        "Correct. The article states that at larger scales, engineering processes are normally funded by a company, multiple investors, or the government, so a knowledge of economics and business practices is needed.",
-        "Incorrect. The article explicitly says economics and business knowledge is needed at larger scales.",
-        "Incorrect. The article does not limit economic knowledge to government-funded projects.",
-        "Incorrect. The article does not restrict the relevance of economics to the manufacturing phase."
+        "Correct. The article describes a 9th-century automated flute player and Al-Jazari's 13th-century programmable automata, demonstrating early programmability, which challenges the idea that programming is a modern concept.",
+        "Incorrect. The article does not mention steam power in relation to these machines.",
+        "Incorrect. The article attributes these inventions to the Muslim world, not Greece.",
+        "Incorrect. The article provides specific early examples, contradicting this claim."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article's ABET-derived definition, what must engineering consider with respect to an intended function?",
+      "question": "What implication does the article's statement that 'universities were not believed to have had much practical significance to technology' before modern engineering have for the history of technical knowledge?",
       "options": [
-        "Economics of operation and safety to life and property",
-        "Only the technical performance of the device",
-        "Only the aesthetic qualities of the design",
-        "Only the speed of construction"
+        "Practical technical knowledge was largely developed outside academic institutions, by artisans and craftsmen.",
+        "Universities were the primary drivers of technological innovation in the Middle Ages.",
+        "Mathematics was not used by craftsmen before modern engineering.",
+        "Academic knowledge had no connection to practical engineering at all."
       ],
       "answer_explanations": [
-        "Correct. The article's definition states that engineering considers an intended function, economics of operation, and safety to life and property.",
-        "Incorrect. The definition includes economics and safety, not only technical performance.",
-        "Incorrect. The definition does not mention aesthetic qualities as a consideration.",
-        "Incorrect. The definition does not mention speed of construction as a consideration."
+        "Correct. The article states that before modern engineering, mathematics was used by artisans and craftsmen, and universities had little practical significance, implying practical knowledge was non-academic.",
+        "Incorrect. The article explicitly downplays universities' role.",
+        "Incorrect. The article says mathematics was used by artisans and craftsmen.",
+        "Incorrect. The article does not claim zero connection, just little practical significance."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article identify as the purpose of forensic engineering?",
+      "question": "How does the article's account of the development of water-powered and wind-powered machines illustrate a pattern in the history of energy technology?",
       "options": [
-        "To determine what went wrong when a deployed product fails in order to find a fix",
-        "To design new products before they are manufactured",
-        "To create marketing materials for engineering products",
-        "To manage the financial budget of engineering projects"
+        "It shows a progression from human and animal power to natural forces like water and wind, and later to steam.",
+        "It indicates that steam power was developed before water power.",
+        "It suggests that wind power was used only in ancient times.",
+        "It shows that energy technologies were invented independently in each region without cross-cultural influence."
       ],
       "answer_explanations": [
-        "Correct. The article states that forensic engineering is used to determine what went wrong when a deployed product fails, in order to find a fix.",
-        "Incorrect. Forensic engineering is described as analyzing failures, not designing new products.",
-        "Incorrect. The article does not connect forensic engineering to marketing.",
-        "Incorrect. The article does not connect forensic engineering to financial budget management."
+        "Correct. The article traces early machines powered by humans/animals, then water wheels and windmills, and later steam engines, showing a clear progression.",
+        "Incorrect. The article places water and wind machines before steam, with steam appearing in the 16th century.",
+        "Incorrect. Windmills appeared in the 9th century AD, not ancient times.",
+        "Incorrect. The article shows diffusion and development across regions, not isolated invention."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, which of the following is a modern field of engineering practice?",
+      "question": "What does the article's mention of forensic engineering and product lifecycle management imply about the role of failure in engineering practice?",
       "options": [
-        "Energy systems",
-        "Siegecraft",
-        "Ancient aqueduct construction",
-        "Military catapult design"
+        "Failure is seen as a learning opportunity to determine causes and find fixes, integrated into a product's lifecycle.",
+        "Failure is ignored and engineers never analyze it.",
+        "Failure is only relevant in military engineering.",
+        "Failure is avoided by not testing products."
       ],
       "answer_explanations": [
-        "Correct. The article lists energy systems among the fields of modern engineering practice.",
-        "Incorrect. Siegecraft is discussed in the context of ancient history, not modern engineering fields.",
-        "Incorrect. Ancient aqueduct construction is presented as an antiquity example, not a modern field.",
-        "Incorrect. Military catapult design is discussed historically, not as a modern engineering field."
+        "Correct. The article states forensic engineering is used 'to determine what went wrong in order to find a fix' and that this is part of product lifecycle management, implying failure analysis is a normal, constructive process.",
+        "Incorrect. The article explicitly describes failure analysis as a standard practice.",
+        "Incorrect. The article does not limit failure analysis to military contexts.",
+        "Incorrect. The article mentions testing and simulations before production, implying testing is used to prevent failures."
       ]
     },
     {
       "id": 10,
-      "question": "Based on the article, how did the steam engine influence engineering during the Industrial Revolution era?",
+      "question": "How does the article's description of the professional context of engineering (funding, ethics, economics) suggest that engineering is more than just a technical discipline?",
       "options": [
-        "It provided much greater power than animals, leading to mechanical propulsion for ships and railways",
-        "It replaced all wind-powered machines immediately",
-        "It was primarily used for military siegecraft",
-        "It had no significant impact on transportation"
+        "It indicates that engineering requires knowledge of ethics, safety, economics, and business practices, not just science and math.",
+        "It suggests that engineers only need to focus on technical calculations.",
+        "It implies that engineering is solely a government activity.",
+        "It shows that ethics are irrelevant to engineering practice."
       ],
       "answer_explanations": [
-        "Correct. The article states that the steam engine provided much greater power than animals, leading to mechanical propulsion for ships and railways.",
-        "Incorrect. The article does not claim the steam engine immediately replaced all wind-powered machines.",
-        "Incorrect. The article connects the steam engine to ships and railways, not primarily to siegecraft.",
-        "Incorrect. The article explicitly describes the steam engine's role in mechanical propulsion for ships and railways."
+        "Correct. The article mentions engineers follow a code of ethics, are dedicated to public safety, and need knowledge of economics and business because projects are funded by companies or governments.",
+        "Incorrect. The article explicitly lists non-technical knowledge as necessary.",
+        "Incorrect. The article mentions funding by companies, investors, or government, not exclusively government.",
+        "Incorrect. The article states engineers typically follow a code of ethics, implying ethics are important."
       ]
     }
   ]

@@ -5,87 +5,23 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was the central feature of Copernicus's model of the universe?",
+      "question": "What did Nicolaus Copernicus formulate a model of?",
       "options": [
-        "It placed the Sun rather than Earth at the center.",
-        "It placed Earth at the center of the universe.",
-        "It placed the Moon at the center of the universe.",
-        "It placed Mars at the center of the universe."
+        "The universe with the Sun at its center",
+        "The universe with Earth at its center",
+        "The solar system with the Moon at its center",
+        "The galaxy with the Sun at its center"
       ],
       "answer_explanations": [
-        "Correct. The article states that Copernicus formulated a model of the universe that placed 'the Sun rather than Earth at its center.'",
-        "Incorrect. The article explicitly says Copernicus's model placed the Sun, not Earth, at the center.",
-        "Incorrect. The article does not mention the Moon as the center of Copernicus's model.",
-        "Incorrect. The article does not mention Mars as the center of Copernicus's model."
+        "Correct. The article states that Copernicus formulated a model of the universe that placed the Sun rather than Earth at its center.",
+        "Incorrect. The article says Copernicus placed the Sun, not Earth, at the center of the universe.",
+        "Incorrect. The article does not mention the Moon at the center; it says the Sun was at the center.",
+        "Incorrect. The article refers to the universe, not the galaxy, and the Sun is at the center."
       ]
     },
     {
       "id": 2,
-      "question": "In what year was Copernicus's book De revolutionibus orbium coelestium published?",
-      "options": [
-        "1543",
-        "1473",
-        "1491",
-        "1517"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the publication of De revolutionibus orbium coelestium occurred 'just before his death in 1543.'",
-        "Incorrect. 1473 is Copernicus's birth year, not the publication year.",
-        "Incorrect. 1491 is when Copernicus began studies at the University of KrakÃ³w.",
-        "Incorrect. 1517 is when Copernicus derived a quantity theory of money."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Which ancient Greek astronomer developed a similar heliocentric model eighteen centuries before Copernicus?",
-      "options": [
-        "Aristarchus of Samos",
-        "Aristotle",
-        "Ptolemy",
-        "Euclid"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that 'a similar heliocentric model had been developed eighteen centuries earlier by Aristarchus of Samos, an ancient Greek astronomer.'",
-        "Incorrect. Aristotle is mentioned in connection with homocentric spheres, not a heliocentric model.",
-        "Incorrect. Ptolemy is associated with eccentrics and epicycles, not a heliocentric model.",
-        "Incorrect. Euclid is mentioned as one of the authors whose books Copernicus read, not as a heliocentric astronomer."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What economic principle did Copernicus formulate in 1519 that later came to be called Gresham's law?",
-      "options": [
-        "An economic principle later called Gresham's law",
-        "A quantity theory of money",
-        "A theory of planetary motion",
-        "A theory of canon law"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that 'in 1519 he formulated an economic principle that later came to be called Gresham's law.'",
-        "Incorrect. The quantity theory of money was derived by Copernicus in 1517, not 1519.",
-        "Incorrect. The article does not connect Gresham's law to planetary motion.",
-        "Incorrect. Copernicus obtained a doctorate in canon law, but Gresham's law is an economic principle."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "Who was Copernicus's maternal uncle and patron?",
-      "options": [
-        "Lucas Watzenrode the Younger",
-        "Niklas Koppernigk",
-        "Lucas Watzenrode the Elder",
-        "Albert Brudzewski"
-      ],
-      "answer_explanations": [
-        "Correct. The article identifies Lucas Watzenrode the Younger as 'the astronomer's maternal uncle and patron.'",
-        "Incorrect. Niklas Koppernigk was Copernicus's father, not his maternal uncle.",
-        "Incorrect. Lucas Watzenrode the Elder was Copernicus's maternal grandfather.",
-        "Incorrect. Albert Brudzewski was a professor whose commentary Copernicus read, not his uncle."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "Which region was Copernicus born and died in?",
+      "question": "In which region was Copernicus born and died?",
       "options": [
         "Royal Prussia",
         "Silesia",
@@ -93,74 +29,138 @@
         "Warmia"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Copernicus was born and died in Royal Prussia.'",
-        "Incorrect. Silesia is mentioned as a region where Copernicus's family migrated, not where he was born and died.",
-        "Incorrect. KrakÃ³w is mentioned as a city where family members lived and where Copernicus studied, not where he was born and died.",
-        "Incorrect. Warmia is associated with Copernicus's canonry and his uncle's bishopric, but the article says he was born and died in Royal Prussia."
+        "Correct. The article says Copernicus was born and died in Royal Prussia, a semi-autonomous region within the Crown of the Kingdom of Poland.",
+        "Incorrect. Silesia is mentioned as the origin of his father's family, not his birthplace or deathplace.",
+        "Incorrect. KrakÃ³w is where his father came from and where Copernicus studied, but he was not born or died there.",
+        "Incorrect. Warmia is where he served as canon, but it is not stated as his birthplace or deathplace."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What was Copernicus's role from 1497?",
+      "options": [
+        "A canon in the Warmian Cathedral chapter",
+        "A bishop of Warmia",
+        "A professor at the University of KrakÃ³w",
+        "A merchant in Thorn"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that from 1497 he was a Warmian Cathedral chapter canon.",
+        "Incorrect. His uncle Lucas Watzenrode the Younger was Bishop of Warmia, not Copernicus.",
+        "Incorrect. Copernicus studied at KrakÃ³w but the article does not say he became a professor there.",
+        "Incorrect. His father was a merchant, but Copernicus's role is described as a canon."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What economic principle did Copernicus formulate in 1519?",
+      "options": [
+        "Gresham's law",
+        "The quantity theory of money",
+        "The law of supply and demand",
+        "The theory of comparative advantage"
+      ],
+      "answer_explanations": [
+        "Correct. The article says that in 1519 he formulated an economic principle that later came to be called Gresham's law.",
+        "Incorrect. The quantity theory of money was derived by Copernicus in 1517, not in 1519.",
+        "Incorrect. The article does not mention the law of supply and demand.",
+        "Incorrect. The article does not mention the theory of comparative advantage."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Who was Copernicus's maternal uncle who became his patron?",
+      "options": [
+        "Lucas Watzenrode the Younger",
+        "Lucas Watzenrode the Elder",
+        "Tiedeman von Allen",
+        "Niklas Koppernigk"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Lucas Watzenrode the Younger, the astronomer's maternal uncle, became his patron and secured his education and career.",
+        "Incorrect. Lucas Watzenrode the Elder was his maternal grandfather, not his uncle.",
+        "Incorrect. Tiedeman von Allen was the husband of his aunt Christina, not his uncle.",
+        "Incorrect. Niklas Koppernigk was his father's name, not his uncle."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Where did Copernicus begin his studies in 1491?",
+      "options": [
+        "University of KrakÃ³w",
+        "University of Bologna",
+        "University of Cologne",
+        "University of WÅocÅawek"
+      ],
+      "answer_explanations": [
+        "Correct. The article says in the winter semester of 1491â92 Copernicus matriculated at the University of KrakÃ³w.",
+        "Incorrect. Bologna is mentioned as a university where his uncle studied, not Copernicus's first university.",
+        "Incorrect. Cologne is mentioned as a university where his uncle studied, not Copernicus.",
+        "Incorrect. WÅocÅawek is where the Cathedral School was, not a university he attended."
       ]
     },
     {
       "id": 7,
-      "question": "What position did Copernicus hold from 1497?",
+      "question": "What did Copernicus's KrakÃ³w studies give him a thorough grounding in?",
       "options": [
-        "Warmian Cathedral chapter canon",
-        "Bishop of Warmia",
-        "Governor of Royal Prussia",
-        "Physician to the King of Poland"
+        "Mathematical astronomy",
+        "Canon law",
+        "Medicine",
+        "Economics"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'From 1497 he was a Warmian Cathedral chapter canon.'",
-        "Incorrect. Lucas Watzenrode the Younger was Bishop of Warmia, not Copernicus.",
-        "Incorrect. The article lists governor as one of Copernicus's roles but does not say he was governor of Royal Prussia from 1497.",
-        "Incorrect. The article lists physician among Copernicus's roles but does not say he was physician to the King of Poland from 1497."
+        "Correct. The article says his KrakÃ³w studies gave him a thorough grounding in the mathematical astronomy taught at the university.",
+        "Incorrect. Canon law was studied later in Italy, not at KrakÃ³w.",
+        "Incorrect. Medicine is mentioned as one of his skills, but not as a focus of his KrakÃ³w studies.",
+        "Incorrect. Economics is not mentioned as part of his KrakÃ³w studies."
       ]
     },
     {
       "id": 8,
-      "question": "What happened to Copernicus's large astronomy library after his death?",
+      "question": "What did Copernicus begin collecting at KrakÃ³w that was later carried off by the Swedes?",
       "options": [
-        "It was carried off as war booty by the Swedes during the Deluge in the 1650s.",
-        "It was donated to the University of KrakÃ³w.",
-        "It was destroyed in a fire at Frauenburg Cathedral.",
-        "It was inherited by his sister Katharina."
+        "A large library on astronomy",
+        "A collection of coins",
+        "A set of musical instruments",
+        "A collection of maps"
       ],
       "answer_explanations": [
-        "Correct. The article states that Copernicus's library 'would later be carried off as war booty by the Swedes during the Deluge in the 1650s and has been preserved at the Uppsala University Library.'",
-        "Incorrect. The article does not mention the library being donated to the University of KrakÃ³w.",
-        "Incorrect. The article does not mention the library being destroyed in a fire.",
-        "Incorrect. The article does not mention the library being inherited by Katharina."
+        "Correct. The article says at KrakÃ³w Copernicus began collecting a large library on astronomy; it would later be carried off as war booty by the Swedes.",
+        "Incorrect. The article does not mention coins.",
+        "Incorrect. The article does not mention musical instruments.",
+        "Incorrect. The article does not mention maps as a collection."
       ]
     },
     {
       "id": 9,
-      "question": "Which two systems of astronomy did Copernicus analyze for logical contradictions during his time at KrakÃ³w?",
+      "question": "Who was the ancient Greek astronomer who developed a similar heliocentric model eighteen centuries earlier?",
       "options": [
-        "Aristotle's theory of homocentric spheres and Ptolemy's mechanism of eccentrics and epicycles",
-        "Aristarchus's heliocentric model and Ptolemy's geocentric model",
-        "Euclid's geometry and Aristotle's metaphysics",
-        "The Alfonsine Tables and Regiomontanus's Tabulae directionum"
+        "Aristarchus of Samos",
+        "Aristotle",
+        "Ptolemy",
+        "Albert Brudzewski"
       ],
       "answer_explanations": [
-        "Correct. The article states that Copernicus analyzed 'logical contradictions in the two \"official\" systems of astronomyâAristotle's theory of homocentric spheres, and Ptolemy's mechanism of eccentrics and epicycles.'",
-        "Incorrect. Aristarchus's model is mentioned as an earlier heliocentric model, not as one of the two systems Copernicus analyzed at KrakÃ³w.",
-        "Incorrect. Euclid's geometry and Aristotle's metaphysics are mentioned as subjects Copernicus studied, not as the two astronomical systems he analyzed for contradictions.",
-        "Incorrect. The Alfonsine Tables and Regiomontanus's Tabulae directionum are mentioned as books Copernicus read, not as the two astronomical systems he analyzed."
+        "Correct. The article says a similar heliocentric model had been developed eighteen centuries earlier by Aristarchus of Samos.",
+        "Incorrect. Aristotle is mentioned for his theory of homocentric spheres, not heliocentrism.",
+        "Incorrect. Ptolemy is mentioned for his mechanism of eccentrics and epicycles, not heliocentrism.",
+        "Incorrect. Albert Brudzewski was a professor at KrakÃ³w, not an ancient Greek astronomer."
       ]
     },
     {
       "id": 10,
-      "question": "What was the nature of Copernicus's relationship with Anna Schilling?",
+      "question": "What was the title of Copernicus's book that was published just before his death?",
       "options": [
-        "She was a live-in housekeeper with whom he had relations seen as scandalous by two bishops of Warmia.",
-        "She was his wife.",
-        "She was his sister.",
-        "She was his patroness who funded his education."
+        "De revolutionibus orbium coelestium",
+        "TheoricÃ¦ novÃ¦ planetarum",
+        "Alfonsine Tables",
+        "Tabulae directionum"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'from at least 1531 until 1539 his relations with Anna Schilling, a live-in housekeeper, were seen as scandalous by two bishops of Warmia who urged him over the years to break off relations with his \"mistress.\"'",
-        "Incorrect. The article states Copernicus never married.",
-        "Incorrect. Anna Schilling is not described as Copernicus's sister; his sister was Barbara.",
-        "Incorrect. Lucas Watzenrode the Younger was Copernicus's patron, not Anna Schilling."
+        "Correct. The article says the publication of Copernicus's model in his book De revolutionibus orbium coelestium was a major event.",
+        "Incorrect. TheoricÃ¦ novÃ¦ planetarum is a work by Georg von Peuerbach, not Copernicus.",
+        "Incorrect. Alfonsine Tables is an astronomical work that Copernicus read, not his own book.",
+        "Incorrect. Tabulae directionum is by Johannes Regiomontanus, not Copernicus."
       ]
     }
   ]

@@ -16,12 +16,12 @@
         "Correct. The article states: 'Japan is an island country in East Asia.'",
         "Incorrect. The article describes Japan as an island country, not a landlocked one.",
         "Incorrect. The article describes Japan as an island country, not a continental one.",
-        "Incorrect. The article describes Japan as an island country, not a desert country."
+        "Incorrect. The article describes Japan as an island country, not a desert one."
       ]
     },
     {
       "id": 2,
-      "question": "Which ocean is Japan located in?",
+      "question": "In which ocean is Japan located?",
       "options": [
         "Pacific Ocean",
         "Atlantic Ocean",
@@ -29,8 +29,8 @@
         "Arctic Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article says Japan is 'Located in the Pacific Ocean off the northeast coast of the Asian mainland.'",
-        "Incorrect. The article specifies the Pacific Ocean, not the Atlantic.",
+        "Correct. The article states Japan is 'Located in the Pacific Ocean off the northeast coast of the Asian mainland.'",
+        "Incorrect. The article specifies the Pacific Ocean, not the Atlantic Ocean.",
         "Incorrect. The article specifies the Pacific Ocean, not the Indian Ocean.",
         "Incorrect. The article specifies the Pacific Ocean, not the Arctic Ocean."
       ]
@@ -40,127 +40,127 @@
       "question": "How many major islands make up the Japanese archipelago?",
       "options": [
         "Four",
-        "Three",
-        "Five",
-        "Six"
+        "Two",
+        "Six",
+        "Eight"
       ],
       "answer_explanations": [
         "Correct. The article states: 'The Japanese archipelago consists of four major islands alongside over 14,000 smaller islands.'",
-        "Incorrect. The article says there are four major islands, not three.",
-        "Incorrect. The article says there are four major islands, not five.",
-        "Incorrect. The article says there are four major islands, not six."
+        "Incorrect. The article mentions four major islands, not two.",
+        "Incorrect. The article mentions four major islands, not six.",
+        "Incorrect. The article mentions four major islands, not eight."
       ]
     },
     {
       "id": 4,
-      "question": "What is the capital of Japan?",
+      "question": "Into how many administrative prefectures is Japan divided?",
       "options": [
-        "Tokyo",
-        "Osaka",
-        "Kyoto",
-        "Nara"
+        "47",
+        "50",
+        "40",
+        "52"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Tokyo as 'the country's capital and largest city.'",
-        "Incorrect. Tokyo is the capital, not Osaka.",
-        "Incorrect. Tokyo is the capital, not Kyoto.",
-        "Incorrect. Tokyo is the capital, not Nara."
+        "Correct. The article states Japan is 'divided into 47 administrative prefectures and eight traditional regions.'",
+        "Incorrect. The article specifies 47 prefectures, not 50.",
+        "Incorrect. The article specifies 47 prefectures, not 40.",
+        "Incorrect. The article specifies 47 prefectures, not 52."
       ]
     },
     {
       "id": 5,
-      "question": "What percentage of Japan's terrain is mountainous and heavily forested?",
+      "question": "Approximately what percentage of Japan's terrain is mountainous and heavily forested?",
       "options": [
-        "Around 75%",
-        "Around 50%",
-        "Around 25%",
-        "Around 90%"
+        "75%",
+        "50%",
+        "90%",
+        "60%"
       ],
       "answer_explanations": [
-        "Correct. The article notes that 'around 75% of its terrain is mountainous and heavily forested.'",
+        "Correct. The article states 'around 75% of its terrain is mountainous and heavily forested.'",
         "Incorrect. The article states around 75%, not 50%.",
-        "Incorrect. The article states around 75%, not 25%.",
-        "Incorrect. The article states around 75%, not 90%."
+        "Incorrect. The article states around 75%, not 90%.",
+        "Incorrect. The article states around 75%, not 60%."
       ]
     },
     {
       "id": 6,
-      "question": "What is the name of Japan's bicameral legislature?",
+      "question": "What is the capital and largest city of Japan?",
       "options": [
-        "National Diet",
-        "Parliament",
-        "Congress",
-        "Assembly"
+        "Tokyo",
+        "Osaka",
+        "Kyoto",
+        "Nagoya"
       ],
       "answer_explanations": [
-        "Correct. The article says Japan has 'a bicameral legislature known as the National Diet.'",
-        "Incorrect. The article specifically calls it the National Diet, not Parliament.",
-        "Incorrect. The article specifically calls it the National Diet, not Congress.",
-        "Incorrect. The article specifically calls it the National Diet, not Assembly."
+        "Correct. The article states: 'Tokyo is the country's capital and largest city.'",
+        "Incorrect. The article names Tokyo as the capital and largest city, not Osaka.",
+        "Incorrect. The article names Tokyo as the capital and largest city, not Kyoto.",
+        "Incorrect. The article names Tokyo as the capital and largest city, not Nagoya."
       ]
     },
     {
       "id": 7,
-      "question": "What does the Japanese name 'Nihon' or 'Nippon' mean?",
+      "question": "What is the population of Japan as of 2026?",
       "options": [
-        "Sun origin",
-        "Land of the mountains",
-        "Great land",
-        "Eastern sea"
+        "Almost 123 million",
+        "Almost 100 million",
+        "Almost 150 million",
+        "Almost 80 million"
       ],
       "answer_explanations": [
-        "Correct. The article explains that the characters æ¥æ¬ mean 'sun origin', which is the source of the epithet 'Land of the Rising Sun'.",
-        "Incorrect. The meaning is 'sun origin', not 'Land of the mountains'.",
-        "Incorrect. The meaning is 'sun origin', not 'Great land'.",
-        "Incorrect. The meaning is 'sun origin', not 'Eastern sea'."
+        "Correct. The article states: 'With a population of almost 123 million as of 2026, it is the world's 11th most populous country.'",
+        "Incorrect. The article states almost 123 million, not almost 100 million.",
+        "Incorrect. The article states almost 123 million, not almost 150 million.",
+        "Incorrect. The article states almost 123 million, not almost 80 million."
       ]
     },
     {
       "id": 8,
-      "question": "Which period in Japanese history saw the introduction of wet-rice farming?",
+      "question": "Where is Japan's population and agriculture concentrated?",
       "options": [
-        "Yayoi period",
-        "JÅmon period",
-        "Nara period",
-        "Heian period"
+        "Along its eastern coastal plains",
+        "In its mountainous interior",
+        "Along its western coast",
+        "In its northern forests"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Yayoi period saw the introduction of innovative practices including wet-rice farming.'",
-        "Incorrect. The JÅmon period was a hunter-gatherer culture; wet-rice farming came later in the Yayoi period.",
-        "Incorrect. The Nara period came after the Yayoi period; wet-rice farming was introduced in the Yayoi period.",
-        "Incorrect. The Heian period came after the Yayoi period; wet-rice farming was introduced in the Yayoi period."
+        "Correct. The article states that the mountainous terrain concentrates 'its agriculture and highly urbanized population along its eastern coastal plains.'",
+        "Incorrect. The article says the mountainous terrain is where the population is not concentrated.",
+        "Incorrect. The article specifies the eastern coastal plains, not the western coast.",
+        "Incorrect. The article specifies the eastern coastal plains, not the northern forests."
       ]
     },
     {
       "id": 9,
-      "question": "What event forced Japan to open trade to the West in 1853?",
+      "question": "Which body of water borders Japan to the west?",
       "options": [
-        "The arrival of an American fleet",
-        "The arrival of a British fleet",
-        "The arrival of a Portuguese fleet",
-        "The arrival of a Dutch fleet"
+        "Sea of Japan",
+        "Sea of Okhotsk",
+        "East China Sea",
+        "Philippine Sea"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'In 1853, an American fleet forced Japan to open trade to the West.'",
-        "Incorrect. It was an American fleet, not a British one.",
-        "Incorrect. It was an American fleet, not a Portuguese one.",
-        "Incorrect. It was an American fleet, not a Dutch one."
+        "Correct. The article states Japan 'is bordered to the west by the Sea of Japan.'",
+        "Incorrect. The Sea of Okhotsk is to the north, not the west.",
+        "Incorrect. The East China Sea is to the south, not the west.",
+        "Incorrect. The article does not mention the Philippine Sea as a western border."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is a major industry in Japan mentioned in the article?",
+      "question": "How many traditional regions is Japan divided into?",
       "options": [
-        "Automotive",
-        "Textile",
-        "Mining",
-        "Oil"
+        "Eight",
+        "Four",
+        "Ten",
+        "Six"
       ],
       "answer_explanations": [
-        "Correct. The article states Japan is 'a global leader in the automotive, electronics, and robotics industries.'",
-        "Incorrect. The article does not list textiles as a major industry; it lists automotive, electronics, and robotics.",
-        "Incorrect. The article does not list mining as a major industry; it lists automotive, electronics, and robotics.",
-        "Incorrect. The article does not list oil as a major industry; it lists automotive, electronics, and robotics."
+        "Correct. The article states Japan is divided into 'eight traditional regions.'",
+        "Incorrect. The article specifies eight traditional regions, not four.",
+        "Incorrect. The article specifies eight traditional regions, not ten.",
+        "Incorrect. The article specifies eight traditional regions, not six."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following best describes medicine according to the article?",
+      "question": "What does medicine encompass according to the article?",
       "options": [
-        "The science and practice of caring for patients, managing diagnosis, prognosis, prevention, treatment, and palliation of injury or disease while promoting health",
-        "The exclusive use of pharmaceuticals and surgery to cure disease",
-        "A purely artistic practice with no scientific basis",
-        "A system limited to modern biomedical research and genetics"
+        "A variety of health care practices that evolved to maintain and restore health",
+        "Only the use of pharmaceuticals and surgery",
+        "The study of religious and philosophical beliefs",
+        "The practice of bloodletting and herbal remedies"
       ],
       "answer_explanations": [
-        "Correct. The article defines medicine as the science and practice of caring for patients, managing diagnosis, prognosis, prevention, treatment, and palliation of injury or disease while promoting health.",
-        "Incorrect. The article lists pharmaceuticals and surgery as typical tools but also includes psychotherapy, medical devices, biologics, ionizing radiation, and other therapies.",
-        "Incorrect. The article states that medicine has historically been an art but in recent centuries has become a combination of art and science.",
-        "Incorrect. The article describes medicine as encompassing biomedical sciences, research, genetics, and medical technology, but not as being limited to them."
+        "Correct. The article states that medicine encompasses a variety of health care practices which evolved to maintain and restore health.",
+        "Incorrect. The article mentions pharmaceuticals and surgery as typical methods but also lists other therapies like psychotherapy and medical devices.",
+        "Incorrect. The article mentions connections to religious and philosophical beliefs in historical context, but that is not what medicine encompasses today.",
+        "Incorrect. Bloodletting and herbal remedies are examples of prescientific medicine, not the full scope of medicine."
       ]
     },
     {
       "id": 2,
-      "question": "What does the article say about traditional medicine?",
+      "question": "What is the origin of the word 'medicine'?",
       "options": [
-        "It remains commonly used in the absence of scientific medicine and is then called alternative medicine",
-        "It has been completely replaced by modern scientific medicine worldwide",
-        "It is always supported by robust clinical evidence and formal regulatory oversight",
-        "It is synonymous with quackery and fringe science in all cases"
+        "It is derived from Latin 'medicus', meaning 'a physician'",
+        "It comes from Greek 'medos', meaning 'healing'",
+        "It is derived from Old English 'medecin', meaning 'drug'",
+        "It originates from Arabic 'tibb', meaning 'treatment'"
       ],
       "answer_explanations": [
-        "Correct. The article states that prescientific forms of medicine, now known as traditional medicine or folk medicine, remain commonly used in the absence of scientific medicine and are thus called alternative medicine.",
-        "Incorrect. The article notes that in some low-resource regions, populations often rely more heavily on traditional medicine.",
-        "Incorrect. The article says traditional practices may lack formal regulatory oversight or robust evidence for clinical efficacy.",
-        "Incorrect. The article reserves the terms quackery or fringe science for alternative treatments outside scientific medicine with ethical, safety, and efficacy concerns, not all traditional medicine."
+        "Correct. The article says the word 'medicine' is derived from Latin 'medicus', meaning 'a physician'.",
+        "Incorrect. The article does not mention a Greek origin.",
+        "Incorrect. The article does not mention an Old English origin.",
+        "Incorrect. The article does not mention an Arabic origin."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what did a 2007 survey of literature reviews find about medical interventions?",
+      "question": "What is the primary duty emphasized by the Hippocratic Oath according to the article?",
       "options": [
-        "About 49% lacked sufficient evidence to support either benefit or harm",
-        "Nearly all interventions had strong evidence supporting their benefit",
-        "Most interventions were found to be harmful rather than beneficial",
-        "Evidence-based medicine was universally applied in clinical practice"
+        "To 'first, do no harm'",
+        "To always prescribe pharmaceuticals",
+        "To use evidence-based medicine exclusively",
+        "To provide universal health care"
       ],
       "answer_explanations": [
-        "Correct. The article states that a 2007 survey of literature reviews found that about 49% of medical interventions lacked sufficient evidence to support either benefit or harm.",
-        "Incorrect. The article indicates that nearly half of interventions lacked sufficient evidence, not that nearly all had strong evidence.",
-        "Incorrect. The article does not state that most interventions were found to be harmful; it says evidence was lacking for either benefit or harm.",
-        "Incorrect. The article explicitly states that evidence-based medicine is not universally applied in clinical practice."
+        "Correct. The article states that the Hippocratic Oath emphasizes a primary duty to 'first, do no harm.'",
+        "Incorrect. The article does not say the oath requires prescribing pharmaceuticals.",
+        "Incorrect. The article mentions evidence-based medicine but not as a duty of the oath.",
+        "Incorrect. Universal health care is a system, not a duty from the oath."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is listed in the article as one of the four basic actions of physical examination?",
+      "question": "What is the first step in an initial medical encounter as described in the article?",
       "options": [
-        "Palpation",
-        "Biopsy",
-        "Radiography",
-        "Endoscopy"
+        "Reviewing the patient's medical history and medical record",
+        "Ordering blood tests",
+        "Performing a physical examination",
+        "Prescribing pharmaceutical drugs"
       ],
       "answer_explanations": [
-        "Correct. The article lists inspection, palpation, percussion, and auscultation as the four actions that are the basis of physical examination.",
-        "Incorrect. A biopsy is mentioned elsewhere in the article as a possible step after examination, but it is not one of the four basic physical examination actions.",
-        "Incorrect. Radiography is not listed among the four basic actions of physical examination.",
-        "Incorrect. Endoscopy is not listed among the four basic actions of physical examination."
+        "Correct. The article says an initial medical encounter typically begins with a review of the patient's medical history and medical record.",
+        "Incorrect. Blood tests are mentioned as possible after examining and interviewing.",
+        "Incorrect. Physical examination follows the review of history and interview.",
+        "Incorrect. Prescribing drugs is part of treatment, which comes later."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what is the purpose of differential diagnosis methods?",
+      "question": "What is the 'chief complaint' in a medical interview?",
       "options": [
-        "To help rule out conditions based on the information provided",
-        "To confirm a single diagnosis without further testing",
-        "To replace the need for a physical examination",
-        "To determine the patient's insurance coverage for treatment"
+        "The reason for the current medical visit, recorded in the patient's own words",
+        "The patient's family history of diseases",
+        "A list of all medications the patient takes",
+        "The doctor's initial diagnosis"
       ],
       "answer_explanations": [
-        "Correct. The article states that differential diagnosis methods help to rule out conditions based on the information provided.",
-        "Incorrect. The article describes differential diagnosis as a way to rule out conditions, not to confirm a single diagnosis without testing.",
-        "Incorrect. The article does not suggest that differential diagnosis replaces the physical examination.",
-        "Incorrect. The article does not connect differential diagnosis to health insurance coverage."
+        "Correct. The article defines chief complaint as the reason for the current medical visit, recorded in the patient's own words.",
+        "Incorrect. Family history is a separate component.",
+        "Incorrect. Medications are a separate component.",
+        "Incorrect. The chief complaint is from the patient, not the doctor's diagnosis."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following is included in the article's list of components of the medical interview and encounter?",
+      "question": "What are the four basic actions of physical examination mentioned in the article?",
       "options": [
-        "Review of systems",
-        "Surgical consent form",
-        "Insurance pre-authorization",
-        "Hospital discharge summary"
+        "Inspection, palpation, percussion, and auscultation",
+        "Observation, palpation, tapping, and listening",
+        "Inspection, touching, tapping, and smelling",
+        "Looking, feeling, tapping, and hearing"
       ],
       "answer_explanations": [
-        "Correct. The article lists review of systems (ROS) or systems inquiry as one of the components of the medical interview and encounter.",
-        "Incorrect. The article does not list a surgical consent form among the components of the medical interview and encounter.",
-        "Incorrect. Insurance pre-authorization is mentioned later in the context of utilization review, not as a component of the medical interview.",
-        "Incorrect. A hospital discharge summary is not listed among the components of the medical interview and encounter."
+        "Correct. The article lists inspection, palpation, percussion, and auscultation as the four actions.",
+        "Incorrect. The article uses the specific terms inspection, palpation, percussion, and auscultation.",
+        "Incorrect. Smelling is mentioned as a sense used, but not as one of the four actions.",
+        "Incorrect. The article uses the specific terms, not these general words."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is the relationship between signs and symptoms in the context of physical examination?",
+      "question": "What does the article say about the use of traditional medicine in low-resource regions?",
       "options": [
-        "Signs are objective and observable, while symptoms are volunteered by the patient and not necessarily objectively observable",
-        "Symptoms are objective and observable, while signs are volunteered by the patient",
-        "Signs and symptoms are both entirely subjective and rely on patient report",
-        "Signs and symptoms are identical concepts used interchangeably"
+        "Populations often rely more heavily on traditional medicine",
+        "Modern scientific medicine is highly developed and widespread",
+        "Traditional medicine is banned",
+        "Traditional medicine is fully regulated"
       ],
       "answer_explanations": [
-        "Correct. The article states that the physical examination looks for medical signs of disease that are objective and observable, in contrast to symptoms that are volunteered by the patient and are not necessarily objectively observable.",
-        "Incorrect. The article reverses this relationship: signs are objective and observable, while symptoms are volunteered by the patient.",
-        "Incorrect. The article distinguishes signs as objective and observable, not entirely subjective.",
-        "Incorrect. The article treats signs and symptoms as distinct concepts, not identical ones."
+        "Correct. The article states that in some low-resource regions, populations often rely more heavily on traditional medicine.",
+        "Incorrect. That is said about the Western world, not low-resource regions.",
+        "Incorrect. The article does not say traditional medicine is banned.",
+        "Incorrect. The article says traditional medicine may lack formal regulatory oversight."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what did Christian emphasis on practical charity give rise to from ancient times?",
+      "question": "What is the role of the Catholic Church in medical services according to the article?",
       "options": [
-        "The development of systematic nursing and hospitals",
-        "The invention of pharmaceutical drugs",
-        "The establishment of evidence-based medicine",
-        "The creation of universal health care systems"
+        "It is the largest non-government provider of medical services in the world",
+        "It is the largest government provider of medical services",
+        "It only provides spiritual care, not medical services",
+        "It has no role in modern medicine"
       ],
       "answer_explanations": [
-        "Correct. The article states that from ancient times, Christian emphasis on practical charity gave rise to the development of systematic nursing and hospitals.",
-        "Incorrect. The article does not attribute the invention of pharmaceutical drugs to Christian emphasis on practical charity.",
-        "Incorrect. Evidence-based medicine is discussed separately in the article and is not linked to ancient Christian charity.",
-        "Incorrect. Universal health care is described as a system provided by advanced industrial and many developing countries, not as arising from ancient Christian charity."
+        "Correct. The article states that the Catholic Church today remains the largest non-government provider of medical services in the world.",
+        "Incorrect. The article says non-government, not government.",
+        "Incorrect. The article mentions systematic nursing and hospitals from Christian charity.",
+        "Incorrect. The article clearly states its role."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is the old word from which 'physician' derives, and what did it refer to?",
+      "question": "What is the difference between signs and symptoms as described in the article?",
       "options": [
-        "'Physic,' which was the old word for what is now called a medicine and also the field of medicine",
-        "'Medicus,' which meant a surgeon",
-        "'Humorism,' which referred to the four humors theory",
-        "'Palliation,' which meant relief of symptoms without cure"
+        "Signs are objective and observable, while symptoms are volunteered by the patient",
+        "Signs are what the patient feels, while symptoms are what the doctor sees",
+        "Signs are always visible, while symptoms are always invisible",
+        "There is no difference; they are the same"
       ],
       "answer_explanations": [
-        "Correct. The article states that the word 'physic,' from which 'physician' derives, was the old word for what is now called a medicine, and also the field of medicine.",
-        "Incorrect. The article states that 'medicus' is Latin for 'a physician,' not the old word from which 'physician' derives.",
-        "Incorrect. Humorism is mentioned as a theory behind bloodletting, not as the root of 'physician.'",
-        "Incorrect. Palliation is listed as part of medicine's scope but is not the etymological root of 'physician.'"
+        "Correct. The article says signs are objective and observable, while symptoms are volunteered by the patient and not necessarily objectively observable.",
+        "Incorrect. That is the opposite of the article's definition.",
+        "Incorrect. The article does not say that.",
+        "Incorrect. The article clearly distinguishes them."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, which of the following is true about the medical encounter?",
+      "question": "What is the purpose of the 'review of systems' in a medical interview?",
       "options": [
-        "It typically begins with a review of the patient's medical history and medical record",
-        "It always requires a biopsy before any treatment can begin",
-        "It is never documented in the medical record",
-        "It is conducted only by specialists, not by general physicians"
+        "To ask additional questions about the body's main organ systems that may have been missed",
+        "To review the patient's family history",
+        "To list all medications the patient takes",
+        "To document the patient's social and economic status"
       ],
       "answer_explanations": [
-        "Correct. The article states that an initial medical encounter typically begins with a review of the patient's medical history and medical record, followed by a medical interview and physical examination.",
-        "Incorrect. The article mentions biopsy as one possible step after examination, not as a requirement before any treatment.",
-        "Incorrect. The article states that the medical encounter is documented in the medical record, which is a legal document in many jurisdictions.",
-        "Incorrect. The article states that physicians and mid-level practitioners personally assess patients, and specialists follow a similar process; encounters are not limited to specialists."
+        "Correct. The article says the review of systems is a set of additional questions to ask, which may be missed on HPI, including questions on the body's main organ systems.",
+        "Incorrect. Family history is a separate component.",
+        "Incorrect. Medications are a separate component.",
+        "Incorrect. Social history is a separate component."
       ]
     }
   ]

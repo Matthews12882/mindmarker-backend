@@ -9,78 +9,78 @@
       "options": [
         "French",
         "German",
-        "Italian",
-        "British"
+        "English",
+        "American"
       ],
       "answer_explanations": [
-        "Correct. The article states that Louis Pasteur was a French chemist, pharmacist, and microbiologist.",
+        "Correct. The article states that Louis Pasteur was a 'French chemist, pharmacist, and microbiologist'.",
         "Incorrect. The article identifies Pasteur as French, not German.",
-        "Incorrect. The article identifies Pasteur as French, not Italian.",
-        "Incorrect. The article identifies Pasteur as French, not British."
+        "Incorrect. The article identifies Pasteur as French, not English.",
+        "Incorrect. The article identifies Pasteur as French, not American."
       ]
     },
     {
       "id": 2,
-      "question": "Which process is named after Louis Pasteur?",
+      "question": "Which of the following was Louis Pasteur renowned for discovering?",
       "options": [
-        "Pasteurization",
-        "Fermentation",
-        "Vaccination",
-        "Sterilization"
+        "The principles of vaccination, microbial fermentation, and pasteurization",
+        "The theory of relativity",
+        "The structure of DNA",
+        "The laws of motion"
       ],
       "answer_explanations": [
-        "Correct. The article states that pasteurization was named after him.",
-        "Incorrect. Fermentation is not named after Pasteur according to the article.",
-        "Incorrect. Vaccination is not named after Pasteur according to the article.",
-        "Incorrect. Sterilization is not named after Pasteur according to the article."
+        "Correct. The article says Pasteur was 'renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization'.",
+        "Incorrect. The theory of relativity is not mentioned in the article; Pasteur's discoveries were in vaccination, fermentation, and pasteurization.",
+        "Incorrect. The structure of DNA is not mentioned in the article; Pasteur's discoveries were in vaccination, fermentation, and pasteurization.",
+        "Incorrect. The laws of motion are not mentioned in the article; Pasteur's discoveries were in vaccination, fermentation, and pasteurization."
       ]
     },
     {
       "id": 3,
-      "question": "In what year was Louis Pasteur born?",
+      "question": "What process was named after Louis Pasteur?",
       "options": [
-        "1822",
-        "1826",
-        "1840",
-        "1895"
+        "Pasteurization",
+        "Vaccination",
+        "Fermentation",
+        "Sterilization"
       ],
       "answer_explanations": [
-        "Correct. The article gives his birth date as 27 December 1822.",
-        "Incorrect. 1826 is when his family moved to Marnoz, not his birth year.",
-        "Incorrect. 1840 is when he earned his Bachelor of Letters degree.",
-        "Incorrect. 1895 is the year of his death."
+        "Correct. The article states that pasteurization was 'named after him'.",
+        "Incorrect. Vaccination is a principle he discovered, but it was not named after him; pasteurization was.",
+        "Incorrect. Fermentation is a principle he discovered, but it was not named after him; pasteurization was.",
+        "Incorrect. Sterilization is not mentioned in the article; pasteurization was named after him."
       ]
     },
     {
       "id": 4,
-      "question": "Which disease did Pasteur develop a vaccine for, according to the article?",
+      "question": "Which diseases did Pasteur's vaccines help develop protection against?",
       "options": [
-        "Rabies",
-        "Malaria",
-        "Tuberculosis",
-        "Cholera"
+        "Rabies and anthrax",
+        "Measles and mumps",
+        "Chickenpox and shingles",
+        "Influenza and COVID-19"
       ],
       "answer_explanations": [
-        "Correct. The article credits Pasteur with developing vaccines for rabies and anthrax.",
-        "Incorrect. The article does not mention a malaria vaccine by Pasteur.",
-        "Incorrect. The article does not mention a tuberculosis vaccine by Pasteur.",
-        "Incorrect. The article does not mention a cholera vaccine by Pasteur."
+        "Correct. The article says Pasteur's works are credited with saving millions of lives 'through the development of vaccines for rabies and anthrax'.",
+        "Incorrect. Measles and mumps are not mentioned in the article; the vaccines were for rabies and anthrax.",
+        "Incorrect. Chickenpox and shingles are not mentioned in the article; the vaccines were for rabies and anthrax.",
+        "Incorrect. Influenza and COVID-19 are not mentioned in the article; the vaccines were for rabies and anthrax."
       ]
     },
     {
       "id": 5,
-      "question": "What did Pasteur's experiment with sterilized and sealed flasks demonstrate?",
+      "question": "What doctrine did Pasteur disprove?",
       "options": [
-        "Nothing developed in them",
-        "Microorganisms always grew in them",
-        "They spontaneously generated life",
-        "They could not be sterilized"
+        "Spontaneous generation",
+        "Germ theory of diseases",
+        "Theory of evolution",
+        "Heliocentrism"
       ],
       "answer_explanations": [
-        "Correct. The article states that in sterilized and sealed flasks, nothing ever developed.",
-        "Incorrect. The article says microorganisms grew in open flasks, not sealed ones.",
-        "Incorrect. Pasteur disproved spontaneous generation, not demonstrated it.",
-        "Incorrect. The article does not state that the flasks could not be sterilized."
+        "Correct. The article states that 'Pasteur was responsible for disproving the doctrine of spontaneous generation'.",
+        "Incorrect. The germ theory of diseases is something Pasteur supported, not disproved; he disproved spontaneous generation.",
+        "Incorrect. The theory of evolution is not mentioned in the article; Pasteur disproved spontaneous generation.",
+        "Incorrect. Heliocentrism is not mentioned in the article; Pasteur disproved spontaneous generation."
       ]
     },
     {
@@ -88,79 +88,79 @@
       "question": "In what year did the French Academy of Sciences award Pasteur the Alhumbert Prize?",
       "options": [
         "1862",
-        "1857",
         "1887",
+        "1822",
         "1895"
       ],
       "answer_explanations": [
-        "Correct. The article states the academy awarded him the Alhumbert Prize in 1862.",
-        "Incorrect. 1857 is not the year given for the Alhumbert Prize.",
-        "Incorrect. 1887 is when the Pasteur Institute was established.",
-        "Incorrect. 1895 is the year of Pasteur's death."
+        "Correct. The article states that the academy awarded him the Alhumbert Prize 'in 1862'.",
+        "Incorrect. 1887 is the year the Pasteur Institute was established, not the year of the Alhumbert Prize; the prize was in 1862.",
+        "Incorrect. 1822 is the year of Pasteur's birth, not the year of the Alhumbert Prize; the prize was in 1862.",
+        "Incorrect. 1895 is the year of Pasteur's death, not the year of the Alhumbert Prize; the prize was in 1862."
       ]
     },
     {
       "id": 7,
-      "question": "What is Louis Pasteur best known to the general public for inventing?",
+      "question": "What was the amount of the Alhumbert Prize awarded to Pasteur?",
       "options": [
-        "Pasteurization",
-        "The microscope",
-        "The rabies vaccine",
-        "Antiseptic surgery"
+        "2,500 francs",
+        "2,000 francs",
+        "3,000 francs",
+        "5,000 francs"
       ],
       "answer_explanations": [
-        "Correct. The article states he is best known to the general public for his invention of pasteurization.",
-        "Incorrect. The article does not credit Pasteur with inventing the microscope.",
-        "Incorrect. While he developed the rabies vaccine, the article says he is best known for pasteurization.",
-        "Incorrect. The article associates antiseptic methods with Joseph Lister, not Pasteur."
+        "Correct. The article states that the prize carried '2,500 francs'.",
+        "Incorrect. The article specifies 2,500 francs, not 2,000.",
+        "Incorrect. The article specifies 2,500 francs, not 3,000.",
+        "Incorrect. The article specifies 2,500 francs, not 5,000."
       ]
     },
     {
       "id": 8,
-      "question": "What position did Pasteur hold at the Pasteur Institute?",
+      "question": "What is Pasteur best known to the general public for?",
       "options": [
-        "Director",
-        "Founder",
-        "Janitor",
-        "Patient"
+        "Inventing the technique of treating milk and wine to stop bacterial contamination",
+        "Discovering the structure of the atom",
+        "Mapping the human genome",
+        "Inventing the telephone"
       ],
       "answer_explanations": [
-        "Correct. The article states he was the director of the Pasteur Institute until his death.",
-        "Incorrect. While he established it, the question asks what position he held, which the article identifies as director.",
-        "Incorrect. The article does not describe Pasteur as a janitor.",
-        "Incorrect. The article does not describe Pasteur as a patient at the institute."
+        "Correct. The article says 'He is best known to the general public for his invention of the technique of treating milk and wine to stop bacterial contamination, a process now called pasteurization'.",
+        "Incorrect. The structure of the atom is not mentioned in the article; Pasteur is best known for pasteurization.",
+        "Incorrect. The human genome is not mentioned in the article; Pasteur is best known for pasteurization.",
+        "Incorrect. The telephone is not mentioned in the article; Pasteur is best known for pasteurization."
       ]
     },
     {
       "id": 9,
-      "question": "What was Pasteur's father's occupation?",
+      "question": "What field did Pasteur's investigation of sodium ammonium tartrate initiate?",
       "options": [
-        "Tanner",
-        "Chemist",
-        "Farmer",
-        "Teacher"
+        "Optical isomerism",
+        "Nuclear physics",
+        "Genetics",
+        "Astronomy"
       ],
       "answer_explanations": [
-        "Correct. The article states his father was a poor tanner.",
-        "Incorrect. Pasteur himself was a chemist, but his father was a tanner.",
-        "Incorrect. The article does not describe his father as a farmer.",
-        "Incorrect. The article does not describe his father as a teacher."
+        "Correct. The article states that his investigation of sodium ammonium tartrate 'initiated the field of optical isomerism'.",
+        "Incorrect. Nuclear physics is not mentioned in the article; Pasteur initiated optical isomerism.",
+        "Incorrect. Genetics is not mentioned in the article; Pasteur initiated optical isomerism.",
+        "Incorrect. Astronomy is not mentioned in the article; Pasteur initiated optical isomerism."
       ]
     },
     {
       "id": 10,
-      "question": "How many of Pasteur's children survived to adulthood?",
+      "question": "In what year was the Pasteur Institute established?",
       "options": [
-        "Two",
-        "Three",
-        "Five",
-        "None"
+        "1887",
+        "1862",
+        "1822",
+        "1895"
       ],
       "answer_explanations": [
-        "Correct. The article states that Pasteur and Marie Laurent had five children, only two of whom survived to adulthood.",
-        "Incorrect. The article states two survived, not three.",
-        "Incorrect. They had five children total, but only two survived to adulthood.",
-        "Incorrect. The article states two children survived to adulthood."
+        "Correct. The article states that the Pasteur Institute was 'established in 1887'.",
+        "Incorrect. 1862 is the year of the Alhumbert Prize, not the establishment of the institute; the institute was established in 1887.",
+        "Incorrect. 1822 is the year of Pasteur's birth, not the establishment of the institute; the institute was established in 1887.",
+        "Incorrect. 1895 is the year of Pasteur's death, not the establishment of the institute; the institute was established in 1887."
       ]
     }
   ]

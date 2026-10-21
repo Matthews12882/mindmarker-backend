@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "In what year did the Industrial Revolution begin in Great Britain?",
+      "question": "Around what year did the Industrial Revolution begin in Great Britain?",
       "options": [
-        "around 1760",
-        "around 1840",
-        "around 1799",
-        "around 1830"
+        "1760",
+        "1840",
+        "1780",
+        "1870"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Industrial Revolution began in Great Britain around 1760.",
-        "Incorrect. The article says the Industrial Revolution had spread to continental Europe and the United States by about 1840, not that it began then.",
-        "Incorrect. The year 1799 is mentioned as the earliest recorded use of the phrase \"Industrial Revolution,\" not the start of the revolution itself.",
-        "Incorrect. The 1830s is when the term Industrial Revolution became more common, not when the revolution began."
+        "Correct. The article states: 'Beginning in Great Britain around 1760'.",
+        "Incorrect. 1840 is mentioned as when the revolution had spread to continental Europe and the US, not when it began.",
+        "Incorrect. 1780 is not mentioned in the lead as the start date; the lead says 1760.",
+        "Incorrect. 1870 is associated with the Second Industrial Revolution, not the start of the first."
       ]
     },
     {
       "id": 2,
-      "question": "Which industry was the first to use modern production methods during the Industrial Revolution?",
+      "question": "What is the Industrial Revolution sometimes called in contrast to the Second Industrial Revolution?",
       "options": [
-        "the textile industry",
-        "the iron industry",
-        "the steam power industry",
-        "the chemical industry"
+        "First Industrial Revolution",
+        "Second Agricultural Revolution",
+        "Global Economy Revolution",
+        "Textile Revolution"
       ],
       "answer_explanations": [
-        "Correct. The article states that the textile industry was the first to use modern production methods.",
-        "Incorrect. Iron production is listed among new processes, but the article identifies textiles as the first industry to use modern production methods.",
-        "Incorrect. Steam power is described as an enabling technology, not the first industry to adopt modern production methods.",
-        "Incorrect. Chemical manufacturing is mentioned as part of the transition, but not as the first industry to use modern production methods."
+        "Correct. The article says it is 'sometimes called the First Industrial Revolution in contrast to the subsequent Second Industrial Revolution'.",
+        "Incorrect. The Second Agricultural Revolution is mentioned as preceding the Industrial Revolution, not as another name for it.",
+        "Incorrect. The global economy is mentioned, but not as a name for the Industrial Revolution.",
+        "Incorrect. The textile industry is mentioned, but not as a name for the Industrial Revolution."
       ]
     },
     {
       "id": 3,
-      "question": "By what factor did mechanised cotton spinning increase output per worker?",
+      "question": "By about what year had the Industrial Revolution spread to continental Europe and the United States?",
       "options": [
-        "around 500",
-        "around 40",
-        "around 50",
-        "around 15"
+        "1840",
+        "1760",
+        "1780",
+        "1870"
       ],
       "answer_explanations": [
-        "Correct. The article states that mechanised cotton spinning increased output per worker by a factor of around 500.",
-        "Incorrect. A factor of 40 is attributed to the power loom, not mechanised cotton spinning.",
-        "Incorrect. A factor of 50 is attributed to the cotton gin, not mechanised cotton spinning.",
-        "Incorrect. A factor of fifteen is attributed to the rolling mill compared with hammering wrought iron, not cotton spinning."
+        "Correct. The article states: 'the Industrial Revolution had spread to continental Europe and the United States by about 1840'.",
+        "Incorrect. 1760 is when it began in Great Britain, not when it spread.",
+        "Incorrect. 1780 is not mentioned in the lead as the spread date.",
+        "Incorrect. 1870 is associated with later growth, not the spread mentioned."
       ]
     },
     {
       "id": 4,
-      "question": "Which country was the leading commercial nation by the mid-18th century?",
+      "question": "What do economic historians agree is the most important event in human history?",
       "options": [
-        "Britain",
-        "France",
-        "the United States",
-        "China"
+        "The onset of the Industrial Revolution",
+        "The adoption of agriculture",
+        "The invention of the steam engine",
+        "The rise of the factory system"
       ],
       "answer_explanations": [
-        "Correct. The article states that by the mid-18th century, Britain was the leading commercial nation.",
-        "Incorrect. France is mentioned in connection with the earliest recorded use of the term Industrial Revolution, not as the leading commercial nation.",
-        "Incorrect. The United States is mentioned as a destination of the Industrial Revolution's spread, not as the leading commercial nation in the mid-18th century.",
-        "Incorrect. China is mentioned as a prior center of manufacturing, not as the leading commercial nation by the mid-18th century."
+        "Correct. The article says: 'Economic historians agree that the onset of the Industrial Revolution is the most important event in human history'.",
+        "Incorrect. The adoption of agriculture is mentioned as comparable, but not as the most important event.",
+        "Incorrect. The steam engine is mentioned as a development, but not as the most important event.",
+        "Incorrect. The factory system is mentioned as a development, but not as the most important event."
       ]
     },
     {
       "id": 5,
-      "question": "What did the substitution of coke for charcoal greatly lower in iron production?",
+      "question": "Which industry was the first to use modern production methods?",
       "options": [
-        "the fuel cost of pig iron and wrought iron production",
-        "the speed of blast furnace operation",
-        "the need for steam engines",
-        "the demand for iron"
+        "Textile industry",
+        "Iron production",
+        "Chemical manufacturing",
+        "Machine tool industry"
       ],
       "answer_explanations": [
-        "Correct. The article states that substituting coke for charcoal greatly lowered the fuel cost of pig iron and wrought iron production.",
-        "Incorrect. The article says coke allowed larger blast furnaces and economies of scale, not that it lowered the speed of operation.",
-        "Incorrect. The article notes steam engines were used to power blast air, but coke substitution did not remove the need for them.",
-        "Incorrect. The article does not state that coke substitution lowered demand for iron."
+        "Correct. The article states: 'The textile industry was the first to use modern production methods'.",
+        "Incorrect. Iron production is mentioned as a new process, but not as the first to use modern methods.",
+        "Incorrect. Chemical manufacturing is mentioned as a new process, but not as the first.",
+        "Incorrect. Machine tools are mentioned as a development, but not as the first industry."
       ]
     },
     {
       "id": 6,
-      "question": "What was the earliest recorded use of the phrase \"Industrial Revolution\"?",
+      "question": "What became the dominant industry in terms of employment, value of output, and capital invested?",
       "options": [
-        "1799 by French envoy Louis-Guillaume Otto",
-        "1844 by Friedrich Engels",
-        "1837 by JÃ©rÃ´me-Adolphe Blanqui",
-        "1881 by Arnold Toynbee"
+        "Textiles",
+        "Iron",
+        "Steam power",
+        "Chemicals"
       ],
       "answer_explanations": [
-        "Correct. The article states the earliest recorded use of \"Industrial Revolution\" was in 1799 by French envoy Louis-Guillaume Otto.",
-        "Incorrect. Friedrich Engels wrote about an industrial revolution in 1844, but this was not the earliest recorded use.",
-        "Incorrect. JÃ©rÃ´me-Adolphe Blanqui described la rÃ©volution industrielle in 1837, but this was not the earliest recorded use.",
-        "Incorrect. Arnold Toynbee helped popularize the term with lectures in 1881, but this was not the earliest recorded use."
+        "Correct. The article says: 'textiles became the dominant industry in terms of employment, value of output, and capital invested'.",
+        "Incorrect. Iron is mentioned as a new process, but not as the dominant industry.",
+        "Incorrect. Steam power is mentioned as an increasing use, but not as the dominant industry.",
+        "Incorrect. Chemicals are mentioned as a new manufacturing process, but not as dominant."
       ]
     },
     {
       "id": 7,
-      "question": "What happened to the share of cotton cloth manufactured in Britain that was exported between 1760 and 1800?",
+      "question": "What was Britain's GDP per capita compared to the world average by the mid-18th century?",
       "options": [
-        "It rose from one-third to two-thirds",
-        "It fell from two-thirds to one-third",
-        "It remained unchanged",
-        "It rose from one-quarter to one-half"
+        "Considerably over the world average",
+        "Considerably under the world average",
+        "About equal to the world average",
+        "Slightly below the world average"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1760 approximately one-third of cotton cloth manufactured was exported, rising to two-thirds by 1800.",
-        "Incorrect. The article describes an increase, not a decrease, in the export share.",
-        "Incorrect. The article explicitly states the export share changed from one-third to two-thirds.",
-        "Incorrect. The article gives the figures as one-third and two-thirds, not one-quarter and one-half."
+        "Correct. The article states: 'Britain was the leading commercial nation, with GDP per capita considerably over the world average'.",
+        "Incorrect. The article says it was over, not under, the world average.",
+        "Incorrect. The article says it was considerably over, not equal to, the world average.",
+        "Incorrect. The article says it was over, not below, the world average."
       ]
     },
     {
       "id": 8,
-      "question": "Where did most manufacturing take place after the Industrial Revolution?",
+      "question": "What did the transition include going from hand production methods to what?",
       "options": [
-        "North America and Western Europe",
-        "China and India",
-        "South America and Africa",
-        "Russia and Japan"
+        "Machines",
+        "Water power",
+        "Steam power",
+        "Factories"
       ],
       "answer_explanations": [
-        "Correct. The article states that after the Industrial Revolution, most manufacturing took place in North America and Western Europe.",
-        "Incorrect. The article says most manufacturing occurred in China and India prior to the Industrial Revolution, not after.",
-        "Incorrect. The article does not identify South America and Africa as the main manufacturing regions after the Industrial Revolution.",
-        "Incorrect. The article does not identify Russia and Japan as the main manufacturing regions after the Industrial Revolution."
+        "Correct. The article says: 'This transition included going from hand production methods to machines'.",
+        "Incorrect. Water power is mentioned as an increasing use, but not as the replacement for hand production.",
+        "Incorrect. Steam power is mentioned as an increasing use, but not as the replacement for hand production.",
+        "Incorrect. Factories are mentioned as a system, but the transition is specifically to machines."
       ]
     },
     {
       "id": 9,
-      "question": "Which factor enabled industrialisation by freeing up labor and ensuring food surpluses?",
+      "question": "What was the result of the great increase in output?",
       "options": [
-        "high agricultural productivity",
-        "political stability",
-        "abundant natural resources",
-        "access to financial capital"
+        "An unprecedented rise in population",
+        "A decline in population",
+        "A decrease in trade",
+        "A reduction in factory jobs"
       ],
       "answer_explanations": [
-        "Correct. The article states that high agricultural productivity freed up labor and ensured food surpluses.",
-        "Incorrect. Political stability is listed as another enabling factor, but not the one that freed up labor and ensured food surpluses.",
-        "Incorrect. Abundant natural resources supported industrial growth but are not described as freeing up labor and ensuring food surpluses.",
-        "Incorrect. Access to financial capital played a crucial role but is not the factor described as freeing up labor and ensuring food surpluses."
+        "Correct. The article states: 'Output greatly increased, and the result was an unprecedented rise in population and population growth'.",
+        "Incorrect. The article says population rose, not declined.",
+        "Incorrect. The article does not mention a decrease in trade.",
+        "Incorrect. The article does not mention a reduction in factory jobs."
       ]
     },
     {
       "id": 10,
-      "question": "When did rapid growth reoccur after the recession of the late 1830s?",
+      "question": "Where did most manufacturing occur prior to the Industrial Revolution?",
       "options": [
-        "after 1870",
-        "after 1800",
-        "after 1840",
-        "after 1850"
+        "China and India",
+        "North America and Western Europe",
+        "Great Britain",
+        "Continental Europe and the US"
       ],
       "answer_explanations": [
-        "Correct. The article states that rapid growth reoccurred after 1870, springing from new innovations in the Second Industrial Revolution.",
-        "Incorrect. High rates of growth in steam power and iron production occurred after 1800, but this was before the late 1830s recession.",
-        "Incorrect. The electrical telegraph was widely introduced in the 1840s but was not sufficient to drive high rates of growth.",
-        "Incorrect. The article does not identify 1850 as the point when rapid growth reoccurred."
+        "Correct. The article states: 'Prior to the Industrial Revolution, most manufacturing occurred in China and India'.",
+        "Incorrect. North America and Western Europe are where most manufacturing took place after the revolution, not before.",
+        "Incorrect. Great Britain is where the revolution began, but most manufacturing before was in China and India.",
+        "Incorrect. Continental Europe and the US are where the revolution spread, but most manufacturing before was in China and India."
       ]
     }
   ]

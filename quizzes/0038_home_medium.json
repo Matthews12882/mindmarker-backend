@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, which of the following activities is listed as a domestic activity performed within homes?",
+      "question": "What is a home primarily defined as?",
       "options": [
-        "preparing food",
-        "manufacturing goods",
-        "commercial trading",
-        "public speaking"
+        "A space used as a permanent or semi-permanent residence for one or more human occupants",
+        "A building with a roof and walls",
+        "A place where only families live",
+        "A mobile structure such as a boat or trailer"
       ],
       "answer_explanations": [
-        "Correct. The article states that homes provide sheltered spaces where domestic activity can be performed such as sleeping, preparing food, eating, and hygiene.",
-        "Incorrect. The article does not list manufacturing goods as a domestic activity performed within homes.",
-        "Incorrect. Commercial trading is not mentioned in the article as a domestic activity performed in homes.",
-        "Incorrect. Public speaking is not mentioned in the article as a domestic activity performed within homes."
+        "Correct. The article states that a home is 'a space used as a permanent or semi-permanent residence for one or more human occupants'.",
+        "Incorrect. The article defines home as a space used as a residence, not just a building.",
+        "Incorrect. The article says homes can be for one or more occupants, not only families.",
+        "Incorrect. While mobile structures can be homes, the definition is broader."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is described in the article as a mobile physical form of home?",
+      "question": "Which of the following is NOT mentioned as a physical form of a home?",
       "options": [
-        "houseboat",
-        "mudbrick house",
-        "siheyuan compound",
-        "domus"
+        "A cave",
+        "A house",
+        "An apartment",
+        "A houseboat"
       ],
       "answer_explanations": [
-        "Correct. The article lists houseboat among mobile physical forms of homes, alongside trailer and yurt.",
-        "Incorrect. A mudbrick house is described as a static dwelling from ancient Mesopotamia, not a mobile form.",
-        "Incorrect. The siheyuan compound is described as a Chinese residential compound around a courtyard, not a mobile home.",
-        "Incorrect. The domus is described as a multiroom urban house in Ancient Rome, not a mobile form of home."
+        "Correct. The article mentions houses, apartments, houseboats, trailers, and yurts as physical forms, but caves are not listed as a current physical form.",
+        "Incorrect. The article mentions houses as a static form of home.",
+        "Incorrect. The article mentions apartments as a static form of home.",
+        "Incorrect. The article mentions houseboats as a mobile form of home."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say about the relationship between the concept of home and the physical building, according to Kirsten Gram-Hanssen?",
+      "question": "What did early humans likely use as their first homes?",
       "options": [
-        "There is not always a strong relation between the concept of home and the physical building.",
-        "The concept of home is always inseparable from the physical building.",
-        "The physical building is the only valid definition of home.",
-        "Home and physical building are identical concepts across all cultures."
+        "Caves",
+        "Huts",
+        "Longhouses",
+        "Mudbrick houses"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Kirsten Gram-Hanssen: 'It can be argued that historically and cross-culturally there is not always [a] strong relation between the concept of home and the physical building.'",
-        "Incorrect. The article states the opposite â that there is not always a strong relation between home and the physical building.",
-        "Incorrect. The article explicitly says home does not always require a physical building.",
-        "Incorrect. The article indicates the concepts differ and are not identical across cultures."
+        "Correct. The article says 'The earliest homes humans inhabited were likely naturally occurring features such as caves.'",
+        "Incorrect. Huts were built later, as technology progressed.",
+        "Incorrect. Longhouses were built later, as technology progressed.",
+        "Incorrect. Mudbrick houses appeared in the Bronze Age, much later."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following best describes the distinction Joseph Rykwert makes between home and house?",
+      "question": "In Ancient Rome, what did the majority of people live in?",
       "options": [
-        "A house requires a building whereas a home does not.",
-        "A home requires a building whereas a house does not.",
-        "Home and house are always emotionally identical.",
-        "A house is always emotionally neutral while a home is always a building."
+        "Multi-story apartment blocks called insulae",
+        "Large villas with gardens",
+        "Courtyard houses",
+        "Timber-framed huts"
       ],
       "answer_explanations": [
-        "Correct. The article states that Joseph Rykwert distinguished between home and house in their physicality; a house requires a building whereas a home does not.",
-        "Incorrect. The article says a house requires a building, not that a home does.",
-        "Incorrect. The article notes their connotations may differ, with house being emotionally neutral and home evoking personal aspects.",
-        "Incorrect. The article states house is emotionally neutral but does not say home is always a building; in fact it says the opposite."
+        "Correct. The article states that 'the majority resided in multi-story apartment blocks called insulae'.",
+        "Incorrect. The affluent lived in domus, not the majority.",
+        "Incorrect. Courtyard houses were common in other cultures, not ancient Rome.",
+        "Incorrect. Timber-framed huts were more common in post-classical Europe."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what feature was characteristic of Indus Valley Civilisation houses in cities like Mohenjo-daro and Harappa?",
+      "question": "What did the Chinese siheyuan compound feature?",
       "options": [
-        "private wells, indoor bathrooms with drainage, and south-facing courtyards",
-        "mudbrick construction with flat roofs",
-        "residential quarters with light wells and lustral basins",
-        "multiroom urban houses built around an atrium"
+        "Multigenerational living around a northâsouth axis courtyard",
+        "A central hall and private solar chambers",
+        "Inward-facing courtyards with water features",
+        "Rusticated facades and symmetrical floor plans"
       ],
       "answer_explanations": [
-        "Correct. The article states that Indus Valley cities featured two-story houses with private wells, indoor bathrooms with drainage, and south-facing courtyards engineered for ventilation.",
-        "Incorrect. Mudbrick construction with flat roofs is described as characteristic of Ancient Egyptian town layouts, not the Indus Valley Civilisation.",
-        "Incorrect. Light wells and lustral basins are described as features of the Minoan palace at Knossos on Crete.",
-        "Incorrect. Multiroom urban houses built around an atrium describe the Roman domus, not Indus Valley houses."
+        "Correct. The article says the siheyuan 'offered multigenerational living around a northâsouth axis courtyard'.",
+        "Incorrect. That describes medieval manor houses in Europe.",
+        "Incorrect. That describes Islamic courtyard houses.",
+        "Incorrect. That describes Renaissance palaces like the Palazzo Medici Riccardi."
       ]
     },
     {
       "id": 6,
-      "question": "Based on the article, which of the following best describes the medieval Islamic inward-facing courtyard house?",
+      "question": "According to the article, what did the phrase 'The Englishman's home is his castle' popularise?",
       "options": [
-        "Private residences organized around shaded central courts with water features, mashrabiya screens, and decorated plasterwork and tile.",
-        "Timber-framed hall houses with jettied upper floors lining narrow streets.",
-        "Stone manor houses with great halls and defensive features.",
-        "Multigenerational compounds around a northâsouth axis courtyard with ancillary rooms for servants."
+        "The notion of home as house",
+        "The idea of home as a sanctuary",
+        "The concept of smart homes",
+        "The importance of home repair"
       ],
       "answer_explanations": [
-        "Correct. The article describes Islamic world residences as organized around shaded central courts with water features, mashrabiya screens for ventilation and privacy, and richly decorated plasterwork and tile.",
-        "Incorrect. Timber-framed hall houses with jettied upper floors are described as features of medieval European towns, not the Islamic world.",
-        "Incorrect. Stone manor houses with great halls and defensive features are described as elite dwellings in post-classical Europe.",
-        "Incorrect. The siheyuan compound with multigenerational living around a northâsouth axis courtyard is described as an East Asian, specifically Chinese, form."
+        "Correct. The article says the phrase 'popularised the notion of home as house'.",
+        "Incorrect. The sanctuary idea came later in the 20th century.",
+        "Incorrect. Smart homes are a modern concept.",
+        "Incorrect. Home repair is unrelated to this phrase."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, how was homelessness perceived from the 14th to the 16th century?",
+      "question": "What is a houseboat?",
       "options": [
-        "as a 'vagrancy problem' with legislative responses predicated on the threat it may pose to the state",
-        "as a desirable lifestyle choice",
-        "as a condition requiring immediate government housing",
-        "as a purely religious matter"
+        "A boat designed or modified to be used primarily as a home",
+        "A prefabricated structure on a chassis",
+        "A portable tent covered with skins or felt",
+        "A house on a float"
       ],
       "answer_explanations": [
-        "Correct. The article states that from the 14th to the 16th century, homelessness was perceived of as a 'vagrancy problem' and legislative responses were predicated upon the threat it may pose to the state.",
-        "Incorrect. The article does not describe homelessness as a desirable lifestyle choice during this period.",
-        "Incorrect. The article does not mention immediate government housing as a response to homelessness in this period.",
-        "Incorrect. The article frames homelessness as a vagrancy problem and state threat, not a purely religious matter."
+        "Correct. The article defines a houseboat as 'a boat that has been designed or modified to be used primarily as a home'.",
+        "Incorrect. That describes a mobile home.",
+        "Incorrect. That describes a yurt.",
+        "Incorrect. That describes a float house, which is a separate term."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following best describes a housing cooperative as defined in the article?",
+      "question": "What is a housing cooperative?",
       "options": [
-        "a legal entity which owns real estate consisting of one or more residential buildings",
-        "a single-family home owned by an individual",
-        "a rental agreement between a landlord and tenant",
-        "a mobile structure built on a permanently attached chassis"
+        "A legal entity which owns real estate consisting of one or more residential buildings",
+        "A type of single-family home",
+        "A condominium",
+        "A rental apartment"
       ],
       "answer_explanations": [
-        "Correct. The article defines a housing cooperative as a legal entity which owns real estate consisting of one or more residential buildings.",
-        "Incorrect. A single-family home is described as a different residential arrangement, distinct from a housing cooperative.",
-        "Incorrect. Renting is listed as a separate residential arrangement from housing cooperatives.",
-        "Incorrect. A mobile structure built on a permanently attached chassis describes a mobile home, not a housing cooperative."
+        "Correct. The article defines a housing cooperative as 'a legal entity which owns real estate consisting of one or more residential buildings'.",
+        "Incorrect. It is a distinct form of home ownership, not a single-family home.",
+        "Incorrect. It differs from condominiums.",
+        "Incorrect. It is a form of housing tenure, not simply a rental."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is a yurt or ger?",
+      "question": "What is the difference between home repair and renovation?",
       "options": [
-        "a portable round tent covered with skins or felt used as a dwelling by nomadic groups in the steppes of Central Asia",
-        "a multi-story apartment block in Ancient Rome",
-        "a factory-built prefabricated structure on a chassis",
-        "a mudbrick house with a flat roof"
+        "Home repair involves diagnosis and resolution of problems, while renovation is not the same",
+        "Home repair is always done by professionals",
+        "Renovation is a type of repair",
+        "There is no difference"
       ],
       "answer_explanations": [
-        "Correct. The article describes a traditional yurt or ger as a portable round tent covered with skins or felt used as a dwelling by nomadic groups in the steppes of Central Asia.",
-        "Incorrect. A multi-story apartment block in Ancient Rome is called an insula, not a yurt.",
-        "Incorrect. A factory-built prefabricated structure on a chassis describes a mobile home, not a yurt.",
-        "Incorrect. A mudbrick house with a flat roof is associated with Ancient Egyptian dwellings, not yurts."
+        "Correct. The article states 'Home repair is not the same as renovation' and defines repair as diagnosis and resolution of problems.",
+        "Incorrect. Many repairs are DIY projects.",
+        "Incorrect. The article implies they are different, not that renovation is a type of repair.",
+        "Incorrect. The article explicitly says they are not the same."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, which of the following is a characteristic of a mobile home?",
+      "question": "According to the article, what did the concept of home become associated with by the 18th century?",
       "options": [
-        "a prefabricated structure built in a factory on a permanently attached chassis before being transported to site",
-        "a naturally occurring cave used for shelter",
-        "a multiroom urban house built around an atrium",
-        "a stationary boat never capable of operation under its own power"
+        "Women",
+        "Men",
+        "Children",
+        "The elderly"
       ],
       "answer_explanations": [
-        "Correct. The article defines a mobile home as a prefabricated structure built in a factory on a permanently attached chassis before being transported to site.",
-        "Incorrect. A naturally occurring cave used for shelter is described as one of the earliest homes humans inhabited, not a mobile home.",
-        "Incorrect. A multiroom urban house built around an atrium describes a Roman domus.",
-        "Incorrect. The article notes that some houseboats are not motorized, but mobile homes are defined as prefabricated structures on a chassis, not boats."
+        "Correct. The article mentions 'the longstanding association between home and women'.",
+        "Incorrect. The article specifically links home to women, not men.",
+        "Incorrect. Children are not mentioned in this context.",
+        "Incorrect. The elderly are not mentioned in this context."
       ]
     }
   ]

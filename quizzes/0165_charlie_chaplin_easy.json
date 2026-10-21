@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "In which year did Charlie Chaplin die?",
+      "question": "What was Charlie Chaplin's full name?",
       "options": [
-        "1977",
-        "1975",
-        "1980",
-        "1969"
+        "Sir Charles Spencer Chaplin Jr.",
+        "Charlie Spencer Chaplin",
+        "Charles Chaplin Sr.",
+        "Sir Charlie Chaplin"
       ],
       "answer_explanations": [
-        "Correct. The article states that Chaplin died on 25 December 1977.",
-        "Incorrect. The article provides his death date as 25 December 1977, not 1975.",
-        "Incorrect. The article indicates his death year was 1977, not 1980.",
-        "Incorrect. The article records his death in 1977, not 1969."
+        "Correct. The article states his full name as 'Sir Charles Spencer Chaplin Jr.'",
+        "Incorrect. The article gives his full name as 'Sir Charles Spencer Chaplin Jr.', not 'Charlie Spencer Chaplin'.",
+        "Incorrect. The article gives his full name as 'Sir Charles Spencer Chaplin Jr.', not 'Charles Chaplin Sr.'.",
+        "Incorrect. The article gives his full name as 'Sir Charles Spencer Chaplin Jr.', not 'Sir Charlie Chaplin'."
       ]
     },
     {
       "id": 2,
-      "question": "Which studio released Chaplin's first film, *Making a Living*, in 1914?",
+      "question": "When was Charlie Chaplin born?",
       "options": [
-        "Keystone Studios",
-        "Essanay Studios",
-        "Mutual Film",
-        "First National Pictures"
+        "16 April 1889",
+        "25 December 1977",
+        "16 April 1899",
+        "25 December 1889"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that Chaplin signed with the New York Motion Picture Company, which was associated with Keystone Studios, and his first film was released under that studio.",
-        "Incorrect. While Chaplin later worked at Essanay Studios, his debut film was released by Keystone Studios.",
-        "Incorrect. Mutual Film and First National Pictures were later affiliations, not the studio for his debut.",
-        "Incorrect. First National Pictures was a later affiliation, not the studio for his first film."
+        "Correct. The article states he was born on '16 April 1889'.",
+        "Incorrect. That is his date of death, not his birth date.",
+        "Incorrect. The article gives his birth date as 16 April 1889, not 1899.",
+        "Incorrect. The article gives his birth date as 16 April 1889, not 25 December 1889."
       ]
     },
     {
       "id": 3,
-      "question": "What was the name of Chaplin's screen persona?",
+      "question": "In which era did Charlie Chaplin rise to fame?",
       "options": [
-        "the Tramp",
-        "the Little Tramp",
-        "the Wanderer",
-        "the Comedian"
+        "The era of silent film",
+        "The era of sound film",
+        "The Victorian era",
+        "The era of television"
       ],
       "answer_explanations": [
-        "Correct. The article repeatedly refers to his screen persona as \"the Tramp\".",
-        "Incorrect. Although sometimes called \"the Little Tramp,\" the article uses \"the Tramp.\"",
-        "Incorrect. The article does not mention a persona named \"the Wanderer.\"",
-        "Incorrect. The article does not list \"the Comedian\" as his persona."
+        "Correct. The article says he 'rose to fame in the era of silent film'.",
+        "Incorrect. The article specifies the era of silent film, not sound film.",
+        "Incorrect. The Victorian era is mentioned as part of his childhood, not as the era of his fame.",
+        "Incorrect. The article does not mention television as the era of his fame."
       ]
     },
     {
       "id": 4,
-      "question": "Which film marked Chaplin's directorial debut?",
+      "question": "What was the name of Charlie Chaplin's screen persona?",
       "options": [
-        "Caught in the Rain",
-        "Mabel's Strange Predicament",
-        "Kid Auto Races at Venice",
-        "Mabel at the Wheel"
+        "The Tramp",
+        "The Clown",
+        "The Vagabond",
+        "The Jester"
       ],
       "answer_explanations": [
-        "Correct. The article states that *Caught in the Rain* was Chaplin's directorial debut and was highly successful.",
-        "Incorrect. *Mabel's Strange Predicament* was his second film but not his directorial debut.",
-        "Incorrect. *Kid Auto Races at Venice* was an early film featuring the Tramp but not his directorial debut.",
-        "Incorrect. *Mabel at the Wheel* was a film he appeared in but not his directorial debut."
+        "Correct. The article states he became a worldwide icon through his screen persona, 'the Tramp'.",
+        "Incorrect. The article identifies his screen persona as the Tramp, not the Clown.",
+        "Incorrect. The article identifies his screen persona as the Tramp, not the Vagabond.",
+        "Incorrect. The article identifies his screen persona as the Tramp, not the Jester."
       ]
     },
     {
       "id": 5,
-      "question": "In which year did Chaplin co-found United Artists?",
+      "question": "How long did Charlie Chaplin's career span?",
       "options": [
-        "1919",
-        "1920",
-        "1915",
-        "1925"
+        "More than 75 years",
+        "Exactly 50 years",
+        "About 60 years",
+        "Less than 20 years"
       ],
       "answer_explanations": [
-        "Correct. The article says Chaplin co-founded United Artists in 1919.",
-        "Incorrect. The article records United Artists' founding in 1919, not 1920.",
-        "Incorrect. The article indicates United Artists was founded in 1919, not 1915.",
-        "Incorrect. The article mentions United Artists' founding in 1919, not 1925."
+        "Correct. The article says his career 'spanned more than 75 years'.",
+        "Incorrect. The article says his career spanned more than 75 years, not exactly 50.",
+        "Incorrect. The article says his career spanned more than 75 years, not about 60.",
+        "Incorrect. The article says his career spanned more than 75 years, not less than 20."
       ]
     },
     {
       "id": 6,
-      "question": "Which film was Chaplin's first sound film?",
+      "question": "Where was Charlie Chaplin's childhood spent?",
       "options": [
-        "The Great Dictator",
-        "City Lights",
-        "Modern Times",
-        "The Circus"
+        "In London",
+        "In New York",
+        "In Paris",
+        "In Switzerland"
       ],
       "answer_explanations": [
-        "Correct. The article states that *The Great Dictator* (1940) was his first sound film.",
-        "Incorrect. *City Lights* (1931) and *Modern Times* (1936) were made without dialogue, not sound films.",
-        "Incorrect. *Modern Times* was a silent film with intertitles, not a sound film.",
-        "Incorrect. *The Circus* (1928) was a silent film."
+        "Correct. The article states 'Chaplin's childhood in London was one of poverty and hardship'.",
+        "Incorrect. The article does not mention New York as his childhood location.",
+        "Incorrect. The article does not mention Paris as his childhood location.",
+        "Incorrect. The article does not mention Switzerland as his childhood location."
       ]
     },
     {
       "id": 7,
-      "question": "What was the cause of Hannah Chaplin's mental illness?",
+      "question": "How many times was Chaplin sent to a workhouse before the age of nine?",
       "options": [
-        "syphilis and malnutrition",
-        "tuberculosis",
-        "cancer",
-        "heart disease"
+        "Twice",
+        "Once",
+        "Three times",
+        "Never"
       ],
       "answer_explanations": [
-        "Correct. The article says Hannah developed psychosis brought on by an infection of syphilis and malnutrition.",
-        "Incorrect. The article does not list tuberculosis as the cause.",
-        "Incorrect. Cancer is not mentioned as the cause.",
-        "Incorrect. Heart disease is not cited as the cause."
+        "Correct. The article states he 'was sent to a workhouse twice before the age of nine'.",
+        "Incorrect. The article says he was sent twice, not once.",
+        "Incorrect. The article says he was sent twice, not three times.",
+        "Incorrect. The article says he was sent twice, so he was sent at least once."
       ]
     },
     {
       "id": 8,
-      "question": "Which film was released first: *The Kid* or *A Woman of Paris*?",
+      "question": "At what age was Chaplin's mother committed to a mental asylum?",
       "options": [
-        "The Kid",
-        "A Woman of Paris",
-        "The Gold Rush",
-        "The Circus"
+        "When he was 14",
+        "When he was 9",
+        "When he was 19",
+        "When he was 25"
       ],
       "answer_explanations": [
-        "Correct. The article lists *The Kid* (1921) as his first feature-length film, followed by *A Woman of Paris* (1923).",
-        "Incorrect. *A Woman of Paris* was released after *The Kid*.",
-        "Incorrect. *The Gold Rush* (1925) was released after both.",
-        "Incorrect. *The Circus* (1928) was later."
+        "Correct. The article states 'When he was 14, his mother was committed to a mental asylum'.",
+        "Incorrect. The article says he was 14, not 9.",
+        "Incorrect. The article says he was 14, not 19.",
+        "Incorrect. The article says he was 14, not 25."
       ]
     },
     {
       "id": 9,
-      "question": "Which organization investigated Chaplin in the 1940s?",
+      "question": "At what age was Chaplin signed to the Fred Karno company?",
       "options": [
-        "Federal Bureau of Investigation",
-        "Central Intelligence Agency",
-        "Secret Service",
-        "Department of Homeland Security"
+        "At 19",
+        "At 14",
+        "At 21",
+        "At 25"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the Federal Bureau of Investigation opened an investigation.",
-        "Incorrect. The CIA was not involved in his investigation.",
-        "Incorrect. The Secret Service was not mentioned.",
-        "Incorrect. The Department of Homeland Security did not exist then."
+        "Correct. The article states 'At 19, he was signed to the Fred Karno company'.",
+        "Incorrect. The article says he was 19, not 14.",
+        "Incorrect. The article says he was 19, not 21.",
+        "Incorrect. The article says he was 19, not 25."
       ]
     },
     {
       "id": 10,
-      "question": "What award did Chaplin receive in 1972?",
+      "question": "In which year did Chaplin gain widespread popularity through Keystone Studios films?",
       "options": [
-        "Honorary Academy Award",
-        "Oscar for Best Actor",
-        "Golden Globe",
-        "BAFTA"
+        "1914",
+        "1915",
+        "1918",
+        "1919"
       ],
       "answer_explanations": [
-        "Correct. The article states he received an Honorary Academy Award in 1972.",
-        "Incorrect. He did not win Best Actor for that year.",
-        "Incorrect. The Golden Globe is not mentioned as an award he received in 1972.",
-        "Incorrect. The BAFTA award is not noted in the article."
+        "Correct. The article states 'In 1914, Chaplin gained widespread popularity through his appearances in Keystone Studios films'.",
+        "Incorrect. The article says 1914, not 1915.",
+        "Incorrect. The article says 1914, not 1918.",
+        "Incorrect. The article says 1914, not 1919."
       ]
     }
   ]

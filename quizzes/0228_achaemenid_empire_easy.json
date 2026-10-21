@@ -9,14 +9,14 @@
       "options": [
         "Cyrus the Great",
         "Alexander the Great",
-        "Darius the Great",
-        "Cambyses II"
+        "Darius I",
+        "Xerxes I"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Achaemenid Empire was founded by Cyrus the Great in 550 BC.",
-        "Incorrect. Alexander the Great conquered the Achaemenid Empire in 330 BC; he did not found it.",
-        "Incorrect. Darius the Great wrote the Behistun Inscription but did not found the empire.",
-        "Incorrect. Cambyses II was Cyrus's eldest son and successor, not the founder."
+        "Correct. The article states that the Achaemenid Empire was 'founded by Cyrus the Great'.",
+        "Incorrect. Alexander the Great conquered the empire, but he did not found it.",
+        "Incorrect. Darius I is not mentioned in the article as the founder.",
+        "Incorrect. Xerxes I is not mentioned in the article as the founder."
       ]
     },
     {
@@ -24,143 +24,143 @@
       "question": "In what year was the Achaemenid Empire founded?",
       "options": [
         "550 BC",
-        "539 BC",
-        "330 BC",
-        "490 BC"
+        "513 BC",
+        "336 BC",
+        "323 BC"
       ],
       "answer_explanations": [
-        "Correct. The article states the empire was founded by Cyrus the Great in 550 BC.",
-        "Incorrect. 539 BC is when Cyrus captured Babylon, not when the empire was founded.",
-        "Incorrect. 330 BC is when Alexander the Great conquered the empire.",
-        "Incorrect. 490 BC is part of the period when the empire was repulsed from Greece."
+        "Correct. The article says the empire was founded 'in 550 BC'.",
+        "Incorrect. 513 BC is mentioned as the year the empire was repulsed from Scythia, not the founding year.",
+        "Incorrect. 336 BC is mentioned as the start of the Macedonian military campaign, not the founding year.",
+        "Incorrect. 323 BC is mentioned as the year of Alexander's death, not the founding year."
       ]
     },
     {
       "id": 3,
-      "question": "Which region was the Achaemenid Empire based in?",
+      "question": "At its peak, the Achaemenid Empire covered roughly how many square kilometres?",
       "options": [
-        "the Iranian plateau",
-        "the Balkans",
-        "the Indus Valley",
-        "Central Asia"
+        "5.5 million square kilometres",
+        "2.1 million square kilometres",
+        "7.5 million square kilometres",
+        "10 million square kilometres"
       ],
       "answer_explanations": [
-        "Correct. The article states the empire was based in the Iranian plateau.",
-        "Incorrect. The Balkans were part of the empire's western extent, not its base.",
-        "Incorrect. The Indus Valley marked the empire's eastern extent.",
-        "Incorrect. Central Asia was included in the empire but was not its base."
+        "Correct. The article states its territorial extent was 'roughly 5.5 million square kilometres'.",
+        "Incorrect. 2.1 million square miles is the equivalent in miles, not square kilometres.",
+        "Incorrect. This figure is not mentioned in the article.",
+        "Incorrect. This figure is not mentioned in the article."
       ]
     },
     {
       "id": 4,
-      "question": "Who conquered the Achaemenid Empire in 330 BC?",
+      "question": "Where was the Achaemenid Empire based?",
       "options": [
-        "Alexander the Great",
-        "Cyrus the Great",
-        "Darius the Great",
-        "Cambyses II"
+        "The Iranian plateau",
+        "The Balkans",
+        "The Indus Valley",
+        "Central Asia"
       ],
       "answer_explanations": [
-        "Correct. The article states the Achaemenid Empire was conquered in its entirety by Alexander the Great in 330 BC.",
-        "Incorrect. Cyrus the Great founded the empire; he did not conquer it in 330 BC.",
-        "Incorrect. Darius the Great wrote the Behistun Inscription but did not conquer the empire in 330 BC.",
-        "Incorrect. Cambyses II was a successor of Cyrus, not the conqueror in 330 BC."
+        "Correct. The article says the empire was 'Based in the Iranian plateau'.",
+        "Incorrect. The Balkans are listed as part of the empire's western extent, not its base.",
+        "Incorrect. The Indus Valley is listed as part of the empire's eastern extent, not its base.",
+        "Incorrect. Central Asia is listed as part of the empire's territory, not its base."
       ]
     },
     {
       "id": 5,
-      "question": "What is the approximate peak territorial extent of the Achaemenid Empire?",
+      "question": "Which of the following regions was part of the Achaemenid Empire's territory?",
       "options": [
-        "5.5 million square kilometres",
-        "2.1 million square kilometres",
-        "5.5 million square miles",
-        "2.1 million square kilometres"
+        "Anatolia",
+        "Scythia",
+        "Greece",
+        "Macedonia"
       ],
       "answer_explanations": [
-        "Correct. The article states the territorial extent was roughly 5.5 million square kilometres at peak.",
-        "Incorrect. 2.1 million square miles is the equivalent figure in square miles, not square kilometres.",
-        "Incorrect. 5.5 million square miles is not the figure given in the article.",
-        "Incorrect. 2.1 million square kilometres is not the figure given in the article."
+        "Correct. The article lists Anatolia as one of the regions included in the empire.",
+        "Incorrect. The article says the empire was repulsed from Scythia, so it was not part of the empire.",
+        "Incorrect. The article says the empire was repulsed from Greece, so it was not part of the empire.",
+        "Incorrect. Macedonia is not mentioned as part of the empire's territory."
       ]
     },
     {
       "id": 6,
-      "question": "Which empire did Cyrus defeat to mark the establishment of the Achaemenid Empire?",
+      "question": "Which of the following peoples had settled in Persis by the 7th century BC?",
       "options": [
-        "Media",
-        "Greece",
-        "Macedonia",
-        "Parthia"
+        "Persian people",
+        "Median people",
+        "Lydian people",
+        "Babylonian people"
       ],
       "answer_explanations": [
-        "Correct. The article states Cyrus defeated Media, Lydia, and the Neo-Babylonian Empire, marking the establishment of the new imperial polity.",
-        "Incorrect. The empire was repulsed from Greece; Cyrus did not defeat Greece to establish the empire.",
-        "Incorrect. Macedonia is not mentioned as being defeated by Cyrus in the establishment of the empire.",
-        "Incorrect. The Parthian Empire was established almost a century after Alexander's death, not by Cyrus."
+        "Correct. The article states that 'the region of Persis... had been settled by Persian people'.",
+        "Incorrect. The Medes are mentioned as a people Cyrus defeated, not as settlers of Persis.",
+        "Incorrect. The Lydians are mentioned as a people Cyrus defeated, not as settlers of Persis.",
+        "Incorrect. The Neo-Babylonian Empire is mentioned as defeated by Cyrus, not as settlers of Persis."
       ]
     },
     {
       "id": 7,
-      "question": "Who is credited as the progenitor of the Achaemenid dynasty?",
+      "question": "Which of the following did Cyrus the Great NOT defeat according to the article?",
       "options": [
-        "Achaemenes",
-        "Cyrus the Great",
-        "Darius the Great",
-        "Alexander the Great"
+        "The Greeks",
+        "Media",
+        "Lydia",
+        "The Neo-Babylonian Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states the empire is named after Achaemenes, who is credited as the progenitor of the Achaemenid dynasty.",
-        "Incorrect. Cyrus the Great founded the empire but is not called the progenitor of the dynasty.",
-        "Incorrect. Darius the Great wrote the Behistun Inscription but is not the progenitor.",
-        "Incorrect. Alexander the Great conquered the empire; he is unrelated to the dynasty's origins."
+        "Correct. The article says Cyrus defeated Media, Lydia, and the Neo-Babylonian Empire, but does not mention defeating the Greeks.",
+        "Incorrect. The article says Cyrus defeated Media.",
+        "Incorrect. The article says Cyrus defeated Lydia.",
+        "Incorrect. The article says Cyrus defeated the Neo-Babylonian Empire."
       ]
     },
     {
       "id": 8,
-      "question": "Which two official languages were used across the Achaemenid Empire's territories?",
+      "question": "In what year was the Achaemenid Empire conquered by Alexander the Great?",
       "options": [
-        "Persian and Aramaic",
-        "Greek and Latin",
-        "Old Persian and Elamite",
-        "Aramaic and Babylonian"
+        "330 BC",
+        "513 BC",
+        "492 BC",
+        "323 BC"
       ],
       "answer_explanations": [
-        "Correct. The article lists Persian and Aramaic as the official languages used across the territories.",
-        "Incorrect. Greek and Latin are not mentioned as official languages of the empire.",
-        "Incorrect. Elamite is not listed as one of the two official languages.",
-        "Incorrect. Babylonian is not listed as one of the two official languages."
+        "Correct. The article states the empire was conquered 'in 330 BC'.",
+        "Incorrect. 513 BC is mentioned as the year of the repulse from Scythia, not the conquest.",
+        "Incorrect. 492â490 BC is mentioned as a period of repulse from Greece, not the conquest.",
+        "Incorrect. 323 BC is mentioned as the year of Alexander's death, not the conquest."
       ]
     },
     {
       "id": 9,
-      "question": "What happened to the majority of the former Achaemenid Empire's territories after Alexander's death in 323 BC?",
+      "question": "After Alexander's death, which empire came to rule most of the former Achaemenid territories?",
       "options": [
-        "They came under the rule of the Seleucid Empire and the Ptolemaic Kingdom",
-        "They were reunited under Cyrus the Great",
-        "They became part of the Parthian Empire immediately",
-        "They were divided among Greek city-states"
+        "The Seleucid Empire",
+        "The Parthian Empire",
+        "The Sasanian Empire",
+        "The Macedonian Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states that upon Alexander's death in 323 BC, the majority of former Achaemenid territories came under the rule of the Seleucid Empire and the Ptolemaic Kingdom.",
-        "Incorrect. Cyrus the Great lived long before Alexander's death.",
-        "Incorrect. The Parthian Empire was established almost a century later, not immediately.",
-        "Incorrect. The article does not say the territories were divided among Greek city-states."
+        "Correct. The article says 'the majority of the former Achaemenid Empire's territories came under the rule of the Seleucid Empire'.",
+        "Incorrect. The Parthian Empire was established later, after the Seleucids, not immediately after Alexander's death.",
+        "Incorrect. The Sasanian Empire succeeded the Parthian Empire much later.",
+        "Incorrect. The Macedonian Empire was Alexander's own empire, not a successor to the Achaemenid territories after his death."
       ]
     },
     {
       "id": 10,
-      "question": "From which region did Cyrus rise to establish the empire?",
+      "question": "Which of the following is mentioned as a feature of the Achaemenid Empire's administration?",
       "options": [
-        "Persis",
-        "Media",
-        "Lydia",
-        "Babylonia"
+        "Centralized bureaucracy",
+        "A democratic assembly",
+        "A feudal system",
+        "A theocratic government"
       ],
       "answer_explanations": [
-        "Correct. The article states that from Persis, Cyrus rose and defeated Media, Lydia, and the Neo-Babylonian Empire.",
-        "Incorrect. Media was defeated by Cyrus, not the region from which he rose.",
-        "Incorrect. Lydia was defeated by Cyrus, not the region from which he rose.",
-        "Incorrect. Babylonia was defeated by Cyrus, not the region from which he rose."
+        "Correct. The article mentions its 'centralized bureaucracy and administration'.",
+        "Incorrect. A democratic assembly is not mentioned in the article.",
+        "Incorrect. A feudal system is not mentioned in the article.",
+        "Incorrect. A theocratic government is not mentioned in the article."
       ]
     }
   ]

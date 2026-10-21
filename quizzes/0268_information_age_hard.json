@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what technological advance is linked to the onset of the Information Age?",
+      "question": "Why does the article's description of the digital revolution imply that digital copies are fundamentally different from analog copies?",
       "options": [
-        "The development of the transistor in 1947",
-        "The invention of the World Wide Web in 1989",
-        "The introduction of the personal computer in the 1970s",
-        "The deployment of the T-carrier in 1962"
+        "Digital copies can be made identical to the original, whereas analog copies degrade with each generation.",
+        "Digital copies are always smaller in size than analog copies.",
+        "Digital copies require physical media, while analog copies do not.",
+        "Digital copies are only possible with the use of transistors."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The onset of the Information Age has been linked to the development of the transistor in 1947.'",
-        "Incorrect. The World Wide Web was invented in 1989, but the article links the onset of the Information Age to the transistor in 1947.",
-        "Incorrect. The personal computer was introduced in the 1970s, but the article identifies the transistor in 1947 as linked to the onset of the Information Age.",
-        "Incorrect. AT&T deployed the T-carrier in 1962, but the article associates the onset of the Information Age with the transistor's development in 1947."
+        "Correct. The article states that the digital revolution made it possible to make copies that were identical to the original, and that repeating hardware could amplify the digital signal with no loss of information, implying that analog copies would suffer from generational loss.",
+        "Incorrect. The article does not discuss the size of digital versus analog copies; it focuses on the fidelity of the copy.",
+        "Incorrect. The article does not claim that digital copies require physical media; in fact, it highlights the ability to access or distribute digital information remotely.",
+        "Incorrect. While transistors are linked to the Information Age's onset, the article does not state that digital copies are only possible with transistors."
       ]
     },
     {
       "id": 2,
-      "question": "What did the United Nations Public Administration Network identify as the driving force of social evolution in the Information Age?",
+      "question": "How does the article's account of the transition from analog to digitally recorded music illustrate a broader theme of the Information Age?",
       "options": [
-        "Modernized information systems and internet communications",
-        "The development of the transistor in 1947",
-        "The shift from traditional industries to an economy centered on information technology",
-        "The invention of the World Wide Web"
+        "It shows how a key consumer technology shift (from vinyl and cassettes to CDs) exemplified the move from analog to digital formats that defined the era.",
+        "It proves that the music industry was the first sector to adopt digital technology.",
+        "It indicates that the Information Age began in the 1980s with the CD.",
+        "It demonstrates that digital formats were initially more popular than analog ones."
       ],
       "answer_explanations": [
-        "Correct. The article states that computer miniaturization advances led to 'modernized information systems and internet communications as the driving force of social evolution.'",
-        "Incorrect. The transistor's development is linked to the onset of the Information Age, but the UN Public Administration Network specifically identified modernized information systems and internet communications as the driving force of social evolution.",
-        "Incorrect. This describes the general characterization of the Information Age, not the specific driving force of social evolution cited by the United Nations Public Administration Network.",
-        "Incorrect. The World Wide Web was invented in 1989, but the article attributes the driving force of social evolution to modernized information systems and internet communications."
+        "Correct. The article cites the change from analog to digitally recorded music, with CDs replacing vinyl records and cassette tapes, as a turning point of the digital revolution, illustrating the broader shift from analog to digital that characterizes the Information Age.",
+        "Incorrect. The article does not claim the music industry was the first to adopt digital technology; it only presents this as one turning point.",
+        "Incorrect. The article states the Information Age began in the mid-20th century, linked to the transistor in 1947, not the 1980s.",
+        "Incorrect. The article says CDs gradually replaced analog formats, implying they became the popular medium of choice over time, not that they were initially more popular."
       ]
     },
     {
       "id": 3,
-      "question": "What key capability of the digital revolution made it possible to make copies identical to the original?",
+      "question": "What does the article's mention of Charles Babbage's Analytical Engine being 'largely forgotten by the 20th century' imply about the development of modern computers?",
       "options": [
-        "The conversion of technology from analog format to digital format",
-        "The development of repeating hardware for digital signals",
-        "The ability to move digital information between media",
-        "The change from analog to digitally recorded music"
+        "It implies that early conceptual work can be overlooked and that modern computer inventors may have independently developed their ideas.",
+        "It implies that Babbage's engine was a failure that had no influence on later computing.",
+        "It implies that all modern computer inventors were unaware of Babbage's work.",
+        "It implies that Babbage's engine was not a general-purpose computer."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The digital revolution converted technology from analog format to digital format. By doing this, it became possible to make copies that were identical to the original.'",
-        "Incorrect. Repeating hardware could amplify digital signals with no loss of information, but the article attributes the ability to make identical copies to the conversion from analog to digital format.",
-        "Incorrect. The ability to move digital information between media was of equal importance to the revolution, but not the specific capability that made identical copies possible.",
-        "Incorrect. The change from analog to digitally recorded music was a turning point of the revolution, but not the capability that enabled identical copies."
+        "Correct. The article states the Analytical Engine was 'largely forgotten by the 20th century, and unknown to most of the inventors of modern computers,' implying that many later inventors were not directly inspired by Babbage and that significant ideas can be lost or rediscovered independently.",
+        "Incorrect. The article does not say Babbage's engine was a failure; it says it was never built and was forgotten, which is a different point.",
+        "Incorrect. The article says it was unknown to 'most' inventors, not all, leaving room for some to have known about it.",
+        "Incorrect. The article explicitly describes the Analytical Engine as a 'mechanical general-purpose computer,' so this is contradicted."
       ]
     },
     {
       "id": 4,
-      "question": "What was Konrad Zuse's Z3, completed in 1941?",
+      "question": "How does the article's description of the Z3 and the Harvard Mark I relate to the broader narrative of the Information Age's origins?",
       "options": [
-        "The world's first working programmable, fully automatic digital computer",
-        "An electromechanical bombe used to break Enigma encoding",
-        "A base-10 electromechanical computer completed in 1944",
-        "A mechanical general-purpose computer proposed by Charles Babbage"
+        "It shows that the development of early programmable digital computers, even before the transistor, was part of the groundwork for the Information Age.",
+        "It proves that the Z3 was the first computer to use transistors.",
+        "It indicates that the Harvard Mark I was the first fully electronic computer.",
+        "It suggests that World War II was the primary cause of the Information Age."
       ],
       "answer_explanations": [
-        "Correct. The article states that Konrad Zuse 'used electromechanical systems to complete in 1941 the Z3, the world's first working programmable, fully automatic digital computer.'",
-        "Incorrect. Bombes were constructed by Allied engineers during World War II to break Enigma encoding; the Z3 was Zuse's digital computer.",
-        "Incorrect. The Harvard Mark I was the base-10 electromechanical computer completed in 1944, not the Z3.",
-        "Incorrect. The Analytical Engine was Charles Babbage's proposed mechanical general-purpose computer, which was never successfully built."
+        "Correct. The article places the Z3 (1941) and Harvard Mark I (1944) in the 'Previous inventions' section, before the 1947 transistor, showing that early programmable digital computers were part of the pre-transistor groundwork for the Information Age.",
+        "Incorrect. The article states the Z3 used electromechanical systems, not transistors.",
+        "Incorrect. The article describes the Harvard Mark I as electromechanical, not fully electronic.",
+        "Incorrect. The article mentions World War II in relation to the bombe and the Mark I, but it does not claim the war was the primary cause of the Information Age."
       ]
     },
     {
       "id": 5,
-      "question": "What did the first integrated circuit milestone achieved by Jack Kilby in 1958 represent?",
+      "question": "What conclusion can be drawn from the article's statement that MOS chips reached higher transistor density and lower manufacturing costs than bipolar integrated circuits by 1964?",
       "options": [
-        "The first integrated circuit milestone",
-        "The first single-chip microprocessor",
-        "The first commercially available general-purpose computer",
-        "The first working transistor"
+        "It implies that MOS technology was becoming more economically and technically advantageous, paving the way for its dominance in later computing.",
+        "It implies that bipolar integrated circuits were obsolete by 1964.",
+        "It implies that MOS chips were the only type of integrated circuit used after 1964.",
+        "It implies that transistor density was the only factor in choosing a chip technology."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The first integrated circuit milestone was achieved by Jack Kilby in 1958.'",
-        "Incorrect. The Intel 4004 was the first single-chip microprocessor, released by Intel in 1971, not Kilby's 1958 achievement.",
-        "Incorrect. The LEO was the first commercially available general-purpose computer, not Kilby's integrated circuit milestone.",
-        "Incorrect. The first working transistor was invented in 1947 by Bardeen and Brattain, not by Kilby in 1958."
+        "Correct. The article notes that MOS chips achieved higher density and lower costs than bipolar ICs by 1964, implying that MOS had clear technical and economic advantages that would likely lead to its wider adoption, as later seen with LSI and microprocessors.",
+        "Incorrect. The article does not state that bipolar ICs became obsolete; it only says MOS chips reached advantages by 1964.",
+        "Incorrect. The article does not claim MOS was the only type used; it discusses the advantages of MOS but does not exclude other types.",
+        "Incorrect. The article mentions both density and cost, so density was not the only factor."
       ]
     },
     {
       "id": 6,
-      "question": "What did the T1 format carry according to the article?",
+      "question": "How does the article's account of the T-carrier's deployment in 1962 relate to the broader digitization trend described in the Information Age?",
       "options": [
-        "24 pulse-code modulated, time-division multiplexed speech signals, each encoded in 64 kbit/s streams",
-        "Analog voice signals for long-haul transmission",
-        "Digital information between media with no loss of information",
-        "The first commercially available general-purpose computer"
+        "It shows that digitization of voice communications began in the 1960s, with analog remaining only in the 'last mile' for decades, illustrating a gradual but profound shift.",
+        "It proves that all voice communication was digital by the late 1960s.",
+        "It indicates that the T-carrier was the first use of digital technology in any field.",
+        "It suggests that digitization was a sudden, immediate change rather than a gradual process."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The T1 format carried 24 pulse-code modulated, time-division multiplexed speech signals, each encoded in 64 kbit/s streams, leaving 8 kbit/s of framing information.'",
-        "Incorrect. The T-carrier was deployed for digital voice transmission using pulse-code modulation, not analog voice signals.",
-        "Incorrect. Moving digital information between media was a capability of the digital revolution generally, not a specific feature of the T1 format.",
-        "Incorrect. The LEO was the first commercially available general-purpose computer, unrelated to the T1 format's specifications."
+        "Correct. The article describes the 1962 T-carrier for digital voice transmission and notes that 'over the subsequent decades, the digitisation of voice became the norm for all but the last mile,' illustrating a gradual, long-term digitization trend.",
+        "Incorrect. The article explicitly says analog continued in the last mile into the late 1990s, so not all voice communication was digital by the late 1960s.",
+        "Incorrect. The article does not claim the T-carrier was the first use of digital technology; earlier digital computers existed.",
+        "Incorrect. The article's description of a decades-long process contradicts the idea of a sudden change."
       ]
     },
     {
       "id": 7,
-      "question": "What did Federico Faggin develop in 1968 that he later used to create the Intel 4004?",
+      "question": "What does the article's data on U.S. household computer ownership in 1984 and 1989 imply about the social penetration of computers during the 1980s?",
       "options": [
-        "The silicon-gate MOS chip",
-        "The first integrated circuit",
-        "The point-contact transistor",
-        "The charge-coupled device"
+        "It implies that computers were becoming more common but were still not universal, with notable disparities based on income and presence of children.",
+        "It implies that computers had achieved near-universal adoption in U.S. households by 1989.",
+        "It implies that only middle and upper-middle class households owned computers.",
+        "It implies that household computer ownership was declining during the 1980s."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'In 1968, Fairchild engineer Federico Faggin improved MOS technology with his development of the silicon-gate MOS chip, which he later used to develop the Intel 4004.'",
-        "Incorrect. The first integrated circuit milestone was achieved by Jack Kilby in 1958, not by Faggin in 1968.",
-        "Incorrect. The point-contact transistor was invented by Bardeen and Brattain in 1947, not by Faggin.",
-        "Incorrect. The charge-coupled device was developed by Boyle and Smith at Bell Labs in 1969, not by Faggin."
+        "Correct. The article reports 8.2% ownership in 1984 and 15% in 1989, with higher rates for households with children and middle/upper-middle class households, implying growing but uneven adoption.",
+        "Incorrect. The article's figures (15% overall by 1989) do not support near-universal adoption.",
+        "Incorrect. The article says middle and upper-middle class households were 'most likely' to own one, but it does not say only they owned computers.",
+        "Incorrect. The ownership percentage increased from 8.2% to 15%, so it was rising, not declining."
       ]
     },
     {
       "id": 8,
-      "question": "What job description was popularized as digital technology proliferated and the switch from analog to digital record keeping became standard in business?",
+      "question": "How does the article's mention of the Motorola DynaTac (1983) and the 2G network (1991) illustrate a key pattern in the Information Age?",
       "options": [
-        "Data entry clerk",
-        "Computer programmer",
-        "Systems analyst",
-        "Network administrator"
+        "It shows that early versions of a technology can be analog, with digital versions arriving later and becoming commercially successful, reflecting a gradual digital transition.",
+        "It proves that mobile phones were the most important digital technology of the era.",
+        "It indicates that analog technologies were immediately replaced by digital ones upon invention.",
+        "It suggests that Finland was the first country to have any mobile phone network."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'a relatively new job description was popularized, the data entry clerk,' whose job was to convert analog data into digital data.",
-        "Incorrect. The article does not mention computer programmers being popularized in this context.",
-        "Incorrect. The article does not mention systems analysts being popularized in this context.",
-        "Incorrect. The article does not mention network administrators being popularized in this context."
+        "Correct. The article notes the DynaTac used analog communication, while digital cell phones were not sold until 1991 with 2G in Finland, illustrating a pattern where digital versions of a technology follow analog predecessors.",
+        "Incorrect. The article does not rank mobile phones as the most important technology; it simply describes their development.",
+        "Incorrect. The article shows a gap of several years between the analog DynaTac and digital 2G phones, so replacement was not immediate.",
+        "Incorrect. The article only says the 2G network was opened in Finland, not that Finland had the first mobile network of any kind."
       ]
     },
     {
       "id": 9,
-      "question": "When were digital cell phones first sold commercially according to the article?",
+      "question": "What can be inferred from the article's statement that Disney's CAPS system was used for a scene in 1989's 'The Little Mermaid' and for all their animation films between 1990 and 2004?",
       "options": [
-        "1991, when the 2G network started to be opened in Finland",
-        "1983, when Motorola created the DynaTAC",
-        "1989, when the World Wide Web was invented",
-        "The late 1990s, when analog continued in the last mile"
+        "It implies that the adoption of digital ink and paint was gradual, starting with a single scene and then becoming standard practice for a period.",
+        "It implies that Disney was the only studio using digital animation techniques.",
+        "It implies that digital ink and paint were invented in 1988 and immediately used in all films.",
+        "It implies that Disney stopped using digital techniques after 2004."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'digital cell phones were not sold commercially until 1991, when the 2G network started to be opened in Finland.'",
-        "Incorrect. Motorola created the first mobile phone, the DynaTAC, in 1983, but it used analog communication, not digital.",
-        "Incorrect. The World Wide Web was invented in 1989, but this is unrelated to the commercial sale of digital cell phones.",
-        "Incorrect. The article mentions that analog continued in the last mile into the late 1990s, but digital cell phones were sold commercially starting in 1991."
+        "Correct. The article states the CAPS system was used for one scene in 1989 and then for all films from 1990 to 2004, implying a gradual adoption that became the standard for a period.",
+        "Incorrect. The article only discusses Disney's use; it does not claim Disney was the only studio using digital techniques.",
+        "Incorrect. The article says the system was used for a scene in 1989, not immediately for all films, so adoption was not immediate.",
+        "Incorrect. The article only says the system was used until 2004; it does not say Disney stopped using digital techniques after that."
       ]
     },
     {
       "id": 10,
-      "question": "What was the first true digital camera created in, and when were the first marketed according to the article?",
+      "question": "How does the article's discussion of the potential Fourth Industrial Revolution relate to the defining characteristics of the Information Age?",
       "options": [
-        "Created in 1988; first marketed in December 1989 in Japan and in 1990 in the United States",
-        "Created in 1969; first marketed in the 1970s",
-        "Created in 1983; first marketed in 1984",
-        "Created in 1991; first marketed in 1992"
+        "It suggests that the Information Age may be transitioning into a new era, indicating that the period is not static and may evolve with new technologies.",
+        "It proves that the Information Age has definitively ended.",
+        "It implies that artificial intelligence and biotechnology are not part of the Information Age.",
+        "It shows that the Fourth Industrial Revolution is the same as the Information Age."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The first true digital camera was created in 1988, and the first were marketed in December 1989 in Japan and in 1990 in the United States.'",
-        "Incorrect. The charge-coupled device image sensor was developed in 1969, but the first true digital camera was created in 1988.",
-        "Incorrect. Motorola created the DynaTAC in 1983, but this was a mobile phone, not a digital camera.",
-        "Incorrect. Digital cell phones were sold commercially starting in 1991, but the first true digital camera was created in 1988."
+        "Correct. The article mentions an ongoing debate about whether the Third Industrial Revolution has ended and whether AI and biotechnology have spawned a Fourth Industrial Revolution, implying that the Information Age may be evolving into something new.",
+        "Incorrect. The article presents the debate as ongoing, so it does not prove the Information Age has ended.",
+        "Incorrect. The article discusses AI and biotechnology as potential drivers of a new revolution, but it does not exclude them from the Information Age; it frames them as recent breakthroughs.",
+        "Incorrect. The article treats the Fourth Industrial Revolution as a potential next transition, not as the same as the Information Age."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what must a medical practitioner have to justify applying an intervention with uncertain efficacy without violating the bioethical principle of non-maleficence?",
+      "question": "What does the article imply about the historical relationship between medicine and religion or philosophy?",
       "options": [
-        "adequate justification, transparency, and patient consent",
-        "a signed waiver from the patient's family",
-        "approval from a hospital ethics board",
-        "documentation of prior successful use in similar cases"
+        "Medicine was historically intertwined with religious and philosophical beliefs, but modern medicine has become a blend of art and science.",
+        "Medicine has always been a purely scientific discipline, with religion and philosophy playing no role.",
+        "Religious and philosophical beliefs have only influenced medicine in the last few centuries.",
+        "Traditional medicine is the only form of medicine that has ever been connected to religion."
       ],
       "answer_explanations": [
-        "Correct. The article states that practitioners who apply an intervention with uncertain efficacy without adequate justification, transparency, or patient consent may violate non-maleficence.",
-        "Incorrect. The article does not mention a signed waiver from the patient's family as a requirement.",
-        "Incorrect. The article does not state that approval from a hospital ethics board is required.",
-        "Incorrect. The article does not mention documentation of prior successful use as a justification requirement."
+        "Correct. The article states that for most of history, medicine was 'an art (an area of creativity and skill), frequently having connections to the religious and philosophical beliefs of local culture,' and that in recent centuries it has become a combination of art and science.",
+        "Incorrect. The article explicitly says medicine had connections to religious and philosophical beliefs for most of its history, contradicting the idea that it was always purely scientific.",
+        "Incorrect. The article indicates that the connection to religion and philosophy was prevalent in prehistoric and ancient times, not just in recent centuries.",
+        "Incorrect. The article gives examples of ancient physicians using bloodletting based on humorism, showing that even early scientific medicine was tied to philosophy, not just traditional medicine."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following best describes the relationship between history of present illness (HPI) and past medical history (PMH) as presented in the article?",
+      "question": "Based on the article, what is the main implication of the 2007 survey finding that about 49% of medical interventions lacked sufficient evidence?",
       "options": [
-        "Medical history comprises both HPI and PMH",
-        "HPI is a subset of PMH",
-        "PMH is recorded only when HPI is inconclusive",
-        "HPI and PMH are entirely separate and never combined"
+        "Evidence-based medicine is not universally applied, and many interventions may be used without solid proof of benefit or harm.",
+        "Evidence-based medicine is fully implemented in all developed countries, and all interventions have strong evidence.",
+        "The survey only applies to traditional medicine, not to modern scientific medicine.",
+        "The survey shows that most medical interventions are harmful and should be discontinued."
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states that medical history comprises HPI and PMH.",
-        "Incorrect. The article distinguishes HPI from PMH rather than making HPI a subset of PMH.",
-        "Incorrect. The article does not say PMH is recorded only when HPI is inconclusive.",
-        "Incorrect. The article states they are combined into medical history, not entirely separate."
+        "Correct. The article states that 'evidence-based medicine (EBM) is not universally applied in clinical practice' and cites the survey showing that 'about 49% of medical interventions lacked sufficient evidence to support either benefit or harm.' This implies that many interventions are used without definitive evidence.",
+        "Incorrect. The article explicitly says EBM is not universally applied, contradicting the claim that it is fully implemented.",
+        "Incorrect. The survey is about medical interventions in general, not specifically traditional medicine.",
+        "Incorrect. The survey indicates a lack of evidence for benefit or harm, not that interventions are harmful."
       ]
     },
     {
       "id": 3,
-      "question": "Based on the article, how does contemporary medicine differ from medicine practiced for most of prehistoric and early history?",
+      "question": "What does the article suggest about the relationship between traditional medicine and alternative medicine?",
       "options": [
-        "Contemporary medicine is a combination of art and science under the umbrella of medical science",
-        "Contemporary medicine relies exclusively on prayer and herbs",
-        "Contemporary medicine has abandoned all artistic elements in favor of pure science",
-        "Contemporary medicine is practiced only in the Western world"
+        "Traditional medicine, when used in the absence of scientific medicine, is often called alternative medicine, and some alternative treatments may be considered quackery.",
+        "Traditional medicine and alternative medicine are completely separate and have no overlap.",
+        "Alternative medicine is always scientifically proven and never considered quackery.",
+        "Traditional medicine is only practiced in low-resource regions and never in developed countries."
       ],
       "answer_explanations": [
-        "Correct. The article states that since the advent of modern science, most medicine has become a combination of art and science under the umbrella of medical science.",
-        "Incorrect. The article associates herbs and prayers with prescientific or traditional medicine, not contemporary medicine.",
-        "Incorrect. The article describes contemporary medicine as combining art and science, not abandoning art.",
-        "Incorrect. The article does not state that contemporary medicine is practiced only in the Western world."
+        "Correct. The article states that 'Prescientific forms of medicine, now known as traditional medicine or folk medicine, remain commonly used in the absence of scientific medicine and are thus called alternative medicine.' It also notes that alternative treatments with safety and efficacy concerns are termed quackery.",
+        "Incorrect. The article explicitly links traditional medicine to alternative medicine, showing they are not completely separate.",
+        "Incorrect. The article says that alternative treatments with concerns are termed quackery, implying not all alternative medicine is scientifically proven.",
+        "Incorrect. The article mentions that traditional medicine is used in low-resource regions, but it does not say it is never practiced elsewhere."
       ]
     },
     {
       "id": 4,
-      "question": "In the article's description of a medical encounter, what is the typical sequence immediately following the review of the patient's medical history and medical record?",
+      "question": "What can be inferred about the role of the doctor-patient relationship in the medical encounter, based on the article?",
       "options": [
-        "a medical interview and a physical examination",
-        "ordering medical tests and taking a biopsy",
-        "prescribing pharmaceutical drugs",
-        "documenting the encounter in the medical record"
+        "Properly informing the patient is crucial for building trust, and the encounter is documented in a legal record.",
+        "The doctor-patient relationship is unimportant and has no impact on treatment.",
+        "The medical encounter is only about ordering tests and prescribing drugs, with no communication.",
+        "The patient's own words are never recorded, and the doctor makes all decisions without patient input."
       ],
       "answer_explanations": [
-        "Correct. The article states that an initial medical encounter typically begins with a review of the patient's medical history and medical record, followed by a medical interview and a physical examination.",
-        "Incorrect. Ordering tests and biopsies comes after examining for signs and interviewing for symptoms.",
-        "Incorrect. Prescribing drugs occurs later in the process, after examination and possible testing.",
-        "Incorrect. Documentation occurs during and after the encounter, not immediately after the history review."
+        "Correct. The article states that 'properly informing the patient of all relevant facts is an important part of the relationship and the development of trust within the context of the doctor-patient relationship,' and that the encounter is documented in the medical record, which is a legal document.",
+        "Incorrect. The article emphasizes the importance of trust and communication in the doctor-patient relationship.",
+        "Incorrect. The article describes a comprehensive process including history, physical exam, and patient communication, not just tests and drugs.",
+        "Incorrect. The article says the chief complaint is recorded in the patient's own words, showing patient input is valued."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is listed in the article as one of the four basic actions of physical examination?",
+      "question": "What does the article imply about the difference between signs and symptoms in a physical examination?",
       "options": [
-        "percussion",
-        "radiography",
-        "biopsy",
-        "endoscopy"
+        "Signs are objective and observable, while symptoms are subjective and reported by the patient, which is why the physical exam focuses on signs.",
+        "Signs and symptoms are the same thing and are both objectively measurable.",
+        "Symptoms are more reliable than signs because they come directly from the patient.",
+        "The physical examination only relies on symptoms, not signs."
       ],
       "answer_explanations": [
-        "Correct. The article lists percussion (tap to determine resonance characteristics) as one of the four basis actions of physical examination.",
-        "Incorrect. Radiography is not listed among the four basic physical examination actions.",
-        "Incorrect. Biopsy is mentioned elsewhere in the article but not as one of the four basic examination actions.",
-        "Incorrect. Endoscopy is not listed among the four basic physical examination actions."
+        "Correct. The article states that the physical examination is for 'medical signs of disease that are objective and observable, in contrast to symptoms that are volunteered by the patient and are not necessarily objectively observable.' This implies that signs are more objective.",
+        "Incorrect. The article explicitly contrasts signs and symptoms, showing they are different.",
+        "Incorrect. The article suggests symptoms are not necessarily objectively observable, implying they may be less reliable.",
+        "Incorrect. The physical examination is for signs, not symptoms, as stated in the article."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what is a defining characteristic of alternative medicine?",
+      "question": "What is the likely reason the article mentions that the physical examination may not include everything listed?",
       "options": [
-        "It is prescientific medicine used in the absence of scientific medicine",
-        "It has been proven effective through rigorous clinical trials",
-        "It is regulated by the same standards as pharmaceutical drugs",
-        "It is exclusively practiced in the Western world"
+        "The examination is focused on areas highlighted in the medical history, so it may be tailored to the patient's specific concerns.",
+        "The examination is always comprehensive and includes every body system regardless of history.",
+        "The examination is too time-consuming, so doctors skip most parts.",
+        "The examination is only performed by specialists, not general physicians."
       ],
       "answer_explanations": [
-        "Correct. The article states that prescientific forms of medicine, now known as traditional or folk medicine, remain commonly used in the absence of scientific medicine and are thus called alternative medicine.",
-        "Incorrect. The article notes that alternative treatments may lack robust evidence for clinical efficacy.",
-        "Incorrect. The article suggests traditional practices may lack formal regulatory oversight.",
-        "Incorrect. The article indicates reliance on traditional medicine is more common in low-resource regions outside the Western world."
+        "Correct. The article states, 'It is to likely focus on areas of interest highlighted in the medical history and may not include everything listed above.' This implies the exam is tailored based on the patient's history.",
+        "Incorrect. The article explicitly says it may not include everything listed, contradicting the idea that it is always comprehensive.",
+        "Incorrect. The article does not mention time constraints as a reason for omitting parts.",
+        "Incorrect. The article does not say that only specialists perform the exam; it describes general clinical practice."
       ]
     },
     {
       "id": 7,
-      "question": "Based on the article, what is the purpose of differential diagnosis methods in clinical practice?",
+      "question": "What does the article suggest about the impact of health insurance and managed care on medical care?",
       "options": [
-        "to rule out conditions based on the information provided",
-        "to confirm a single diagnosis without further testing",
-        "to replace the need for a physical examination",
-        "to determine insurance coverage for treatment"
+        "They can create barriers to accessing expensive services through mechanisms like prior authorization.",
+        "They have no effect on the availability of medical services.",
+        "They always make it easier for patients to get any treatment they need.",
+        "They only apply to traditional medicine, not to modern medicine."
       ],
       "answer_explanations": [
-        "Correct. The article states that differential diagnosis methods help to rule out conditions based on the information provided.",
-        "Incorrect. The article describes differential diagnosis as ruling out conditions, not confirming a single diagnosis without testing.",
-        "Incorrect. The article does not say differential diagnosis replaces the physical examination.",
-        "Incorrect. The article does not link differential diagnosis to insurance coverage decisions."
+        "Correct. The article states that 'various forms of utilization review, such as prior authorization of tests, may place barriers on accessing expensive services.' This implies that insurance and managed care can limit access.",
+        "Incorrect. The article explicitly mentions barriers, showing they do have an effect.",
+        "Incorrect. The article says they can place barriers, not that they always make access easier.",
+        "Incorrect. The article discusses this in the context of modern clinical practice, not traditional medicine."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, which of the following is included in the social history (SH) component of the medical interview?",
+      "question": "What can be inferred about the importance of the medical record in clinical practice?",
       "options": [
-        "habits including diet, tobacco, and alcohol",
-        "family tree of diseases",
-        "chronological order of current symptoms",
-        "list of prescription and over-the-counter drugs"
+        "It is a legal document that documents the encounter and is important for continuity of care.",
+        "It is only used for billing purposes and has no clinical value.",
+        "It is optional and often not maintained.",
+        "It is only used in hospitals, not in outpatient settings."
       ],
       "answer_explanations": [
-        "Correct. The article lists habits including diet, medications, tobacco, and alcohol under social history.",
-        "Incorrect. A family tree of diseases is associated with family history, not social history.",
-        "Incorrect. The chronological order of current symptoms is part of the history of present illness.",
-        "Incorrect. The list of drugs is part of the medications component, not social history."
+        "Correct. The article states that 'The medical encounter is then documented in the medical record, which is a legal document in many jurisdictions.' This implies it has legal and clinical importance.",
+        "Incorrect. The article does not mention billing, and it highlights the record's legal status, suggesting clinical value.",
+        "Incorrect. The article implies it is a standard part of the encounter, not optional.",
+        "Incorrect. The article does not limit the record to hospitals; it describes it as part of the general medical encounter."
       ]
     },
     {
       "id": 9,
-      "question": "Based on the article, what does the word 'physic' historically refer to?",
+      "question": "What does the article imply about the role of traditional medicine in low-resource regions?",
       "options": [
-        "the old word for what is now called a medicine, and also the field of medicine",
-        "a type of surgical instrument used in ancient times",
-        "a branch of physics applied to medical diagnosis",
-        "a modern term for physician"
+        "It is often relied upon more heavily than scientific medicine, but may lack formal regulation and robust evidence.",
+        "It is always as effective as scientific medicine and is fully regulated.",
+        "It is only used in the absence of any healthcare system.",
+        "It is considered quackery in all cases."
       ],
       "answer_explanations": [
-        "Correct. The article states that the word 'physic' was the old word for what is now called a medicine, and also the field of medicine.",
-        "Incorrect. The article does not describe physic as a surgical instrument.",
-        "Incorrect. The article does not connect physic to physics or medical diagnosis.",
-        "Incorrect. The article states that 'physician' derives from 'physic,' but does not call physic a modern term for physician."
+        "Correct. The article states that in low-resource regions, populations 'often rely more heavily on traditional medicine,' and that these practices 'may lack formal regulatory oversight or robust evidence for clinical efficacy.'",
+        "Incorrect. The article notes a lack of robust evidence, contradicting the claim that it is always as effective.",
+        "Incorrect. The article says it is used in low-resource regions, but does not say it is only used in the absence of any healthcare system.",
+        "Incorrect. The article only terms certain alternative treatments as quackery, not all traditional medicine."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what is one consequence of decentralized training structures and widely varying empirical support in traditional medicine practices in low-resource regions?",
+      "question": "What conclusion can be drawn about the evolution of medicine from the article's description?",
       "options": [
-        "they may lack formal regulatory oversight or robust evidence for clinical efficacy",
-        "they are universally adopted in developed countries",
-        "they are required to follow evidence-based medicine standards",
-        "they are prohibited by international health organizations"
+        "Medicine has evolved from an art tied to culture and beliefs to a combination of art and science, with modern practice relying on biomedical sciences.",
+        "Medicine has remained unchanged since prehistoric times, with no scientific advancements.",
+        "Modern medicine has completely abandoned the artistic aspects and is purely scientific.",
+        "Traditional medicine has been entirely replaced by scientific medicine worldwide."
       ],
       "answer_explanations": [
-        "Correct. The article states that these practices consist of decentralized training structures and vary widely in empirical support; consequently, they may lack formal regulatory oversight or robust evidence for clinical efficacy.",
-        "Incorrect. The article indicates modern scientific medicine is highly developed in the Western world, not traditional medicine.",
-        "Incorrect. The article notes evidence-based medicine is not universally applied even in the developed world, and does not require traditional medicine to follow it.",
-        "Incorrect. The article does not state that international organizations prohibit these practices."
+        "Correct. The article describes the historical evolution from an art with religious and philosophical connections to a modern combination of art and science, applying biomedical sciences and technology.",
+        "Incorrect. The article clearly describes significant changes, including the advent of modern science.",
+        "Incorrect. The article says most medicine has become a combination of art and science, not purely scientific.",
+        "Incorrect. The article states that traditional medicine remains commonly used in many regions, so it has not been entirely replaced."
       ]
     }
   ]

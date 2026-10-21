@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Murasaki Shikibu best known as the author of?",
+      "question": "What is Murasaki Shikibu best known for?",
       "options": [
-        "The Tale of Genji",
-        "The Diary of Lady Murasaki",
-        "The Tale of the Bamboo Cutter",
-        "The Tales of Ise"
+        "Writing The Tale of Genji",
+        "Being a famous painter",
+        "Leading an army",
+        "Inventing Japanese poetry"
       ],
       "answer_explanations": [
         "Correct. The article states she was best known as the author of The Tale of Genji.",
-        "Incorrect. The Diary of Lady Murasaki is mentioned as another work she wrote, but not her best-known work.",
-        "Incorrect. The Tale of the Bamboo Cutter is mentioned as a romance she read, not one she authored.",
-        "Incorrect. The Tales of Ise is mentioned as a romance she read, not one she authored."
+        "Incorrect. The article does not mention her as a painter.",
+        "Incorrect. The article does not mention any military role.",
+        "Incorrect. The article says she was a poet, but not that she invented Japanese poetry."
       ]
     },
     {
       "id": 2,
-      "question": "During which historical period did Murasaki Shikibu serve at the Imperial court?",
+      "question": "In which period did Murasaki Shikibu live?",
       "options": [
         "Heian period",
-        "Nara period",
         "Edo period",
-        "Kamakura period"
+        "Meiji period",
+        "Nara period"
       ],
       "answer_explanations": [
-        "Correct. The article identifies her as a lady-in-waiting at the Imperial court in the Heian period.",
-        "Incorrect. The Nara period is not mentioned in the article.",
-        "Incorrect. The Edo period is not mentioned in the article.",
-        "Incorrect. The Kamakura period is not mentioned in the article."
+        "Correct. The article says she was at the Imperial court in the Heian period.",
+        "Incorrect. The article does not mention the Edo period.",
+        "Incorrect. The article does not mention the Meiji period.",
+        "Incorrect. The article does not mention the Nara period."
       ]
     },
     {
       "id": 3,
-      "question": "What language were Heian women traditionally excluded from learning?",
+      "question": "What was Murasaki Shikibu's role at the Imperial court?",
       "options": [
-        "Chinese",
-        "Japanese",
-        "Korean",
-        "Sanskrit"
+        "Lady-in-waiting",
+        "Queen",
+        "Soldier",
+        "Cook"
       ],
       "answer_explanations": [
-        "Correct. The article states Heian women were traditionally excluded from learning Chinese.",
-        "Incorrect. Japanese was not the language women were excluded from learning.",
-        "Incorrect. Korean is not mentioned in the article.",
-        "Incorrect. Sanskrit is not mentioned in the article."
+        "Correct. The article describes her as a lady-in-waiting at the Imperial court.",
+        "Incorrect. The article does not say she was a queen.",
+        "Incorrect. The article does not mention any military role.",
+        "Incorrect. The article does not mention cooking."
       ]
     },
     {
       "id": 4,
-      "question": "To whom was Murasaki invited to serve as a lady-in-waiting around 1005?",
+      "question": "What is Murasaki Shikibu's personal name?",
       "options": [
+        "Unknown",
+        "Fujiwara no Michinaga",
         "Empress ShÅshi",
-        "Empress Teishi",
-        "Empress Senshi",
-        "Empress Kenshi"
+        "Daini no Sanmi"
       ],
       "answer_explanations": [
-        "Correct. The article states she was invited to serve as a lady-in-waiting to Empress ShÅshi.",
-        "Incorrect. Teishi is mentioned as Emperor IchijÅ's wife, not the empress Murasaki served.",
-        "Incorrect. Senshi is mentioned as Michinaga's sister, not the empress Murasaki served.",
-        "Incorrect. Kenshi is mentioned as Murasaki's daughter, not an empress she served."
+        "Correct. The article states her personal name is unknown, though she may have been Fujiwara no Kaoruko.",
+        "Incorrect. Fujiwara no Michinaga was a different person who invited her to court.",
+        "Incorrect. Empress ShÅshi was the empress she served.",
+        "Incorrect. Daini no Sanmi was her daughter."
       ]
     },
     {
       "id": 5,
-      "question": "Who invited Murasaki to serve at the Imperial court?",
+      "question": "What language did Heian women traditionally not learn?",
       "options": [
-        "Fujiwara no Michinaga",
-        "Fujiwara no Tametoki",
-        "Fujiwara no Nobutaka",
-        "Fujiwara no Kanesuke"
+        "Chinese",
+        "Japanese",
+        "English",
+        "Korean"
       ],
       "answer_explanations": [
-        "Correct. The article states Fujiwara no Michinaga invited her to serve Empress ShÅshi.",
-        "Incorrect. Fujiwara no Tametoki was Murasaki's father, not the person who invited her to court.",
-        "Incorrect. Fujiwara no Nobutaka was Murasaki's husband, not the person who invited her to court.",
-        "Incorrect. Fujiwara no Kanesuke was Murasaki's great-grandfather, not the person who invited her to court."
+        "Correct. The article says Heian women were traditionally excluded from learning Chinese.",
+        "Incorrect. Japanese was the language she wrote in.",
+        "Incorrect. English is not mentioned in the article.",
+        "Incorrect. Korean is not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "What is Murasaki Shikibu's personal name believed to possibly be?",
+      "question": "Who invited Murasaki Shikibu to serve as lady-in-waiting to Empress ShÅshi?",
       "options": [
-        "Fujiwara no Kaoruko",
-        "Fujiwara no Teishi",
-        "Fujiwara no Senshi",
-        "Fujiwara no Kenshi"
+        "Fujiwara no Michinaga",
+        "Her father",
+        "Her husband",
+        "Daini no Sanmi"
       ],
       "answer_explanations": [
-        "Correct. The article states she may have been Fujiwara no Kaoruko, mentioned in a 1007 court diary.",
-        "Incorrect. Teishi is mentioned as Emperor IchijÅ's wife, not Murasaki's possible personal name.",
-        "Incorrect. Senshi is mentioned as Michinaga's sister, not Murasaki's possible personal name.",
-        "Incorrect. Kenshi is mentioned as Murasaki's daughter, not her possible personal name."
+        "Correct. The article says she was invited by Fujiwara no Michinaga.",
+        "Incorrect. Her father is mentioned but not as the inviter.",
+        "Incorrect. Her husband had died by then.",
+        "Incorrect. Daini no Sanmi was her daughter."
       ]
     },
     {
       "id": 7,
-      "question": "What did Murasaki's father regret about her, according to her diary?",
+      "question": "What did Murasaki Shikibu give birth to?",
       "options": [
-        "That she was not born a man",
-        "That she was not born a noble",
-        "That she was not born a poet",
-        "That she was not born a princess"
+        "A daughter",
+        "A son",
+        "Twins",
+        "No children"
       ],
       "answer_explanations": [
-        "Correct. The article quotes her father saying, 'What a pity she was not born a man!'",
-        "Incorrect. The article does not mention her father regretting she was not born a noble.",
-        "Incorrect. The article does not mention her father regretting she was not born a poet.",
-        "Incorrect. The article does not mention her father regretting she was not born a princess."
+        "Correct. The article says she gave birth to a daughter, Daini no Sanmi.",
+        "Incorrect. The article does not mention a son.",
+        "Incorrect. The article does not mention twins.",
+        "Incorrect. The article clearly states she had a daughter."
       ]
     },
     {
       "id": 8,
-      "question": "How long after her marriage did Murasaki's husband die?",
+      "question": "Where did Murasaki Shikibu retire with Empress ShÅshi?",
       "options": [
-        "Two years",
-        "One year",
-        "Five years",
-        "Ten years"
+        "Lake Biwa region",
+        "Mount Fuji",
+        "Kyoto city",
+        "Osaka"
       ],
       "answer_explanations": [
-        "Correct. The article states her husband died after two years of marriage.",
-        "Incorrect. The article states two years, not one year.",
-        "Incorrect. The article states two years, not five years.",
-        "Incorrect. The article states two years, not ten years."
+        "Correct. The article says she retired with ShÅshi to the Lake Biwa region.",
+        "Incorrect. Mount Fuji is not mentioned.",
+        "Incorrect. Kyoto is not mentioned as retirement place.",
+        "Incorrect. Osaka is not mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "What did Murasaki write besides The Tale of Genji?",
+      "question": "Which of these works did Murasaki Shikibu write?",
       "options": [
-        "The Diary of Lady Murasaki and a volume of poetry",
-        "The Tale of the Bamboo Cutter",
-        "The Tales of Ise",
-        "The Tale of Genji sequel"
+        "The Diary of Lady Murasaki",
+        "The Tale of Genji only",
+        "The Pillow Book",
+        "The Tale of the Heike"
       ],
       "answer_explanations": [
-        "Correct. The article states she wrote The Diary of Lady Murasaki and a volume of poetry, as well as The Tale of Genji.",
-        "Incorrect. The Tale of the Bamboo Cutter is mentioned as a romance she read, not one she wrote.",
-        "Incorrect. The Tales of Ise is mentioned as a romance she read, not one she wrote.",
-        "Incorrect. The article does not mention a sequel to The Tale of Genji."
+        "Correct. The article mentions The Diary of Lady Murasaki as one of her works.",
+        "Incorrect. She wrote more than just The Tale of Genji.",
+        "Incorrect. The Pillow Book is not mentioned and was written by someone else.",
+        "Incorrect. The Tale of the Heike is not mentioned."
       ]
     },
     {
       "id": 10,
-      "question": "When was The Tale of Genji published in English?",
+      "question": "In what years was The Tale of Genji written?",
       "options": [
+        "Between about 1000 and 1012",
         "Between 1925 and 1933",
-        "Between 1000 and 1012",
-        "Between 1900 and 1910",
-        "Between 1950 and 1960"
+        "In the 13th century",
+        "In 1007"
       ],
       "answer_explanations": [
-        "Correct. The article states The Tale of Genji was published in English between 1925 and 1933.",
-        "Incorrect. Between 1000 and 1012 is when The Tale of Genji was written in Japanese, not published in English.",
-        "Incorrect. Between 1900 and 1910 is not mentioned in the article.",
-        "Incorrect. Between 1950 and 1960 is not mentioned in the article."
+        "Correct. The article says it was written in Japanese between about 1000 and 1012.",
+        "Incorrect. Those years are when it was published in English.",
+        "Incorrect. The 13th century is when her works were first illustrated.",
+        "Incorrect. 1007 is when a court diary mentioned her possible name."
       ]
     }
   ]

@@ -5,18 +5,18 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Sigmund Freud's profession?",
+      "question": "What was Sigmund Freud's birth name?",
       "options": [
-        "Austrian neurologist",
-        "German psychiatrist",
-        "Swiss psychologist",
-        "French philosopher"
+        "Sigismund Schlomo Freud",
+        "Sigmund Schlomo Freud",
+        "Sigismund Freud",
+        "Schlomo Freud"
       ],
       "answer_explanations": [
-        "Correct. The article states that Sigmund Freud was an Austrian neurologist and the founder of psychoanalysis.",
-        "Incorrect. The article identifies Freud as Austrian, not German, and as a neurologist, not a psychiatrist.",
-        "Incorrect. The article describes Freud as a neurologist, not a psychologist.",
-        "Incorrect. The article identifies Freud as a neurologist, not a philosopher."
+        "Correct. The article states that Sigmund Freud was born Sigismund Schlomo Freud.",
+        "Incorrect. The article gives his birth name as Sigismund Schlomo Freud, not Sigmund Schlomo Freud.",
+        "Incorrect. The article gives his full birth name as Sigismund Schlomo Freud, not just Sigismund Freud.",
+        "Incorrect. The article gives his full birth name as Sigismund Schlomo Freud, not just Schlomo Freud."
       ]
     },
     {
@@ -25,142 +25,142 @@
       "options": [
         "6 May 1856",
         "23 September 1939",
-        "29 July 1855",
-        "13 September 1886"
+        "6 May 1855",
+        "23 September 1938"
       ],
       "answer_explanations": [
-        "Correct. The article states Freud was born on 6 May 1856.",
-        "Incorrect. 23 September 1939 is Freud's date of death, not birth.",
-        "Incorrect. 29 July 1855 is the date of his parents' marriage.",
-        "Incorrect. 13 September 1886 is the date of Freud's civil wedding ceremony."
+        "Correct. The article states his birth date as 6 May 1856.",
+        "Incorrect. 23 September 1939 is his death date, not his birth date.",
+        "Incorrect. The article gives his birth date as 6 May 1856, not 1855.",
+        "Incorrect. The article gives his death date as 23 September 1939, not 1938."
       ]
     },
     {
       "id": 3,
-      "question": "What clinical method did Freud found?",
+      "question": "What was Sigmund Freud's nationality?",
       "options": [
-        "Psychoanalysis",
-        "Behaviorism",
-        "Cognitive therapy",
-        "Humanistic therapy"
+        "Austrian",
+        "German",
+        "Swiss",
+        "Hungarian"
       ],
       "answer_explanations": [
-        "Correct. The article states Freud was the founder of psychoanalysis, a clinical method for evaluating and treating pathologies arising from conflicts in the psyche.",
-        "Incorrect. The article does not attribute behaviorism to Freud.",
-        "Incorrect. The article does not attribute cognitive therapy to Freud.",
-        "Incorrect. The article does not attribute humanistic therapy to Freud."
+        "Correct. The article describes him as an Austrian neurologist.",
+        "Incorrect. The article identifies him as Austrian, not German.",
+        "Incorrect. The article identifies him as Austrian, not Swiss.",
+        "Incorrect. The article identifies him as Austrian, not Hungarian."
       ]
     },
     {
       "id": 4,
-      "question": "Which therapeutic method did Freud introduce in creating psychoanalysis?",
+      "question": "What did Sigmund Freud found?",
       "options": [
-        "Free association",
-        "Hypnosis",
-        "Electroconvulsive therapy",
-        "Systematic desensitization"
+        "Psychoanalysis",
+        "Behaviorism",
+        "Cognitive therapy",
+        "Humanistic psychology"
       ],
       "answer_explanations": [
-        "Correct. The article lists free association among the therapeutic methods Freud introduced in creating psychoanalysis.",
-        "Incorrect. The article does not mention hypnosis as a method Freud introduced.",
-        "Incorrect. The article does not mention electroconvulsive therapy.",
-        "Incorrect. The article does not mention systematic desensitization."
+        "Correct. The article states he was the founder of psychoanalysis.",
+        "Incorrect. The article credits him with founding psychoanalysis, not behaviorism.",
+        "Incorrect. The article credits him with founding psychoanalysis, not cognitive therapy.",
+        "Incorrect. The article credits him with founding psychoanalysis, not humanistic psychology."
       ]
     },
     {
       "id": 5,
-      "question": "How many children did Freud and Martha Bernays have?",
+      "question": "Which of the following is a therapeutic method introduced by Freud?",
       "options": [
-        "Six",
-        "Five",
-        "Seven",
-        "Eight"
+        "Free association",
+        "Behavior modification",
+        "Cognitive restructuring",
+        "Systematic desensitization"
       ],
       "answer_explanations": [
-        "Correct. The article states the Freuds had six children: Mathilde, Jean-Martin, Oliver, Ernst, Sophie, and Anna.",
-        "Incorrect. The article lists six children, not five.",
-        "Incorrect. The article lists six children, not seven.",
-        "Incorrect. The article lists six children, not eight."
+        "Correct. The article lists free association as one of the therapeutic methods Freud introduced.",
+        "Incorrect. The article mentions free association, interpretation of dreams, and transference, not behavior modification.",
+        "Incorrect. The article mentions free association, interpretation of dreams, and transference, not cognitive restructuring.",
+        "Incorrect. The article mentions free association, interpretation of dreams, and transference, not systematic desensitization."
       ]
     },
     {
       "id": 6,
-      "question": "Where did Freud and his family live from 1891 until they left Vienna in 1938?",
+      "question": "What did Freud's redefinition of sexuality include?",
       "options": [
-        "Berggasse 19",
-        "Freiberg",
-        "Leipzig",
-        "Manchester"
+        "Infantile stages",
+        "Adolescent stages",
+        "Adult stages",
+        "Elderly stages"
       ],
       "answer_explanations": [
-        "Correct. The article states that from 1891 until they left Vienna in 1938, Freud and his family lived in an apartment at Berggasse 19.",
-        "Incorrect. Freiberg is Freud's birthplace, not where he lived from 1891 to 1938.",
-        "Incorrect. Leipzig was a temporary stop when the family left Freiberg, not their long-term Vienna residence.",
-        "Incorrect. Manchester is where Freud's half-brothers emigrated, not where Freud lived."
+        "Correct. The article states that Freud's redefinition of sexuality to include infantile stages led to the Oedipus complex.",
+        "Incorrect. The article specifically mentions infantile stages, not adolescent stages.",
+        "Incorrect. The article specifically mentions infantile stages, not adult stages.",
+        "Incorrect. The article specifically mentions infantile stages, not elderly stages."
       ]
     },
     {
       "id": 7,
-      "question": "In what year did Freud graduate with an MD?",
+      "question": "What is the Oedipus complex described as in the article?",
       "options": [
-        "1881",
-        "1873",
-        "1885",
-        "1891"
+        "A central tenet of psychoanalytical theory",
+        "A minor concept in psychoanalysis",
+        "A therapeutic technique",
+        "A type of dream"
       ],
       "answer_explanations": [
-        "Correct. The article states Freud graduated with an MD in March of 1881.",
-        "Incorrect. 1873 is when Freud graduated high school and entered the University of Vienna.",
-        "Incorrect. 1885 is when Freud was appointed as a university lecturer in neuropathology.",
-        "Incorrect. 1891 is when Freud's first book On Aphasia was published."
+        "Correct. The article says Freud formulated the Oedipus complex as a central tenet of psychoanalytical theory.",
+        "Incorrect. The article calls it a central tenet, not a minor concept.",
+        "Incorrect. The article describes it as a tenet of theory, not a therapeutic technique.",
+        "Incorrect. The article does not describe the Oedipus complex as a type of dream."
       ]
     },
     {
       "id": 8,
-      "question": "What did Freud's analysis of dreams as wish fulfillments provide models for?",
+      "question": "How did Freud analyze dreams?",
       "options": [
-        "The clinical analysis of symptom formation and repression",
-        "The discovery of the neuron",
-        "The Oedipus complex",
-        "The id, ego, and superego model"
+        "As wish fulfillments",
+        "As random brain activity",
+        "As repressed memories",
+        "As prophecies"
       ],
       "answer_explanations": [
-        "Correct. The article states Freud's analysis of dreams as wish fulfillments provided him with models for the clinical analysis of symptom formation and the underlying mechanisms of repression.",
-        "Incorrect. The article states Freud's research on the biology of nervous tissue proved seminal for the discovery of the neuron, not his dream analysis.",
-        "Incorrect. The Oedipus complex was formulated from Freud's redefinition of sexuality to include infantile stages, not from dream analysis.",
-        "Incorrect. The id, ego, and superego model came from Freud's theory of the unconscious, not directly from dream analysis."
+        "Correct. The article states that Freud analyzed dreams as wish fulfillments.",
+        "Incorrect. The article specifically says dreams are wish fulfillments, not random brain activity.",
+        "Incorrect. The article does not describe dreams as repressed memories, though repression is mentioned elsewhere.",
+        "Incorrect. The article does not describe dreams as prophecies."
       ]
     },
     {
       "id": 9,
-      "question": "What did Freud postulate the existence of, described as sexualised psychic energy?",
+      "question": "Which model of psychic structure did Freud develop?",
       "options": [
-        "Libido",
-        "Death drive",
-        "Transference",
-        "Oedipus complex"
+        "Id, ego, and superego",
+        "Conscious, subconscious, and unconscious",
+        "Mind, body, and spirit",
+        "Pleasure, reality, and morality"
       ],
       "answer_explanations": [
-        "Correct. The article states Freud postulated the existence of libido, described as sexualised psychic energy.",
-        "Incorrect. The death drive is described as the source of compulsive repetition, hate, aggression, and neurotic guilt, not as sexualised psychic energy.",
-        "Incorrect. Transference is described as phenomena that arise in the clinical setting, not as sexualised psychic energy.",
-        "Incorrect. The Oedipus complex is described as a central tenet of psychoanalytical theory, not as sexualised psychic energy."
+        "Correct. The article states that Freud developed a model of psychic structure comprising id, ego, and superego.",
+        "Incorrect. The article specifically names id, ego, and superego, not conscious, subconscious, and unconscious.",
+        "Incorrect. The article specifically names id, ego, and superego, not mind, body, and spirit.",
+        "Incorrect. The article specifically names id, ego, and superego, not pleasure, reality, and morality."
       ]
     },
     {
       "id": 10,
-      "question": "What did Freud's redefinition of sexuality to include infantile stages lead him to formulate?",
+      "question": "According to the article, what is libido?",
       "options": [
-        "The Oedipus complex",
-        "The death drive",
-        "Free association",
-        "The interpretation of dreams"
+        "Sexualised psychic energy",
+        "A type of dream",
+        "A therapeutic method",
+        "A religious concept"
       ],
       "answer_explanations": [
-        "Correct. The article states Freud's redefinition of sexuality to include infantile stages led him to formulate the Oedipus complex as a central tenet of psychoanalytical theory.",
-        "Incorrect. The death drive is described separately as the source of compulsive repetition, hate, aggression, and neurotic guilt.",
-        "Incorrect. Free association is listed as a therapeutic method Freud introduced, not as a result of redefining sexuality.",
-        "Incorrect. The interpretation of dreams is described as wish fulfillments providing models for symptom formation, not as a result of redefining sexuality."
+        "Correct. The article describes libido as sexualised psychic energy.",
+        "Incorrect. Libido is described as psychic energy, not a type of dream.",
+        "Incorrect. Libido is described as psychic energy, not a therapeutic method.",
+        "Incorrect. Libido is described as psychic energy, not a religious concept."
       ]
     }
   ]

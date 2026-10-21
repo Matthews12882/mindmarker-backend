@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What percentage of Japan's terrain is mountainous and heavily forested?",
+      "question": "What is the capital and largest city of Japan?",
       "options": [
-        "around 75%",
-        "about 50%",
-        "nearly 90%",
-        "approximately 60%"
+        "Tokyo",
+        "Kyoto",
+        "Nara",
+        "Osaka"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'around 75% of its terrain is mountainous and heavily forested'.",
-        "Incorrect. The article specifies 'around 75%', not about 50%.",
-        "Incorrect. The article specifies 'around 75%', not nearly 90%.",
-        "Incorrect. The article specifies 'around 75%', not approximately 60%."
+        "Correct. The article states: 'Tokyo is the country's capital and largest city.'",
+        "Incorrect. Kyoto was the location of Heian-kyÅ, the capital during the Heian period, but it is not the current capital.",
+        "Incorrect. Nara was the location of HeijÅ-kyÅ, the capital during the Nara period, but it is not the current capital.",
+        "Incorrect. Osaka is a major city in Japan, but the article does not identify it as the capital or largest city."
       ]
     },
     {
       "id": 2,
-      "question": "Which event forced Japan to open trade to the West in 1853?",
+      "question": "Approximately how many smaller islands are there in the Japanese archipelago besides the four major ones?",
       "options": [
-        "the arrival of an American fleet",
-        "the arrival of a Portuguese fleet",
-        "the arrival of a British fleet",
-        "the arrival of a Dutch fleet"
+        "over 14,000",
+        "over 1,400",
+        "over 140,000",
+        "over 4,000"
       ],
       "answer_explanations": [
-        "Correct. The article says 'In 1853, an American fleet forced Japan to open trade to the West'.",
-        "Incorrect. The article mentions Portuguese traders in Southeast Asia but not a Portuguese fleet forcing trade in 1853.",
-        "Incorrect. The article does not mention a British fleet in this context.",
-        "Incorrect. The article does not mention a Dutch fleet in this context."
+        "Correct. The article mentions 'over 14,000 smaller islands' in the Japanese archipelago.",
+        "Incorrect. The article specifies 'over 14,000', not 'over 1,400'.",
+        "Incorrect. The article specifies 'over 14,000', not 'over 140,000'.",
+        "Incorrect. The article specifies 'over 14,000', not 'over 4,000'."
       ]
     },
     {
       "id": 3,
-      "question": "What was the name of the Japanese military government established by Minamoto no Yoritomo in 1185?",
+      "question": "What is the name of the Japanese legislature?",
       "options": [
-        "Kamakura shogunate",
-        "Tokugawa shogunate",
-        "Ashikaga shogunate",
-        "Heian shogunate"
+        "the National Diet",
+        "the Imperial Court",
+        "the Shogunate",
+        "the House of Lords"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'samurai Minamoto no Yoritomo established a military government at Kamakura' after the Genpei War, which became the Kamakura shogunate.",
-        "Incorrect. The Tokugawa shogunate unified Japan in 1600, much later.",
-        "Incorrect. The Ashikaga shogunate followed the Kamakura period.",
-        "Incorrect. The Heian period preceded the feudal era and had no shogunate of that name."
+        "Correct. The article states that Japan has a 'bicameral legislature known as the National Diet'.",
+        "Incorrect. The Imperial Court was the center of government during the Nara and Heian periods, not the current legislature.",
+        "Incorrect. The Shogunate was a military government in the feudal era, not the current legislature.",
+        "Incorrect. The article does not mention a 'House of Lords' as Japan's legislature."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following best describes the purpose of the Taika Reforms of 645?",
+      "question": "In which year did Japan surrender after World War II?",
       "options": [
-        "to centralize government and enhance imperial power based on Chinese models",
-        "to establish a feudal system with samurai as the ruling class",
-        "to introduce Buddhism as the state religion",
-        "to open Japan to foreign trade"
+        "1945",
+        "1937",
+        "1941",
+        "1952"
       ],
       "answer_explanations": [
-        "Correct. The article explains that the Taika Reforms 'nationalized all land' and aimed at 'greater centralization and to enhance the power of the imperial court, which was also based on the governmental structure of China'.",
-        "Incorrect. The feudal system with samurai dominance emerged centuries later.",
-        "Incorrect. Buddhism was introduced earlier in 552, and the Taika Reforms were primarily administrative and land reforms.",
-        "Incorrect. Opening to foreign trade occurred much later, in the 19th century."
+        "Correct. The article states that Japan 'surrendered in 1945' after the Pacific War.",
+        "Incorrect. 1937 is the year Japan invaded China, not the year of surrender.",
+        "Incorrect. 1941 is the year Japan attacked the U.S. and entered World War II, not the year of surrender.",
+        "Incorrect. 1952 is the year the Allied occupation ended, not the year of surrender."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what is the origin of the Western epithet 'Land of the Rising Sun'?",
+      "question": "What does the name 'Japan' mean in the Western epithet?",
       "options": [
-        "the characters æ¥æ¬ meaning 'sun origin'",
-        "the name 'Cipangu' recorded by Marco Polo",
-        "the old Malay name 'Japang'",
-        "the Chinese name 'Wa'"
+        "Land of the Rising Sun",
+        "Land of the Setting Sun",
+        "Land of the Cherry Blossom",
+        "Land of the Samurai"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The characters æ¥æ¬ mean 'sun origin', which is the source of the popular Western epithet 'Land of the Rising Sun''.",
-        "Incorrect. 'Cipangu' was Marco Polo's rendition of the name, not the source of the epithet.",
-        "Incorrect. 'Japang' is the old Malay name that influenced the European name 'Japan', not the epithet.",
-        "Incorrect. 'Wa' was an early Chinese name for Japan, not related to the 'sun origin' meaning."
+        "Correct. The article explains that the characters æ¥æ¬ mean 'sun origin', which is the source of the popular Western epithet 'Land of the Rising Sun'.",
+        "Incorrect. The article does not describe Japan as the 'Land of the Setting Sun'.",
+        "Incorrect. The article does not describe Japan as the 'Land of the Cherry Blossom'.",
+        "Incorrect. The article does not describe Japan as the 'Land of the Samurai'."
       ]
     },
     {
       "id": 6,
-      "question": "Which period saw the introduction of wet-rice farming and metallurgy to Japan?",
+      "question": "Which clan established a military government at Kamakura in 1185?",
       "options": [
-        "Yayoi period",
-        "JÅmon period",
-        "Nara period",
-        "Heian period"
+        "the Minamoto clan",
+        "the Taira clan",
+        "the HÅjÅ clan",
+        "the Ashikaga clan"
       ],
       "answer_explanations": [
-        "Correct. The article says the Yayoi period 'saw the introduction of innovative practices including wet-rice farming ... and metallurgy from China and Korea'.",
-        "Incorrect. The JÅmon period was a hunter-gatherer culture with rudimentary agriculture, not wet-rice farming or metallurgy.",
-        "Incorrect. The Nara period was a later historical period with a centralized state.",
-        "Incorrect. The Heian period followed the Nara period and was known for indigenous culture, not the introduction of these technologies."
+        "Correct. The article states that 'samurai Minamoto no Yoritomo established a military government at Kamakura' after the Genpei War.",
+        "Incorrect. The Taira clan was defeated by the Minamoto clan in the Genpei War.",
+        "Incorrect. The HÅjÅ clan came to power as regents after Yoritomo's death, not at the initial establishment.",
+        "Incorrect. The Ashikaga shogunate came later, after the Kamakura period."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article identify as a consequence of the Japanese asset price bubble collapse in the early 1990s?",
+      "question": "What was the name of the period of economic stagnation in Japan after the early 1990s?",
       "options": [
-        "a prolonged period of economic stagnation called the Lost Decades",
-        "rapid economic growth and industrialization",
-        "the end of the shogunate and restoration of imperial power",
-        "Japan becoming a major non-NATO ally of the U.S."
+        "the Lost Decades",
+        "the Great Depression",
+        "the Meiji Era",
+        "the Bubble Era"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Since the collapse of the Japanese asset price bubble in the early 1990s, it has experienced a prolonged period of economic stagnation referred to as the Lost Decades'.",
-        "Incorrect. Rapid economic growth occurred in the decades after World War II, not after the 1990s bubble collapse.",
-        "Incorrect. The end of the shogunate occurred in 1868, long before the 1990s.",
-        "Incorrect. Japan became a major non-NATO ally of the U.S. after World War II, not as a result of the 1990s bubble collapse."
+        "Correct. The article mentions a 'prolonged period of economic stagnation referred to as the Lost Decades'.",
+        "Incorrect. The Great Depression is a global economic event, not specific to Japan's post-1990s stagnation.",
+        "Incorrect. The Meiji Era was a period of rapid industrialization, not stagnation.",
+        "Incorrect. The 'Bubble Era' refers to the period before the collapse, not the stagnation that followed."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is true about Japan's constitutional monarchy?",
+      "question": "Which of the following is NOT listed as a major industry in which Japan is a global leader?",
       "options": [
-        "Japan has a bicameral legislature called the National Diet and has constitutionally renounced the right to declare war",
-        "Japan has a unicameral legislature and maintains the right to declare war",
-        "Japan's emperor holds actual political power as head of government",
-        "Japan's constitution was written during the Meiji period"
+        "textile manufacturing",
+        "automotive",
+        "electronics",
+        "robotics"
       ],
       "answer_explanations": [
-        "Correct. The article describes Japan as 'a constitutional monarchy with a bicameral legislature known as the National Diet' and notes it 'has constitutionally renounced its right to declare war'.",
-        "Incorrect. The legislature is bicameral, not unicameral, and Japan has renounced war.",
-        "Incorrect. The emperor is a constitutional monarch without actual political power; the article mentions 'constitutional monarchy'.",
-        "Incorrect. The current constitution was adopted after World War II, not during the Meiji period (which had the Meiji Constitution)."
+        "Correct. The article lists automotive, electronics, and robotics as industries where Japan is a global leader, but does not mention textile manufacturing.",
+        "Incorrect. The article states Japan is a global leader in the automotive industry.",
+        "Incorrect. The article states Japan is a global leader in the electronics industry.",
+        "Incorrect. The article states Japan is a global leader in the robotics industry."
       ]
     },
     {
       "id": 9,
-      "question": "What was the name of the first Japanese state mentioned in Chinese historical records, according to the article?",
+      "question": "According to the article, what was the name of the country before the characters æ¥æ¬ were adopted?",
       "options": [
-        "Yamatai",
-        "Yamato",
         "Wa",
-        "Nara"
+        "Yamatai",
+        "Nihon",
+        "Cipangu"
       ],
       "answer_explanations": [
-        "Correct. The article says 'the kingdom of Yamatai (which may refer to Yamato) unified many of these kingdoms' as recorded in the Book of Wei.",
-        "Incorrect. Yamato is the later endonym and may be the same as Yamatai, but the specific kingdom named in the Book of Wei is Yamatai.",
-        "Incorrect. Wa was the Chinese name for the country, not a specific kingdom mentioned in that context.",
-        "Incorrect. Nara is a later capital city, not a kingdom mentioned in early Chinese records."
+        "Correct. The article states that before æ¥æ¬ was adopted, the country was known in China as *Wa* (å­).",
+        "Incorrect. Yamatai was a kingdom mentioned in the *Book of Wei*, not the name of the country before æ¥æ¬.",
+        "Incorrect. Nihon is one of the pronunciations of æ¥æ¬, not the name before it was adopted.",
+        "Incorrect. Cipangu is the name recorded by Marco Polo for Japan, not the name before æ¥æ¬ was adopted."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following correctly describes the pronunciation of Japan's name in Japanese?",
+      "question": "What was the name of the first shogunate mentioned in the article?",
       "options": [
-        "Nihon is used in everyday speech, while Nippon is favored for official uses",
-        "Nippon is used in everyday speech, while Nihon is favored for official uses",
-        "Both Nihon and Nippon are used interchangeably in all contexts",
-        "The name Japan is derived from the Japanese pronunciation Nihon"
+        "the Kamakura shogunate",
+        "the Tokugawa shogunate",
+        "the Ashikaga shogunate",
+        "the Meiji shogunate"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Nippon ... is favored for official uses' and 'Nihon is typically used in everyday speech'.",
-        "Incorrect. The article specifies the opposite: Nippon for official uses, Nihon for everyday speech.",
-        "Incorrect. The article indicates a clear distinction in usage between official and everyday contexts.",
-        "Incorrect. The article explains that 'Japan' is based on Chinese pronunciations, not directly from Nihon."
+        "Correct. The article mentions the Kamakura shogunate first, which was established in 1185 and repelled Mongol invasions.",
+        "Incorrect. The Tokugawa shogunate is mentioned later, as it unified Japan in 1600.",
+        "Incorrect. The Ashikaga shogunate is mentioned after the Kamakura shogunate.",
+        "Incorrect. The Meiji period was not a shogunate; it was a period of imperial restoration."
       ]
     }
   ]

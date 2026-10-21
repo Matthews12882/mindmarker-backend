@@ -5,54 +5,22 @@
   "questions": [
     {
       "id": 1,
-      "question": "What percentage of the Solar System's total mass does the Sun account for?",
+      "question": "What is the Solar System?",
       "options": [
-        "99.86%",
-        "99.99%",
-        "90%",
-        "50%"
+        "The gravitationally bound system of the Sun and the masses that orbit it",
+        "A collection of stars in the Milky Way Galaxy",
+        "A single planet with many moons",
+        "A cloud of gas and dust in space"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Sun accounts for 99.86% of the Solar System's total mass.'",
-        "Incorrect. The article does not state that the Sun accounts for 99.99% of the mass.",
-        "Incorrect. The article does not state that the Sun accounts for 90% of the mass.",
-        "Incorrect. The article does not state that the Sun accounts for 50% of the mass."
+        "Correct. The article states: 'The Solar System is the gravitationally bound system of the Sun and the masses that orbit it'.",
+        "Incorrect. The article says it is an isolated single-star planetary system, not a collection of stars.",
+        "Incorrect. The Solar System includes the Sun and many bodies, not just one planet.",
+        "Incorrect. It formed from a molecular cloud, but it is not a cloud itself."
       ]
     },
     {
       "id": 2,
-      "question": "Which planet is closest to the Sun?",
-      "options": [
-        "Mercury",
-        "Venus",
-        "Earth",
-        "Mars"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists Mercury first among the terrestrial planets 'Closest to the Sun in order of increasing distance'.",
-        "Incorrect. Venus is listed second, not closest to the Sun.",
-        "Incorrect. Earth is listed third, not closest to the Sun.",
-        "Incorrect. Mars is listed fourth, not closest to the Sun."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Which two planets are gas giants?",
-      "options": [
-        "Jupiter and Saturn",
-        "Uranus and Neptune",
-        "Earth and Mars",
-        "Mercury and Venus"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the outer Solar System includes 'two gas giants (Jupiter and Saturn)'.",
-        "Incorrect. Uranus and Neptune are described as ice giants, not gas giants.",
-        "Incorrect. Earth and Mars are terrestrial planets.",
-        "Incorrect. Mercury and Venus are terrestrial planets."
-      ]
-    },
-    {
-      "id": 4,
       "question": "How many planets does the Solar System have?",
       "options": [
         "Eight",
@@ -61,106 +29,138 @@
         "Ten"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Solar System has 'its eight planets'.",
-        "Incorrect. The article does not state that there are nine planets.",
-        "Incorrect. The article does not state that there are seven planets.",
-        "Incorrect. The article does not state that there are ten planets."
+        "Correct. The article mentions 'its eight planets'.",
+        "Incorrect. The article clearly states there are eight planets.",
+        "Incorrect. The article clearly states there are eight planets.",
+        "Incorrect. The article clearly states there are eight planets."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which planet is one of the eight planets in the Solar System?",
+      "options": [
+        "Earth",
+        "Pluto",
+        "Ceres",
+        "Eris"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'of which Earth is one' when referring to the eight planets.",
+        "Incorrect. The article lists Pluto as a dwarf planet, not one of the eight planets.",
+        "Incorrect. The article lists Ceres as a dwarf planet, not one of the eight planets.",
+        "Incorrect. The article lists Eris as a dwarf planet, not one of the eight planets."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What type of system is the Solar System within the Milky Way Galaxy?",
+      "options": [
+        "An isolated single-star planetary system",
+        "A multiple-star system",
+        "A cluster of galaxies",
+        "A nebula"
+      ],
+      "answer_explanations": [
+        "Correct. The article states it is 'an isolated single-star planetary system (not part of a larger star system) within the Milky Way Galaxy'.",
+        "Incorrect. The article explicitly says it is not part of a larger star system.",
+        "Incorrect. The Solar System is within a galaxy, not a cluster of galaxies.",
+        "Incorrect. The Solar System is a planetary system, not a nebula."
       ]
     },
     {
       "id": 5,
-      "question": "What are natural satellites commonly called?",
+      "question": "Approximately how many billion years ago did the Solar System form?",
       "options": [
-        "Moons",
-        "Asteroids",
-        "Comets",
-        "Dwarf planets"
+        "4.6 billion years ago",
+        "6.4 billion years ago",
+        "5.6 billion years ago",
+        "3.6 billion years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states that natural satellites are 'commonly called moons'.",
-        "Incorrect. Asteroids are small Solar System bodies, not natural satellites.",
-        "Incorrect. Comets are small Solar System bodies, not natural satellites.",
-        "Incorrect. Dwarf planets are objects of planetary mass that do not dominate their orbit, not natural satellites."
+        "Correct. The article states the system 'formed about 4.6 billion years ago'.",
+        "Incorrect. The article specifies 4.6 billion years ago.",
+        "Incorrect. The article specifies 4.6 billion years ago.",
+        "Incorrect. The article specifies 4.6 billion years ago."
       ]
     },
     {
       "id": 6,
-      "question": "Where is the asteroid belt located?",
+      "question": "What percentage of the Solar System's total mass does the Sun account for?",
       "options": [
-        "Between Mars's and Jupiter's orbit",
-        "Beyond Neptune",
-        "Between Earth and Mars",
-        "Inside Mercury's orbit"
+        "99.86%",
+        "89.86%",
+        "98.86%",
+        "90.86%"
       ],
       "answer_explanations": [
-        "Correct. The article states that the asteroid belt is '(between Mars's and Jupiter's orbit)'.",
-        "Incorrect. The Kuiper belt is just outside Neptune, not the asteroid belt.",
-        "Incorrect. The article does not place the asteroid belt between Earth and Mars.",
-        "Incorrect. The article does not place the asteroid belt inside Mercury's orbit."
+        "Correct. The article states 'The Sun accounts for 99.86% of the Solar System's total mass'.",
+        "Incorrect. The article states the percentage is 99.86%.",
+        "Incorrect. The article states the percentage is 99.86%.",
+        "Incorrect. The article states the percentage is 99.86%."
       ]
     },
     {
       "id": 7,
-      "question": "Which two planets orbit within the Sun's habitable zone?",
+      "question": "Inside the Sun's core, what is fused into helium?",
       "options": [
-        "Earth and Mars",
-        "Mercury and Venus",
-        "Jupiter and Saturn",
-        "Uranus and Neptune"
+        "Hydrogen",
+        "Oxygen",
+        "Carbon",
+        "Nitrogen"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Earth and Mars are the only planets that orbit within the Sun's habitable zone'.",
-        "Incorrect. Mercury and Venus are not stated to be in the habitable zone.",
-        "Incorrect. Jupiter and Saturn are outer planets, not in the habitable zone.",
-        "Incorrect. Uranus and Neptune are outer planets, not in the habitable zone."
+        "Correct. The article says 'hydrogen is fused into helium' in the Sun's core.",
+        "Incorrect. The article specifically mentions hydrogen fusion.",
+        "Incorrect. The article specifically mentions hydrogen fusion.",
+        "Incorrect. The article specifically mentions hydrogen fusion."
       ]
     },
     {
       "id": 8,
-      "question": "What is the source of long-period comets according to the article?",
+      "question": "What is the name of the region created by the Sun's emitted energy?",
       "options": [
-        "The Oort cloud",
-        "The Kuiper belt",
-        "The asteroid belt",
-        "The scattered disc"
+        "Heliosphere",
+        "Photosphere",
+        "Asteroid belt",
+        "Kuiper belt"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The theorized Oort cloud â the source for long-period comets â extends from somewhere beyond 2,000 AU'.",
-        "Incorrect. The Kuiper belt is not identified as the source of long-period comets.",
-        "Incorrect. The asteroid belt is not identified as the source of long-period comets.",
-        "Incorrect. The scattered disc is not identified as the source of long-period comets."
+        "Correct. The article states 'This creates the heliosphere'.",
+        "Incorrect. The photosphere is the surface through which energy is emitted, not the region created.",
+        "Incorrect. The asteroid belt is a region of small bodies, not created by the Sun's energy.",
+        "Incorrect. The Kuiper belt is a region of trans-Neptunian objects, not created by the Sun's energy."
       ]
     },
     {
       "id": 9,
-      "question": "What is the closest star to the Solar System?",
+      "question": "Which planets are the terrestrial planets closest to the Sun?",
       "options": [
-        "Proxima Centauri",
-        "Alpha Centauri",
-        "Sirius",
-        "Barnard's Star"
+        "Mercury, Venus, Earth, and Mars",
+        "Jupiter, Saturn, Uranus, and Neptune",
+        "Earth, Mars, Jupiter, and Saturn",
+        "Venus, Earth, Mars, and Jupiter"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The closest star to the Solar System, Proxima Centauri, is 269,000 AU (4.25 ly) away.'",
-        "Incorrect. Alpha Centauri is not identified as the closest star in the article.",
-        "Incorrect. Sirius is not identified as the closest star in the article.",
-        "Incorrect. Barnard's Star is not identified as the closest star in the article."
+        "Correct. The article lists 'the terrestrial planets â Mercury, Venus, Earth and Mars'.",
+        "Incorrect. These are the gas and ice giants, not the terrestrial planets.",
+        "Incorrect. Jupiter and Saturn are not terrestrial planets.",
+        "Incorrect. Jupiter is not a terrestrial planet."
       ]
     },
     {
       "id": 10,
-      "question": "Approximately how many years ago did the Solar System form?",
+      "question": "Which two planets orbit within the Sun's habitable zone?",
       "options": [
-        "4.6 billion years ago",
-        "4.6 million years ago",
-        "46 billion years ago",
-        "4.6 trillion years ago"
+        "Earth and Mars",
+        "Venus and Mercury",
+        "Jupiter and Saturn",
+        "Uranus and Neptune"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The system formed about 4.6 billion years ago'.",
-        "Incorrect. The article states billions, not millions, of years ago.",
-        "Incorrect. The article states 4.6 billion, not 46 billion, years ago.",
-        "Incorrect. The article states 4.6 billion, not 4.6 trillion, years ago."
+        "Correct. The article states 'Earth and Mars are the only planets that orbit within the Sun's habitable zone'.",
+        "Incorrect. The article specifies Earth and Mars.",
+        "Incorrect. The article specifies Earth and Mars.",
+        "Incorrect. The article specifies Earth and Mars."
       ]
     }
   ]

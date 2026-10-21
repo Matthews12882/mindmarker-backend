@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of Tolstoy's works is described as outlining his profound spiritual awakening in the 1870s?",
+      "question": "What was Leo Tolstoy's full name?",
       "options": [
-        "Confession",
+        "Lev Nikolayevich Tolstoy",
+        "Nikolai Ilyich Tolstoy",
+        "Pyotr Andreyevich Tolstoy",
+        "Andrei Kharitonovich Tolstoy"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his full name as 'Lev Nikolayevich Tolstoy'.",
+        "Incorrect. Nikolai Ilyich Tolstoy was his father, not his full name.",
+        "Incorrect. Pyotr Andreyevich Tolstoy was an ancestor, not his full name.",
+        "Incorrect. Andrei Kharitonovich was an ancestor who received the nickname 'Tolstiy'."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which of these is NOT one of Tolstoy's famous novels mentioned in the article?",
+      "options": [
+        "The Kreutzer Sonata",
         "War and Peace",
         "Anna Karenina",
         "Resurrection"
       ],
       "answer_explanations": [
-        "Correct. The article states that Tolstoy's spiritual awakening is outlined in his non-fiction work Confession (1882).",
-        "Incorrect. War and Peace is a novel published in 1869, not the work outlining his spiritual awakening.",
-        "Incorrect. Anna Karenina is a novel published in 1878, not the work outlining his spiritual awakening.",
-        "Incorrect. Resurrection is a novel published in 1899, not the work outlining his spiritual awakening."
-      ]
-    },
-    {
-      "id": 2,
-      "question": "Which 20th-century figure is mentioned as being influenced by Tolstoy's ideas on nonviolent resistance?",
-      "options": [
-        "Mahatma Gandhi",
-        "Albert Einstein",
-        "Winston Churchill",
-        "Franklin D. Roosevelt"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists Mahatma Gandhi among the pivotal 20th-century figures profoundly impacted by Tolstoy's ideas on nonviolent resistance.",
-        "Incorrect. Albert Einstein is not mentioned in the article as being influenced by Tolstoy.",
-        "Incorrect. Winston Churchill is not mentioned in the article as being influenced by Tolstoy.",
-        "Incorrect. Franklin D. Roosevelt is not mentioned in the article as being influenced by Tolstoy."
+        "Correct. The article lists 'The Kreutzer Sonata' as a novella, not a novel, while the other three are explicitly called novels.",
+        "Incorrect. 'War and Peace' is listed as one of his famous novels.",
+        "Incorrect. 'Anna Karenina' is listed as one of his famous novels.",
+        "Incorrect. 'Resurrection' is listed as one of his famous novels."
       ]
     },
     {
       "id": 3,
-      "question": "What did Tolstoy found at Yasnaya Polyana after returning from his European trip?",
+      "question": "What was the name of the family estate where Tolstoy was born?",
       "options": [
-        "13 schools for peasant children",
-        "A publishing house",
-        "A hospital",
-        "A monastery"
+        "Yasnaya Polyana",
+        "Chernigov",
+        "Kazan",
+        "Sevastopol"
       ],
       "answer_explanations": [
-        "Correct. The article states that Tolstoy founded 13 schools for the children of Russia's peasants at Yasnaya Polyana.",
-        "Incorrect. The article does not mention Tolstoy founding a publishing house at Yasnaya Polyana.",
-        "Incorrect. The article does not mention Tolstoy founding a hospital at Yasnaya Polyana.",
-        "Incorrect. The article does not mention Tolstoy founding a monastery at Yasnaya Polyana."
+        "Correct. The article says 'Tolstoy was born at Yasnaya Polyana, a family estate'.",
+        "Incorrect. Chernigov is mentioned as the place where the mythical ancestor Indris arrived, not his birthplace.",
+        "Incorrect. Kazan is where he studied at university, not his birthplace.",
+        "Incorrect. Sevastopol is where he served during the Crimean War, not his birthplace."
       ]
     },
     {
       "id": 4,
-      "question": "Which economic philosophy did Tolstoy become a dedicated advocate of?",
+      "question": "What event in Paris during his 1857 visit had a traumatic impact on Tolstoy?",
       "options": [
-        "Georgism",
-        "Marxism",
-        "Capitalism",
-        "Mercantilism"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Tolstoy became a dedicated advocate of Georgism, the economic philosophy of Henry George.",
-        "Incorrect. Marxism is not mentioned in the article as a philosophy Tolstoy advocated.",
-        "Incorrect. Capitalism is not mentioned in the article as a philosophy Tolstoy advocated.",
-        "Incorrect. Mercantilism is not mentioned in the article as a philosophy Tolstoy advocated."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What event during Tolstoy's 1857 visit to Europe is described as traumatic and marking the rest of his life?",
-      "options": [
-        "Witnessing a public execution in Paris",
+        "Witnessing a public execution",
         "Meeting Victor Hugo",
         "Reading Les MisÃ©rables",
         "Visiting Pierre-Joseph Proudhon"
       ],
       "answer_explanations": [
-        "Correct. The article states that during his 1857 visit, Tolstoy witnessed a public execution in Paris, a traumatic experience that marked the rest of his life.",
-        "Incorrect. Meeting Victor Hugo occurred during his 1860â61 trip, not the 1857 visit.",
-        "Incorrect. Reading Les MisÃ©rables occurred during his 1860â61 trip, not the 1857 visit.",
-        "Incorrect. Visiting Pierre-Joseph Proudhon occurred during his March 1861 visit, not the 1857 visit."
+        "Correct. The article states 'Tolstoy witnessed a public execution in Paris, a traumatic experience that marked the rest of his life'.",
+        "Incorrect. He met Victor Hugo on his 1860-61 trip, not in Paris in 1857.",
+        "Incorrect. He read Les MisÃ©rables after meeting Hugo in 1860-61, not in Paris in 1857.",
+        "Incorrect. He visited Proudhon in Brussels in 1861, not in Paris in 1857."
       ]
     },
     {
-      "id": 6,
-      "question": "Which of Tolstoy's works incorporated his advocacy of Georgism?",
-      "options": [
-        "Resurrection",
-        "War and Peace",
-        "Anna Karenina",
-        "Childhood"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Tolstoy incorporated Georgism into his writing, particularly in Resurrection.",
-        "Incorrect. War and Peace is not identified in the article as incorporating Georgism.",
-        "Incorrect. Anna Karenina is not identified in the article as incorporating Georgism.",
-        "Incorrect. Childhood is not identified in the article as incorporating Georgism."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "How many children did Tolstoy and Sophia Andreevna Behrs have?",
+      "id": 5,
+      "question": "How many children did Tolstoy and his wife Sophia have?",
       "options": [
         "13",
         "8",
         "5",
-        "10"
+        "16"
       ],
       "answer_explanations": [
-        "Correct. The article states that Tolstoy and Sophia had 13 children, eight of whom survived childhood.",
-        "Incorrect. Eight is the number of children who survived childhood, not the total number of children.",
-        "Incorrect. Five is not the number of children mentioned in the article.",
-        "Incorrect. Ten is not the number of children mentioned in the article."
+        "Correct. The article states 'They had 13 children, eight of whom survived childhood'.",
+        "Incorrect. Eight is the number who survived childhood, not the total number of children.",
+        "Incorrect. Five is not mentioned as the number of children.",
+        "Incorrect. Sixteen is not mentioned as the number of children."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What did Tolstoy do after returning to Yasnaya Polyana from his European trip in 1860-61?",
+      "options": [
+        "Founded 13 schools for peasant children",
+        "Joined the army",
+        "Wrote Anna Karenina",
+        "Became a government official"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'Tolstoy returned to Yasnaya Polyana and founded 13 schools for the children of Russia's peasants'.",
+        "Incorrect. He joined the army in 1851, before his European trips.",
+        "Incorrect. He wrote Anna Karenina later, in the 1870s.",
+        "Incorrect. There is no mention of him becoming a government official."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which famous figure was influenced by Tolstoy's ideas on nonviolent resistance?",
+      "options": [
+        "Mahatma Gandhi",
+        "Victor Hugo",
+        "Henry George",
+        "Peter the Great"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his ideas 'had a profound impact on such pivotal 20th-century figures as Mahatma Gandhi'.",
+        "Incorrect. Victor Hugo was a contemporary who influenced Tolstoy, not the other way around.",
+        "Incorrect. Henry George was the originator of Georgism, which Tolstoy advocated, not a figure influenced by Tolstoy.",
+        "Incorrect. Peter the Great lived centuries before Tolstoy and is not mentioned as being influenced by him."
       ]
     },
     {
       "id": 8,
-      "question": "For which years was Tolstoy nominated for the Nobel Prize in Literature?",
+      "question": "What was the name of the economic philosophy that Tolstoy advocated?",
       "options": [
-        "1902 to 1906",
-        "1901 to 1905",
-        "1900 to 1904",
-        "1903 to 1907"
+        "Georgism",
+        "Anarchism",
+        "Pacifism",
+        "Realism"
       ],
       "answer_explanations": [
-        "Correct. The article states that Tolstoy received nominations for the Nobel Prize in Literature every year from 1902 to 1906.",
-        "Incorrect. 1901 to 1905 is not the range given in the article for the Nobel Prize in Literature nominations.",
-        "Incorrect. 1900 to 1904 is not the range given in the article for the Nobel Prize in Literature nominations.",
-        "Incorrect. 1903 to 1907 is not the range given in the article for the Nobel Prize in Literature nominations."
+        "Correct. The article says 'He also became a dedicated advocate of Georgism, the economic philosophy of Henry George'.",
+        "Incorrect. Anarchism is a broader political philosophy, not the specific economic philosophy mentioned.",
+        "Incorrect. Pacifism is a belief in non-violence, not an economic philosophy.",
+        "Incorrect. Realism is a literary style, not an economic philosophy."
       ]
     },
     {
       "id": 9,
-      "question": "What did Tolstoy seek to reject as his beliefs became increasingly radical?",
+      "question": "What happened to Tolstoy's relationship with his wife as his beliefs became more radical?",
       "options": [
-        "His inherited and earned wealth",
-        "His Russian citizenship",
-        "His literary copyrights only",
-        "His aristocratic title"
+        "It deteriorated",
+        "It improved",
+        "It stayed the same",
+        "They separated immediately"
       ],
       "answer_explanations": [
-        "Correct. The article states that Tolstoy sought to reject his inherited and earned wealth, including the renunciation of the copyrights on his earlier works.",
-        "Incorrect. The article does not mention Tolstoy seeking to reject his Russian citizenship.",
-        "Incorrect. The article mentions renunciation of copyrights as part of rejecting his wealth, not as the sole thing he sought to reject.",
-        "Incorrect. The article does not mention Tolstoy seeking to reject his aristocratic title."
+        "Correct. The article states 'Tolstoy's relationship with his wife deteriorated as his beliefs became increasingly radical'.",
+        "Incorrect. The article says the relationship deteriorated, not improved.",
+        "Incorrect. The article says the relationship deteriorated, not that it stayed the same.",
+        "Incorrect. The article does not mention an immediate separation."
       ]
     },
     {
       "id": 10,
-      "question": "Which author called Tolstoy 'the greatest of all novelists'?",
+      "question": "Who is generally considered the founder of the noble Tolstoy house?",
       "options": [
-        "Virginia Woolf",
-        "Gary Saul Morson",
-        "A.N. Wilson",
-        "Henry George"
+        "Pyotr Tolstoy",
+        "Indris",
+        "Andrei Kharitonovich",
+        "Nikolai Ilyich Tolstoy"
       ],
       "answer_explanations": [
-        "Correct. The article states that Virginia Woolf called Tolstoy 'the greatest of all novelists'.",
-        "Incorrect. Gary Saul Morson referred to War and Peace as the greatest of all novels, not Tolstoy as the greatest of all novelists.",
-        "Incorrect. A.N. Wilson described Tolstoy's later married life as one of the unhappiest in literary history, but did not call him the greatest of all novelists.",
-        "Incorrect. Henry George is the economist whose philosophy Tolstoy advocated, not an author who called Tolstoy the greatest of all novelists."
+        "Correct. The article says 'Pyotr Tolstoy himself is generally considered the founder of the noble house'.",
+        "Incorrect. Indris is described as a mythical ancestor, not the documented founder.",
+        "Incorrect. Andrei Kharitonovich received the nickname 'Tolstiy', but is not the founder.",
+        "Incorrect. Nikolai Ilyich Tolstoy was Leo's father, not the founder of the house."
       ]
     }
   ]

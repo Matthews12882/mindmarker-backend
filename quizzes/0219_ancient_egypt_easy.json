@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which river was central to the development of ancient Egyptian civilization?",
+      "question": "Along which river was ancient Egypt concentrated?",
       "options": [
-        "the Nile River",
-        "the Tigris River",
-        "the Euphrates River",
-        "the Jordan River"
+        "The Nile River",
+        "The Euphrates River",
+        "The Tigris River",
+        "The Jordan River"
       ],
       "answer_explanations": [
-        "Correct. The article states that ancient Egypt was concentrated along the lower reaches of the Nile River.",
-        "Incorrect. The Tigris River is not mentioned as central to ancient Egypt; it is associated with Mesopotamia.",
-        "Incorrect. The Euphrates River is also not central to ancient Egypt; it is another Mesopotamian river.",
-        "Incorrect. The Jordan River is not referenced in the article as central to ancient Egyptian civilization."
+        "Correct. The article states that ancient Egypt was 'concentrated along the lower reaches of the Nile River'.",
+        "Incorrect. The article does not mention the Euphrates River; it specifically identifies the Nile River.",
+        "Incorrect. The article does not mention the Tigris River; it specifically identifies the Nile River.",
+        "Incorrect. The article does not mention the Jordan River; it specifically identifies the Nile River."
       ]
     },
     {
       "id": 2,
-      "question": "Who is traditionally credited with uniting Upper and Lower Egypt?",
+      "question": "In which part of North Africa is ancient Egypt located?",
       "options": [
-        "Menes",
-        "Narmer",
-        "Cleopatra",
-        "Ramses II"
+        "The eastern part",
+        "The western part",
+        "The southern part",
+        "The northern part"
       ],
       "answer_explanations": [
-        "Correct. The article says Menes united Upper and Lower Egypt and is believed by most Egyptologists to be the same person as Narmer.",
-        "Incorrect. While Narmer is associated with unification, Menes is the traditional figure credited with the unification.",
-        "Incorrect. Cleopatra lived much later, during the Ptolemaic period, and did not unify Upper and Lower Egypt.",
-        "Incorrect. Ramses II was a later New Kingdom pharaoh, not the unifier of Upper and Lower Egypt."
+        "Correct. The article says ancient Egypt was in 'the eastern part of North Africa'.",
+        "Incorrect. The article specifies the eastern part, not the western part.",
+        "Incorrect. The article specifies the eastern part, not the southern part.",
+        "Incorrect. The article specifies the eastern part, not the northern part."
       ]
     },
     {
       "id": 3,
-      "question": "During which period did the construction of the Giza pyramids primarily occur?",
+      "question": "Around what year did ancient Egypt emerge from prehistoric Egypt?",
       "options": [
-        "the Old Kingdom",
-        "the Middle Kingdom",
-        "the New Kingdom",
-        "the Late Period"
+        "3150 BC",
+        "332 BC",
+        "30 BC",
+        "AD 642"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the Giza pyramids and Great Sphinx were constructed during the Old Kingdom.",
-        "Incorrect. The Middle Kingdom saw a resurgence of building projects, but the Giza pyramids were built earlier.",
-        "Incorrect. The New Kingdom was a later period of power, not when the Giza pyramids were built.",
-        "Incorrect. The Late Period is much later and not associated with the Giza pyramids."
+        "Correct. The article states that ancient Egypt emerged 'around 3150 BC'.",
+        "Incorrect. 332 BC is mentioned as a possible end date for ancient Egypt, not its emergence.",
+        "Incorrect. 30 BC is mentioned as a possible end date for ancient Egypt, not its emergence.",
+        "Incorrect. AD 642 is mentioned as the date of the Arab conquest, not the emergence."
       ]
     },
     {
       "id": 4,
-      "question": "What major achievement is highlighted as the earliest known peace treaty?",
+      "question": "Who united Upper and Lower Egypt?",
       "options": [
-        "the EgyptianâHittite peace treaty",
-        "the Treaty of Kadesh",
-        "the Rosetta Stone",
-        "the Amarna letters"
+        "Menes",
+        "Narmer",
+        "Alexander the Great",
+        "The pharaoh"
       ],
       "answer_explanations": [
-        "Correct. The article states that the earliest known peace treaty was the EgyptianâHittite peace treaty.",
-        "Incorrect. The Treaty of Kadesh is a later name for the same treaty but the article highlights the EgyptianâHittite peace treaty.",
-        "Incorrect. The Rosetta Stone is a later artifact for deciphering hieroglyphs, not a peace treaty.",
-        "Incorrect. The Amarna letters are diplomatic correspondence, not a peace treaty."
+        "Correct. The article says Upper and Lower Egypt 'were united by Menes'.",
+        "Incorrect. The article says Menes is believed to be the same person as Narmer, but it names Menes as the unifier.",
+        "Incorrect. Alexander the Great is mentioned in relation to the end of the Late Period, not the unification.",
+        "Incorrect. The article does not say a generic pharaoh united Upper and Lower Egypt; it specifically names Menes."
       ]
     },
     {
       "id": 5,
-      "question": "Which foreign group invaded Egypt during the Second Intermediate Period?",
+      "question": "Which period was the pinnacle of ancient Egyptian power?",
       "options": [
-        "the Hyksos",
-        "the Romans",
-        "the Greeks",
-        "the Persians"
+        "The New Kingdom",
+        "The Old Kingdom",
+        "The Middle Kingdom",
+        "The Late Period"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the Hyksos as one of the foreign civilizations that invaded or conquered Egypt.",
-        "Incorrect. The Romans invaded much later, during the Roman period.",
-        "Incorrect. The Greeks (Ptolemies) ruled later, not during the Second Intermediate Period.",
-        "Incorrect. The Persians invaded later, during the Achaemenid period."
+        "Correct. The article states that 'the pinnacle of ancient Egyptian power was achieved during the New Kingdom'.",
+        "Incorrect. The Old Kingdom is one of the stable kingdoms but not described as the pinnacle.",
+        "Incorrect. The Middle Kingdom is one of the stable kingdoms but not described as the pinnacle.",
+        "Incorrect. The Late Period is mentioned as a period of decline, not the pinnacle."
       ]
     },
     {
       "id": 6,
-      "question": "What system of writing did ancient Egyptians develop?",
+      "question": "During the New Kingdom, Egypt extended its rule to much of Nubia and a considerable portion of which region?",
       "options": [
-        "hieroglyphs",
-        "cuneiform",
-        "alphabetic script",
-        "runes"
+        "The Levant",
+        "Anatolia",
+        "The Near East",
+        "North Africa"
       ],
       "answer_explanations": [
-        "Correct. The article notes that the Naqada culture began using written symbols that developed into a full system of hieroglyphs.",
-        "Incorrect. Cuneiform was used by Mesopotamians, not ancient Egyptians.",
-        "Incorrect. The alphabetic script developed later, not as the primary Egyptian system.",
-        "Incorrect. Runes are associated with Norse cultures, not ancient Egypt."
+        "Correct. The article says the New Kingdom 'extended its rule to much of Nubia and a considerable portion of the Levant'.",
+        "Incorrect. Anatolia is mentioned as the location of the Hittite Empire, not as a region Egypt ruled.",
+        "Incorrect. The Near East is mentioned as a region where Egypt asserted dominance, but the specific region mentioned with Nubia is the Levant.",
+        "Incorrect. North Africa is the broader region where Egypt is located, but the article specifically mentions the Levant."
       ]
     },
     {
       "id": 7,
-      "question": "Which city served as the capital during the Early Dynastic Period?",
+      "question": "Which of the following civilizations invaded or conquered Egypt?",
       "options": [
-        "Memphis",
-        "Thebes",
-        "Alexandria",
-        "Giza"
+        "The Hyksos",
+        "The Babylonians",
+        "The Hittites",
+        "The Canaanites"
       ],
       "answer_explanations": [
-        "Correct. The article says the first of the Dynastic kings established a capital at Memphis.",
-        "Incorrect. Thebes became prominent later, especially during the Middle and New Kingdoms.",
-        "Incorrect. Alexandria was founded much later by Alexander the Great.",
-        "Incorrect. Giza is known for pyramids, not as a capital city."
+        "Correct. The article lists the Hyksos among the foreign civilizations that invaded or conquered Egypt.",
+        "Incorrect. The Babylonians are not mentioned in the article's list of invaders.",
+        "Incorrect. The Hittites are mentioned as the empire with which Egypt made a peace treaty, not as invaders.",
+        "Incorrect. The Canaanites are not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "What natural phenomenon made agriculture possible in ancient Egypt?",
+      "question": "What was one factor in the success of ancient Egyptian civilization?",
       "options": [
-        "the predictable flooding of the Nile",
-        "the monsoon rains",
-        "the snowmelt from mountains",
-        "the desert winds"
+        "Its ability to adapt to the Nile's conditions for agriculture",
+        "Its ability to avoid all foreign invasions",
+        "Its lack of a writing system",
+        "Its reliance on hunting rather than farming"
       ],
       "answer_explanations": [
-        "Correct. The article highlights the predictable flooding of the Nile as key to agriculture.",
-        "Incorrect. Monsoon rains are not a factor in Nile agriculture.",
-        "Incorrect. Snowmelt from mountains is not the primary source for Nile flooding.",
-        "Incorrect. Desert winds do not support agriculture in this context."
+        "Correct. The article states that 'the success of ancient Egyptian civilization came partly from its ability to adapt to the Nile's conditions for agriculture'.",
+        "Incorrect. The article mentions that Egypt was invaded or conquered by several civilizations, so it did not avoid all invasions.",
+        "Incorrect. The article mentions the early development of an independent writing system, so it did have one.",
+        "Incorrect. The article emphasizes agriculture and irrigation, not hunting."
       ]
     },
     {
       "id": 9,
-      "question": "Which material was used to make Egyptian faience?",
+      "question": "What did the predictable flooding of the Nile and controlled irrigation produce?",
       "options": [
-        "ceramic glaze",
-        "bronze",
-        "ivory",
-        "marble"
+        "Surplus crops",
+        "Desertification",
+        "Frequent famines",
+        "A lack of population"
       ],
       "answer_explanations": [
-        "Correct. The article describes faience as a ceramic glaze used to decorate items.",
-        "Incorrect. Bronze is a metal alloy, not used for faience.",
-        "Incorrect. Ivory is used for jewelry, not faience.",
-        "Incorrect. Marble is not the material for faience."
+        "Correct. The article says the flooding and irrigation 'produced surplus crops'.",
+        "Incorrect. The article does not mention desertification; it says the conditions produced surplus crops.",
+        "Incorrect. The article says the conditions supported a dense population, not famines.",
+        "Incorrect. The article says the surplus crops supported a more dense population, not a lack of population."
       ]
     },
     {
       "id": 10,
-      "question": "When did the Arab conquest of Egypt bring an end to the Greco-Roman period?",
+      "question": "Which of the following is listed as an achievement of ancient Egypt?",
       "options": [
-        "in AD 642",
-        "in 30 BC",
-        "in 332 BC",
-        "in 1000 AD"
+        "The earliest known peace treaty",
+        "The invention of gunpowder",
+        "The first steam engine",
+        "The discovery of electricity"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Arab conquest of Egypt in AD 642 ended the Greco-Roman period.",
-        "Incorrect. 30 BC marked the end of the Ptolemaic Kingdom and Roman Egypt began.",
-        "Incorrect. 332 BC was the end of the Late Period with Alexander's conquest.",
-        "Incorrect. 1000 AD is much later and not referenced as ending the Greco-Roman period."
+        "Correct. The article lists 'the earliest known peace treaty' among ancient Egypt's achievements.",
+        "Incorrect. Gunpowder is not mentioned in the article.",
+        "Incorrect. The steam engine is not mentioned in the article.",
+        "Incorrect. Electricity is not mentioned in the article."
       ]
     }
   ]

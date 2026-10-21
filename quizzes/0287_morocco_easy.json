@@ -7,160 +7,160 @@
       "id": 1,
       "question": "What is the official name of Morocco?",
       "options": [
-        "Kingdom of Morocco",
-        "Republic of Morocco",
-        "Islamic Republic of Morocco",
-        "Democratic Morocco"
+        "The Kingdom of Morocco",
+        "The Republic of Morocco",
+        "The Sultanate of Morocco",
+        "The Empire of Morocco"
       ],
       "answer_explanations": [
         "Correct. The article states that Morocco is officially the 'Kingdom of Morocco'.",
-        "Incorrect. The article does not refer to Morocco as a republic.",
-        "Incorrect. The article does not refer to Morocco as an Islamic republic.",
-        "Incorrect. The article does not use the term 'Democratic Morocco'."
+        "Incorrect. The article does not call Morocco a republic; it is officially a kingdom.",
+        "Incorrect. The article does not refer to Morocco as a sultanate.",
+        "Incorrect. The article does not describe Morocco as an empire."
       ]
     },
     {
       "id": 2,
-      "question": "Which two bodies of water border Morocco?",
+      "question": "In which region of North Africa is Morocco located?",
       "options": [
-        "Mediterranean Sea and Atlantic Ocean",
-        "Mediterranean Sea and Red Sea",
-        "Atlantic Ocean and Indian Ocean",
-        "Mediterranean Sea and Black Sea"
+        "The Maghreb",
+        "The Sahel",
+        "The Horn of Africa",
+        "The Levant"
       ],
       "answer_explanations": [
-        "Correct. The article says Morocco has 'coastlines on the Mediterranean Sea to the north and the Atlantic Ocean to the west'.",
-        "Incorrect. Morocco does not border the Red Sea.",
-        "Incorrect. Morocco does not border the Indian Ocean.",
-        "Incorrect. Morocco does not border the Black Sea."
+        "Correct. The article says Morocco is in the 'Maghreb region of North Africa'.",
+        "Incorrect. The Sahel is not mentioned as Morocco's region.",
+        "Incorrect. The Horn of Africa is not mentioned as Morocco's region.",
+        "Incorrect. The Levant is not mentioned as Morocco's region."
       ]
     },
     {
       "id": 3,
-      "question": "What is the capital city of Morocco?",
+      "question": "Which body of water is to the north of Morocco?",
       "options": [
-        "Rabat",
-        "Casablanca",
-        "Marrakesh",
-        "Fes"
+        "The Mediterranean Sea",
+        "The Red Sea",
+        "The Black Sea",
+        "The Caspian Sea"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states 'Its capital is Rabat'.",
-        "Incorrect. Casablanca is the largest city, not the capital.",
-        "Incorrect. Marrakesh is a major city but not the capital.",
-        "Incorrect. Fes is a historic city but not the capital."
+        "Correct. The article states Morocco has coastlines on the Mediterranean Sea to the north.",
+        "Incorrect. The Red Sea is not mentioned as bordering Morocco.",
+        "Incorrect. The Black Sea is not mentioned as bordering Morocco.",
+        "Incorrect. The Caspian Sea is not mentioned as bordering Morocco."
       ]
     },
     {
       "id": 4,
-      "question": "Which dynasty currently rules Morocco?",
+      "question": "Which country borders Morocco to the east?",
       "options": [
-        "Alawi dynasty",
-        "Idrisid dynasty",
-        "Almoravid dynasty",
-        "Saadi dynasty"
+        "Algeria",
+        "Libya",
+        "Tunisia",
+        "Mauritania"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The Alawi dynasty, which rules the country to this day, seized power in 1631'.",
-        "Incorrect. The Idrisid dynasty ruled from 788 but does not rule today.",
-        "Incorrect. The Almoravid dynasty ruled in the 11th-12th centuries, not currently.",
-        "Incorrect. The Saadi dynasty ruled in the 16th century, not currently."
+        "Correct. The article says Morocco has land borders with Algeria to the east.",
+        "Incorrect. Libya is not mentioned as bordering Morocco.",
+        "Incorrect. Tunisia is not mentioned as bordering Morocco.",
+        "Incorrect. Mauritania is not mentioned as a direct border; the article says Morocco claims a border through Western Sahara."
       ]
     },
     {
       "id": 5,
-      "question": "In which year did Morocco regain its independence?",
+      "question": "What is the capital of Morocco?",
       "options": [
-        "1956",
-        "1912",
-        "1975",
-        "1631"
+        "Rabat",
+        "Casablanca",
+        "Marrakesh",
+        "Fez"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Morocco regained its independence and reunified in 1956'.",
-        "Incorrect. 1912 is when France and Spain established protectorates, not independence.",
-        "Incorrect. 1975 is when Morocco occupied parts of Western Sahara, not independence.",
-        "Incorrect. 1631 is when the Alawi dynasty seized power, not independence."
+        "Correct. The article states 'Its capital is Rabat'.",
+        "Incorrect. Casablanca is the largest city, not the capital.",
+        "Incorrect. Marrakesh is not mentioned as the capital.",
+        "Incorrect. Fez is not mentioned as the capital."
       ]
     },
     {
       "id": 6,
-      "question": "What type of government does Morocco have?",
+      "question": "What is the largest city in Morocco?",
       "options": [
-        "Unitary semi-constitutional monarchy",
-        "Federal republic",
-        "Absolute monarchy",
-        "Parliamentary democracy"
+        "Casablanca",
+        "Rabat",
+        "Tangier",
+        "Agadir"
       ],
       "answer_explanations": [
-        "Correct. The article describes Morocco as 'a unitary semi-constitutional monarchy with an elected parliament'.",
-        "Incorrect. Morocco is not a federal republic.",
-        "Incorrect. Morocco is a semi-constitutional monarchy, not an absolute monarchy.",
-        "Incorrect. While it has an elected parliament, it is a monarchy, not a parliamentary democracy."
+        "Correct. The article says 'its largest city is Casablanca'.",
+        "Incorrect. Rabat is the capital, not the largest city.",
+        "Incorrect. Tangier is not mentioned as the largest city.",
+        "Incorrect. Agadir is not mentioned as the largest city."
       ]
     },
     {
       "id": 7,
-      "question": "Which two official languages are mentioned for Morocco?",
+      "question": "Approximately how many people live in Morocco?",
       "options": [
-        "Arabic and Berber",
-        "Arabic and French",
-        "Berber and Spanish",
-        "Arabic and English"
+        "37 million",
+        "27 million",
+        "47 million",
+        "57 million"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Arabic and Berber are the official languages'.",
-        "Incorrect. French is not listed as an official language in the article.",
-        "Incorrect. Spanish is not listed as an official language.",
-        "Incorrect. English is not listed as an official language."
+        "Correct. The article states Morocco has a population of approximately 37 million.",
+        "Incorrect. The article does not say 27 million.",
+        "Incorrect. The article does not say 47 million.",
+        "Incorrect. The article does not say 57 million."
       ]
     },
     {
       "id": 8,
-      "question": "What is the predominant religion in Morocco?",
+      "question": "Which Spanish exclaves does Morocco claim?",
       "options": [
-        "Islam",
-        "Christianity",
-        "Judaism",
-        "Hinduism"
+        "Ceuta, Melilla, and PeÃ±Ã³n de VÃ©lez de la Gomera",
+        "Gibraltar, Ceuta, and Melilla",
+        "The Canary Islands, Ceuta, and Melilla",
+        "Melilla, PeÃ±Ã³n de VÃ©lez de la Gomera, and the Balearic Islands"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Islam is both the official and predominant religion, with nearly all of the population identifying as Muslims'.",
-        "Incorrect. Christianity is not the predominant religion in Morocco.",
-        "Incorrect. Judaism is not the predominant religion.",
-        "Incorrect. Hinduism is not the predominant religion."
+        "Correct. The article lists Ceuta, Melilla, and PeÃ±Ã³n de VÃ©lez de la Gomera as Spanish exclaves claimed by Morocco.",
+        "Incorrect. Gibraltar is not mentioned as a Spanish exclave claimed by Morocco.",
+        "Incorrect. The Canary Islands are not mentioned as claimed by Morocco.",
+        "Incorrect. The Balearic Islands are not mentioned as claimed by Morocco."
       ]
     },
     {
       "id": 9,
-      "question": "Which territory does Morocco claim and designate as its Southern Provinces?",
+      "question": "Which disputed territory lies to the south of Morocco?",
       "options": [
         "Western Sahara",
         "Mauritania",
-        "Ceuta",
-        "Melilla"
+        "Mali",
+        "Niger"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Morocco claims ownership of the non-self-governing territory of Western Sahara, which it has designated its Southern Provinces'.",
-        "Incorrect. Mauritania is a separate country, not claimed as Southern Provinces.",
-        "Incorrect. Ceuta is a Spanish exclave claimed by Morocco, but not designated as Southern Provinces.",
-        "Incorrect. Melilla is a Spanish exclave claimed by Morocco, but not designated as Southern Provinces."
+        "Correct. The article mentions the disputed territory of Western Sahara to the south.",
+        "Incorrect. Mauritania is not described as a disputed territory; Morocco claims a border with it through Western Sahara.",
+        "Incorrect. Mali is not mentioned as a disputed territory to the south.",
+        "Incorrect. Niger is not mentioned as a disputed territory to the south."
       ]
     },
     {
       "id": 10,
-      "question": "From which city does the English name 'Morocco' derive?",
+      "question": "Since when has Morocco partly occupied Western Sahara?",
       "options": [
-        "Marrakesh",
-        "Fes",
-        "Rabat",
-        "Casablanca"
+        "1975",
+        "1965",
+        "1985",
+        "1995"
       ],
       "answer_explanations": [
-        "Correct. The article explains that the English name 'Morocco' is 'derived from the name of the city of Marrakesh'.",
-        "Incorrect. Fes is a historic capital but not the source of the name 'Morocco'.",
-        "Incorrect. Rabat is the current capital but not the source of the name.",
-        "Incorrect. Casablanca is the largest city but not the source of the name."
+        "Correct. The article states Western Sahara is 'partly occupied by Morocco since 1975'.",
+        "Incorrect. The article does not mention 1965.",
+        "Incorrect. The article does not mention 1985.",
+        "Incorrect. The article does not mention 1995."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what did William Gilbert coin to refer to the property of attracting small objects after being rubbed?",
+      "question": "What is electricity defined as in the article?",
       "options": [
-        "electricus",
-        "electricity",
-        "electromagnetism",
-        "electron"
+        "The set of physical phenomena associated with the presence and motion of matter possessing an electric charge",
+        "The study of magnetic fields and their effects on objects",
+        "The flow of water through pipes to generate power",
+        "The force that holds atomic nuclei together"
       ],
       "answer_explanations": [
-        "Correct. The article states that Gilbert coined the Neo-Latin word *electricus* to refer to the property of attracting small objects after being rubbed.",
-        "Incorrect. The article says *electricus* gave rise to the English word \"electricity,\" but Gilbert himself coined *electricus*.",
-        "Incorrect. Electromagnetism is described as the broader phenomenon linking electricity and magnetism, not Gilbert's coined term.",
-        "Incorrect. *Elektron* is the Greek word for amber, not the term Gilbert coined."
+        "Correct. The article states: 'Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge.'",
+        "Incorrect. Electricity is not defined as the study of magnetic fields; it is related to magnetism but is specifically about electric charge.",
+        "Incorrect. Electricity is not about water flow; it involves electric charge, not water.",
+        "Incorrect. The strong interaction holds atomic nuclei together, not electricity."
       ]
     },
     {
       "id": 2,
-      "question": "What did Benjamin Franklin's kite experiment in June 1752 reportedly demonstrate?",
+      "question": "Which of the following is a common phenomenon related to electricity mentioned in the article?",
       "options": [
-        "That lightning was electrical in nature",
-        "That electricity could be stored in a Leyden jar",
-        "That positive and negative charges exist",
-        "That electric fish could cure ailments"
+        "Lightning",
+        "Tornadoes",
+        "Earthquakes",
+        "Volcanic eruptions"
       ],
       "answer_explanations": [
-        "Correct. The article states that sparks jumping from the key to the back of his hand showed that lightning was indeed electrical in nature.",
-        "Incorrect. Franklin explained the Leyden jar separately; the kite experiment demonstrated the electrical nature of lightning.",
-        "Incorrect. While Franklin explained charge in terms of positive and negative charges, the kite experiment specifically showed lightning was electrical.",
-        "Incorrect. The use of electric fish for curing ailments is described in ancient contexts, not Franklin's experiment."
+        "Correct. The article lists lightning as one of the common phenomena related to electricity.",
+        "Incorrect. Tornadoes are not mentioned as electrical phenomena in the article.",
+        "Incorrect. Earthquakes are not related to electricity in the article.",
+        "Incorrect. Volcanic eruptions are not listed as electrical phenomena."
       ]
     },
     {
       "id": 3,
-      "question": "What did Alessandro Volta's voltaic pile of 1800 provide scientists with?",
+      "question": "What does the motion of electric charge carriers produce?",
       "options": [
-        "A more reliable source of electrical energy than electrostatic machines",
-        "The first electric motor",
-        "A mathematical analysis of electrical circuits",
-        "The discovery of bioelectromagnetics"
+        "A magnetic field",
+        "A gravitational field",
+        "A sound wave",
+        "A light wave"
       ],
       "answer_explanations": [
-        "Correct. The article states Volta's battery provided scientists with a more reliable source of electrical energy than the electrostatic machines previously used.",
-        "Incorrect. The electric motor was invented by Michael Faraday in 1821, not Volta.",
-        "Incorrect. Georg Ohm mathematically analysed the electrical circuit in 1827, not Volta.",
-        "Incorrect. Luigi Galvani published his discovery of bioelectromagnetics in 1791, not Volta."
+        "Correct. The article says: 'The motion of electric charge carriers is an electric current and produces a magnetic field.'",
+        "Incorrect. Gravitational fields are not produced by electric current.",
+        "Incorrect. Sound waves are not produced by electric current.",
+        "Incorrect. Light waves are not directly produced by the motion of charge carriers; that is a different phenomenon."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what is electric potential?",
+      "question": "In which century did the development of the theory of electromagnetism mark significant progress?",
       "options": [
-        "The work done to move an electric charge from one position to another within an electric field",
-        "The motion of electric charge carriers",
-        "The force acting on an electrically charged particle",
-        "The presence of either a positive or negative electric charge"
+        "19th century",
+        "17th century",
+        "18th century",
+        "20th century"
       ],
       "answer_explanations": [
-        "Correct. The article defines electric potential as the work done to move an electric charge from one position to another within an electric field.",
-        "Incorrect. The motion of electric charge carriers is defined as electric current.",
-        "Incorrect. Coulomb's law determines the force acting on an electrically charged particle.",
-        "Incorrect. The presence of either a positive or negative electric charge produces an electric field."
+        "Correct. The article states: 'The development of the theory of electromagnetism in the 19th century marked significant progress.'",
+        "Incorrect. The 17th century was earlier, before the theory of electromagnetism was developed.",
+        "Incorrect. The 18th century was also before the major development of electromagnetism theory.",
+        "Incorrect. The 20th century came after the 19th century development."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what did Thales of Miletus incorrectly believe about the attraction of rubbed amber?",
+      "question": "Who wrote 'De Magnete' in 1600, making a careful study of electricity and magnetism?",
       "options": [
-        "That the attraction was due to a magnetic effect",
-        "That friction rendered amber non-magnetic",
-        "That amber needed no rubbing to attract objects",
-        "That the attraction was caused by electric charge"
+        "William Gilbert",
+        "Benjamin Franklin",
+        "Isaac Newton",
+        "Michael Faraday"
       ],
       "answer_explanations": [
-        "Correct. The article states Thales believed friction rendered amber magnetic, but he was incorrect in believing the attraction was due to a magnetic effect.",
-        "Incorrect. Thales believed friction rendered amber magnetic, not non-magnetic.",
-        "Incorrect. The article says magnetite needed no rubbing, in contrast to amber which required rubbing.",
-        "Incorrect. The article notes later science proved a link between magnetism and electricity, but Thales attributed the effect to magnetism specifically."
+        "Correct. The article says: 'William Gilbert wrote De Magnete, in which he made a careful study of electricity and magnetism.'",
+        "Incorrect. Benjamin Franklin conducted research later in the 18th century, not in 1600.",
+        "Incorrect. Isaac Newton made early investigations but did not write 'De Magnete'.",
+        "Incorrect. Michael Faraday invented the electric motor in 1821, much later."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what did Charles-Augustin de Coulomb deduce about charge?",
+      "question": "What did Benjamin Franklin's kite experiment in 1752 demonstrate?",
       "options": [
-        "That charge manifests itself in two opposing forms",
-        "That like-charged objects attract and opposite-charged objects repel",
-        "That charge cannot spread over a conducting surface",
-        "That the electromagnetic force is weaker than the gravitational force"
+        "That lightning is electrical in nature",
+        "That electricity can be stored in batteries",
+        "That electric fish produce shocks",
+        "That amber attracts feathers when rubbed"
       ],
       "answer_explanations": [
-        "Correct. The article states Coulomb deduced that charge manifests itself in two opposing forms, leading to the axiom that like-charged objects repel and opposite-charged objects attract.",
-        "Incorrect. The article states like-charged objects repel and opposite-charged objects attract, the reverse of this option.",
-        "Incorrect. The article says charge has a tendency to spread itself as evenly as possible over a conducting surface.",
-        "Incorrect. The article states the electromagnetic force is very strong, much stronger than the gravitational force."
+        "Correct. The article states: 'A succession of sparks jumping from the key to the back of his hand showed that lightning was indeed electrical in nature.'",
+        "Incorrect. The kite experiment was about lightning, not batteries.",
+        "Incorrect. Electric fish were known before Franklin's experiment.",
+        "Incorrect. The amber effect was known since antiquity, not demonstrated by Franklin."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is the elementary charge defined as?",
+      "question": "Who invented the electric motor in 1821?",
       "options": [
-        "The charge carried by a proton, exactly 1.602176634Ã10â19 coulombs",
-        "The charge carried by an electron, exactly 1.602176634Ã10â19 coulombs",
-        "The smallest possible charge an object can have, which is zero",
-        "The charge acquired by a glass rod rubbed with silk"
+        "Michael Faraday",
+        "Alessandro Volta",
+        "Hans Christian Ãrsted",
+        "Georg Ohm"
       ],
       "answer_explanations": [
-        "Correct. The article states a proton carries a charge of exactly 1.602176634Ã10â19 coulombs, and this value is defined as the elementary charge.",
-        "Incorrect. An electron has an equal negative charge, â1.602176634Ã10â19 coulombs, not the positive elementary charge value.",
-        "Incorrect. The article states no object can have a charge smaller than the elementary charge, but does not define it as zero.",
-        "Incorrect. The glass rod rubbed with silk is how Benjamin Franklin defined positive charge, not the elementary charge value."
+        "Correct. The article says: 'Michael Faraday invented the electric motor in 1821.'",
+        "Incorrect. Alessandro Volta invented the battery in 1800.",
+        "Incorrect. Hans Christian Ãrsted is credited with recognizing electromagnetism, not inventing the motor.",
+        "Incorrect. Georg Ohm mathematically analyzed circuits, not the motor."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what did the development of the theory of electromagnetism in the 19th century lead to by the century's end?",
+      "question": "What did Albert Einstein explain in his 1905 paper on the photoelectric effect?",
       "options": [
-        "Electricity's industrial and residential application by electrical engineers",
-        "The discovery of the photoelectric effect",
-        "The invention of the solid-state device",
-        "The First Industrial Revolution"
+        "That light energy is carried in discrete quantized packets, energising electrons",
+        "That electricity is a fluid",
+        "That electric fish produce electricity",
+        "That magnets attract metals"
       ],
       "answer_explanations": [
-        "Correct. The article states the development of electromagnetism theory led to electricity's industrial and residential application by electrical engineers by the century's end.",
-        "Incorrect. The photoelectric effect was explained by Einstein in 1905, in the 20th century.",
-        "Incorrect. The first solid-state device was the cat's-whisker detector used in the 1900s, not a result of 19th-century electromagnetism theory.",
-        "Incorrect. The article describes the rapid expansion of electrical technology as the driving force behind the Second Industrial Revolution, not the First."
+        "Correct. The article states: 'Einstein published a paper that explained experimental data from the photoelectric effect as being the result of light energy being carried in discrete quantized packets, energising electrons.'",
+        "Incorrect. The fluid theory of electricity was earlier and not Einstein's work.",
+        "Incorrect. Electric fish were known long before Einstein.",
+        "Incorrect. Magnetism is not the focus of the photoelectric effect."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what are the two forms in which current flow can be understood in solid-state components?",
+      "question": "What was the first solid-state device mentioned in the article?",
       "options": [
-        "As negatively charged electrons and as positively charged electron deficiencies called holes",
-        "As protons and neutrons",
-        "As electric fields and magnetic fields",
-        "As volts and amperes"
+        "The cat's-whisker detector",
+        "The transistor",
+        "The vacuum tube",
+        "The solar panel"
       ],
       "answer_explanations": [
-        "Correct. The article states current flow can be understood as negatively charged electrons and as positively charged electron deficiencies called holes.",
-        "Incorrect. Protons and neutrons are not mentioned as forms of current flow in solid-state components.",
-        "Incorrect. Electric and magnetic fields are related phenomena, not the two forms of current flow described.",
-        "Incorrect. Volts and amperes are units, not forms of current flow."
+        "Correct. The article says: 'The first solid-state device was the \"cat's-whisker detector\" first used in the 1900s in radio receivers.'",
+        "Incorrect. The transistor came later, in 1947.",
+        "Incorrect. Vacuum tubes are not solid-state devices.",
+        "Incorrect. Solar panels use the photoelectric effect but are not the first solid-state device."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what role does electricity play in modern technologies?",
+      "question": "According to the article, what is the charge of an electron?",
       "options": [
-        "It serves in electric power and electronics, and is integral to transport, heating/cooling, lighting, communications, and computation",
-        "It is used only in electric power generation",
-        "It is primarily used for electric heating and lighting",
-        "It has no role in computation or communications"
+        "Negative",
+        "Positive",
+        "Neutral",
+        "Zero"
       ],
       "answer_explanations": [
-        "Correct. The article states electricity plays a central role in electric power and electronics, and is integral to applications spanning transport, heating/cooling, lighting, communications, and computation.",
-        "Incorrect. The article describes electricity's role as extending far beyond only electric power generation.",
-        "Incorrect. The article lists many applications beyond just heating and lighting.",
-        "Incorrect. The article explicitly names communications and computation among electricity's applications."
+        "Correct. The article states: 'By modern convention, the charge carried by electrons is defined as negative.'",
+        "Incorrect. Protons have positive charge, not electrons.",
+        "Incorrect. Electrons are not neutral; they carry a negative charge.",
+        "Incorrect. Electrons have a charge, not zero."
       ]
     }
   ]

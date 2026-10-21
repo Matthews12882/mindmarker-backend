@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which regions are included in Sub-Saharan Africa?",
+      "question": "What is Sub-Saharan Africa?",
       "options": [
-        "Central Africa, East Africa, Southern Africa, and West Africa",
-        "North Africa, West Africa, and Central Africa",
-        "East Africa, North Africa, and Southern Africa",
-        "West Africa, North Africa, and East Africa"
+        "The areas and regions of Africa that lie south of the Sahara",
+        "The areas and regions of Africa that lie north of the Sahara",
+        "The areas and regions of Africa that lie east of the Sahara",
+        "The areas and regions of Africa that lie west of the Sahara"
       ],
       "answer_explanations": [
-        "Correct. The article states that Sub-Saharan Africa includes Central Africa, East Africa, Southern Africa, and West Africa.",
-        "Incorrect. North Africa is not included in Sub-Saharan Africa; it is grouped separately with MENA.",
-        "Incorrect. North Africa is not part of Sub-Saharan Africa according to the article.",
-        "Incorrect. North Africa is excluded from Sub-Saharan Africa in the article."
+        "Correct. The article states that Sub-Saharan Africa is 'the areas and regions of the continent of Africa that lie south of the Sahara.'",
+        "Incorrect. The article specifies that Sub-Saharan Africa lies south of the Sahara, not north.",
+        "Incorrect. The article specifies that Sub-Saharan Africa lies south of the Sahara, not east.",
+        "Incorrect. The article specifies that Sub-Saharan Africa lies south of the Sahara, not west."
       ]
     },
     {
       "id": 2,
-      "question": "What does the term Sub-Saharan Africa serve as a grouping counterpart to?",
+      "question": "Which of these regions are included in Sub-Saharan Africa?",
       "options": [
-        "North Africa",
-        "MENA",
-        "Arab League",
-        "African Union"
+        "Central Africa, East Africa, Southern Africa, and West Africa",
+        "North Africa, East Africa, Southern Africa, and West Africa",
+        "Central Africa, North Africa, Southern Africa, and West Africa",
+        "Central Africa, East Africa, Southern Africa, and North Africa"
       ],
       "answer_explanations": [
-        "Correct. The article says the term serves as a grouping counterpart to North Africa.",
-        "Incorrect. MENA is associated with North Africa, not the counterpart to Sub-Saharan Africa.",
-        "Incorrect. The Arab League is not described as the counterpart grouping to Sub-Saharan Africa.",
-        "Incorrect. The African Union is not the counterpart grouping mentioned in the article."
+        "Correct. The article lists 'Central Africa, East Africa, Southern Africa, and West Africa' as included in Sub-Saharan Africa.",
+        "Incorrect. North Africa is not listed as part of Sub-Saharan Africa; Central Africa is listed instead.",
+        "Incorrect. North Africa is not listed as part of Sub-Saharan Africa; East Africa is listed instead.",
+        "Incorrect. North Africa is not listed as part of Sub-Saharan Africa; West Africa is listed instead."
       ]
     },
     {
       "id": 3,
-      "question": "How many countries does the UN Development Programme apply the sub-Saharan classification to?",
+      "question": "According to the article, how many countries are included in Sub-Saharan Africa depending on the organisation describing the region?",
       "options": [
-        "46",
-        "48",
-        "49",
-        "55"
+        "46 to 48",
+        "45 to 47",
+        "47 to 49",
+        "44 to 46"
       ],
       "answer_explanations": [
-        "Correct. The article states the UN Development Programme applies the classification to 46 of Africa's 55 countries.",
-        "Incorrect. 48 is not the number given for the UN Development Programme classification.",
-        "Incorrect. 49 is not the number given for the UN Development Programme classification.",
-        "Incorrect. 55 is the total number of African Union member states, not the sub-Saharan classification count."
+        "Correct. The article says 'the number of countries included varying from 46 to 48 depending on the organisation describing the region.'",
+        "Incorrect. The article states the range is from 46 to 48, not 45 to 47.",
+        "Incorrect. The article states the range is from 46 to 48, not 47 to 49.",
+        "Incorrect. The article states the range is from 46 to 48, not 44 to 46."
       ]
     },
     {
       "id": 4,
-      "question": "Which countries are excluded from the UN Development Programme's sub-Saharan classification?",
+      "question": "Which organisation uses a different regional breakdown, recognising all 55 member states on the continent?",
       "options": [
-        "Djibouti, SADR, Somalia, and Sudan",
-        "Algeria, Egypt, Libya, and Morocco",
-        "Comoros, Mauritania, and Somalia",
-        "Tunisia, Western Sahara, and Sudan"
+        "The African Union (AU)",
+        "The United Nations (UN)",
+        "The World Health Organization (WHO)",
+        "The World Bank"
       ],
       "answer_explanations": [
-        "Correct. The article lists Djibouti, SADR, Somalia, and Sudan as excluded from the UNDP sub-Saharan classification.",
-        "Incorrect. These countries are part of Northern Africa, not the UNDP exclusions listed.",
-        "Incorrect. Comoros and Mauritania are geographically considered part of sub-Saharan Africa, not UNDP exclusions.",
-        "Incorrect. Tunisia and Western Sahara are not listed as UNDP exclusions in the article."
+        "Correct. The article states 'The African Union (AU) uses a different regional breakdown, recognising all 55 member states on the continent.'",
+        "Incorrect. The article mentions the UN as one of the organisations describing the region, but it is the AU that recognises all 55 member states.",
+        "Incorrect. The article mentions the WHO as one of the organisations describing the region, but it is the AU that recognises all 55 member states.",
+        "Incorrect. The article mentions the World Bank as one of the organisations describing the region, but it is the AU that recognises all 55 member states."
       ]
     },
     {
       "id": 5,
-      "question": "Since approximately what year have the Saharan and sub-Saharan regions been separated by the Sahara's harsh climate?",
+      "question": "What is the term 'Sub-Saharan Africa' a grouping counterpart to?",
       "options": [
-        "3900 BCE",
-        "3900 CE",
-        "3000 BCE",
-        "2000 BCE"
+        "North Africa",
+        "Central Africa",
+        "East Africa",
+        "West Africa"
       ],
       "answer_explanations": [
-        "Correct. The article states that since around 3900 BCE the regions have been separated by the Sahara's harsh climate.",
-        "Incorrect. The article gives the date as 3900 BCE, not CE.",
-        "Incorrect. 3000 BCE is not the date mentioned in the article.",
-        "Incorrect. 2000 BCE is not the date mentioned in the article."
+        "Correct. The article says 'The term serves as a grouping counterpart to North Africa.'",
+        "Incorrect. The article states that the counterpart is North Africa, not Central Africa.",
+        "Incorrect. The article states that the counterpart is North Africa, not East Africa.",
+        "Incorrect. The article states that the counterpart is North Africa, not West Africa."
       ]
     },
     {
       "id": 6,
-      "question": "What interrupts the Sahara barrier between Saharan and sub-Saharan regions?",
+      "question": "Which of the following countries are mentioned as being geographically considered part of sub-Saharan Africa even though they are also member states of the Arab League?",
       "options": [
-        "The Nile in Sudan",
-        "The Niger River",
-        "The Congo River",
-        "The Red Sea"
+        "Comoros, Djibouti, Mauritania, and Somalia",
+        "Comoros, Egypt, Mauritania, and Somalia",
+        "Djibouti, Libya, Mauritania, and Somalia",
+        "Comoros, Djibouti, Algeria, and Somalia"
       ],
       "answer_explanations": [
-        "Correct. The article states the barrier is interrupted only by the Nile in Sudan.",
-        "Incorrect. The Niger River is not mentioned as interrupting the Sahara barrier.",
-        "Incorrect. The Congo River is not mentioned as interrupting the Sahara barrier.",
-        "Incorrect. The Red Sea is not mentioned as interrupting the Sahara barrier."
+        "Correct. The article lists 'the Comoros, Djibouti, Mauritania, and Somalia' as examples.",
+        "Incorrect. Egypt is not mentioned in the article as being geographically part of sub-Saharan Africa.",
+        "Incorrect. Libya is not mentioned in the article as being geographically part of sub-Saharan Africa.",
+        "Incorrect. Algeria is not mentioned in the article as being geographically part of sub-Saharan Africa."
       ]
     },
     {
       "id": 7,
-      "question": "What does the Sahara pump theory explain?",
+      "question": "According to the UN Development Programme, how many of Africa's 55 countries are classified as 'sub-Saharan'?",
       "options": [
-        "How flora and fauna left Africa to penetrate Eurasia and beyond",
-        "How the Sahara desert was formed",
-        "How the Nile River was blocked by the Sudd",
-        "How African pluvial periods created larger lakes"
+        "46",
+        "48",
+        "55",
+        "44"
       ],
       "answer_explanations": [
-        "Correct. The article states the Sahara pump theory explains how flora and fauna left Africa to penetrate Eurasia and beyond.",
-        "Incorrect. The formation of the Sahara is not what the Sahara pump theory explains according to the article.",
-        "Incorrect. The blockage of the Nile by the Sudd is a separate fact, not the Sahara pump theory.",
-        "Incorrect. African pluvial periods are associated with the Wet Sahara phase, not the Sahara pump theory."
+        "Correct. The article states 'the UN Development Programme applies the \"sub-Saharan\" classification to 46 of Africa's 55 countries.'",
+        "Incorrect. The article states the number is 46, not 48.",
+        "Incorrect. The article states the number is 46, not 55.",
+        "Incorrect. The article states the number is 46, not 44."
       ]
     },
     {
       "id": 8,
-      "question": "Which six African countries are not geopolitically part of sub-Saharan Africa?",
+      "question": "Which countries are excluded from the UN Development Programme's 'sub-Saharan' classification?",
       "options": [
-        "Algeria, Egypt, Libya, Morocco, Tunisia, and Western Sahara",
-        "Sudan, South Sudan, Somalia, Djibouti, Comoros, and Mauritania",
-        "Nigeria, Kenya, South Africa, Ghana, Ethiopia, and Tanzania",
-        "Angola, Zambia, Zimbabwe, Botswana, Namibia, and Mozambique"
+        "Djibouti, SADR, Somalia, and Sudan",
+        "Djibouti, Egypt, Somalia, and Sudan",
+        "Comoros, SADR, Somalia, and Sudan",
+        "Djibouti, SADR, Libya, and Sudan"
       ],
       "answer_explanations": [
-        "Correct. The article lists Algeria, Egypt, Libya, Morocco, Tunisia, and Western Sahara as not geopolitically part of sub-Saharan Africa.",
-        "Incorrect. These countries are discussed in relation to sub-Saharan or North Africa classifications but are not the six listed.",
-        "Incorrect. These countries are not listed as the six non-sub-Saharan African countries.",
-        "Incorrect. These countries are not listed as the six non-sub-Saharan African countries."
+        "Correct. The article states 'excluding Djibouti, SADR, Somalia, and Sudan.'",
+        "Incorrect. Egypt is not mentioned as excluded; the correct list includes Djibouti, SADR, Somalia, and Sudan.",
+        "Incorrect. Comoros is not mentioned as excluded; the correct list includes Djibouti, SADR, Somalia, and Sudan.",
+        "Incorrect. Libya is not mentioned as excluded; the correct list includes Djibouti, SADR, Somalia, and Sudan."
       ]
     },
     {
       "id": 9,
-      "question": "What term did medieval Arabic commentators use for the Sudan region?",
+      "question": "Since around what time have the Saharan and sub-Saharan regions been separated by the harsh climate of the Sahara?",
       "options": [
-        "bilÃ¢d as-sÃ»dÃ¢n",
-        "Zanj",
-        "Al-Habash",
-        "Barbara"
+        "3900 BCE",
+        "2900 BCE",
+        "4900 BCE",
+        "1900 BCE"
       ],
       "answer_explanations": [
-        "Correct. The article states medieval Arabic commentators used bilÃ¢d as-sÃ»dÃ¢n for the Sudan region.",
-        "Incorrect. Zanj referred primarily to the Swahili coast in Southeast Africa.",
-        "Incorrect. Al-Habash referred to modern-day Ethiopia and Eritrea.",
-        "Incorrect. Barbara referred to northern Somalia."
+        "Correct. The article says 'Since around 3900 BCE, the Saharan and sub-Saharan regions of Africa have been separated by the extremely harsh climate.'",
+        "Incorrect. The article specifies 3900 BCE, not 2900 BCE.",
+        "Incorrect. The article specifies 3900 BCE, not 4900 BCE.",
+        "Incorrect. The article specifies 3900 BCE, not 1900 BCE."
       ]
     },
     {
       "id": 10,
-      "question": "Which region was referred to as Zanj in medieval Arabic commentary?",
+      "question": "What is the Sahara pump theory about?",
       "options": [
-        "Southeast Africa",
-        "Central Africa",
-        "West Africa",
-        "Horn of Africa"
+        "It explains how flora and fauna (including Homo sapiens) left Africa to penetrate Eurasia and beyond",
+        "It explains how the Sahara desert was formed",
+        "It explains how the Nile river was created",
+        "It explains how North Africa became part of the Arab world"
       ],
       "answer_explanations": [
-        "Correct. The article states Zanj was the equivalent term in Southeast Africa, referring primarily to the Swahili coast.",
-        "Incorrect. Central Africa was part of the Sudan region referred to as bilÃ¢d as-sÃ»dÃ¢n.",
-        "Incorrect. West Africa was part of the Sudan region referred to as bilÃ¢d as-sÃ»dÃ¢n.",
-        "Incorrect. The Horn of Africa contained Al-Habash and Barbara, not Zanj."
+        "Correct. The article states 'The Sahara pump theory explains how flora and fauna (including Homo sapiens) left Africa to penetrate Eurasia and beyond.'",
+        "Incorrect. The theory is about the movement of flora and fauna, not the formation of the Sahara.",
+        "Incorrect. The theory is about the movement of flora and fauna, not the creation of the Nile.",
+        "Incorrect. The theory is about the movement of flora and fauna, not the Arab world."
       ]
     }
   ]

@@ -7,160 +7,160 @@
       "id": 1,
       "question": "What is ethics also called?",
       "options": [
-        "moral philosophy",
-        "normative philosophy",
-        "applied philosophy",
-        "metaethics"
+        "Moral philosophy",
+        "Value theory",
+        "Moral psychology",
+        "Normative science"
       ],
       "answer_explanations": [
-        "Correct. The article states that ethics is also called moral philosophy.",
-        "Incorrect. Normative philosophy is not given as another name for ethics.",
-        "Incorrect. Applied philosophy is not mentioned as another name for ethics.",
-        "Incorrect. Metaethics is described as a branch of ethics, not another name for it."
+        "Correct. The article states: \"Also called **moral philosophy**\".",
+        "Incorrect. Value theory is a related field, not another name for ethics.",
+        "Incorrect. Moral psychology is a related empirical field, not another name for ethics.",
+        "Incorrect. The article does not use this term for ethics."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as a main branch of ethics?",
+      "question": "What is the philosophical study of moral phenomena called?",
       "options": [
-        "metaethics",
-        "descriptive ethics",
-        "moral psychology",
-        "value theory"
+        "Ethics",
+        "Metaphysics",
+        "Epistemology",
+        "Logic"
       ],
       "answer_explanations": [
-        "Correct. The article lists metaethics as one of the main branches of ethics.",
-        "Incorrect. Descriptive ethics is described as a related field, not a main branch.",
-        "Incorrect. Moral psychology is described as a related empirical field.",
-        "Incorrect. Value theory is described as closely connected to ethics but not a main branch."
+        "Correct. The article begins: \"**Ethics** is the philosophical study of moral phenomena.\"",
+        "Incorrect. Metaphysics is not mentioned in the introduction as the study of moral phenomena.",
+        "Incorrect. Epistemology is not mentioned in the introduction as the study of moral phenomena.",
+        "Incorrect. Logic is not mentioned in the introduction as the study of moral phenomena."
       ]
     },
     {
       "id": 3,
-      "question": "What does applied ethics examine?",
+      "question": "Which of these is a main branch of ethics according to the introduction?",
       "options": [
-        "concrete ethical problems in real-life situations",
-        "general principles that govern how people should act",
-        "underlying assumptions and concepts of ethics",
-        "psychological processes involved in morality"
+        "Applied ethics",
+        "Political ethics",
+        "Legal ethics",
+        "Environmental ethics"
       ],
       "answer_explanations": [
-        "Correct. The article states that applied ethics examines concrete ethical problems in real-life situations.",
-        "Incorrect. Finding general principles is the aim of normative ethics.",
-        "Incorrect. Exploring underlying assumptions is the focus of metaethics.",
-        "Incorrect. Investigating psychological processes is the domain of moral psychology."
+        "Correct. The article lists \"normative ethics, applied ethics, and metaethics\" as main branches.",
+        "Incorrect. Political ethics is not listed as a main branch in the introduction.",
+        "Incorrect. Legal ethics is not listed as a main branch in the introduction.",
+        "Incorrect. Environmental ethics is not listed as a main branch in the introduction."
       ]
     },
     {
       "id": 4,
-      "question": "According to consequentialists, when is an act right?",
+      "question": "What kind of questions does ethics investigate?",
       "options": [
-        "if it leads to the best consequences",
-        "if it adheres to duties",
-        "if it manifests virtues",
-        "if it follows social conventions"
+        "Normative questions",
+        "Empirical questions",
+        "Historical questions",
+        "Linguistic questions"
       ],
       "answer_explanations": [
-        "Correct. The article states that according to consequentialists, an act is right if it leads to the best consequences.",
-        "Incorrect. Adhering to duties is the focus of deontology.",
-        "Incorrect. Manifesting virtues is central to virtue ethics.",
-        "Incorrect. Social conventions are not the basis for right action in consequentialism."
+        "Correct. The article says it investigates \"normative questions about what people ought to do\".",
+        "Incorrect. Empirical questions are not mentioned as the focus of ethics in the introduction.",
+        "Incorrect. Historical questions are not mentioned as the focus of ethics in the introduction.",
+        "Incorrect. Linguistic questions are not mentioned as the focus of ethics in the introduction."
       ]
     },
     {
       "id": 5,
-      "question": "What do deontologists focus on?",
+      "question": "Which of these is an example of an applied ethics problem mentioned in the introduction?",
       "options": [
-        "acts themselves and duties",
-        "the consequences of actions",
-        "the manifestation of virtues",
-        "the distribution of value"
+        "Abortion",
+        "Climate change",
+        "War",
+        "Poverty"
       ],
       "answer_explanations": [
-        "Correct. The article says deontologists focus on acts themselves and duties like telling the truth and keeping promises.",
-        "Incorrect. Focusing on consequences is characteristic of consequentialism.",
-        "Incorrect. The manifestation of virtues is associated with virtue ethics.",
-        "Incorrect. The distribution of value is discussed within consequentialism, not deontology."
+        "Correct. The article mentions \"abortion\" as an example of a concrete ethical problem.",
+        "Incorrect. Climate change is not listed as an example in the introduction.",
+        "Incorrect. War is not listed as an example in the introduction.",
+        "Incorrect. Poverty is not listed as an example in the introduction."
       ]
     },
     {
       "id": 6,
-      "question": "What does virtue ethics see as the fundamental principle of morality?",
+      "question": "What does metaethics explore?",
       "options": [
-        "the manifestation of virtues",
-        "the best consequences",
-        "adherence to duties",
-        "objective moral facts"
+        "The underlying assumptions and concepts of ethics",
+        "General principles of how people should act",
+        "Concrete ethical problems in real-life situations",
+        "The history of moral codes in different societies"
       ],
       "answer_explanations": [
-        "Correct. The article states that virtue ethics sees the manifestation of virtues as the fundamental principle of morality.",
-        "Incorrect. The best consequences are central to consequentialism.",
-        "Incorrect. Adherence to duties is central to deontology.",
-        "Incorrect. Objective moral facts are a topic of metaethics."
+        "Correct. The article states: \"Metaethics explores the underlying assumptions and concepts of ethics.\"",
+        "Incorrect. Finding general principles is what normative ethics aims to do.",
+        "Incorrect. Examining concrete ethical problems is what applied ethics does.",
+        "Incorrect. Describing moral codes in societies is what descriptive ethics does, not metaethics."
       ]
     },
     {
       "id": 7,
-      "question": "What does metaethics explore?",
+      "question": "According to consequentialists, when is an act right?",
       "options": [
-        "the underlying assumptions and concepts of ethics",
-        "concrete ethical problems in real-life situations",
-        "general principles that govern how people should act",
-        "dominant moral codes in different societies"
+        "If it leads to the best consequences",
+        "If it follows a duty",
+        "If it manifests a virtue",
+        "If it is based on objective moral facts"
       ],
       "answer_explanations": [
-        "Correct. The article states that metaethics explores the underlying assumptions and concepts of ethics.",
-        "Incorrect. Examining concrete ethical problems is the domain of applied ethics.",
-        "Incorrect. Finding general principles is the aim of normative ethics.",
-        "Incorrect. Describing dominant moral codes is the focus of descriptive ethics."
+        "Correct. The article says: \"According to consequentialists, an act is right if it leads to the best consequences.\"",
+        "Incorrect. Following a duty is the deontological view, not the consequentialist one.",
+        "Incorrect. Manifesting a virtue is the virtue ethics view, not the consequentialist one.",
+        "Incorrect. Objective moral facts are a concern of metaethics, not consequentialism."
       ]
     },
     {
       "id": 8,
-      "question": "What does normative ethics aim to find?",
+      "question": "What do deontologists focus on?",
       "options": [
-        "general principles that govern how people should act",
-        "descriptions of dominant moral codes in societies",
-        "psychological processes involved in morality",
-        "underlying assumptions of ethical language"
+        "Acts themselves and duties",
+        "The consequences of acts",
+        "The character of the agent",
+        "The emotions of the agent"
       ],
       "answer_explanations": [
-        "Correct. The article states that normative ethics aims to find general principles that govern how people should act.",
-        "Incorrect. Describing dominant moral codes belongs to descriptive ethics.",
-        "Incorrect. Investigating psychological processes belongs to moral psychology.",
-        "Incorrect. Exploring underlying assumptions belongs to metaethics."
+        "Correct. The article states: \"Deontologists focus on acts themselves, saying that they must adhere to duties.\"",
+        "Incorrect. Focusing on consequences is the consequentialist approach.",
+        "Incorrect. Focusing on character is the virtue ethics approach.",
+        "Incorrect. The introduction does not mention emotions as the deontological focus."
       ]
     },
     {
       "id": 9,
-      "question": "From which Ancient Greek word does the English word ethics have its roots?",
+      "question": "Which of these is an example of a virtue mentioned in the introduction?",
       "options": [
-        "Ãªthos",
-        "moralis",
-        "ÄthikÃ³s",
-        "ethica"
+        "Courage",
+        "Honesty",
+        "Loyalty",
+        "Generosity"
       ],
       "answer_explanations": [
-        "Correct. The article states that the English word ethics has its roots in the Ancient Greek word Ãªthos.",
-        "Incorrect. Moralis is the Latin origin of the term morality.",
-        "Incorrect. ÄthikÃ³s is derived from Ãªthos but is not the root word itself.",
-        "Incorrect. Ethica is the Latin translation, not the Ancient Greek root."
+        "Correct. The article mentions \"courage\" as an example of a virtue.",
+        "Incorrect. Honesty is not listed as an example in the introduction.",
+        "Incorrect. Loyalty is not listed as an example in the introduction.",
+        "Incorrect. Generosity is not listed as an example in the introduction."
       ]
     },
     {
       "id": 10,
-      "question": "In which century did the term ethics enter the English language?",
+      "question": "Which field studies the nature and types of value, according to the introduction?",
       "options": [
-        "15th century",
-        "5th century BCE",
-        "Middle English period",
-        "20th century"
+        "Value theory",
+        "Moral psychology",
+        "Descriptive ethics",
+        "Metaethics"
       ],
       "answer_explanations": [
-        "Correct. The article states that ethics entered the English language in the 15th century through the Old French term Ã©thique.",
-        "Incorrect. The 5th century BCE is when Mohism arose, not when ethics entered English.",
-        "Incorrect. The Middle English period is when morality entered English, not ethics.",
-        "Incorrect. The 20th century saw the emergence of metaethics, not the entry of ethics into English."
+        "Correct. The article says: \"Ethics is closely connected to value theory, which studies the nature and types of value.\"",
+        "Incorrect. Moral psychology studies psychological processes involved in morality.",
+        "Incorrect. Descriptive ethics describes moral codes in societies.",
+        "Incorrect. Metaethics explores underlying assumptions and concepts of ethics."
       ]
     }
   ]

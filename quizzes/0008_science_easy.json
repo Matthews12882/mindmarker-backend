@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the primary method driving science according to the article?",
+      "question": "What does science build and organise in the form of testable explanations?",
       "options": [
-        "the scientific method",
-        "the empirical method",
-        "the observational method",
-        "the experimental method"
+        "Knowledge",
+        "Opinions",
+        "Beliefs",
+        "Traditions"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Science is driven by the scientific method: an empirical cycle that typically involves making observations, producing hypotheses, testing them with evidence, and drawing conclusions.\"",
-        "Incorrect. While the empirical method is mentioned, the article specifically identifies the scientific method as the driver of science.",
-        "Incorrect. The observational method is not highlighted as the primary method in the article.",
-        "Incorrect. The experimental method is a component of the scientific method but not the primary method described."
+        "Correct. The article states that science is a systematic discipline that builds and organises knowledge in the form of testable explanations.",
+        "Incorrect. The article does not mention opinions as what science builds and organises.",
+        "Incorrect. The article does not mention beliefs as what science builds and organises.",
+        "Incorrect. The article does not mention traditions as what science builds and organises."
       ]
     },
     {
       "id": 2,
-      "question": "Which two major branches does modern science typically divide into?",
+      "question": "What is the name of the empirical cycle that typically involves making observations, producing hypotheses, testing them with evidence, and drawing conclusions?",
       "options": [
-        "the natural sciences and the social sciences",
-        "the formal sciences and the applied sciences",
-        "the physical sciences and the life sciences",
-        "the theoretical sciences and the practical sciences"
+        "The scientific method",
+        "The experimental cycle",
+        "The research loop",
+        "The discovery process"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"Modern science is typically divided into two major branches: the natural sciences, which study the physical world, and the social sciences, which study individuals and societies.\"",
-        "Incorrect. The formal and applied sciences are mentioned but not as the two major branches.",
-        "Incorrect. The physical and life sciences are not described as the two major branches in the article.",
-        "Incorrect. The theoretical and practical sciences are not identified as the two major branches."
+        "Correct. The article says science is driven by the scientific method, which is an empirical cycle that typically involves those steps.",
+        "Incorrect. The article specifically calls it the scientific method, not the experimental cycle.",
+        "Incorrect. The article specifically calls it the scientific method, not the research loop.",
+        "Incorrect. The article specifically calls it the scientific method, not the discovery process."
       ]
     },
     {
       "id": 3,
-      "question": "What term does the article use for disciplines that rely on deductive reasoning rather than the scientific method?",
+      "question": "According to the article, what do the two major branches of modern science study?",
       "options": [
-        "the formal sciences",
-        "the natural sciences",
-        "the applied sciences",
-        "the social sciences"
+        "The physical world and individuals and societies",
+        "The past and the future",
+        "Plants and animals",
+        "The Earth and the stars"
       ],
       "answer_explanations": [
-        "Correct. The article notes: \"While referred to as the formal sciences, logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology.\"",
-        "Incorrect. The natural sciences are not described as relying on deductive reasoning.",
-        "Incorrect. Applied sciences use scientific knowledge for practical purposes, not deductive reasoning.",
-        "Incorrect. Social sciences study individuals and societies using the scientific method."
+        "Correct. The article says the natural sciences study the physical world and the social sciences study individuals and societies.",
+        "Incorrect. The article does not describe the branches as studying the past and the future.",
+        "Incorrect. The article does not describe the branches as studying plants and animals.",
+        "Incorrect. The article does not describe the branches as studying the Earth and the stars."
       ]
     },
     {
       "id": 4,
-      "question": "In which ancient civilization did the earliest identifiable predecessors to modern science appear, according to the article?",
+      "question": "Which of the following is typically regarded as separate from natural and social sciences because it relies on deductive reasoning?",
       "options": [
-        "Egypt and Mesopotamia",
-        "Greece and Rome",
-        "China and India",
-        "Persia and Babylon"
+        "Logic",
+        "Biology",
+        "History",
+        "Geography"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c.â3000â1200 BCE).\"",
-        "Incorrect. Greece and Rome are later contributors, not the earliest predecessors.",
-        "Incorrect. China and India are not mentioned as the earliest predecessors.",
-        "Incorrect. Persia and Babylon are not cited as the earliest identifiable predecessors."
+        "Correct. The article says logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning.",
+        "Incorrect. Biology is a natural science, not one of the formal sciences mentioned as separate.",
+        "Incorrect. History is not mentioned as one of the formal sciences that rely on deductive reasoning.",
+        "Incorrect. Geography is not mentioned as one of the formal sciences that rely on deductive reasoning."
       ]
     },
     {
       "id": 5,
-      "question": "Which historical period saw the transformation of natural philosophy into modern science through the Scientific Revolution?",
+      "question": "What are applied sciences?",
       "options": [
-        "the Renaissance",
-        "the Middle Ages",
-        "the Industrial Revolution",
-        "the Enlightenment"
+        "Disciplines that use scientific knowledge for practical purposes",
+        "Disciplines that study only theoretical concepts",
+        "Disciplines that focus on historical events",
+        "Disciplines that rely solely on deductive reasoning"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: \"The recovery and assimilation of Greek works and Islamic inquiries into Western Europe during the Renaissance revived natural philosophy, which was later transformed by the Scientific Revolution that began in the 16th century...\"",
-        "Incorrect. The Middle Ages are not described as the period of transformation.",
-        "Incorrect. The Industrial Revolution is not mentioned as the period of transformation.",
-        "Incorrect. The Enlightenment is not identified as the period of transformation."
+        "Correct. The article states that applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine.",
+        "Incorrect. Applied sciences are for practical purposes, not only theoretical concepts.",
+        "Incorrect. Applied sciences are not described as focusing on historical events.",
+        "Incorrect. Applied sciences are not described as relying solely on deductive reasoning."
       ]
     },
     {
       "id": 6,
-      "question": "Who introduced the term \"scientist\" in 1834, according to the article?",
+      "question": "According to the article, what do the earliest identifiable predecessors to modern science date to?",
       "options": [
-        "William Whewell",
-        "Mary Somerville",
-        "Michael Faraday",
-        "Charles Darwin"
+        "The Bronze Age",
+        "The Stone Age",
+        "The Iron Age",
+        "The Renaissance"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"In 1834, William Whewell introduced the term scientist in a review of Mary Somerville's book...\"",
-        "Incorrect. Mary Somerville was the subject of the review, not the introducer of the term.",
-        "Incorrect. Michael Faraday was not credited with introducing the term.",
-        "Incorrect. Charles Darwin was not credited with introducing the term."
+        "Correct. The article says the earliest identifiable predecessors to modern science date to the Bronze Age in Egypt and Mesopotamia.",
+        "Incorrect. The article does not mention the Stone Age as the time of the earliest predecessors.",
+        "Incorrect. The article does not mention the Iron Age as the time of the earliest predecessors.",
+        "Incorrect. The Renaissance came much later and is not the time of the earliest predecessors."
       ]
     },
     {
       "id": 7,
-      "question": "What is the meaning of the Latin word *scientia* as described in the article?",
+      "question": "In which two places did the earliest identifiable predecessors to modern science date to?",
       "options": [
-        "knowledge, awareness, understanding",
-        "the state of seeing",
-        "the act of creating",
-        "the process of questioning"
+        "Egypt and Mesopotamia",
+        "Greece and Rome",
+        "India and China",
+        "Europe and Africa"
       ],
       "answer_explanations": [
-        "Correct. The article explains: \"The word was borrowed from the Latin word *[scientia]*, meaning 'knowledge, awareness, understanding', a noun derivative of *[sciens]* meaning 'knowing', itself the present active participle of *[sciÅ]* 'to know'.\"",
-        "Incorrect. The Latin word does not mean 'the state of seeing'.",
-        "Incorrect. The Latin word does not mean 'the act of creating'.",
-        "Incorrect. The Latin word does not mean 'the process of questioning'."
+        "Correct. The article says the earliest identifiable predecessors date to the Bronze Age in Egypt and Mesopotamia.",
+        "Incorrect. Greece and Rome are mentioned later in the article, not as the earliest predecessors.",
+        "Incorrect. India and China are not mentioned as the earliest predecessors.",
+        "Incorrect. Europe and Africa are not mentioned as the earliest predecessors."
       ]
     },
     {
       "id": 8,
-      "question": "Which ancient civilization is credited with developing a non-positional decimal numbering system?",
+      "question": "What is the scientific community said to do with the body of knowledge science produces?",
       "options": [
-        "the ancient Egyptians",
-        "the ancient Mesopotamians",
-        "the ancient Greeks",
-        "the ancient Romans"
+        "Continuously challenges, validates, and organises it",
+        "Accepts it without question",
+        "Keeps it secret",
+        "Sells it to the public"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"From the 3rd millennium BCE, the ancient Egyptians developed a non-positional decimal numbering system...\"",
-        "Incorrect. The ancient Mesopotamians used cuneiform numerals, not a non-positional decimal system.",
-        "Incorrect. The ancient Greeks used various numeral systems, not a non-positional decimal system.",
-        "Incorrect. The ancient Romans used Roman numerals, not a non-positional decimal system."
+        "Correct. The article says the scientific community continuously challenges, validates, and organises the body of knowledge.",
+        "Incorrect. The article says the community challenges it, not that it accepts it without question.",
+        "Incorrect. The article does not say the community keeps it secret.",
+        "Incorrect. The article does not say the community sells it."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what type of research often leads to major advances in fundamental science?",
+      "question": "Which of the following is an example of an applied science mentioned in the article?",
       "options": [
-        "individual researchers",
-        "government agencies",
-        "corporate teams",
-        "international collaborations"
+        "Engineering",
+        "Astronomy",
+        "Logic",
+        "Mathematics"
       ],
       "answer_explanations": [
-        "Correct. The article notes: \"At the same time, many major advancesâparticularly in fundamental scienceâhave come from individual researchers and are widely recognised through major international awards such as the Nobel Prize.\"",
-        "Incorrect. Government agencies are mentioned as participants in research but not as the primary source of fundamental advances.",
-        "Incorrect. Corporate teams are not highlighted as the primary source of fundamental advances.",
-        "Incorrect. International collaborations are not identified as the primary source of fundamental advances."
+        "Correct. The article mentions engineering and medicine as examples of applied sciences.",
+        "Incorrect. Astronomy is not given as an example of an applied science in the article.",
+        "Incorrect. Logic is described as a formal science, not an applied science.",
+        "Incorrect. Mathematics is described as a formal science, not an applied science."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say the word *science* meant in Middle English?",
+      "question": "What does the scientific method typically involve making, according to the article?",
       "options": [
-        "the state of knowing",
-        "the study of nature",
-        "the practice of experimentation",
-        "the pursuit of truth"
+        "Observations",
+        "Predictions",
+        "Calculations",
+        "Decisions"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"The word *science* has been used in English since the 14th century (Middle English) in the sense of 'the state of knowing'.\"",
-        "Incorrect. While related, the article specifically defines the meaning as 'the state of knowing', not 'the study of nature'.",
-        "Incorrect. The article does not describe the Middle English meaning as 'the practice of experimentation'.",
-        "Incorrect. The article does not describe the Middle English meaning as 'the pursuit of truth'."
+        "Correct. The article says the scientific method typically involves making observations, producing hypotheses, testing them with evidence, and drawing conclusions.",
+        "Incorrect. The article does not mention predictions as part of the typical steps.",
+        "Incorrect. The article does not mention calculations as part of the typical steps.",
+        "Incorrect. The article does not mention decisions as part of the typical steps."
       ]
     }
   ]

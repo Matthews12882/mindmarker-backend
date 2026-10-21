@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does the article state about the total size of the universe?",
+      "question": "What does the universe comprise?",
       "options": [
-        "It is not known.",
-        "It is approximately 93 billion light-years in diameter.",
-        "It is finite but unbounded.",
-        "It is exactly 13.8 billion light-years across."
+        "All forms of matter and energy in space and time",
+        "Only the stars and planets",
+        "Only the Milky Way galaxy",
+        "Only the observable portion of space"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The total size of the universe is not known.'",
-        "Incorrect. The article says the observable portion is approximately 93 billion light-years in diameter, not the total universe.",
-        "Incorrect. The article does not state that the universe is finite but unbounded.",
-        "Incorrect. The article does not give the total universe a diameter of 13.8 billion light-years."
+        "Correct. The article states that the universe comprises all of existence: all forms of matter and energy in space and time.",
+        "Incorrect. The universe includes much more than stars and planets; it includes all matter and energy.",
+        "Incorrect. The universe is much larger than just the Milky Way; it contains many galaxies.",
+        "Incorrect. The universe includes both the observable and the unobservable portions."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what did early cosmological models place at the center of the universe?",
+      "question": "According to the article, what is the approximate diameter of the observable universe?",
       "options": [
-        "Earth",
-        "The Sun",
-        "The Milky Way",
-        "Dark matter"
+        "93 billion light-years",
+        "13.8 billion light-years",
+        "87,400 light-years",
+        "2.5 million light-years"
       ],
       "answer_explanations": [
-        "Correct. The article states that some of the earliest cosmological models were geocentric, placing Earth at the center.",
-        "Incorrect. The Sun at the center describes the later heliocentric model, not the early geocentric models.",
-        "Incorrect. The Milky Way is described as one of many galaxies, not the center of early models.",
-        "Incorrect. Dark matter is discussed as unseen matter influencing gravity, not as the center of early cosmological models."
+        "Correct. The article says the observable portion of the universe is approximately 93 billion light-years in diameter.",
+        "Incorrect. 13.8 billion years is the age of the universe, not its diameter.",
+        "Incorrect. 87,400 light-years is the diameter of the Milky Way, not the observable universe.",
+        "Incorrect. 2.5 million light-years is the distance to the Andromeda Galaxy, not the diameter of the observable universe."
       ]
     },
     {
       "id": 3,
-      "question": "Which era began when the energy density of matter became larger than that of photons and neutrinos?",
+      "question": "What is dark matter?",
       "options": [
-        "The matter-dominated era",
-        "The radiation-dominated era",
-        "The dark-energy-dominated era",
-        "The recombination era"
+        "Unseen matter that is not accounted for by visible objects",
+        "Matter that is visible in the dark",
+        "The same as dark energy",
+        "Matter that only exists in black holes"
       ],
       "answer_explanations": [
-        "Correct. The article states that when matter's energy density became larger than that of photons and neutrinos, it marked the start of the matter-dominated era.",
-        "Incorrect. The radiation-dominated era ended when matter began to dominate; it did not begin at that point.",
-        "Incorrect. The dark-energy-dominated era began much later, after about 9.8 billion years.",
-        "Incorrect. Recombination occurred after about 377,000 years, unrelated to the matter-radiation density crossover."
+        "Correct. The article states that dark matter is unseen matter, discovered from studying gravity, that is not accounted for by visible objects like stars and galaxies.",
+        "Incorrect. Dark matter is unseen, not visible in the dark.",
+        "Incorrect. Dark matter and dark energy are different; dark energy is responsible for the acceleration of the universe's expansion.",
+        "Incorrect. The article does not say dark matter only exists in black holes."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say happened to the universe's transparency after recombination?",
+      "question": "According to the article, what percentage of the universe is ordinary 'baryonic' matter?",
       "options": [
-        "The universe became transparent to many wavelengths of light.",
-        "The universe remained optically opaque.",
-        "The universe became transparent only to radio waves.",
-        "The universe became transparent only after stars formed."
+        "4.84%",
+        "25.8%",
+        "69.2%",
+        "6%"
       ],
       "answer_explanations": [
-        "Correct. The article explains that neutral atoms formed during recombination are transparent to many wavelengths of light, so the universe became transparent.",
-        "Incorrect. The article states the universe was opaque before recombination and became transparent afterward.",
-        "Incorrect. The article does not limit transparency to radio waves; it refers to many wavelengths of light.",
-        "Incorrect. Transparency resulted from recombination around 377,000 years after the Big Bang, long before the first stars formed."
+        "Correct. The article states that ordinary 'baryonic' matter composes only 4.84%Â±0.1% of the universe.",
+        "Incorrect. 25.8% is the percentage for dark matter, not ordinary matter.",
+        "Incorrect. 69.2% is the percentage for dark energy, not ordinary matter.",
+        "Incorrect. The article says stars, planets, and visible gas clouds form about 6% of this ordinary matter, not that ordinary matter is 6% of the universe."
       ]
     },
     {
       "id": 5,
-      "question": "What percentage of the universe's mass and energy does ordinary baryonic matter compose, according to the article?",
+      "question": "What is the prevailing model for the evolution of the universe?",
       "options": [
-        "About 4.84%Â±0.1%",
-        "About 25.8%Â±1.1%",
-        "About 69.2%Â±1.2%",
-        "About 6%"
+        "The Big Bang theory",
+        "The geocentric model",
+        "The heliocentric model",
+        "The steady-state model"
       ],
       "answer_explanations": [
-        "Correct. The article states that ordinary ('baryonic') matter composes only 4.84%Â±0.1% of the universe.",
-        "Incorrect. About 25.8%Â±1.1% is the share attributed to dark matter, not ordinary matter.",
-        "Incorrect. About 69.2%Â±1.2% is the share attributed to dark energy.",
-        "Incorrect. About 6% refers to the portion of ordinary matter made up of stars, planets, and visible gas clouds, not the total ordinary matter share of the universe."
+        "Correct. The article states that the prevailing model for the evolution of the universe is the Big Bang theory.",
+        "Incorrect. The geocentric model was an early cosmological model that placed Earth at the center, not the prevailing model for evolution.",
+        "Incorrect. The heliocentric model was a result of the Scientific Revolution, not the prevailing model for the universe's evolution.",
+        "Incorrect. The article does not mention a steady-state model as the prevailing one."
       ]
     },
     {
       "id": 6,
-      "question": "What did observations of Type Ia supernovae indicate about the expansion of the universe?",
+      "question": "What process produced helium, deuterium, and traces of lithium in the early universe?",
       "options": [
-        "The expansion is accelerating.",
-        "The expansion is decelerating.",
-        "The expansion has stopped.",
-        "The expansion is constant."
+        "Big Bang nucleosynthesis",
+        "Stellar nucleosynthesis",
+        "Recombination",
+        "Cosmic inflation"
       ],
       "answer_explanations": [
-        "Correct. The article states that analyses of Type Ia supernovae indicate that the expansion is accelerating.",
-        "Incorrect. The article notes that before 1998 cosmologists expected deceleration, but supernova observations showed acceleration.",
-        "Incorrect. The article does not state that expansion has stopped.",
-        "Incorrect. The article describes the expansion as accelerating, not constant."
+        "Correct. The article states that Big Bang nucleosynthesis produced helium, with small amounts of deuterium and traces of lithium.",
+        "Incorrect. Stellar nucleosynthesis is responsible for seeding the universe with elements heavier than helium, not the initial production of helium, deuterium, and lithium.",
+        "Incorrect. Recombination is the process where electrons and nuclei formed the first stable atoms, not the production of these elements.",
+        "Incorrect. Cosmic inflation is an intense period of expansion, not a process that produced these elements."
       ]
     },
     {
       "id": 7,
-      "question": "What is the proper distance between Earth and the edge of the observable universe, according to the article?",
+      "question": "What is the cosmic microwave background (CMB)?",
       "options": [
-        "46 billion light-years",
-        "93 billion light-years",
-        "13.8 billion light-years",
-        "2.5 million light-years"
+        "The photons released when the first stable atoms formed",
+        "The light from the first stars",
+        "The radiation from dark matter",
+        "The light from distant galaxies"
       ],
       "answer_explanations": [
-        "Correct. The article states the proper distance between Earth and the edge of the observable universe is 46 billion light-years.",
-        "Incorrect. 93 billion light-years is the diameter of the observable universe, not the Earth-to-edge distance.",
-        "Incorrect. 13.8 billion light-years is approximately the distance light has traveled since the Big Bang, not the current proper distance.",
-        "Incorrect. 2.5 million light-years is the approximate distance to the Andromeda Galaxy."
+        "Correct. The article states that the photons released when atoms formed can still be seen today and form the cosmic microwave background.",
+        "Incorrect. The CMB is not the light from the first stars; it is from the recombination era.",
+        "Incorrect. The article does not say the CMB is radiation from dark matter.",
+        "Incorrect. The CMB is not the light from distant galaxies; it is the leftover radiation from the early universe."
       ]
     },
     {
       "id": 8,
-      "question": "What role did Population III stars play according to the article?",
+      "question": "What does the redshift of light from distant galaxies imply?",
       "options": [
-        "They reionized the universe and seeded it with elements heavier than helium.",
-        "They formed the first atomic nuclei during Big Bang nucleosynthesis.",
-        "They composed the dark matter filaments of the early universe.",
-        "They caused the universe to begin accelerating in its expansion."
+        "That the galaxies are receding from us",
+        "That the galaxies are moving towards us",
+        "That the galaxies are stationary",
+        "That the galaxies are very young"
       ],
       "answer_explanations": [
-        "Correct. The article states Population III stars were responsible for the gradual reionization of the universe and for seeding it with elements heavier than helium.",
-        "Incorrect. Big Bang nucleosynthesis produced helium and traces of other light elements, not Population III stars.",
-        "Incorrect. Dark matter formed concentrations independently; ordinary matter was attracted to it, but Population III stars did not compose dark matter.",
-        "Incorrect. The acceleration of expansion is attributed to dark energy, not Population III stars."
+        "Correct. The article states that the expansion is inferred from the observation that light from distant galaxies has been redshifted, which implies that the galaxies are receding from us.",
+        "Incorrect. Redshift implies recession, not approach.",
+        "Incorrect. Redshift implies motion, not that galaxies are stationary.",
+        "Incorrect. Redshift does not imply that galaxies are young."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following is a synonym for universe found among ancient Greek philosophers, according to the article?",
+      "question": "What did the measurement of the deceleration parameter in 1998 reveal?",
       "options": [
-        "Ïá½¸ Ïá¾¶Î½ (tÃ² pÃ¢n), meaning 'the all'",
-        "universus, meaning 'combined into one'",
-        "totum, a Latin term",
-        "kosmos, a German term"
+        "That the expansion of the universe is accelerating",
+        "That the expansion of the universe is slowing down",
+        "That the universe is collapsing",
+        "That the universe is static"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Ïá½¸ Ïá¾¶Î½ (*tÃ² pÃ¢n*) 'the all' as a term for universe among ancient Greek philosophers from Pythagoras onwards.",
-        "Incorrect. *universus* is the Latin root of the English word universe, not an ancient Greek synonym.",
-        "Incorrect. *totum* is listed as a Latin synonym, not an ancient Greek one.",
-        "Incorrect. The article does not describe *kosmos* as a German term; German equivalents include *Das All*, *Weltall*, and *Natur*."
+        "Correct. The article states that in 1998 the deceleration parameter was measured to be negative, which implies that the expansion of the universe has been positive in the last 5-6 billion years, meaning it is accelerating.",
+        "Incorrect. A negative deceleration parameter means the expansion is accelerating, not slowing down.",
+        "Incorrect. The measurement does not indicate collapse; it indicates accelerating expansion.",
+        "Incorrect. The measurement indicates a change in expansion, not a static universe."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what marks the beginning of the present dark-energy-dominated era?",
+      "question": "What is the etymology of the word 'universe'?",
       "options": [
-        "The density of matter became less than the density of dark energy after about 9.8 billion years.",
-        "The universe cooled enough for neutral atoms to form.",
-        "The energy density of matter became larger than that of photons and neutrinos.",
-        "The first Population III stars formed."
+        "It derives from the Latin word 'universus', meaning 'combined into one'",
+        "It derives from the Greek word 'kosmos', meaning 'world'",
+        "It derives from the Old English word 'woruld', meaning 'age of man'",
+        "It derives from the German word 'Weltall', meaning 'all world'"
       ],
       "answer_explanations": [
-        "Correct. The article states that after about 9.8 billion years, the density of matter became less than the density of dark energy, marking the beginning of the present dark-energy-dominated era.",
-        "Incorrect. The formation of neutral atoms marks recombination, which occurred after about 377,000 years.",
-        "Incorrect. Matter's energy density exceeding that of photons and neutrinos marked the start of the matter-dominated era around 47,000 years.",
-        "Incorrect. The first stars formed after around 100â300 million years, unrelated to the dark-energy-dominated era."
+        "Correct. The article states that the word universe derives from the Old French word 'univers', which in turn derives from the Latin word 'universus', meaning 'combined into one'.",
+        "Incorrect. 'Kosmos' is a Greek synonym for universe, not the origin of the word 'universe'.",
+        "Incorrect. The article does not mention an Old English origin for the word.",
+        "Incorrect. 'Weltall' is a German synonym for universe, not the origin of the English word."
       ]
     }
   ]

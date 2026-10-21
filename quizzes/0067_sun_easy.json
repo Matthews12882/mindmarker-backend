@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the Sun classified as in terms of stellar type?",
+      "question": "What is the Sun?",
       "options": [
-        "G-type main-sequence star",
-        "Red giant",
-        "White dwarf",
-        "Black dwarf"
+        "The star at the centre of the Solar System",
+        "A planet in the Solar System",
+        "A moon orbiting Earth",
+        "A comet in the Solar System"
       ],
       "answer_explanations": [
-        "Correct. The article states the Sun is classified as a G-type main-sequence star (G2V).",
-        "Incorrect. The Sun will become a red giant in the future, but is not currently classified as one.",
-        "Incorrect. A white dwarf is a future stage after the red giant phase, not the Sun's current classification.",
-        "Incorrect. A black dwarf is a theorized final stage long after the white dwarf phase."
+        "Correct. The article states, 'The Sun is the star located at the centre of the Solar System.'",
+        "Incorrect. The Sun is not a planet; it is a star.",
+        "Incorrect. The Sun is not a moon; it is a star.",
+        "Incorrect. The Sun is not a comet; it is a star."
       ]
     },
     {
       "id": 2,
-      "question": "Approximately what percentage of the Solar System's total mass does the Sun make up?",
+      "question": "What is the Sun made of?",
       "options": [
-        "99.86%",
-        "95%",
-        "85%",
-        "73%"
+        "Hot plasma",
+        "Solid rock",
+        "Liquid water",
+        "Frozen gas"
       ],
       "answer_explanations": [
-        "Correct. The article states the Sun makes up about 99.86% of the total mass of the Solar System.",
-        "Incorrect. 95% refers to how the Sun compares in mass to stars within 7 pc, not the Solar System's mass.",
-        "Incorrect. 85% refers to the fraction of Milky Way stars the Sun is brighter than.",
-        "Incorrect. 73% is the approximate hydrogen proportion in the Sun's surface layer."
+        "Correct. The article says it is 'a massive sphere of hot plasma'.",
+        "Incorrect. The Sun is not made of solid rock; it is hot plasma.",
+        "Incorrect. The Sun is not made of liquid water; it is hot plasma.",
+        "Incorrect. The Sun is not frozen gas; it is hot plasma."
       ]
     },
     {
       "id": 3,
-      "question": "What are the two main elements in the Sun's photosphere?",
+      "question": "What heats the Sun to incandescence?",
       "options": [
-        "Hydrogen and helium",
-        "Oxygen and carbon",
-        "Neon and iron",
-        "Hydrogen and oxygen"
+        "Nuclear fusion reactions in its core",
+        "Chemical fires on its surface",
+        "Solar winds from planets",
+        "Electrical storms in its atmosphere"
       ],
       "answer_explanations": [
-        "Correct. The article states the photosphere consists mostly of hydrogen (~73%) and helium (~25%).",
-        "Incorrect. Oxygen and carbon are heavier elements present in much smaller quantities.",
-        "Incorrect. Neon and iron are heavier elements present in much smaller quantities.",
-        "Incorrect. Oxygen is a minor component compared to helium."
+        "Correct. The article states it is 'heated to incandescence by nuclear fusion reactions in its core'.",
+        "Incorrect. The Sun is not heated by chemical fires; it is heated by nuclear fusion.",
+        "Incorrect. Solar winds from planets do not heat the Sun; nuclear fusion does.",
+        "Incorrect. Electrical storms are not the heat source; nuclear fusion is."
       ]
     },
     {
       "id": 4,
-      "question": "How long ago did the Sun form?",
+      "question": "In what forms does the Sun radiate energy from its surface?",
       "options": [
-        "Approximately 4.6 billion years ago",
-        "About 1 billion years ago",
-        "About 10 billion years ago",
-        "About 100 million years ago"
+        "Visible light and infrared radiation",
+        "Radio waves and X-rays",
+        "Sound waves and ultraviolet",
+        "Gamma rays and microwaves"
       ],
       "answer_explanations": [
-        "Correct. The article states the Sun formed approximately 4.6 billion years ago.",
-        "Incorrect. This is not mentioned as the formation time.",
-        "Incorrect. This is not mentioned as the formation time.",
-        "Incorrect. This is not mentioned as the formation time."
+        "Correct. The article says it radiates energy 'mainly as visible light and infrared radiation'.",
+        "Incorrect. The article mentions visible light and infrared, not radio waves and X-rays.",
+        "Incorrect. Sound waves are not mentioned; the article says visible light and infrared.",
+        "Incorrect. Gamma rays and microwaves are not mentioned; the article says visible light and infrared."
       ]
     },
     {
       "id": 5,
-      "question": "What is the Sun's mean distance from Earth?",
+      "question": "What percentage of the Sun's energy is at ultraviolet energies?",
       "options": [
-        "About 1.496Ã10^8 kilometres",
-        "24,000 to 28,000 light-years",
-        "149.5978707Ã10^6 kilometres",
-        "8 light-years"
+        "10%",
+        "25%",
+        "50%",
+        "90%"
       ],
       "answer_explanations": [
-        "Correct. The article states the mean distance from Earth is about 1.496Ã10^8 kilometres.",
-        "Incorrect. This is the Sun's distance from the Galactic Center.",
-        "Incorrect. This is the defined value of the astronomical unit, not the mean distance as stated.",
-        "Incorrect. The article states the distance is about 8 light-minutes, not light-years."
+        "Correct. The article states 'with 10% at ultraviolet energies'.",
+        "Incorrect. The article specifies 10%, not 25%.",
+        "Incorrect. The article specifies 10%, not 50%.",
+        "Incorrect. The article specifies 10%, not 90%."
       ]
     },
     {
       "id": 6,
-      "question": "What is the primary source of energy for life on Earth according to the article?",
+      "question": "What is the Sun the main source of energy for?",
       "options": [
-        "The Sun",
-        "Nuclear fusion in Earth's core",
-        "Geothermal heat",
-        "Moonlight"
+        "Life on Earth",
+        "The Moon's oceans",
+        "Mars' atmosphere",
+        "Jupiter's moons"
       ],
       "answer_explanations": [
-        "Correct. The article states the Sun is the main source of energy for life on Earth.",
-        "Incorrect. The article does not identify this as Earth's main energy source.",
-        "Incorrect. The article does not identify this as Earth's main energy source.",
-        "Incorrect. The article does not identify this as Earth's main energy source."
+        "Correct. The article says 'It is the main source of energy for life on Earth'.",
+        "Incorrect. The article mentions life on Earth, not the Moon's oceans.",
+        "Incorrect. The article mentions life on Earth, not Mars' atmosphere.",
+        "Incorrect. The article mentions life on Earth, not Jupiter's moons."
       ]
     },
     {
       "id": 7,
-      "question": "What is the astronomical symbol for the Sun?",
+      "question": "How has the Sun been regarded in many cultures?",
       "options": [
-        "A circle with a central dot",
-        "A circle with radiating lines",
-        "A crescent",
-        "A star with eight points"
+        "As an object of veneration",
+        "As a symbol of fear",
+        "As a source of mystery only",
+        "As a common rock"
       ],
       "answer_explanations": [
-        "Correct. The article states the astronomical symbol for the Sun is a circle with a central dot: â.",
-        "Incorrect. This symbol is not mentioned in the article.",
-        "Incorrect. This symbol is not mentioned in the article.",
-        "Incorrect. This symbol is not mentioned in the article."
+        "Correct. The article states 'The Sun has been an object of veneration in many cultures'.",
+        "Incorrect. The article says veneration, not fear.",
+        "Incorrect. The article says veneration, not just mystery.",
+        "Incorrect. The article says veneration, not a common rock."
       ]
     },
     {
       "id": 8,
-      "question": "What is the scientific study of the Sun called?",
+      "question": "Since when has the Sun been a central subject of astronomical research?",
       "options": [
-        "Heliology",
-        "Astrology",
-        "Helioseismology",
-        "Cosmology"
+        "Since antiquity",
+        "Since the Middle Ages",
+        "Since the Renaissance",
+        "Since the 20th century"
       ],
       "answer_explanations": [
-        "Correct. The article states the scientific study of the Sun is called heliology.",
-        "Incorrect. Astrology is not mentioned as the scientific study of the Sun.",
-        "Incorrect. Helioseismology is mentioned as a method for observing the Sun, not the name of its study.",
-        "Incorrect. Cosmology is not mentioned in the article as the study of the Sun."
+        "Correct. The article says 'a central subject of astronomical research since antiquity'.",
+        "Incorrect. The article says since antiquity, not the Middle Ages.",
+        "Incorrect. The article says since antiquity, not the Renaissance.",
+        "Incorrect. The article says since antiquity, not the 20th century."
       ]
     },
     {
       "id": 9,
-      "question": "Which direction does the Sun rotate around its axis when viewed from above its north pole?",
+      "question": "What is the Sun's mean distance from Earth?",
       "options": [
-        "Counterclockwise",
-        "Clockwise",
-        "It does not rotate",
-        "Alternating directions"
+        "About 1.496Ã10^8 kilometres",
+        "About 1.496Ã10^6 kilometres",
+        "About 1.496Ã10^10 kilometres",
+        "About 1.496Ã10^4 kilometres"
       ],
       "answer_explanations": [
-        "Correct. The article states the Sun rotates counterclockwise around its axis when viewed from above its north pole.",
-        "Incorrect. The article states counterclockwise, not clockwise.",
-        "Incorrect. The article confirms the Sun rotates.",
-        "Incorrect. The article describes a single consistent direction."
+        "Correct. The article states 'Its mean distance from Earth is about 1.496Ã108 kilometres'.",
+        "Incorrect. The article says 1.496Ã10^8, not 10^6.",
+        "Incorrect. The article says 1.496Ã10^8, not 10^10.",
+        "Incorrect. The article says 1.496Ã10^8, not 10^4."
       ]
     },
     {
       "id": 10,
-      "question": "What will the Sun become after the red giant phase?",
+      "question": "The Sun's mean distance from Earth is about how many light-minutes?",
       "options": [
-        "A white dwarf",
-        "A black hole",
-        "A neutron star",
-        "A main-sequence star"
+        "8",
+        "4",
+        "10",
+        "15"
       ],
       "answer_explanations": [
-        "Correct. The article states that after the red giant phase, the Sun will shed its outer layers and become a white dwarf.",
-        "Incorrect. The article does not state the Sun will become a black hole.",
-        "Incorrect. The article does not state the Sun will become a neutron star.",
-        "Incorrect. The Sun is already a main-sequence star and will leave that stage, not return to it."
+        "Correct. The article says 'about 8 light-minutes'.",
+        "Incorrect. The article says about 8, not 4.",
+        "Incorrect. The article says about 8, not 10.",
+        "Incorrect. The article says about 8, not 15."
       ]
     }
   ]

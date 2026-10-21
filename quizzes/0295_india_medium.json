@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which body of water borders India on the southeast?",
+      "question": "What is the official name of India?",
       "options": [
-        "Bay of Bengal",
-        "Arabian Sea",
-        "Indian Ocean",
-        "Pacific Ocean"
+        "Republic of India",
+        "Dominion of India",
+        "Union of India",
+        "Federal Republic of India"
       ],
       "answer_explanations": [
-        "Correct. The article states that India is 'bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast.'",
-        "Incorrect. The Arabian Sea borders India on the southwest, not the southeast.",
-        "Incorrect. The Indian Ocean borders India on the south, not the southeast.",
-        "Incorrect. The Pacific Ocean is not mentioned as a border of India."
+        "Correct. The article states, \"India, officially the Republic of India.\"",
+        "Incorrect. The article mentions the Dominion of India only in the context of the 1947 partition, not as the current official name.",
+        "Incorrect. The article does not use 'Union of India' as the official name.",
+        "Incorrect. The article describes India as a 'federal republic' but its official name is 'Republic of India'."
       ]
     },
     {
       "id": 2,
-      "question": "What was the approximate date of the earliest arrival of modern humans on the Indian subcontinent according to the article?",
+      "question": "Which ocean borders India to the south?",
       "options": [
-        "55,000 years ago",
-        "80,000 years ago",
-        "9,000 years ago",
-        "1200 BCE"
+        "Indian Ocean",
+        "Arabian Sea",
+        "Bay of Bengal",
+        "Pacific Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Modern humans arrived on the Indian subcontinent from Africa by 55,000 years ago.'",
-        "Incorrect. While the article mentions 80,000 years as part of a range, it specifies 'by 55,000 years ago' as the high-likelihood arrival.",
-        "Incorrect. 9,000 years ago refers to the emergence of settled life, not the arrival of modern humans.",
-        "Incorrect. 1200 BCE is associated with the diffusion of archaic Sanskrit, not the arrival of modern humans."
+        "Correct. The article says India is \"Bounded by the Indian Ocean on the south.\"",
+        "Incorrect. The Arabian Sea is on the southwest, not the south.",
+        "Incorrect. The Bay of Bengal is on the southeast, not the south.",
+        "Incorrect. The Pacific Ocean is not mentioned as a border of India."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following religions arose in India during the period when a caste-based social stratification was solidifying?",
-      "options": [
-        "Buddhism and Jainism",
-        "Judaism and Christianity",
-        "Islam and Zoroastrianism",
-        "Sikhism"
-      ],
-      "answer_explanations": [
-        "Correct. The article notes that 'during this period, Buddhism and Jainism arose, proclaiming social orders unlinked to heredity.'",
-        "Incorrect. Judaism, Christianity, Islam, and Zoroastrianism became established on India's coasts well after the caste system solidified.",
-        "Incorrect. Islam and Zoroastrianism are mentioned as arriving later, not during the period of caste solidification.",
-        "Incorrect. Sikhism emerged later, during the era of the Delhi Sultanate and Vijayanagara Empire."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What was a key characteristic of the Vijayanagara Empire mentioned in the article?",
-      "options": [
-        "It built a powerful military-fiscal state that fostered a distinctively South Indian Hindu culture.",
-        "It established the Delhi Sultanate and drew India into medieval Islamic networks.",
-        "It introduced administrative centralisation and cultural synthesis under Mughal rule.",
-        "It promoted egalitarian devotion that transcended Hindu and Muslim boundaries."
-      ],
-      "answer_explanations": [
-        "Correct. The article states 'The Vijayanagara Empire built a powerful military-fiscal state that fostered a flourishing, distinctively South Indian Hindu culture.'",
-        "Incorrect. The Delhi Sultanate was established by Muslim armies from Central Asia, not by the Vijayanagara Empire.",
-        "Incorrect. Administrative centralisation and cultural synthesis are attributed to the Mughal Empire, not Vijayanagara.",
-        "Incorrect. Egalitarian devotion transcending boundaries is associated with Sikhism, which emerged in Punjab."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "When did Crown rule (the British Raj) officially begin?",
+      "question": "When did the British Raj, or crown rule, begin in India?",
       "options": [
         "1858",
         "1947",
         "1950",
-        "1920"
+        "1200 BCE"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Crown rule, or the British Raj, began in 1858.'",
-        "Incorrect. 1947 is the year of India's independence and partition.",
-        "Incorrect. 1950 is the year the Constitution of India was adopted.",
-        "Incorrect. 1920 is noted as the year after which the nationalist movement became known for nonviolent resistance."
+        "Correct. The article states, \"Crown rule, or the British Raj, began in 1858.\"",
+        "Incorrect. 1947 is when the British Indian Empire was partitioned into independent dominions.",
+        "Incorrect. 1950 is when the Constitution of India was adopted.",
+        "Incorrect. 1200 BCE is related to the diffusion of archaic Sanskrit, not British rule."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What was the main goal of the Green Revolution in India during the 1970s?",
+      "options": [
+        "Reversing agricultural stagnation and achieving food security",
+        "Reorganizing states along linguistic lines",
+        "Ending princely privileges",
+        "Integrating the economy with the world's"
+      ],
+      "answer_explanations": [
+        "Correct. The article says, \"During the 1970s, India reversed agricultural stagnation through the Green Revolution, achieving national food security.\"",
+        "Incorrect. Reorganizing states along linguistic lines happened in 1956, not as part of the Green Revolution.",
+        "Incorrect. Ending princely privileges was a constitutional reform, not a goal of the Green Revolution.",
+        "Incorrect. Economic integration with the world's economy came from the economic reforms of the 1990s."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "According to the article, what is the meaning of the Sanskrit word 'Sindhu'?",
+      "options": [
+        "River, specifically the Indus river",
+        "People of the Indus",
+        "Land of the Hindus",
+        "South Asia"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Sanskrit *Sindhu* means \"'river,' but specifically the Indus river, and by extension its well-settled basin.\"",
+        "Incorrect. 'People of the Indus' is the meaning of the Ancient Greek term *Indoi*.",
+        "Incorrect. This is not the meaning given in the article for 'Sindhu'.",
+        "Incorrect. 'South Asia' is a modern geographical term, not the meaning of 'Sindhu'."
       ]
     },
     {
       "id": 6,
-      "question": "What was a major consequence of the 1947 partition of the British Indian Empire?",
+      "question": "Which religion emerged in the Punjab during the era of the Vijayanagara Empire, promoting an egalitarian devotion?",
       "options": [
-        "Large-scale loss of life and unprecedented migration",
-        "The adoption of the Constitution of India",
-        "The Green Revolution",
-        "The reorganization of states along linguistic lines"
+        "Sikhism",
+        "Buddhism",
+        "Jainism",
+        "Zoroastrianism"
       ],
       "answer_explanations": [
-        "Correct. The article states 'The partition brought large-scale loss of life and unprecedented migration.'",
-        "Incorrect. The Constitution was adopted in 1950, three years after partition.",
-        "Incorrect. The Green Revolution occurred in the 1970s.",
-        "Incorrect. The reorganization of states along linguistic lines happened in 1956."
+        "Correct. The article says, \"During this era, Sikhism emerged in the Punjab, promoting an egalitarian devotion that transcended traditional Hindu and Muslim boundaries.\"",
+        "Incorrect. Buddhism arose earlier, during the period after 500 BCE.",
+        "Incorrect. Jainism also arose earlier, in the same period as Buddhism.",
+        "Incorrect. Zoroastrianism became established on India's coasts well before the 2nd millennium."
       ]
     },
     {
       "id": 7,
-      "question": "What did the 1956 reorganization of states in India primarily aim to do?",
+      "question": "What did the reorganization of states in 1956 institutionalize?",
       "options": [
-        "Institutionalise regional language pride",
-        "Strengthen affirmative action programmes",
-        "End princely privileges",
-        "Achieve national food security"
+        "Regional language pride",
+        "Caste inequality",
+        "A parliamentary system",
+        "Religious pluralism"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The reorganization of states in 1956 along linguistic lines institutionalised regional language pride.'",
-        "Incorrect. Affirmative action programmes were strengthened by amendments from 1951 onwards, not by the 1956 reorganization.",
-        "Incorrect. Ending princely privileges was achieved through constitutional reform in the 1970s.",
-        "Incorrect. National food security was achieved through the Green Revolution in the 1970s."
+        "Correct. The article states, \"The reorganization of states in 1956 along linguistic lines institutionalised regional language pride and led to the growth of regional literature and cinema.\"",
+        "Incorrect. Caste inequality was addressed through affirmative action amendments, not the state reorganization.",
+        "Incorrect. The parliamentary system was established by the Constitution in 1950.",
+        "Incorrect. Religious pluralism is guaranteed by the Constitution, not institutionalized by the 1956 reorganization."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is NOT mentioned as a challenge facing India in recent years?",
+      "question": "Which empire is described as ushering in two centuries of economic expansion and relative peace?",
       "options": [
-        "Rising literacy rates",
-        "Widening income gaps",
-        "Gender inequality",
-        "Environmental degradation"
+        "Mughal Empire",
+        "Maurya Empire",
+        "Gupta Empire",
+        "Vijayanagara Empire"
       ],
       "answer_explanations": [
-        "Correct. The article lists 'widening income gaps, gender inequality and environmental degradation' as challenges, but does not mention rising literacy rates as a challenge.",
-        "Incorrect. Widening income gaps are explicitly mentioned as a challenge.",
-        "Incorrect. Gender inequality is explicitly mentioned as a challenge.",
-        "Incorrect. Environmental degradation is explicitly mentioned as a challenge."
+        "Correct. The article says, \"The Mughal Empire ushered in two centuries of economic expansion and relative peace.\"",
+        "Incorrect. The Maurya Empire is mentioned as a loose-knit empire that gave rise to cultural and scientific creativity.",
+        "Incorrect. The Gupta Empire is also mentioned for cultural and scientific creativity.",
+        "Incorrect. The Vijayanagara Empire is described as a powerful military-fiscal state, not for two centuries of peace."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is the origin of the English name 'India'?",
+      "question": "According to the article, what is one of the challenges India faces today?",
       "options": [
-        "It derives from Classical Latin India, ultimately from the Sanskrit Sindhu.",
-        "It comes from the Middle Persian name Hindustan.",
-        "It is a modern rendering of the historical name Bharatavarsha.",
-        "It was coined by the British East India Company."
+        "Widening income gaps",
+        "Lack of a large middle class",
+        "No communications boom",
+        "Absence of a nuclear weapon program"
       ],
       "answer_explanations": [
-        "Correct. The article explains that 'India' derives from Classical Latin India, with further etymons including Sanskrit Sindhu, referring to the Indus river.",
-        "Incorrect. Hindustan is a Middle Persian name that became popular later, not the origin of 'India'.",
-        "Incorrect. Bharat is a modern rendering of Bharatavarsha, not the origin of 'India'.",
-        "Incorrect. The article does not mention the British East India Company coining the name."
+        "Correct. The article states, \"However, challenges remain, including widening income gaps, gender inequality and environmental degradation.\"",
+        "Incorrect. The article says a large middle class gained momentum.",
+        "Incorrect. The article mentions a communications boom gained momentum.",
+        "Incorrect. The article states India is a nuclear-weapon state."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article indicate about the term 'Hindustan'?",
+      "question": "Which name for India became popular by the 13th century and was used widely since the Mughal era?",
       "options": [
-        "It is a Middle Persian name for India that became popular by the 13th century.",
-        "It is the official name of India in the Constitution.",
-        "It refers exclusively to South India.",
-        "It was used only during the ancient period."
+        "Hindustan",
+        "Bharat",
+        "Indos",
+        "HinduÅ¡"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Hindustan is a Middle Persian name for India that became popular by the 13th century.'",
-        "Incorrect. The Constitution uses 'Bharat', not 'Hindustan'.",
-        "Incorrect. The article says Hindustan referred to the northern Indian subcontinent or India in its near entirety, not exclusively South India.",
-        "Incorrect. The article notes it was used widely since the Mughal era, not only in ancient times."
+        "Correct. The article says, \"Hindustan is a Middle Persian name for India that became popular by the 13th century, and was used widely since the era of the Mughal Empire.\"",
+        "Incorrect. Bharat is a modern rendering of the historical name Bharatavarsha, which gained currency from the mid-19th century.",
+        "Incorrect. Indos is the Ancient Greek name for the River Indus.",
+        "Incorrect. HinduÅ¡ is an Achaemenian Old Persian name for an eastern province."
       ]
     }
   ]

@@ -5,23 +5,23 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which planet from the Sun is Earth?",
+      "question": "What is Earth's position from the Sun?",
       "options": [
-        "Third",
-        "Second",
-        "Fourth",
-        "Fifth"
+        "Third planet",
+        "Second planet",
+        "Fourth planet",
+        "Fifth planet"
       ],
       "answer_explanations": [
-        "Correct. The article states that Earth is the third planet from the Sun.",
-        "Incorrect. The article identifies Earth as the third planet from the Sun, not the second.",
-        "Incorrect. The article identifies Earth as the third planet from the Sun, not the fourth.",
-        "Incorrect. The article identifies Earth as the third planet from the Sun, not the fifth."
+        "Correct. The article states 'Earth is the third planet from the Sun'.",
+        "Incorrect. The article states Earth is the third planet, not the second.",
+        "Incorrect. The article states Earth is the third planet, not the fourth.",
+        "Incorrect. The article states Earth is the third planet, not the fifth."
       ]
     },
     {
       "id": 2,
-      "question": "What percentage of Earth's crust is covered by ocean?",
+      "question": "What percentage of Earth's crust is covered by the ocean?",
       "options": [
         "70.8%",
         "29.2%",
@@ -29,138 +29,138 @@
         "90%"
       ],
       "answer_explanations": [
-        "Correct. The article states that the ocean covers 70.8% of Earth's crust.",
-        "Incorrect. The article states that 29.2% of Earth's crust is dry land, not ocean.",
-        "Incorrect. The article states that the ocean covers 70.8% of Earth's crust, not 50%.",
-        "Incorrect. The article states that the ocean covers 70.8% of Earth's crust, not 90%."
+        "Correct. The article states the ocean 'covers 70.8% of Earth's crust'.",
+        "Incorrect. 29.2% is the percentage of Earth's crust that is dry land, not ocean.",
+        "Incorrect. The article does not state that the ocean covers 50% of Earth's crust.",
+        "Incorrect. The article does not state that the ocean covers 90% of Earth's crust."
       ]
     },
     {
       "id": 3,
-      "question": "What is the average surface temperature of Earth?",
-      "options": [
-        "14.76 Â°C (58.57 Â°F)",
-        "15 Â°C (59 Â°F)",
-        "20 Â°C (68 Â°F)",
-        "10 Â°C (50 Â°F)"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the current average surface temperature is 14.76 Â°C (58.57 Â°F).",
-        "Incorrect. The article states that the current average surface temperature is 14.76 Â°C (58.57 Â°F), not 15 Â°C (59 Â°F).",
-        "Incorrect. The article states that the current average surface temperature is 14.76 Â°C (58.57 Â°F), not 20 Â°C (68 Â°F).",
-        "Incorrect. The article states that the current average surface temperature is 14.76 Â°C (58.57 Â°F), not 10 Â°C (50 Â°F)."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "How long does Earth take to complete one orbit around the Sun?",
-      "options": [
-        "About 365.25 days",
-        "About 365 days",
-        "About 366 days",
-        "About 24 hours"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Earth takes a year, about 365.25 days, to complete one revolution around the Sun.",
-        "Incorrect. The article states that Earth takes about 365.25 days to complete one revolution, not about 365 days.",
-        "Incorrect. The article states that Earth takes about 365.25 days to complete one revolution, not about 366 days.",
-        "Incorrect. The article states that Earth takes about 365.25 days to complete one revolution, not about 24 hours."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What is Earth's only permanent natural satellite?",
-      "options": [
-        "The Moon",
-        "The Sun",
-        "Mars",
-        "Venus"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Earth is orbited by one permanent natural satellite, the Moon.",
-        "Incorrect. The article identifies the Moon as Earth's only permanent natural satellite, not the Sun.",
-        "Incorrect. The article identifies the Moon as Earth's only permanent natural satellite, not Mars.",
-        "Incorrect. The article identifies the Moon as Earth's only permanent natural satellite, not Venus."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "How far is Earth from the Sun?",
-      "options": [
-        "About eight light-minutes (1 astronomical unit)",
-        "About four light-minutes",
-        "About twelve light-minutes",
-        "About one light-year"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Earth is about eight light-minutes (1 astronomical unit) away from the Sun.",
-        "Incorrect. The article states that Earth is about eight light-minutes away from the Sun, not about four light-minutes.",
-        "Incorrect. The article states that Earth is about eight light-minutes away from the Sun, not about twelve light-minutes.",
-        "Incorrect. The article states that Earth is about eight light-minutes away from the Sun, not about one light-year."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "What are the two primary gases in Earth's atmosphere?",
-      "options": [
-        "Nitrogen and oxygen",
-        "Oxygen and carbon dioxide",
-        "Nitrogen and carbon dioxide",
-        "Hydrogen and helium"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Earth's atmosphere is composed primarily of nitrogen and oxygen.",
-        "Incorrect. The article states that Earth's atmosphere is composed primarily of nitrogen and oxygen, not oxygen and carbon dioxide.",
-        "Incorrect. The article states that Earth's atmosphere is composed primarily of nitrogen and oxygen, not nitrogen and carbon dioxide.",
-        "Incorrect. The article states that Earth's atmosphere is composed primarily of nitrogen and oxygen, not hydrogen and helium."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "When did humans emerge in Africa?",
-      "options": [
-        "300,000 years ago",
-        "2 billion years ago",
-        "4.5 billion years ago",
-        "1 million years ago"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that humans emerged 300,000 years ago in Africa.",
-        "Incorrect. The article states that humans emerged 300,000 years ago in Africa, not 2 billion years ago.",
-        "Incorrect. The article states that humans emerged 300,000 years ago in Africa, not 4.5 billion years ago.",
-        "Incorrect. The article states that humans emerged 300,000 years ago in Africa, not 1 million years ago."
-      ]
-    },
-    {
-      "id": 9,
       "question": "What does Earth's liquid outer core generate?",
       "options": [
         "A magnetosphere",
         "Tectonic plates",
-        "Ocean currents",
-        "The atmosphere"
+        "Mountain ranges",
+        "Ice sheets"
       ],
       "answer_explanations": [
-        "Correct. The article states that Earth's liquid outer core generates a magnetosphere capable of deflecting most solar winds and cosmic radiation.",
-        "Incorrect. The article states that Earth's liquid outer core generates a magnetosphere, not tectonic plates.",
-        "Incorrect. The article states that Earth's liquid outer core generates a magnetosphere, not ocean currents.",
-        "Incorrect. The article states that Earth's liquid outer core generates a magnetosphere, not the atmosphere."
+        "Correct. The article says 'Earth has a liquid outer core that generates a magnetosphere'.",
+        "Incorrect. Tectonic plates are part of the crust, not generated by the outer core.",
+        "Incorrect. Mountain ranges are produced by tectonic plates, not the outer core.",
+        "Incorrect. Ice sheets are located at polar deserts, not generated by the outer core."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What are the two primary gases that Earth's atmosphere is composed of?",
+      "options": [
+        "Nitrogen and oxygen",
+        "Carbon dioxide and nitrogen",
+        "Oxygen and water vapor",
+        "Water vapor and carbon dioxide"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the atmosphere 'is composed primarily of nitrogen and oxygen'.",
+        "Incorrect. Carbon dioxide is a greenhouse gas, but not a primary component of the atmosphere.",
+        "Incorrect. Water vapor is present, but the primary gases are nitrogen and oxygen.",
+        "Incorrect. Water vapor and carbon dioxide are greenhouse gases, not the primary atmospheric gases."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the current average surface temperature of Earth mentioned in the article?",
+      "options": [
+        "14.76 Â°C (58.57 Â°F)",
+        "10.00 Â°C (50.00 Â°F)",
+        "20.00 Â°C (68.00 Â°F)",
+        "25.00 Â°C (77.00 Â°F)"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions 'the current average surface temperature of 14.76 Â°C (58.57 Â°F)'.",
+        "Incorrect. The article does not state this temperature.",
+        "Incorrect. The article does not state this temperature.",
+        "Incorrect. The article does not state this temperature."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the approximate circumference of Earth?",
+      "options": [
+        "About 40,000 km (24,900 mi)",
+        "About 30,000 km (18,600 mi)",
+        "About 50,000 km (31,000 mi)",
+        "About 20,000 km (12,400 mi)"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Earth has 'a circumference of about 40,000 km (24,900 mi)'.",
+        "Incorrect. The article does not state this circumference.",
+        "Incorrect. The article does not state this circumference.",
+        "Incorrect. The article does not state this circumference."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "How long does Earth take to complete one revolution around the Sun?",
+      "options": [
+        "About 365.25 days",
+        "About 300 days",
+        "About 400 days",
+        "About 23 hours and 56 minutes"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Earth 'orbits it, taking a year (about 365.25 days) to complete one revolution'.",
+        "Incorrect. The article states it takes about 365.25 days, not 300 days.",
+        "Incorrect. The article states it takes about 365.25 days, not 400 days.",
+        "Incorrect. 23 hours and 56 minutes is the time for Earth's rotation on its own axis, not its revolution around the Sun."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the name of Earth's permanent natural satellite?",
+      "options": [
+        "The Moon",
+        "Titan",
+        "Io",
+        "Europa"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Earth 'is orbited by one permanent natural satellite, the Moon'.",
+        "Incorrect. Titan is a moon of Saturn, not Earth.",
+        "Incorrect. Io is a moon of Jupiter, not Earth.",
+        "Incorrect. Europa is a moon of Jupiter, not Earth."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "About how many years ago did Earth form?",
+      "options": [
+        "4.5 billion years ago",
+        "2 billion years ago",
+        "300,000 years ago",
+        "1 billion years ago"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Earth 'formed about 4.5 billion years ago'.",
+        "Incorrect. 2 billion years ago is when the Great Oxidation Event occurred, not when Earth formed.",
+        "Incorrect. 300,000 years ago is when humans emerged, not when Earth formed.",
+        "Incorrect. The article does not state this as the time of Earth's formation."
       ]
     },
     {
       "id": 10,
-      "question": "What effect does the Moon's gravity have on Earth's axis?",
+      "question": "Where did humans emerge 300,000 years ago according to the article?",
       "options": [
-        "It helps stabilize Earth's axis",
-        "It tilts Earth's axis",
-        "It removes Earth's axis",
-        "It has no effect on Earth's axis"
+        "In Africa",
+        "In Asia",
+        "In Europe",
+        "In Australia"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moon's gravity helps stabilize Earth's axis.",
-        "Incorrect. The article states that the Moon's gravity helps stabilize Earth's axis, not that it tilts Earth's axis.",
-        "Incorrect. The article states that the Moon's gravity helps stabilize Earth's axis, not that it removes Earth's axis.",
-        "Incorrect. The article states that the Moon's gravity helps stabilize Earth's axis, so it does have an effect."
+        "Correct. The article states 'Humans emerged 300,000 years ago in Africa'.",
+        "Incorrect. The article specifies Africa as the place of emergence.",
+        "Incorrect. The article specifies Africa as the place of emergence.",
+        "Incorrect. The article specifies Africa as the place of emergence."
       ]
     }
   ]

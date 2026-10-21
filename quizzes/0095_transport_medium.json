@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What are the three main divisions of the transport field according to the article?",
+      "question": "What is the main purpose of transport?",
       "options": [
-        "infrastructure, vehicles, and operations",
-        "air, land, and water",
-        "public, private, and partnership",
-        "passenger, freight, and cargo"
+        "To move humans, animals, and goods from one location to another",
+        "To generate electricity for cities",
+        "To provide entertainment for people",
+        "To build infrastructure like roads and bridges"
       ],
       "answer_explanations": [
-        "Correct. The article states that the field can be divided into infrastructure, vehicles, and operations.",
-        "Incorrect. Air, land, and water are modes of transport, not the three divisions of the field.",
-        "Incorrect. Public, private, and partnership refer to ownership systems of infrastructure and operations, not the field's divisions.",
-        "Incorrect. Passenger and freight are types of transport services, not the field's divisions."
+        "Correct. The article states that transport is 'the intentional movement of humans, animals, and goods from one location to another.'",
+        "Incorrect. The article does not mention generating electricity as a purpose of transport.",
+        "Incorrect. The article does not describe transport as a form of entertainment.",
+        "Incorrect. Building infrastructure is part of the field, but it is not the main purpose of transport."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as an example of transport infrastructure?",
+      "question": "Which of the following is NOT listed as a mode of transport in the article?",
       "options": [
-        "airports",
-        "automobiles",
-        "locomotives",
-        "airplanes"
+        "Space",
+        "Cable",
+        "Pipeline",
+        "Submarine"
       ],
       "answer_explanations": [
-        "Correct. The article lists airports among the terminals that make up transport infrastructure.",
-        "Incorrect. Automobiles are vehicles or means of transport, not infrastructure.",
-        "Incorrect. Locomotives are vehicles used in rail transport, not infrastructure.",
-        "Incorrect. Airplanes are vehicles or means of transport, not infrastructure."
+        "Correct. The article lists air, land, water, cable, pipelines, and space as modes of transport, but does not mention submarines as a mode.",
+        "Incorrect. Cable is explicitly listed as a mode of transport.",
+        "Incorrect. Pipelines are explicitly listed as a mode of transport.",
+        "Incorrect. Space is explicitly listed as a mode of transport."
       ]
     },
     {
       "id": 3,
-      "question": "What does mobility concern, according to the article?",
+      "question": "What does transport infrastructure include?",
       "options": [
-        "the experience around transportation services",
-        "the physical movement of goods",
-        "the construction of roads and railways",
-        "the regulation of vehicle ownership"
+        "Fixed installations like roads, railways, and terminals",
+        "Only vehicles like cars and trains",
+        "Only the operators and drivers",
+        "Only the fuel and energy sources"
       ],
       "answer_explanations": [
-        "Correct. The article states mobility is concerned with the experience around transportation services, including availability, information, usability, accessibility, and affordability.",
-        "Incorrect. The physical movement of goods is transport itself, not mobility.",
-        "Incorrect. Construction of roads and railways relates to infrastructure, not mobility.",
-        "Incorrect. Regulation of vehicle ownership is not what mobility concerns according to the article."
+        "Correct. The article says infrastructure consists of 'fixed installations, including roads, railways, airways, waterways, canals, and pipelines, as well as terminals such as airports, railway stations, bus stations, warehouses, trucking terminals, refueling depots, and seaports.'",
+        "Incorrect. Vehicles are a separate part of the field, not part of infrastructure.",
+        "Incorrect. Operators and operations are mentioned separately from infrastructure.",
+        "Incorrect. The article does not list fuel or energy as part of infrastructure."
       ]
     },
     {
       "id": 4,
-      "question": "What is inter-modal or multi-modal transport?",
+      "question": "What is the difference between a mode of transport and a means of transport?",
       "options": [
-        "transport involving one mode or several modes",
-        "transport using only human power",
-        "transport limited to air and water modes",
-        "transport owned jointly by public and private entities"
+        "A mode is a method of travelling, while a means is the facility used to carry people or cargo",
+        "A mode is a vehicle, while a means is the infrastructure",
+        "A mode is the route, while a means is the destination",
+        "There is no difference; they are the same thing"
       ],
       "answer_explanations": [
-        "Correct. The article states that transport of a person or cargo may involve one mode or several modes, with the latter case being called inter-modal or multi-modal transport.",
-        "Incorrect. Human-powered transport is a separate category, not inter-modal transport.",
-        "Incorrect. Inter-modal transport is not limited to air and water modes.",
-        "Incorrect. Public-private partnership refers to ownership, not inter-modal transport."
+        "Correct. The article explains that a mode is 'a method or way of travelling' and that 'means of transport' refers to 'the transport facilities used to carry people or cargo according to the chosen mode.'",
+        "Incorrect. A mode is not a vehicle; it is a method. Means are facilities, not infrastructure.",
+        "Incorrect. The article does not define mode as route or means as destination.",
+        "Incorrect. The article clearly distinguishes between the two concepts."
       ]
     },
     {
       "id": 5,
-      "question": "Which statement accurately describes human-powered transport?",
+      "question": "What is containerization in freight transport?",
       "options": [
-        "it is a form of sustainable transport using human muscle-power",
-        "it requires motorized vehicles to function",
-        "it is only used in developed urban regions",
-        "it is the fastest method of transport"
+        "A focus on using standardized containers for cargo",
+        "A method of transporting goods in bulk",
+        "A type of passenger transport",
+        "A way of building roads"
       ],
       "answer_explanations": [
-        "Correct. The article describes human-powered transport as a form of sustainable transport using human muscle-power in the form of walking, running, and swimming.",
-        "Incorrect. Human-powered transport uses human muscle-power, not motorized vehicles.",
-        "Incorrect. The article states it is sometimes the only type available in underdeveloped or inaccessible regions, not only developed urban regions.",
-        "Incorrect. The article identifies aircraft as the second fastest method after rockets, not human-powered transport."
+        "Correct. The article states that 'Freight transport has become focused on containerization,' which refers to using standardized containers for cargo.",
+        "Incorrect. Bulk transport is mentioned separately for large volumes of durable items, not as containerization.",
+        "Incorrect. Containerization is about freight, not passenger transport.",
+        "Incorrect. Containerization is not related to road building."
       ]
     },
     {
       "id": 6,
-      "question": "What are the two kinds of land transport identified in the article?",
+      "question": "Why is human-powered transport sometimes the only type available?",
       "options": [
-        "rail and road",
-        "rail and pipeline",
-        "road and cable",
-        "road and space"
+        "In underdeveloped or inaccessible regions",
+        "Because it is always the fastest",
+        "Because it is the most comfortable",
+        "Because it is the most expensive"
       ],
       "answer_explanations": [
-        "Correct. The article states land transport consists of two kinds, rail and road.",
-        "Incorrect. Pipeline is listed as a separate mode, not a kind of land transport.",
-        "Incorrect. Cable transport is listed as another mode, not a kind of land transport.",
-        "Incorrect. Space transport is a separate mode, not a kind of land transport."
+        "Correct. The article says human-powered transport 'is sometimes the only type available, especially in underdeveloped or inaccessible regions.'",
+        "Incorrect. The article does not claim it is the fastest; in fact, air transport is faster.",
+        "Incorrect. The article does not mention comfort as a reason.",
+        "Incorrect. The article mentions cost-saving as a reason for its popularity, not expense."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is a tram?",
+      "question": "What is the main difference between fixed-wing aircraft and rotary-wing aircraft?",
       "options": [
-        "a smaller vehicle similar to a train that runs on rails integrated into streets",
-        "a type of locomotive powered by steam",
-        "a human-powered vehicle for snow and water",
-        "a lighter-than-air aircraft"
+        "Fixed-wing uses air flow over wings for lift, while rotary-wing uses moving lift surfaces",
+        "Fixed-wing is slower than rotary-wing",
+        "Fixed-wing can only land on water",
+        "Rotary-wing cannot carry passengers"
       ],
       "answer_explanations": [
-        "Correct. The article describes a tram as similar to a train, generally smaller, traveling shorter distances, and running on rails integrated into the streets.",
-        "Incorrect. A locomotive provides propulsion for trains; a tram is a separate vehicle type.",
-        "Incorrect. Human-powered vehicles for snow and water are different from trams.",
-        "Incorrect. A lighter-than-air aircraft is an aerostat, not a tram."
+        "Correct. The article explains that a fixed-wing aircraft generates lift from 'movement of the air in relation to the wings,' while rotary-wing aircraft generate lift from 'the movement of the lift surfaces relative to the air.'",
+        "Incorrect. The article does not compare speeds between the two types.",
+        "Incorrect. Fixed-wing aircraft can land on land, ice, snow, and water; they are not limited to water.",
+        "Incorrect. Helicopters, which are rotary-wing, can carry passengers."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about the speed of aircraft compared to other transport methods?",
+      "question": "What is an aerostat?",
       "options": [
-        "aircraft is the second fastest method of transport, after the rocket",
-        "aircraft is the fastest method of transport",
-        "aircraft is slower than rail transport",
-        "aircraft speed is comparable to human-powered transport"
+        "A lighter-than-air aircraft that uses gas with lower density than the atmosphere",
+        "A type of fixed-wing aircraft",
+        "A type of rocket",
+        "A type of land vehicle"
       ],
       "answer_explanations": [
-        "Correct. The article states the aircraft is the second fastest method of transport, after the rocket.",
-        "Incorrect. The article identifies the rocket as faster than aircraft.",
-        "Incorrect. The article does not state aircraft is slower than rail; it identifies aircraft as second fastest overall.",
-        "Incorrect. Aircraft are much faster than human-powered transport according to the article."
+        "Correct. The article defines an aerostat as 'a class of lighter-than-air aircraft that gains its lift by containing a volume of gas that has a lower density than the surrounding atmosphere.'",
+        "Incorrect. Aerostats are lighter-than-air, not fixed-wing.",
+        "Incorrect. Aerostats are not rockets.",
+        "Incorrect. Aerostats are aircraft, not land vehicles."
       ]
     },
     {
       "id": 9,
-      "question": "What environmental concern does the article raise about machine-propelled transport?",
+      "question": "What are the two kinds of land transport mentioned in the article?",
       "options": [
-        "it causes air pollution and uses large amounts of land",
-        "it reduces urban sprawl",
-        "it eliminates the need for infrastructure",
-        "it decreases energy efficiency"
+        "Rail and road",
+        "Air and water",
+        "Cable and pipeline",
+        "Human-powered and animal-powered"
       ],
       "answer_explanations": [
-        "Correct. The article states machine-propelled forms cause air pollution and use large amounts of land.",
-        "Incorrect. The article says good planning helps restrain urban sprawl, not that machine-propelled transport reduces it.",
-        "Incorrect. Machine-propelled transport requires infrastructure, not eliminates it.",
-        "Incorrect. The article does not state machine-propelled transport decreases energy efficiency."
+        "Correct. The article states that land transport 'consists of two kinds, rail and road.'",
+        "Incorrect. Air and water are separate modes, not kinds of land transport.",
+        "Incorrect. Cable and pipeline are separate modes, not kinds of land transport.",
+        "Incorrect. Human-powered and animal-powered are sometimes regarded as distinct modes, but they are not the two kinds of land transport."
       ]
     },
     {
       "id": 10,
-      "question": "How are animals used in animal-powered transport?",
+      "question": "What is a tram?",
       "options": [
-        "humans ride them, use them as pack animals, or harness them to pull sleds or wheeled vehicles",
-        "they are used exclusively to carry passengers by air",
-        "they replace infrastructure such as roads and railways",
-        "they are only useful in urban environments"
+        "A vehicle similar to a train but smaller, traveling shorter distances on rails integrated into streets",
+        "A type of airplane",
+        "A type of ship",
+        "A type of bicycle"
       ],
       "answer_explanations": [
-        "Correct. The article states humans may ride animals directly, use them as pack animals, or harness them to pull sleds or wheeled vehicles.",
-        "Incorrect. Animal-powered transport is not used to carry passengers by air.",
-        "Incorrect. Animals do not replace infrastructure; they remain useful where automotive transport is not accessible.",
-        "Incorrect. The article states they remain useful in rough terrain not accessible by automotive transportation, not only in urban environments."
+        "Correct. The article says a tram is 'similar to a train, but is generally smaller, travels shorter distances, and runs on rails that are integrated into the streets.'",
+        "Incorrect. A tram is a land vehicle, not an airplane.",
+        "Incorrect. A tram is not a watercraft.",
+        "Incorrect. A tram runs on rails, not like a bicycle."
       ]
     }
   ]

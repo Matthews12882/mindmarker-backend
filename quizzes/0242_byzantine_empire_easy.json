@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What city served as the capital of the Byzantine Empire?",
+      "question": "What was the Byzantine Empire also known as?",
       "options": [
-        "Constantinople",
-        "Rome",
-        "Athens",
-        "Alexandria"
+        "The Eastern Roman Empire",
+        "The Western Roman Empire",
+        "The Ottoman Empire",
+        "The Holy Roman Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states that Constantine I founded the new Eastern capital of Constantinople.",
-        "Incorrect. Rome was the old capital but not the Byzantine capital.",
-        "Incorrect. Athens was not the capital of the Byzantine Empire.",
-        "Incorrect. Alexandria was not the capital of the Byzantine Empire."
+        "Correct. The article states that the Byzantine Empire was 'also known as the Eastern Roman Empire'.",
+        "Incorrect. The Western Roman Empire fell in the 5th century AD, not the Byzantine Empire.",
+        "Incorrect. The Ottoman Empire conquered Constantinople in 1453, but it was not another name for the Byzantine Empire.",
+        "Incorrect. The Holy Roman Empire is a different historical entity not mentioned in the article's introduction."
       ]
     },
     {
       "id": 2,
-      "question": "Which emperor made Christianity the state religion?",
+      "question": "Which city was the center of the Byzantine Empire?",
       "options": [
-        "Theodosius I",
-        "Constantine I",
-        "Justinian I",
-        "Julian"
+        "Constantinople",
+        "Rome",
+        "Athens",
+        "Paris"
       ],
       "answer_explanations": [
-        "Correct. The article says Theodosius I made Christianity the state religion.",
-        "Incorrect. Constantine I legalized Christianity but did not make it the state religion.",
-        "Incorrect. Justinian I focused on law and reconquest, not establishing state religion.",
-        "Incorrect. Julian opposed Christianity."
+        "Correct. The article says the empire was 'centred on Constantinople'.",
+        "Incorrect. Rome was the capital of the Western Roman Empire, not the Byzantine Empire.",
+        "Incorrect. Athens is not mentioned as the center of the Byzantine Empire.",
+        "Incorrect. Paris is mentioned later as overtaking Constantinople in wealth, but it was not the empire's center."
       ]
     },
     {
       "id": 3,
-      "question": "In what year did the Byzantine Empire fall to the Ottoman Empire?",
+      "question": "In which century did the Western Roman Empire fall?",
       "options": [
-        "1453",
-        "1204",
-        "1261",
-        "1492"
+        "5th century AD",
+        "4th century AD",
+        "6th century AD",
+        "15th century AD"
       ],
       "answer_explanations": [
-        "Correct. The article states the fall of Constantinople to the Ottoman Empire occurred in 1453.",
-        "Incorrect. 1204 was the sack of Constantinople during the Fourth Crusade.",
-        "Incorrect. 1261 was the recovery of Constantinople by the Byzantines.",
-        "Incorrect. 1492 is unrelated to the Byzantine Empire."
+        "Correct. The article mentions the 'fall of the Western Roman Empire in the 5th century AD'.",
+        "Incorrect. The 4th century is not when the Western Roman Empire fell according to the article.",
+        "Incorrect. The 6th century is not mentioned as the fall of the Western Roman Empire.",
+        "Incorrect. The 15th century is when Constantinople fell, not the Western Roman Empire."
       ]
     },
     {
       "id": 4,
-      "question": "What term did the empire's inhabitants use to refer to themselves?",
+      "question": "When did the Byzantine Empire come to an end?",
       "options": [
-        "Romans",
-        "Greeks",
-        "Byzantines",
-        "Easterners"
+        "1453",
+        "541",
+        "527",
+        "1204"
       ],
       "answer_explanations": [
-        "Correct. The article says the inhabitants regarded themselves as Romans (in Greek, á¿¬ÏÎ¼Î±á¿Î¿Î¹ or Romaioi).",
-        "Incorrect. While later Western Europeans called them Greeks, they called themselves Romans.",
-        "Incorrect. 'Byzantines' is a modern term for the inhabitants.",
-        "Incorrect. 'Easterners' is not mentioned as a self-designation."
+        "Correct. The article states it 'endured until the fall of Constantinople to the Ottoman Empire in 1453'.",
+        "Incorrect. 541 is mentioned as the start of a plague, not the end of the empire.",
+        "Incorrect. 527 is the start of Justinian I's reign, not the end.",
+        "Incorrect. 1204 is when Constantinople was sacked, but the empire continued until 1453."
       ]
     },
     {
       "id": 5,
-      "question": "Which legal code was compiled under Justinian I?",
+      "question": "What did the citizens of the Byzantine Empire call themselves?",
       "options": [
-        "Corpus Juris Civilis",
-        "Codex Theodosianus",
-        "Napoleonic Code",
-        "Justinian's Code"
+        "Romans",
+        "Greeks",
+        "Byzantines",
+        "Ottomans"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the legal code was rewritten as the Corpus Juris Civilis under Justinian I.",
-        "Incorrect. The Codex Theodosianus was compiled under Theodosius II.",
-        "Incorrect. The Napoleonic Code is a later French legal code.",
-        "Incorrect. 'Justinian's Code' is not the formal name used in the article."
+        "Correct. The article says the citizens 'called themselves Romans'.",
+        "Incorrect. The article does not say they called themselves Greeks.",
+        "Incorrect. The term 'Byzantine' was coined after the empire's demise, not used by its citizens.",
+        "Incorrect. Ottomans were the conquerors, not the citizens of the Byzantine Empire."
       ]
     },
     {
       "id": 6,
-      "question": "What major architectural project was rebuilt by Justinian I in Constantinople?",
+      "question": "Who legalised Christianity and founded Constantinople?",
       "options": [
-        "Hagia Sophia",
-        "Sofia Cathedral",
-        "Basilica of Saint Peter",
-        "The Parthenon"
+        "Constantine I",
+        "Justinian I",
+        "Theodosius I",
+        "Theodosius II"
       ],
       "answer_explanations": [
-        "Correct. The article states Justinian I rebuilt much of Constantinople, including the Hagia Sophia.",
-        "Incorrect. Sofia Cathedral is not mentioned.",
-        "Incorrect. Basilica of Saint Peter is in Rome.",
-        "Incorrect. The Parthenon is in Athens."
+        "Correct. The article states 'Constantine I (r. 324â337) legalised Christianity and founded the new Eastern capital of Constantinople'.",
+        "Incorrect. Justinian I is mentioned later for expanding the empire, not for legalising Christianity or founding Constantinople.",
+        "Incorrect. Theodosius I made Christianity the state religion, but he did not found Constantinople.",
+        "Incorrect. Theodosius II is not mentioned in the introduction."
       ]
     },
     {
       "id": 7,
-      "question": "Which dynasty saw a two-century-long renaissance?",
+      "question": "Who made Christianity the state religion?",
       "options": [
-        "Macedonian dynasty",
-        "Isaurian dynasty",
-        "Komnenian dynasty",
-        "Palaiologos dynasty"
+        "Theodosius I",
+        "Constantine I",
+        "Justinian I",
+        "Theodosius II"
       ],
       "answer_explanations": [
-        "Correct. The article says the Macedonian dynasty experienced a two-century-long renaissance.",
-        "Incorrect. The Isaurian dynasty is noted for stabilization but not a renaissance.",
-        "Incorrect. The Komnenian restoration was a later recovery.",
-        "Incorrect. The Palaiologos dynasty ruled during the final centuries."
+        "Correct. The article says 'Theodosius I (r. 379â395) made Christianity the state religion'.",
+        "Incorrect. Constantine I legalised Christianity but did not make it the state religion.",
+        "Incorrect. Justinian I is not credited with making Christianity the state religion.",
+        "Incorrect. Theodosius II is not mentioned in the introduction."
       ]
     },
     {
       "id": 8,
-      "question": "What was the name of the plague that began around 541?",
+      "question": "What gradually replaced Latin for official use in the Byzantine Empire?",
       "options": [
-        "Plague of Justinian",
-        "Black Death",
-        "Plague of Athens",
-        "Antonine Plague"
+        "Greek",
+        "Arabic",
+        "Turkish",
+        "Hebrew"
       ],
       "answer_explanations": [
-        "Correct. The article mentions a plague began around 541, known as the Plague of Justinian.",
-        "Incorrect. The Black Death occurred in the 14th century.",
-        "Incorrect. The Plague of Athens refers to an ancient event.",
-        "Incorrect. The Antonine Plague was in the 2nd century."
+        "Correct. The article states 'Greek gradually replaced Latin for official use'.",
+        "Incorrect. Arabic is not mentioned as replacing Latin.",
+        "Incorrect. Turkish is not mentioned in this context.",
+        "Incorrect. Hebrew is not mentioned in the introduction."
       ]
     },
     {
       "id": 9,
-      "question": "Which group sacked Constantinople in 1204?",
+      "question": "Under which emperor did the Byzantine Empire reach its greatest extent?",
       "options": [
-        "Fourth Crusade",
-        "Ottoman Empire",
-        "Seljuk Turks",
-        "Mongols"
+        "Justinian I",
+        "Constantine I",
+        "Theodosius I",
+        "Heraclius"
       ],
       "answer_explanations": [
-        "Correct. The article states the empire was severely fragmented in 1204, following the sack of Constantinople during the Fourth Crusade.",
-        "Incorrect. The Ottomans conquered Constantinople in 1453.",
-        "Incorrect. The Seljuk Turks were earlier invaders.",
-        "Incorrect. The Mongols did not sack Constantinople."
+        "Correct. The article says 'The Byzantine Empire reached its greatest extent under the reign of Justinian I (r. 527â565)'.",
+        "Incorrect. Constantine I founded Constantinople but did not rule at the empire's greatest extent.",
+        "Incorrect. Theodosius I made Christianity the state religion, but the greatest extent was under Justinian.",
+        "Incorrect. Heraclius is not mentioned in the introduction."
       ]
     },
     {
       "id": 10,
-      "question": "What term did the empire's citizens use for their empire?",
+      "question": "Which empire conquered Constantinople in 1453?",
       "options": [
-        "Rhomania",
-        "Byzantine Empire",
-        "Eastern Roman Empire",
-        "Greek Empire"
+        "Ottoman Empire",
+        "Rashidun Caliphate",
+        "Umayyad Caliphate",
+        "Seljuk Empire"
       ],
       "answer_explanations": [
-        "Correct. The article says the empire was called *RhomanÃ­a* (á¿¬ÏÎ¼Î±Î½Î¯Î± or \"Romanland\") by its citizens.",
-        "Incorrect. 'Byzantine Empire' was coined after its demise.",
-        "Incorrect. 'Eastern Roman Empire' is a modern term.",
-        "Incorrect. 'Greek Empire' was used by Western Europe, not the citizens."
+        "Correct. The article says the empire endured 'until the fall of Constantinople to the Ottoman Empire in 1453'.",
+        "Incorrect. The Rashidun Caliphate is mentioned for earlier conquests, not the fall of Constantinople.",
+        "Incorrect. The Umayyad Caliphate is mentioned for the loss of Africa, not the fall of Constantinople.",
+        "Incorrect. The Seljuk Empire is mentioned for incursions into Asia Minor, not the fall of Constantinople."
       ]
     }
   ]

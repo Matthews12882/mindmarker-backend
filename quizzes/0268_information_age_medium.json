@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which technological advance in 1947 is linked to the onset of the Information Age?",
+      "question": "According to the article, what is the Information Age characterized by?",
       "options": [
-        "The development of the transistor",
-        "The invention of the personal computer",
-        "The creation of the World Wide Web",
-        "The deployment of the T-carrier system"
+        "A rapid shift from traditional industries to an economy centered on information technology",
+        "A return to agricultural methods and handmade goods",
+        "The end of all technological progress",
+        "A focus on industrial manufacturing above all else"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The onset of the Information Age has been linked to the development of the transistor in 1947.'",
-        "Incorrect. The article notes that digital communication became economical after the invention of the personal computer in the 1970s, not 1947.",
-        "Incorrect. Tim Berners-Lee invented the World Wide Web in 1989, not 1947.",
-        "Incorrect. AT&T deployed the T-carrier in 1962, not 1947."
+        "Correct. The article states the Information Age is 'characterized by a rapid shift from traditional industries... to an economy centered on information technology'.",
+        "Incorrect. The article describes a shift toward information technology, not a return to agriculture or handmade goods.",
+        "Incorrect. The article describes a period of significant technological change, not the end of progress.",
+        "Incorrect. The article describes a shift away from traditional industries, not a focus on industrial manufacturing."
       ]
     },
     {
       "id": 2,
-      "question": "According to the United Nations Public Administration Network, what became the driving force of social evolution in the Information Age?",
+      "question": "What invention in 1947 is linked to the onset of the Information Age?",
       "options": [
-        "Internet communications",
-        "Analog electronics",
-        "Mechanical calculators",
-        "Punch card technology"
+        "The transistor",
+        "The internet",
+        "The personal computer",
+        "The mobile phone"
       ],
       "answer_explanations": [
-        "Correct. The article states that internet communications became 'the driving force of social evolution' according to the United Nations Public Administration Network.",
-        "Incorrect. Analog electronics are mentioned as an older format replaced by digital compact discs, not as a driving force of social evolution.",
-        "Incorrect. Mechanical calculators appeared in the 1600s as earlier calculating devices, not as part of the Information Age's driving force.",
-        "Incorrect. Punch cards were an enabling technology of the Industrial Revolution era, not cited by the UN as the driving force of social evolution."
+        "Correct. The article says 'The onset of the Information Age has been linked to the development of the transistor in 1947'.",
+        "Incorrect. The article links the onset to the transistor, not the internet.",
+        "Incorrect. The article links the onset to the transistor, not the personal computer.",
+        "Incorrect. The article links the onset to the transistor, not the mobile phone."
       ]
     },
     {
       "id": 3,
-      "question": "What was one advantage of converting technology from analog to digital format during the digital revolution?",
+      "question": "According to the United Nations Public Administration Network, what did computer miniaturization advances lead to?",
       "options": [
-        "Copies could be made identical to the original",
-        "Signals could be transmitted without any hardware",
-        "Information could only be accessed locally",
-        "Digital media degraded more quickly than analog media"
+        "Modernized information systems and internet communications as the driving force of social evolution",
+        "The invention of the steam engine",
+        "The end of the Industrial Revolution",
+        "The creation of the first analog computers"
       ],
       "answer_explanations": [
-        "Correct. The article states that by converting to digital format, 'it became possible to make copies that were identical to the original.'",
-        "Incorrect. The article mentions repeating hardware was used to amplify digital signals, not that signals could be transmitted without hardware.",
-        "Incorrect. The article highlights the ability to 'access or distribute it remotely,' which is the opposite of local-only access.",
-        "Incorrect. The article describes digital copies as identical to the original, implying no degradation, unlike analog formats."
+        "Correct. The article states that computer miniaturization advances 'led to modernized information systems and internet communications as the driving force of social evolution'.",
+        "Incorrect. The article does not mention the steam engine in this context.",
+        "Incorrect. The article discusses the Information Age, not the end of the Industrial Revolution.",
+        "Incorrect. The article discusses digital systems, not the creation of analog computers."
       ]
     },
     {
       "id": 4,
-      "question": "Which device is described as the world's first working programmable, fully automatic digital computer?",
+      "question": "What did the digital revolution change technology from and to?",
       "options": [
-        "The Z3",
-        "The Harvard Mark I",
-        "The Analytical Engine",
-        "The LEO"
+        "From analog format to digital format",
+        "From digital format to analog format",
+        "From mechanical format to electrical format",
+        "From electrical format to mechanical format"
       ],
       "answer_explanations": [
-        "Correct. The article states that Konrad Zuse completed the Z3 in 1941, 'the world's first working programmable, fully automatic digital computer.'",
-        "Incorrect. The Harvard Mark I was completed in 1944 and was inspired by Babbage's designs, but is not called the first working programmable, fully automatic digital computer.",
-        "Incorrect. Charles Babbage proposed the Analytical Engine, but it was never successfully built.",
-        "Incorrect. The LEO was the first commercially available general-purpose computer, not the first working programmable, fully automatic digital computer."
+        "Correct. The article states 'The digital revolution converted technology from analog format to digital format'.",
+        "Incorrect. The article states the change was from analog to digital, not the reverse.",
+        "Incorrect. The article specifically mentions analog and digital formats, not mechanical and electrical.",
+        "Incorrect. The article specifically mentions analog and digital formats, not electrical and mechanical."
       ]
     },
     {
       "id": 5,
-      "question": "Who is generally credited with laying the foundations of digitalization in a 1948 article?",
+      "question": "What was one turning point of the digital revolution mentioned in the article?",
       "options": [
-        "Claude Shannon",
-        "John Bardeen",
-        "Tim Berners-Lee",
-        "Robert Noyce"
+        "The change from analog to digitally recorded music",
+        "The invention of the telegraph",
+        "The creation of the abacus",
+        "The development of the slide rule"
       ],
       "answer_explanations": [
-        "Correct. The article states that Claude Shannon, a Bell Labs mathematician, 'is generally credited with laying the foundations of digitalization in his pioneering 1948 article, A Mathematical Theory of Communication.'",
-        "Incorrect. John Bardeen co-invented the transistor in 1947, but is not credited with laying the foundations of digitalization in a 1948 article.",
-        "Incorrect. Tim Berners-Lee invented the World Wide Web in 1989.",
-        "Incorrect. Robert Noyce invented the monolithic integrated circuit chip in 1959."
+        "Correct. The article states 'One turning point of the revolution was the change from analog to digitally recorded music'.",
+        "Incorrect. The telegraph is mentioned as a development of the Second Industrial Revolution, not a turning point of the digital revolution.",
+        "Incorrect. The abacus is mentioned as an ancient tool, not a turning point of the digital revolution.",
+        "Incorrect. The slide rule is mentioned as a device from the 1600s, not a turning point of the digital revolution."
       ]
     },
     {
       "id": 6,
-      "question": "What was the first commercially available general-purpose computer mentioned in the article?",
+      "question": "Who invented the first working transistor in 1947?",
       "options": [
-        "The LEO",
-        "The Z3",
-        "The Harvard Mark I",
-        "The Intel 4004"
+        "John Bardeen and Walter Houser Brattain",
+        "Tim Berners-Lee",
+        "Herman Hollerith",
+        "Konrad Zuse"
       ],
       "answer_explanations": [
-        "Correct. The article states that the LEO was 'the first commercially available general-purpose computer.'",
-        "Incorrect. The Z3 was the world's first working programmable, fully automatic digital computer, but not the first commercially available general-purpose computer.",
-        "Incorrect. The Harvard Mark I was completed in 1944 and was inspired by Babbage's designs, but is not identified as the first commercially available general-purpose computer.",
-        "Incorrect. The Intel 4004 was the first single-chip microprocessor, released in 1971."
+        "Correct. The article states the transistor was 'invented by John Bardeen and Walter Houser Brattain'.",
+        "Incorrect. Tim Berners-Lee invented the World Wide Web, not the transistor.",
+        "Incorrect. Herman Hollerith developed tabulating devices, not the transistor.",
+        "Incorrect. Konrad Zuse built the Z3 computer, not the transistor."
       ]
     },
     {
       "id": 7,
-      "question": "What percentage of U.S. households owned a personal computer in 1984 according to the U.S. Census Bureau?",
+      "question": "What was the first commercially available general-purpose computer?",
       "options": [
-        "8.2%",
-        "15.3%",
-        "22.9%",
-        "15%"
+        "LEO",
+        "Z3",
+        "Harvard Mark I",
+        "Intel 4004"
       ],
       "answer_explanations": [
-        "Correct. The article states that the U.S. Census Bureau's first survey showed that 8.2% of all U.S. households owned a personal computer in 1984.",
-        "Incorrect. 15.3% was the percentage of households with children under 18 that owned a computer in 1984, not all households.",
-        "Incorrect. 22.9% was the percentage of middle and upper middle class households that owned a computer in 1984.",
-        "Incorrect. 15% was the percentage of all U.S. households that owned a computer by 1989, not 1984."
+        "Correct. The article states 'LEO being the first commercially available general-purpose computer'.",
+        "Incorrect. The Z3 was the first working programmable digital computer, but not the first commercially available general-purpose computer.",
+        "Incorrect. The Harvard Mark I was an electromechanical computer, but not the first commercially available general-purpose computer.",
+        "Incorrect. The Intel 4004 was a microprocessor, not a general-purpose computer."
       ]
     },
     {
       "id": 8,
-      "question": "When were digital cell phones first sold commercially?",
+      "question": "What did Claude Shannon lay the foundations for in his 1948 article?",
       "options": [
-        "1991",
-        "1983",
-        "1989",
-        "1994"
+        "Digitalization",
+        "The transistor",
+        "The internet",
+        "The mobile phone"
       ],
       "answer_explanations": [
-        "Correct. The article states that digital cell phones were not sold commercially until 1991, when the 2G network started to be opened in Finland.",
-        "Incorrect. 1983 was when Motorola created the first mobile phone, the DynaTac, which used analog communication.",
-        "Incorrect. 1989 is not mentioned as the year digital cell phones were first sold commercially.",
-        "Incorrect. 1994 is mentioned as the end year for Commodore 64 sales estimates, not for digital cell phone commercial availability."
+        "Correct. The article states Shannon 'is generally credited with laying the foundations of digitalization in his pioneering 1948 article'.",
+        "Incorrect. The transistor was invented by Bardeen and Brattain, not by Shannon.",
+        "Incorrect. Shannon's work was on digitalization, not the internet.",
+        "Incorrect. Shannon's work was on digitalization, not the mobile phone."
       ]
     },
     {
       "id": 9,
-      "question": "Which company's CAPS system was used for animation films between 1990 and 2004?",
+      "question": "What was the first single-chip microprocessor?",
       "options": [
-        "Disney",
-        "Apple",
-        "Commodore",
-        "Tandy"
+        "Intel 4004",
+        "Z1",
+        "T-carrier",
+        "MOSFET"
       ],
       "answer_explanations": [
-        "Correct. The article states that Disney's CAPS system was used for all their animation films between 1990's The Rescuers Down Under and 2004's Home on the Range.",
-        "Incorrect. Apple is mentioned as an early personal computer manufacturer, not as the creator of the CAPS animation system.",
-        "Incorrect. Commodore is mentioned as an early personal computer manufacturer, not as the creator of the CAPS animation system.",
-        "Incorrect. Tandy is mentioned as an early personal computer manufacturer, not as the creator of the CAPS animation system."
+        "Correct. The article states the Intel 4004 was 'the first single-chip microprocessor'.",
+        "Incorrect. The Z1 was an earlier computer, not a microprocessor.",
+        "Incorrect. The T-carrier was a digital transmission system, not a microprocessor.",
+        "Incorrect. The MOSFET is a type of transistor, not a microprocessor."
       ]
     },
     {
       "id": 10,
-      "question": "What did the change from analog to digitally recorded music during the 1980s illustrate about the digital revolution?",
+      "question": "In 1984, what percentage of U.S. households owned a personal computer?",
       "options": [
-        "It was a turning point in the revolution",
-        "It proved analog sound was superior to digital sound",
-        "It decreased the ability to distribute music remotely",
-        "It made copying music more difficult"
+        "8.2%",
+        "15%",
+        "22.9%",
+        "30%"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'One turning point of the revolution was the change from analog to digitally recorded music.'",
-        "Incorrect. The article does not claim analog sound was superior; it describes digital formats replacing analog ones.",
-        "Incorrect. The article emphasizes the ability to 'access or distribute it remotely' as an advantage of digital information.",
-        "Incorrect. The article states digital format made it possible to make copies identical to the original, implying copying became easier, not more difficult."
+        "Correct. The article states 'their first survey showed that 8.2% of all U.S. households owned a personal computer in 1984'.",
+        "Incorrect. 15% is the percentage of U.S. households that owned a computer by 1989, not in 1984.",
+        "Incorrect. 22.9% is the percentage for middle and upper middle class households, not all households.",
+        "Incorrect. 30% is the percentage of households with children under 18 that owned a computer by 1989, not the overall percentage in 1984."
       ]
     }
   ]

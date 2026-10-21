@@ -13,154 +13,154 @@
         "Welsh"
       ],
       "answer_explanations": [
-        "Correct. The article describes Maxwell as 'a Scottish physicist and mathematician'.",
-        "Incorrect. The article does not describe Maxwell as English.",
-        "Incorrect. The article does not describe Maxwell as Irish.",
-        "Incorrect. The article does not describe Maxwell as Welsh."
+        "Correct. The article states he was a 'Scottish physicist and mathematician'.",
+        "Incorrect. The article identifies him as Scottish, not English.",
+        "Incorrect. The article identifies him as Scottish, not Irish.",
+        "Incorrect. The article identifies him as Scottish, not Welsh."
       ]
     },
     {
       "id": 2,
-      "question": "On what date was James Clerk Maxwell born?",
+      "question": "What was James Clerk Maxwell's profession?",
       "options": [
-        "13 June 1831",
-        "5 November 1879",
-        "13 June 1879",
-        "5 November 1831"
+        "Physicist and mathematician",
+        "Chemist and biologist",
+        "Astronomer and geologist",
+        "Engineer and inventor"
       ],
       "answer_explanations": [
-        "Correct. The article states Maxwell was born on 13 June 1831.",
-        "Incorrect. 5 November 1879 is Maxwell's date of death, not birth.",
-        "Incorrect. The article does not give this date for Maxwell's birth.",
-        "Incorrect. The article does not give this date for Maxwell's birth."
+        "Correct. The article describes him as a 'Scottish physicist and mathematician'.",
+        "Incorrect. The article does not describe him as a chemist or biologist.",
+        "Incorrect. The article does not describe him as an astronomer or geologist.",
+        "Incorrect. The article does not describe him as an engineer or inventor."
       ]
     },
     {
       "id": 3,
-      "question": "What did Maxwell's equations achieve in physics?",
+      "question": "What was the classical theory that Maxwell was responsible for?",
       "options": [
-        "The second great unification in physics",
-        "The first great unification in physics",
-        "The third great unification in physics",
-        "No unification in physics"
+        "Electromagnetic radiation",
+        "Gravity",
+        "Thermodynamics",
+        "Quantum mechanics"
       ],
       "answer_explanations": [
-        "Correct. The article says Maxwell's equations 'achieved the second great unification in physics'.",
-        "Incorrect. The article states the first great unification was realised by Isaac Newton.",
-        "Incorrect. The article does not mention a third great unification.",
-        "Incorrect. The article explicitly states Maxwell's equations achieved a great unification."
+        "Correct. The article states he was responsible for the 'classical theory of electromagnetic radiation'.",
+        "Incorrect. The article does not attribute the theory of gravity to Maxwell.",
+        "Incorrect. The article does not attribute thermodynamics to Maxwell.",
+        "Incorrect. The article does not attribute quantum mechanics to Maxwell."
       ]
     },
     {
       "id": 4,
-      "question": "In what year did Maxwell graduate from Trinity College, Cambridge?",
+      "question": "According to the article, what did Maxwell's theory describe as different manifestations of the same phenomenon?",
       "options": [
-        "1854",
-        "1850",
-        "1856",
-        "1860"
+        "Electricity, magnetism, and light",
+        "Sound, heat, and light",
+        "Gravity, electricity, and magnetism",
+        "Radio waves, X-rays, and gamma rays"
       ],
       "answer_explanations": [
-        "Correct. The article states Maxwell graduated from Trinity College, Cambridge, in 1854.",
-        "Incorrect. 1850 is when Maxwell left Scotland for Cambridge, not when he graduated.",
-        "Incorrect. 1856 is not given as Maxwell's graduation year.",
-        "Incorrect. 1860 is when Maxwell began serving as Professor at King's College London."
+        "Correct. The article says his theory described 'electricity, magnetism and light as different manifestations of the same phenomenon'.",
+        "Incorrect. The article does not mention sound or heat in this context.",
+        "Incorrect. The article does not mention gravity in this context.",
+        "Incorrect. The article does not mention radio waves, X-rays, or gamma rays in this context."
       ]
     },
     {
       "id": 5,
-      "question": "What did Maxwell correctly propose about the rings of Saturn?",
+      "question": "Who realized the first great unification in physics, as mentioned in the article?",
       "options": [
-        "They were composed of numerous small particles",
-        "They were solid structures",
-        "They were made of gas",
-        "They were optical illusions"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Michael Faraday"
       ],
       "answer_explanations": [
-        "Correct. The article states Maxwell 'correctly proposed that they were composed of numerous small particles'.",
-        "Incorrect. The article says the rings were composed of numerous small particles, not solid structures.",
-        "Incorrect. The article does not say the rings were made of gas.",
-        "Incorrect. The article does not say the rings were optical illusions."
+        "Correct. The article states 'the first one had been realised by Isaac Newton'.",
+        "Incorrect. The article does not mention Albert Einstein in this context.",
+        "Incorrect. The article does not mention Galileo Galilei in this context.",
+        "Incorrect. The article does not mention Michael Faraday in this context."
       ]
     },
     {
       "id": 6,
-      "question": "What did Maxwell's 1865 publication demonstrate about electric and magnetic fields?",
+      "question": "What did Maxwell's equations for electromagnetism achieve?",
       "options": [
-        "They travel through space as waves moving at the speed of light",
-        "They travel slower than light",
-        "They do not travel through space",
-        "They travel instantaneously"
+        "The second great unification in physics",
+        "The first great unification in physics",
+        "The theory of relativity",
+        "The discovery of the electron"
       ],
       "answer_explanations": [
-        "Correct. The article states his 1865 publication demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light.",
-        "Incorrect. The article says the waves move at the speed of light, not slower.",
-        "Incorrect. The article explicitly states the fields travel through space as waves.",
-        "Incorrect. The article says the waves move at the speed of light, not instantaneously."
+        "Correct. The article states 'Maxwell's equations for electromagnetism achieved the second great unification in physics'.",
+        "Incorrect. The first unification was by Isaac Newton, not Maxwell's equations.",
+        "Incorrect. The article does not say that Maxwell's equations achieved relativity.",
+        "Incorrect. The article does not mention the discovery of the electron."
       ]
     },
     {
       "id": 7,
-      "question": "What did Maxwell present in 1861?",
+      "question": "In what field was Maxwell also key in the creation, according to the article?",
       "options": [
-        "The first durable colour photograph",
-        "The first motion picture",
-        "The first X-ray image",
-        "The first telescope"
+        "Statistical mechanics",
+        "Quantum mechanics",
+        "Nuclear physics",
+        "Astrophysics"
       ],
       "answer_explanations": [
-        "Correct. The article states Maxwell 'presented the first durable colour photograph in 1861'.",
-        "Incorrect. The article does not mention Maxwell presenting a motion picture.",
-        "Incorrect. The article does not mention Maxwell presenting an X-ray image.",
-        "Incorrect. The article does not mention Maxwell presenting a telescope."
+        "Correct. The article states 'Maxwell was also key in the creation of statistical mechanics'.",
+        "Incorrect. The article does not mention quantum mechanics in this context.",
+        "Incorrect. The article does not mention nuclear physics in this context.",
+        "Incorrect. The article does not mention astrophysics in this context."
       ]
     },
     {
       "id": 8,
-      "question": "What position did Maxwell take at Cambridge in 1871?",
+      "question": "From which college did Maxwell graduate in 1854?",
       "options": [
-        "The first Cavendish Professor of Physics",
-        "Head of Trinity College",
-        "Smith's Prize winner",
-        "Director of the Royal Society"
+        "Trinity College, Cambridge",
+        "King's College London",
+        "Marischal College",
+        "University of Edinburgh"
       ],
       "answer_explanations": [
-        "Correct. The article states Maxwell returned to Cambridge in 1871 as the first Cavendish Professor of Physics.",
-        "Incorrect. The article does not say Maxwell became Head of Trinity College.",
-        "Incorrect. Smith's Prize was an award Maxwell earned as a student, not a position in 1871.",
-        "Incorrect. The article does not say Maxwell became Director of the Royal Society."
+        "Correct. The article states 'Maxwell graduated from Trinity College, Cambridge, in 1854'.",
+        "Incorrect. King's College London is mentioned later, but not as his graduation college.",
+        "Incorrect. Marischal College is mentioned later, but not as his graduation college.",
+        "Incorrect. The article does not mention the University of Edinburgh."
       ]
     },
     {
       "id": 9,
-      "question": "What thought experiment did Maxwell propose in 1867?",
+      "question": "What prize did Maxwell earn at Cambridge?",
       "options": [
-        "Maxwell's demon",
-        "SchrÃ¶dinger's cat",
-        "Newton's apple",
-        "Einstein's elevator"
+        "Smith's Prize",
+        "Adams Prize",
+        "Nobel Prize",
+        "Cavendish Prize"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1867 Maxwell proposed the thought experiment known as Maxwell's demon.",
-        "Incorrect. SchrÃ¶dinger's cat is not mentioned in the article.",
-        "Incorrect. Newton's apple is not mentioned in the article.",
-        "Incorrect. Einstein's elevator is not mentioned in the article."
+        "Correct. The article states he earned distinction in mathematics and the 'Smith's Prize'.",
+        "Incorrect. The Adams Prize is mentioned later, but not in the intro.",
+        "Incorrect. The Nobel Prize is not mentioned in the article.",
+        "Incorrect. The Cavendish Prize is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "What fields did Maxwell's discoveries help lay the foundations for?",
+      "question": "What did Maxwell's publication of 'A Dynamical Theory of the Electromagnetic Field' in 1865 demonstrate?",
       "options": [
-        "Relativity and quantum mechanics",
-        "Biology and chemistry",
-        "Geology and astronomy",
-        "Medicine and engineering"
+        "Electric and magnetic fields travel through space as waves moving at the speed of light",
+        "Light is a particle",
+        "Gravity is a wave",
+        "Sound travels through a vacuum"
       ],
       "answer_explanations": [
-        "Correct. The article states his discoveries laid the foundations for relativity and quantum mechanics.",
-        "Incorrect. The article does not mention biology and chemistry in this context.",
-        "Incorrect. The article does not mention geology and astronomy in this context.",
-        "Incorrect. The article does not mention medicine and engineering in this context."
+        "Correct. The article states it demonstrated that 'electric and magnetic fields travel through space as waves moving at the speed of light'.",
+        "Incorrect. The article does not say light is a particle.",
+        "Incorrect. The article does not mention gravity as a wave.",
+        "Incorrect. The article does not mention sound traveling through a vacuum."
       ]
     }
   ]

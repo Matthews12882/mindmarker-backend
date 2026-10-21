@@ -5,23 +5,23 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Gandhi's full name?",
+      "question": "What was the full name of Mahatma Gandhi?",
       "options": [
         "Mohandas Karamchand Gandhi",
-        "Mahatma Karamchand Gandhi",
-        "Mohandas Gandhi",
-        "Mahatma Gandhi"
+        "Mahatma Gandhi",
+        "Bapu Gandhi",
+        "Gandhi Ji"
       ],
       "answer_explanations": [
-        "Correct. The article states his full name as Mohandas Karamchand Gandhi.",
-        "Incorrect. Mahatma is an honorific meaning 'great-souled', not part of his given name.",
-        "Incorrect. This omits his middle and last names.",
-        "Incorrect. Mahatma Gandhi is how he is commonly known, but his full name is Mohandas Karamchand Gandhi."
+        "Correct. The article states his full name as 'Mohandas Karamchand Gandhi'.",
+        "Incorrect. 'Mahatma Gandhi' is the honorific and surname used, but the full name is 'Mohandas Karamchand Gandhi'.",
+        "Incorrect. 'Bapu' is an endearment, not his full name.",
+        "Incorrect. 'Gandhi Ji' is not mentioned as his full name."
       ]
     },
     {
       "id": 2,
-      "question": "When was Gandhi born?",
+      "question": "When was Mahatma Gandhi born?",
       "options": [
         "2 October 1869",
         "30 January 1948",
@@ -29,138 +29,138 @@
         "30 January 1869"
       ],
       "answer_explanations": [
-        "Correct. The article lists his birth date as 2 October 1869.",
-        "Incorrect. 30 January 1948 is the date of his assassination.",
-        "Incorrect. This mixes his birth date with his death date.",
-        "Incorrect. This mixes his death date with his birth year."
+        "Correct. The article states his birth date as '2 October 1869'.",
+        "Incorrect. 30 January 1948 is the date of his death, not his birth.",
+        "Incorrect. 2 October 1948 is not mentioned.",
+        "Incorrect. 30 January 1869 is not mentioned."
       ]
     },
     {
       "id": 3,
-      "question": "Where was Gandhi born?",
+      "question": "What profession did Gandhi train for in London?",
       "options": [
-        "Porbandar",
-        "London",
-        "South Africa",
-        "Rajkot"
+        "Law",
+        "Medicine",
+        "Teaching",
+        "Engineering"
       ],
       "answer_explanations": [
-        "Correct. The article states he was born on 2 October 1869 in Porbandar.",
-        "Incorrect. London is where he studied law, not where he was born.",
-        "Incorrect. South Africa is where he lived for 21 years, not where he was born.",
-        "Incorrect. Rajkot is where his family moved later, not his birthplace."
+        "Correct. The article says he 'was trained in the law at the Inner Temple in London'.",
+        "Incorrect. The article does not mention medicine.",
+        "Incorrect. The article does not mention teaching.",
+        "Incorrect. The article does not mention engineering."
       ]
     },
     {
       "id": 4,
-      "question": "What does the honorific Mahatma mean in Sanskrit?",
+      "question": "Where did Gandhi first employ nonviolent resistance?",
       "options": [
-        "great-souled",
-        "father of the nation",
-        "bapu",
-        "venerable leader"
+        "South Africa",
+        "India",
+        "London",
+        "Gujarat"
       ],
       "answer_explanations": [
-        "Correct. The article states MahÄtmÄ is Sanskrit for 'great-souled', 'venerable'.",
-        "Incorrect. Father of the Nation is a title given to Gandhi in post-colonial India, not the meaning of Mahatma.",
-        "Incorrect. Bapu is an endearment meaning 'father', not the meaning of Mahatma.",
-        "Incorrect. Venerable leader is not the Sanskrit meaning given in the article."
+        "Correct. The article says he 'first employed nonviolent resistance in a campaign for civil rights' in South Africa.",
+        "Incorrect. Although he later led campaigns in India, the first use was in South Africa.",
+        "Incorrect. London was where he trained in law, not where he first used nonviolent resistance.",
+        "Incorrect. Gujarat is his birthplace, not the place of first nonviolent resistance."
       ]
     },
     {
       "id": 5,
-      "question": "Where did Gandhi study law?",
+      "question": "In which year did Gandhi return to India from South Africa?",
       "options": [
-        "Inner Temple in London",
-        "University College London",
-        "Samaldas College",
-        "Alfred High School"
+        "1915",
+        "1893",
+        "1921",
+        "1942"
       ],
       "answer_explanations": [
-        "Correct. The article states Gandhi was trained in the law at the Inner Temple in London.",
-        "Incorrect. He attended University College for English literature classes, not law.",
-        "Incorrect. Samaldas College was where he briefly enrolled before dropping out.",
-        "Incorrect. Alfred High School was his school in Rajkot, not a law school."
+        "Correct. The article states 'In 1915, aged 45, he returned to India'.",
+        "Incorrect. 1893 is when he moved to South Africa.",
+        "Incorrect. 1921 is when he assumed leadership of the Indian National Congress.",
+        "Incorrect. 1942 is when he called for the British to quit India."
       ]
     },
     {
       "id": 6,
-      "question": "How long did Gandhi live in South Africa?",
+      "question": "What did Gandhi lead campaigns against?",
       "options": [
-        "21 years",
-        "2 years",
-        "15 years",
-        "10 years"
+        "Discrimination and excessive land tax",
+        "Poverty and women's rights",
+        "Religious amity",
+        "Untouchability"
       ],
       "answer_explanations": [
-        "Correct. The article states he went on to live in South Africa for the next 21 years.",
-        "Incorrect. Two years refers to his uncertain period in India before moving to South Africa.",
-        "Incorrect. The article does not mention 15 years.",
-        "Incorrect. The article does not mention 10 years."
+        "Correct. The article says he set about organising peasants, farmers, and urban labourers to protest against discrimination and excessive land tax.",
+        "Incorrect. These were part of his later campaigns, but the initial protests were against discrimination and land tax.",
+        "Incorrect. This was part of his later campaigns, not the initial protests.",
+        "Incorrect. This was part of his later campaigns, not the initial protests."
       ]
     },
     {
       "id": 7,
-      "question": "In what year did Gandhi return to India from South Africa?",
+      "question": "What did Gandhi adopt as a mark of identification with India's rural poor?",
       "options": [
-        "1915",
-        "1914",
-        "1921",
-        "1930"
+        "A short dhoti woven with hand-spun yarn",
+        "A suit and tie",
+        "A turban",
+        "A long robe"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1915, aged 45, he returned to India.",
-        "Incorrect. 1914 is when the honorific Mahatma was first applied to him in South Africa.",
-        "Incorrect. 1921 is when he assumed leadership of the Indian National Congress.",
-        "Incorrect. 1930 is the year of the Dandi Salt March."
+        "Correct. The article states he adopted the short dhoti woven with hand-spun yarn as a mark of identification with India's rural poor.",
+        "Incorrect. The article does not mention a suit and tie.",
+        "Incorrect. The article does not mention a turban.",
+        "Incorrect. The article does not mention a long robe."
       ]
     },
     {
       "id": 8,
-      "question": "What did Gandhi adopt as a mark of identification with India's rural poor?",
+      "question": "What did Gandhi use long fasts for?",
       "options": [
-        "the short dhoti woven with hand-spun yarn",
-        "a self-sufficient residential community",
-        "long fasts",
-        "simple food"
+        "Both introspection and political protest",
+        "Only religious purposes",
+        "Only health reasons",
+        "To gain popularity"
       ],
       "answer_explanations": [
-        "Correct. The article states Gandhi adopted the short dhoti woven with hand-spun yarn as a mark of identification with India's rural poor.",
-        "Incorrect. Living in a self-sufficient residential community was something he did, but not the mark of identification described.",
-        "Incorrect. Long fasts were a means of introspection and political protest, not the mark of identification.",
-        "Incorrect. Eating simple food was part of his lifestyle, not the mark of identification."
+        "Correct. The article says he undertook long fasts as a means of both introspection and political protest.",
+        "Incorrect. The article mentions both introspection and political protest, not only religious purposes.",
+        "Incorrect. The article does not mention health reasons.",
+        "Incorrect. The article does not mention gaining popularity."
       ]
     },
     {
       "id": 9,
-      "question": "Who assassinated Gandhi?",
+      "question": "What did Gandhi challenge with the Dandi Salt March in 1930?",
       "options": [
-        "Nathuram Godse",
-        "Karamchand Gandhi",
-        "Tulsidas",
-        "Laxmidas"
+        "The British-imposed salt tax",
+        "The British education system",
+        "The British military",
+        "The British legal system"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Nathuram Godse as the militant Hindu nationalist who assassinated Gandhi.",
-        "Incorrect. Karamchand Gandhi was Gandhi's father.",
-        "Incorrect. Tulsidas was Gandhi's uncle.",
-        "Incorrect. Laxmidas was Gandhi's brother."
+        "Correct. The article says he led them in challenging the British-imposed salt tax with the Dandi Salt March.",
+        "Incorrect. The article does not mention the education system.",
+        "Incorrect. The article does not mention the military.",
+        "Incorrect. The article does not mention the legal system."
       ]
     },
     {
       "id": 10,
-      "question": "On what date was Gandhi assassinated?",
+      "question": "What did Gandhi call for in 1942?",
       "options": [
-        "30 January 1948",
-        "2 October 1869",
-        "12 January 1948",
-        "15 August 1947"
+        "The British to quit India",
+        "The British to stay in India",
+        "The British to grant more rights",
+        "The British to partition India"
       ],
       "answer_explanations": [
-        "Correct. The article states Gandhi was assassinated on 30 January 1948.",
-        "Incorrect. 2 October 1869 is Gandhi's birth date.",
-        "Incorrect. 12 January 1948 is when his last hunger strike began.",
-        "Incorrect. 15 August 1947 is when Britain granted independence, not the assassination date."
+        "Correct. The article says he called for the British to quit India in 1942.",
+        "Incorrect. The article says the opposite.",
+        "Incorrect. The article does not mention granting more rights.",
+        "Incorrect. The article does not mention partition in 1942."
       ]
     }
   ]

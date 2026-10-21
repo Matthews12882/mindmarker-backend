@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the primary component of Earth's atmosphere by volume?",
+      "question": "What is the atmosphere of Earth primarily composed of?",
       "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Argon",
-        "Carbon dioxide"
+        "A layer of mixed gas",
+        "A layer of liquid water",
+        "A layer of solid rock",
+        "A layer of plasma"
       ],
       "answer_explanations": [
-        "Correct. Nitrogen is the primary component, making up about 78.08% of dry air by volume.",
-        "Incorrect. Oxygen is the second most abundant gas, comprising about 20.95% of dry air.",
-        "Incorrect. Argon is a minor component, accounting for roughly 0.93% of dry air.",
-        "Incorrect. Carbon dioxide is a trace gas, present at about 0.04% of dry air."
+        "Correct. The article states that the atmosphere consists of a layer of mixed gas (commonly referred to as air).",
+        "Incorrect. The article does not describe the atmosphere as a layer of liquid water.",
+        "Incorrect. The article does not describe the atmosphere as a layer of solid rock.",
+        "Incorrect. The article does not describe the atmosphere as a layer of plasma."
       ]
     },
     {
       "id": 2,
-      "question": "Which layer of the atmosphere is where weather phenomena occur?",
+      "question": "What holds the atmosphere around the Earth?",
       "options": [
-        "Troposphere",
-        "Stratosphere",
-        "Mesosphere",
-        "Thermosphere"
+        "Gravity",
+        "Magnetism",
+        "Solar wind",
+        "Air pressure"
       ],
       "answer_explanations": [
-        "Correct. The troposphere, extending from the surface up to about 12 km, contains most weather phenomena such as clouds and precipitation.",
-        "Incorrect. The stratosphere lies above the troposphere and is relatively stable, hosting the ozone layer.",
-        "Incorrect. The mesosphere is above the stratosphere and is characterized by very low temperatures.",
-        "Incorrect. The thermosphere is much higher, containing the ionosphere and auroras."
+        "Correct. The article says the atmosphere is retained by gravity.",
+        "Incorrect. The article does not mention magnetism as the retaining force.",
+        "Incorrect. The article does not mention solar wind as the retaining force.",
+        "Incorrect. The article does not mention air pressure as the retaining force."
       ]
     },
     {
       "id": 3,
-      "question": "What is the approximate mass of Earth's atmosphere?",
+      "question": "What does the atmosphere shield the surface from?",
       "options": [
-        "5.15Ã10^18 kg",
-        "5.15Ã10^15 kg",
-        "5.15Ã10^12 kg",
-        "5.15Ã10^9 kg"
+        "Most meteoroids and ultraviolet solar radiation",
+        "Earthquakes and volcanoes",
+        "Ocean currents and tides",
+        "Wind and rain"
       ],
       "answer_explanations": [
-        "Correct. The atmosphere has a mass of about 5.15Ã10^18 kg.",
-        "Incorrect. This value is three orders of magnitude too low.",
-        "Incorrect. This value is six orders of magnitude too low.",
-        "Incorrect. This value is nine orders of magnitude too low."
+        "Correct. The article states it shields the surface from most meteoroids and ultraviolet solar radiation.",
+        "Incorrect. The article does not mention earthquakes or volcanoes as things the atmosphere shields against.",
+        "Incorrect. The article does not mention ocean currents or tides as things the atmosphere shields against.",
+        "Incorrect. The article does not mention wind or rain as things the atmosphere shields against."
       ]
     },
     {
       "id": 4,
-      "question": "Which line is commonly used to define the edge of space?",
+      "question": "What effect helps keep the Earth warm by retaining heat?",
       "options": [
-        "KÃ¡rmÃ¡n line",
-        "Equator",
-        "Prime Meridian",
-        "Arctic Circle"
+        "Greenhouse effect",
+        "Coriolis effect",
+        "Doppler effect",
+        "Butterfly effect"
       ],
       "answer_explanations": [
-        "Correct. The KÃ¡rmÃ¡n line at 100 km (62 mi) is the conventional edge of space.",
-        "Incorrect. The equator is a geographic line dividing Earth into northern and southern hemispheres.",
-        "Incorrect. The prime meridian is the line of 0Â° longitude.",
-        "Incorrect. The Arctic Circle is a latitude line at about 66.5Â° N."
+        "Correct. The article mentions heat retention via the greenhouse effect.",
+        "Incorrect. The article does not mention the Coriolis effect.",
+        "Incorrect. The article does not mention the Doppler effect.",
+        "Incorrect. The article does not mention the butterfly effect."
       ]
     },
     {
       "id": 5,
-      "question": "What gas makes up about 20.95% of dry air by volume?",
+      "question": "What is the percentage of nitrogen in dry air by mole fraction?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Argon"
+        "78.08%",
+        "20.95%",
+        "0.93%",
+        "0.04%"
       ],
       "answer_explanations": [
-        "Correct. Oxygen comprises roughly 20.95% of dry air by volume.",
-        "Incorrect. Nitrogen is the most abundant at about 78.08%.",
-        "Incorrect. Carbon dioxide is a trace gas at about 0.04%.",
-        "Incorrect. Argon is about 0.93%."
+        "Correct. The article states dry air contains 78.08% nitrogen.",
+        "Incorrect. 20.95% is the percentage of oxygen, not nitrogen.",
+        "Incorrect. 0.93% is the percentage of argon, not nitrogen.",
+        "Incorrect. 0.04% is the percentage of carbon dioxide, not nitrogen."
       ]
     },
     {
       "id": 6,
-      "question": "Which phenomenon is associated with the thermosphere?",
+      "question": "What is the percentage of oxygen in dry air by mole fraction?",
       "options": [
-        "Aurora borealis",
-        "Rain",
-        "Tornadoes",
-        "Hurricanes"
+        "20.95%",
+        "78.08%",
+        "0.93%",
+        "0.04%"
       ],
       "answer_explanations": [
-        "Correct. The aurora borealis (and australis) occurs in the thermosphere at altitudes around 100 km.",
-        "Incorrect. Rain forms in the troposphere.",
-        "Incorrect. Tornadoes are also tropospheric phenomena.",
-        "Incorrect. Hurricanes develop over warm ocean waters in the troposphere."
+        "Correct. The article states dry air contains 20.95% oxygen.",
+        "Incorrect. 78.08% is the percentage of nitrogen, not oxygen.",
+        "Incorrect. 0.93% is the percentage of argon, not oxygen.",
+        "Incorrect. 0.04% is the percentage of carbon dioxide, not oxygen."
       ]
     },
     {
       "id": 7,
-      "question": "What is the primary function of the ozone layer in the stratosphere?",
+      "question": "What is the average percentage of water vapor in the atmosphere over the entire atmosphere?",
       "options": [
-        "Absorb ultraviolet radiation",
-        "Generate weather",
-        "Reflect radio waves",
-        "Produce oxygen"
+        "0.4%",
+        "1%",
+        "0.93%",
+        "20.95%"
       ],
       "answer_explanations": [
-        "Correct. The ozone layer absorbs harmful UV radiation from the Sun, protecting life on Earth.",
-        "Incorrect. Weather generation occurs in the troposphere.",
-        "Incorrect. Radio wave reflection is mainly done by the ionosphere.",
-        "Incorrect. Oxygen is produced by photosynthesis, not the ozone layer."
+        "Correct. The article states water vapor averages about 0.4% over the entire atmosphere.",
+        "Incorrect. 1% is the average at sea level, not over the entire atmosphere.",
+        "Incorrect. 0.93% is the percentage of argon in dry air, not water vapor.",
+        "Incorrect. 20.95% is the percentage of oxygen in dry air, not water vapor."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is a trace gas in Earth's atmosphere?",
+      "question": "What is the approximate mass of the atmosphere?",
       "options": [
-        "Methane",
-        "Nitrogen",
-        "Oxygen",
-        "Argon"
+        "5.15Ã10^18 kg",
+        "5.15Ã10^15 kg",
+        "5.15Ã10^20 kg",
+        "5.15Ã10^12 kg"
       ],
       "answer_explanations": [
-        "Correct. Methane is a trace gas, present at about 1.79 ppm (parts per million) in dry air.",
-        "Incorrect. Nitrogen is the major component, about 78% of the atmosphere.",
-        "Incorrect. Oxygen is about 21% of the atmosphere.",
-        "Incorrect. Argon is about 0.93%."
+        "Correct. The article states the atmosphere has a mass of about 5.15Ã10^18 kg.",
+        "Incorrect. The article does not state 5.15Ã10^15 kg as the mass.",
+        "Incorrect. The article does not state 5.15Ã10^20 kg as the mass.",
+        "Incorrect. The article does not state 5.15Ã10^12 kg as the mass."
       ]
     },
     {
       "id": 9,
-      "question": "What is the term for the study of Earth's atmosphere and its processes?",
+      "question": "Within what distance of the surface is three-quarters of the atmosphere's mass found?",
       "options": [
-        "Atmospheric science",
-        "Geology",
-        "Oceanography",
-        "Astronomy"
+        "About 11 km",
+        "About 100 km",
+        "About 36 km",
+        "About 62 km"
       ],
       "answer_explanations": [
-        "Correct. Atmospheric science (also called aerology) studies the atmosphere and its processes.",
-        "Incorrect. Geology focuses on Earth's solid crust and rocks.",
-        "Incorrect. Oceanography studies oceans and marine life.",
-        "Incorrect. Astronomy studies celestial objects beyond Earth."
+        "Correct. The article says three-quarters of the atmosphere's mass is within about 11 km of the surface.",
+        "Incorrect. 100 km is the KÃ¡rmÃ¡n line, not where three-quarters of the mass is found.",
+        "Incorrect. 36,000 ft is equivalent to about 11 km, but the article states 11 km, not 36 km.",
+        "Incorrect. 62 mi is equivalent to about 100 km, but the article states 11 km, not 62 km."
       ]
     },
     {
       "id": 10,
-      "question": "Which layer of the atmosphere contains most of the mass of the atmosphere?",
+      "question": "What is the name of the line at 100 km often used as the edge of space?",
       "options": [
-        "Troposphere",
-        "Stratosphere",
-        "Mesosphere",
-        "Thermosphere"
+        "KÃ¡rmÃ¡n line",
+        "Equator line",
+        "Date line",
+        "Prime meridian"
       ],
       "answer_explanations": [
-        "Correct. About three-quarters of the atmosphere's mass lies within the troposphere, the lowest layer.",
-        "Incorrect. The stratosphere contains a smaller fraction of the total mass.",
-        "Incorrect. The mesosphere contains even less mass.",
-        "Incorrect. The thermosphere contains very little mass."
+        "Correct. The article states the KÃ¡rmÃ¡n line at 100 km is often used as a conventional definition of the edge of space.",
+        "Incorrect. The article does not mention the Equator line in this context.",
+        "Incorrect. The article does not mention the Date line in this context.",
+        "Incorrect. The article does not mention the Prime meridian in this context."
       ]
     }
   ]

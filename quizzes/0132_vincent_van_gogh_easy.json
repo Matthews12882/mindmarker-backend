@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "What nationality was Vincent van Gogh?",
+      "question": "What was Vincent van Gogh's nationality?",
       "options": [
         "Dutch",
         "French",
@@ -13,154 +13,154 @@
         "German"
       ],
       "answer_explanations": [
-        "Correct. The article states that Vincent Willem van Gogh was a Dutch Post-Impressionist painter.",
-        "Incorrect. The article identifies him as Dutch, not French.",
-        "Incorrect. The article identifies him as Dutch, not Belgian.",
-        "Incorrect. The article identifies him as Dutch, not German."
+        "Correct. The article states he was a 'Dutch Post-Impressionist painter'.",
+        "Incorrect. The article says he was Dutch, not French.",
+        "Incorrect. The article says he was Dutch, not Belgian.",
+        "Incorrect. The article says he was Dutch, not German."
       ]
     },
     {
       "id": 2,
-      "question": "On what date was Vincent van Gogh born?",
+      "question": "When was Vincent van Gogh born?",
       "options": [
         "30 March 1853",
         "29 July 1890",
-        "1 May 1857",
-        "17 March 1880"
+        "30 March 1855",
+        "27 July 1890"
       ],
       "answer_explanations": [
-        "Correct. The article states that Vincent Willem van Gogh was born on 30 March 1853.",
+        "Correct. The article gives his birth date as '30 March 1853'.",
         "Incorrect. 29 July 1890 is the date of his death, not his birth.",
-        "Incorrect. 1 May 1857 is the birth date of his brother Theo.",
-        "Incorrect. The article does not give this as Van Gogh's birth date."
+        "Incorrect. The article states 30 March 1853, not 1855.",
+        "Incorrect. 27 July 1890 is the date he shot himself, not his birth date."
       ]
     },
     {
       "id": 3,
-      "question": "Approximately how many oil paintings did Van Gogh create?",
+      "question": "How many artworks did Van Gogh create in just over a decade?",
       "options": [
-        "around 860",
         "about 2,100",
-        "around 600",
-        "around 40"
+        "about 860",
+        "about 1,200",
+        "about 3,000"
       ],
       "answer_explanations": [
-        "Correct. The article states that he created around 860 oil paintings.",
-        "Incorrect. About 2,100 refers to his total artworks, not just oil paintings.",
-        "Incorrect. More than 600 refers to the number of letters from Vincent to Theo.",
-        "Incorrect. Around 40 refers to the number of letters from Theo to Vincent."
+        "Correct. The article says 'he created about 2,100 artworks'.",
+        "Incorrect. About 860 is the number of oil paintings, not total artworks.",
+        "Incorrect. The article states about 2,100, not 1,200.",
+        "Incorrect. The article states about 2,100, not 3,000."
       ]
     },
     {
       "id": 4,
-      "question": "Who supported Van Gogh financially?",
+      "question": "What characterizes Van Gogh's paintings according to the introduction?",
       "options": [
-        "his younger brother Theo",
-        "his father Theodorus",
-        "his mother Anna",
-        "Paul Gauguin"
+        "bold colours and dramatic, impulsive and expressive brushwork",
+        "soft pastel colours and delicate brushwork",
+        "monochrome tones and precise lines",
+        "dark colours and smooth surfaces"
       ],
       "answer_explanations": [
-        "Correct. The article states that his younger brother Theo supported him financially.",
-        "Incorrect. The article does not state that his father supported him financially.",
-        "Incorrect. The article does not state that his mother supported him financially.",
-        "Incorrect. Paul Gauguin was a fellow artist, not Van Gogh's financial supporter."
+        "Correct. The article says his paintings are 'characterised by bold colours and dramatic, impulsive and expressive brushwork'.",
+        "Incorrect. The article mentions bold colours, not soft pastel colours.",
+        "Incorrect. The article mentions bold colours and expressive brushwork, not monochrome tones.",
+        "Incorrect. The article mentions bold colours and expressive brushwork, not dark colours and smooth surfaces."
       ]
     },
     {
       "id": 5,
-      "question": "What did Van Gogh sever during a confrontation with Gauguin?",
+      "question": "At what age did Van Gogh die by suicide?",
       "options": [
-        "part of his own left ear",
-        "his right hand",
-        "his left hand",
-        "part of his right ear"
+        "37",
+        "35",
+        "40",
+        "33"
       ],
       "answer_explanations": [
-        "Correct. The article states that in a rage he severed part of his own left ear.",
-        "Incorrect. The article does not mention him severing his right hand.",
-        "Incorrect. The article mentions he held his left hand in a flame, but did not sever it.",
-        "Incorrect. The article specifies his left ear, not his right ear."
+        "Correct. The article states 'His suicide at age 37'.",
+        "Incorrect. The article says age 37, not 35.",
+        "Incorrect. The article says age 37, not 40.",
+        "Incorrect. The article says age 37, not 33."
       ]
     },
     {
       "id": 6,
-      "question": "In what year did Van Gogh move to Paris?",
+      "question": "What was Van Gogh's younger brother's name?",
       "options": [
-        "1886",
-        "1888",
-        "1881",
-        "1875"
+        "Theo",
+        "Paul",
+        "Ãmile",
+        "Vincent"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1886 he moved to Paris.",
-        "Incorrect. 1888 refers to his stay in Arles.",
-        "Incorrect. 1881 is when he took up painting.",
-        "Incorrect. 1875 refers to a transfer to Goupil's Paris branch earlier in his career."
+        "Correct. The article mentions 'His younger brother Theo'.",
+        "Incorrect. Paul is not his brother; Paul Gauguin is an artist he met.",
+        "Incorrect. Ãmile is not his brother; Ãmile Bernard is an artist he met.",
+        "Incorrect. Vincent is his own first name, not his brother's."
       ]
     },
     {
       "id": 7,
-      "question": "Where did Van Gogh stay in 1888 when his style became fully realised?",
+      "question": "Where did Van Gogh move in 1886?",
       "options": [
-        "Arles",
         "Paris",
         "London",
-        "Saint-RÃ©my"
+        "Arles",
+        "Zundert"
       ],
       "answer_explanations": [
-        "Correct. The article states his style became fully realised during his stay in Arles in 1888.",
-        "Incorrect. He moved to Paris in 1886, not 1888.",
-        "Incorrect. He worked in London as an art dealer, not in 1888.",
-        "Incorrect. He spent time at Saint-RÃ©my in a psychiatric hospital, but not in 1888."
+        "Correct. The article says 'In 1886, he moved to Paris'.",
+        "Incorrect. London is where he was transferred as a young man, not in 1886.",
+        "Incorrect. Arles is where he stayed in 1888, not 1886.",
+        "Incorrect. Zundert is his birthplace, not a move in 1886."
       ]
     },
     {
       "id": 8,
-      "question": "How old was Van Gogh when he died by suicide?",
+      "question": "What did Van Gogh do as a young man before taking up painting?",
       "options": [
-        "37",
-        "30",
-        "40",
-        "27"
+        "worked as an art dealer",
+        "worked as a doctor",
+        "worked as a teacher",
+        "worked as a farmer"
       ],
       "answer_explanations": [
-        "Correct. The article states his suicide at age 37 followed years of mental illness and poverty.",
-        "Incorrect. The article states he was 37, not 30.",
-        "Incorrect. The article states he was 37, not 40.",
-        "Incorrect. The article states he was 37, not 27."
+        "Correct. The article says 'As a young man he worked as an art dealer'.",
+        "Incorrect. The article does not mention him working as a doctor.",
+        "Incorrect. The article does not mention him working as a teacher.",
+        "Incorrect. The article does not mention him working as a farmer."
       ]
     },
     {
       "id": 9,
-      "question": "What did Van Gogh do after Kee Vos-Stricker refused his marriage proposal?",
+      "question": "Who supported Van Gogh financially?",
       "options": [
-        "held his left hand in the flame of a lamp",
-        "moved to Paris",
-        "cut off his ear",
-        "shot himself"
+        "his younger brother Theo",
+        "his father",
+        "his mother",
+        "Paul Gauguin"
       ],
       "answer_explanations": [
-        "Correct. The article states that in despair he held his left hand in the flame of a lamp.",
-        "Incorrect. He moved to Paris in 1886, not immediately after Kee's refusal.",
-        "Incorrect. The ear incident occurred later during his confrontation with Gauguin.",
-        "Incorrect. He shot himself in 1890, many years after Kee's refusal."
+        "Correct. The article says 'His younger brother Theo supported him financially'.",
+        "Incorrect. The article does not say his father supported him financially.",
+        "Incorrect. The article does not say his mother supported him financially.",
+        "Incorrect. Paul Gauguin was a friend, not a financial supporter according to the article."
       ]
     },
     {
       "id": 10,
-      "question": "What is the most comprehensive primary source on Van Gogh according to the article?",
+      "question": "What did Van Gogh's early works mostly consist of?",
       "options": [
-        "his correspondence with his brother Theo",
-        "his autobiography",
-        "Paul Gauguin's memoirs",
-        "Theo's diary"
+        "still lifes and depictions of peasant labourers",
+        "portraits and self-portraits",
+        "landscapes and sunflowers",
+        "olive trees and wheat fields"
       ],
       "answer_explanations": [
-        "Correct. The article states that the most comprehensive primary source on Van Gogh is his correspondence with his younger brother Theo.",
-        "Incorrect. The article does not mention an autobiography by Van Gogh.",
-        "Incorrect. The article does not identify Gauguin's memoirs as the primary source.",
-        "Incorrect. The article does not mention Theo's diary as the primary source."
+        "Correct. The article says 'His early works, mostly still lifes and depictions of peasant labourers'.",
+        "Incorrect. Portraits and self-portraits are mentioned as part of his artworks, but not as his early works specifically.",
+        "Incorrect. Landscapes and sunflowers are mentioned as part of his later subject matter, not early works.",
+        "Incorrect. Olive trees and wheat fields are mentioned as part of his later subject matter, not early works."
       ]
     }
   ]

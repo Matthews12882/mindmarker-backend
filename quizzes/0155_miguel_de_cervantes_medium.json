@@ -5,71 +5,135 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which work by Cervantes is described in the article as the first modern novel?",
+      "question": "What is Miguel de Cervantes best known for?",
       "options": [
-        "Don Quixote",
-        "La Galatea",
-        "Viaje del Parnaso",
-        "Los trabajos de Persiles y Sigismunda"
+        "Writing the novel Don Quixote",
+        "Being a famous painter",
+        "Discovering a new continent",
+        "Leading a military campaign"
       ],
       "answer_explanations": [
-        "Correct. The article states that Don Quixote is considered to be the first modern novel.",
-        "Incorrect. La Galatea is described as his first significant novel, not the first modern novel.",
-        "Incorrect. Viaje del Parnaso is described as a long poem.",
-        "Incorrect. Los trabajos de Persiles y Sigismunda was published posthumously in 1617."
+        "Correct. The article states he is best known for his two-part novel *Don Quixote*.",
+        "Incorrect. The article does not mention Cervantes as a painter; he was a writer.",
+        "Incorrect. The article does not mention any discovery of a new continent by Cervantes.",
+        "Incorrect. Although he served as a soldier, he is not known for leading a military campaign."
       ]
     },
     {
       "id": 2,
-      "question": "What injury did Cervantes suffer at the Battle of Lepanto?",
+      "question": "What happened to Cervantes at the Battle of Lepanto?",
       "options": [
         "He lost the use of his left arm and hand",
-        "He lost his right eye",
-        "He suffered a broken leg",
-        "He lost hearing in one ear"
+        "He was captured by pirates",
+        "He was promoted to general",
+        "He wrote his first novel"
       ],
       "answer_explanations": [
-        "Correct. The article states he was badly wounded at Lepanto and lost the use of his left arm and hand.",
-        "Incorrect. The article does not mention an injury to his right eye.",
-        "Incorrect. The article does not mention a broken leg.",
-        "Incorrect. The article does not mention hearing loss."
+        "Correct. The article says he was badly wounded and 'lost the use of his left arm and hand'.",
+        "Incorrect. He was captured by Barbary pirates later, in 1575, not at Lepanto.",
+        "Incorrect. The article does not mention a promotion to general.",
+        "Incorrect. His first novel was published much later, in 1585."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what is the generally accepted birth date of Miguel de Cervantes?",
+      "question": "How long was Cervantes held in captivity by Barbary pirates?",
       "options": [
-        "29 September 1547",
-        "22 April 1616",
-        "23 April 1616",
-        "15 September 1569"
+        "Five years",
+        "Two years",
+        "Ten years",
+        "One year"
       ],
       "answer_explanations": [
-        "Correct. The article states it is generally accepted Miguel de Cervantes was born around 29 September 1547.",
-        "Incorrect. 22 April 1616 is his death date.",
-        "Incorrect. 23 April 1616 is his burial date.",
-        "Incorrect. 15 September 1569 is the date of an arrest warrant."
+        "Correct. The article states that after being captured, he was held for 'five years in captivity' before being ransomed.",
+        "Incorrect. The article specifies five years, not two.",
+        "Incorrect. The article specifies five years, not ten.",
+        "Incorrect. The article specifies five years, not one."
       ]
     },
     {
       "id": 4,
-      "question": "Why did Cervantes leave Madrid in 1569?",
+      "question": "What was the title of Cervantes's first significant novel?",
       "options": [
-        "He was charged with wounding Antonio de Sigura in a duel",
-        "He enlisted in the Spanish Navy infantry",
-        "He was captured by Barbary pirates",
-        "He moved to Rome to work for a cardinal"
+        "La Galatea",
+        "Don Quixote",
+        "Novelas ejemplares",
+        "Viaje del Parnaso"
       ],
       "answer_explanations": [
-        "Correct. The article states an arrest warrant from 15 September 1569 charged him with wounding Antonio de Sigura in a duel, and this is now accepted as the most likely reason for leaving Madrid.",
-        "Incorrect. He enlisted in 1570, after already leaving Spain.",
-        "Incorrect. He was captured by Barbary pirates in 1575, much later.",
-        "Incorrect. Working for a cardinal in Rome was a consequence of leaving, not the reason."
+        "Correct. The article says his first significant novel was titled *La Galatea*, published in 1585.",
+        "Incorrect. *Don Quixote* was his most famous work, but not his first significant novel.",
+        "Incorrect. *Novelas ejemplares* is a collection of short stories, not his first novel.",
+        "Incorrect. *Viaje del Parnaso* is a long poem, not his first novel."
       ]
     },
     {
       "id": 5,
-      "question": "Which religious order helped secure Cervantes's release from captivity in Algiers?",
+      "question": "In which city was Cervantes born?",
+      "options": [
+        "AlcalÃ¡ de Henares",
+        "Madrid",
+        "Seville",
+        "Rome"
+      ],
+      "answer_explanations": [
+        "Correct. The article states it is generally accepted that he was born in AlcalÃ¡ de Henares.",
+        "Incorrect. Madrid is where he later lived and died, but not his birthplace.",
+        "Incorrect. Seville is where he worked as a purchasing agent, but not his birthplace.",
+        "Incorrect. Rome is where he worked in a cardinal's household, but not his birthplace."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What was the profession of Cervantes's father?",
+      "options": [
+        "Barber-surgeon",
+        "Tax collector",
+        "Lawyer",
+        "Soldier"
+      ],
+      "answer_explanations": [
+        "Correct. The article describes his father Rodrigo de Cervantes as a 'barber-surgeon'.",
+        "Incorrect. Cervantes himself became a tax collector, not his father.",
+        "Incorrect. His grandfather was a lawyer, not his father.",
+        "Incorrect. Cervantes served as a soldier, but his father's profession is given as barber-surgeon."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Why is Spanish sometimes called 'the language of Cervantes'?",
+      "options": [
+        "Because of his great influence and literary contribution",
+        "Because he was the first to speak Spanish",
+        "Because he wrote the first Spanish dictionary",
+        "Because he was the king of Spain"
+      ],
+      "answer_explanations": [
+        "Correct. The article says his influence and literary contribution are reflected by the fact that Spanish is often referred to as 'the language of Cervantes'.",
+        "Incorrect. Spanish existed long before Cervantes; he did not create it.",
+        "Incorrect. The article does not mention him writing a dictionary.",
+        "Incorrect. He was not a king."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What happened to Cervantes's remains after his death?",
+      "options": [
+        "They went missing during rebuilding work and were rediscovered in 2015",
+        "They were buried at sea",
+        "They were cremated",
+        "They were moved to England"
+      ],
+      "answer_explanations": [
+        "Correct. The article states his remains went missing when moved during rebuilding in 1673, and in 2015 they were rediscovered and confirmed.",
+        "Incorrect. He was buried in a convent, not at sea.",
+        "Incorrect. He was buried as a pauper, not cremated.",
+        "Incorrect. There is no mention of moving his remains to England."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which religious order helped ransom Cervantes from captivity?",
       "options": [
         "The Trinitarians",
         "The Jesuits",
@@ -77,90 +141,26 @@
         "The Dominicans"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1580 Cervantes was set free by the Trinitarians, a religious order that specialised in ransoming Christian captives.",
-        "Incorrect. The Jesuits are mentioned in connection with a college in Seville, not his ransom.",
-        "Incorrect. The Third Order Franciscans are mentioned in connection with his later life in 1613.",
+        "Correct. The article says he was freed by the Trinitarians, a religious order that specialized in ransoming Christian captives.",
+        "Incorrect. The Jesuits are mentioned as possible teachers in his youth, but not as his ransomers.",
+        "Incorrect. He joined the Third Order Franciscans later in life, but they did not ransom him.",
         "Incorrect. The Dominicans are not mentioned in the article."
       ]
     },
     {
-      "id": 6,
-      "question": "What occupation did Cervantes hold in Seville in 1587?",
-      "options": [
-        "Government purchasing agent, Commissary of the Royal Galleons",
-        "Tax collector",
-        "Intelligence agent",
-        "Barber-surgeon"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that in 1587, Cervantes was appointed as a government purchasing agent, Commissary of the Royal Galleons in Seville.",
-        "Incorrect. He became a tax collector in 1592, not 1587.",
-        "Incorrect. He was employed as an intelligence agent in North Africa in 1581 to 1582.",
-        "Incorrect. His father Rodrigo was a barber-surgeon, not Cervantes."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "What does the article say about Cervantes's physical appearance?",
-      "options": [
-        "Many details of his physical appearance remain uncertain",
-        "An authenticated portrait is widely accepted",
-        "He was described as tall and stout",
-        "His appearance is shown in the El Greco painting at the Prado"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that many details of Cervantes's life remain uncertain, including his physical appearance.",
-        "Incorrect. The article states no authenticated portrait of Cervantes is known to exist.",
-        "Incorrect. The article provides no physical description such as height or build.",
-        "Incorrect. The article says there is no evidence that the El Greco painting depicts Cervantes."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "What does the article say about Cervantes's ethnic background?",
-      "options": [
-        "Claims of converso origins are based on very flimsy evidence",
-        "It is widely accepted that both parents were New Christians",
-        "He was of purely Old Christian ancestry",
-        "His ethnic background is documented in legal records"
-      ],
-      "answer_explanations": [
-        "Correct. Roberto GonzÃ¡lez EchevarrÃ­a argues that claims of Cervantes's converso origins are based on 'very flimsy evidence'.",
-        "Incorrect. The article states there is no wide following for the view that Cervantes had converso origins.",
-        "Incorrect. The article does not state he was of purely Old Christian ancestry.",
-        "Incorrect. The article does not say legal records document his ethnic background."
-      ]
-    },
-    {
-      "id": 9,
-      "question": "Which of Cervantes's works was published posthumously in 1617?",
-      "options": [
-        "Los trabajos de Persiles y Sigismunda",
-        "La Galatea",
-        "Viaje del Parnaso",
-        "Ocho comedias y ocho entremeses"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Los trabajos de Persiles y Sigismunda was published posthumously in 1617.",
-        "Incorrect. La Galatea was published in 1585.",
-        "Incorrect. Viaje del Parnaso was published two years before his death in 1616.",
-        "Incorrect. Ocho comedias y ocho entremeses is listed among his other works but not as posthumous in 1617."
-      ]
-    },
-    {
       "id": 10,
-      "question": "What symptoms described before Cervantes's death does the article associate with diabetes?",
+      "question": "When was Part One of Don Quixote published?",
       "options": [
-        "Intense thirst",
-        "Fever and coughing",
-        "Severe headaches",
-        "Loss of vision"
+        "1605",
+        "1615",
+        "1585",
+        "1617"
       ],
       "answer_explanations": [
-        "Correct. The article states the symptoms described leading to his death, including intense thirst, correspond to diabetes.",
-        "Incorrect. Fever and coughing are not mentioned in connection with his death.",
-        "Incorrect. Severe headaches are not mentioned in connection with his death.",
-        "Incorrect. Loss of vision is not mentioned in connection with his death."
+        "Correct. The article states Part One of *Don Quixote* was published in 1605.",
+        "Incorrect. 1615 is when Part Two was published.",
+        "Incorrect. 1585 is when *La Galatea* was published.",
+        "Incorrect. 1617 is when *Los trabajos de Persiles y Sigismunda* was published posthumously."
       ]
     }
   ]

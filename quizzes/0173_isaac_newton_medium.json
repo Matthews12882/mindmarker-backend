@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, which of Newton's contributions established classical mechanics?",
+      "question": "What was Isaac Newton's nationality?",
       "options": [
-        "His book PhilosophiÃ¦ Naturalis Principia Mathematica",
-        "His work on optics and the theory of colour",
-        "His formulation of an empirical law of cooling",
-        "His invention of the first reflecting telescope"
+        "English",
+        "German",
+        "French",
+        "Italian"
       ],
       "answer_explanations": [
-        "Correct. The article states that Principia Mathematica 'achieved the first great unification in physics and established classical mechanics.'",
-        "Incorrect. The article discusses Newton's optics work separately from the establishment of classical mechanics.",
-        "Incorrect. The empirical law of cooling is mentioned as a separate contribution to heat transfer, not classical mechanics.",
-        "Incorrect. The reflecting telescope is listed among Newton's inventions but is not linked to classical mechanics."
+        "Correct. The article states that Newton was 'an English polymath'.",
+        "Incorrect. The article does not describe Newton as German; it mentions the German mathematician Gottfried Wilhelm Leibniz as a collaborator.",
+        "Incorrect. The article does not describe Newton as French.",
+        "Incorrect. The article does not describe Newton as Italian."
       ]
     },
     {
       "id": 2,
-      "question": "What does the article say about the current status of Newton's laws of motion and universal gravitation?",
+      "question": "What was the title of Newton's book first published in 1687 that established classical mechanics?",
       "options": [
-        "They remain sufficient approximations for low speeds and weak gravitational fields",
-        "They have been completely replaced by the theory of relativity in all contexts",
-        "They apply only to celestial bodies and not to objects on Earth",
-        "They were valid only until the Scientific Revolution ended"
+        "PhilosophiÃ¦ Naturalis Principia Mathematica",
+        "Opticks",
+        "The Principia Mathematica",
+        "Mathematical Principles of Natural Philosophy"
       ],
       "answer_explanations": [
-        "Correct. The article states his laws 'still serve as sufficient approximations for all physical phenomena involving low speeds ... and weak gravitational fields.'",
-        "Incorrect. The article says relativity superseded his laws as the dominant viewpoint, but his laws still serve as approximations in certain conditions.",
-        "Incorrect. The article explicitly says Newton demonstrated that motion on Earth and celestial bodies could be accounted for by the same principles.",
-        "Incorrect. The article does not link the validity of his laws to the end of the Scientific Revolution."
+        "Correct. The article says his book 'PhilosophiÃ¦ Naturalis Principia Mathematica' was first published in 1687 and established classical mechanics.",
+        "Incorrect. 'Opticks' was his work on light, published in 1704, not the 1687 book on mechanics.",
+        "Incorrect. The article gives the full Latin title 'PhilosophiÃ¦ Naturalis Principia Mathematica', not just 'The Principia Mathematica'.",
+        "Incorrect. The article gives the Latin title 'PhilosophiÃ¦ Naturalis Principia Mathematica' and notes the English translation 'Mathematical Principles of Natural Philosophy', but the primary title is the Latin one."
       ]
     },
     {
       "id": 3,
-      "question": "Which phenomenon did Newton use his mathematical description of gravity to explain?",
+      "question": "Who shared credit with Newton for formulating infinitesimal calculus?",
       "options": [
-        "Kepler's laws of planetary motion, tides, comet trajectories, and the precession of the equinoxes",
-        "The refraction of white light through a prism",
-        "The cooling rate of hot objects",
-        "The classification of cubic plane curves"
+        "Gottfried Wilhelm Leibniz",
+        "Isaac Barrow",
+        "Galileo Galilei",
+        "RenÃ© Descartes"
       ],
       "answer_explanations": [
-        "Correct. The article says he used his mathematical description of gravity to derive Kepler's laws, account for tides, comet trajectories, and the precession of the equinoxes.",
-        "Incorrect. The prism and white light are discussed in the optics section, separate from gravity.",
-        "Incorrect. The law of cooling is mentioned separately from gravity.",
-        "Incorrect. Cubic plane curves are part of his mathematical work, not his gravitational work."
+        "Correct. The article states that Newton 'shares credit with the German mathematician Gottfried Wilhelm Leibniz for formulating infinitesimal calculus'.",
+        "Incorrect. Isaac Barrow was the Lucasian Professor whom Newton succeeded, not a co-developer of calculus.",
+        "Incorrect. Galileo Galilei was an astronomer Newton read, not a co-developer of calculus.",
+        "Incorrect. RenÃ© Descartes was a philosopher Newton read, not a co-developer of calculus."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article indicate about Newton's role in the development of calculus?",
+      "question": "What did Newton use his mathematical description of gravity to derive?",
       "options": [
-        "He shares credit with Gottfried Wilhelm Leibniz, though he developed calculus years before Leibniz",
-        "He was the sole inventor of calculus, with no contribution from Leibniz",
-        "He learned calculus from Leibniz and published it first",
-        "He rejected calculus in favor of classical geometry"
+        "Kepler's laws of planetary motion",
+        "The theory of relativity",
+        "The laws of thermodynamics",
+        "The Pythagorean theorem"
       ],
       "answer_explanations": [
-        "Correct. The article states Newton 'shares credit' with Leibniz for formulating infinitesimal calculus, 'although he developed calculus years before Leibniz.'",
-        "Incorrect. The article explicitly says he shares credit with Leibniz.",
-        "Incorrect. The article says Newton developed calculus before Leibniz, not that he learned it from him.",
-        "Incorrect. The article describes Newton's extensive work on calculus, not a rejection of it."
+        "Correct. The article says Newton 'used his mathematical description of gravity to derive Kepler's laws of planetary motion'.",
+        "Incorrect. The theory of relativity superseded Newton's work, it was not derived by him.",
+        "Incorrect. The article does not mention Newton deriving the laws of thermodynamics.",
+        "Incorrect. The Pythagorean theorem is a mathematical concept, not something Newton derived from gravity."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following did Newton build or invent, according to the article?",
+      "question": "What type of telescope did Newton build?",
       "options": [
         "The first reflecting telescope",
         "The first refracting telescope",
-        "The first steam engine",
-        "The first microscope"
+        "The first radio telescope",
+        "The first space telescope"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Newton built the first reflecting telescope.'",
-        "Incorrect. The article mentions the reflecting telescope, not the refracting telescope.",
-        "Incorrect. The steam engine is not mentioned in the article.",
-        "Incorrect. The microscope is not mentioned in the article."
+        "Correct. The article states that 'Newton built the first reflecting telescope'.",
+        "Incorrect. The article does not say Newton built a refracting telescope.",
+        "Incorrect. The article does not mention radio telescopes.",
+        "Incorrect. The article does not mention space telescopes."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article say about Newton's religious views and position at Cambridge?",
+      "question": "What did Newton's theory of colour state based on his prism observation?",
       "options": [
-        "He privately rejected the doctrine of the Trinity and refused to take holy orders",
-        "He was a devout Anglican who fully accepted the Thirty-nine Articles",
-        "He was ordained as a priest before becoming Lucasian Professor",
-        "He left Cambridge because of his unorthodox religious views"
+        "A prism separates white light into the colours of the visible spectrum",
+        "A prism combines colours into white light",
+        "Light is made of particles only",
+        "Colour is an illusion created by the eye"
       ],
       "answer_explanations": [
-        "Correct. The article says Newton was 'a devout but unorthodox Christian who privately rejected the doctrine of the Trinity' and 'refused to take holy orders in the Church of England.'",
-        "Incorrect. The article describes him as unorthodox and says he rejected the Trinity, not that he fully accepted Anglican doctrine.",
-        "Incorrect. The article says he refused holy orders and that King Charles II accepted his argument to be exempted from ordination.",
-        "Incorrect. The article does not say he left Cambridge; he remained and became Lucasian Professor."
+        "Correct. The article says Newton developed a theory of colour 'based on the observation that a prism separates white light into the colours of the visible spectrum'.",
+        "Incorrect. The article describes the opposite: the prism separates white light into colours, not combines them.",
+        "Incorrect. The article does not state that Newton's theory was that light is made of particles only.",
+        "Incorrect. The article does not say colour is an illusion."
       ]
     },
     {
       "id": 7,
-      "question": "What positions did Newton hold at the Royal Mint, and during what years?",
+      "question": "What position did Newton hold at the University of Cambridge?",
       "options": [
-        "Warden from 1696 to 1699 and Master from 1699 to 1727",
-        "Master from 1696 to 1699 and Warden from 1699 to 1727",
-        "Warden from 1689 to 1690 and Master from 1701 to 1702",
-        "He served only as Master of the Mint from 1699 to 1727"
+        "Lucasian Professor of Mathematics",
+        "Chancellor of the University",
+        "Master of Trinity College",
+        "Professor of Theology"
       ],
       "answer_explanations": [
-        "Correct. The article states he served as Warden (1696â1699) and Master (1699â1727) of the Royal Mint.",
-        "Incorrect. The article gives the reverse order of positions and dates.",
-        "Incorrect. Those dates refer to his terms as Member of Parliament, not his Mint positions.",
-        "Incorrect. The article says he held both Warden and Master positions."
+        "Correct. The article states Newton was 'the second Lucasian Professor of Mathematics at the University of Cambridge'.",
+        "Incorrect. The article does not say Newton was Chancellor.",
+        "Incorrect. The article says Isaac Barrow became master of Trinity College, not Newton.",
+        "Incorrect. The article does not say Newton was a Professor of Theology."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about Newton's teaching effectiveness at Cambridge?",
+      "question": "Why did Newton refuse to take holy orders in the Church of England?",
       "options": [
-        "His classes were almost always empty",
-        "He was renowned for attracting large audiences to his lectures",
-        "He focused exclusively on private tutoring rather than public lectures",
-        "He stopped teaching after becoming Lucasian Professor"
+        "He privately rejected the doctrine of the Trinity",
+        "He was an atheist",
+        "He was a Muslim",
+        "He was too busy with science"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'As accomplished as Newton was as a theoretician, he was less effective as a teacher; his classes were almost always empty.'",
-        "Incorrect. The article says the oppositeâthat his classes were almost always empty.",
-        "Incorrect. The article does not mention private tutoring as an alternative to public lectures.",
-        "Incorrect. The article does not say he stopped teaching after becoming Lucasian Professor."
+        "Correct. The article says Newton was 'a devout but unorthodox Christian who privately rejected the doctrine of the Trinity' and therefore refused to take holy orders.",
+        "Incorrect. The article says he was a devout Christian, not an atheist.",
+        "Incorrect. The article says he was a Christian, not a Muslim.",
+        "Incorrect. The article does not say he refused because he was too busy."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following best describes Newton's early education at The King's School?",
+      "question": "What did Newton serve as at the Royal Mint?",
       "options": [
-        "He was educated there from about age twelve until seventeen, studying Latin and Ancient Greek",
-        "He attended only briefly before being removed to become a farmer permanently",
-        "He was taught exclusively mathematics and science",
-        "He was expelled for fighting a schoolyard bully"
+        "Warden and Master",
+        "Treasurer",
+        "Accountant",
+        "Director"
       ],
       "answer_explanations": [
-        "Correct. The article says Newton was educated at The King's School from about age twelve until seventeen, which taught Latin and Ancient Greek.",
-        "Incorrect. Although he was removed and his mother tried to make him a farmer, he was persuaded to return to school.",
-        "Incorrect. The article mentions Latin and Ancient Greek, not exclusively mathematics and science.",
-        "Incorrect. He beat a bully in a fight and became the top-ranked student; he was not expelled."
+        "Correct. The article states Newton served as 'Warden' (1696â1699) and 'Master' (1699â1727) of the Royal Mint.",
+        "Incorrect. The article does not mention him as Treasurer.",
+        "Incorrect. The article does not mention him as Accountant.",
+        "Incorrect. The article does not mention him as Director."
       ]
     },
     {
       "id": 10,
-      "question": "What did Newton accomplish during the two years following his BA degree at Cambridge?",
+      "question": "Where was Newton buried?",
       "options": [
-        "He developed theories on calculus, optics, and the law of gravitation at Woolsthorpe",
-        "He completed his MA and was appointed Lucasian Professor",
-        "He published Opticks and invented the reflecting telescope",
-        "He was elected a fellow of Trinity College and ordained as a priest"
+        "Westminster Abbey",
+        "Trinity College Chapel",
+        "Woolsthorpe Manor",
+        "St. Paul's Cathedral"
       ],
       "answer_explanations": [
-        "Correct. The article says the two years after his BA saw 'the development of theories on calculus, optics, and the law of gravitation, at his home in Woolsthorpe.'",
-        "Incorrect. He received his MA in 1668 and became Lucasian Professor in 1669, not during the two years after his BA in 1665.",
-        "Incorrect. Opticks was published in 1704 and the reflecting telescope was built later, not during those two years.",
-        "Incorrect. He was elected a fellow of Trinity in 1667, but the article does not say he was ordained as a priest during those two years."
+        "Correct. The article says Newton was 'the first scientist to be buried at Westminster Abbey'.",
+        "Incorrect. The article does not say he was buried at Trinity College Chapel.",
+        "Incorrect. The article does not say he was buried at Woolsthorpe Manor, his birthplace.",
+        "Incorrect. The article does not say he was buried at St. Paul's Cathedral."
       ]
     }
   ]

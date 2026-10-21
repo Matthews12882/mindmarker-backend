@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what is the primary focus of microeconomics?",
+      "question": "What is economics described as in the article?",
       "options": [
-        "Individual agents and markets, their interactions, and the outcomes of those interactions",
-        "Production, distribution, consumption, savings, and investment expenditure as interacting systems",
-        "The global economy and public policies that impact economic elements",
-        "The behaviour of economic agents at the national level"
+        "A social science that studies the production, distribution, and consumption of goods and services",
+        "A natural science that studies the physical world",
+        "A branch of mathematics that studies numbers and shapes",
+        "A field of history that studies past events"
       ],
       "answer_explanations": [
-        "Correct. The article states that microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions.",
-        "Incorrect. This describes macroeconomics, which analyses economies as systems where production, distribution, consumption, savings, and investment expenditure interact.",
-        "Incorrect. The global economy is discussed in the context of macroeconomics, not microeconomics.",
-        "Incorrect. The article does not describe microeconomics as focusing on behaviour at the national level; that is more characteristic of macroeconomics."
+        "Correct. The article states that 'Economics is a social science that studies the production, distribution, and consumption of goods and services.'",
+        "Incorrect. The article describes economics as a social science, not a natural science.",
+        "Incorrect. The article does not describe economics as a branch of mathematics.",
+        "Incorrect. The article does not describe economics as a field of history."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed in the article as a factor of production affecting macroeconomic elements?",
+      "question": "What does microeconomics analyze according to the article?",
       "options": [
-        "Labour",
-        "Inflation",
-        "Public policies",
-        "Economic growth"
+        "The basic elements of economies, including individual agents and markets",
+        "The entire global economy as a single system",
+        "The history of economic thought",
+        "The definitions of economics proposed by different thinkers"
       ],
       "answer_explanations": [
-        "Correct. The article lists labour among the factors of production affecting macroeconomic elements, alongside capital, land, and enterprise.",
-        "Incorrect. Inflation is mentioned as an element that macroeconomics analyses, not as a factor of production.",
-        "Incorrect. Public policies are described as impacting macroeconomic elements, not as factors of production.",
-        "Incorrect. Economic growth is listed as an element macroeconomics analyses, not as a factor of production."
+        "Correct. The article says 'Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets, their interactions, and the outcomes of those interactions.'",
+        "Incorrect. The article says macroeconomics analyzes economies as systems, not microeconomics.",
+        "Incorrect. The article does not say microeconomics analyzes the history of economic thought.",
+        "Incorrect. The article does not say microeconomics analyzes definitions of economics."
       ]
     },
     {
       "id": 3,
-      "question": "What distinction does the article draw between positive economics and normative economics?",
+      "question": "What is the earlier term for the discipline of economics mentioned in the article?",
       "options": [
-        "Positive economics describes \"what is\", while normative economics advocates \"what ought to be\"",
-        "Positive economics focuses on markets, while normative economics focuses on government policy",
-        "Positive economics is theoretical, while normative economics is applied",
-        "Positive economics studies rational behaviour, while normative economics studies behavioural economics"
+        "Political economy",
+        "Social science",
+        "Mercantilism",
+        "Physiocracy"
       ],
       "answer_explanations": [
-        "Correct. The article states that positive economics describes \"what is\", while normative economics advocates \"what ought to be\".",
-        "Incorrect. The article does not define the distinction in terms of markets versus government policy.",
-        "Incorrect. The article does not characterise positive economics as theoretical and normative economics as applied.",
-        "Incorrect. The article treats rational and behavioural economics as a separate distinction, not as the difference between positive and normative economics."
+        "Correct. The article states 'The earlier term for the discipline was \"political economy\"'.",
+        "Incorrect. Social science is a broader category, not the earlier term for economics.",
+        "Incorrect. Mercantilism was an economic doctrine, not the earlier term for the discipline.",
+        "Incorrect. Physiocrats were a group of thinkers, not the earlier term for the discipline."
       ]
     },
     {
       "id": 4,
-      "question": "According to Lionel Robbins' definition quoted in the article, what is economics the science of?",
+      "question": "Who defined political economy as 'an inquiry into the nature and causes of the wealth of nations'?",
       "options": [
-        "Human behaviour as a relationship between ends and scarce means which have alternative uses",
-        "The production, distribution, and consumption of wealth",
-        "Man in the ordinary business of life",
-        "The laws of phenomena of society arising from the combined operations of mankind for the production of wealth"
+        "Adam Smith",
+        "Jean-Baptiste Say",
+        "Thomas Carlyle",
+        "John Stuart Mill"
       ],
       "answer_explanations": [
-        "Correct. Robbins' definition states that economics is the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses.",
-        "Incorrect. This is Jean-Baptiste Say's definition, not Robbins'.",
-        "Incorrect. This is Alfred Marshall's definition, not Robbins'.",
-        "Incorrect. This is John Stuart Mill's definition, not Robbins'."
+        "Correct. The article says 'Scottish philosopher Adam Smith (1776) defined what was then called political economy as \"an inquiry into the nature and causes of the wealth of nations\"'.",
+        "Incorrect. Jean-Baptiste Say defined it as the science of production, distribution, and consumption of wealth.",
+        "Incorrect. Thomas Carlyle coined 'the dismal science' as an epithet.",
+        "Incorrect. John Stuart Mill delimited the subject matter further, but did not provide this definition."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, how did Lionel Robbins characterise his definition of economics?",
+      "question": "What did the physiocrats believe was the basis of all wealth?",
       "options": [
-        "Analytical rather than classificatory",
-        "Classificatory rather than analytical",
-        "Limited to the analysis of wealth",
-        "Applicable only to market analysis"
+        "Agriculture",
+        "Gold and silver",
+        "Manufacturing",
+        "Trade"
       ],
       "answer_explanations": [
-        "Correct. Robbins described his definition as analytical in focusing attention on a particular aspect of behaviour, the form imposed by scarcity, rather than classificatory in picking out certain kinds of behaviour.",
-        "Incorrect. Robbins explicitly rejected the classificatory characterisation.",
-        "Incorrect. Robbins affirmed that previous economists centred on wealth but argued economics can study other things like war.",
-        "Incorrect. The article notes that some criticised Robbins' definition as failing to limit scope to market analysis, but Robbins himself did not characterise it that way."
+        "Correct. The article states 'Physiocrats believed that only agricultural production generated a clear surplus over cost, so that agriculture was the basis of all wealth.'",
+        "Incorrect. The mercantilists believed a nation's wealth depended on its accumulation of gold and silver, not the physiocrats.",
+        "Incorrect. The physiocrats opposed promoting manufacturing at the expense of agriculture.",
+        "Incorrect. The physiocrats believed agriculture, not trade, was the basis of all wealth."
       ]
     },
     {
       "id": 6,
-      "question": "What criticism of Robbins' definition does the article mention?",
+      "question": "What policy did the physiocrats advocate for the economy?",
       "options": [
-        "It is overly broad and fails to limit its scope to market analysis",
-        "It is too narrow and excludes the study of war and crime",
-        "It ignores the role of scarcity in human behaviour",
-        "It applies only to microeconomic phenomena"
+        "Laissez-faire, or minimal government intervention",
+        "Heavy government regulation and protective tariffs",
+        "Accumulation of gold and silver through trade",
+        "Prohibiting manufacturing in the colonies"
       ],
       "answer_explanations": [
-        "Correct. The article states that some subsequent comments criticised Robbins' definition as overly broad, failing to limit its scope to market analysis.",
-        "Incorrect. The article says Robbins argued economics can be used to study war, so his definition is not criticised for excluding it.",
-        "Incorrect. Scarcity is central to Robbins' definition, not ignored by it.",
-        "Incorrect. The article does not state that Robbins' definition applies only to microeconomic phenomena."
+        "Correct. The article says 'the physiocrats advocated a policy of laissez-faire, which called for minimal government intervention in the economy.'",
+        "Incorrect. Protective tariffs and state regulation were advocated by mercantilists, not physiocrats.",
+        "Incorrect. Accumulation of gold and silver was a mercantilist doctrine.",
+        "Incorrect. Prohibiting manufacturing in the colonies was a mercantilist policy."
       ]
     },
     {
       "id": 7,
-      "question": "According to Ha-Joon Chang's argument in the article, why would Robbins' definition make economics peculiar?",
+      "question": "According to the article, what did Adam Smith's 'The Wealth of Nations' identify as the three factors of production?",
       "options": [
-        "Because other sciences define themselves by their area of inquiry rather than their methodology",
-        "Because it excludes the study of living organisms",
-        "Because it relies exclusively on DNA analysis",
-        "Because it cannot be applied to war or crime"
+        "Land, labour, and capital",
+        "Gold, silver, and trade",
+        "Agriculture, manufacturing, and commerce",
+        "Households, firms, and markets"
       ],
       "answer_explanations": [
-        "Correct. Ha-Joon Chang argued that Robbins' definition would make economics peculiar because all other sciences define themselves in terms of the area of inquiry or object of inquiry rather than the methodology.",
-        "Incorrect. Chang uses biology and living organisms as an analogy, not as something economics excludes.",
-        "Incorrect. Chang mentions DNA analysis as one way biologists study organisms, not as a basis for Robbins' definition.",
-        "Incorrect. The article states Robbins said economics can be used to study war, so this is not Chang's criticism."
+        "Correct. The article states 'The book identified land, labour, and capital as the three factors of production and the major contributors to a nation's wealth'.",
+        "Incorrect. Gold, silver, and trade were associated with mercantilism, not Smith's three factors.",
+        "Incorrect. Agriculture, manufacturing, and commerce are not the three factors identified in the article.",
+        "Incorrect. Households, firms, and markets are elements analyzed in microeconomics, not the three factors of production."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what did the physiocrats believe about the source of wealth?",
+      "question": "What did Lionel Robbins define economics as?",
       "options": [
-        "Only agricultural production generated a clear surplus over cost, so agriculture was the basis of all wealth",
-        "A nation's wealth depended on its accumulation of gold and silver",
-        "Manufacturing and trade were the primary sources of national wealth",
-        "Landowners' income should be taxed at multiple rates"
+        "The science which studies human behaviour as a relationship between ends and scarce means which have alternative uses",
+        "The study of wealth and how it is created, distributed, and consumed",
+        "An inquiry into the nature and causes of the wealth of nations",
+        "The science that studies production, distribution, and consumption of wealth"
       ],
       "answer_explanations": [
-        "Correct. The article states that physiocrats believed only agricultural production generated a clear surplus over cost, so agriculture was the basis of all wealth.",
-        "Incorrect. This was the mercantilist view, not the physiocratic view.",
-        "Incorrect. Physiocrats opposed promoting manufacturing and trade at the expense of agriculture.",
-        "Incorrect. Physiocrats advocated a single tax on landowners' income, not multiple tax rates."
+        "Correct. The article quotes Robbins: 'Economics is the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses.'",
+        "Incorrect. This describes the focus of previous economists, not Robbins' definition.",
+        "Incorrect. This is Adam Smith's definition of political economy.",
+        "Incorrect. This is Jean-Baptiste Say's definition."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following fields is listed in the article as an area to which economic analysis can be applied?",
+      "question": "According to the article, what did the mercantilists believe a nation's wealth depended on?",
       "options": [
-        "Health care",
-        "Astronomy",
-        "Architecture",
-        "Agriculture"
+        "Its accumulation of gold and silver",
+        "Its agricultural production",
+        "Its level of manufacturing",
+        "Its free trade policies"
       ],
       "answer_explanations": [
-        "Correct. The article lists health care among the diverse subjects to which economic analysis can be applied.",
-        "Incorrect. Astronomy is not mentioned in the article as a field of application.",
-        "Incorrect. Architecture is not mentioned in the article as a field of application.",
-        "Incorrect. Agriculture is discussed in the context of physiocrats but is not listed in the section on fields where economic analysis can be applied."
+        "Correct. The article states 'It held that a nation's wealth depended on its accumulation of gold and silver.'",
+        "Incorrect. This was the belief of the physiocrats, not the mercantilists.",
+        "Incorrect. The mercantilists wanted to promote manufacturing for export, but wealth depended on gold and silver.",
+        "Incorrect. The mercantilists advocated restricting imports, not free trade."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what did Adam Smith identify as the three factors of production in The Wealth of Nations?",
+      "question": "What did the article say about the criticism of Robbins' definition of economics?",
       "options": [
-        "Land, labour, and capital",
-        "Land, labour, and enterprise",
-        "Labour, capital, and entrepreneurship",
-        "Agriculture, manufacturing, and trade"
+        "Some critics said it was overly broad and failed to limit its scope to market analysis",
+        "It was criticized for being too narrow and only focusing on markets",
+        "It was universally accepted without any criticism",
+        "It was criticized for ignoring the role of scarcity"
       ],
       "answer_explanations": [
-        "Correct. The article states that The Wealth of Nations identified land, labour, and capital as the three factors of production.",
-        "Incorrect. Enterprise is listed elsewhere as a factor of production, but Smith's three factors were land, labour, and capital.",
-        "Incorrect. Entrepreneurship is mentioned as a factor affecting macroeconomic elements, but not as one of Smith's three factors.",
-        "Incorrect. These are sectors of economic activity, not the factors of production identified by Smith."
+        "Correct. The article says 'Some subsequent comments criticised the definition as overly broad, failing to limit its scope to market analysis.'",
+        "Incorrect. The criticism was that it was too broad, not too narrow.",
+        "Incorrect. The article explicitly mentions criticisms of the definition.",
+        "Incorrect. The criticism was about its breadth, not about ignoring scarcity."
       ]
     }
   ]

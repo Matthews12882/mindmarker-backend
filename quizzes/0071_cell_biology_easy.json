@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the basic structural and functional unit of all forms of life or organisms according to the article?",
+      "question": "What is the cell described as in the article?",
       "options": [
-        "The cell",
-        "The tissue",
-        "The organ",
-        "The molecule"
+        "The basic structural and functional unit of all forms of life",
+        "The smallest unit of matter",
+        "A type of organelle",
+        "A group of tissues"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The cell is the basic structural and functional unit of all forms of life or organisms.'",
-        "Incorrect. The article identifies the cell, not the tissue, as the basic structural and functional unit of organisms.",
-        "Incorrect. The article identifies the cell, not the organ, as the basic structural and functional unit of organisms.",
-        "Incorrect. The article identifies the cell, not the molecule, as the basic structural and functional unit of organisms."
+        "Correct. The article states: 'The cell is the basic structural and functional unit of all forms of life or organisms.'",
+        "Incorrect. The article does not describe cells as the smallest unit of matter.",
+        "Incorrect. The article describes cells as the basic unit of life, not as an organelle.",
+        "Incorrect. The article does not describe cells as a group of tissues."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following does a biological cell basically consist of?",
+      "question": "From which language does the term 'cell' come, and what does it mean?",
       "options": [
-        "A semipermeable cell membrane enclosing cytoplasm that contains genetic material",
-        "A rigid cell wall enclosing a nucleus that contains cytoplasm",
-        "A semipermeable cell membrane enclosing only genetic material",
-        "A cytoplasm-filled sac without any membrane"
+        "Latin, meaning 'small room'",
+        "Greek, meaning 'small box'",
+        "French, meaning 'tiny chamber'",
+        "German, meaning 'little room'"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'A biological cell basically consists of a semipermeable cell membrane enclosing cytoplasm that contains genetic material.'",
-        "Incorrect. The article does not describe a biological cell as consisting of a rigid cell wall enclosing a nucleus that contains cytoplasm.",
-        "Incorrect. The article states that the cell membrane encloses cytoplasm containing genetic material, not only genetic material.",
-        "Incorrect. The article states that a biological cell consists of a semipermeable cell membrane enclosing cytoplasm, so it does have a membrane."
+        "Correct. The article says: 'The term comes from the Latin word cellula meaning 'small room'.'",
+        "Incorrect. The article specifies Latin, not Greek.",
+        "Incorrect. The article specifies Latin, not French.",
+        "Incorrect. The article specifies Latin, not German."
       ]
     },
     {
       "id": 3,
-      "question": "Which organisms are prokaryotes according to the article?",
+      "question": "What does a biological cell basically consist of?",
       "options": [
-        "Archaea and bacteria",
-        "Animals and plants",
-        "Fungi and algae",
-        "Protists and yeasts"
+        "A semipermeable cell membrane enclosing cytoplasm that contains genetic material",
+        "A rigid cell wall and a nucleus",
+        "Only a nucleus and a cell membrane",
+        "Cytoplasm and a cell wall"
       ],
       "answer_explanations": [
-        "Correct. The article states that prokaryotes 'include archaea and bacteria.'",
-        "Incorrect. The article classifies animals and plants as multicellular eukaryotes, not prokaryotes.",
-        "Incorrect. The article discusses fungi and algae as eukaryotes, not prokaryotes.",
-        "Incorrect. The article lists protists and yeasts as single-celled eukaryotes, not prokaryotes."
+        "Correct. The article states: 'A biological cell basically consists of a semipermeable cell membrane enclosing cytoplasm that contains genetic material.'",
+        "Incorrect. The article does not mention a rigid cell wall in this description.",
+        "Incorrect. The article also includes cytoplasm and genetic material.",
+        "Incorrect. The article mentions a cell membrane, not a cell wall."
       ]
     },
     {
       "id": 4,
-      "question": "What do prokaryotes lack that eukaryotic cells have?",
+      "question": "Under what condition are most cells visible?",
       "options": [
-        "A membrane-bound nucleus",
-        "Ribosomes",
-        "Cytoplasm",
-        "A cell membrane"
+        "Under a microscope",
+        "With the naked eye",
+        "Under a magnifying glass",
+        "In bright sunlight"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Prokaryotes lack a membrane-bound nucleus and have a nucleoid instead.'",
-        "Incorrect. The article notes that ribosomes are present in both prokaryotes and eukaryotes.",
-        "Incorrect. The article describes cytoplasm as part of a biological cell generally, not as something prokaryotes lack.",
-        "Incorrect. The article describes the cell membrane as a basic component of a biological cell, not as something prokaryotes lack."
+        "Correct. The article says: 'Most cells are only visible under a microscope.'",
+        "Incorrect. The article states that most cells are not visible with the naked eye.",
+        "Incorrect. The article specifies a microscope, not a magnifying glass.",
+        "Incorrect. The article specifies a microscope, not sunlight."
       ]
     },
     {
       "id": 5,
-      "question": "Who discovered cells in 1665?",
+      "question": "Which of the following is an example of a highly-differentiated cell type mentioned in the article?",
       "options": [
-        "Robert Hooke",
-        "Matthias Jakob Schleiden",
-        "Theodor Schwann",
-        "Antonie van Leeuwenhoek"
+        "Red blood cells",
+        "Skin cells",
+        "Muscle cells",
+        "Nerve cells"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Cells were discovered by Robert Hooke in 1665.'",
-        "Incorrect. The article credits Matthias Jakob Schleiden with work on cell theory in 1838, not the discovery of cells in 1665.",
-        "Incorrect. The article credits Theodor Schwann with work on cell theory in 1839, not the discovery of cells in 1665.",
-        "Incorrect. Antonie van Leeuwenhoek is not mentioned in the article as the discoverer of cells."
+        "Correct. The article mentions 'red blood cells' as an example of highly-differentiated cell types.",
+        "Incorrect. Skin cells are not mentioned as an example in the article.",
+        "Incorrect. Muscle cells are not mentioned as an example in the article.",
+        "Incorrect. Nerve cells are not mentioned as an example in the article."
       ]
     },
     {
       "id": 6,
-      "question": "What does cell theory state about the origin of cells?",
+      "question": "What are most cells capable of, except for highly-differentiated types?",
       "options": [
-        "All cells come from pre-existing cells",
-        "Cells arise spontaneously from non-living matter",
-        "Cells are created by viruses",
-        "Cells originate from the nucleus"
+        "Replication and protein synthesis",
+        "Photosynthesis and respiration",
+        "Movement and digestion",
+        "Growth and division"
       ],
       "answer_explanations": [
-        "Correct. The article states that cell theory includes the principle that 'all cells come from pre-existing cells.'",
-        "Incorrect. The article does not state that cells arise spontaneously from non-living matter.",
-        "Incorrect. The article does not state that cells are created by viruses.",
-        "Incorrect. The article does not state that cells originate from the nucleus."
+        "Correct. The article states: 'most cells are capable of replication, and protein synthesis.'",
+        "Incorrect. Photosynthesis is not mentioned as a general capability of most cells.",
+        "Incorrect. Movement and digestion are not mentioned as general capabilities.",
+        "Incorrect. Growth and division are not the exact capabilities listed."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following are single-celled eukaryotes according to the article?",
+      "question": "When did cells emerge on Earth according to the article?",
       "options": [
-        "Most protists, some fungi such as yeasts, and some algae",
-        "Archaea and bacteria",
-        "Animals and plants",
-        "Somatic cells and gametes"
+        "About four billion years ago",
+        "About two billion years ago",
+        "About one billion years ago",
+        "About six billion years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states that single-celled eukaryotes include most protists, some species of fungi such as yeasts, and some species of algae.",
-        "Incorrect. The article classifies archaea and bacteria as prokaryotes, not single-celled eukaryotes.",
-        "Incorrect. The article classifies animals and plants as multicellular eukaryotes.",
-        "Incorrect. The article discusses somatic cells and gametes as cell types in multicellular organisms, not as single-celled eukaryotes."
+        "Correct. The article says: 'Cells emerged on Earth about four billion years ago.'",
+        "Incorrect. The article states four billion years, not two.",
+        "Incorrect. The article states four billion years, not one.",
+        "Incorrect. The article states four billion years, not six."
       ]
     },
     {
       "id": 8,
-      "question": "What is the function of mitochondria in eukaryotic cells?",
+      "question": "What are the two groups into which all organisms are classified?",
       "options": [
-        "They provide energy for cell functions",
-        "They create sugars by photosynthesis",
-        "They store genetic material",
-        "They synthesize proteins"
+        "Prokaryotes and eukaryotes",
+        "Plants and animals",
+        "Single-celled and multicellular",
+        "Bacteria and archaea"
       ],
       "answer_explanations": [
-        "Correct. The article states that mitochondria 'provide energy for cell functions.'",
-        "Incorrect. The article states that chloroplasts, not mitochondria, create sugars by photosynthesis in plants.",
-        "Incorrect. The article describes the nucleus as containing genetic material, not mitochondria.",
-        "Incorrect. The article associates protein synthesis with ribosomes, not mitochondria."
+        "Correct. The article states: 'All organisms are grouped into prokaryotes and eukaryotes.'",
+        "Incorrect. Plants and animals are not the main groups mentioned.",
+        "Incorrect. Single-celled and multicellular are descriptions, not the main groups.",
+        "Incorrect. Bacteria and archaea are subgroups of prokaryotes, not the main groups."
       ]
     },
     {
       "id": 9,
-      "question": "What is the average length of the largest known bacterium, Thiomargarita magnifica?",
+      "question": "Which of the following are described as single-celled prokaryotes?",
       "options": [
-        "1 cm",
-        "0.1 to 5.0 Î¼m",
-        "2 cm",
-        "100 Î¼m"
+        "Archaea and bacteria",
+        "Protists and fungi",
+        "Animals and plants",
+        "Algae and yeasts"
       ],
       "answer_explanations": [
-        "Correct. The article states that Thiomargarita magnifica 'is visible to the naked eye with an average length of 1 cm.'",
-        "Incorrect. The article gives 0.1 to 5.0 Î¼m as the diameter range for most prokaryotes, not the average length of Thiomargarita magnifica.",
-        "Incorrect. The article states that Thiomargarita magnifica can reach 2 cm, but its average length is 1 cm.",
-        "Incorrect. The article does not mention 100 Î¼m in connection with Thiomargarita magnifica."
+        "Correct. The article says: 'Prokaryotes are single-celled and include archaea and bacteria.'",
+        "Incorrect. Protists and fungi are not described as prokaryotes.",
+        "Incorrect. Animals and plants are multicellular eukaryotes.",
+        "Incorrect. Algae and yeasts are not described as prokaryotes."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is true about archaean pathogens?",
+      "question": "Which of the following can be single-celled eukaryotes according to the article?",
       "options": [
-        "There are no known archaean pathogens",
-        "All archaea are pathogens",
-        "Only extremophile archaea are pathogens",
-        "Archaean pathogens cause Lyme disease"
+        "Most protists, some fungi, and some algae",
+        "All animals and plants",
+        "Only bacteria",
+        "Only archaea"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'There are no known archaean pathogens.'",
-        "Incorrect. The article states that there are no known archaean pathogens, so not all archaea are pathogens.",
-        "Incorrect. The article does not state that only extremophile archaea are pathogens; it states there are no known archaean pathogens.",
-        "Incorrect. The article associates Borrelia, which causes Lyme disease, with bacteria, not archaean pathogens."
+        "Correct. The article states: 'Single-celled eukaryotes include most protists, some species of fungi (yeasts), and some species of algae.'",
+        "Incorrect. Animals and plants are multicellular, not single-celled.",
+        "Incorrect. Bacteria are prokaryotes, not eukaryotes.",
+        "Incorrect. Archaea are prokaryotes, not eukaryotes."
       ]
     }
   ]

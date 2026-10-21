@@ -5,38 +5,70 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Florence Nightingale's date of birth?",
+      "question": "When was Florence Nightingale born?",
       "options": [
         "12 May 1820",
         "13 August 1910",
-        "7 February 1837",
-        "22 August 1853"
+        "12 May 1910",
+        "13 August 1820"
       ],
       "answer_explanations": [
-        "Correct. The article states Florence Nightingale was born on 12 May 1820.",
-        "Incorrect. 13 August 1910 is her date of death, not her birth date.",
-        "Incorrect. 7 February 1837 is when she experienced her first call from God to service.",
-        "Incorrect. 22 August 1853 is when she took the post of superintendent at the Institute for the Care of Sick Gentlewomen."
+        "Correct. The article states she was born on 12 May 1820.",
+        "Incorrect. 13 August 1910 is the date she died, not her birth date.",
+        "Incorrect. 12 May 1910 is not mentioned in the article.",
+        "Incorrect. 13 August 1820 is not her birth date; she was born on 12 May 1820."
       ]
     },
     {
       "id": 2,
-      "question": "During which war did Florence Nightingale come to prominence?",
+      "question": "What was Florence Nightingale's nationality?",
       "options": [
-        "the Crimean War",
-        "World War I",
-        "the Napoleonic Wars",
-        "the Boer War"
+        "English",
+        "French",
+        "American",
+        "German"
       ],
       "answer_explanations": [
-        "Correct. The article states Nightingale came to prominence while serving as a manager and trainer of nurses during the Crimean War.",
-        "Incorrect. The article does not associate Nightingale with World War I.",
-        "Incorrect. The article does not mention the Napoleonic Wars in connection with Nightingale.",
-        "Incorrect. The article does not mention the Boer War in connection with Nightingale."
+        "Correct. The article describes her as an English social reformer.",
+        "Incorrect. The article does not say she was French.",
+        "Incorrect. The article does not say she was American.",
+        "Incorrect. The article does not say she was German."
       ]
     },
     {
       "id": 3,
+      "question": "What is Florence Nightingale best known as?",
+      "options": [
+        "The founder of modern nursing",
+        "A famous painter",
+        "A political leader",
+        "A novelist"
+      ],
+      "answer_explanations": [
+        "Correct. The article states she was the founder of modern nursing.",
+        "Incorrect. The article does not mention her as a painter.",
+        "Incorrect. The article does not describe her as a political leader.",
+        "Incorrect. The article does not describe her as a novelist."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "During which war did Florence Nightingale come to prominence?",
+      "options": [
+        "The Crimean War",
+        "World War I",
+        "The American Civil War",
+        "The Napoleonic Wars"
+      ],
+      "answer_explanations": [
+        "Correct. The article says she came to prominence while serving during the Crimean War.",
+        "Incorrect. The article does not mention World War I.",
+        "Incorrect. The article does not mention the American Civil War.",
+        "Incorrect. The article does not mention the Napoleonic Wars."
+      ]
+    },
+    {
+      "id": 5,
       "question": "Where did Florence Nightingale organise care for wounded soldiers?",
       "options": [
         "Constantinople",
@@ -46,121 +78,89 @@
       ],
       "answer_explanations": [
         "Correct. The article states she organised care for wounded soldiers at Constantinople.",
-        "Incorrect. London is where she established her nursing school, not where she organised care during the Crimean War.",
-        "Incorrect. Paris is mentioned as a place she passed through, not where she organised care for soldiers.",
-        "Incorrect. Rome is where she met Sidney Herbert, not where she organised care for soldiers."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "In what year did Florence Nightingale establish her nursing school at St Thomas' Hospital?",
-      "options": [
-        "1860",
-        "1854",
-        "1851",
-        "1910"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that in 1860, she laid the foundation of professional nursing with the establishment of her nursing school at St Thomas' Hospital in London.",
-        "Incorrect. 1854 is when she went to the Crimean War, not when she established her nursing school.",
-        "Incorrect. 1851 is when she issued her findings on Kaiserswerth anonymously, not when she established her nursing school.",
-        "Incorrect. 1910 is her year of death, not when she established her nursing school."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What is the Nightingale rose diagram equivalent to?",
-      "options": [
-        "a modern circular histogram or pie chart",
-        "a bar graph",
-        "a line chart",
-        "a scatter plot"
-      ],
-      "answer_explanations": [
-        "Correct. The article states the polar area diagram, also called the Nightingale rose diagram, is equivalent to a modern circular histogram or pie chart.",
-        "Incorrect. The article does not describe the Nightingale rose diagram as equivalent to a bar graph.",
-        "Incorrect. The article does not describe the Nightingale rose diagram as equivalent to a line chart.",
-        "Incorrect. The article does not describe the Nightingale rose diagram as equivalent to a scatter plot."
+        "Incorrect. London is mentioned later as the location of her nursing school, but not for organising care during the war.",
+        "Incorrect. Paris is not mentioned in the article.",
+        "Incorrect. Rome is not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "What did Florence Nightingale implement in the hospital where she worked during the Crimean War?",
+      "question": "How did Florence Nightingale reduce death rates?",
       "options": [
-        "handwashing",
-        "vaccination",
-        "surgery",
-        "quarantine"
+        "By improving hygiene and living standards",
+        "By giving soldiers more medicine",
+        "By building more hospitals",
+        "By sending soldiers home"
       ],
       "answer_explanations": [
-        "Correct. The article states that for example, Nightingale implemented handwashing in the hospital where she worked.",
-        "Incorrect. The article does not mention Nightingale implementing vaccination.",
-        "Incorrect. The article does not mention Nightingale implementing surgery.",
-        "Incorrect. The article does not mention Nightingale implementing quarantine."
+        "Correct. The article says she significantly reduced death rates by improving hygiene and living standards.",
+        "Incorrect. The article does not mention giving more medicine.",
+        "Incorrect. The article does not mention building more hospitals.",
+        "Incorrect. The article does not mention sending soldiers home."
       ]
     },
     {
       "id": 7,
-      "question": "On what date is International Nurses Day celebrated?",
+      "question": "What nickname was Florence Nightingale known by?",
       "options": [
-        "her birthday",
-        "Christmas Day",
-        "New Year's Day",
-        "the anniversary of the Crimean War"
+        "The Lady with the Lamp",
+        "The Angel of the Battlefield",
+        "The Nurse of the East",
+        "The Mother of Medicine"
       ],
       "answer_explanations": [
-        "Correct. The article states the annual International Nurses Day is celebrated on her birthday.",
-        "Incorrect. The article does not state International Nurses Day is celebrated on Christmas Day.",
-        "Incorrect. The article does not state International Nurses Day is celebrated on New Year's Day.",
-        "Incorrect. The article does not state International Nurses Day is celebrated on the anniversary of the Crimean War."
+        "Correct. The article mentions the persona of 'The Lady with the Lamp'.",
+        "Incorrect. This nickname is not mentioned in the article.",
+        "Incorrect. This nickname is not mentioned in the article.",
+        "Incorrect. This nickname is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "What was Florence Nightingale's profession or role according to the article?",
+      "question": "In what year did Florence Nightingale establish her nursing school?",
       "options": [
-        "social reformer, statistician, and founder of modern nursing",
-        "queen of England",
-        "military general",
-        "inventor of the telephone"
+        "1860",
+        "1854",
+        "1820",
+        "1910"
       ],
       "answer_explanations": [
-        "Correct. The article describes Florence Nightingale as an English social reformer, statistician and the founder of modern nursing.",
-        "Incorrect. The article does not describe Nightingale as queen of England.",
-        "Incorrect. The article does not describe Nightingale as a military general.",
-        "Incorrect. The article does not describe Nightingale as the inventor of the telephone."
+        "Correct. The article states that in 1860 she laid the foundation of professional nursing with the establishment of her nursing school.",
+        "Incorrect. 1854 is not mentioned in the article.",
+        "Incorrect. 1820 is her birth year, not the year the school was established.",
+        "Incorrect. 1910 is her death year, not the year the school was established."
       ]
     },
     {
       "id": 9,
-      "question": "What name was Florence Nightingale known by in the persona of making ward rounds at night?",
+      "question": "Where was Florence Nightingale's nursing school established?",
       "options": [
-        "The Lady with the Lamp",
-        "The Angel of Mercy",
-        "The Nightingale Nurse",
-        "The Crimea Caretaker"
+        "St Thomas' Hospital in London",
+        "A hospital in Constantinople",
+        "A hospital in Paris",
+        "A hospital in Rome"
       ],
       "answer_explanations": [
-        "Correct. The article states she became an icon of Victorian culture, especially in the persona of \"The Lady with the Lamp\" making ward rounds for wounded soldiers at night.",
-        "Incorrect. The article does not refer to Nightingale as \"The Angel of Mercy.\"",
-        "Incorrect. The article does not refer to Nightingale as \"The Nightingale Nurse.\"",
-        "Incorrect. The article does not refer to Nightingale as \"The Crimea Caretaker.\""
+        "Correct. The article says the nursing school was at St Thomas' Hospital in London.",
+        "Incorrect. Constantinople is mentioned as where she organised care during the war, not where the school was established.",
+        "Incorrect. Paris is not mentioned in the article.",
+        "Incorrect. Rome is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "Where was Florence Nightingale born?",
+      "question": "What is celebrated on Florence Nightingale's birthday?",
       "options": [
-        "Villa Colombaia, near the Porta Romana in Florence",
-        "London",
-        "Paris",
-        "Scutari"
+        "International Nurses Day",
+        "National Doctors Day",
+        "World Health Day",
+        "Nurses Week"
       ],
       "answer_explanations": [
-        "Correct. The article states Florence Nightingale was born on 12 May 1820 at Villa Colombaia, near the Porta Romana in Florence.",
-        "Incorrect. London is where she established her nursing school, not where she was born.",
-        "Incorrect. Paris is mentioned as a place she visited, not where she was born.",
-        "Incorrect. Scutari is where she worked during the Crimean War, not where she was born."
+        "Correct. The article says the annual International Nurses Day is celebrated on her birthday.",
+        "Incorrect. The article does not mention National Doctors Day.",
+        "Incorrect. The article does not mention World Health Day.",
+        "Incorrect. The article does not mention Nurses Week."
       ]
     }
   ]

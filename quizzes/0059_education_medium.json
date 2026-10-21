@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following is one of R. S. Peters's three essential features of education?",
+      "question": "What is the most common division of education based on the institutional framework?",
       "options": [
-        "Knowledge and understanding are imparted to the student in a beneficial and morally appropriate manner.",
-        "Education must take place within a formal institutional framework.",
-        "Education is exclusively driven by extrinsic motivation.",
-        "Education requires the use of educational technology."
+        "Formal, non-formal, and informal education",
+        "Primary, secondary, and tertiary education",
+        "Teacher-centered and student-centered education",
+        "Science, language, and physical education"
       ],
       "answer_explanations": [
-        "Correct. The article states that R. S. Peters outlines three essential features of education, including that knowledge and understanding are imparted to the student and that this process is beneficial and done in a morally appropriate manner.",
-        "Incorrect. The article distinguishes formal education by its institutional framework but does not state that Peters requires this as an essential feature of education.",
-        "Incorrect. The article notes that formal education tends to be driven by extrinsic motivation, but this is not one of Peters's essential features.",
-        "Incorrect. The article lists access to educational technology as a factor influencing educational success, not as an essential feature of education according to Peters."
+        "Correct. The article states, 'The most common division is between formal, non-formal, and informal education.'",
+        "Incorrect. This is a classification by levels, not by institutional framework.",
+        "Incorrect. This is a classification by teaching method.",
+        "Incorrect. This is a classification by subject."
       ]
     },
     {
       "id": 2,
-      "question": "What is a key difference between thick conceptions and thin conceptions of education?",
+      "question": "According to the article, what is the main goal of primary education?",
       "options": [
-        "Thick conceptions state that education leads to some kind of improvement, while thin conceptions are value-neutral.",
-        "Thick conceptions focus only on knowledge transmission, while thin conceptions include character development.",
-        "Thick conceptions apply only to formal education, while thin conceptions apply to informal education.",
-        "Thick conceptions are descriptive, while thin conceptions are prescriptive."
+        "To teach basic skills in reading, writing, and mathematics",
+        "To prepare students for university",
+        "To provide specialized training for a career",
+        "To focus on subject-specific curricula"
       ],
       "answer_explanations": [
-        "Correct. The article states that evaluative or thick conceptions of education hold that it is part of the nature of education to lead to some kind of improvement, contrasting with thin conceptions, which provide a value-neutral explanation.",
-        "Incorrect. The article does not say that thick conceptions focus only on knowledge transmission while thin conceptions include character development.",
-        "Incorrect. The article does not limit thick conceptions to formal education or thin conceptions to informal education.",
-        "Incorrect. The article treats descriptive and prescriptive as separate categories from thick and thin conceptions."
+        "Correct. The article says, 'its main goal is to teach basic skills in reading, writing, and mathematics.'",
+        "Incorrect. This is more the aim of tertiary education, not the main goal of primary education.",
+        "Incorrect. Primary education focuses on basic skills, not specialized career training.",
+        "Incorrect. This is a characteristic of lower secondary education, not primary education."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, how do scholars use critical thinking to distinguish education from indoctrination?",
+      "question": "What is the role of the International Standard Classification of Education (ISCED)?",
       "options": [
-        "Education fosters the rational ability to critically reflect on and question beliefs, whereas indoctrination merely instills beliefs regardless of rationality.",
-        "Indoctrination requires critical thinking, while education does not.",
-        "Critical thinking is only relevant in informal education, not in formal education.",
-        "Indoctrination and education are identical in their use of critical thinking."
+        "It is a framework that distinguishes levels of education based on factors like student age and content complexity",
+        "It is a system for funding schools worldwide",
+        "It is a set of rules for teacher training",
+        "It is a method for informal learning"
       ],
       "answer_explanations": [
-        "Correct. The article states that education fosters the rational ability to critically reflect on and question beliefs, while mere indoctrination is only interested in instilling beliefs independent of whether they are rational.",
-        "Incorrect. The article says the opposite: indoctrination instills beliefs without regard to rationality, while education fosters critical reflection.",
-        "Incorrect. The article does not restrict critical thinking to informal education.",
-        "Incorrect. The article explicitly contrasts education and indoctrination regarding critical thinking."
+        "Correct. The article states that the ISCED 'distinguishes levels based on the student's age, the duration of learning, and the complexity of the discussed content.'",
+        "Incorrect. The article does not describe the ISCED as a funding system.",
+        "Incorrect. The ISCED includes teacher qualifications as a criterion, but it is not a set of rules for teacher training.",
+        "Incorrect. The ISCED covers both formal and non-formal education, not informal learning."
       ]
     },
     {
       "id": 4,
-      "question": "Which statement accurately describes non-formal education according to the article?",
+      "question": "What does the term 'education' mean according to the article?",
       "options": [
-        "Non-formal education is structured and purposeful but occurs outside the formal schooling system.",
-        "Non-formal education is unstructured learning through daily experiences.",
-        "Non-formal education is always compulsory and government-controlled.",
-        "Non-formal education takes place only in schools."
+        "The transmission of knowledge and skills and the development of character traits",
+        "The process of learning a first language from parents",
+        "The study of ancient civilizations",
+        "The invention of writing"
       ],
       "answer_explanations": [
-        "Correct. The article states that non-formal education is structured but occurs outside the formal schooling system, and describes it as organized, systematic, and carried out with a clear purpose.",
-        "Incorrect. The article defines informal education, not non-formal education, as unstructured learning through daily experiences.",
-        "Incorrect. The article says formal education tends to be compulsory and government-controlled, not non-formal education.",
-        "Incorrect. The article states that non-formal education occurs outside the formal schooling system, not only in schools."
+        "Correct. The article begins by defining education as 'the transmission of knowledge and skills and the development of character traits.'",
+        "Incorrect. This is an example of informal education, not the definition of education itself.",
+        "Incorrect. This is a topic in history, not a definition of education.",
+        "Incorrect. This is a historical event, not a definition of education."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is listed in the article as a psychological factor influencing educational success?",
+      "question": "According to the article, what is a key difference between formal and informal education?",
       "options": [
-        "Motivation",
-        "Socioeconomic status",
-        "Teacher quality",
-        "Access to educational technology"
+        "Formal education is structured, while informal education is unstructured learning through daily experiences",
+        "Formal education is always free, while informal education is paid",
+        "Formal education only happens in museums, while informal education happens at home",
+        "Formal education is for adults, while informal education is for children"
       ],
       "answer_explanations": [
-        "Correct. The article lists motivation, intelligence, and personality as psychological factors that influence whether education is successful.",
-        "Incorrect. The article classifies socioeconomic status as a social factor, not a psychological factor.",
-        "Incorrect. The article lists teacher quality as a further factor separate from psychological factors.",
-        "Incorrect. The article lists access to educational technology as a further factor separate from psychological factors."
+        "Correct. The article explains that formal education happens in a complex institutional framework, while 'informal education is unstructured learning through daily experiences.'",
+        "Incorrect. The article does not say formal education is always free.",
+        "Incorrect. The article mentions non-formal education can happen in museums, not formal education.",
+        "Incorrect. The article does not restrict these types of education by age."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what was one reason formal education became increasingly important throughout history?",
+      "question": "What does the article say about the history of education in prehistory?",
       "options": [
-        "Informal education is often not efficient enough to teach large quantities of knowledge.",
-        "The printing press made informal education obsolete.",
-        "Governments banned informal education in the 18th century.",
-        "Informal education requires well-trained teachers."
+        "Education happened informally through oral communication and imitation",
+        "Education was mainly formal and institutionalized",
+        "Education was only available to religious groups",
+        "Education was based on written texts"
       ],
       "answer_explanations": [
-        "Correct. The article states that informal education is often not efficient enough to teach large quantities of knowledge, and that this was one of the reasons formal education became increasingly important throughout history.",
-        "Incorrect. The article says the printing press made books more widely available and increased literacy, but does not say it made informal education obsolete.",
-        "Incorrect. The article does not state that governments banned informal education.",
-        "Incorrect. The article says formal education usually requires well-trained teachers, not informal education."
+        "Correct. The article states, 'In prehistory, education happened informally through oral communication and imitation.'",
+        "Incorrect. The article says education was informal, not formal, in prehistory.",
+        "Incorrect. The article says formal education was mainly for elites and religious groups later, not in prehistory.",
+        "Incorrect. Writing was invented later, with the rise of ancient civilizations."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is the main goal of primary education?",
+      "question": "What are some psychological factors that influence whether education is successful?",
       "options": [
-        "To teach basic skills in reading, writing, and mathematics.",
-        "To prepare students for university admission.",
-        "To provide vocational training in specific trades.",
-        "To focus exclusively on physical education and the arts."
+        "Motivation, intelligence, and personality",
+        "Socioeconomic status, ethnicity, and gender",
+        "Access to educational technology and teacher quality",
+        "Government policies and international organizations"
       ],
       "answer_explanations": [
-        "Correct. The article states that primary education's main goal is to teach basic skills in reading, writing, and mathematics.",
-        "Incorrect. The article does not identify university admission as the main goal of primary education.",
-        "Incorrect. The article does not describe vocational training as the main goal of primary education.",
-        "Incorrect. The article mentions music and art as part of primary education but does not say it focuses exclusively on physical education and the arts."
+        "Correct. The article lists 'motivation, intelligence, and personality' as psychological factors.",
+        "Incorrect. These are listed as social factors.",
+        "Incorrect. These are listed as further factors, not psychological ones.",
+        "Incorrect. These are not listed as psychological factors influencing educational success."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is a subfield of education studies mentioned in the article?",
+      "question": "What is the main academic field that investigates education?",
       "options": [
-        "Philosophy of education",
-        "Educational technology",
-        "Curriculum design",
-        "School administration"
+        "Education studies",
+        "Psychology",
+        "Sociology",
+        "Philosophy"
       ],
       "answer_explanations": [
-        "Correct. The article lists philosophy of education as one of the subfields of education studies.",
-        "Incorrect. The article mentions educational technology as a factor influencing educational success, not as a subfield of education studies.",
-        "Incorrect. The article does not list curriculum design as a subfield of education studies.",
-        "Incorrect. The article does not list school administration as a subfield of education studies."
+        "Correct. The article states, 'The main academic field investigating education is called education studies.'",
+        "Incorrect. Psychology is a subfield of education studies.",
+        "Incorrect. Sociology is a subfield of education studies.",
+        "Incorrect. Philosophy is a subfield of education studies."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is one aim of lower secondary education?",
+      "question": "What does the article say about the distinction between education and indoctrination?",
       "options": [
-        "To familiarize students with basic theoretical concepts in different subjects.",
-        "To teach basic skills in reading, writing, and mathematics.",
-        "To foster early childhood development across physical, mental, and social domains.",
-        "To prepare students exclusively for immediate entry into the workforce."
+        "Education fosters critical thinking, while indoctrination only instills beliefs",
+        "Education and indoctrination are exactly the same",
+        "Indoctrination is always better than education",
+        "Education is only for children, while indoctrination is for adults"
       ],
       "answer_explanations": [
-        "Correct. The article states that one aim of lower secondary education is to familiarize students with the basic theoretical concepts in the different subjects.",
-        "Incorrect. The article identifies teaching basic skills in reading, writing, and mathematics as the main goal of primary education, not lower secondary education.",
-        "Incorrect. The article describes fostering early childhood development across physical, mental, and social domains as the aim of early childhood education.",
-        "Incorrect. The article does not state that lower secondary education prepares students exclusively for immediate entry into the workforce."
+        "Correct. The article says education 'fosters the rational ability to critically reflect on and question those beliefs,' unlike mere indoctrination.",
+        "Incorrect. The article highlights a clear difference between the two.",
+        "Incorrect. The article does not make this judgment.",
+        "Incorrect. The article does not distinguish them by age."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, how do governments affect education through education policies?",
+      "question": "According to the article, what is a characteristic of non-formal education?",
       "options": [
-        "By determining when school classes happen, what is taught, and who can or must attend.",
-        "By directly teaching all classes in public schools.",
-        "By eliminating non-formal and informal education.",
-        "By setting international literacy standards only."
+        "It is organized and systematic but occurs outside the formal schooling system",
+        "It is completely unstructured and spontaneous",
+        "It only takes place in schools",
+        "It is always compulsory"
       ],
       "answer_explanations": [
-        "Correct. The article states that governments set education policies to determine when school classes happen, what is taught, and who can or must attend.",
-        "Incorrect. The article does not state that governments directly teach all classes in public schools.",
-        "Incorrect. The article does not say governments eliminate non-formal and informal education.",
-        "Incorrect. The article does not state that governments set only international literacy standards."
+        "Correct. The article describes non-formal education as 'organized, systematic, and carried out with a clear purpose' but outside the formal schooling system.",
+        "Incorrect. This describes informal education.",
+        "Incorrect. Non-formal education takes place outside the formal schooling system.",
+        "Incorrect. The article says formal education tends to be compulsory, not non-formal education."
       ]
     }
   ]

@@ -5,39 +5,23 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what is the approximate span of recorded history?",
+      "question": "According to the article, what marks the beginning of ancient history?",
       "options": [
-        "roughly 5,000 years",
-        "roughly 3,000 years",
-        "roughly 7,000 years",
-        "roughly 10,000 years"
+        "The beginning of writing and recorded human history",
+        "The invention of the wheel",
+        "The start of the Bronze Age",
+        "The domestication of animals"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The span of recorded history is roughly 5,000 years, beginning with the development of Sumerian cuneiform script.'",
-        "Incorrect. The article does not give a span of roughly 3,000 years for recorded history.",
-        "Incorrect. The article does not give a span of roughly 7,000 years for recorded history.",
-        "Incorrect. The article does not give a span of roughly 10,000 years for recorded history."
+        "Correct. The article states that ancient history is a time period 'from the beginning of writing and recorded human history through late antiquity'.",
+        "Incorrect. The wheel was invented later and is not described as the start of ancient history.",
+        "Incorrect. The Bronze Age is part of the three-age system used to periodise ancient history, but it is not the defining start of the period.",
+        "Incorrect. Animal domestication began in prehistory, before the start of ancient history."
       ]
     },
     {
       "id": 2,
-      "question": "Which age does the article say usually marks the beginning of recorded history?",
-      "options": [
-        "the Bronze Age",
-        "the Stone Age",
-        "the Iron Age",
-        "the Neolithic Age"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that recorded history 'is usually considered to begin with the Bronze Age.'",
-        "Incorrect. The Stone Age is part of the three-age system but is not identified as the start of recorded history.",
-        "Incorrect. The Iron Age comes after the Bronze Age in the three-age system.",
-        "Incorrect. The Neolithic Age is not one of the three ages mentioned in the article's periodisation."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "What does the article say was the estimated world population in 3000 BC?",
+      "question": "What was the estimated world population in 3000 BC?",
       "options": [
         "45 million",
         "2 million",
@@ -45,122 +29,138 @@
         "209 million"
       ],
       "answer_explanations": [
-        "Correct. The article states that world population 'rose to 45 million by 3000 BC.'",
-        "Incorrect. The article gives 2 million as the estimated population in 10,000 BC, not 3000 BC.",
-        "Incorrect. The article gives 72 million as the population by 1000 BC.",
-        "Incorrect. The article gives 209 million as the population by AD 500."
+        "Correct. The article says 'it rose to 45 million by 3000 BC'.",
+        "Incorrect. 2 million was the estimated population in 10,000 BC, not 3000 BC.",
+        "Incorrect. 72 million was the estimated population by 1000 BC, not 3000 BC.",
+        "Incorrect. 209 million was the estimated population by AD 500, not 3000 BC."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "According to the article, when did Homo sapiens migrate out of Africa?",
+      "options": [
+        "Some 50,000 years ago",
+        "1.8 million years ago",
+        "15,000 years ago",
+        "30,000 years ago"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Some 50,000 years ago, Homo sapiens migrated out of Africa.'",
+        "Incorrect. 1.8 million years ago is when Homo erectus spread across Eurasia, not when Homo sapiens left Africa.",
+        "Incorrect. 15,000 years ago is when humans migrated to the Americas, not when they left Africa.",
+        "Incorrect. 30,000 years ago is when humans reached Japan, not when they left Africa."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following regions does the article identify as one of the five independent locations where writing developed?",
+      "question": "Where does the article say evidence for agriculture first emerges?",
       "options": [
-        "Mesoamerica",
-        "Greece",
-        "Japan",
-        "Britain"
+        "In what is now eastern Turkey",
+        "In the Nile River Valley",
+        "In China",
+        "In New Guinea"
       ],
       "answer_explanations": [
-        "Correct. The article lists Mesopotamia, Egypt, India, China, and Mesoamerica as the five locations where writing developed separately.",
-        "Incorrect. Greece is not listed among the five independent locations for the development of writing.",
-        "Incorrect. Japan is not listed among the five independent locations for the development of writing.",
-        "Incorrect. Britain is not listed among the five independent locations for the development of writing."
+        "Correct. The article says 'Evidence for agriculture emerges in about 9000 BC in what is now eastern Turkey'.",
+        "Incorrect. The Nile River Valley has evidence of sorghum and millet cultivation starting around 8000 BC, which is later than the first evidence in eastern Turkey.",
+        "Incorrect. Cultivation in China began around 7000 BC, later than the first evidence in eastern Turkey.",
+        "Incorrect. Taro cultivation in New Guinea dates to about 7000 BC, later than the first evidence in eastern Turkey."
       ]
     },
     {
       "id": 5,
-      "question": "What does the article say about the precise site of Akkad?",
+      "question": "Which animal does the article say was domesticated first?",
       "options": [
-        "It has never been found despite an extensive search.",
-        "It is located at modern Babylon.",
-        "It was discovered in the 19th century BC.",
-        "It is known as Washukanni."
+        "Dogs",
+        "Sheep",
+        "Goats",
+        "Cattle"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Despite an extensive search, the precise site has never been found.'",
-        "Incorrect. The article does not identify Akkad's site as modern Babylon.",
-        "Incorrect. The article does not say the site was discovered in the 19th century BC.",
-        "Incorrect. Washukanni is identified as the capital of Mitanni, not Akkad."
+        "Correct. The article states 'Animal domestication began with the domestication of dogs, which dates to at least 15,000 years ago'.",
+        "Incorrect. Sheep were domesticated around 9000 BC, which is later than dogs.",
+        "Incorrect. Goats were domesticated around 9000 BC, which is later than dogs.",
+        "Incorrect. Cattle were domesticated around 7000 BC, which is later than dogs."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what did Darius the Great accomplish for the Achaemenid Empire?",
+      "question": "According to the article, in which five locations did writing develop separately?",
       "options": [
-        "He expanded the empire to the Indus River, creating the largest empire in the world to that date.",
-        "He conquered Egypt and founded the Median Empire.",
-        "He defeated Alexander the Great by 330 BC.",
-        "He introduced sugar, rice, and cotton to the Iranian plateau."
+        "Mesopotamia, Egypt, India, China, and Mesoamerica",
+        "Mesopotamia, Egypt, Greece, Rome, and China",
+        "Turkey, Egypt, India, Japan, and Mexico",
+        "Sumer, Akkad, Babylon, Assyria, and Persia"
       ],
       "answer_explanations": [
-        "Correct. The article states that Darius the Great 'expanded the empire to the Indus River, creating the largest empire in the world to that date.'",
-        "Incorrect. Cambyses II conquered Egypt, and the Medes established the Median Empire, not Darius.",
-        "Incorrect. Alexander the Great defeated the Achaemenid Empire, not the other way around.",
-        "Incorrect. The Sasanian merchants introduced crops such as sugar, rice, and cotton into the Iranian plateau."
+        "Correct. The article says 'Writing developed separately in five different locations in human history: Mesopotamia, Egypt, India, China, and Mesoamerica.'",
+        "Incorrect. Greece and Rome are not listed as places where writing developed separately.",
+        "Incorrect. Turkey, Japan, and Mexico are not the locations listed in the article.",
+        "Incorrect. Sumer, Akkad, Babylon, Assyria, and Persia are all within Mesopotamia, not five separate locations."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the Parthian Empire's governing structure?",
+      "question": "What does the article say about the ancient Near East?",
       "options": [
-        "It was based on a decentralised federated system.",
-        "It was a highly centralised bureaucracy.",
-        "It was ruled directly by Roman governors.",
-        "It was a theocracy led by priests."
+        "It is considered the cradle of civilisation",
+        "It was the last region to develop writing",
+        "It never had centralised governments",
+        "It was isolated from other regions"
       ],
       "answer_explanations": [
-        "Correct. The article states that Parthian power was based on 'a decentralised governing structure based on a federated system.'",
-        "Incorrect. The article describes the Parthian governing structure as decentralised, not centralised.",
-        "Incorrect. The article says Parthia had wars with the Romans, not that it was ruled by Roman governors.",
-        "Incorrect. The article does not describe Parthia as a theocracy."
+        "Correct. The article states 'The ancient Near East is considered the cradle of civilisation.'",
+        "Incorrect. The article says it created 'one of the first coherent writing systems', not the last.",
+        "Incorrect. The article says it created 'the first centralised governments'.",
+        "Incorrect. The article describes it as a centre of trade and innovation, not isolated."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what happened to the last Sassanid emperor?",
+      "question": "Which empire created the Hanging Gardens of Babylon and the Ishtar Gate?",
       "options": [
-        "He was killed by the expanding Islamic Arabs in AD 651.",
-        "He was defeated by Alexander the Great in 330 BC.",
-        "He was overthrown by the Arsacid dynasty.",
-        "He moved the capital to Ctesiphon."
+        "The Neo-Babylonian Empire",
+        "The Akkadian Empire",
+        "The Achaemenid Empire",
+        "The Hittite Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'in AD 651, the last Sassanid emperor was killed by the expanding Islamic Arabs.'",
-        "Incorrect. Alexander the Great defeated the Achaemenid dynasty, not the Sassanid emperor.",
-        "Incorrect. The Arsacid dynasty led the Parthian Empire, not the Sassanids.",
-        "Incorrect. The Sasanians set up their capital at Ctesiphon, but this is not what happened to the last emperor."
+        "Correct. The article says 'This empire also created the Hanging Gardens of Babylon and the still-surviving Ishtar Gate' in the section about the Neo-Babylonian Empire.",
+        "Incorrect. The Akkadian Empire is described separately and is not credited with these structures.",
+        "Incorrect. The Achaemenid Empire is described later and is not credited with these structures.",
+        "Incorrect. The Hittite Empire is described later and is not credited with these structures."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article say was the result of the surplus of storable foodstuffs in Mesopotamia?",
+      "question": "What language spread and replaced Sumerian in Mesopotamia, eventually becoming the main language of diplomacy by 1450 BC?",
       "options": [
-        "It allowed the population to settle in one place and required a division of labour.",
-        "It caused people to migrate after crops and herds.",
-        "It led to the abandonment of cities.",
-        "It eliminated the need for record keeping."
+        "Akkadian",
+        "Aramaic",
+        "Persian",
+        "Greek"
       ],
       "answer_explanations": [
-        "Correct. The article states that the surplus 'allowed the population to settle in one place instead of migrating after crops and herds' and 'required an extensive labour force and division of labour.'",
-        "Incorrect. The article says the surplus allowed people to settle instead of migrating.",
-        "Incorrect. The article says cities began and expanded, not that they were abandoned.",
-        "Incorrect. The article says the surplus led to the necessity of record keeping, not that it eliminated it."
+        "Correct. The article says 'the language of Akkad, known as Akkadian... spread and replaced the Sumerian language in Mesopotamia and eventually, by 1450 BC, was the main language of diplomacy in the Near East.'",
+        "Incorrect. Aramaic is not mentioned in this context in the article.",
+        "Incorrect. Persian was spoken by the Medes and Persians, who appeared later, and is not described as replacing Sumerian.",
+        "Incorrect. Greek is not mentioned as replacing Sumerian in this context."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, when did cultivation of millet, rice, and legumes begin in China?",
+      "question": "Who founded the Achaemenid Empire?",
       "options": [
-        "around 7000 BC",
-        "around 9000 BC",
-        "around 8000 BC",
-        "around 4000 BC"
+        "Cyrus the Great",
+        "Darius the Great",
+        "Xerxes I",
+        "Alexander the Great"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Cultivation of millet, rice, and legumes began around 7000 BC in China.'",
-        "Incorrect. The article dates agriculture in eastern Turkey to about 9000 BC, not cultivation in China.",
-        "Incorrect. The article dates sorghum and millet cultivation in the Nile River Valley to around 8000 BC, not China.",
-        "Incorrect. The article dates the domestication of horses, donkeys, and camels to about 4000 BC, not cultivation in China."
+        "Correct. The article states 'The Achaemenid Empire was founded by Cyrus the Great'.",
+        "Incorrect. Darius the Great expanded the empire but did not found it.",
+        "Incorrect. Xerxes I was a son of Darius and did not found the empire.",
+        "Incorrect. Alexander the Great conquered the empire, he did not found it."
       ]
     }
   ]

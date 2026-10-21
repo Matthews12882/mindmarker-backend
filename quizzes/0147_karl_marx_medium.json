@@ -5,39 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which two social classes does Marx identify as being in conflict under the capitalist mode of production?",
-      "options": [
-        "the bourgeoisie and the proletariat",
-        "the nobility and the peasantry",
-        "the clergy and the laity",
-        "the merchants and the artisans"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that under capitalism, class conflict manifests between the bourgeoisie, the ruling class that controls the means of production, and the proletariat, the working class that sells their labour power for wages.",
-        "Incorrect. The article does not describe capitalism as a conflict between the nobility and the peasantry.",
-        "Incorrect. The article does not identify the clergy and the laity as the conflicting classes under capitalism.",
-        "Incorrect. The article does not frame capitalist class conflict as being between merchants and artisans."
-      ]
-    },
-    {
-      "id": 2,
-      "question": "What did Marx predict would result from the internal contradictions of capitalism?",
-      "options": [
-        "capitalism's self-destruction",
-        "capitalism's indefinite stability",
-        "capitalism's peaceful reform into socialism",
-        "capitalism's expansion into outer space"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Marx predicted capital accumulation produced internal contradictions that would lead to capitalism's self-destruction.",
-        "Incorrect. The article does not suggest Marx predicted capitalism would remain stable indefinitely.",
-        "Incorrect. The article does not state that Marx predicted capitalism would peacefully reform into socialism.",
-        "Incorrect. The article does not mention capitalism expanding into outer space."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Which work did Marx co-author with Friedrich Engels in 1848?",
+      "question": "What was the title of the work Karl Marx co-authored with Friedrich Engels in 1848?",
       "options": [
         "The Communist Manifesto",
         "Das Kapital",
@@ -45,122 +13,154 @@
         "Critique of the Gotha Programme"
       ],
       "answer_explanations": [
-        "Correct. The article states that Marx co-authored The Communist Manifesto with Friedrich Engels in 1848.",
-        "Incorrect. Das Kapital is described as Marx's magnum opus, but it is not identified as a 1848 co-authorship with Engels.",
-        "Incorrect. The German Ideology is mentioned as a work in which Marx critiqued the Young Hegelians, not as the 1848 co-authored work with Engels.",
-        "Incorrect. Critique of the Gotha Programme is dated to 1875 in the article and is not described as co-authored with Engels."
+        "Correct. The article states Marx co-authored 'The Communist Manifesto' (1848) with Friedrich Engels.",
+        "Incorrect. Das Kapital was Marx's magnum opus, not the work co-authored with Engels in 1848.",
+        "Incorrect. The German Ideology is a work by Marx critiquing the Young Hegelians, not the 1848 work with Engels.",
+        "Incorrect. Critique of the Gotha Programme was a later work from 1875, not the 1848 co-authored piece."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Where was Karl Marx born?",
+      "options": [
+        "Trier",
+        "Berlin",
+        "London",
+        "Jena"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Marx was born in Trier in the Kingdom of Prussia.",
+        "Incorrect. Berlin is where Marx later studied, but he was not born there.",
+        "Incorrect. London is where Marx moved after being expelled from Germany, not his birthplace.",
+        "Incorrect. Jena is where Marx earned his doctoral degree, not his birthplace."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What did Marx earn from the University of Jena in 1841?",
+      "options": [
+        "A doctoral degree in philosophy",
+        "A law degree",
+        "A degree in literature",
+        "A degree in economics"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Marx earned a doctoral degree in philosophy from the University of Jena in 1841.",
+        "Incorrect. Marx studied law at university but his doctoral degree was in philosophy.",
+        "Incorrect. Marx wished to study literature but his doctoral degree was in philosophy.",
+        "Incorrect. Marx's doctoral degree was in philosophy, not economics."
       ]
     },
     {
       "id": 4,
-      "question": "Where did Marx move after being expelled from Germany following the Revolutions of 1848?",
+      "question": "Which group's ideas did Marx critique in works such as The German Ideology?",
       "options": [
-        "London",
-        "Paris",
-        "Brussels",
-        "Trier"
+        "The Young Hegelians",
+        "The anarchists",
+        "The classical liberals",
+        "The Communists"
       ],
       "answer_explanations": [
-        "Correct. The article states that after being expelled from Germany following the Revolutions of 1848, Marx moved to London.",
-        "Incorrect. Paris is mentioned as a place where Marx wrote earlier manuscripts, but not as his destination after expulsion from Germany.",
-        "Incorrect. Brussels is mentioned as a place where Marx and Engels were active in the Communist League before moving on.",
-        "Incorrect. Trier is Marx's birthplace, not the place he moved to after expulsion."
+        "Correct. The article says Marx critiqued the ideas of the Young Hegelians in works such as The German Ideology.",
+        "Incorrect. Marx battled anarchists in the International Workingmen's Association, but The German Ideology critiqued the Young Hegelians.",
+        "Incorrect. Classical liberals were not the target of The German Ideology.",
+        "Incorrect. Marx was active in the Communist League, but The German Ideology critiqued the Young Hegelians."
       ]
     },
     {
       "id": 5,
-      "question": "Which organization did Marx become a leading figure in while living in London?",
+      "question": "After being expelled from Germany, where did Marx move to write his Grundrisse notebooks and Das Kapital?",
       "options": [
-        "International Workingmen's Association",
-        "Communist League",
-        "Young Hegelians",
-        "Doctors Club"
+        "London",
+        "Paris",
+        "Brussels",
+        "Cologne"
       ],
       "answer_explanations": [
-        "Correct. The article states that Marx became a leading figure in the International Workingmen's Association (First International) while in London.",
-        "Incorrect. The Communist League is mentioned in connection with Marx's activity in Brussels before writing The Communist Manifesto.",
-        "Incorrect. The Young Hegelians were a group of radical thinkers Marx became involved with in Berlin, not an organization he led in London.",
-        "Incorrect. The Doctors Club was a student group in Berlin that discussed Hegelian ideas, not a London organization."
+        "Correct. The article states Marx moved to London after being expelled, where he wrote his Grundrisse notebooks and the three volumes of Das Kapital.",
+        "Incorrect. In Paris, Marx wrote his Economic and Philosophic Manuscripts of 1844, not Das Kapital.",
+        "Incorrect. In Brussels, Marx was active in the Communist League, but he wrote Das Kapital in London.",
+        "Incorrect. Cologne is where Marx became a journalist, not where he wrote Das Kapital."
       ]
     },
     {
       "id": 6,
-      "question": "What did Marx theorize about in his Critique of the Gotha Programme (1875)?",
+      "question": "In Marx's view, what conflict does the capitalist mode of production manifest?",
       "options": [
-        "the transition to a communist society",
-        "the history of ancient philosophy",
-        "the critique of religion",
-        "the organization of trade unions"
+        "Conflict between the bourgeoisie and the proletariat",
+        "Conflict between anarchists and communists",
+        "Conflict between the state and the church",
+        "Conflict between philosophers and politicians"
       ],
       "answer_explanations": [
-        "Correct. The article states that in his late studies and his Critique of the Gotha Programme (1875), Marx theorized on the transition to a communist society.",
-        "Incorrect. The article does not connect Critique of the Gotha Programme to the history of ancient philosophy.",
-        "Incorrect. The article does not state that Critique of the Gotha Programme focused on the critique of religion.",
-        "Incorrect. The article does not connect Critique of the Gotha Programme to the organization of trade unions."
+        "Correct. The article says the capitalist mode of production manifests in conflict between the bourgeoisie and the proletariat.",
+        "Incorrect. Marx battled anarchists in the First International, but this is not the capitalist class conflict.",
+        "Incorrect. The article does not describe a state-church conflict as central to capitalism.",
+        "Incorrect. The article does not describe a philosopher-politician conflict in capitalism."
       ]
     },
     {
       "id": 7,
-      "question": "Which university awarded Marx his Ph.D. in April 1841?",
+      "question": "What did Marx predict would happen to capitalism due to its internal contradictions?",
       "options": [
-        "University of Jena",
-        "University of Berlin",
-        "University of Bonn",
-        "University of Cologne"
+        "It would lead to its self-destruction",
+        "It would become more stable",
+        "It would merge with feudalism",
+        "It would be replaced by a monarchy"
       ],
       "answer_explanations": [
-        "Correct. The article states that Marx submitted his thesis to the University of Jena, whose faculty awarded him his Ph.D. in April 1841.",
-        "Incorrect. The article notes that Marx decided not to submit his thesis to the conservative professors at the University of Berlin.",
-        "Incorrect. The University of Bonn is where Marx initially studied, but not where he received his Ph.D.",
-        "Incorrect. The article does not mention the University of Cologne awarding Marx his Ph.D."
+        "Correct. The article states Marx predicted that the tensions from capital accumulation would lead to capitalism's self-destruction.",
+        "Incorrect. Marx predicted the oppositeâthat capitalism would self-destruct, not become more stable.",
+        "Incorrect. Marx did not predict a merge with feudalism.",
+        "Incorrect. Marx predicted a classless, stateless society, not a monarchy."
       ]
     },
     {
       "id": 8,
-      "question": "Why did Heinrich Marx convert from Judaism to the Evangelical Church of Prussia?",
+      "question": "Which organization did Marx become a leading figure in?",
       "options": [
-        "to retain his career as a lawyer",
-        "because he became deeply religious",
-        "to marry Henriette Pressburg",
-        "to enroll Karl in the Gymnasium zu Trier"
+        "The International Workingmen's Association",
+        "The Communist League",
+        "The Young Hegelians",
+        "The Doctors Club"
       ],
       "answer_explanations": [
-        "Correct. The article states that after Prussia's annexation of the Rhineland and the abrogation of Jewish emancipation, Heinrich converted to the state Evangelical Church of Prussia in order to retain his career as a lawyer.",
-        "Incorrect. The article describes Heinrich as largely non-religious and does not attribute his conversion to deep religious conviction.",
-        "Incorrect. The article does not link Heinrich's conversion to his marriage to Henriette Pressburg.",
-        "Incorrect. The article does not state that Heinrich converted to enroll Karl in the Gymnasium zu Trier."
+        "Correct. The article says Marx became a leading figure in the International Workingmen's Association (First International).",
+        "Incorrect. Marx was active in the Communist League, but he became a leading figure in the International Workingmen's Association.",
+        "Incorrect. Marx joined the Young Hegelians as a student, but he became a leading figure in the International Workingmen's Association.",
+        "Incorrect. The Doctors Club was a student group Marx joined, not the organization where he became a leading figure."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following best describes Marx's view of capitalism's nature?",
+      "question": "What did Marx's family do before his birth?",
       "options": [
-        "exploitative, alienating, and crisis-prone",
-        "stable, fair, and self-correcting",
-        "primarily beneficial to the working class",
-        "inherently democratic and egalitarian"
+        "Converted to Christianity",
+        "Moved to London",
+        "Became anarchists",
+        "Founded a university"
       ],
       "answer_explanations": [
-        "Correct. The article states that for Marx, the exploitative, alienating, and crisis-prone nature of capitalism would lead to the working class developing class consciousness.",
-        "Incorrect. The article does not describe capitalism as stable, fair, and self-correcting; rather, it describes it as crisis-prone.",
-        "Incorrect. The article characterizes capitalism as exploitative of the working class, not primarily beneficial to it.",
-        "Incorrect. The article does not describe capitalism as inherently democratic and egalitarian."
+        "Correct. The article states Marx's family was originally non-religious Jewish but had converted to Christianity before his birth.",
+        "Incorrect. The family did not move to London before his birth; Marx moved there later in life.",
+        "Incorrect. The family did not become anarchists.",
+        "Incorrect. The family did not found a university."
       ]
     },
     {
       "id": 10,
-      "question": "What did Marx advocate as the means to achieve human emancipation from economic and social domination?",
+      "question": "What is the name of the theory Marx developed for analyzing societal structure and change?",
       "options": [
-        "organised proletarian revolutionary action",
-        "gradual legislative reform within capitalism",
-        "individual moral improvement",
-        "expansion of free markets"
+        "Historical materialism",
+        "Classical liberalism",
+        "Hegelianism",
+        "Anarchism"
       ],
       "answer_explanations": [
-        "Correct. The article states that Marx actively pressed for the realisation of communism, advocating for organised proletarian revolutionary action to achieve human emancipation from economic and social domination.",
-        "Incorrect. The article does not describe Marx as advocating gradual legislative reform within capitalism.",
-        "Incorrect. The article does not present individual moral improvement as Marx's advocated means of emancipation.",
-        "Incorrect. The article does not describe Marx as advocating the expansion of free markets."
+        "Correct. The article says Marx developed the theory of historical materialism, analyzing societal structure and change.",
+        "Incorrect. Classical liberalism is what Marx's father was, not the theory Marx developed.",
+        "Incorrect. Hegelianism influenced Marx, but he developed historical materialism.",
+        "Incorrect. Anarchism was a movement Marx battled, not the theory he developed."
       ]
     }
   ]

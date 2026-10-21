@@ -5,39 +5,39 @@
   "questions": [
     {
       "id": 1,
-      "question": "What nationality was Antoine Lavoisier?",
+      "question": "What was Antoine Lavoisier's nationality?",
       "options": [
         "French",
+        "English",
         "German",
-        "British",
         "Italian"
       ],
       "answer_explanations": [
-        "Correct. The article states that Antoine Lavoisier was a French nobleman and chemist.",
-        "Incorrect. The article identifies Lavoisier as French, not German.",
-        "Incorrect. The article identifies Lavoisier as French, not British.",
-        "Incorrect. The article identifies Lavoisier as French, not Italian."
+        "Correct. The article states that Lavoisier was a 'French nobleman and chemist'.",
+        "Incorrect. The article identifies him as French, not English.",
+        "Incorrect. The article identifies him as French, not German.",
+        "Incorrect. The article identifies him as French, not Italian."
       ]
     },
     {
       "id": 2,
-      "question": "On what date was Antoine Lavoisier born?",
+      "question": "In which century did Lavoisier's chemical revolution take place?",
       "options": [
-        "26 August 1743",
-        "8 May 1794",
-        "1763",
-        "1771"
+        "18th century",
+        "17th century",
+        "19th century",
+        "20th century"
       ],
       "answer_explanations": [
-        "Correct. The article states he was born on 26 August 1743.",
-        "Incorrect. 8 May 1794 is the date of his death, not his birth.",
-        "Incorrect. 1763 is when he received his bachelor's degree, not his birth year.",
-        "Incorrect. 1771 is when he married Marie-Anne Paulze, not his birth year."
+        "Correct. The article mentions 'the 18th-century chemical revolution'.",
+        "Incorrect. The article specifies the 18th century, not the 17th.",
+        "Incorrect. The article specifies the 18th century, not the 19th.",
+        "Incorrect. The article specifies the 18th century, not the 20th."
       ]
     },
     {
       "id": 3,
-      "question": "What did Lavoisier change chemistry from and to?",
+      "question": "What change did Lavoisier bring to the science of chemistry?",
       "options": [
         "From qualitative to quantitative",
         "From quantitative to qualitative",
@@ -45,122 +45,122 @@
         "From practical to theoretical"
       ],
       "answer_explanations": [
-        "Correct. The article says his accomplishments stem from changing chemistry from a qualitative to a quantitative science.",
-        "Incorrect. The article states the change was from qualitative to quantitative, not the reverse.",
-        "Incorrect. The article does not describe the change as from theoretical to practical.",
-        "Incorrect. The article does not describe the change as from practical to theoretical."
+        "Correct. The article states that Lavoisier's accomplishments stem largely from 'changing the science from a qualitative to a quantitative one'.",
+        "Incorrect. The article says the change was from qualitative to quantitative, not the reverse.",
+        "Incorrect. The article does not mention a change from theoretical to practical.",
+        "Incorrect. The article does not mention a change from practical to theoretical."
       ]
     },
     {
       "id": 4,
-      "question": "Which element did Lavoisier name in 1778?",
+      "question": "What role did Lavoisier discover that oxygen plays?",
       "options": [
-        "Oxygen",
-        "Hydrogen",
-        "Silicon",
-        "Carbon"
+        "It plays a role in combustion.",
+        "It plays a role in photosynthesis.",
+        "It plays a role in respiration.",
+        "It plays a role in corrosion."
       ],
       "answer_explanations": [
-        "Correct. The article states he named oxygen in 1778, recognizing it as an element.",
-        "Incorrect. The article says he recognized hydrogen as an element in 1783, not that he named it in 1778.",
-        "Incorrect. The article says he predicted the existence of silicon, not that he named it in 1778.",
-        "Incorrect. The article does not mention Lavoisier naming carbon in 1778."
+        "Correct. The article says Lavoisier is noted for 'his discovery of the role oxygen plays in combustion'.",
+        "Incorrect. The article mentions combustion, not photosynthesis.",
+        "Incorrect. The article mentions combustion, not respiration.",
+        "Incorrect. The article mentions combustion, not corrosion."
       ]
     },
     {
       "id": 5,
-      "question": "What law did Lavoisier confirm through precise measurements?",
+      "question": "Which earlier theory of combustion did Lavoisier oppose?",
       "options": [
-        "The law of conservation of mass",
-        "The law of definite proportions",
-        "The law of multiple proportions",
-        "The phlogiston theory"
+        "Phlogiston theory",
+        "Oxygen theory",
+        "Caloric theory",
+        "Atomic theory"
       ],
       "answer_explanations": [
-        "Correct. The article says he confirmed that matter in a closed system may change form but its mass always remains the same, now known as the law of conservation of mass.",
-        "Incorrect. The article does not mention the law of definite proportions.",
-        "Incorrect. The article does not mention the law of multiple proportions.",
-        "Incorrect. The article says Lavoisier opposed the phlogiston theory, rather than confirming it."
+        "Correct. The article says Lavoisier opposed 'the prior phlogiston theory of combustion'.",
+        "Incorrect. The article names phlogiston theory, not oxygen theory.",
+        "Incorrect. The article names phlogiston theory, not caloric theory.",
+        "Incorrect. The article names phlogiston theory, not atomic theory."
       ]
     },
     {
       "id": 6,
-      "question": "Who was Marie-Anne Paulze Lavoisier?",
+      "question": "In what year did Lavoisier name oxygen?",
       "options": [
-        "His wife and laboratory assistant",
-        "His sister",
-        "His teacher",
-        "His rival"
+        "1778",
+        "1783",
+        "1787",
+        "1794"
       ],
       "answer_explanations": [
-        "Correct. The article identifies her as his wife and laboratory assistant who became a renowned chemist in her own right.",
-        "Incorrect. The article identifies her as his wife, not his sister.",
-        "Incorrect. The article identifies her as his wife and assistant, not his teacher.",
-        "Incorrect. The article describes her as a collaborator, not a rival."
+        "Correct. The article states 'He named oxygen (1778)'.",
+        "Incorrect. 1783 is the year he recognized hydrogen as an element, not when he named oxygen.",
+        "Incorrect. 1787 is the year he helped reform chemical nomenclature, not when he named oxygen.",
+        "Incorrect. 1794 is the year of his death, not when he named oxygen."
       ]
     },
     {
       "id": 7,
-      "question": "What organization was Lavoisier an administrator of?",
+      "question": "What law did Lavoisier confirm using more precise measurements?",
       "options": [
-        "The Ferme gÃ©nÃ©rale",
-        "The French Academy of Sciences",
-        "The Royal Commission on Agriculture",
-        "The Gunpowder Commission"
+        "Law of conservation of mass",
+        "Law of definite proportions",
+        "Law of multiple proportions",
+        "Law of gravity"
       ],
       "answer_explanations": [
-        "Correct. The article states he was an administrator of the Ferme gÃ©nÃ©rale.",
-        "Incorrect. He was appointed to the Academy of Sciences, but the article does not call him an administrator of it.",
-        "Incorrect. He served as Secretary of the Royal Commission on Agriculture, not administrator.",
-        "Incorrect. He was a commissioner of the Gunpowder Commission, not described as its administrator."
+        "Correct. The article says he confirmed the theory 'that... its mass always remains the same (now known as the law of conservation of mass)'.",
+        "Incorrect. The article refers to the law of conservation of mass, not definite proportions.",
+        "Incorrect. The article refers to the law of conservation of mass, not multiple proportions.",
+        "Incorrect. The article refers to the law of conservation of mass, not gravity."
       ]
     },
     {
       "id": 8,
-      "question": "How did Lavoisier die?",
+      "question": "Which system did Lavoisier help construct?",
       "options": [
-        "He was guillotined",
-        "He died of illness",
-        "He was executed by firing squad",
-        "He died in prison"
+        "Metric system",
+        "Imperial system",
+        "Binary system",
+        "Solar system"
       ],
       "answer_explanations": [
-        "Correct. The article states he was guillotined during the French Revolution despite appeals to spare his life.",
-        "Incorrect. The article says he was guillotined, not that he died of illness.",
-        "Incorrect. The article says he was guillotined, not executed by firing squad.",
-        "Incorrect. The article says he was guillotined, not that he died in prison."
+        "Correct. The article states 'Lavoisier helped construct the metric system'.",
+        "Incorrect. The article mentions the metric system, not the imperial system.",
+        "Incorrect. The article mentions the metric system, not the binary system.",
+        "Incorrect. The article mentions the metric system, not the solar system."
       ]
     },
     {
       "id": 9,
-      "question": "What did Lavoisier help construct?",
+      "question": "Who was Lavoisier's wife and laboratory assistant?",
       "options": [
-        "The metric system",
-        "The periodic table",
-        "The steam engine",
-        "The telescope"
+        "Marie-Anne Paulze Lavoisier",
+        "Marie Curie",
+        "Ãmilie du ChÃ¢telet",
+        "Sophie Germain"
       ],
       "answer_explanations": [
-        "Correct. The article states he helped construct the metric system.",
-        "Incorrect. The article says he wrote the first extensive list of elements, not that he constructed the periodic table.",
-        "Incorrect. The article does not mention the steam engine.",
-        "Incorrect. The article does not mention the telescope."
+        "Correct. The article names 'Marie-Anne Paulze Lavoisier' as his wife and laboratory assistant.",
+        "Incorrect. The article names Marie-Anne Paulze Lavoisier, not Marie Curie.",
+        "Incorrect. The article names Marie-Anne Paulze Lavoisier, not Ãmilie du ChÃ¢telet.",
+        "Incorrect. The article names Marie-Anne Paulze Lavoisier, not Sophie Germain."
       ]
     },
     {
       "id": 10,
-      "question": "What did Lavoisier recognize hydrogen as in 1783?",
+      "question": "How was Lavoisier executed during the French Revolution?",
       "options": [
-        "An element",
-        "A compound",
-        "A mixture",
-        "An alloy"
+        "By guillotine",
+        "By firing squad",
+        "By hanging",
+        "By poisoning"
       ],
       "answer_explanations": [
-        "Correct. The article states he recognized hydrogen as an element in 1783.",
-        "Incorrect. The article says he recognized hydrogen as an element, not a compound.",
-        "Incorrect. The article says he recognized hydrogen as an element, not a mixture.",
-        "Incorrect. The article says he recognized hydrogen as an element, not an alloy."
+        "Correct. The article states he 'was guillotined'.",
+        "Incorrect. The article specifies guillotine, not firing squad.",
+        "Incorrect. The article specifies guillotine, not hanging.",
+        "Incorrect. The article specifies guillotine, not poisoning."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What field is Alan Turing widely regarded as the father of?",
+      "question": "What was Alan Turing's full name?",
       "options": [
-        "theoretical computer science",
-        "artificial intelligence",
-        "cryptanalysis",
-        "mathematical biology"
+        "Alan Mathison Turing",
+        "Alan Charles Turing",
+        "Alan Edward Turing",
+        "Alan George Turing"
       ],
       "answer_explanations": [
-        "Correct. The article states Turing is 'widely regarded as the father of theoretical computer science.'",
-        "Incorrect. The article credits Turing with the Turing test in philosophy of artificial intelligence, but does not call him the father of that field.",
-        "Incorrect. The article notes his contributions to cryptanalysis helped the Allies, but does not call him the father of cryptanalysis.",
-        "Incorrect. The article mentions Turing contributed the Turing pattern concept to mathematical and theoretical biology, but does not call him the father of that field."
+        "Correct. The article states his full name as 'Alan Mathison Turing'.",
+        "Incorrect. The article does not give this as his full name.",
+        "Incorrect. The article does not give this as his full name.",
+        "Incorrect. The article does not give this as his full name."
       ]
     },
     {
       "id": 2,
-      "question": "Where did Turing work during World War II?",
+      "question": "When was Alan Turing born?",
       "options": [
-        "Bletchley Park",
-        "King's College, Cambridge",
-        "National Physical Laboratory",
-        "University of Manchester"
+        "23 June 1912",
+        "7 June 1954",
+        "23 June 1911",
+        "7 June 1912"
       ],
       "answer_explanations": [
-        "Correct. The article states that during World War II, Turing worked at the Government Code and Cypher School at Bletchley Park.",
-        "Incorrect. King's College, Cambridge is where Turing studied and later became a Fellow, not where he worked during the war.",
-        "Incorrect. Turing joined the National Physical Laboratory after the war.",
-        "Incorrect. Turing joined the University of Manchester's Computing Machine Laboratory in 1948, after the war."
+        "Correct. The article says he was born on '23 June 1912'.",
+        "Incorrect. 7 June 1954 is the date of his death, not his birth.",
+        "Incorrect. The article gives his birth date as 23 June 1912.",
+        "Incorrect. The article gives his birth date as 23 June 1912."
       ]
     },
     {
       "id": 3,
-      "question": "What did Turing design at the National Physical Laboratory?",
+      "question": "What was Alan Turing's nationality?",
       "options": [
-        "Automatic Computing Engine",
-        "Turing machine",
-        "Enigma machine",
-        "Manchester computer"
+        "English",
+        "Scottish",
+        "Welsh",
+        "Irish"
       ],
       "answer_explanations": [
-        "Correct. The article states that after the war, Turing joined the National Physical Laboratory, where he designed the Automatic Computing Engine.",
-        "Incorrect. The Turing machine is a model of a general-purpose computer Turing formalised earlier, not something he designed at the National Physical Laboratory.",
-        "Incorrect. The Enigma machine was a German ciphering system, not designed by Turing.",
-        "Incorrect. Manchester computers were developed at the University of Manchester, where Turing worked later."
+        "Correct. The article describes him as 'an English mathematician and logician'.",
+        "Incorrect. The article says he was English, not Scottish.",
+        "Incorrect. The article says he was English, not Welsh.",
+        "Incorrect. The article says he was English, not Irish."
       ]
     },
     {
       "id": 4,
-      "question": "In what year did Turing die?",
+      "question": "What is Alan Turing widely regarded as?",
       "options": [
-        "1954",
-        "1952",
-        "1948",
-        "1938"
+        "The father of theoretical computer science",
+        "The father of modern physics",
+        "The father of chemistry",
+        "The father of biology"
       ],
       "answer_explanations": [
-        "Correct. The article states Turing died on 7 June 1954, aged 41.",
-        "Incorrect. 1952 is when Turing was prosecuted for gross indecency, not when he died.",
-        "Incorrect. 1948 is when Turing joined the Computing Machine Laboratory at the University of Manchester.",
-        "Incorrect. 1938 is when Turing earned his doctorate from Princeton University."
+        "Correct. The article states he is 'widely regarded as the father of theoretical computer science'.",
+        "Incorrect. The article does not mention physics in this context.",
+        "Incorrect. The article does not mention chemistry in this context.",
+        "Incorrect. The article does not mention biology in this context."
       ]
     },
     {
       "id": 5,
-      "question": "What was the cause of Turing's death as ruled by the inquest?",
+      "question": "What model of a general-purpose computer did Turing formalise?",
       "options": [
-        "suicide",
-        "cyanide poisoning",
-        "accident",
-        "natural causes"
+        "The Turing machine",
+        "The Enigma machine",
+        "The Bomba",
+        "The Manchester computer"
       ],
       "answer_explanations": [
-        "Correct. The article states the inquest ruled his death a suicide.",
-        "Incorrect. Cyanide poisoning was the mechanism of death, but the inquest's ruling was suicide.",
-        "Incorrect. The article does not state the inquest ruled the death an accident.",
-        "Incorrect. The article does not state the inquest ruled the death from natural causes."
+        "Correct. The article says he formalised the concepts with 'the Turing machine, a model of a general-purpose computer'.",
+        "Incorrect. The Enigma machine was a German encryption device, not a model of a general-purpose computer.",
+        "Incorrect. The Bomba was a Polish codebreaking method, not a model of a general-purpose computer.",
+        "Incorrect. The Manchester computers were early computers, not a model of a general-purpose computer."
       ]
     },
     {
       "id": 6,
-      "question": "Where was Alan Turing born?",
+      "question": "What did Turing's contributions to cryptanalysis help the Allies decipher?",
       "options": [
-        "Maida Vale, London",
-        "Hastings",
-        "Guildford",
-        "Princeton"
+        "Messages encrypted by the German Enigma machine",
+        "Messages encrypted by the Japanese Purple machine",
+        "Messages encrypted by the Italian Hagelin machine",
+        "Messages encrypted by the Soviet Fish machine"
       ],
       "answer_explanations": [
-        "Correct. The article states Turing was born in Maida Vale, London, on 23 June 1912.",
-        "Incorrect. Hastings is where Turing stayed during his childhood while his parents travelled, not where he was born.",
-        "Incorrect. Guildford is where his parents purchased a house in 1927, not where Turing was born.",
-        "Incorrect. Princeton is where Turing earned his doctorate, not where he was born."
+        "Correct. The article says his contributions helped 'decipher messages encrypted by the German Enigma machine'.",
+        "Incorrect. The article specifically mentions the German Enigma machine.",
+        "Incorrect. The article specifically mentions the German Enigma machine.",
+        "Incorrect. The article specifically mentions the German Enigma machine."
       ]
     },
     {
       "id": 7,
-      "question": "What did Turing receive in 2013?",
+      "question": "Where was Turing born?",
       "options": [
-        "a royal pardon",
-        "an official apology",
-        "the Alan Turing law",
-        "a blue plaque"
+        "London",
+        "Manchester",
+        "Cambridge",
+        "Princeton"
       ],
       "answer_explanations": [
-        "Correct. The article states Queen Elizabeth II granted Turing a pardon in 2013.",
-        "Incorrect. The official apology from Prime Minister Gordon Brown came in 2009, not 2013.",
-        "Incorrect. The Alan Turing law refers to part of a 2017 UK law, not something Turing received in 2013.",
-        "Incorrect. Blue plaques were unveiled at locations associated with Turing, but the article does not say he received one in 2013."
+        "Correct. The article says he was 'Born in London'.",
+        "Incorrect. Manchester is where he later worked, not his birthplace.",
+        "Incorrect. Cambridge is where he studied, not his birthplace.",
+        "Incorrect. Princeton is where he earned a doctorate, not his birthplace."
       ]
     },
     {
       "id": 8,
-      "question": "What school did Turing attend from age 13?",
+      "question": "From which university did Turing earn a doctorate in 1938?",
       "options": [
-        "Sherborne School",
-        "St Michael's",
-        "Hazelhurst Preparatory School",
-        "King's College, Cambridge"
+        "Princeton University",
+        "King's College, Cambridge",
+        "University of Manchester",
+        "University of London"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1926, at the age of 13, Turing went on to Sherborne School.",
-        "Incorrect. St Michael's was a primary school Turing attended from age six to nine.",
-        "Incorrect. Hazelhurst Preparatory School was where Turing was educated between January 1922 and 1926, before age 13.",
-        "Incorrect. King's College, Cambridge is where Turing studied as an undergraduate, not a school he attended at age 13."
+        "Correct. The article says he 'earned a doctorate from Princeton University in 1938'.",
+        "Incorrect. King's College, Cambridge is where he graduated, not where he earned his doctorate.",
+        "Incorrect. The article does not mention a doctorate from Manchester.",
+        "Incorrect. The article does not mention a doctorate from London."
       ]
     },
     {
       "id": 9,
-      "question": "What happened to Turing in 1952?",
+      "question": "During World War II, where did Turing work?",
       "options": [
-        "He was prosecuted for gross indecency",
-        "He joined the University of Manchester",
-        "He earned his doctorate",
-        "He received a royal pardon"
+        "Government Code and Cypher School at Bletchley Park",
+        "National Physical Laboratory",
+        "Computing Machine Laboratory",
+        "Princeton University"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1952, after acknowledging a sexual relationship with another man, Turing was prosecuted for gross indecency.",
-        "Incorrect. Turing joined the University of Manchester's Computing Machine Laboratory in 1948.",
-        "Incorrect. Turing earned his doctorate from Princeton University in 1938.",
-        "Incorrect. Queen Elizabeth II granted Turing a pardon in 2013."
+        "Correct. The article says he worked at 'the Government Code and Cypher School at Bletchley Park'.",
+        "Incorrect. He joined the National Physical Laboratory after the war, not during it.",
+        "Incorrect. He joined the Computing Machine Laboratory in 1948, after the war.",
+        "Incorrect. He was at Princeton before the war, not during it."
       ]
     },
     {
       "id": 10,
-      "question": "Who officially apologised for the way Turing was treated?",
+      "question": "What was the name of the intelligence that resulted from Turing's codebreaking work?",
       "options": [
-        "British prime minister Gordon Brown",
-        "Queen Elizabeth II",
-        "Max Newman",
-        "Christopher Morcom"
+        "Ultra",
+        "Enigma",
+        "Bomba",
+        "Hut 8"
       ],
       "answer_explanations": [
-        "Correct. The article states that following a 2009 campaign, British prime minister Gordon Brown officially apologised for the 'appalling way [Turing] was treated'.",
-        "Incorrect. Queen Elizabeth II granted Turing a pardon in 2013, but did not issue the apology.",
-        "Incorrect. Max Newman was associated with the Computing Machine Laboratory at the University of Manchester.",
-        "Incorrect. Christopher Morcom was Turing's friend at Sherborne who died in 1930."
+        "Correct. The article says 'The resulting intelligence, known as Ultra'.",
+        "Incorrect. Enigma is the name of the German cipher machine, not the intelligence.",
+        "Incorrect. Bomba is the Polish method, not the intelligence.",
+        "Incorrect. Hut 8 is the section Turing headed, not the intelligence."
       ]
     }
   ]

@@ -7,160 +7,160 @@
       "id": 1,
       "question": "What is logic the study of?",
       "options": [
-        "correct reasoning",
-        "mathematical proofs",
-        "natural language only",
-        "computer programming"
+        "Correct reasoning",
+        "Natural language",
+        "Mathematical equations",
+        "Historical events"
       ],
       "answer_explanations": [
         "Correct. The article states that 'Logic is the study of correct reasoning.'",
-        "Incorrect. Mathematical proofs are not identified as the subject of logic in the article.",
-        "Incorrect. Logic includes both formal and informal logic, not natural language only.",
-        "Incorrect. Computer programming is not identified as the subject of logic in the article."
+        "Incorrect. Natural language is mentioned as a medium for informal logic, but it is not what logic is the study of.",
+        "Incorrect. Mathematical equations are not mentioned as the subject of logic.",
+        "Incorrect. Historical events are not the subject of logic."
       ]
     },
     {
       "id": 2,
-      "question": "What does formal logic examine?",
+      "question": "What are the two main branches of logic mentioned in the introduction?",
       "options": [
-        "how conclusions follow from premises based on the structure of arguments alone",
-        "only arguments expressed in natural language",
-        "only informal fallacies",
-        "only psychological judgments"
+        "Formal and informal logic",
+        "Inductive and abductive logic",
+        "Classical and deviant logic",
+        "Propositional and first-order logic"
       ],
       "answer_explanations": [
-        "Correct. The article states that formal logic 'examines how conclusions follow from premises based on the structure of arguments alone, independent of their topic and content.'",
-        "Incorrect. Formal logic uses formal language, whereas informal logic examines arguments expressed in natural language.",
-        "Incorrect. Informal fallacies are associated with informal logic, not formal logic.",
-        "Incorrect. Psychological judgments relate to psychologism, not formal logic."
+        "Correct. The article says logic 'includes both formal and informal logic.'",
+        "Incorrect. Inductive and abductive are types of ampliative arguments, not the main branches of logic.",
+        "Incorrect. Classical and deviant logic are mentioned later in the article, not in the introduction.",
+        "Incorrect. Propositional and first-order logic are mentioned later, not as the main branches in the introduction."
       ]
     },
     {
       "id": 3,
-      "question": "What is informal logic associated with?",
+      "question": "What does formal logic study?",
       "options": [
-        "informal fallacies, critical thinking, and argumentation theory",
-        "deductively valid inferences only",
-        "formal languages only",
-        "mathematical symbols only"
+        "Deductively valid inferences or logical truths",
+        "Informal fallacies",
+        "Critical thinking",
+        "Argumentation theory"
       ],
       "answer_explanations": [
-        "Correct. The article states that informal logic is associated with informal fallacies, critical thinking, and argumentation theory.",
-        "Incorrect. Deductively valid inferences are the concern of formal logic.",
-        "Incorrect. Formal languages are used by formal logic, not informal logic.",
-        "Incorrect. Mathematical symbols are associated with formal logic, not informal logic."
+        "Correct. The article states that 'Formal logic is the study of deductively valid inferences or logical truths.'",
+        "Incorrect. Informal fallacies are associated with informal logic, not formal logic.",
+        "Incorrect. Critical thinking is associated with informal logic.",
+        "Incorrect. Argumentation theory is associated with informal logic."
       ]
     },
     {
       "id": 4,
-      "question": "What does the term 'a logic' refer to when used as a countable noun?",
+      "question": "What is informal logic associated with?",
       "options": [
-        "a specific logical formal system that articulates a proof system",
-        "a type of informal fallacy",
-        "a natural language argument",
-        "a psychological theory of reasoning"
+        "Informal fallacies, critical thinking, and argumentation theory",
+        "Deductively valid inferences",
+        "Logical truths",
+        "Formal language"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'a logic' refers to 'a specific logical formal system that articulates a proof system.'",
-        "Incorrect. Informal fallacies are associated with informal logic, not the countable noun 'a logic.'",
-        "Incorrect. Natural language arguments are examined by informal logic, not defined as 'a logic.'",
-        "Incorrect. Psychological theories relate to psychologism, not the countable noun 'a logic.'"
+        "Correct. The article says 'Informal logic is associated with informal fallacies, critical thinking, and argumentation theory.'",
+        "Incorrect. Deductively valid inferences are part of formal logic.",
+        "Incorrect. Logical truths are part of formal logic.",
+        "Incorrect. Formal language is used in formal logic, not informal logic."
       ]
     },
     {
       "id": 5,
-      "question": "What do premises and conclusions express?",
+      "question": "What type of language does formal logic use?",
       "options": [
-        "propositions or claims that can be true or false",
-        "only false statements",
-        "only true statements",
-        "mathematical equations"
+        "Formal language",
+        "Natural language",
+        "Informal language",
+        "Spoken language"
       ],
       "answer_explanations": [
-        "Correct. The article states that premises and conclusions express 'propositions or claims that can be true or false.'",
-        "Incorrect. Propositions can be either true or false, not only false.",
-        "Incorrect. Propositions can be either true or false, not only true.",
-        "Incorrect. Mathematical equations are not identified as what premises and conclusions express."
+        "Correct. The article states 'formal logic uses formal language.'",
+        "Incorrect. Natural language is used by informal logic, not formal logic.",
+        "Incorrect. Informal language is not mentioned; the contrast is between natural and formal language.",
+        "Incorrect. Spoken language is not mentioned in this context."
       ]
     },
     {
       "id": 6,
-      "question": "What is the strongest form of support in deductive arguments?",
+      "question": "When the term 'a logic' is used as a countable noun, what does it refer to?",
       "options": [
-        "if their premises are true then their conclusion must also be true",
-        "if their premises are false then their conclusion must also be false",
-        "if their conclusion is true then their premises must also be true",
-        "if their conclusion is probable then their premises must be true"
+        "A specific logical formal system",
+        "A type of informal fallacy",
+        "A natural language",
+        "A critical thinking skill"
       ],
       "answer_explanations": [
-        "Correct. The article states that deductive arguments have the strongest form of support: 'if their premises are true then their conclusion must also be true.'",
-        "Incorrect. The article does not state that false premises require a false conclusion.",
-        "Incorrect. The article states the relationship goes from premises to conclusion, not the reverse.",
-        "Incorrect. Probable conclusions relate to ampliative arguments, not deductive arguments."
+        "Correct. The article says 'the term \"a logic\" refers to a specific logical formal system.'",
+        "Incorrect. Informal fallacies are not what 'a logic' refers to.",
+        "Incorrect. Natural language is not what 'a logic' refers to.",
+        "Incorrect. Critical thinking is not what 'a logic' refers to."
       ]
     },
     {
       "id": 7,
-      "question": "What are inductive arguments?",
+      "question": "Which fields does logic play a central role in, according to the introduction?",
       "options": [
-        "statistical generalizations",
-        "inferences to the best explanation",
-        "deductively valid inferences",
-        "logical truths"
+        "Philosophy, mathematics, computer science, and linguistics",
+        "History, art, music, and literature",
+        "Biology, chemistry, physics, and astronomy",
+        "Economics, politics, sociology, and psychology"
       ],
       "answer_explanations": [
-        "Correct. The article states that inductive arguments are statistical generalizations, such as inferring that all ravens are black based on observations of black ravens.",
-        "Incorrect. Inferences to the best explanation are abductive arguments, not inductive arguments.",
-        "Incorrect. Deductively valid inferences are examined by formal logic, not defined as inductive arguments.",
-        "Incorrect. Logical truths are propositions true because of their logical structure, not inductive arguments."
+        "Correct. The article lists 'philosophy, mathematics, computer science, and linguistics' as fields where logic plays a central role.",
+        "Incorrect. These fields are not mentioned in the introduction.",
+        "Incorrect. These fields are not mentioned in the introduction.",
+        "Incorrect. These fields are not mentioned in the introduction."
       ]
     },
     {
       "id": 8,
-      "question": "What are abductive arguments?",
+      "question": "What do arguments consist of?",
       "options": [
-        "inferences to the best explanation",
-        "statistical generalizations",
-        "deductively valid inferences",
-        "logical truths"
+        "A set of premises that leads to a conclusion",
+        "A set of conclusions that leads to premises",
+        "A single proposition",
+        "A formal language"
       ],
       "answer_explanations": [
-        "Correct. The article states that abductive arguments are inferences to the best explanation, such as a doctor concluding a patient has a disease that explains the symptoms.",
-        "Incorrect. Statistical generalizations are inductive arguments, not abductive arguments.",
-        "Incorrect. Deductively valid inferences are examined by formal logic, not defined as abductive arguments.",
-        "Incorrect. Logical truths are propositions true because of their logical structure, not abductive arguments."
+        "Correct. The article states 'arguments, which consist of a set of premises that leads to a conclusion.'",
+        "Incorrect. The structure is premises leading to a conclusion, not the reverse.",
+        "Incorrect. Arguments consist of multiple premises, not a single proposition.",
+        "Incorrect. Formal language is used in formal logic, not a definition of arguments."
       ]
     },
     {
       "id": 9,
-      "question": "What does the word 'logic' originate from?",
+      "question": "What do premises and conclusions express?",
       "options": [
-        "the Greek word logos",
-        "the Latin word logica",
-        "the French word logique",
-        "the German word Logik"
+        "Propositions or claims that can be true or false",
+        "Only true statements",
+        "Only false statements",
+        "Questions or commands"
       ],
       "answer_explanations": [
-        "Correct. The article states that the word 'logic' originates from the Greek word Î»ÏÎ³Î¿Ï (logos).",
-        "Incorrect. The article identifies the origin as Greek, not Latin.",
-        "Incorrect. The article identifies the origin as Greek, not French.",
-        "Incorrect. The article identifies the origin as Greek, not German."
+        "Correct. The article says 'Premises and conclusions express propositions or claims that can be true or false.'",
+        "Incorrect. They can be true or false, not only true.",
+        "Incorrect. They can be true or false, not only false.",
+        "Incorrect. Questions or commands are not mentioned as what premises and conclusions express."
       ]
     },
     {
       "id": 10,
-      "question": "What does formal logic use to express, analyze, and clarify arguments?",
+      "question": "What is an important feature of propositions mentioned in the introduction?",
       "options": [
-        "formal languages",
-        "natural language only",
-        "psychological judgments",
-        "informal fallacies"
+        "Their internal structure",
+        "Their length",
+        "Their language",
+        "Their origin"
       ],
       "answer_explanations": [
-        "Correct. The article states that formal logic uses formal languages to express, analyze, and clarify arguments.",
-        "Incorrect. Natural language is examined by informal logic, not used by formal logic to express arguments directly.",
-        "Incorrect. Psychological judgments relate to psychologism, not formal logic.",
-        "Incorrect. Informal fallacies are studied by informal logic, not used by formal logic."
+        "Correct. The article states 'An important feature of propositions is their internal structure.'",
+        "Incorrect. Length is not mentioned as an important feature.",
+        "Incorrect. Language is not mentioned as an important feature of propositions.",
+        "Incorrect. Origin is not mentioned as an important feature."
       ]
     }
   ]

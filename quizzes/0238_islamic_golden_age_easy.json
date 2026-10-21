@@ -5,39 +5,39 @@
   "questions": [
     {
       "id": 1,
-      "question": "During which centuries is the Islamic Golden Age dated?",
+      "question": "According to the article, when did the Islamic Golden Age begin?",
       "options": [
-        "8th century CE to the 14th century",
-        "7th century to the 13th century",
-        "9th century to the 15th century",
-        "6th century to the 12th century"
+        "During the reign of the Abbasid caliph Harun al-Rashid",
+        "During the reign of the Umayyad caliphs",
+        "After the Mongol invasions",
+        "In the 15th century"
       ],
       "answer_explanations": [
-        "Correct. The article states the Islamic Golden Age is dated from the 8th century CE to the 14th century.",
-        "Incorrect. The article does not date the period from the 7th to the 13th century.",
-        "Incorrect. The article does not date the period from the 9th to the 15th century.",
-        "Incorrect. The article does not date the period from the 6th to the 12th century."
+        "Correct. The article states that the period is understood to have begun during the reign of the Abbasid caliph Harun al-Rashid (786â809).",
+        "Incorrect. The article mentions the Umayyad CÃ³rdoba as a later center but does not say the golden age began under the Umayyads.",
+        "Incorrect. The article says the golden age ended with the Mongol invasions, not that it began after them.",
+        "Incorrect. The article says some scholars extend the end to the 15th century, but the beginning is dated to the 8th century."
       ]
     },
     {
       "id": 2,
-      "question": "During whose reign is the Islamic Golden Age understood to have begun?",
+      "question": "What was established in Baghdad during the reign of Harun al-Rashid?",
       "options": [
-        "Harun al-Rashid",
-        "al-Mansur",
-        "al-Ma'mun",
-        "Umar"
+        "The House of Wisdom",
+        "The Umayyad Mosque",
+        "The Nasrid Kingdom",
+        "The Timurid Renaissance"
       ],
       "answer_explanations": [
-        "Correct. The article states the period is understood to have begun during the reign of the Abbasid caliph Harun al-Rashid.",
-        "Incorrect. Al-Mansur is mentioned in connection with the House of Wisdom, not as the caliph under whom the golden age began.",
-        "Incorrect. Al-Ma'mun is mentioned in the context of decline, not the beginning of the golden age.",
-        "Incorrect. Umar is mentioned in connection with an alternative end date for the term, not its beginning."
+        "Correct. The article says the period began with the establishment of the House of Wisdom in Baghdad.",
+        "Incorrect. The Umayyad Mosque is not mentioned in the article.",
+        "Incorrect. The Nasrid Kingdom is mentioned as a later center, not established in Baghdad.",
+        "Incorrect. The Timurid Renaissance is mentioned as a later extension, not established in Baghdad."
       ]
     },
     {
       "id": 3,
-      "question": "In which city was the House of Wisdom established?",
+      "question": "Which city is described as one of the world's largest at the time?",
       "options": [
         "Baghdad",
         "Cairo",
@@ -45,122 +45,122 @@
         "Damascus"
       ],
       "answer_explanations": [
-        "Correct. The article states the House of Wisdom was established in Baghdad.",
-        "Incorrect. Cairo is listed as another urban center of intellectual activity, but not the location of the House of Wisdom.",
-        "Incorrect. CÃ³rdoba is listed as another urban center, but not the location of the House of Wisdom.",
-        "Incorrect. Damascus is listed as another urban center, but not the location of the House of Wisdom."
+        "Correct. The article says Baghdad was one of the world's largest cities at the time.",
+        "Incorrect. Cairo is mentioned as a city where intellectual activity flourished, but not as one of the world's largest at the time.",
+        "Incorrect. CÃ³rdoba is mentioned as a center of activity, but not as one of the world's largest at the time.",
+        "Incorrect. Damascus is mentioned as a center, but not as one of the world's largest at the time."
       ]
     },
     {
       "id": 4,
-      "question": "What event is said to have ended the Islamic Golden Age?",
+      "question": "What did the House of Wisdom attract scholars to do?",
       "options": [
-        "The Mongol invasions and the Siege of Baghdad in 1258",
-        "The death of Umar",
-        "The Crusades",
-        "The rise of the gunpowder empires"
+        "Translate the classical knowledge of the known world into Arabic",
+        "Build new cities",
+        "Lead military campaigns",
+        "Establish trade routes"
       ],
       "answer_explanations": [
-        "Correct. The article states the period is said to have ended with the collapse of the Abbasid caliphate following the Mongol invasions and the Siege of Baghdad in 1258.",
-        "Incorrect. The death of Umar is mentioned as an alternative end point for some authors, not the event said to have ended the golden age.",
-        "Incorrect. The Crusades are mentioned as contributing to weakening, but not as the event said to have ended the golden age.",
-        "Incorrect. The rise of the gunpowder empires is mentioned as a later extension by some scholars, not the event said to have ended the golden age."
+        "Correct. The article says the institution attracted scholars to translate the classical knowledge of the known world into Arabic.",
+        "Incorrect. Building new cities is not mentioned.",
+        "Incorrect. Leading military campaigns is not mentioned.",
+        "Incorrect. Establishing trade routes is not mentioned."
       ]
     },
     {
       "id": 5,
-      "question": "Which language was classical knowledge translated into during the Islamic Golden Age?",
+      "question": "Which of the following cities is mentioned as a place where intellectual and cultural activity flourished?",
       "options": [
-        "Arabic",
-        "Latin",
-        "Greek",
-        "Sanskrit"
+        "Cairo",
+        "Rome",
+        "Athens",
+        "London"
       ],
       "answer_explanations": [
-        "Correct. The article states scholars translated classical knowledge into Arabic.",
-        "Incorrect. Latin is mentioned as a language some works were later translated into, not the primary target language.",
-        "Incorrect. Greek is mentioned as a source language, not the target language.",
-        "Incorrect. Sanskrit is mentioned as a source language, not the target language."
+        "Correct. The article lists Cairo among the urban centers where intellectual and cultural activity flourished.",
+        "Incorrect. Rome is not mentioned in the article.",
+        "Incorrect. Athens is not mentioned in the article.",
+        "Incorrect. London is not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "Which religious text's injunctions place value on education and acquiring knowledge?",
+      "question": "What is the name of the capital of Al-Andalus mentioned in the article?",
       "options": [
-        "Quran",
-        "Hadith",
-        "Torah",
-        "Bible"
+        "Umayyad CÃ³rdoba",
+        "Baghdad",
+        "Kairouan",
+        "Fez"
       ],
       "answer_explanations": [
-        "Correct. The article states various Quranic injunctions place values on education and emphasize acquiring knowledge.",
-        "Incorrect. Hadiths are mentioned separately as reflecting the importance of learning, but the injunctions placing value on education are attributed to the Quran.",
-        "Incorrect. The Torah is not mentioned in the article.",
-        "Incorrect. The Bible is not mentioned in the article."
+        "Correct. The article mentions Umayyad CÃ³rdoba as the capital of Al-Andalus.",
+        "Incorrect. Baghdad is mentioned as a city but not as the capital of Al-Andalus.",
+        "Incorrect. Kairouan is mentioned as a city but not as the capital of Al-Andalus.",
+        "Incorrect. Fez is mentioned as a city but not as the capital of Al-Andalus."
       ]
     },
     {
       "id": 7,
-      "question": "From which century did the use of paper spread into Muslim regions?",
+      "question": "According to the article, when did the Islamic Golden Age end?",
       "options": [
-        "Eighth century",
-        "Seventh century",
-        "Ninth century",
-        "Tenth century"
+        "With the collapse of the Abbasid caliphate following the Mongol invasions and the Siege of Baghdad in 1258",
+        "With the death of Harun al-Rashid",
+        "With the establishment of the House of Wisdom",
+        "In the 8th century"
       ],
       "answer_explanations": [
-        "Correct. The article states the use of paper spread from China into Muslim regions in the eighth century.",
-        "Incorrect. The article does not state paper spread in the seventh century.",
-        "Incorrect. The article does not state paper spread in the ninth century.",
-        "Incorrect. The tenth century is when paper arrived in Al-Andalus, not when it first spread into Muslim regions."
+        "Correct. The article states the period is said to have ended with the collapse of the Abbasid caliphate following the Mongol invasions and the Siege of Baghdad in 1258.",
+        "Incorrect. The death of Harun al-Rashid is not mentioned as the end.",
+        "Incorrect. The establishment of the House of Wisdom marks the beginning, not the end.",
+        "Incorrect. The 8th century is when it began, not when it ended."
       ]
     },
     {
       "id": 8,
-      "question": "What were madrasas devoted principally to the study of?",
+      "question": "Which event is specifically mentioned as part of the end of the golden age?",
       "options": [
-        "Law",
-        "Medicine",
-        "Mathematics",
-        "Philosophy"
+        "The Siege of Baghdad",
+        "The founding of Cairo",
+        "The translation of classical knowledge",
+        "The rise of the gunpowder empires"
       ],
       "answer_explanations": [
-        "Correct. The article states madrasas were devoted principally to the study of law.",
-        "Incorrect. Medicine is mentioned as another subject offered, not the principal focus.",
-        "Incorrect. Mathematics is mentioned as another subject offered, not the principal focus.",
-        "Incorrect. Philosophy is mentioned as a science of the ancients, not the principal focus of madrasas."
+        "Correct. The article mentions the Siege of Baghdad in 1258 as part of the end.",
+        "Incorrect. The founding of Cairo is not mentioned.",
+        "Incorrect. The translation of classical knowledge is associated with the beginning.",
+        "Incorrect. The rise of the gunpowder empires is mentioned as a possible extension, not as the end event."
       ]
     },
     {
       "id": 9,
-      "question": "Who granted the formal attestation of educational attainment known as ijaza?",
+      "question": "Which of the following is mentioned as a later extension of the golden age?",
       "options": [
-        "A particular scholar",
-        "The institution",
-        "The caliph",
-        "The government"
+        "The Timurid Renaissance",
+        "The House of Wisdom",
+        "The Abbasid caliphate",
+        "The Mongol invasions"
       ],
       "answer_explanations": [
-        "Correct. The article states the ijaza was granted by a particular scholar rather than the institution.",
-        "Incorrect. The article explicitly states the ijaza was not granted by the institution.",
-        "Incorrect. The caliph is not mentioned as granting ijazas.",
-        "Incorrect. The government is not mentioned as granting ijazas."
+        "Correct. The article says some scholars extend the end to around 1350, thereby including the Timurid Renaissance.",
+        "Incorrect. The House of Wisdom is part of the beginning.",
+        "Incorrect. The Abbasid caliphate is the dynasty during which it began and ended.",
+        "Incorrect. The Mongol invasions are associated with the end, not an extension."
       ]
     },
     {
       "id": 10,
-      "question": "What did Muslims call disciplines inherited from pre-Islamic civilizations such as philosophy and medicine?",
+      "question": "Which kingdom's court is mentioned as remaining an important centre of scholarship, culture and literature in the 15th century?",
       "options": [
-        "Sciences of the ancients or rational sciences",
-        "Islamic religious sciences",
-        "Sciences of the caliphate",
-        "Sciences of the Quran"
+        "The Nasrid Kingdom of Granada",
+        "The Umayyad state of CÃ³rdoba",
+        "The Timurid Empire",
+        "The Abbasid Caliphate"
       ],
       "answer_explanations": [
-        "Correct. The article states Muslims called these disciplines 'sciences of the ancients' or 'rational sciences'.",
-        "Incorrect. Islamic religious sciences are distinguished from these disciplines, not the same as them.",
-        "Incorrect. 'Sciences of the caliphate' is not a term used in the article.",
-        "Incorrect. 'Sciences of the Quran' is not a term used in the article."
+        "Correct. The article says some extend the end to the 15th century, including the Nasrid Kingdom of Granada, whose court remained an important centre of scholarship, culture and literature.",
+        "Incorrect. The Umayyad state of CÃ³rdoba is mentioned as a center but not in the context of the 15th century.",
+        "Incorrect. The Timurid Empire is not mentioned as a kingdom in this context.",
+        "Incorrect. The Abbasid Caliphate had already collapsed by then."
       ]
     }
   ]

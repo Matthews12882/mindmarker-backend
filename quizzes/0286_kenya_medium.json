@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the origin of the name 'Kenya'?",
+      "question": "What is the capital and largest city of Kenya?",
       "options": [
-        "It is named after Mount Kenya, with the name derived from a Kikuyu phrase meaning 'mountain with brightness'.",
-        "It is named after the first European explorer to reach the region, Johann Ludwig Krapf.",
-        "It is derived from the Swahili word for 'coastline'.",
-        "It comes from the name of a Portuguese settlement established in the 16th century."
+        "Nairobi",
+        "Mombasa",
+        "Kisumu",
+        "Eldoret"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Republic of Kenya is named after Mount Kenya' and that the Agikuyu call it 'KÄ©rÄ©ma KÄ©rÄ©nyaga (literally \"the mountain with brightness\")'.",
-        "Incorrect. The article mentions Johann Ludwig Krapf recorded the name, but the country is not named after him.",
-        "Incorrect. The article does not state that 'Kenya' is derived from a Swahili word for 'coastline'.",
-        "Incorrect. The article does not state that the name comes from a Portuguese settlement."
+        "Correct. The article states 'Kenya's capital and largest city is Nairobi.'",
+        "Incorrect. Mombasa is described as the second-largest and oldest city, not the capital.",
+        "Incorrect. Kisumu is listed among other major cities, but not as the capital.",
+        "Incorrect. Eldoret is listed among other major cities, but not as the capital."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following best describes the sequence of early migrations into Kenya according to the article?",
+      "question": "Which ocean borders Kenya to the southeast?",
       "options": [
-        "Cushitic speakers settled first, followed by Nilotic pastoralists, and then Bantu farmers.",
-        "Bantu farmers arrived first, followed by Cushitic speakers, and then Nilotic pastoralists.",
-        "Nilotic pastoralists were the first inhabitants, followed by Bantu farmers, and then Cushitic speakers.",
-        "All three groups arrived simultaneously around 500 BC."
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states Cushitic speakers settled between 3,200 and 1,300 BC, Nilotic speakers began migrating around 500 BC, and Bantu people settled between 250 BC and 500 AD.",
-        "Incorrect. The article indicates Cushitic speakers arrived before Bantu farmers.",
-        "Incorrect. The article indicates Cushitic speakers arrived before Nilotic pastoralists.",
-        "Incorrect. The article provides different time frames for each group's arrival, not simultaneous."
+        "Correct. The article mentions the Indian Ocean to the southeast of Kenya.",
+        "Incorrect. The Atlantic Ocean is not mentioned as a border of Kenya.",
+        "Incorrect. The Pacific Ocean is not mentioned as a border of Kenya.",
+        "Incorrect. The Arctic Ocean is not mentioned as a border of Kenya."
       ]
     },
     {
       "id": 3,
-      "question": "What was the political status of Kenya immediately before it became the Colony of Kenya in 1920?",
+      "question": "According to the article, what is Kenya's largest economic sector?",
       "options": [
-        "It was the East Africa Protectorate, established by the British Empire in 1895.",
-        "It was an independent sultanate known as the Kilwa Sultanate.",
-        "It was a Portuguese colony called Portuguese East Africa.",
-        "It was a protectorate of the German Empire."
+        "Agriculture",
+        "Tourism",
+        "Manufacturing",
+        "Mining"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Modern-day Kenya emerged from a protectorate, established by the British Empire in 1895' and that the official name was changed to the Colony of Kenya in 1920.",
-        "Incorrect. The Kilwa Sultanate was a medieval entity, not the immediate predecessor of the Colony of Kenya.",
-        "Incorrect. The article does not state Kenya was a Portuguese colony immediately before 1920.",
-        "Incorrect. The article does not state Kenya was a German protectorate."
+        "Correct. The article states 'Agriculture is the country's largest economic sector'.",
+        "Incorrect. Tourism is part of the service industry, which is a major driver but not the largest sector.",
+        "Incorrect. Manufacturing is not mentioned as the largest sector.",
+        "Incorrect. Mining is not mentioned as the largest sector."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what is the significance of the Turkana Boy fossil discovered in 1984?",
+      "question": "Which mountain is Kenya named after?",
       "options": [
-        "It is a 1.6-million-year-old Homo erectus fossil found by Richard Leakey and Kamoya Kimeu.",
-        "It is the oldest known Homo sapiens fossil ever discovered.",
-        "It is a fossil that proved the existence of long-distance trade networks 320,000 years ago.",
-        "It is a 2.5-million-year-old Homo habilis fossil found at Koobi Fora."
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Mount Everest",
+        "Mount Fuji"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Richard Leakey, assisted by Kamoya Kimeu, discovered the Turkana Boy, a 1.6-million-year-old Homo erectus fossil'.",
-        "Incorrect. The article identifies Turkana Boy as Homo erectus, not Homo sapiens.",
-        "Incorrect. The article mentions evidence of long-distance trade networks from 2018 studies, not from the Turkana Boy fossil.",
-        "Incorrect. The article mentions Homo habilis lived 1.8 to 2.5 million years ago, but Turkana Boy is a Homo erectus fossil dated to 1.6 million years."
+        "Correct. The article says 'The Republic of Kenya is named after Mount Kenya.'",
+        "Incorrect. Mount Kilimanjaro is not mentioned as the source of the name.",
+        "Incorrect. Mount Everest is not mentioned in the article.",
+        "Incorrect. Mount Fuji is not mentioned in the article."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following correctly describes the Swahili city-states on the Kenyan coast?",
+      "question": "Who recorded the name 'Kenia' and 'Kegnia' in the 19th century?",
       "options": [
-        "They were an indigenous development with a Bantu cultural core, influenced by foreign trade.",
-        "They were exclusively established by Arab and Persian traders with no local Bantu foundation.",
-        "They were founded by Portuguese explorers in the 15th century.",
-        "They were primarily inland settlements that later moved to the coast."
+        "Johann Ludwig Krapf",
+        "Vasco da Gama",
+        "Richard Leakey",
+        "Zheng He"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'archaeological evidence has led scholars to recognise the city-states as an indigenous development which, though subjected to foreign influence due to trade, retained a Bantu cultural core'.",
-        "Incorrect. The article explicitly refutes the idea that they were established solely by Arab or Persian traders.",
-        "Incorrect. The article indicates the city-states existed before the Portuguese arrival.",
-        "Incorrect. The article describes them as coastal communities, not inland settlements that moved."
+        "Correct. The article states 'Ludwig Krapf recorded the name as both Kenia and Kegnia.'",
+        "Incorrect. Vasco da Gama was a Portuguese explorer, not the one who recorded the name.",
+        "Incorrect. Richard Leakey was a palaeoanthropologist who discovered the Turkana Boy.",
+        "Incorrect. Zheng He was a Chinese explorer who visited the East African coast."
       ]
     },
     {
       "id": 6,
-      "question": "Based on the article, what was the role of Malindi in the 15th century?",
+      "question": "In which year did Kenya declare its independence?",
       "options": [
-        "It was a friendly port city that welcomed foreign powers like the Chinese explorer Zheng He and the Portuguese explorer Vasco da Gama.",
-        "It was the capital of the British East Africa Protectorate.",
-        "It was the centre of the Kilwa Sultanate's authority in Kenya.",
-        "It was the site of the earliest Homo erectus fossil discovery."
+        "1963",
+        "1952",
+        "1920",
+        "1895"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Malindi has traditionally been a friendly port city for foreign powers' and mentions visits by Zheng He in 1414 and Vasco da Gama in 1498.",
-        "Incorrect. The article states Mombasa was the capital of the British East Africa Protectorate, not Malindi.",
-        "Incorrect. The article states the Kilwa Sultanate's authority stretched over the Swahili Coast, but does not say Malindi was its centre.",
-        "Incorrect. The article does not associate Malindi with fossil discoveries."
+        "Correct. The article mentions 'the declaration of Kenya's independence in 1963.'",
+        "Incorrect. 1952 is the year the Mau Mau revolution began.",
+        "Incorrect. 1920 is when the Kenya Colony began.",
+        "Incorrect. 1895 is when the East Africa Protectorate was established."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article indicate about the economic status of modern Kenya?",
+      "question": "What type of government does Kenya have?",
       "options": [
-        "It is a lower-middle-income economy with agriculture as its largest sector, and Nairobi is a major regional commercial hub.",
-        "It is a high-income economy primarily driven by oil exports.",
-        "It is a low-income economy with no significant agricultural exports.",
-        "It is a middle-income economy where the service industry is the only major driver."
+        "Presidential representative democratic republic",
+        "Constitutional monarchy",
+        "Absolute monarchy",
+        "One-party state"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'With a per-capita Gross National Income of $2,110, the country is a lower-middle-income economy. Agriculture is the country's largest economic sector' and 'Nairobi serving as a major regional commercial hub'.",
-        "Incorrect. The article does not mention oil exports or a high-income status.",
-        "Incorrect. The article mentions significant agricultural exports like tea, coffee, and fresh flowers.",
-        "Incorrect. The article states agriculture is the largest sector, and tourism is a major driver but not the only one."
+        "Correct. The article states Kenya is a 'presidential representative democratic republic'.",
+        "Incorrect. Kenya is not described as a monarchy.",
+        "Incorrect. Kenya is not described as an absolute monarchy.",
+        "Incorrect. Kenya is not described as a one-party state."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is NOT mentioned in the article as a border of Kenya?",
+      "question": "Which of these is a traditional cash crop in Kenya's agricultural sector?",
       "options": [
-        "The Atlantic Ocean to the west.",
-        "South Sudan to the northwest.",
-        "Ethiopia to the north.",
-        "Tanzania to the southwest."
+        "Tea",
+        "Wheat",
+        "Rice",
+        "Cotton"
       ],
       "answer_explanations": [
-        "Correct. The article lists borders including the Indian Ocean to the southeast, but does not mention the Atlantic Ocean.",
-        "Incorrect. The article states Kenya is 'bordered by South Sudan to the northwest'.",
-        "Incorrect. The article states Kenya is bordered by 'Ethiopia to the north'.",
-        "Incorrect. The article states Kenya is bordered by 'Tanzania to the southwest'."
+        "Correct. The article mentions 'tea and coffee are the sector's traditional cash crops'.",
+        "Incorrect. Wheat is not mentioned as a traditional cash crop.",
+        "Incorrect. Rice is not mentioned as a traditional cash crop.",
+        "Incorrect. Cotton is not mentioned as a traditional cash crop."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article suggest about the earliest written sources from the Kenyan coast?",
+      "question": "Which country is Kenya bordered by to the north?",
       "options": [
-        "They date to the 14th century and are in Arabic but contain Swahili loanwords.",
-        "They were written by Portuguese explorers in the 16th century.",
-        "They were written in Swahili using a script derived from Chinese characters.",
-        "They date to the 1st century CE and are in Greek."
+        "Ethiopia",
+        "Tanzania",
+        "Uganda",
+        "Somalia"
       ],
       "answer_explanations": [
-        "Correct. The article mentions a dedicatory inscription in Lamu dating to 1370 or 1371 AD and states 'These pre-colonial sources are in Arabic but contain Swahili loanwords'.",
-        "Incorrect. The article states the earliest native written sources predate the Portuguese presence.",
-        "Incorrect. The article does not mention Chinese characters being used for Swahili.",
-        "Incorrect. The article does not mention Greek sources from the 1st century CE."
+        "Correct. The article states Kenya is bordered by 'Ethiopia to the north'.",
+        "Incorrect. Tanzania is to the southwest.",
+        "Incorrect. Uganda is to the west.",
+        "Incorrect. Somalia is to the east."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what was a key characteristic of the Bantu migration into Kenya?",
+      "question": "What is the name of the 1.6-million-year-old Homo erectus fossil discovered in 1984?",
       "options": [
-        "It brought new developments in agriculture and ironworking to the region.",
-        "It introduced the first hunter-gatherer groups to the area.",
-        "It led to the establishment of the Kilwa Sultanate.",
-        "It occurred exclusively along the northern border with Ethiopia."
+        "Turkana Boy",
+        "Lucy",
+        "Homo habilis",
+        "Kenyanthropus"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Bantu migration brought new developments in agriculture and ironworking to the region'.",
-        "Incorrect. The article states the first inhabitants were hunter-gatherers, who were present before the Bantu migration.",
-        "Incorrect. The article states the Kilwa Sultanate was a medieval sultanate, not directly established by the Bantu migration.",
-        "Incorrect. The article states Bantu farmers initially moved along the Kenyan coast, not exclusively along the northern border."
+        "Correct. The article says 'Richard Leakey... discovered the Turkana Boy, a 1.6-million-year-old Homo erectus fossil.'",
+        "Incorrect. Lucy is a famous fossil but not the one described here.",
+        "Incorrect. Homo habilis is a species, not the specific fossil name.",
+        "Incorrect. Kenyanthropus is not mentioned in the article."
       ]
     }
   ]

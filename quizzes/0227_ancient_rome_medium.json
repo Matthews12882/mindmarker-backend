@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which three political periods does the article say ancient Rome encompassed?",
+      "question": "What is the traditional date for the founding of Rome?",
       "options": [
-        "The Roman Kingdom, the Roman Republic, and the Roman Empire",
-        "The Roman Kingdom, the Roman Republic, and the Byzantine Empire",
-        "The Roman Republic, the Roman Empire, and the Holy Roman Empire",
-        "The Roman Kingdom, the Roman Empire, and the Carolingian Empire"
+        "753 BC",
+        "509 BC",
+        "27 BC",
+        "476 AD"
       ],
       "answer_explanations": [
-        "Correct. The article states that ancient Rome encompasses the Roman Kingdom (753â509 BC), the Roman Republic (509â27 BC), and the Roman Empire (27 BC â 476 AD).",
-        "Incorrect. The Byzantine Empire is not one of the three periods listed in the article.",
-        "Incorrect. The Holy Roman Empire is not mentioned as part of ancient Rome in the article.",
-        "Incorrect. The Carolingian Empire is not mentioned as part of ancient Rome in the article."
+        "Correct. The article states that ancient Rome began as an Italic settlement, traditionally dated to 753 BC.",
+        "Incorrect. 509 BC is the traditional date for the establishment of the Roman Republic, not the founding of Rome.",
+        "Incorrect. 27 BC is the start of the Roman Empire, not the founding of Rome.",
+        "Incorrect. 476 AD is the fall of the Western Roman Empire, not the founding of Rome."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, where was the traditional settlement of Rome located?",
+      "question": "Which river was Rome founded beside?",
       "options": [
-        "Beside the River Tiber in the Italian Peninsula",
-        "Beside the River Nile in North Africa",
-        "Beside the River Po in northern Italy",
-        "Beside the River Danube in central Europe"
+        "The River Tiber",
+        "The River Po",
+        "The River Nile",
+        "The River Euphrates"
       ],
       "answer_explanations": [
-        "Correct. The article describes ancient Rome as beginning as an Italic settlement beside the River Tiber in the Italian Peninsula.",
-        "Incorrect. The River Nile is not mentioned as the location of Rome's settlement.",
-        "Incorrect. The River Po is mentioned in connection with the Gauls, not with the founding of Rome.",
-        "Incorrect. The River Danube is not mentioned in connection with Rome's founding location."
+        "Correct. The article says Rome began as a settlement beside the River Tiber.",
+        "Incorrect. The Po Valley is mentioned in relation to the Gauls, not Rome's founding location.",
+        "Incorrect. The Nile is in Egypt, not Italy.",
+        "Incorrect. The Euphrates is in Mesopotamia, not Italy."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article state was the approximate size of the Roman Empire at its height in AD 117?",
+      "question": "Which of these periods is NOT part of ancient Rome?",
       "options": [
-        "Around 5 million square kilometres",
-        "Around 1 million square kilometres",
-        "Around 10 million square kilometres",
-        "Around 20 million square kilometres"
+        "The Byzantine Empire",
+        "The Roman Kingdom",
+        "The Roman Republic",
+        "The Roman Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states the empire covered around 5 million square kilometres (1.9 million square miles) in AD 117.",
-        "Incorrect. One million square kilometres is not the figure given for the empire's size.",
-        "Incorrect. Ten million square kilometres is not the figure given for the empire's size.",
-        "Incorrect. Twenty million square kilometres is not the figure given for the empire's size."
+        "Correct. The article lists the Roman Kingdom, Republic, and Empire as the periods of ancient Rome, but not the Byzantine Empire.",
+        "Incorrect. The Roman Kingdom (753â509 BC) is a period of ancient Rome.",
+        "Incorrect. The Roman Republic (509â27 BC) is a period of ancient Rome.",
+        "Incorrect. The Roman Empire (27 BCâ476 AD) is a period of ancient Rome."
       ]
     },
     {
       "id": 4,
-      "question": "What system of government did Rome create that inspired modern republics such as the United States and France?",
+      "question": "What was the estimated population of the Roman Empire at its height in AD 117?",
       "options": [
-        "Res publica",
-        "Imperium",
-        "Jus Latii",
-        "Rex sacrorum"
+        "50 to 90 million",
+        "5 to 10 million",
+        "100 to 150 million",
+        "20 to 30 million"
       ],
       "answer_explanations": [
-        "Correct. The article says Rome created a system of government called res publica, the inspiration for modern republics such as the United States and France.",
-        "Incorrect. Imperium is described as military command, not the system of government that inspired modern republics.",
-        "Incorrect. Jus Latii refers to reciprocal rights of marriage and citizenship between Latin cities.",
-        "Incorrect. Rex sacrorum was a vestigial priestly role retained after the monarchy, not the system of government described."
+        "Correct. The article states the empire had an estimated 50 to 90 million inhabitants in AD 117.",
+        "Incorrect. That figure is too low; the article gives 50 to 90 million.",
+        "Incorrect. That figure is too high; the article gives 50 to 90 million.",
+        "Incorrect. That figure is too low; the article gives 50 to 90 million."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, which two cultures did Rome assimilate as it controlled the Italian Peninsula?",
+      "question": "According to the founding myth, who founded Rome after killing his brother?",
       "options": [
-        "Greek culture of Magna Graecia and Etruscan culture",
-        "Carthaginian culture and Gallic culture",
-        "Egyptian culture and Persian culture",
-        "Macedonian culture and Seleucid culture"
+        "Romulus",
+        "Remus",
+        "Aeneas",
+        "Mars"
       ],
       "answer_explanations": [
-        "Correct. The article states that Rome assimilated the Greek culture of Magna Graecia in southern Italy and the Etruscan culture in north-central Italy.",
-        "Incorrect. Carthaginian and Gallic cultures are not described as being assimilated during Rome's control of the Italian Peninsula.",
-        "Incorrect. Egyptian and Persian cultures are not mentioned as being assimilated in this context.",
-        "Incorrect. Macedonian and Seleucid cultures are mentioned in the context of Hellenistic kingdoms, not assimilation in Italy."
+        "Correct. The article says Romulus killed Remus and became the city's sole founder.",
+        "Incorrect. Remus was killed by Romulus, so he did not found the city.",
+        "Incorrect. Aeneas is a legendary Trojan prince, not the founder in this myth.",
+        "Incorrect. Mars is the god, father of Romulus and Remus, not the founder."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article's founding myth, what happened after Romulus and Remus disputed over the city?",
+      "question": "What was the name of the last king of Rome, according to tradition?",
       "options": [
-        "Romulus killed Remus and became the city's sole founder",
-        "Remus killed Romulus and became the city's sole founder",
-        "They agreed to rule jointly as co-kings",
-        "They abandoned the site and founded separate cities"
+        "Tarquin the Proud",
+        "Romulus",
+        "Camillus",
+        "Brennus"
       ],
       "answer_explanations": [
-        "Correct. The article states that after a dispute, Romulus killed Remus and became the city's sole founder.",
-        "Incorrect. The article says Romulus killed Remus, not the other way around.",
-        "Incorrect. The article does not say they ruled jointly; it says Romulus became the sole founder.",
-        "Incorrect. The article does not say they abandoned the site or founded separate cities."
+        "Correct. The article says the last of the seven kings was Tarquin the Proud, who was deposed.",
+        "Incorrect. Romulus was the first legendary king, not the last.",
+        "Incorrect. Camillus was a Roman general, not a king.",
+        "Incorrect. Brennus was a Gallic chieftain, not a Roman king."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what event marked the establishment of the Roman Republic around 509 BC?",
+      "question": "What happened to Rome in 390 BC?",
       "options": [
-        "The deposition of Tarquin the Proud, the last of the seven kings",
-        "The defeat of Hannibal at the Battle of Zama",
-        "The sack of Rome by the Gauls under Brennus",
-        "The destruction of Carthage by Scipio Aemilianus"
+        "It was sacked by the Gauls",
+        "It was destroyed by an earthquake",
+        "It was conquered by Carthage",
+        "It was burned by a fire started by Nero"
       ],
       "answer_explanations": [
-        "Correct. The article states the Roman Republic was established c. 509 BC when the last king, Tarquin the Proud, was deposed.",
-        "Incorrect. The Battle of Zama occurred during the Second Punic War, centuries after the Republic's founding.",
-        "Incorrect. The Gallic sack of Rome occurred in 390 BC, after the Republic had already been established.",
-        "Incorrect. The destruction of Carthage occurred in the Third Punic War, long after the Republic's founding."
+        "Correct. The article says the Gauls looted and burned the city in 390 BC.",
+        "Incorrect. No earthquake is mentioned in the article.",
+        "Incorrect. Carthage was a later enemy; the Gauls attacked in 390 BC.",
+        "Incorrect. The Great Fire of Rome is not mentioned; the Gauls did it."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, which assembly voted on matters of war and peace and elected men to the most important offices?",
+      "question": "Who was the Carthaginian general who invaded Italy during the Second Punic War?",
       "options": [
-        "The comitia centuriata",
-        "The comitia tributa",
-        "The Senate",
-        "The concilium plebis"
+        "Hannibal",
+        "Scipio Aemilianus",
+        "Pyrrhus",
+        "Hiero II"
       ],
       "answer_explanations": [
-        "Correct. The article states the comitia centuriata voted on matters of war and peace and elected men to the most important offices.",
-        "Incorrect. The article says the comitia tributa elected less important offices, not the most important ones.",
-        "Incorrect. The Senate is described as an advisory council, not the assembly that voted on war and peace.",
-        "Incorrect. The concilium plebis is not mentioned in the article."
+        "Correct. The article says Hannibal invaded Italy via Hispania and the Alps.",
+        "Incorrect. Scipio Aemilianus was a Roman general who destroyed Carthage in the Third Punic War.",
+        "Incorrect. Pyrrhus was a Greek king who fought Rome earlier, not a Carthaginian.",
+        "Incorrect. Hiero II was a king of Syracuse, not a Carthaginian general."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what was one reason Rome entered the First Punic War?",
+      "question": "What was the result of the Third Punic War?",
       "options": [
-        "Syracuse and Messana were too close to the newly conquered Greek cities of Southern Italy",
-        "Carthage had invaded the Italian Peninsula directly",
-        "Rome wanted to gain control of Hispania",
-        "Carthage refused to pay war reparations from a previous conflict"
+        "Carthage was completely destroyed and its people enslaved",
+        "Carthage won and Rome paid tribute",
+        "Carthage and Rome signed a peace treaty with no changes",
+        "Carthage became a Roman ally with equal rights"
       ],
       "answer_explanations": [
-        "Correct. The article states Rome entered the war because Syracuse and Messana were too close to the newly conquered Greek cities of Southern Italy.",
-        "Incorrect. The article does not say Carthage had invaded the Italian Peninsula directly as a reason for the First Punic War.",
-        "Incorrect. Hispania is mentioned in connection with Hannibal's invasion during the Second Punic War, not the First.",
-        "Incorrect. War reparations are mentioned as a reason for the Second Punic War, not the First."
+        "Correct. The article says Scipio Aemilianus entirely destroyed the city and enslaved all the citizens.",
+        "Incorrect. Rome defeated Carthage, not the other way around.",
+        "Incorrect. The war ended with Carthage's destruction, not a simple peace treaty.",
+        "Incorrect. Carthage was destroyed and its territory became a Roman province, not an ally."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what was the outcome of the Third Punic War?",
+      "question": "What did the lex Claudia forbid senators from doing?",
       "options": [
-        "Scipio Aemilianus entirely destroyed Carthage, enslaved its citizens, and gained control of the region",
-        "Carthage defeated Rome and regained its former territories",
-        "Rome and Carthage signed a peace treaty that made Carthage a Roman ally",
-        "Hannibal led Carthage to victory in the Battle of Zama"
+        "Engaging in commerce",
+        "Holding public office",
+        "Owning land",
+        "Serving in the military"
       ],
       "answer_explanations": [
-        "Correct. The article states Scipio Aemilianus entirely destroyed Carthage, enslaved all the citizens, and gained control of the region, which became the province of Africa.",
-        "Incorrect. The article says Carthage was destroyed, not that it defeated Rome.",
-        "Incorrect. The article describes Carthage's destruction, not a peace treaty making it an ally.",
-        "Incorrect. Hannibal and the Battle of Zama are associated with the Second Punic War, not the Third."
+        "Correct. The article states the lex Claudia forbade members of the Senate from engaging in commerce.",
+        "Incorrect. Senators could hold office; the law restricted commerce.",
+        "Incorrect. Senators could own land; the law restricted commerce.",
+        "Incorrect. There is no mention of a ban on military service."
       ]
     }
   ]

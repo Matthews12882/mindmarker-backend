@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, how does statistical inference differ from classic probability theory in its direction of reasoning?",
+      "question": "Given the article's description of the relationship between probability theory and statistical inference, which statement best captures the fundamental difference in their reasoning directions?",
       "options": [
-        "Probability theory deduces sample probabilities from given population parameters, whereas statistical inference inductively infers population parameters from samples.",
-        "Probability theory inductively infers population parameters from samples, whereas statistical inference deduces sample probabilities from given population parameters.",
-        "Both probability theory and statistical inference deduce sample probabilities from given population parameters.",
-        "Both probability theory and statistical inference inductively infer population parameters from samples."
+        "Probability theory deduces sample properties from known population parameters, while statistical inference induces population parameters from sample data.",
+        "Probability theory induces population parameters from samples, while statistical inference deduces sample properties from known population parameters.",
+        "Both probability theory and statistical inference deduce from the general to the specific, but they use different mathematical tools.",
+        "Both probability theory and statistical inference induce from the specific to the general, but they apply to different types of data."
       ],
       "answer_explanations": [
-        "Correct. The article states that classic probability theory starts with given parameters of a total population to deduce probabilities that pertain to samples, while statistical inference moves in the opposite directionâinductively inferring from samples to the parameters of a larger or total population.",
-        "Incorrect. This reverses the directions described in the article; probability theory is deductive from population to sample, not inductive from sample to population.",
-        "Incorrect. The article explicitly contrasts the two approaches, stating they move in opposite directions rather than both being deductive.",
-        "Incorrect. The article explicitly contrasts the two approaches, stating they move in opposite directions rather than both being inductive."
+        "Correct. The article states that probability theory 'starts with the given parameters of a total population to deduce probabilities that pertain to samples,' whereas statistical inference 'moves in the opposite directionâinductively inferring from samples to the parameters of a larger or total population.'",
+        "Incorrect. This reverses the directions described in the article. The article explicitly contrasts probability theory's deductive approach with statistical inference's inductive approach.",
+        "Incorrect. The article does not say both use deduction; it explicitly states that statistical inference is inductive, moving from samples to population parameters.",
+        "Incorrect. The article does not say both use induction; it explicitly states that probability theory is deductive, moving from population parameters to samples."
       ]
     },
     {
       "id": 2,
-      "question": "What is the Hawthorne effect as described in the article?",
+      "question": "The Hawthorne study's conclusion that productivity improved due to observation itself rather than the lighting change implies what about the study's original research design?",
       "options": [
-        "An outcome changes due to observation itself rather than due to the experimental manipulation.",
-        "Productivity increases only when illumination levels are increased in a workplace.",
-        "A control group is necessary to detect whether lighting changes affect worker output.",
-        "Blindness in experimental procedures eliminates observer bias in human behavior studies."
+        "The design lacked a control group and blindness, so it could not distinguish the effect of the manipulation from the effect of being observed.",
+        "The design's use of a control group and blindness was flawed, leading to an overestimation of the lighting effect.",
+        "The design's randomization was inadequate, so the observed productivity improvement was likely due to chance.",
+        "The design's measurements were biased because the researchers expected productivity to increase with more illumination."
       ],
       "answer_explanations": [
-        "Correct. The article states that the Hawthorne effect refers to the finding that an outcome changed due to observation itself, noting that workers became more productive because they were being observed, not because the lighting was changed.",
-        "Incorrect. The article indicates that productivity improved regardless of illumination changes, attributing the improvement to observation rather than to increased illumination.",
-        "Incorrect. While the article notes the lack of a control group as a criticism of the Hawthorne study, it does not define the Hawthorne effect as the necessity of a control group.",
-        "Incorrect. The article mentions lack of blindness as a procedural error but does not connect blindness to the definition of the Hawthorne effect."
+        "Correct. The article notes the study is 'heavily criticized today for errors in experimental procedures, specifically for the lack of a control group and blindness.' This lack meant the observed effect could be attributed to observation itself, not the illumination change.",
+        "Incorrect. The article states the study lacked a control group and blindness, not that it had them but used them poorly.",
+        "Incorrect. The article does not mention randomization flaws in the Hawthorne study; the criticism focuses on the lack of a control group and blindness.",
+        "Incorrect. The article does not mention researcher expectation bias; it attributes the productivity change to the effect of being observed."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following best describes the distinction between descriptive and inferential statistics as presented in the article?",
+      "question": "Based on the article's taxonomy of measurement levels, what is the key implication of interval measurements having an arbitrary zero point?",
       "options": [
-        "Descriptive statistics summarize data from a sample using indexes such as mean or standard deviation, while inferential statistics draw conclusions from data subject to random variation.",
-        "Descriptive statistics draw conclusions from data subject to random variation, while inferential statistics summarize data from a sample using indexes such as mean or standard deviation.",
-        "Descriptive statistics are used only for experimental studies, while inferential statistics are used only for observational studies.",
-        "Descriptive statistics require a full census, while inferential statistics require only a sample."
+        "Ratios of interval values are not meaningful, but differences between them are.",
+        "Ratios of interval values are meaningful, but differences between them are not.",
+        "Neither ratios nor differences of interval values are meaningful.",
+        "Both ratios and differences of interval values are meaningful, but only linear transformations are permitted."
       ],
       "answer_explanations": [
-        "Correct. The article states that descriptive statistics summarize data from a sample using indexes such as the mean or standard deviation, while inferential statistics draw conclusions from data that are subject to random variation.",
-        "Incorrect. This swaps the definitions given in the article; descriptive statistics summarize data, while inferential statistics draw conclusions from data subject to random variation.",
-        "Incorrect. The article does not restrict descriptive statistics to experimental studies or inferential statistics to observational studies.",
-        "Incorrect. The article does not state that descriptive statistics require a full census; it notes that when census data cannot be collected, statisticians use samples."
+        "Correct. The article states interval measurements have 'meaningful distances between measurements defined, but the zero value is arbitrary.' With an arbitrary zero, a value of 20Â°C is not twice as hot as 10Â°C, but the difference of 10Â°C is meaningful.",
+        "Incorrect. This reverses the implication. An arbitrary zero makes ratios meaningless, not differences.",
+        "Incorrect. The article explicitly states interval measurements have 'meaningful distances between measurements defined,' so differences are meaningful.",
+        "Incorrect. The article says interval measurements 'permit any linear transformation,' but the arbitrary zero means ratios are not meaningful, only differences are."
       ]
     },
     {
       "id": 4,
-      "question": "In hypothesis testing, what does a Type I error represent?",
+      "question": "The article's description of Type I and Type II errors in null hypothesis testing implies which of the following about the relationship between rejecting a null hypothesis and its truth?",
       "options": [
-        "Rejecting the null hypothesis when it is in fact true, producing a false positive.",
-        "Failing to reject the null hypothesis when it is in fact false, producing a false negative.",
-        "Accepting the alternative hypothesis when the null hypothesis is true, producing a true negative.",
-        "Rejecting the alternative hypothesis when it is in fact false, producing a true positive."
+        "A Type I error occurs when a true null hypothesis is rejected, while a Type II error occurs when a false null hypothesis is not rejected.",
+        "A Type I error occurs when a false null hypothesis is rejected, while a Type II error occurs when a true null hypothesis is not rejected.",
+        "A Type I error occurs when a true null hypothesis is not rejected, while a Type II error occurs when a false null hypothesis is rejected.",
+        "Both Type I and Type II errors involve rejecting a null hypothesis, but they differ in whether the hypothesis is true or false."
       ],
       "answer_explanations": [
-        "Correct. The article defines Type I errors as occurring when the null hypothesis is rejected when it is in fact true, giving a false positive.",
-        "Incorrect. This describes a Type II error, not a Type I error, as defined in the article.",
-        "Incorrect. The article does not define Type I errors in terms of accepting the alternative hypothesis or producing a true negative.",
-        "Incorrect. The article does not define Type I errors in terms of rejecting the alternative hypothesis."
+        "Correct. The article defines Type I errors as 'null hypothesis is rejected when it is in fact true, giving a false positive' and Type II errors as 'null hypothesis fails to be rejected when it is in fact false, giving a false negative.'",
+        "Incorrect. This swaps the definitions. A Type I error involves rejecting a true null, not a false one, and a Type II error involves failing to reject a false null, not a true one.",
+        "Incorrect. This describes the opposite of both error types. Type I involves rejection of a true null, and Type II involves failure to reject a false null.",
+        "Incorrect. Only Type I involves rejecting a null hypothesis; Type II involves failing to reject it."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, which of the following is a defining characteristic of ratio measurements?",
+      "question": "What does the article's statement that 'the use of any statistical method is valid only if the system or population under consideration satisfies the assumptions of the method' imply about the relationship between statistical methods and the data they are applied to?",
       "options": [
-        "They have both a meaningful zero value and defined distances between different measurements.",
-        "They have meaningful distances between measurements but an arbitrary zero value.",
-        "They have a meaningful order but imprecise differences between consecutive values.",
-        "They do not have a meaningful rank order among values."
+        "The applicability of a statistical method is conditional on the data meeting the method's underlying assumptions.",
+        "Statistical methods are universally applicable to any data set, regardless of the population's characteristics.",
+        "The validity of a statistical method depends only on the sample size, not on the population's properties.",
+        "Statistical methods are valid only for data from randomized experiments, not for observational data."
       ],
       "answer_explanations": [
-        "Correct. The article states that ratio measurements have both a meaningful zero value and the distances between different measurements defined.",
-        "Incorrect. This describes interval measurements, which have meaningful distances but an arbitrary zero value, not ratio measurements.",
-        "Incorrect. This describes ordinal measurements, which have a meaningful order but imprecise differences between consecutive values.",
-        "Incorrect. This describes nominal measurements, which do not have a meaningful rank order among values."
+        "Correct. The article directly states that a statistical method's validity is conditional on the system or population satisfying the method's assumptions, implying a method-data fit is necessary.",
+        "Incorrect. This contradicts the article's explicit statement that method validity depends on the population satisfying the method's assumptions.",
+        "Incorrect. The article does not mention sample size as the sole determinant of validity; it emphasizes the population's fit with the method's assumptions.",
+        "Incorrect. The article does not restrict method validity to randomized experiments; it discusses modified methods for observational data, implying they can be valid under certain conditions."
       ]
     },
     {
       "id": 6,
-      "question": "What is the primary difference between experimental and observational studies according to the article?",
+      "question": "The article's explanation of the difference between experimental and observational studies suggests that the key distinction lies in what aspect of the research process?",
       "options": [
-        "Experimental studies involve manipulating the system, whereas observational studies do not involve experimental manipulation.",
-        "Experimental studies are used only for causality, whereas observational studies are used only for correlation.",
-        "Experimental studies require random sampling, whereas observational studies require a census.",
-        "Experimental studies analyze existing data, whereas observational studies collect new data."
+        "Whether the researcher manipulates the system under study or merely observes it.",
+        "Whether the study uses a sample or a census of the population.",
+        "Whether the study collects quantitative or qualitative data.",
+        "Whether the study is conducted in a laboratory or in a natural setting."
       ],
       "answer_explanations": [
-        "Correct. The article states that an experimental study involves taking measurements, manipulating the system, and taking additional measurements, while an observational study does not involve experimental manipulation.",
-        "Incorrect. The article does not limit experimental studies to causality or observational studies to correlation; both can investigate causal relationships.",
-        "Incorrect. The article does not state that experimental studies require random sampling or that observational studies require a census.",
-        "Incorrect. The article describes experimental studies as involving active manipulation and measurement, not merely analyzing existing data."
+        "Correct. The article states that in an experimental study, the researcher 'manipulat[es] the system' and then takes additional measurements, whereas an observational study 'does not involve experimental manipulation.' This is the core distinction.",
+        "Incorrect. The article does not tie the experimental/observational distinction to sampling; both types can use samples.",
+        "Incorrect. The article does not link the experimental/observational distinction to data type; both can involve quantitative or qualitative data.",
+        "Incorrect. The article does not mention the setting as the distinguishing factor; it focuses on manipulation versus observation."
       ]
     },
     {
       "id": 7,
-      "question": "What is the role of blocking in the design of experiments as described in the article?",
+      "question": "Given the article's description of descriptive and inferential statistics, what is the primary purpose of descriptive statistics in relation to a sample?",
       "options": [
-        "Blocking reduces the influence of confounding variables.",
-        "Blocking ensures that the null hypothesis is rejected when it is false.",
-        "Blocking converts an observational study into an experimental study.",
-        "Blocking eliminates the need for randomized assignment of treatments."
+        "To summarize and characterize the sample's central tendency and dispersion.",
+        "To draw conclusions about a population from the sample.",
+        "To test hypotheses about the relationship between two data sets.",
+        "To design experiments that minimize bias in data collection."
       ],
       "answer_explanations": [
-        "Correct. The article states that design of experiments uses blocking to reduce the influence of confounding variables.",
-        "Incorrect. Blocking is not described in the article as a mechanism for rejecting the null hypothesis.",
-        "Incorrect. Blocking is a feature of experimental design, not a method for converting observational studies into experiments.",
-        "Incorrect. The article presents blocking and randomized assignment as complementary steps, not as substitutes for one another."
+        "Correct. The article states descriptive statistics 'summarize data from a sample using indexes such as the mean or standard deviation,' and are concerned with central tendency and dispersion.",
+        "Incorrect. Drawing conclusions about a population is the role of inferential statistics, not descriptive statistics.",
+        "Incorrect. Hypothesis testing is part of the standard statistical procedure described later, not a primary purpose of descriptive statistics.",
+        "Incorrect. Designing experiments is part of data collection planning, not a purpose of descriptive statistics, which focuses on summarizing data."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what is the relationship between statistics and probability theory?",
+      "question": "The article's account of the term 'statistics' evolving from 'description of a state' to its modern meaning implies what about the field's historical development?",
       "options": [
-        "Statistics is based on probability, but the two are conceptually distinct: probability deduces from general theory to specific situations, while statistics induces statements about a population from a data set.",
-        "Statistics and probability are identical subjects with no conceptual distinction between them.",
-        "Probability induces statements about a population from a data set, while statistics deduces answers from a general theory to specific situations.",
-        "Statistics is a branch of physics that uses probability only for modeling physical phenomena."
+        "The field's scope expanded from describing political conditions to a broader discipline of data analysis and uncertainty.",
+        "The field has always been primarily concerned with mathematical theory, with political applications being a recent addition.",
+        "The field's modern meaning is unrelated to its historical origins, having completely abandoned its political roots.",
+        "The field's development was primarily driven by advances in probability theory, with little influence from practical needs."
       ],
       "answer_explanations": [
-        "Correct. The article states that statistics is based on probability but that they are conceptually distinct: probability deduces answers to specific situations from a general theory, while statistics induces statements about a population based on a data set.",
-        "Incorrect. The article explicitly states that probability and statistics are conceptually distinct from one another.",
-        "Incorrect. This reverses the roles described in the article; probability deduces from general theory, while statistics induces from data.",
-        "Incorrect. The article describes statistics as related to many subjects but does not classify it as a branch of physics."
+        "Correct. The article traces the term from 'description of a state' through political science to its modern meaning as 'mathematical statistics,' indicating an expansion of scope from political description to a general science of data.",
+        "Incorrect. The article suggests the field's origins were in political description, not mathematical theory, and that it later became a mathematical science.",
+        "Incorrect. The article shows a continuous evolution from political description to modern statistics, not a complete abandonment of its roots.",
+        "Incorrect. The article does not attribute the field's development primarily to probability theory; it notes the historical evolution from political description."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following best describes the purpose of a null hypothesis in statistical hypothesis testing?",
+      "question": "What does the article's distinction between random errors and systematic bias imply about their different impacts on statistical estimates?",
       "options": [
-        "It represents an idealized assumption of no relationship between two data sets, which is tested against an alternative hypothesis.",
-        "It represents the researcher's preferred conclusion that the data are expected to support.",
-        "It is a descriptive statistic that summarizes central tendency and dispersion.",
-        "It is a type of measurement scale with a meaningful zero value."
+        "Random errors introduce noise that may average out, while systematic bias consistently skews estimates in a particular direction.",
+        "Random errors consistently skew estimates in one direction, while systematic bias introduces noise that averages out.",
+        "Both random errors and systematic bias consistently skew estimates, but they differ in their sources.",
+        "Both random errors and systematic bias introduce noise, but they are equally easy to correct for."
       ],
       "answer_explanations": [
-        "Correct. The article describes the null hypothesis as an idealized assumption of no relationship between two data sets, with an alternative hypothesis proposed as an alternative to it.",
-        "Incorrect. The article does not describe the null hypothesis as the researcher's preferred conclusion; rather, it is the assumption of no relationship that may be rejected.",
-        "Incorrect. The null hypothesis is not a descriptive statistic; descriptive statistics summarize data using indexes such as mean or standard deviation.",
-        "Incorrect. The null hypothesis is not a measurement scale; ratio measurements are the ones with a meaningful zero value."
+        "Correct. The article classifies errors as 'random (noise) or systematic (bias).' Random noise is unpredictable and can cancel out, while systematic bias consistently pushes estimates in one direction, making it more problematic.",
+        "Incorrect. This reverses the definitions. Random errors are noise, not consistent skew, and systematic bias is a consistent skew, not noise.",
+        "Incorrect. Only systematic bias consistently skews estimates; random errors are noise that may not have a consistent direction.",
+        "Incorrect. The article implies systematic bias is a distinct problem that requires specific techniques, while random noise is a different type of error; it does not say they are equally easy to correct."
       ]
     },
     {
       "id": 10,
-      "question": "A researcher wants to estimate the average income of all adults in a city but cannot collect data from every resident. Instead, she selects a representative sample and uses it to infer the population parameter. Which statistical concept does this scenario illustrate?",
+      "question": "The article's description of the Hawthorne effect and the criticism of the study's design together imply what broader lesson about experimental research?",
       "options": [
-        "Statistical inference, which inductively infers population parameters from sample data.",
-        "Descriptive statistics, which summarize data using indexes such as the mean.",
-        "Experimental manipulation, which involves changing the system and measuring the effect.",
-        "A census, which comprises every member of the target population."
+        "Without proper controls and blinding, a study cannot reliably attribute an observed effect to the intended manipulation.",
+        "Experimental studies are inherently unreliable and should be replaced by observational studies.",
+        "The Hawthorne effect is a minor issue that can be ignored if the sample size is large enough.",
+        "The lack of a control group is acceptable if the study is conducted in a real-world setting."
       ],
       "answer_explanations": [
-        "Correct. The article states that statistical inference moves inductively from samples to the parameters of a larger or total population, which matches using a sample to estimate a population average.",
-        "Incorrect. Descriptive statistics summarize data from a sample but do not by themselves extend conclusions to the population as a whole.",
-        "Incorrect. Experimental manipulation involves actively changing the system, which is not part of this sampling scenario.",
-        "Incorrect. A census comprises every member of the target population, whereas the researcher is explicitly not collecting data from every resident."
+        "Correct. The article shows that the Hawthorne study's lack of a control group and blindness made it impossible to distinguish the lighting effect from the observation effect, illustrating the need for these design elements to draw valid causal conclusions.",
+        "Incorrect. The article does not conclude that experimental studies are unreliable; it criticizes a specific flawed design and implies that proper experimental design is important.",
+        "Incorrect. The article presents the Hawthorne effect as a significant finding that undermines the study's original conclusion, not a minor issue.",
+        "Incorrect. The article criticizes the lack of a control group, implying it is a serious flaw regardless of the setting."
       ]
     }
   ]

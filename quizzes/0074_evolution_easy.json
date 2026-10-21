@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is evolution defined as in the article?",
+      "question": "What is evolution?",
       "options": [
         "The change in the heritable characteristics of biological populations over successive generations",
-        "The change in an organism's external appearance during its lifetime",
-        "The process by which new species are created in a laboratory",
-        "The study of fossils and ancient organisms"
+        "The change in an individual organism's body during its lifetime",
+        "The process by which rocks change over time",
+        "The study of fossils only"
       ],
       "answer_explanations": [
-        "Correct. The article states that evolution is the change in the heritable characteristics of biological populations over successive generations.",
-        "Incorrect. The article notes that evolution is often understood in common parlance as a change in external appearance, but this is not the strict biological definition.",
-        "Incorrect. The article does not define evolution as new species being created in a laboratory.",
-        "Incorrect. The article does not define evolution as the study of fossils and ancient organisms."
+        "Correct. The article states: 'Evolution is the change in the heritable characteristics of biological populations over successive generations.'",
+        "Incorrect. The article defines evolution as change in populations over generations, not in an individual's lifetime.",
+        "Incorrect. Evolution is about biological populations, not rocks.",
+        "Incorrect. Evolution is not just the study of fossils; it is a biological process."
       ]
     },
     {
       "id": 2,
-      "question": "Which two British naturalists independently conceived the scientific theory of evolution by natural selection?",
+      "question": "What does mutation introduce?",
       "options": [
-        "Charles Darwin and Alfred Russel Wallace",
-        "Charles Darwin and Gregor Mendel",
-        "Alfred Russel Wallace and John Maynard Smith",
-        "Charles Darwin and Jean-Baptiste Lamarck"
+        "New genetic variation",
+        "Extinction",
+        "Fossils",
+        "Biodiversity only"
       ],
       "answer_explanations": [
-        "Correct. The article states that the theory was conceived independently by Charles Darwin and Alfred Russel Wallace.",
-        "Incorrect. Gregor Mendel is associated with Mendelian inheritance, not the conception of evolution by natural selection with Darwin.",
-        "Incorrect. John Maynard Smith is mentioned in relation to the two-fold cost of sex, not the conception of natural selection.",
-        "Incorrect. Jean-Baptiste Lamarck is not mentioned in the article as conceiving the theory with Darwin."
+        "Correct. The article says: 'Mutation introduces new genetic variation.'",
+        "Incorrect. Extinction is mentioned later, not as something mutation introduces.",
+        "Incorrect. Fossils are not introduced by mutation.",
+        "Incorrect. Biodiversity is a result of evolution, not introduced by mutation directly."
       ]
     },
     {
       "id": 3,
-      "question": "What is the name of Darwin's book in which the theory of evolution by natural selection was first set out in detail?",
+      "question": "Which of these is NOT mentioned as a process that makes genetic variants more or less common over time?",
       "options": [
-        "On the Origin of Species",
-        "The Descent of Man",
-        "The Voyage of the Beagle",
-        "The Expression of the Emotions in Man and Animals"
+        "Photosynthesis",
+        "Genetic drift",
+        "Gene flow",
+        "Natural selection"
       ],
       "answer_explanations": [
-        "Correct. The article states that the theory was first set out in detail in Darwin's book On the Origin of Species.",
-        "Incorrect. The Descent of Man is not mentioned in the article as the book where the theory was first set out in detail.",
-        "Incorrect. The Voyage of the Beagle is not mentioned in the article as the book where the theory was first set out in detail.",
-        "Incorrect. The Expression of the Emotions in Man and Animals is not mentioned in the article as the book where the theory was first set out in detail."
+        "Correct. Photosynthesis is not mentioned in the introduction as a process affecting genetic variants.",
+        "Incorrect. Genetic drift is mentioned as one such process.",
+        "Incorrect. Gene flow is mentioned as one such process.",
+        "Incorrect. Natural selection is mentioned as one such process."
       ]
     },
     {
       "id": 4,
-      "question": "Approximately how many years ago did the last universal common ancestor (LUCA) live?",
+      "question": "How is evolution often defined in terms of alleles?",
       "options": [
-        "3.5â3.8 billion years ago",
-        "1â2 billion years ago",
-        "100â200 million years ago",
-        "10â15 thousand years ago"
+        "A change in the frequency of alleles in a population",
+        "A change in the number of alleles in an individual",
+        "A change in the size of alleles",
+        "A change in the color of alleles"
       ],
       "answer_explanations": [
-        "Correct. The article states that LUCA lived approximately 3.5â3.8 billion years ago.",
-        "Incorrect. The article does not state that LUCA lived 1â2 billion years ago.",
-        "Incorrect. The article does not state that LUCA lived 100â200 million years ago.",
-        "Incorrect. The article does not state that LUCA lived 10â15 thousand years ago."
+        "Correct. The article states: 'Evolution is often defined as a change in the frequency of alleles ... in a population.'",
+        "Incorrect. It is about frequency in a population, not number in an individual.",
+        "Incorrect. The article does not mention size of alleles.",
+        "Incorrect. The article does not mention color of alleles."
       ]
     },
     {
       "id": 5,
-      "question": "What is the complete set of genes within an organism's genome called?",
+      "question": "In common parlance, what is evolution often understood to involve?",
       "options": [
-        "Genotype",
-        "Phenotype",
-        "Allele",
-        "Chromosome"
+        "A change in an organism's external appearance or behavior",
+        "A change in an organism's DNA only",
+        "A change in an organism's habitat",
+        "A change in an organism's diet"
       ],
       "answer_explanations": [
-        "Correct. The article states that the complete set of genes within an organism's genome is called its genotype.",
-        "Incorrect. The article defines phenotype as the complete set of observable traits, not the complete set of genes.",
-        "Incorrect. The article defines alleles as different forms of a DNA sequence at a locus, not the complete set of genes.",
-        "Incorrect. The article defines a chromosome as each long strand of DNA within cells, not the complete set of genes."
+        "Correct. The article says: 'In common parlance, evolution is often understood to involve a change in an organism's external appearance or behavior (phenotype).'",
+        "Incorrect. DNA change is not the common understanding mentioned.",
+        "Incorrect. Habitat change is not mentioned.",
+        "Incorrect. Diet change is not mentioned."
       ]
     },
     {
       "id": 6,
-      "question": "What is the complete set of observable traits that make up the structure and behaviour of an organism called?",
+      "question": "Can evolution occur even when the phenotype is unchanged?",
       "options": [
-        "Phenotype",
-        "Genotype",
-        "Genome",
-        "Allele"
+        "Yes, because alleles do not necessarily have a visible effect",
+        "No, evolution always changes the phenotype",
+        "Yes, but only in plants",
+        "No, evolution only occurs when phenotype changes"
       ],
       "answer_explanations": [
-        "Correct. The article states that the complete set of observable traits that make up the structure and behaviour of an organism is called its phenotype.",
-        "Incorrect. The article defines genotype as the complete set of genes within an organism's genome, not the observable traits.",
-        "Incorrect. The article defines genome as genetic material, not the complete set of observable traits.",
-        "Incorrect. The article defines alleles as different forms of a DNA sequence at a locus, not the complete set of observable traits."
+        "Correct. The article states: 'because alleles do not necessarily have a visible effect, in a strict biological sense evolution can occur even when the phenotype is unchanged.'",
+        "Incorrect. The article says the opposite.",
+        "Incorrect. The article does not limit this to plants.",
+        "Incorrect. The article says evolution can occur without phenotype change."
       ]
     },
     {
       "id": 7,
-      "question": "What are mutations described as in the article?",
+      "question": "What has the process of evolution given rise to?",
       "options": [
-        "The ultimate source of genetic variation in all organisms",
-        "Changes that always benefit an organism",
-        "Changes that only occur in bacteria",
-        "Changes that are always harmful"
+        "Biodiversity at every level of biological organisation",
+        "Only new species of animals",
+        "Only fossils",
+        "Only genetic mutations"
       ],
       "answer_explanations": [
-        "Correct. The article states that mutations are the ultimate source of genetic variation in all organisms.",
-        "Incorrect. The article states that about half of mutations in coding regions are deleterious, half are neutral, and only a small percentage confer a fitness benefit.",
-        "Incorrect. The article does not state that mutations only occur in bacteria.",
-        "Incorrect. The article states that mutations can be deleterious, neutral, or beneficial, not always harmful."
+        "Correct. The article says: 'The process of evolution has given rise to biodiversity at every level of biological organisation.'",
+        "Incorrect. It is not limited to animals.",
+        "Incorrect. Fossils are not the only result.",
+        "Incorrect. Mutations are a mechanism, not the result mentioned."
       ]
     },
     {
       "id": 8,
-      "question": "What can gene flow be caused by?",
+      "question": "Who conceived the scientific theory of evolution by natural selection?",
       "options": [
-        "The movement of individuals between separate populations",
-        "The mutation of DNA sequences within a single individual",
-        "The death of all members of a population",
-        "The duplication of chromosomes within a cell"
+        "Charles Darwin and Alfred Russel Wallace",
+        "Gregor Mendel and Charles Darwin",
+        "Alfred Russel Wallace and Gregor Mendel",
+        "Charles Darwin and Jean-Baptiste Lamarck"
       ],
       "answer_explanations": [
-        "Correct. The article states that gene flow can be caused by the movement of individuals between separate populations of organisms.",
-        "Incorrect. Mutation of DNA sequences within a single individual is not described as a cause of gene flow.",
-        "Incorrect. The death of all members of a population is not described as a cause of gene flow.",
-        "Incorrect. The duplication of chromosomes within a cell is not described as a cause of gene flow."
+        "Correct. The article says: 'The scientific theory of evolution by natural selection was conceived independently by two British naturalists, Charles Darwin and Alfred Russel Wallace.'",
+        "Incorrect. Mendel is not mentioned in this context.",
+        "Incorrect. Mendel is not mentioned in this context.",
+        "Incorrect. Lamarck is not mentioned in this context."
       ]
     },
     {
       "id": 9,
-      "question": "What is horizontal gene transfer most common among?",
+      "question": "In which book was the theory first set out in detail?",
       "options": [
-        "Bacteria",
-        "Plants",
-        "Mammals",
-        "Fungi"
+        "On the Origin of Species",
+        "The Descent of Man",
+        "Principles of Geology",
+        "The Variation of Animals and Plants Under Domestication"
       ],
       "answer_explanations": [
-        "Correct. The article states that horizontal gene transfer is most common among bacteria.",
-        "Incorrect. The article does not state that horizontal gene transfer is most common among plants.",
-        "Incorrect. The article does not state that horizontal gene transfer is most common among mammals.",
-        "Incorrect. The article does not state that horizontal gene transfer is most common among fungi."
+        "Correct. The article says: 'The theory was first set out in detail in Darwin's book On the Origin of Species.'",
+        "Incorrect. This book is not mentioned in the introduction.",
+        "Incorrect. This book is not mentioned in the introduction.",
+        "Incorrect. This book is not mentioned in the introduction."
       ]
     },
     {
       "id": 10,
-      "question": "What are some heritable changes that cannot be explained by changes to the DNA nucleotide sequence called?",
+      "question": "Which of the following is one of the observable facts about living organisms that establishes evolution by natural selection?",
       "options": [
-        "Epigenetic inheritance systems",
-        "Genetic drift",
-        "Natural selection",
-        "Gene flow"
+        "More offspring are often produced than can possibly survive",
+        "All offspring survive to adulthood",
+        "Traits are identical among individuals",
+        "Traits cannot be passed from generation to generation"
       ],
       "answer_explanations": [
-        "Correct. The article states that these phenomena are classed as epigenetic inheritance systems.",
-        "Incorrect. Genetic drift is described as a process that changes allele frequencies, not as heritable changes unexplained by DNA sequence changes.",
-        "Incorrect. Natural selection is described as a process that changes allele frequencies, not as heritable changes unexplained by DNA sequence changes.",
-        "Incorrect. Gene flow is described as the exchange of genes between populations, not as heritable changes unexplained by DNA sequence changes."
+        "Correct. The article lists as a fact: 'more offspring are often produced than can possibly survive.'",
+        "Incorrect. The article says more offspring are produced than can survive, not that all survive.",
+        "Incorrect. The article says traits vary among individuals.",
+        "Incorrect. The article says traits can be passed from generation to generation."
       ]
     }
   ]

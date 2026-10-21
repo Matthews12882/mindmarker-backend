@@ -13,154 +13,154 @@
         "NaCl"
       ],
       "answer_explanations": [
-        "Correct. The article states that water is an inorganic compound with the chemical formula H2O.",
-        "Incorrect. The article does not give CO2 as water's chemical formula.",
-        "Incorrect. The article identifies water's formula as H2O, not O2.",
-        "Incorrect. The article does not identify NaCl as water's chemical formula."
+        "Correct. The article states that water has the chemical formula H2O.",
+        "Incorrect. CO2 is carbon dioxide, not water.",
+        "Incorrect. O2 is molecular oxygen, not water.",
+        "Incorrect. NaCl is table salt, not water."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as a property of water in the article?",
+      "question": "Which of the following is NOT a characteristic of water mentioned in the introduction?",
       "options": [
-        "transparent, tasteless, odorless, and nearly colorless",
-        "colored, sweet-smelling, and opaque",
-        "magnetic, radioactive, and flammable",
-        "acidic, salty, and metallic"
+        "Salty",
+        "Transparent",
+        "Tasteless",
+        "Odorless"
       ],
       "answer_explanations": [
-        "Correct. The article describes water as transparent, tasteless, odorless, and nearly colorless.",
-        "Incorrect. The article does not describe water as colored, sweet-smelling, or opaque.",
-        "Incorrect. The article does not describe water as magnetic, radioactive, or flammable.",
-        "Incorrect. The article does not describe water as acidic, salty, or metallic."
+        "Correct. The article describes water as transparent, tasteless, odorless, and nearly colorless, but not salty.",
+        "Incorrect. The article states water is transparent.",
+        "Incorrect. The article states water is tasteless.",
+        "Incorrect. The article states water is odorless."
       ]
     },
     {
       "id": 3,
-      "question": "What percentage of the Earth's surface is covered by water?",
+      "question": "According to the introduction, what is the main constituent of Earth's streams, lakes, and oceans?",
       "options": [
-        "about 71%",
-        "about 50%",
-        "about 90%",
-        "about 30%"
+        "Water",
+        "Salt",
+        "Sand",
+        "Air"
       ],
       "answer_explanations": [
-        "Correct. The article states that water covers about 71% of the Earth's surface.",
-        "Incorrect. The article gives the figure as about 71%, not about 50%.",
-        "Incorrect. The article gives the figure as about 71%, not about 90%.",
-        "Incorrect. The article gives the figure as about 71%, not about 30%."
+        "Correct. The article says water is the main constituent of Earth's streams, lakes, and oceans.",
+        "Incorrect. Salt is not mentioned as the main constituent.",
+        "Incorrect. Sand is not mentioned as the main constituent.",
+        "Incorrect. Air is not mentioned as the main constituent."
       ]
     },
     {
       "id": 4,
-      "question": "What is the approximate percentage of Earth's water volume made up by seas and oceans?",
+      "question": "What role does water play in all known living organisms?",
       "options": [
-        "about 96.5%",
-        "about 50%",
-        "about 10%",
-        "about 1.7%"
+        "It acts as a solvent",
+        "It provides food energy",
+        "It is an organic micronutrient",
+        "It gives color"
       ],
       "answer_explanations": [
-        "Correct. The article states that seas and oceans make up about 96.5% of the water volume.",
-        "Incorrect. The article states seas and oceans make up about 96.5%, not about 50%.",
-        "Incorrect. The article states seas and oceans make up about 96.5%, not about 10%.",
-        "Incorrect. The article states groundwater and glaciers/ice caps each account for about 1.7%, not seas and oceans."
+        "Correct. The article states that water acts as a solvent in all known living organisms.",
+        "Incorrect. The article says water does not provide food energy.",
+        "Incorrect. The article says water is not an organic micronutrient.",
+        "Incorrect. The article does not mention water giving color."
       ]
     },
     {
       "id": 5,
-      "question": "What percentage of fresh water used by humans goes to agriculture?",
+      "question": "What is a large contributor to water's physical and chemical properties?",
       "options": [
-        "Approximately 70%",
-        "Approximately 30%",
-        "Approximately 90%",
-        "Approximately 50%"
+        "Hydrogen bonding",
+        "Covalent bonding",
+        "Ionic bonding",
+        "Metallic bonding"
       ],
       "answer_explanations": [
-        "Correct. The article states that approximately 70% of the fresh water used by humans goes to agriculture.",
-        "Incorrect. The article states approximately 70%, not approximately 30%.",
-        "Incorrect. The article states approximately 70%, not approximately 90%.",
-        "Incorrect. The article states approximately 70%, not approximately 50%."
+        "Correct. The article says water undergoes strong intermolecular hydrogen bonding which is a large contributor to its physical and chemical properties.",
+        "Incorrect. Covalent bonding is not mentioned as the contributor.",
+        "Incorrect. Ionic bonding is not mentioned as the contributor.",
+        "Incorrect. Metallic bonding is not mentioned as the contributor."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following is one of the two official names for the chemical compound H2O?",
+      "question": "Why is water often referred to as the 'universal solvent'?",
       "options": [
-        "oxidane",
-        "hydrogen peroxide",
-        "hydroxide",
-        "steam"
+        "Because of its presence in all organisms, chemical stability, worldwide abundance, and strong polarity",
+        "Because it dissolves everything instantly",
+        "Because it is found only on Earth",
+        "Because it has a high boiling point"
       ],
       "answer_explanations": [
-        "Correct. The article states that along with water, oxidane is one of the two official names for H2O.",
-        "Incorrect. The article does not identify hydrogen peroxide as an official name for H2O.",
-        "Incorrect. The article does not identify hydroxide as an official name for H2O.",
-        "Incorrect. Steam is described as the gaseous phase of water, not an official name for H2O."
+        "Correct. The article explains that due to its presence in all organisms, chemical stability, worldwide abundance, and strong polarity relative to its small molecular size, water is often called the 'universal solvent'.",
+        "Incorrect. The article does not say water dissolves everything instantly.",
+        "Incorrect. The article does not say water is found only on Earth.",
+        "Incorrect. The article does not mention boiling point in this context."
       ]
     },
     {
       "id": 7,
-      "question": "At 1 atm pressure, at what temperature does water reach its maximum density?",
+      "question": "On Earth, water exists in how many states?",
       "options": [
-        "3.98 Â°C (39.16 Â°F)",
-        "0 Â°C (32 Â°F)",
-        "100 Â°C (212 Â°F)",
-        "230 Â°C (446 Â°F)"
+        "Three",
+        "Two",
+        "One",
+        "Four"
       ],
       "answer_explanations": [
-        "Correct. The article states that at 1 atm pressure, water reaches its maximum density at 3.98 Â°C (39.16 Â°F).",
-        "Incorrect. The article identifies 0 Â°C as the freezing point, not the temperature of maximum density.",
-        "Incorrect. The article identifies 100 Â°C as the boiling point, not the temperature of maximum density.",
-        "Incorrect. The article mentions 230 Â°C in the context of early Earth's surface temperature, not water's maximum density."
+        "Correct. The article states that water exists on Earth as a solid, a liquid, and a gas, which are three states.",
+        "Incorrect. The article mentions three states, not two.",
+        "Incorrect. The article mentions three states, not one.",
+        "Incorrect. The article mentions three states, not four."
       ]
     },
     {
       "id": 8,
-      "question": "By approximately what percentage does water expand as it freezes and becomes ice?",
+      "question": "What is the gaseous state of water called?",
       "options": [
-        "about 9%",
-        "about 1%",
-        "about 25%",
-        "about 50%"
+        "Steam or water vapor",
+        "Ice",
+        "Snow",
+        "Fog"
       ],
       "answer_explanations": [
-        "Correct. The article states that as water freezes and becomes ice, it expands by about 9%.",
-        "Incorrect. The article states water expands by about 9%, not about 1%.",
-        "Incorrect. The article states water expands by about 9%, not about 25%.",
-        "Incorrect. The article states water expands by about 9%, not about 50%."
+        "Correct. The article says the gaseous state of water is steam or water vapor.",
+        "Incorrect. Ice is the solid state.",
+        "Incorrect. Snow is a form of crystalline ice.",
+        "Incorrect. Fog is an aerosol, not the gaseous state."
       ]
     },
     {
       "id": 9,
-      "question": "What type of material is water described as in the Magnetism section?",
+      "question": "What percentage of Earth's surface is covered by water?",
       "options": [
-        "diamagnetic",
-        "ferromagnetic",
-        "paramagnetic",
-        "superconducting"
+        "About 71%",
+        "About 50%",
+        "About 96.5%",
+        "About 80%"
       ],
       "answer_explanations": [
-        "Correct. The article states that water is a diamagnetic material.",
-        "Incorrect. The article describes water as diamagnetic, not ferromagnetic.",
-        "Incorrect. The article describes water as diamagnetic, not paramagnetic.",
-        "Incorrect. The article mentions superconducting magnets as a tool to observe water's weak interaction, but does not classify water itself as superconducting."
+        "Correct. The article states water covers about 71% of the Earth's surface.",
+        "Incorrect. 50% is not mentioned.",
+        "Incorrect. 96.5% is the percentage of water volume in seas and oceans, not the surface coverage.",
+        "Incorrect. 80% is not mentioned."
       ]
     },
     {
       "id": 10,
-      "question": "At a pressure of one atmosphere, at what temperature does water boil?",
+      "question": "Which of the following is NOT mentioned as a use of water in the introduction?",
       "options": [
-        "100 Â°C (212 Â°F)",
-        "0 Â°C (32 Â°F)",
-        "3.98 Â°C (39.16 Â°F)",
-        "205 Â°C (401 Â°F)"
+        "Generating electricity",
+        "Cooling and heating",
+        "Cooking and washing",
+        "Fishing"
       ],
       "answer_explanations": [
-        "Correct. The article states that at one atmosphere, water boils at 100 Â°C (212 Â°F).",
-        "Incorrect. The article identifies 0 Â°C as the freezing/melting point, not the boiling point.",
-        "Incorrect. The article identifies 3.98 Â°C as the temperature of maximum density, not the boiling point.",
-        "Incorrect. The article mentions temperatures exceeding 205 Â°C in Old Faithful geyser, but not as water's boiling point at one atmosphere."
+        "Correct. The introduction mentions cooling and heating, cooking and washing, and fishing, but does not mention generating electricity.",
+        "Incorrect. The article mentions large quantities of water, ice, and steam are used for cooling and heating.",
+        "Incorrect. The article mentions water is widely used in cooking and washing.",
+        "Incorrect. The article mentions fishing as a major source of food."
       ]
     }
   ]

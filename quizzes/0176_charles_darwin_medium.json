@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which university did Darwin attend for his medical studies before transferring to Cambridge?",
+      "question": "What was Charles Darwin's profession or field of study?",
       "options": [
-        "University of Edinburgh",
-        "University of Oxford",
-        "University of Cambridge",
-        "University of London"
+        "He was a naturalist, geologist, and biologist.",
+        "He was a medical doctor and surgeon.",
+        "He was a professional ship captain.",
+        "He was a philosopher and theologian."
       ],
       "answer_explanations": [
-        "Correct. The article states that Darwin attended the University of Edinburgh Medical School in October 1825 before moving to Cambridge.",
-        "Incorrect. The University of Oxford is not mentioned as a location for Darwin's medical studies.",
-        "Incorrect. Although Darwin later studied at Cambridge, his medical education began at Edinburgh.",
-        "Incorrect. The University of London is not referenced in the article regarding Darwin's education."
+        "Correct. The article states Darwin was 'an English naturalist, geologist, and biologist'.",
+        "Incorrect. Although he began medical studies, he neglected them and did not become a doctor.",
+        "Incorrect. Darwin was a passenger on HMS Beagle, not its captain.",
+        "Incorrect. He studied theology-related texts but is not described as a philosopher or theologian."
       ]
     },
     {
       "id": 2,
-      "question": "What was the title of Darwin's travel journal published in 1839?",
+      "question": "What was the name of the ship Darwin sailed on for his famous five-year voyage?",
       "options": [
-        "The Voyage of the Beagle",
-        "The Structure and Distribution of Coral Reefs",
-        "On the Origin of Species",
-        "The Descent of Man"
+        "HMS Beagle",
+        "HMS Victory",
+        "HMS Endeavour",
+        "HMS Bounty"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that *The Voyage of the Beagle* (1839) was Darwin's travel journal.",
-        "Incorrect. That work was his first scientific work published in 1842, not his travel journal.",
-        "Incorrect. *On the Origin of Species* was published later in 1859.",
-        "Incorrect. *The Descent of Man* was published in 1871."
+        "Correct. The article refers to the 'five-year voyage on HMS Beagle'.",
+        "Incorrect. HMS Victory is not mentioned in the article.",
+        "Incorrect. HMS Endeavour is not mentioned in the article.",
+        "Incorrect. HMS Bounty is not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "Which concept did Darwin's observations during his voyage support?",
+      "question": "What theory did Darwin propose to explain the branching pattern of evolution?",
       "options": [
-        "gradual geological change",
-        "catastrophic geological change",
-        "plate tectonics",
-        "volcanic activity"
+        "Natural selection",
+        "Artificial selection",
+        "Uniformitarianism",
+        "Lamarckism"
       ],
       "answer_explanations": [
-        "Correct. The article says his observations supported Charles Lyell's concept of gradual geological change (Uniformitarianism).",
-        "Incorrect. Catastrophic change is not mentioned as a concept he supported.",
-        "Incorrect. Plate tectonics is not referenced in the article.",
-        "Incorrect. While volcanic activity is mentioned, it is not the concept his observations supported."
+        "Correct. The article says Darwin proposed that evolution resulted from a process he called 'natural selection'.",
+        "Incorrect. Artificial selection is mentioned as a comparison, but it's not Darwin's proposed process for evolution.",
+        "Incorrect. Uniformitarianism is a geological concept by Charles Lyell, not Darwin's evolutionary theory.",
+        "Incorrect. Lamarckism refers to the evolutionary ideas of Lamarck, not Darwin's own theory."
       ]
     },
     {
       "id": 4,
-      "question": "Who co-authored the joint presentation of the theory of natural selection with Darwin?",
+      "question": "What was the title of Darwin's book published in 1859 that presented his theory of evolution with evidence?",
       "options": [
-        "Alfred Russel Wallace",
-        "Charles Lyell",
-        "Robert Darwin",
-        "John Stevens Henslow"
+        "On the Origin of Species",
+        "The Voyage of the Beagle",
+        "The Descent of Man",
+        "The Expression of the Emotions in Man and Animals"
       ],
       "answer_explanations": [
-        "Correct. The article states that Darwin proposed the theory in a joint presentation with Alfred Russel Wallace.",
-        "Incorrect. Charles Lyell influenced Darwin but did not co-author the presentation.",
-        "Incorrect. Robert Darwin was his father, not a collaborator.",
-        "Incorrect. John Stevens Henslow was a mentor, not a co-author."
+        "Correct. The article states Darwin published his theory in 'On the Origin of Species' (1859).",
+        "Incorrect. 'The Voyage of the Beagle' was his travel journal, published in 1839.",
+        "Incorrect. 'The Descent of Man' was published in 1871, focusing on human evolution.",
+        "Incorrect. 'The Expression of the Emotions' was published in 1872 and was about psychology."
       ]
     },
     {
       "id": 5,
-      "question": "In what year did Darwin publish *On the Origin of Species*?",
+      "question": "Who sent Darwin an essay outlining the same idea of natural selection, prompting a joint submission?",
       "options": [
-        "1859",
-        "1862",
-        "1871",
-        "1881"
+        "Alfred Russel Wallace",
+        "Charles Lyell",
+        "Robert Edmond Grant",
+        "John Stevens Henslow"
       ],
       "answer_explanations": [
-        "Correct. The article notes that Darwin published his theory of evolution with compelling evidence in *On the Origin of Species* (1859).",
-        "Incorrect. 1862 corresponds to *Fertilisation of Orchids*, not *Origin*.",
-        "Incorrect. 1871 is the publication year for *The Descent of Man*.",
-        "Incorrect. 1881 is the year of his final book on worms."
+        "Correct. The article says Wallace sent Darwin an essay outlining the same idea, leading to a joint presentation.",
+        "Incorrect. Charles Lyell was a geologist whose work Darwin supported, but he didn't send that essay.",
+        "Incorrect. Robert Edmond Grant was an earlier influence on Darwin, not the one who prompted the joint submission.",
+        "Incorrect. John Stevens Henslow was a botany professor and mentor, but not the one who sent the essay."
       ]
     },
     {
       "id": 6,
-      "question": "Which of Darwin's works was an early contribution to psychology and one of the first books to feature photographs?",
+      "question": "Where was Charles Darwin born?",
       "options": [
-        "The Expression of the Emotions in Man and Animals",
-        "The Descent of Man",
-        "The Voyage of the Beagle",
-        "The Structure and Distribution of Coral Reefs"
+        "Shrewsbury, Shropshire",
+        "London, England",
+        "Edinburgh, Scotland",
+        "Cambridge, England"
       ],
       "answer_explanations": [
-        "Correct. The article describes *The Expression of the Emotions in Man and Animals* (1872) as an early work of psychology and one of the first books to feature photographs.",
-        "Incorrect. *The Descent of Man* focuses on human evolution and sexual selection, not psychology or photographs.",
-        "Incorrect. *The Voyage of the Beagle* is a travel journal, not about psychology.",
-        "Incorrect. *The Structure and Distribution of Coral Reefs* is about geology and coral, not psychology."
+        "Correct. The article states Darwin was born 'at his family's home, The Mount, in Shrewsbury, Shropshire'.",
+        "Incorrect. London is not mentioned as his birthplace.",
+        "Incorrect. Edinburgh is where he attended medical school, not his birthplace.",
+        "Incorrect. Cambridge is where he studied at Christ's College, not his birthplace."
       ]
     },
     {
       "id": 7,
-      "question": "What was the name of the society Darwin joined at Cambridge that consumed exotic animal meat?",
+      "question": "What did Darwin neglect at the University of Edinburgh?",
       "options": [
-        "Glutton Club",
-        "Dining Society",
-        "Epicurean Club",
-        "Gourmet Society"
+        "His medical education",
+        "His geological studies",
+        "His beetle collecting",
+        "His taxidermy lessons"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that at Cambridge, Darwin joined a society known as the \"Glutton Club,\" which consumed exotic animal meat.",
-        "Incorrect. The \"Dining Society\" is not referenced.",
-        "Incorrect. The \"Epicurean Club\" is not mentioned.",
-        "Incorrect. The \"Gourmet Society\" is not referenced in the article."
+        "Correct. The article says Darwin's early interest in nature led him to neglect his medical education at the University of Edinburgh.",
+        "Incorrect. He studied geology later at Cambridge, not at Edinburgh.",
+        "Incorrect. Beetle collecting was a passion at Cambridge, not something he neglected in Edinburgh.",
+        "Incorrect. He learned taxidermy in Edinburgh, so he did not neglect it."
       ]
     },
     {
       "id": 8,
-      "question": "Which field did Darwin NOT study during his early education, according to the article?",
+      "question": "What did Darwin's observations during his voyage support?",
       "options": [
-        "taxidermy",
-        "medicine",
-        "theology",
-        "astronomy"
+        "Charles Lyell's concept of gradual geological change",
+        "The idea that species were created in their current form",
+        "The theory of Lamarckian inheritance",
+        "The concept of neptunism"
       ],
       "answer_explanations": [
-        "Correct. The article describes Darwin's early education in medicine, theology (through studying Paley), and taxidermy, but does not mention astronomy.",
-        "Incorrect. Medicine is mentioned as his field of study at Edinburgh.",
-        "Incorrect. Theology is referenced through his study of Paley's works.",
-        "Incorrect. Astronomy is not mentioned as part of his early education."
+        "Correct. The article says his observations 'supported Charles Lyell's concept of gradual geological change'.",
+        "Incorrect. The article does not say Darwin supported the idea of fixed species.",
+        "Incorrect. Lamarck's ideas are mentioned, but Darwin's voyage supported Lyell's geology, not Lamarck's evolution.",
+        "Incorrect. Neptunism is a geological debate mentioned, but Darwin supported Lyell's uniformitarianism."
       ]
     },
     {
       "id": 9,
-      "question": "What was the primary purpose of the HMS Beagle's voyage?",
+      "question": "What was the name of the student natural-history group Darwin joined at the University of Edinburgh?",
       "options": [
-        "to chart the coastline of South America",
-        "to search for new species in Africa",
-        "to establish colonies in Australia",
-        "to explore the Arctic"
+        "The Plinian Society",
+        "The Glutton Club",
+        "The Linnean Society",
+        "The Royal Society"
       ],
       "answer_explanations": [
-        "Correct. The article states that the ship was to leave in four weeks on an expedition to chart the coastline of South America.",
-        "Incorrect. The article does not mention a search for new species in Africa as the purpose.",
-        "Incorrect. Establishing colonies in Australia is not referenced.",
-        "Incorrect. The voyage was not for Arctic exploration."
+        "Correct. The article says Darwin joined 'the Plinian Society, a student natural-history group'.",
+        "Incorrect. The Glutton Club was a dining society at Cambridge, not Edinburgh.",
+        "Incorrect. The Linnean Society is where the joint paper was submitted, not a student group.",
+        "Incorrect. The Royal Society is not mentioned in this context."
       ]
     },
     {
       "id": 10,
-      "question": "Which of Darwin's works explored coevolution?",
+      "question": "What was the title of Darwin's final book?",
       "options": [
+        "The Formation of Vegetable Mould, through the Actions of Worms",
         "Fertilisation of Orchids",
-        "The Descent of Man",
-        "The Expression of the Emotions",
-        "The Formation of Vegetable Mould"
+        "The Structure and Distribution of Coral Reefs",
+        "The Descent of Man, and Selection in Relation to Sex"
       ],
       "answer_explanations": [
-        "Correct. The article notes that Darwin explored coevolution in *Fertilisation of Orchids* (1862).",
-        "Incorrect. *The Descent of Man* focuses on human evolution and sexual selection, not coevolution.",
-        "Incorrect. *The Expression of the Emotions* is about psychology, not coevolution.",
-        "Incorrect. *The Formation of Vegetable Mould* deals with earthworms, not coevolution."
+        "Correct. The article states 'His final book was The Formation of Vegetable Mould, through the Actions of Worms (1881)'.",
+        "Incorrect. 'Fertilisation of Orchids' was published in 1862, not his final book.",
+        "Incorrect. 'The Structure and Distribution of Coral Reefs' was his first scientific work in 1842.",
+        "Incorrect. 'The Descent of Man' was published in 1871, before his final book."
       ]
     }
   ]

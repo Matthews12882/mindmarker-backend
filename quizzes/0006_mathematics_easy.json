@@ -7,160 +7,160 @@
       "id": 1,
       "question": "What is mathematics concerned with?",
       "options": [
-        "abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities",
-        "only numbers and geometric shapes",
-        "only physical objects and experiments",
-        "only computer programming and technology"
+        "Abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities",
+        "Only numbers and arithmetic",
+        "The study of physical objects in nature",
+        "The history of ancient civilizations"
       ],
       "answer_explanations": [
-        "Correct. The article states mathematics is concerned with abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities.",
-        "Incorrect. The article lists more than just numbers and geometric shapes.",
-        "Incorrect. Mathematics studies abstract concepts, not only physical objects.",
-        "Incorrect. The article does not limit mathematics to computer programming and technology."
+        "Correct. The article states that mathematics is 'a field of knowledge concerned with abstract concepts such as numbers, geometric shapes, sets, functions, and probabilities.'",
+        "Incorrect. The article lists more than just numbers, including geometric shapes, sets, functions, and probabilities.",
+        "Incorrect. The article says mathematics is concerned with abstract concepts, not physical objects.",
+        "Incorrect. The article does not mention the history of ancient civilizations in the introduction."
       ]
     },
     {
       "id": 2,
-      "question": "What does mathematics use to study and establish properties of abstract concepts?",
+      "question": "How does mathematics establish the properties of abstract concepts?",
       "options": [
-        "logical reasoning and proof",
-        "experimentation and observation",
-        "intuition and guesswork",
-        "empirical data alone"
+        "Using logical reasoning and proof",
+        "Through experiments in laboratories",
+        "By observing natural phenomena directly",
+        "Through guesswork and intuition"
       ],
       "answer_explanations": [
-        "Correct. The article says mathematics uses logical reasoning and proof to study and establish properties.",
-        "Incorrect. The article states results are established by deductive proof rather than by experiment.",
-        "Incorrect. Mathematics relies on proof, not guesswork.",
-        "Incorrect. The article emphasizes deductive proof rather than empirical data alone."
+        "Correct. The article says mathematics 'uses logical reasoning and proof to study and establish their properties.'",
+        "Incorrect. The article does not mention experiments; it emphasizes logical reasoning and proof.",
+        "Incorrect. The article does not say that mathematics establishes properties through direct observation.",
+        "Incorrect. The article does not mention guesswork or intuition as the method."
       ]
     },
     {
       "id": 3,
-      "question": "Which area of mathematics is described as the study of integers and their properties?",
+      "question": "Which of the following is listed as an area of mathematics in the introduction?",
       "options": [
-        "number theory",
-        "algebra",
-        "geometry",
-        "analysis"
+        "Number theory",
+        "Astronomy",
+        "Chemistry",
+        "Biology"
       ],
       "answer_explanations": [
-        "Correct. The article identifies number theory as the study of integers and their properties.",
-        "Incorrect. Algebra is described as the study of operations and the structures they form.",
-        "Incorrect. Geometry is described as the study of shapes and spaces.",
-        "Incorrect. Analysis is described as the quantitative study of approximation and convergence."
+        "Correct. The article lists 'number theory' as one of the many areas of mathematics.",
+        "Incorrect. Astronomy is not mentioned as an area of mathematics in the introduction.",
+        "Incorrect. Chemistry is not mentioned as an area of mathematics in the introduction.",
+        "Incorrect. Biology is not mentioned as an area of mathematics in the introduction."
       ]
     },
     {
       "id": 4,
-      "question": "What are axioms in mathematics?",
+      "question": "What does geometry study?",
       "options": [
-        "properties stipulated for purely abstract entities",
-        "results proven through experimentation",
-        "theorems that have been disproven",
-        "computer algorithms used in calculation"
+        "Shapes and spaces that contain them",
+        "Integers and their properties",
+        "Operations and the structures they form",
+        "Approximation and convergence"
       ],
       "answer_explanations": [
-        "Correct. The article calls axioms certain properties stipulated for purely abstract entities.",
-        "Incorrect. Axioms are not proven through experimentation.",
-        "Incorrect. Axioms are not disproven theorems.",
-        "Incorrect. The article does not describe axioms as computer algorithms."
+        "Correct. The article defines geometry as 'the study of shapes and spaces that contain them.'",
+        "Incorrect. That is the description of number theory, not geometry.",
+        "Incorrect. That is the description of algebra, not geometry.",
+        "Incorrect. That is the description of analysis, not geometry."
       ]
     },
     {
       "id": 5,
-      "question": "What are theorems in mathematics?",
+      "question": "What are axioms?",
       "options": [
-        "results established through proofs",
-        "unproven guesses about numbers",
-        "experimental findings in science",
-        "basic arithmetic operations"
+        "Purely abstract entities that are stipulated to have certain properties",
+        "Theorems that have been proved",
+        "Results derived from experiments",
+        "Shapes and spaces"
       ],
       "answer_explanations": [
-        "Correct. The article defines theorems as results established through proofs.",
-        "Incorrect. Theorems are proved results, not unproven guesses.",
-        "Incorrect. Theorems are mathematical results, not experimental findings.",
-        "Incorrect. Theorems are not simply basic arithmetic operations."
+        "Correct. The article describes axioms as 'purely abstract entities that are stipulated to have certain properties.'",
+        "Incorrect. The article distinguishes axioms from theorems, which are proved results.",
+        "Incorrect. The article does not say axioms come from experiments.",
+        "Incorrect. Shapes and spaces are related to geometry, not axioms."
       ]
     },
     {
       "id": 6,
-      "question": "In which ancient civilizations did mathematical written records first appear?",
+      "question": "What are theorems?",
       "options": [
-        "Ancient Egypt and Mesopotamia",
-        "ancient Rome and Greece",
-        "ancient China and India",
-        "medieval Europe"
+        "Results that include previously proved theorems, axioms, and basic properties considered true starting points",
+        "Abstract objects from nature",
+        "Geometric shapes",
+        "Sets and functions"
       ],
       "answer_explanations": [
-        "Correct. The article states mathematical written records first appeared in Ancient Egypt and Mesopotamia.",
-        "Incorrect. The article names Ancient Egypt and Mesopotamia, not Rome and Greece.",
-        "Incorrect. The article does not mention ancient China and India as the first appearance.",
-        "Incorrect. The article refers to ancient civilizations, not medieval Europe."
+        "Correct. The article says theorems are 'results, called theorems, include previously proved theorems, axioms, andâin case of abstraction from natureâsome basic properties that are considered true starting points.'",
+        "Incorrect. Abstract objects are not the same as theorems.",
+        "Incorrect. Geometric shapes are not theorems.",
+        "Incorrect. Sets and functions are concepts, not theorems."
       ]
     },
     {
       "id": 7,
-      "question": "Where did the concept of proof and mathematical rigor begin?",
+      "question": "In which fields is mathematics essential, according to the introduction?",
       "options": [
-        "ancient Greek mathematics",
-        "Ancient Egypt",
-        "Mesopotamia",
-        "16th century Europe"
+        "Science and engineering",
+        "Only in economics",
+        "Only in technology",
+        "Only in everyday life"
       ],
       "answer_explanations": [
-        "Correct. The article says the concept of proof and mathematical rigor began in ancient Greek mathematics.",
-        "Incorrect. Ancient Egypt is mentioned for written records, not the concept of proof.",
-        "Incorrect. Mesopotamia is mentioned for written records, not the concept of proof.",
-        "Incorrect. The article traces proof to ancient Greek mathematics, not 16th century Europe."
+        "Correct. The article states 'Mathematics is essential in science and engineering.'",
+        "Incorrect. The article mentions science and engineering, not only economics.",
+        "Incorrect. The article mentions science and engineering, not only technology.",
+        "Incorrect. The article mentions science and engineering, not only everyday life."
       ]
     },
     {
       "id": 8,
-      "question": "What did the foundational crisis of mathematics at the end of the 19th century lead to?",
+      "question": "How are mathematics results established, according to the introduction?",
       "options": [
-        "the systematic use of the axiomatic method",
-        "the abandonment of proofs",
-        "the end of mathematical research",
-        "the replacement of mathematics by physics"
+        "By deductive proof rather than by experiment",
+        "By experiment rather than by proof",
+        "By random chance",
+        "By opinion polls"
       ],
       "answer_explanations": [
-        "Correct. The article states the foundational crisis led to the systematic use of the axiomatic method.",
-        "Incorrect. The article does not say proofs were abandoned.",
-        "Incorrect. The article describes an increase in mathematical areas, not an end to research.",
-        "Incorrect. The article does not say mathematics was replaced by physics."
+        "Correct. The article says 'its results are established by deductive proof rather than by experiment.'",
+        "Incorrect. The article explicitly says the opposite: proof rather than experiment.",
+        "Incorrect. The article does not mention random chance.",
+        "Incorrect. The article does not mention opinion polls."
       ]
     },
     {
       "id": 9,
-      "question": "Before the Renaissance, into which two main areas was mathematics divided?",
+      "question": "What is an example of an area of mathematics developed in close correlation with its applications?",
       "options": [
-        "arithmetic and geometry",
-        "algebra and calculus",
-        "number theory and set theory",
-        "analysis and topology"
+        "Game theory",
+        "Number theory",
+        "Set theory",
+        "Geometry"
       ],
       "answer_explanations": [
-        "Correct. The article states mathematics was divided into arithmetic and geometry before the Renaissance.",
-        "Incorrect. Algebra and calculus became predominant beginning with the Renaissance.",
-        "Incorrect. Number theory and set theory are not the two pre-Renaissance divisions named.",
-        "Incorrect. Analysis and topology are not the two pre-Renaissance divisions named."
+        "Correct. The article mentions 'game theory' as an area developed in close correlation with its applications.",
+        "Incorrect. The article does not say that number theory is developed in close correlation with applications.",
+        "Incorrect. The article does not say that set theory is developed in close correlation with applications.",
+        "Incorrect. The article does not say that geometry is developed in close correlation with applications."
       ]
     },
     {
       "id": 10,
-      "question": "How many first-level areas does the 2020 Mathematics Subject Classification contain?",
+      "question": "What is the subject of philosophical debate, according to the introduction?",
       "options": [
-        "63",
-        "60",
-        "more than 60",
-        "fewer than 50"
+        "The relationship between mathematical truth, logic, and reality",
+        "The definition of geometry",
+        "The history of algebra",
+        "The use of numbers in everyday life"
       ],
       "answer_explanations": [
-        "Correct. The article states the 2020 Mathematics Subject Classification contains 63 first-level areas.",
-        "Incorrect. The article specifies 63, not 60.",
-        "Incorrect. While the article says more than 60 elsewhere, it specifies 63 for the 2020 classification.",
-        "Incorrect. The article states there are 63 first-level areas, not fewer than 50."
+        "Correct. The article states 'The relationship between mathematical truth, logic, and reality is a subject of philosophical debate.'",
+        "Incorrect. The article does not mention a debate about the definition of geometry.",
+        "Incorrect. The article does not mention a debate about the history of algebra.",
+        "Incorrect. The article does not mention a debate about the use of numbers in everyday life."
       ]
     }
   ]

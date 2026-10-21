@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the approximate volume fraction of oxygen in dry air by mole fraction?",
+      "question": "What is the atmosphere of Earth primarily made of?",
       "options": [
-        "20.95%",
-        "78.08%",
-        "0.93%",
-        "0.04%"
+        "A layer of mixed gas retained by gravity",
+        "A layer of liquid water",
+        "A layer of solid rock",
+        "A layer of plasma"
       ],
       "answer_explanations": [
-        "Correct. The article states that dry air contains 20.95% oxygen by mole fraction.",
-        "Incorrect. 78.08% is the volume fraction of nitrogen, not oxygen.",
-        "Incorrect. 0.93% refers to argon, not oxygen.",
-        "Incorrect. 0.04% refers to carbon dioxide, not oxygen."
+        "Correct. The article states that the atmosphere consists of a layer of mixed gas (commonly referred to as air) that is retained by gravity.",
+        "Incorrect. The atmosphere is not described as a layer of liquid water.",
+        "Incorrect. The atmosphere is not described as a layer of solid rock.",
+        "Incorrect. The atmosphere is not described as a layer of plasma."
       ]
     },
     {
       "id": 2,
-      "question": "Which layer of Earth's atmosphere extends from about 12 to 50 km above the surface?",
+      "question": "Which gas makes up about 78% of dry air by mole fraction?",
       "options": [
-        "Stratosphere",
-        "Troposphere",
-        "Mesosphere",
-        "Thermosphere"
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide"
       ],
       "answer_explanations": [
-        "Correct. The stratification section lists the stratosphere as spanning 12â50 km.",
-        "Incorrect. The troposphere spans 0â12 km, not 12â50 km.",
-        "Incorrect. The mesosphere spans 50â80 km, not 12â50 km.",
-        "Incorrect. The thermosphere spans 80â700 km, not 12â50 km."
+        "Correct. The article says dry air contains 78.08% nitrogen by mole fraction.",
+        "Incorrect. Oxygen makes up 20.95% of dry air, not 78%.",
+        "Incorrect. Argon makes up 0.93% of dry air, not 78%.",
+        "Incorrect. Carbon dioxide makes up 0.04% of dry air, not 78%."
       ]
     },
     {
       "id": 3,
-      "question": "What is the conventional altitude used to define the edge of space according to the article?",
+      "question": "What is the KÃ¡rmÃ¡n line often used as?",
       "options": [
-        "100 km",
-        "11 km",
-        "80 km",
-        "700 km"
+        "A conventional definition of the edge of space",
+        "The boundary between the troposphere and stratosphere",
+        "The lowest layer of the atmosphere",
+        "The point where the atmosphere ends completely"
       ],
       "answer_explanations": [
-        "Correct. The article states the KÃ¡rmÃ¡n line at 100 km is often used as a conventional definition of the edge of space.",
-        "Incorrect. 11 km is the altitude within which three-quarters of the atmosphere's mass is found, not the edge of space.",
-        "Incorrect. 80 km is approximately the lower boundary of the thermosphere, not the edge of space.",
-        "Incorrect. 700 km is the upper boundary of the thermosphere and lower boundary of the exosphere, not the conventional edge of space."
+        "Correct. The article states that the KÃ¡rmÃ¡n line at 100 km is often used as a conventional definition of the edge of space.",
+        "Incorrect. The boundary between the troposphere and stratosphere is not the KÃ¡rmÃ¡n line.",
+        "Incorrect. The KÃ¡rmÃ¡n line is not the lowest layer; the troposphere is the lowest layer.",
+        "Incorrect. The article says there is no definite boundary between the atmosphere and outer space, so the KÃ¡rmÃ¡n line is a convention, not a complete end."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following best describes how Earth's atmosphere protects the surface?",
-      "options": [
-        "It shields from most meteoroids and ultraviolet solar radiation, reduces day-night temperature extremes, and retains heat via the greenhouse effect.",
-        "It blocks all solar radiation from reaching the surface.",
-        "It prevents any meteoroids from entering the atmosphere.",
-        "It eliminates all temperature differences between day and night."
-      ],
-      "answer_explanations": [
-        "Correct. The article states the atmosphere shields the surface from most meteoroids and ultraviolet solar radiation, reduces diurnal temperature variation, and keeps it warm through heat retention via the greenhouse effect.",
-        "Incorrect. The article says it shields from most ultraviolet solar radiation, not all solar radiation.",
-        "Incorrect. The article says it shields from most meteoroids, not all meteoroids.",
-        "Incorrect. The article says it reduces temperature extremes between day and night, not eliminates them entirely."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What is the approximate mass of Earth's atmosphere?",
-      "options": [
-        "5.15Ã10^18 kg",
-        "5.15Ã10^15 kg",
-        "5.15Ã10^21 kg",
-        "5.15Ã10^12 kg"
-      ],
-      "answer_explanations": [
-        "Correct. The article states the atmosphere has a mass of about 5.15Ã10^18 kg.",
-        "Incorrect. The article does not give 5.15Ã10^15 kg as the atmosphere's mass.",
-        "Incorrect. The article does not give 5.15Ã10^21 kg as the atmosphere's mass.",
-        "Incorrect. The article does not give 5.15Ã10^12 kg as the atmosphere's mass."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "Which atmospheric layer contains air suitable for photosynthesis by terrestrial plants and respiration by terrestrial animals?",
+      "question": "Which layer of the atmosphere is closest to Earth's surface?",
       "options": [
         "Troposphere",
         "Stratosphere",
         "Mesosphere",
-        "Exosphere"
+        "Thermosphere"
       ],
       "answer_explanations": [
-        "Correct. The article states that air suitable for photosynthesis by terrestrial plants and respiration by terrestrial animals is found within the troposphere.",
-        "Incorrect. The article does not identify the stratosphere as containing air suitable for photosynthesis and respiration by terrestrial organisms.",
-        "Incorrect. The article does not identify the mesosphere as containing air suitable for photosynthesis and respiration by terrestrial organisms.",
-        "Incorrect. The article does not identify the exosphere as containing air suitable for photosynthesis and respiration by terrestrial organisms."
+        "Correct. The article lists the troposphere with an altitude range of 0â12 km, making it the lowest layer.",
+        "Incorrect. The stratosphere is above the troposphere, at 12â50 km.",
+        "Incorrect. The mesosphere is above the stratosphere, at 50â80 km.",
+        "Incorrect. The thermosphere is above the mesosphere, at 80â700 km."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the main cause of the temperature increase in the thermosphere?",
+      "options": [
+        "Absorption of ionizing UV and X-ray emission from the Sun",
+        "The greenhouse effect from carbon dioxide",
+        "Heat from volcanic activity",
+        "Friction from satellites"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the temperature increase in the thermosphere is caused by absorption of ionizing UV and X-ray emission from the Sun.",
+        "Incorrect. The greenhouse effect is not mentioned as the cause of the thermosphere's temperature increase.",
+        "Incorrect. Volcanic activity is not mentioned as the cause of the thermosphere's temperature increase.",
+        "Incorrect. Friction from satellites is not mentioned as the cause of the thermosphere's temperature increase."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What happens to air pressure and density as altitude increases in the atmosphere?",
+      "options": [
+        "They generally decrease",
+        "They generally increase",
+        "They stay the same",
+        "They fluctuate randomly"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in general, air pressure and density decrease with altitude in the atmosphere.",
+        "Incorrect. Air pressure and density do not generally increase with altitude.",
+        "Incorrect. Air pressure and density do not stay the same with altitude.",
+        "Incorrect. The article says the decrease is the general pattern, not random fluctuation."
       ]
     },
     {
       "id": 7,
-      "question": "What happens to atmospheric gases above roughly 100 km altitude?",
+      "question": "Which gas is described as having a 'missing xenon problem' in the atmosphere?",
       "options": [
-        "Turbulent mixing yields to molecular diffusion, forming the heterosphere where lighter gases increase with altitude.",
-        "Gases become uniformly mixed by turbulence at all altitudes.",
-        "Gases stop existing above 100 km.",
-        "Gases condense into liquid form above 100 km."
+        "Xenon",
+        "Neon",
+        "Helium",
+        "Krypton"
       ],
       "answer_explanations": [
-        "Correct. The article states that above roughly 100 km, turbulent mixing gradually yields to molecular diffusion, forming the heterosphere where the relative concentration of lighter gases increases with altitude.",
-        "Incorrect. The article says turbulent mixing occurs up to around 100 km, not that gases remain uniformly mixed at all altitudes.",
-        "Incorrect. The article does not state that gases stop existing above 100 km.",
-        "Incorrect. The article does not state that gases condense into liquid form above 100 km."
+        "Correct. The article mentions the concentration of Xe (xenon) is much lower than other noble gases, a geological mystery known as 'the missing xenon problem'.",
+        "Incorrect. Neon is a noble gas but not the one associated with the 'missing xenon problem'.",
+        "Incorrect. Helium is a noble gas but not the one associated with the 'missing xenon problem'.",
+        "Incorrect. Krypton is a noble gas but not the one associated with the 'missing xenon problem'."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is a trace gas mentioned in the article?",
+      "question": "What is the exosphere mainly composed of?",
       "options": [
-        "Methane",
-        "Nitrogen",
-        "Oxygen",
-        "Argon"
+        "Extremely low densities of hydrogen",
+        "High densities of nitrogen",
+        "Large amounts of water vapor",
+        "Thick clouds of carbon dioxide"
       ],
       "answer_explanations": [
-        "Correct. The article lists methane among the trace gases and greenhouse gases in the atmosphere.",
-        "Incorrect. Nitrogen is a major constituent, not a trace gas.",
-        "Incorrect. Oxygen is a major constituent, not a trace gas.",
-        "Incorrect. Argon is a major constituent, not a trace gas."
+        "Correct. The article states the exosphere is mainly composed of extremely low densities of hydrogen, with limited amounts of helium, carbon dioxide, and nascent oxygen.",
+        "Incorrect. Nitrogen is not mentioned as the main component of the exosphere.",
+        "Incorrect. Water vapor is not mentioned as a main component of the exosphere.",
+        "Incorrect. Thick clouds of carbon dioxide are not mentioned in the exosphere."
       ]
     },
     {
       "id": 9,
-      "question": "What is the 'missing xenon problem' described in the article?",
+      "question": "What is the study of Earth's atmosphere and its processes called?",
       "options": [
-        "The concentration of xenon in the atmosphere is much lower than other noble gases.",
-        "Xenon is the most abundant noble gas in the atmosphere.",
-        "Xenon cannot be detected in Earth's atmosphere at all.",
-        "Xenon is only found in the exosphere."
+        "Atmospheric science",
+        "Geology",
+        "Oceanography",
+        "Astronomy"
       ],
       "answer_explanations": [
-        "Correct. The article describes the missing xenon problem as the geological mystery that the concentration of xenon in the atmosphere is much lower than the other noble gases.",
-        "Incorrect. The article states xenon is much lower than other noble gases, not the most abundant.",
-        "Incorrect. The article states xenon is present but in much lower concentrations, not that it cannot be detected at all.",
-        "Incorrect. The article does not state xenon is only found in the exosphere."
+        "Correct. The article says the study of Earth's atmosphere and its processes is called atmospheric science (aerology).",
+        "Incorrect. Geology is the study of the solid Earth, not the atmosphere.",
+        "Incorrect. Oceanography is the study of oceans, not the atmosphere.",
+        "Incorrect. Astronomy is the study of celestial objects, not the atmosphere specifically."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, which human activities contribute to climate change?",
+      "question": "Which of the following is a natural substance that can be present as an aerosol in unfiltered air?",
       "options": [
-        "Deforestation and fossil-fuel-related global warming",
-        "Volcanic eruptions and solar radiation",
-        "Ocean currents and mountain formation",
-        "Photosynthesis and respiration"
+        "Pollen",
+        "Chlorine gas",
+        "Mercury vapor",
+        "Sulfur dioxide"
       ],
       "answer_explanations": [
-        "Correct. The article states human activity contributes to climate change mainly through deforestation and fossil-fuel-related global warming.",
-        "Incorrect. Volcanic eruptions and solar radiation are not identified in the article as human activities contributing to climate change.",
-        "Incorrect. Ocean currents and mountain formation are not identified in the article as human activities contributing to climate change.",
-        "Incorrect. Photosynthesis and respiration are natural processes, not human activities identified as contributing to climate change."
+        "Correct. The article lists pollen and spores as natural substances that may be present as aerosols in unfiltered air.",
+        "Incorrect. Chlorine is mentioned as an industrial pollutant, not a natural aerosol.",
+        "Incorrect. Mercury vapor is mentioned as an industrial pollutant, not a natural aerosol.",
+        "Incorrect. Sulfur dioxide may be derived from natural sources or industrial pollution, but the article specifically lists pollen as a natural aerosol."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, how is evolution defined in a strict biological sense?",
+      "question": "What is the scientific definition of evolution given in the article?",
       "options": [
         "A change in the frequency of alleles in a population",
-        "A change in an organism's external appearance or behavior",
-        "A change in the number of surviving offspring only",
-        "A change in the physical environment of a population"
+        "A change in an organism's appearance during its lifetime",
+        "The development of new species from a single ancestor",
+        "The process of organisms becoming more complex over time"
       ],
       "answer_explanations": [
-        "Correct. The article states that evolution is often defined as a change in the frequency of alleles (the variants of a gene found at a specific locus) in a population.",
-        "Incorrect. The article notes that external appearance or behavior is how evolution is understood in common parlance, but this is not the strict biological definition.",
-        "Incorrect. While differences in surviving offspring contribute to evolution, the article defines evolution specifically as a change in allele frequency, not merely offspring numbers.",
-        "Incorrect. The article does not define evolution as a change in the physical environment."
+        "Correct. The article states: 'Evolution is often defined as a change in the frequency of alleles (the variants of a gene found at a specific locus) in a population.'",
+        "Incorrect. The article says that in common parlance evolution is often understood as a change in appearance, but in a strict biological sense it can occur even when the phenotype is unchanged.",
+        "Incorrect. While speciation is a part of evolution, the article's definition focuses on changes in allele frequencies within a population.",
+        "Incorrect. The article does not define evolution as a process of increasing complexity; it defines it as a change in the frequency of alleles."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is NOT listed in the article as one of the four observable facts establishing evolution by natural selection?",
+      "question": "Who independently conceived the scientific theory of evolution by natural selection?",
       "options": [
-        "All offspring survive to reproductive age",
-        "More offspring are often produced than can possibly survive",
-        "Traits vary among individuals with respect to morphology, physiology, and behaviour",
-        "Traits can be passed from generation to generation"
+        "Charles Darwin and Alfred Russel Wallace",
+        "Gregor Mendel and Charles Darwin",
+        "John Maynard Smith and Alfred Russel Wallace",
+        "Charles Darwin and John Maynard Smith"
       ],
       "answer_explanations": [
-        "Correct. The article states that more offspring are often produced than can possibly survive, which contradicts the claim that all offspring survive.",
-        "Incorrect. This is explicitly listed as the first observable fact establishing evolution by natural selection.",
-        "Incorrect. This is explicitly listed as the second observable fact.",
-        "Incorrect. This is explicitly listed as the fourth observable fact."
+        "Correct. The article states: 'The scientific theory of evolution by natural selection was conceived independently by two British naturalists, Charles Darwin and Alfred Russel Wallace, in the mid-19th century.'",
+        "Incorrect. While Mendel's work on inheritance was later combined with evolution, the article names Darwin and Wallace as the ones who conceived the theory of evolution by natural selection.",
+        "Incorrect. John Maynard Smith is mentioned later in the article for describing the two-fold cost of sex, not for conceiving the theory of evolution by natural selection.",
+        "Incorrect. John Maynard Smith is not mentioned as a co-conceiver of the theory; the article names Darwin and Wallace."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say about the relationship between genotype and phenotype in the case of suntanned skin?",
+      "question": "According to the article, what is the ultimate source of genetic variation in all organisms?",
       "options": [
-        "Suntanned skin results from the interaction of genotype with sunlight and is not passed on to children",
-        "Suntanned skin is an inherited trait controlled solely by genes",
-        "Suntanned skin is passed directly from parents to children through DNA",
-        "Suntanned skin occurs only in people with albinism"
+        "Mutation",
+        "Gene flow",
+        "Sexual reproduction",
+        "Genetic drift"
       ],
       "answer_explanations": [
-        "Correct. The article explains that suntanned skin comes from the interaction between a person's genotype and sunlight, and thus suntans are not passed on to people's children.",
-        "Incorrect. The article states that suntanned skin is not inherited but results from genotype interacting with the environment.",
-        "Incorrect. The article explicitly states that suntans are not passed on to people's children.",
-        "Incorrect. The article mentions albinism as an example of inherited variation in tanning ability, not as the only condition under which suntanning occurs."
+        "Correct. The article states: 'Mutations are changes in the DNA sequence of a cell's genome and are the ultimate source of genetic variation in all organisms.'",
+        "Incorrect. Gene flow is described as a source of variation that can be new to a population or species, but it is not the ultimate source.",
+        "Incorrect. Sexual reproduction reshuffles genes, but the article identifies mutation as the ultimate source of new variation.",
+        "Incorrect. Genetic drift is mentioned as a process that changes allele frequencies, but it does not introduce new genetic variation."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what is the effect of recombination and reassortment in sexual organisms on allele frequencies?",
+      "question": "What is the name for the complete set of observable traits that make up the structure and behaviour of an organism?",
       "options": [
-        "They do not alter allele frequencies but change which alleles are associated with each other",
-        "They increase the frequency of beneficial alleles and decrease harmful ones",
-        "They introduce entirely new alleles into the population",
-        "They cause all alleles to reach fixation more quickly"
+        "Phenotype",
+        "Genotype",
+        "Genome",
+        "Allele"
       ],
       "answer_explanations": [
-        "Correct. The article states that recombination and reassortment do not alter allele frequencies, but instead change which alleles are associated with each other.",
-        "Incorrect. The article does not say recombination increases beneficial allele frequencies; that is the role of natural selection.",
-        "Incorrect. The article states that mutation introduces new genetic variation, not recombination or reassortment.",
-        "Incorrect. The article does not claim that recombination causes alleles to reach fixation more quickly."
+        "Correct. The article states: 'The complete set of observable traits that make up the structure and behaviour of an organism is called its phenotype.'",
+        "Incorrect. The genotype is the complete set of genes within an organism's genome, not the observable traits.",
+        "Incorrect. The genome is the genetic material of an organism, not the observable traits.",
+        "Incorrect. An allele is a variant form of a gene at a specific locus, not the set of observable traits."
       ]
     },
     {
       "id": 5,
-      "question": "What does the article identify as the ultimate source of genetic variation in all organisms?",
+      "question": "What is the name for the transfer of genetic material from one organism to another organism that is not its offspring?",
       "options": [
-        "Mutation",
-        "Gene flow",
-        "Natural selection",
-        "Genetic drift"
+        "Horizontal gene transfer",
+        "Vertical gene transfer",
+        "Gene duplication",
+        "Homologous recombination"
       ],
       "answer_explanations": [
-        "Correct. The article states that mutations are changes in the DNA sequence and are the ultimate source of genetic variation in all organisms.",
-        "Incorrect. Gene flow is described as a source of variation new to a population, but not as the ultimate source of all genetic variation.",
-        "Incorrect. Natural selection is a process that changes allele frequencies, not the source of new genetic variation.",
-        "Incorrect. Genetic drift is a process that affects allele frequencies, not the source of new genetic variation."
+        "Correct. The article states: 'Horizontal gene transfer is the transfer of genetic material from one organism to another organism that is not its offspring.'",
+        "Incorrect. The article does not define 'vertical gene transfer'; it describes horizontal gene transfer as the transfer to non-offspring.",
+        "Incorrect. Gene duplication is a type of mutation involving large sections of a chromosome, not transfer between organisms.",
+        "Incorrect. Homologous recombination is a process where sexual organisms exchange DNA between matching chromosomes, not transfer to non-offspring."
       ]
     },
     {
       "id": 6,
-      "question": "Based on the article, what can be concluded about the proportion of deleterious mutations in coding regions of protein-coding genes?",
+      "question": "Which of the following is NOT listed in the article as one of the observable facts that establish evolution by natural selection?",
       "options": [
-        "About half are deleterious and the other half are neutral",
-        "Almost all are deleterious",
-        "None are deleterious",
-        "Most are beneficial"
+        "All individuals in a population are genetically identical",
+        "More offspring are often produced than can possibly survive",
+        "Traits vary among individuals",
+        "Different traits confer different rates of survival and reproduction"
       ],
       "answer_explanations": [
-        "Correct. The article states that about half of the mutations in the coding regions of protein-coding genes are deleteriousâthe other half are neutral.",
-        "Incorrect. The article says about half are deleterious, not almost all.",
-        "Incorrect. The article explicitly states that about half are deleterious.",
-        "Incorrect. The article says only a small percentage confer a fitness benefit, not that most are beneficial."
+        "Correct. The article says traits vary among individuals, so it does not say all individuals are genetically identical. The other three options are all listed as observable facts.",
+        "Incorrect. The article lists 'more offspring are often produced than can possibly survive' as one of the observable facts.",
+        "Incorrect. The article lists 'traits vary among individuals' as one of the observable facts.",
+        "Incorrect. The article lists 'different traits confer different rates of survival and reproduction' as one of the observable facts."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the last universal common ancestor (LUCA)?",
+      "question": "What is the name of the last universal common ancestor from which all life on Earth is said to share?",
       "options": [
-        "All life on Earth shares LUCA, which lived approximately 3.5â3.8 billion years ago",
-        "LUCA was a multicellular organism that lived about 1 billion years ago",
-        "Only humans share LUCA, not other species",
-        "LUCA is a hypothetical concept with no fossil evidence"
+        "LUCA",
+        "DNA",
+        "MC1R",
+        "RNA"
       ],
       "answer_explanations": [
-        "Correct. The article states that all life on Earthâincluding humanityâshares a last universal common ancestor (LUCA), which lived approximately 3.5â3.8 billion years ago.",
-        "Incorrect. The article does not describe LUCA as multicellular or as living 1 billion years ago.",
-        "Incorrect. The article explicitly states that all life on Earth shares LUCA, not just humans.",
-        "Incorrect. The article presents LUCA as a fact of evolutionary history, not as a purely hypothetical concept without evidence."
+        "Correct. The article states: 'All life on Earthâincluding humanityâshares a last universal common ancestor (LUCA), which lived approximately 3.5â3.8 billion years ago.'",
+        "Incorrect. DNA is a molecule that encodes genetic information, not the name of the common ancestor.",
+        "Incorrect. MC1R is a gene mentioned in the article as an example of a mutation in wild boar piglets.",
+        "Incorrect. RNA is not mentioned in the article in this context."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what is one consequence of gene duplication?",
+      "question": "According to the article, what is the two-fold cost of sex?",
       "options": [
-        "Extra copies of genes provide raw material for new genes to evolve",
-        "Gene duplication always results in harmful mutations",
-        "Duplicated genes are immediately deleted from the genome",
-        "Gene duplication prevents sexual reproduction"
+        "Only one sex can bear young and individuals pass on only 50% of their genes",
+        "Sexual reproduction is slower and requires more energy",
+        "It leads to fewer offspring and less genetic diversity",
+        "It increases the risk of mutations and diseases"
       ],
       "answer_explanations": [
-        "Correct. The article states that extra copies of genes are a major source of the raw material needed for new genes to evolve.",
-        "Incorrect. The article does not say gene duplication always results in harmful mutations; it describes it as a source of raw material for new genes.",
-        "Incorrect. The article does not state that duplicated genes are immediately deleted.",
-        "Incorrect. The article does not link gene duplication to the prevention of sexual reproduction."
+        "Correct. The article states: 'The first cost is that in sexually dimorphic species only one of the two sexes can bear young. The second cost is that any individual who reproduces sexually can only pass on 50% of its genes to any individual offspring.'",
+        "Incorrect. The article does not mention speed or energy as costs of sex.",
+        "Incorrect. The article says sex usually increases genetic variation, not that it leads to less diversity.",
+        "Incorrect. The article does not mention an increased risk of mutations or diseases as a cost of sex."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article say about the two-fold cost of sex?",
+      "question": "What is the name for the process where new genes are generated from previously noncoding DNA?",
       "options": [
-        "Only one sex can bear young in sexually dimorphic species, and individuals pass on only 50% of their genes to offspring",
-        "Sexual reproduction has no costs compared to asexual reproduction",
-        "The two-fold cost applies only to hermaphroditic species",
-        "Sexual reproduction allows organisms to pass on 100% of their genes to offspring"
+        "De novo gene birth",
+        "Exon shuffling",
+        "Gene duplication",
+        "Genetic recombination"
       ],
       "answer_explanations": [
-        "Correct. The article describes the two costs: in sexually dimorphic species only one sex can bear young, and sexually reproducing individuals pass on only 50% of their genes to any individual offspring.",
-        "Incorrect. The article explicitly describes two costs of sexual reproduction.",
-        "Incorrect. The article states the first cost does not apply to hermaphroditic species, meaning it applies to sexually dimorphic species.",
-        "Incorrect. The article states that sexually reproducing individuals pass on only 50% of their genes, not 100%."
+        "Correct. The article states: 'Other types of mutations can even generate entirely new genes from previously noncoding DNA, a phenomenon termed de novo gene birth.'",
+        "Incorrect. Exon shuffling involves small parts of several genes being duplicated and recombined, not generating genes from noncoding DNA.",
+        "Incorrect. Gene duplication involves duplicating existing genes, not generating new ones from noncoding DNA.",
+        "Incorrect. Genetic recombination is a broader process that can involve duplication, but the article specifically uses 'de novo gene birth' for this phenomenon."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, how does horizontal gene transfer contribute to antibiotic resistance in medicine?",
+      "question": "What is the name for the exchange of genes between populations and between species?",
       "options": [
-        "Bacteria can rapidly transfer resistance genes to other species after acquiring them",
-        "Antibiotic resistance is caused solely by mutations within a single bacterium",
-        "Horizontal gene transfer prevents the spread of antibiotic resistance",
-        "Only eukaryotes can acquire antibiotic resistance through horizontal gene transfer"
+        "Gene flow",
+        "Genetic drift",
+        "Mutation",
+        "Natural selection"
       ],
       "answer_explanations": [
-        "Correct. The article states that in medicine, horizontal gene transfer contributes to the spread of antibiotic resistance, as when one bacterium acquires resistance genes it can rapidly transfer them to other species.",
-        "Incorrect. The article attributes the spread of antibiotic resistance to horizontal gene transfer between bacteria, not solely to mutations within one bacterium.",
-        "Incorrect. The article states that horizontal gene transfer contributes to the spread, not prevention, of antibiotic resistance.",
-        "Incorrect. The article describes horizontal gene transfer as most common among bacteria, not limited to eukaryotes."
+        "Correct. The article states: 'Gene flow is the exchange of genes between populations and between species.'",
+        "Incorrect. Genetic drift is a process that results in some genetic variants becoming more or less common, but it is not the exchange of genes between populations.",
+        "Incorrect. Mutation is the change in DNA sequence, not the exchange of genes between populations.",
+        "Incorrect. Natural selection is a process that results in some genetic variants becoming more or less common, but it is not the exchange of genes between populations."
       ]
     }
   ]

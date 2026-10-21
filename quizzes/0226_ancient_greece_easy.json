@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What body of water is Ancient Greece primarily centered in?",
+      "question": "What was the ancient Greek name for Ancient Greece?",
       "options": [
-        "the northeastern area of the Mediterranean Sea",
-        "the Atlantic Ocean",
-        "the Black Sea",
-        "the Red Sea"
+        "HellÃ¡s",
+        "Polis",
+        "Macedon",
+        "Byzantine"
       ],
       "answer_explanations": [
-        "Correct. The article states Ancient Greece was primarily centered in the northeastern area of the Mediterranean Sea.",
-        "Incorrect. The article does not mention the Atlantic Ocean as the center of Ancient Greece.",
-        "Incorrect. The article does not mention the Black Sea as the center of Ancient Greece.",
-        "Incorrect. The article does not mention the Red Sea as the center of Ancient Greece."
+        "Correct. The article states that Ancient Greece was romanized as *HellÃ¡s*.",
+        "Incorrect. Polis is the term for a city-state, not the name for Ancient Greece.",
+        "Incorrect. Macedon is a kingdom, not the name for Ancient Greece.",
+        "Incorrect. Byzantine refers to a later period, not the name for Ancient Greece."
       ]
     },
     {
       "id": 2,
-      "question": "Which civilization is generally considered the cradle of Western civilization according to the article?",
+      "question": "From which centuries did the Greek Dark Ages last?",
       "options": [
-        "Classical Greece",
-        "Ancient Rome",
-        "Ancient Egypt",
-        "Persia"
+        "12thâ9th centuries BC",
+        "8thâ6th centuries BC",
+        "5thâ4th centuries BC",
+        "3rdâ1st centuries BC"
       ],
       "answer_explanations": [
-        "Correct. The article states Classical Greece is generally considered the cradle of Western civilization.",
-        "Incorrect. While Ancient Rome propagated Greek culture, the article identifies Classical Greece as the cradle of Western civilization.",
-        "Incorrect. Ancient Egypt is not described as the cradle of Western civilization in the article.",
-        "Incorrect. Persia is not described as the cradle of Western civilization in the article."
+        "Correct. The article says the Greek Dark Ages were of the 12thâ9th centuries BC.",
+        "Incorrect. The 8thâ6th centuries BC are not the dates given for the Greek Dark Ages.",
+        "Incorrect. The 5thâ4th centuries BC are not the dates given for the Greek Dark Ages.",
+        "Incorrect. The 3rdâ1st centuries BC are not the dates given for the Greek Dark Ages."
       ]
     },
     {
       "id": 3,
-      "question": "Who is widely known as the 'father of history' according to the article?",
+      "question": "What did Ancient Greece comprise?",
       "options": [
-        "Herodotus",
-        "Thucydides",
-        "Xenophon",
-        "Plato"
+        "A loose collection of culturally and linguistically related city-states and regions",
+        "A single unified empire",
+        "A collection of independent kingdoms",
+        "A group of colonies in Africa"
       ],
       "answer_explanations": [
-        "Correct. The article states Herodotus is widely known as the 'father of history'.",
-        "Incorrect. Thucydides is mentioned as a successor to Herodotus, not as the father of history.",
-        "Incorrect. Xenophon is listed among authors who succeeded Herodotus.",
-        "Incorrect. Plato is listed among authors who succeeded Herodotus."
+        "Correct. The article states it comprised a loose collection of culturally and linguistically related city-states and regions.",
+        "Incorrect. The article says it was a loose collection, not a single unified empire.",
+        "Incorrect. The article mentions city-states and regions, not independent kingdoms.",
+        "Incorrect. The article does not describe Ancient Greece as a group of colonies in Africa."
       ]
     },
     {
       "id": 4,
-      "question": "What was the name of the city-state unit in Ancient Greece?",
+      "question": "Where was Ancient Greece primarily centered?",
       "options": [
-        "polis",
-        "empire",
-        "province",
-        "kingdom"
+        "In the northeastern area of the Mediterranean Sea",
+        "In the western area of the Atlantic Ocean",
+        "In the southern area of the Black Sea",
+        "In the central area of the Red Sea"
       ],
       "answer_explanations": [
-        "Correct. The article refers to Greek urban city-states as poleis, the plural of polis.",
-        "Incorrect. The article does not use empire to describe the city-state unit.",
-        "Incorrect. The article does not use province to describe the city-state unit.",
-        "Incorrect. The article does not use kingdom to describe the city-state unit."
+        "Correct. The article says it was primarily centered in the northeastern area of the Mediterranean Sea.",
+        "Incorrect. The article does not mention the Atlantic Ocean.",
+        "Incorrect. The article does not mention the Black Sea.",
+        "Incorrect. The article does not mention the Red Sea."
       ]
     },
     {
       "id": 5,
-      "question": "In which year did Alexander the Great die according to the article?",
+      "question": "Before the Roman period, how many times was most of this area officially unified?",
       "options": [
-        "323 BC",
-        "338 BC",
-        "30 BC",
-        "146 BC"
+        "Only once",
+        "Twice",
+        "Three times",
+        "Never"
       ],
       "answer_explanations": [
-        "Correct. The article states the Classical period ended with the death of Alexander the Great in 323 BC.",
-        "Incorrect. 338 BC marks the beginning of unification under the Kingdom of Macedon, not Alexander's death.",
-        "Incorrect. 30 BC marks the end of the Hellenistic period, not Alexander's death.",
-        "Incorrect. 146 BC marks the Roman victory at the Battle of Corinth, not Alexander's death."
+        "Correct. The article states that most of this area was officially unified only once, from 338 to 323 BC.",
+        "Incorrect. The article says only once, not twice.",
+        "Incorrect. The article says only once, not three times.",
+        "Incorrect. The article says it was unified once, so 'never' is wrong."
       ]
     },
     {
       "id": 6,
-      "question": "Which period followed the Greek Dark Ages according to the article?",
+      "question": "Under which kingdom was Ancient Greece unified from 338 to 323 BC?",
       "options": [
-        "Archaic period",
-        "Classical period",
-        "Hellenistic period",
-        "Roman period"
+        "Kingdom of Macedon",
+        "Kingdom of Sparta",
+        "Kingdom of Athens",
+        "Kingdom of Egypt"
       ],
       "answer_explanations": [
-        "Correct. The article states that following the Dark Ages was the Archaic period, beginning around the 8th century BC.",
-        "Incorrect. The Classical period followed the Archaic period, not the Dark Ages directly.",
-        "Incorrect. The Hellenistic period followed the Classical period.",
-        "Incorrect. The Roman period came after the Hellenistic period."
+        "Correct. The article says the unification was under the Kingdom of Macedon.",
+        "Incorrect. The article does not mention Sparta as the unifying kingdom.",
+        "Incorrect. The article does not mention Athens as the unifying kingdom.",
+        "Incorrect. The article does not mention Egypt as the unifying kingdom."
       ]
     },
     {
       "id": 7,
-      "question": "Which two city-states fought the Peloponnesian War according to the article?",
+      "question": "What did scholars mark as the beginning of Ancient Greece?",
       "options": [
-        "Athens and Sparta",
-        "Athens and Persia",
-        "Sparta and Thebes",
-        "Athens and Corinth"
+        "Mycenaean Greece",
+        "The Roman period",
+        "The Hellenistic period",
+        "The Byzantine period"
       ],
       "answer_explanations": [
-        "Correct. The article states the Peloponnesian War was between Athens and Sparta.",
-        "Incorrect. Persia was not one of the two main combatants in the Peloponnesian War according to the article.",
-        "Incorrect. Sparta and Thebes are not identified as the combatants of the Peloponnesian War in the article.",
-        "Incorrect. Corinth is mentioned in other contexts but not as the opponent of Athens in the Peloponnesian War."
+        "Correct. The article says scholars mark Ancient Greece as beginning with Mycenaean Greece.",
+        "Incorrect. The Roman period came later, not the beginning.",
+        "Incorrect. The Hellenistic period came later, not the beginning.",
+        "Incorrect. The Byzantine period came later, not the beginning."
       ]
     },
     {
       "id": 8,
-      "question": "Which kingdom officially unified most of the area of Ancient Greece from 338 to 323 BC?",
+      "question": "When did Mycenaean Greece decline?",
       "options": [
-        "Kingdom of Macedon",
-        "Kingdom of Persia",
-        "Kingdom of Sparta",
-        "Kingdom of Athens"
+        "c. 1100 BC",
+        "c. 800 BC",
+        "c. 500 BC",
+        "c. 300 BC"
       ],
       "answer_explanations": [
-        "Correct. The article states most of the area was officially unified only once, from 338 to 323 BC under the Kingdom of Macedon.",
-        "Incorrect. Persia is not described as unifying Greece in the article.",
-        "Incorrect. Sparta is not described as unifying Greece from 338 to 323 BC.",
-        "Incorrect. Athens is not described as unifying Greece from 338 to 323 BC."
+        "Correct. The article says Mycenaean Greece declined during the Bronze Age collapse c. 1100 BC.",
+        "Incorrect. The article gives c. 1100 BC, not c. 800 BC.",
+        "Incorrect. The article gives c. 1100 BC, not c. 500 BC.",
+        "Incorrect. The article gives c. 1100 BC, not c. 300 BC."
       ]
     },
     {
       "id": 9,
-      "question": "Which period is characterized by the intellectual flourishing of Ancient Greece from the Greco-Persian Wars to the death of Alexander the Great?",
+      "question": "What began to form in the 8th century BC?",
       "options": [
-        "Classical period",
-        "Archaic period",
-        "Hellenistic period",
-        "Dark Ages"
+        "Greek urban city-states, or poleis",
+        "The Roman Empire",
+        "The Byzantine Empire",
+        "The Achaemenid Empire"
       ],
       "answer_explanations": [
-        "Correct. The article describes the Classical period as the intellectual flourishing from the Greco-Persian Wars to the death of Alexander the Great in 323 BC.",
-        "Incorrect. The Archaic period preceded the Classical period and involved the formation of city-states.",
-        "Incorrect. The Hellenistic period followed the death of Alexander the Great.",
-        "Incorrect. The Dark Ages preceded the Archaic period."
+        "Correct. The article says Greek urban city-states, or poleis, began to form in the 8th century BC.",
+        "Incorrect. The Roman Empire is not mentioned as forming in the 8th century BC.",
+        "Incorrect. The Byzantine Empire is not mentioned as forming in the 8th century BC.",
+        "Incorrect. The Achaemenid Empire is not mentioned as forming in the 8th century BC."
       ]
     },
     {
       "id": 10,
-      "question": "What event marks the end of classical antiquity according to the article?",
+      "question": "What is Classical Greece generally considered to be?",
       "options": [
-        "c. 600 AD",
-        "c. 1100 BC",
-        "323 BC",
-        "146 BC"
+        "The cradle of Western civilization",
+        "The birthplace of the Roman Empire",
+        "The origin of the Byzantine Empire",
+        "The center of the Persian Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states Ancient Greece existed to the end of classical antiquity (c. 600 AD).",
-        "Incorrect. c. 1100 BC marks the decline of Mycenaean Greece, not the end of classical antiquity.",
-        "Incorrect. 323 BC marks the death of Alexander the Great, not the end of classical antiquity.",
-        "Incorrect. 146 BC marks the Roman victory at the Battle of Corinth, not the end of classical antiquity."
+        "Correct. The article says Classical Greece is generally considered the cradle of Western civilization.",
+        "Incorrect. The article does not say it is the birthplace of the Roman Empire.",
+        "Incorrect. The article does not say it is the origin of the Byzantine Empire.",
+        "Incorrect. The article does not say it is the center of the Persian Empire."
       ]
     }
   ]

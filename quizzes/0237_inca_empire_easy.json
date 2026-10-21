@@ -5,38 +5,102 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was the administrative, political, and military center of the Inca Empire?",
+      "question": "What was the official name of the Inca Empire?",
       "options": [
-        "Cusco",
-        "Lima",
-        "Machu Picchu",
-        "Quito"
+        "Realm of the Four Parts",
+        "Empire of the Sun",
+        "Land of the Incas",
+        "Kingdom of Cusco"
       ],
       "answer_explanations": [
-        "Correct. The article states that the administrative, political, and military center of the empire was in the city of Cusco.",
-        "Incorrect. Lima is not mentioned as the center of the Inca Empire in the article.",
-        "Incorrect. Machu Picchu is mentioned as possibly built by Pachacuti, but not as the administrative center.",
-        "Incorrect. Quito is not identified in the article as the empire's center."
+        "Correct. The article states the Inca Empire was officially known as the 'Realm of the Four Parts'.",
+        "Incorrect. The article does not use this name for the empire.",
+        "Incorrect. The article does not use this name for the empire.",
+        "Incorrect. The article does not use this name for the empire."
       ]
     },
     {
       "id": 2,
-      "question": "Which European explorer was the first to reach the Inca Empire in 1524?",
+      "question": "Where was the administrative, political, and military center of the Inca Empire?",
       "options": [
-        "Aleixo Garcia",
-        "Francisco Pizarro",
-        "Hernan Cortes",
-        "Christopher Columbus"
+        "Cusco",
+        "Lima",
+        "Quito",
+        "Machu Picchu"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Portuguese explorer Aleixo Garcia was the first European to reach the Inca Empire in 1524.",
-        "Incorrect. Francisco Pizarro is not named in the article as the first European to reach the empire.",
-        "Incorrect. Hernan Cortes is not mentioned in the article in connection with the Inca Empire.",
-        "Incorrect. Christopher Columbus is not mentioned in the article."
+        "Correct. The article says the center was in the city of Cusco.",
+        "Incorrect. The article does not mention Lima as the center.",
+        "Incorrect. The article does not mention Quito as the center.",
+        "Incorrect. The article does not mention Machu Picchu as the center."
       ]
     },
     {
       "id": 3,
+      "question": "From where did the Inca civilisation rise?",
+      "options": [
+        "The Peruvian highlands",
+        "The Chilean coast",
+        "The Bolivian lowlands",
+        "The Ecuadorian jungle"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Inca civilisation rose from the Peruvian highlands.",
+        "Incorrect. The article does not mention the Chilean coast as the origin.",
+        "Incorrect. The article does not mention the Bolivian lowlands as the origin.",
+        "Incorrect. The article does not mention the Ecuadorian jungle as the origin."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In what century did the Inca civilisation rise?",
+      "options": [
+        "Early 13th century",
+        "Late 14th century",
+        "Early 15th century",
+        "Late 12th century"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the Inca civilisation rose sometime in the early 13th century.",
+        "Incorrect. The article does not mention the late 14th century.",
+        "Incorrect. The article does not mention the early 15th century.",
+        "Incorrect. The article does not mention the late 12th century."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Who was the first European to reach the Inca Empire?",
+      "options": [
+        "Aleixo Garcia",
+        "Francisco Pizarro",
+        "HernÃ¡n CortÃ©s",
+        "Christopher Columbus"
+      ],
+      "answer_explanations": [
+        "Correct. The article names Aleixo Garcia as the first European to reach the Inca Empire in 1524.",
+        "Incorrect. The article does not mention Francisco Pizarro as the first European.",
+        "Incorrect. The article does not mention HernÃ¡n CortÃ©s as the first European.",
+        "Incorrect. The article does not mention Christopher Columbus as the first European."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "In what year did the Spanish begin the conquest of the Inca Empire?",
+      "options": [
+        "1532",
+        "1524",
+        "1572",
+        "1438"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that in 1532 the Spanish began the conquest.",
+        "Incorrect. 1524 is when Aleixo Garcia reached the empire, not when the Spanish conquest began.",
+        "Incorrect. 1572 is when the last Inca state was fully conquered, not when the conquest began.",
+        "Incorrect. 1438 is the start of the period of Inca expansion, not the Spanish conquest."
+      ]
+    },
+    {
+      "id": 7,
       "question": "What was the official language of the Inca Empire?",
       "options": [
         "Quechua",
@@ -45,122 +109,58 @@
         "Portuguese"
       ],
       "answer_explanations": [
-        "Correct. The article states that the official language of the Inca Empire was Quechua.",
-        "Incorrect. Spanish is not identified in the article as the official language of the Inca Empire.",
-        "Incorrect. Aymara is not mentioned in the article as the official language.",
-        "Incorrect. Portuguese is not identified in the article as the official language of the Inca Empire."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Which of the following did the Inca Empire lack according to the article?",
-      "options": [
-        "The wheel, draft animals, knowledge of iron or steel, and a system of writing",
-        "Monumental architecture and roads",
-        "Textiles and quipus",
-        "Agricultural innovations"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the Incas constructed their imperial state without the use of the wheel, draft animals, knowledge of iron or steel, or even a system of writing.",
-        "Incorrect. Monumental architecture and roads are listed as notable features of the Inca Empire.",
-        "Incorrect. Textiles and quipus are listed as notable features of the Inca Empire.",
-        "Incorrect. Agricultural innovations are listed as notable features of the Inca Empire."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What did 'taxes' consist of in the Inca Empire?",
-      "options": [
-        "A labour obligation of a person to the Empire",
-        "Payments in gold and silver",
-        "Trade goods and livestock",
-        "A percentage of crop harvests"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that 'taxes' consisted of a labour obligation of a person to the Empire.",
-        "Incorrect. The article states the empire functioned largely without money, not that taxes were paid in gold and silver.",
-        "Incorrect. The article does not describe taxes as trade goods and livestock.",
-        "Incorrect. The article does not describe taxes as a percentage of crop harvests."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "What does the Quechua word 'tawa' mean?",
-      "options": [
-        "Four",
-        "Sun",
-        "Land",
-        "King"
-      ],
-      "answer_explanations": [
-        "Correct. The etymology section states that in Quechua, tawa is four.",
-        "Incorrect. The article does not state that tawa means sun.",
-        "Incorrect. The article does not state that tawa means land.",
-        "Incorrect. The article does not state that tawa means king."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "Which region was Chinchaysuyu?",
-      "options": [
-        "North",
-        "East",
-        "South",
-        "West"
-      ],
-      "answer_explanations": [
-        "Correct. The etymology section lists Chinchaysuyu as the north region.",
-        "Incorrect. Antisuyu is identified as the east region, not Chinchaysuyu.",
-        "Incorrect. Qullasuyu is identified as the south region, not Chinchaysuyu.",
-        "Incorrect. Kuntisuyu is identified as the west region, not Chinchaysuyu."
+        "Correct. The article states that its official language was Quechua.",
+        "Incorrect. Spanish was not the official language of the Inca Empire.",
+        "Incorrect. Aymara is not mentioned as the official language.",
+        "Incorrect. Portuguese is not mentioned as the official language."
       ]
     },
     {
       "id": 8,
-      "question": "What did the Incas consider their king, the Sapa Inca, to be?",
+      "question": "Which of the following was NOT a feature of the Inca Empire mentioned in the introduction?",
       "options": [
-        "The son of the Sun",
-        "The son of the Moon",
-        "A direct descendant of Pachamama",
-        "A mortal chosen by the nobles"
+        "Use of iron and steel",
+        "Monumental architecture",
+        "Extensive road network",
+        "Use of knotted strings for record keeping"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Incas considered their king, the Sapa Inca, to be the 'son of the Sun'.",
-        "Incorrect. The article does not describe the Sapa Inca as the son of the Moon.",
-        "Incorrect. The article does not describe the Sapa Inca as a descendant of Pachamama.",
-        "Incorrect. The article does not describe the Sapa Inca as a mortal chosen by the nobles."
+        "Correct. The article says the Incas lacked knowledge of iron or steel, so this was not a feature.",
+        "Incorrect. The article lists monumental architecture as a notable feature.",
+        "Incorrect. The article lists an extensive road network as a notable feature.",
+        "Incorrect. The article lists the use of knotted strings (quipu) as a notable feature."
       ]
     },
     {
       "id": 9,
-      "question": "Which two large-scale empires preceded the Inca Empire in the Andes?",
+      "question": "How did the Inca Empire function largely without money?",
       "options": [
-        "Tiwanaku and Wari",
-        "Aztec and Maya",
-        "Chimu and Moche",
-        "Nazca and Chavin"
+        "Through reciprocity",
+        "Through bartering with gold",
+        "Through a system of taxes paid in coins",
+        "Through trading with European merchants"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Inca Empire was preceded by the Tiwanaku and Wari empires.",
-        "Incorrect. The Aztec and Maya are not mentioned in the article as preceding Andean empires.",
-        "Incorrect. The ChimÃº is mentioned later as a rival, but not as one of the two preceding empires.",
-        "Incorrect. The Nazca and Chavin are not mentioned in the article."
+        "Correct. The article states exchange was based on reciprocity between individuals and groups.",
+        "Incorrect. The article does not mention bartering with gold.",
+        "Incorrect. The article says 'taxes' were a labour obligation, not paid in coins.",
+        "Incorrect. The article does not mention trading with European merchants."
       ]
     },
     {
       "id": 10,
-      "question": "According to Carl Troll, what staple food aided the development of the Inca state?",
+      "question": "What did the Incas consider their king, the Sapa Inca, to be?",
       "options": [
-        "ChuÃ±o",
-        "Maize",
-        "Potato",
-        "Quinoa"
+        "The son of the Sun",
+        "The ruler of the mountains",
+        "The father of the people",
+        "The messenger of the gods"
       ],
       "answer_explanations": [
-        "Correct. The article states that Carl Troll argued the development of the Inca state was aided by conditions allowing for the elaboration of chuÃ±o.",
-        "Incorrect. The article mentions maize as another crop that can be dried, but not as Troll's proposed staple food.",
-        "Incorrect. While chuÃ±o is made of potato, the article specifically names chuÃ±o as the staple food in Troll's argument.",
-        "Incorrect. Quinoa is not mentioned in the article in connection with Carl Troll."
+        "Correct. The article says the Incas considered their king to be the 'son of the Sun'.",
+        "Incorrect. The article does not describe the king as the ruler of the mountains.",
+        "Incorrect. The article does not describe the king as the father of the people.",
+        "Incorrect. The article does not describe the king as the messenger of the gods."
       ]
     }
   ]

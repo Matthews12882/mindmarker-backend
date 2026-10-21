@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Michelangelo's full birth name as stated in the article?",
+      "question": "What was Michelangelo's full name?",
       "options": [
         "Michelangelo di Lodovico Buonarroti Simoni",
-        "Michelangelo Buonarroti Simoni",
-        "Michelangelo di Lodovico Simoni",
-        "Michelangelo di Buonarroti"
+        "Michelangelo di Leonardo Buonarroti",
+        "Michelangelo di Antonio Sangallo",
+        "Michelangelo di Giorgio Vasari"
       ],
       "answer_explanations": [
-        "Correct. The article opens with \"Michelangelo di Lodovico Buonarroti Simoni\" as his full birth name.",
-        "Incorrect. The article includes the full name with \"di Lodovico\", not omitting it.",
-        "Incorrect. The article includes \"Buonarroti Simoni\" after \"di Lodovico\", not just \"Simoni\".",
-        "Incorrect. The article lists \"Buonarroti Simoni\" as part of his full name, not \"Buonarroti\" alone."
+        "Correct. The article states his full name as 'Michelangelo di Lodovico Buonarroti Simoni'.",
+        "Incorrect. The article does not mention Leonardo as part of his name.",
+        "Incorrect. Antonio da Sangallo the Younger is mentioned later in the article, not as part of Michelangelo's name.",
+        "Incorrect. Giorgio Vasari is a biographer mentioned in the article, not part of Michelangelo's name."
       ]
     },
     {
       "id": 2,
-      "question": "Which two of Michelangelo's works were sculpted before the age of 30?",
+      "question": "When was Michelangelo born?",
       "options": [
-        "The PietÃ  and David",
-        "The Last Judgment and the Sistine Chapel ceiling",
-        "The Laurentian Library and St. Peter's Basilica",
-        "The Battle of the Centaurs and the Madonna of the Stairs"
+        "6 March 1475",
+        "18 February 1564",
+        "6 March 1564",
+        "18 February 1475"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Two of his best-known works, the *PietÃ * and *David*, were sculpted before the age of 30.\"",
-        "Incorrect. The Last Judgment and Sistine Chapel ceiling are frescoes, not sculptures, and were created later.",
-        "Incorrect. The Laurentian Library and St. Peter's Basilica are architectural projects, not sculptures from his early years.",
-        "Incorrect. The Battle of the Centaurs and Madonna of the Stairs are earlier works but not the two specifically mentioned as sculpted before age 30."
+        "Correct. The article gives his birth date as 6 March 1475.",
+        "Incorrect. 18 February 1564 is his death date, not his birth date.",
+        "Incorrect. This date is not mentioned in the article.",
+        "Incorrect. This date is not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "Which city did Michelangelo move to from Florence after the Medici were expelled in 1494?",
+      "question": "In which republic was Michelangelo born?",
       "options": [
-        "Venice",
-        "Rome",
-        "Bologna",
-        "Milan"
+        "Republic of Florence",
+        "Republic of Rome",
+        "Republic of Venice",
+        "Republic of Milan"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"Michelangelo left the city before the end of the political upheaval, moving to Venice and then to Bologna.\"",
-        "Incorrect. He moved to Venice and Bologna, not directly to Rome at that time.",
-        "Incorrect. He moved to Bologna after Venice, not as the first destination.",
-        "Incorrect. Milan is not mentioned as a destination in this context."
+        "Correct. The article says he was born in the Republic of Florence.",
+        "Incorrect. The article does not mention a Republic of Rome.",
+        "Incorrect. The article does not mention Venice.",
+        "Incorrect. The article does not mention Milan."
       ]
     },
     {
       "id": 4,
-      "question": "Which artwork did Michelangelo create as a gift to the prior of the Florentine church of Santo Spirito?",
+      "question": "Where was Michelangelo mostly active from his 30s onwards?",
       "options": [
-        "A polychrome wooden Crucifix",
-        "A marble statue of Hercules",
-        "A sculpture of St. John the Baptist",
-        "A sleeping Cupid"
+        "Rome",
+        "Florence",
+        "Venice",
+        "Milan"
       ],
       "answer_explanations": [
-        "Correct. The article notes: \"Between 1493 and 1494, Michelangelo carved a polychrome wooden *Crucifix* (1493), as a gift to the prior of the Florentine church of Santo Spirito...\"",
-        "Incorrect. The marble Hercules was a later block he bought, not a gift for that church.",
-        "Incorrect. St. John the Baptist was created later in Florence, not as a gift to Santo Spirito.",
-        "Incorrect. The sleeping Cupid was also created later, not as a gift to Santo Spirito."
+        "Correct. The article states he was 'mostly active in Rome from his 30s onwards'.",
+        "Incorrect. Florence is his birthplace, not where he was mostly active later.",
+        "Incorrect. The article does not mention Venice.",
+        "Incorrect. The article does not mention Milan."
       ]
     },
     {
       "id": 5,
-      "question": "What was the name of the cardinal who commissioned the *PietÃ *?",
+      "question": "What did Michelangelo's work have a lasting influence on?",
       "options": [
-        "Cardinal Jean de BilhÃ¨res-Lagraulas",
-        "Cardinal Raffaele Riario",
-        "Cardinal Antonio da Sangallo the Younger",
-        "Cardinal Pietro Bembo"
+        "Western art",
+        "Eastern art",
+        "Modern art",
+        "Classical art"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"In November 1497, the French ambassador to the Holy See, Cardinal Jean de BilhÃ¨res-Lagraulas, commissioned him to carve a *PietÃ *.\"",
-        "Incorrect. Cardinal Riario commissioned the *Bacchus* statue, not the *PietÃ *.",
-        "Incorrect. Cardinal Antonio da Sangallo the Younger is mentioned later as an architect, not for the *PietÃ *.",
-        "Incorrect. Cardinal Pietro Bembo is not mentioned in connection with Michelangelo's commissions."
+        "Correct. The article says his work 'had a lasting influence on Western art'.",
+        "Incorrect. The article does not mention Eastern art.",
+        "Incorrect. The article does not mention modern art.",
+        "Incorrect. Classical antiquity is mentioned as inspiration, not as the influence of his work."
       ]
     },
     {
       "id": 6,
-      "question": "Where is the original *David* statue currently located?",
+      "question": "Who was Michelangelo's rival and elder contemporary?",
       "options": [
-        "The Accademia in Florence",
-        "The Piazza della Signoria in Florence",
-        "The Vatican Museums",
-        "The Uffizi Gallery"
+        "Leonardo da Vinci",
+        "Giorgio Vasari",
+        "Ascanio Condivi",
+        "Antonio da Sangallo the Younger"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"It now stands in the [Accademia](https://en.wikipedia.org/wiki/Galleria_dell%27Accademia), and in 1910 a marble replica was raised in its place in the square.\"",
-        "Incorrect. The original is in the Accademia; the Piazza della Signoria has a marble replica.",
-        "Incorrect. The Vatican Museums do not house the original *David*.",
-        "Incorrect. The Uffizi Gallery does not contain the original *David*."
+        "Correct. The article mentions 'his rival and elder contemporary, Leonardo da Vinci'.",
+        "Incorrect. Giorgio Vasari was a biographer, not his rival.",
+        "Incorrect. Ascanio Condivi was another biographer.",
+        "Incorrect. Antonio da Sangallo the Younger is mentioned later in the article, not as his rival."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following works is NOT a fresco by Michelangelo?",
+      "question": "Which two sculpted works by Michelangelo are mentioned as his best-known?",
       "options": [
-        "The Last Judgment",
-        "Scenes from Genesis on the Sistine Chapel ceiling",
-        "The Battle of the Centaurs",
-        "The PietÃ"
+        "PietÃ  and David",
+        "David and Moses",
+        "PietÃ  and The Last Judgment",
+        "David and The Creation of Adam"
       ],
       "answer_explanations": [
-        "Correct. The article describes *The Last Judgment* and the Sistine Chapel ceiling as frescoes, while the *Battle of the Centaurs* is a sculpture, and the *PietÃ * is a sculpture.",
-        "Incorrect. Both *The Last Judgment* and the Sistine Chapel ceiling are frescoes.",
-        "Incorrect. The *Battle of the Centaurs* is a sculpture, not a fresco, making it the correct answer; however, the question asks which is NOT a fresco, and the correct answer is *The Battle of the Centaurs*.",
-        "Incorrect. The *PietÃ * is a sculpture, not a fresco, but the question asks which is NOT a fresco; both *The Battle of the Centaurs* and *The PietÃ * are not frescoes. However, the *Battle of the Centaurs* is listed as an option, making it the intended answer."
+        "Correct. The article says 'Two of his best-known works, the PietÃ  and David, were sculpted before the age of 30'.",
+        "Incorrect. Moses is not mentioned in the article.",
+        "Incorrect. The Last Judgment is a fresco, not a sculpture.",
+        "Incorrect. The Creation of Adam is part of the Sistine Chapel ceiling fresco, not a sculpture."
       ]
     },
     {
       "id": 8,
-      "question": "Which term describes Michelangelo's ability to instill awe in viewers, as admired by his contemporaries?",
+      "question": "Before what age did Michelangelo sculpt the PietÃ  and David?",
       "options": [
-        "TerribilitÃ",
-        "Divino",
-        "Renaissance man",
-        "Mannerist"
+        "30",
+        "40",
+        "50",
+        "70"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: \"His contemporaries admired his *[terribilitÃ ]*âhis ability to instill a sense of awe in viewers of his art.\"",
-        "Incorrect. *Divino* refers to the honorific given by Vasari, not the specific ability to inspire awe.",
-        "Incorrect. *Renaissance man* describes his versatility, not the awe-inspiring quality.",
-        "Incorrect. *Mannerist* refers to a later artistic movement influenced by his style."
+        "Correct. The article states they were 'sculpted before the age of 30'.",
+        "Incorrect. The article does not mention 40.",
+        "Incorrect. The article does not mention 50.",
+        "Incorrect. The article mentions 71 for his age when he became architect of St. Peter's, not for these sculptures."
       ]
     },
     {
       "id": 9,
-      "question": "What architectural work did Michelangelo design that pioneered Mannerist architecture?",
+      "question": "Did Michelangelo consider himself a painter?",
       "options": [
-        "The Laurentian Library",
-        "St. Peter's Basilica",
-        "The Sistine Chapel",
-        "The Florence Cathedral"
+        "No",
+        "Yes",
+        "Sometimes",
+        "Only later in life"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"His design of the [Laurentian Library](https://en.wikipedia.org/wiki/Laurentian_Library \"Laurentian Library\") pioneered [Mannerist architecture](https://en.wikipedia.org/wiki/Mannerism#Mannerist_architecture \"Mannerism\").\"",
-        "Incorrect. St. Peter's Basilica is also an architectural work but not specifically noted as pioneering Mannerist architecture in the article.",
-        "Incorrect. The Sistine Chapel is a painted ceiling, not an architectural design by Michelangelo.",
-        "Incorrect. The Florence Cathedral is not an architectural design by Michelangelo."
+        "Correct. The article says 'Although he did not consider himself a painter'.",
+        "Incorrect. The article explicitly states he did not consider himself a painter.",
+        "Incorrect. The article does not say sometimes.",
+        "Incorrect. The article does not mention a change in his self-perception."
       ]
     },
     {
       "id": 10,
-      "question": "Which biographer published the first biography of Michelangelo during his lifetime?",
+      "question": "Which two frescoes by Michelangelo are mentioned as the most influential?",
       "options": [
-        "Giorgio Vasari",
-        "Ascanio Condivi",
-        "Leonardo da Vinci",
-        "Piero di Cosimo"
+        "Scenes from Genesis on the Sistine Chapel ceiling and The Last Judgment on its altar wall",
+        "The Creation of Adam and The Last Supper",
+        "PietÃ  and David",
+        "The Last Judgment and The School of Athens"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"Michelangelo was the first Western artist whose biography was published during his lifetime. [Giorgio Vasari](https://en.wikipedia.org/wiki/Giorgio_Vasari \"Giorgio Vasari\")'s *[Lives](https://en.wikipedia.org/wiki/Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects \"Lives of the Most Excellent Painters, Sculptors, and Architects*) (1550)...\"",
-        "Incorrect. Ascanio Condivi wrote a biography later, not the first published during Michelangelo's lifetime.",
-        "Incorrect. Leonardo da Vinci is not a biographer of Michelangelo.",
-        "Incorrect. Piero di Cosimo was an artist, not a biographer."
+        "Correct. The article mentions 'scenes from Genesis on the ceiling of the Sistine Chapel' and 'The Last Judgment on its altar wall'.",
+        "Incorrect. The Last Supper is not mentioned in the article.",
+        "Incorrect. PietÃ  and David are sculptures, not frescoes.",
+        "Incorrect. The School of Athens is not mentioned in the article."
       ]
     }
   ]

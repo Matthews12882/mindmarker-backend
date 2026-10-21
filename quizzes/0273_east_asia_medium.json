@@ -5,23 +5,55 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following is NOT listed as a sovereign country in East Asia?",
+      "question": "Which countries are listed as part of East Asia in the article?",
       "options": [
-        "Hong Kong",
-        "China",
-        "Japan",
-        "Mongolia"
+        "China, Japan, Mongolia, North Korea, South Korea, and Taiwan",
+        "China, India, Japan, and Russia",
+        "Japan, Thailand, and Vietnam",
+        "Mongolia, Nepal, and Bhutan"
       ],
       "answer_explanations": [
-        "Correct. The article states that East Asia includes China, Japan, Mongolia, North Korea, South Korea, and Taiwan, plus two special administrative regions of China: Hong Kong and Macau. Hong Kong is a special administrative region, not a sovereign country.",
-        "Incorrect. China is explicitly listed as a country in East Asia.",
-        "Incorrect. Japan is explicitly listed as a country in East Asia.",
-        "Incorrect. Mongolia is explicitly listed as a country in East Asia."
+        "Correct. The article states: 'It includes China, Japan, Mongolia, North Korea, South Korea, and Taiwan, plus two special administrative regions of China: Hong Kong and Macau.'",
+        "Incorrect. India and Russia are not listed as part of East Asia in the article.",
+        "Incorrect. Thailand and Vietnam are in Southeast Asia, not listed as East Asian countries in the article.",
+        "Incorrect. Nepal and Bhutan are in South Asia, not listed as East Asian countries in the article."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, which civilization is regarded as one of the earliest cradles of civilization in East Asia?",
+      "question": "What is the approximate population of East Asia according to the article?",
+      "options": [
+        "Around 1,648 billion people",
+        "Around 500 million people",
+        "Around 2 billion people",
+        "Around 1 million people"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'East Asia is inhabited by around 1,648 billion people, making up nearly 33% of the population in continental Asia and 20% of the global population.'",
+        "Incorrect. The article gives a figure of about 1,648 billion, not 500 million.",
+        "Incorrect. The article gives a figure of about 1,648 billion, not 2 billion.",
+        "Incorrect. The article gives a figure of about 1,648 billion, not 1 million."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is listed as a major religion in East Asia?",
+      "options": [
+        "Buddhism (mostly Mahayana)",
+        "Hinduism",
+        "Judaism",
+        "Sikhism"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions 'Buddhism (mostly Mahayana)' among the major religions in East Asia.",
+        "Incorrect. Hinduism is not listed as a major religion in East Asia in the article.",
+        "Incorrect. Judaism is not listed as a major religion in East Asia in the article.",
+        "Incorrect. Sikhism is not listed as a major religion in East Asia in the article."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which civilization is described as one of the earliest cradles of civilization in East Asia?",
       "options": [
         "Chinese civilization",
         "Japanese civilization",
@@ -30,62 +62,78 @@
       ],
       "answer_explanations": [
         "Correct. The article states: 'East Asia, especially the Chinese civilization, is regarded as one of the earliest cradles of civilization.'",
-        "Incorrect. The Japanese civilization is mentioned as an ancient civilization that still exists, but not as one of the earliest cradles.",
-        "Incorrect. The Korean civilization is mentioned as an ancient civilization that still exists, but not as one of the earliest cradles.",
-        "Incorrect. The Mongolian civilization is mentioned as an ancient civilization that still exists, but not as one of the earliest cradles."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Which of the following is a major religion in East Asia according to the article?",
-      "options": [
-        "Mahayana Buddhism",
-        "Hinduism",
-        "Sikhism",
-        "Judaism"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists 'Buddhism (mostly Mahayana)' as one of the major religions in East Asia.",
-        "Incorrect. Hinduism is not mentioned as a major religion in East Asia.",
-        "Incorrect. Sikhism is not mentioned as a major religion in East Asia.",
-        "Incorrect. Judaism is not mentioned as a major religion in East Asia."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What is the approximate population of East Asia as a percentage of the global population, according to the article?",
-      "options": [
-        "20%",
-        "33%",
-        "50%",
-        "10%"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'East Asia is inhabited by around 1,648 billion people, making up nearly 33% of the population in continental Asia and 20% of the global population.'",
-        "Incorrect. 33% is the percentage of continental Asia's population, not the global population.",
-        "Incorrect. The article does not state that East Asia makes up 50% of the global population.",
-        "Incorrect. The article states 20%, not 10%."
+        "Incorrect. The article specifically highlights Chinese civilization as one of the earliest cradles, not Japanese civilization.",
+        "Incorrect. The article specifically highlights Chinese civilization as one of the earliest cradles, not Korean civilization.",
+        "Incorrect. The article specifically highlights Chinese civilization as one of the earliest cradles, not Mongolian civilization."
       ]
     },
     {
       "id": 5,
-      "question": "Which country has the lowest population density of a sovereign state, as mentioned in the article?",
+      "question": "What is the overall population density of East Asia as of 2025, according to the article?",
       "options": [
-        "Mongolia",
-        "China",
-        "Japan",
-        "South Korea"
+        "133 inhabitants per square kilometre",
+        "45 inhabitants per square kilometre",
+        "340 inhabitants per square kilometre",
+        "100 inhabitants per square kilometre"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Mongolia having the lowest population density of a sovereign state.'",
-        "Incorrect. China is described as having sparsely populated areas in the west, but not as the lowest density sovereign state.",
-        "Incorrect. Japan is not described as having the lowest population density.",
-        "Incorrect. South Korea is not described as having the lowest population density."
+        "Correct. The article states: 'As of 2025, the overall population density of the region is 133 inhabitants per square kilometre (340/sq mi), about three times the world average of 45/km2 (120/sq mi).'",
+        "Incorrect. 45/km2 is the world average, not the East Asia density.",
+        "Incorrect. 340/sq mi is the density in square miles, not per square kilometre.",
+        "Incorrect. The article gives 133 per square kilometre, not 100."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, which Chinese dynasty exerted the greatest influence on East Asia during the medieval period?",
+      "question": "Which of the following is listed as a major language in East Asia?",
+      "options": [
+        "Mandarin Chinese",
+        "English",
+        "French",
+        "Spanish"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The major languages in East Asia include Mandarin Chinese, Japanese, and Korean.'",
+        "Incorrect. English is not listed as a major language in East Asia in the article.",
+        "Incorrect. French is not listed as a major language in East Asia in the article.",
+        "Incorrect. Spanish is not listed as a major language in East Asia in the article."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which ethnic group is mentioned as the major ethnic group in China and Taiwan?",
+      "options": [
+        "Han",
+        "Yamato",
+        "Koreans",
+        "Mongols"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'The major ethnic groups of East Asia include the Han in China and Taiwan, Yamato in Japan, Koreans in North and South Korea, and Mongols in Mongolia.'",
+        "Incorrect. Yamato is the major ethnic group in Japan, not China and Taiwan.",
+        "Incorrect. Koreans are the major ethnic group in Korea, not China and Taiwan.",
+        "Incorrect. Mongols are the major ethnic group in Mongolia, not China and Taiwan."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did the Han dynasty's northeastern expansion in 108 BC lead to?",
+      "options": [
+        "The establishment of a province called Lelang in the northern part of the Korean peninsula",
+        "The conquest of Japan",
+        "The founding of the Tang dynasty",
+        "The opening of the Silk Road to Europe"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'China's impact and influence on Korea began with the Han dynasty's northeastern expansion in 108 BC when the Han Chinese conquered the northern part of the Korean peninsula and established a province called Lelang.'",
+        "Incorrect. The article does not mention the conquest of Japan by the Han dynasty.",
+        "Incorrect. The Tang dynasty was established much later, not as a result of the Han expansion.",
+        "Incorrect. The article does not link the Han expansion to the opening of the Silk Road."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "During which dynasty did China exert its greatest influence on East Asia, according to the article?",
       "options": [
         "Tang dynasty",
         "Han dynasty",
@@ -94,73 +142,25 @@
       ],
       "answer_explanations": [
         "Correct. The article states: 'During the Tang dynasty, China exerted its greatest influence on East Asia as various aspects of Chinese culture spread to Japan and Korea.'",
-        "Incorrect. The Han dynasty is described as making China a regional powerhouse, but the Tang dynasty is specifically noted for its greatest influence.",
-        "Incorrect. The Qing dynasty is mentioned in the context of decline in the 19th century, not medieval influence.",
-        "Incorrect. The Ming dynasty is not mentioned in the article."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "What reform did Prince Naka no Åe launch in 645 AD, inspired by the Tang political system?",
-      "options": [
-        "Taika Reform",
-        "Meiji Restoration",
-        "Han conquest of Gojoseon",
-        "Bakumatsu"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'Prince Naka no Åe launched the Taika Reform in 645 AD where he radically transformed Japan's political bureaucracy into a more centralized bureaucratic empire.'",
-        "Incorrect. The Meiji Restoration occurred in the 19th century, not 645 AD.",
-        "Incorrect. The Han conquest of Gojoseon was a Chinese military campaign in 108 BC.",
-        "Incorrect. Bakumatsu refers to the end of the Edo period in Japan, not a reform in 645 AD."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "Which of the following is a major ethnic group in East Asia, according to the article?",
-      "options": [
-        "Han Chinese",
-        "Ainu",
-        "Ryukyuan",
-        "Uyghurs"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists 'Han in China and Taiwan' as one of the major ethnic groups of East Asia.",
-        "Incorrect. The Ainu are mentioned as an indigenous group native to Hokkaido, but not as a major ethnic group.",
-        "Incorrect. The Ryukyuan people are described as an unrecognized ethnic group, not a major one.",
-        "Incorrect. The Uyghurs are listed as a minority group in China, not as a major ethnic group."
-      ]
-    },
-    {
-      "id": 9,
-      "question": "Which of the following best describes the tributary system of China?",
-      "options": [
-        "A system where the Chinese emperor received tribute from other rulers in exchange for political benefits and recognition",
-        "A system of military conquest and colonization of neighboring regions",
-        "A system of free trade agreements between China and European powers",
-        "A system of cultural exchange programs initiated by the Tang dynasty"
-      ],
-      "answer_explanations": [
-        "Correct. The article explains: 'Under this system, the Chinese emperor received tribute from other rulers and in return received political benefits (like recognition or non-aggression agreements) or physical gifts.'",
-        "Incorrect. The tributary system was diplomatic and economic, not primarily military conquest.",
-        "Incorrect. The tributary system involved East Asian and steppe kingdoms, not European powers.",
-        "Incorrect. While cultural exchange occurred, the system was primarily about tribute and political recognition."
+        "Incorrect. While the Han dynasty was influential, the article specifically says the Tang dynasty was when China exerted its greatest influence.",
+        "Incorrect. The Qing dynasty is mentioned in the context of decline, not as the period of greatest influence.",
+        "Incorrect. The Ming dynasty is not mentioned as the period of greatest influence in the article."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what sparked Japan's rapid transformation into an industrialized nation in the 19th century?",
+      "question": "What did the Meiji Restoration in Japan spark, according to the article?",
       "options": [
-        "Meiji Restoration",
-        "Taika Reform",
-        "Opening by Commodore Perry",
-        "Adoption of Chinese characters"
+        "Rapid societal transformation from an isolated feudal state into East Asia's first industrialised nation",
+        "The opening of Japan to Western influence by Commodore Perry",
+        "The establishment of the tributary system",
+        "The decline of the Qing dynasty"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'the Meiji Restoration in Japan sparked rapid societal transformation from an isolated feudal state into East Asia's first industrialised nation.'",
-        "Incorrect. The Taika Reform occurred in 645 AD, not the 19th century.",
-        "Incorrect. Commodore Perry's opening of Japan is mentioned as a precursor, but the Meiji Restoration is credited with the transformation.",
-        "Incorrect. Adoption of Chinese characters occurred much earlier, in the 4th century AD."
+        "Correct. The article states: 'The Meiji Restoration in Japan sparked rapid societal transformation from an isolated feudal state into East Asia's first industrialised nation.'",
+        "Incorrect. The opening of Japan to Western influence was done by Commodore Perry, not the Meiji Restoration itself.",
+        "Incorrect. The tributary system was established much earlier and is not linked to the Meiji Restoration.",
+        "Incorrect. The decline of the Qing dynasty is mentioned separately, not as a result of the Meiji Restoration."
       ]
     }
   ]

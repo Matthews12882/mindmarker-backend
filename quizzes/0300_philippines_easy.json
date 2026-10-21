@@ -9,158 +9,158 @@
       "options": [
         "Republic of the Philippines",
         "Philippine Islands",
-        "Las Islas Filipinas",
-        "Philippine Republic"
+        "Federal Republic of the Philippines",
+        "Democratic Republic of the Philippines"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Philippines, officially the Republic of the Philippines'.",
-        "Incorrect. 'Philippine Islands' was used by American colonial authorities but is not the official name.",
-        "Incorrect. 'Las Islas Filipinas' was the Spanish name for the archipelago.",
-        "Incorrect. 'Philippine Republic' was proclaimed during the Philippine Revolution but is not the current official name."
+        "Correct. The article states: 'The **Philippines**, officially the **Republic of the Philippines**.'",
+        "Incorrect. The article says the official name is the Republic of the Philippines, not Philippine Islands.",
+        "Incorrect. The article says the official name is the Republic of the Philippines, not Federal Republic of the Philippines.",
+        "Incorrect. The article says the official name is the Republic of the Philippines, not Democratic Republic of the Philippines."
       ]
     },
     {
       "id": 2,
-      "question": "How many islands make up the Philippines?",
+      "question": "How many islands does the Philippines consist of?",
       "options": [
-        "About 7,641",
-        "About 10,000",
-        "About 5,000",
-        "About 8,000"
+        "about 7,641 islands",
+        "about 6,000 islands",
+        "about 8,000 islands",
+        "about 5,000 islands"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'it consists of about 7,641 islands'.",
-        "Incorrect. The article specifies about 7,641 islands, not 10,000.",
-        "Incorrect. The article specifies about 7,641 islands, not 5,000.",
-        "Incorrect. The article specifies about 7,641 islands, not 8,000."
+        "Correct. The article states: 'it consists of about 7,641 islands'.",
+        "Incorrect. The article specifies about 7,641 islands, not about 6,000.",
+        "Incorrect. The article specifies about 7,641 islands, not about 8,000.",
+        "Incorrect. The article specifies about 7,641 islands, not about 5,000."
       ]
     },
     {
       "id": 3,
-      "question": "What are the three main geographical divisions of the Philippines from north to south?",
+      "question": "What is the total area of the Philippines in square kilometers?",
       "options": [
-        "Luzon, Visayas, Mindanao",
-        "Mindanao, Visayas, Luzon",
-        "Visayas, Luzon, Mindanao",
-        "Luzon, Mindanao, Visayas"
+        "about 300,000 square kilometers",
+        "about 200,000 square kilometers",
+        "about 400,000 square kilometers",
+        "about 500,000 square kilometers"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'from north to south, Luzon, Visayas, and Mindanao'.",
-        "Incorrect. The order from north to south is Luzon, Visayas, Mindanao.",
-        "Incorrect. The order from north to south is Luzon, Visayas, Mindanao.",
-        "Incorrect. The order from north to south is Luzon, Visayas, Mindanao."
+        "Correct. The article states: 'with a total area of about 300,000 square kilometers'.",
+        "Incorrect. The article says about 300,000 square kilometers, not about 200,000.",
+        "Incorrect. The article says about 300,000 square kilometers, not about 400,000.",
+        "Incorrect. The article says about 300,000 square kilometers, not about 500,000."
       ]
     },
     {
       "id": 4,
-      "question": "Which body of water borders the Philippines to the west?",
+      "question": "What are the three main geographical divisions of the islands, from north to south?",
       "options": [
-        "South China Sea",
-        "Philippine Sea",
-        "Celebes Sea",
-        "Pacific Ocean"
+        "Luzon, Visayas, and Mindanao",
+        "Mindanao, Visayas, and Luzon",
+        "Luzon, Mindanao, and Visayas",
+        "Visayas, Luzon, and Mindanao"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The Philippines is bounded by the South China Sea to the west'.",
-        "Incorrect. The Philippine Sea is to the east.",
-        "Incorrect. The Celebes Sea is to the south.",
-        "Incorrect. The Pacific Ocean is a larger body, but the specific western boundary is the South China Sea."
+        "Correct. The article states: 'from north to south, Luzon, Visayas, and Mindanao'.",
+        "Incorrect. The article lists them from north to south as Luzon, Visayas, and Mindanao, not Mindanao first.",
+        "Incorrect. The article lists them from north to south as Luzon, Visayas, and Mindanao, not Luzon, Mindanao, and Visayas.",
+        "Incorrect. The article lists them from north to south as Luzon, Visayas, and Mindanao, not Visayas first."
       ]
     },
     {
       "id": 5,
-      "question": "What is the capital of the Philippines?",
+      "question": "What is the population of the Philippines mentioned in the article?",
       "options": [
-        "Manila",
-        "Quezon City",
-        "Metro Manila",
-        "Cebu City"
+        "over 114 million",
+        "over 100 million",
+        "over 120 million",
+        "over 90 million"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Manila is the country's capital'.",
-        "Incorrect. Quezon City is the most populated city, not the capital.",
-        "Incorrect. Metro Manila is the metropolitan area containing Manila and Quezon City, not the capital itself.",
-        "Incorrect. Cebu City is not mentioned as the capital."
+        "Correct. The article states: 'With a population of over 114 million'.",
+        "Incorrect. The article says over 114 million, not over 100 million.",
+        "Incorrect. The article says over 114 million, not over 120 million.",
+        "Incorrect. The article says over 114 million, not over 90 million."
       ]
     },
     {
       "id": 6,
-      "question": "Who named the Philippines 'las Islas Filipinas'?",
+      "question": "Which sea is to the west of the Philippines?",
       "options": [
-        "Ruy LÃ³pez de Villalobos",
-        "Ferdinand Magellan",
-        "Miguel LÃ³pez de Legazpi",
-        "King Philip II"
+        "South China Sea",
+        "Philippine Sea",
+        "Celebes Sea",
+        "East China Sea"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'In 1543, Spanish explorer Ruy LÃ³pez de Villalobos named the archipelago las Islas Filipinas'.",
-        "Incorrect. Magellan arrived earlier but did not name the islands that way.",
-        "Incorrect. Legazpi arrived later and began colonization.",
-        "Incorrect. King Philip II was the person honored by the name, not the namer."
+        "Correct. The article states: 'The Philippines is bounded by the South China Sea to the west'.",
+        "Incorrect. The Philippine Sea is to the east, not the west.",
+        "Incorrect. The Celebes Sea is to the south, not the west.",
+        "Incorrect. The article does not mention the East China Sea; it mentions the South China Sea to the west."
       ]
     },
     {
       "id": 7,
-      "question": "When did the Philippines become independent?",
+      "question": "What is the capital of the Philippines?",
       "options": [
-        "1946",
-        "1898",
-        "1935",
-        "1986"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'the Philippines became independent in 1946'.",
-        "Incorrect. 1898 was the year of the SpanishâAmerican War and the declaration of the First Philippine Republic.",
-        "Incorrect. 1935 was when the constitution with the official title was created.",
-        "Incorrect. 1986 was the People Power Revolution."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "What is the most populated city in the Philippines?",
-      "options": [
-        "Quezon City",
         "Manila",
+        "Quezon City",
         "Cebu City",
         "Davao City"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'its most populated city is Quezon City'.",
-        "Incorrect. Manila is the capital, not the most populated.",
-        "Incorrect. Cebu City is not mentioned as the most populated.",
-        "Incorrect. Davao City is not mentioned as the most populated."
+        "Correct. The article states: 'Manila is the country's capital'.",
+        "Incorrect. Quezon City is the most populated city, not the capital.",
+        "Incorrect. The article does not mention Cebu City as the capital.",
+        "Incorrect. The article does not mention Davao City as the capital."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Who were the archipelago's earliest inhabitants?",
+      "options": [
+        "Negritos",
+        "Austronesian peoples",
+        "Chinese people",
+        "Spanish explorers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Negritos, the archipelago's earliest inhabitants'.",
+        "Incorrect. Austronesian peoples came in waves after the Negritos.",
+        "Incorrect. Chinese people came later through trade and settlement.",
+        "Incorrect. Spanish explorers arrived much later."
       ]
     },
     {
       "id": 9,
-      "question": "Which explorer arrived in 1521 and claimed the islands for Spain?",
+      "question": "In what year did the Philippine Revolution begin?",
       "options": [
-        "Ferdinand Magellan",
-        "Ruy LÃ³pez de Villalobos",
-        "Miguel LÃ³pez de Legazpi",
-        "Lapulapu"
+        "1896",
+        "1898",
+        "1543",
+        "1946"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Portuguese explorer Ferdinand Magellan arrived in 1521, claimed the islands for Spain'.",
-        "Incorrect. Villalobos came later in 1542.",
-        "Incorrect. Legazpi arrived in 1565.",
-        "Incorrect. Lapulapu was a native leader who fought Magellan."
+        "Correct. The article states: 'The Philippine Revolution began in 1896'.",
+        "Incorrect. 1898 is the year of the SpanishâAmerican War, not the start of the revolution.",
+        "Incorrect. 1543 is when Ruy LÃ³pez de Villalobos named the archipelago.",
+        "Incorrect. 1946 is when the Philippines became independent."
       ]
     },
     {
       "id": 10,
-      "question": "What is the Philippines vulnerable to due to its location?",
+      "question": "What type of country is the Philippines described as in the article?",
       "options": [
-        "Earthquakes, monsoon rains, and typhoons",
-        "Volcanic eruptions only",
-        "Tsunamis and blizzards",
-        "Droughts and sandstorms"
+        "an emerging market and a developing and newly industrialized country",
+        "a fully developed country",
+        "an agricultural-only country",
+        "a least developed country"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'making it prone to earthquakes, monsoon rains, and typhoons'.",
-        "Incorrect. The article mentions multiple hazards, not just volcanic eruptions.",
-        "Incorrect. Blizzards are not mentioned as a vulnerability.",
-        "Incorrect. Droughts and sandstorms are not mentioned as vulnerabilities."
+        "Correct. The article states: 'The Philippines is an emerging market and a developing and newly industrialized country'.",
+        "Incorrect. The article says it is developing and newly industrialized, not fully developed.",
+        "Incorrect. The article says its economy is transitioning from agricultural to service- and manufacturing-centered, not that it is agricultural-only.",
+        "Incorrect. The article describes it as an emerging market and developing, not least developed."
       ]
     }
   ]

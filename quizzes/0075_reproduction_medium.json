@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What are the two main forms of reproduction described in the article?",
+      "question": "What are the two forms of reproduction mentioned in the article?",
       "options": [
-        "asexual and sexual",
-        "binary fission and budding",
-        "mitosis and meiosis",
-        "parthenogenesis and fragmentation"
+        "Asexual and sexual",
+        "Binary and budding",
+        "Mitosis and meiosis",
+        "Allogamy and autogamy"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states: \"There are two forms of reproduction: asexual and sexual.\"",
-        "Incorrect. Binary fission and budding are specific methods of asexual reproduction, not the two main forms.",
-        "Incorrect. Mitosis and meiosis are types of cell division, not the two main forms of reproduction.",
-        "Incorrect. Parthenogenesis and fragmentation are additional asexual methods, not the primary categories."
+        "Correct. The article states, 'There are two forms of reproduction: asexual and sexual.'",
+        "Incorrect. Binary fission and budding are methods of asexual reproduction, not the two main forms.",
+        "Incorrect. Mitosis and meiosis are types of cell division, not the two forms of reproduction.",
+        "Incorrect. Allogamy and autogamy are types of sexual reproduction in plants, not the two main forms."
       ]
     },
     {
       "id": 2,
-      "question": "Which process creates a genetically similar or identical copy of an organism without genetic contribution from another organism?",
+      "question": "In asexual reproduction, what kind of copy does an organism create of itself?",
       "options": [
-        "asexual reproduction",
-        "sexual reproduction",
-        "meiosis",
-        "fertilization"
+        "A genetically similar or identical copy",
+        "A completely different copy",
+        "A copy with only half the genes",
+        "A copy that always has different traits"
       ],
       "answer_explanations": [
-        "Correct. The article defines asexual reproduction as a process where an organism creates genetically similar or identical copies without another organism's genetic material.",
-        "Incorrect. Sexual reproduction involves genetic material from two parents.",
-        "Incorrect. Meiosis is cell division that produces gametes, not the whole reproductive process.",
-        "Incorrect. Fertilization combines gametes from two parents."
+        "Correct. The article says, 'By asexual reproduction, an organism creates a genetically similar or identical copy of itself.'",
+        "Incorrect. The copy is genetically similar or identical, not completely different.",
+        "Incorrect. The copy is not described as having only half the genes; that relates to gametes in sexual reproduction.",
+        "Incorrect. The copy is genetically similar or identical, so it does not always have different traits."
       ]
     },
     {
       "id": 3,
-      "question": "What is the term for the specialized reproductive cells that contain half the number of chromosomes of somatic cells?",
+      "question": "Which organisms are mentioned as reproducing by budding?",
       "options": [
-        "gametes",
-        "zygotes",
-        "chromosomes",
-        "somatic cells"
+        "Hydras and yeasts",
+        "Bacteria and viruses",
+        "Aphids and water fleas",
+        "Salmon and bamboo"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Sexual reproduction typically requires the sexual interaction of two specialized reproductive cells, called gametes, which contain half the number of chromosomes of somatic cells.\"",
-        "Incorrect. A zygote is formed after fertilization, not the specialized reproductive cell itself.",
-        "Incorrect. Chromosomes are structures within cells, not the cells themselves.",
-        "Incorrect. Somatic cells are body cells, not the specialized reproductive cells."
+        "Correct. The article states, 'Hydras (invertebrates of the order Hydroidea) and yeasts are able to reproduce by budding.'",
+        "Incorrect. Bacteria divide via binary fission, and viruses take control of host cells; they are not mentioned as budding.",
+        "Incorrect. Aphids and water fleas are mentioned in relation to parthenogenesis, not budding.",
+        "Incorrect. Salmon and bamboo are mentioned as semelparous organisms, not as budding organisms."
       ]
     },
     {
       "id": 4,
-      "question": "Which term refers to the fertilization of flowers through cross-pollination from a different plant?",
+      "question": "What is parthenogenesis?",
       "options": [
-        "allogamy",
-        "autogamy",
-        "geitonogamy",
-        "self-fertilization"
+        "Growth and development of an embryo or seed without fertilization",
+        "Reproduction by splitting into two or more copies",
+        "Exchange of genetic information between bacteria",
+        "Fertilization of a flower by pollen from a different plant"
       ],
       "answer_explanations": [
-        "Correct. The article defines allogamy as \"the fertilization of flowers through cross-pollination... when a flower's ovum is fertilized by spermatozoa from the pollen of a different plant's flower.\"",
-        "Incorrect. Autogamy refers to self-fertilization within the same individual.",
-        "Incorrect. Geitonogamy is pollen transfer between different flowers of the same plant.",
-        "Incorrect. Self-fertilization is a general term for autogamy."
+        "Correct. The article defines parthenogenesis as 'the growth and development of embryo or seed without fertilization.'",
+        "Incorrect. Splitting into copies describes other asexual methods, not parthenogenesis.",
+        "Incorrect. This describes bacterial conjugation, not parthenogenesis.",
+        "Incorrect. This describes allogamy, not parthenogenesis."
       ]
     },
     {
       "id": 5,
-      "question": "In the context of reproduction, what does the term 'K-selection' describe?",
+      "question": "In sexual reproduction, what do each of the two parent organisms contribute to the offspring's genetic makeup?",
       "options": [
-        "a strategy where few offspring are produced and each receives more resources",
-        "a strategy where many offspring are produced quickly",
-        "a strategy where organisms reproduce only once in their lifetime",
-        "a strategy where organisms reproduce intermittently throughout their lives"
+        "Half",
+        "All",
+        "A quarter",
+        "None"
       ],
       "answer_explanations": [
-        "Correct. The article explains K-selection as a strategy where animals have few offspring and devote more resources to nurturing each one.",
-        "Incorrect. That describes r-selection, the opposite strategy.",
-        "Incorrect. That describes semelparous organisms, not K-selection.",
-        "Incorrect. That describes polycyclic animals."
+        "Correct. The article states, 'Each of two parent organisms contributes half of the offspring's genetic makeup by creating haploid gametes.'",
+        "Incorrect. Each parent contributes half, not all.",
+        "Incorrect. Each parent contributes half, not a quarter.",
+        "Incorrect. Each parent contributes half, not none."
       ]
     },
     {
       "id": 6,
-      "question": "Which type of cell division occurs in somatic cells and results in offspring cells with the same number of chromosomes as the parent cell?",
+      "question": "What is allogamy?",
       "options": [
-        "mitosis",
-        "meiosis",
-        "binary fission",
-        "budding"
+        "Fertilization of flowers through cross-pollination",
+        "Self-fertilization within the same flower",
+        "Transfer of pollen to a different flower on the same plant",
+        "Reproduction without seeds or spores"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Mitosis occurs in somatic cells... The number of chromosomes in the offspring cells is the same as that of the parent cell.\"",
-        "Incorrect. Meiosis halves the chromosome number.",
-        "Incorrect. Binary fission is a bacterial asexual reproduction method.",
-        "Incorrect. Budding is a form of asexual reproduction in some organisms."
+        "Correct. The article says, 'Allogamy is the fertilization of flowers through cross-pollination, this occurs when a flower's ovum is fertilized by spermatozoa from the pollen of a different plant's flower.'",
+        "Incorrect. Self-fertilization within the same flower is autogamy, not allogamy.",
+        "Incorrect. This describes geitonogamy, not allogamy.",
+        "Incorrect. This describes vegetative reproduction, not allogamy."
       ]
     },
     {
       "id": 7,
-      "question": "What is the term for organisms that reproduce only once in their lifetime, such as annual plants?",
+      "question": "In meiosis, what is the resultant number of cells compared to the original?",
       "options": [
-        "semelparous",
-        "iteroparous",
-        "polycyclic",
-        "r-selected"
+        "Four times",
+        "Twice",
+        "The same",
+        "Half"
       ],
       "answer_explanations": [
-        "Correct. The article defines semelparous organisms as those that reproduce only once, e.g., annual plants.",
-        "Incorrect. Iteroparous organisms reproduce in successive cycles.",
-        "Incorrect. Polycyclic animals reproduce intermittently, not just once.",
-        "Incorrect. r-selected refers to high fecundity strategies, not a single reproductive event."
+        "Correct. The article states, 'The resultant number of cells is four times the number of original cells' for meiosis.",
+        "Incorrect. Twice is the result for mitosis, not meiosis.",
+        "Incorrect. The number is not the same; it is four times.",
+        "Incorrect. The number is not half; it is four times."
       ]
     },
     {
       "id": 8,
-      "question": "Which reproductive method involves the growth and development of an embryo without fertilization?",
+      "question": "What is the main difference between K-selection and r-selection strategies?",
       "options": [
-        "parthenogenesis",
-        "binary fission",
-        "spore formation",
-        "budding"
+        "K-selection involves few offspring, while r-selection involves many offspring",
+        "K-selection involves many offspring, while r-selection involves few offspring",
+        "K-selection is only for plants, while r-selection is only for animals",
+        "K-selection is asexual, while r-selection is sexual"
       ],
       "answer_explanations": [
-        "Correct. The article describes parthenogenesis as \"the growth and development of embryo or seed without fertilization.\"",
-        "Incorrect. Binary fission is bacterial cell division.",
-        "Incorrect. Spore formation involves mitosis but not necessarily without fertilization.",
-        "Incorrect. Budding is a form of asexual reproduction where a new individual grows out of the parent."
+        "Correct. The article states, 'These two main strategies are known as K-selection (few offspring) and r-selection (many offspring).'",
+        "Incorrect. It is the opposite: K-selection has few offspring, r-selection has many.",
+        "Incorrect. The strategies are not limited to plants or animals; they apply to different species generally.",
+        "Incorrect. The strategies are not defined by asexual or sexual reproduction."
       ]
     },
     {
       "id": 9,
-      "question": "What is the primary advantage of sexual reproduction over asexual reproduction according to the article?",
+      "question": "What is a semelparous organism?",
       "options": [
-        "genetic variation leading to better adaptation",
-        "exponential population growth",
-        "production of identical offspring",
-        "absence of DNA repair mechanisms"
+        "An organism that reproduces only once in its lifetime",
+        "An organism that reproduces intermittently throughout its life",
+        "An organism that reproduces in successive cycles",
+        "An organism that never reproduces"
       ],
       "answer_explanations": [
-        "Correct. The article states that sexual reproduction ensures a mixing of the gene pool, providing variation that allows selective adaptation and better survival under environmental change.",
-        "Incorrect. Exponential growth is associated with asexual reproduction.",
-        "Incorrect. Producing identical offspring is a feature of asexual reproduction.",
-        "Incorrect. DNA repair mechanisms are actually more effective in meiosis."
+        "Correct. The article states, 'Semelparous organisms reproduce only once in their lifetime.'",
+        "Incorrect. Reproducing intermittently throughout life describes polycyclic animals.",
+        "Incorrect. Reproducing in successive cycles describes iteroparous organisms.",
+        "Incorrect. Semelparous organisms do reproduce, just only once."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is an example of an organism that can reproduce both asexually and sexually?",
+      "question": "According to the article, why do organisms switch to sexual reproduction when conditions become adverse?",
       "options": [
-        "yeast",
-        "bacteria",
-        "hydra",
-        "viruses"
+        "To ensure a mixing of the gene pool and provide variation for survival",
+        "To increase the number of offspring quickly",
+        "To avoid the need for DNA repair",
+        "To produce genetically identical copies"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that yeast can reproduce both asexually and sexually (see \"Mating of yeasts\").",
-        "Incorrect. Bacteria reproduce asexually and can exchange genetic information but do not have sexual reproduction in the same sense.",
-        "Incorrect. Hydra can reproduce both ways, but the article specifically highlights yeast as an example.",
-        "Incorrect. Viruses are not considered organisms with sexual reproduction."
+        "Correct. The article says, 'Sexual reproduction ensures a mixing of the gene pool of the species. The variations found in offspring of sexual reproduction allow some individuals to be better suited for survival.'",
+        "Incorrect. Asexual reproduction is used to increase numbers quickly, not sexual reproduction.",
+        "Incorrect. Sexual reproduction includes meiosis, which allows DNA repair, not avoids it.",
+        "Incorrect. Sexual reproduction produces offspring with genetic variation, not identical copies."
       ]
     }
   ]

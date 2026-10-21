@@ -10,50 +10,34 @@
         "Islamic Republic of Pakistan",
         "Republic of Pakistan",
         "Dominion of Pakistan",
-        "Federal Republic of Pakistan"
+        "Islamic State of Pakistan"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Pakistan, officially the Islamic Republic of Pakistan'.",
+        "Correct. The article states, \"Pakistan, officially the Islamic Republic of Pakistan.\"",
         "Incorrect. The official name includes 'Islamic Republic', not just 'Republic'.",
-        "Incorrect. 'Dominion of Pakistan' was the initial status after independence, not the official name.",
-        "Incorrect. The official name is 'Islamic Republic of Pakistan', not 'Federal Republic'."
+        "Incorrect. 'Dominion of Pakistan' was an earlier status, not the official name.",
+        "Incorrect. The official name is 'Islamic Republic of Pakistan', not 'Islamic State'."
       ]
     },
     {
       "id": 2,
-      "question": "Which city is the capital of Pakistan?",
+      "question": "What is the capital of Pakistan?",
       "options": [
         "Islamabad",
         "Karachi",
         "Lahore",
-        "Multan"
+        "Rawalpindi"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'Islamabad is the nation's capital'.",
+        "Correct. The article says, \"Islamabad is the nation's capital.\"",
         "Incorrect. Karachi is the largest city and financial centre, not the capital.",
-        "Incorrect. Lahore is a major city but not the capital.",
-        "Incorrect. Multan is an urban centre but not the capital."
+        "Incorrect. Lahore is not mentioned as the capital.",
+        "Incorrect. Rawalpindi is not mentioned as the capital."
       ]
     },
     {
       "id": 3,
-      "question": "Which sea borders Pakistan to the south?",
-      "options": [
-        "Arabian Sea",
-        "Bay of Bengal",
-        "Persian Gulf",
-        "Gulf of Oman"
-      ],
-      "answer_explanations": [
-        "Correct. The article mentions: 'Bounded by the Arabian Sea on the south'.",
-        "Incorrect. The Bay of Bengal is on the eastern side of India, not Pakistan.",
-        "Incorrect. The Persian Gulf is west of Iran, not bordering Pakistan.",
-        "Incorrect. The Gulf of Oman is on the southwest, not the south."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What is the largest city in Pakistan?",
+      "question": "Which city is the largest city and financial centre of Pakistan?",
       "options": [
         "Karachi",
         "Islamabad",
@@ -61,106 +45,122 @@
         "Peshawar"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Karachi is its largest city and financial centre'.",
+        "Correct. The article states, \"Karachi is its largest city and financial centre.\"",
         "Incorrect. Islamabad is the capital, not the largest city.",
-        "Incorrect. Lahore is a major city but not the largest.",
-        "Incorrect. Peshawar is a key urban centre but not the largest."
+        "Incorrect. Lahore is not mentioned as the largest city.",
+        "Incorrect. Peshawar is not mentioned as the largest city."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which country is to the east of Pakistan?",
+      "options": [
+        "India",
+        "Afghanistan",
+        "Iran",
+        "China"
+      ],
+      "answer_explanations": [
+        "Correct. The article says, \"it shares land borders with India to the east.\"",
+        "Incorrect. Afghanistan is to the west, not east.",
+        "Incorrect. Iran is to the southwest, not east.",
+        "Incorrect. China is to the northeast, not east."
       ]
     },
     {
       "id": 5,
-      "question": "In which year did Pakistan gain independence?",
+      "question": "Which country is to the west of Pakistan?",
       "options": [
-        "1947",
-        "1933",
-        "1956",
-        "1971"
+        "Afghanistan",
+        "India",
+        "Iran",
+        "China"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'Pakistan gained independence in 1947 after the partition of British India'.",
-        "Incorrect. 1933 is when the name 'Pakistan' was first coined, not independence.",
-        "Incorrect. 1956 is when Pakistan adopted a republican constitution.",
-        "Incorrect. 1971 is when East Pakistan seceded to become Bangladesh."
+        "Correct. The article says, \"Afghanistan to the west.\"",
+        "Incorrect. India is to the east, not west.",
+        "Incorrect. Iran is to the southwest, not west.",
+        "Incorrect. China is to the northeast, not west."
       ]
     },
     {
       "id": 6,
-      "question": "Which movement sought a homeland for the Muslims of British India?",
+      "question": "Which sea is on the south of Pakistan?",
       "options": [
-        "Pakistan Movement",
-        "Indian Independence Movement",
-        "Khilafat Movement",
-        "Non-Cooperation Movement"
+        "Arabian Sea",
+        "Red Sea",
+        "Caspian Sea",
+        "Mediterranean Sea"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: 'Spurred by the Pakistan Movement, which sought a homeland for the Muslims of British India'.",
-        "Incorrect. The Indian Independence Movement aimed for overall Indian independence, not specifically a Muslim homeland.",
-        "Incorrect. The Khilafat Movement was about the Ottoman Caliphate, not a separate homeland.",
-        "Incorrect. The Non-Cooperation Movement was a broader protest against British rule."
+        "Correct. The article says, \"Bounded by the Arabian Sea on the south.\"",
+        "Incorrect. The Red Sea is not mentioned.",
+        "Incorrect. The Caspian Sea is not mentioned.",
+        "Incorrect. The Mediterranean Sea is not mentioned."
       ]
     },
     {
       "id": 7,
-      "question": "What type of state is Pakistan declared as?",
+      "question": "What is the population of Pakistan as mentioned in the article?",
       "options": [
-        "Nuclear-weapon state",
-        "Nuclear-free state",
-        "Chemical-weapon state",
-        "Biological-weapon state"
+        "Over 241.5 million",
+        "Over 200 million",
+        "Over 300 million",
+        "Over 150 million"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Pakistan is considered a middle power and is a declared nuclear-weapon state'.",
-        "Incorrect. Pakistan is not a nuclear-free state; it possesses nuclear weapons.",
-        "Incorrect. The article does not mention chemical weapons.",
-        "Incorrect. The article does not mention biological weapons."
+        "Correct. The article states, \"with a population of over 241.5 million.\"",
+        "Incorrect. The article specifies over 241.5 million, not 200 million.",
+        "Incorrect. The article specifies over 241.5 million, not 300 million.",
+        "Incorrect. The article specifies over 241.5 million, not 150 million."
       ]
     },
     {
       "id": 8,
-      "question": "Which country shares a maritime border with Pakistan in the Gulf of Oman?",
+      "question": "What is the rank of Pakistan by area?",
       "options": [
-        "Oman",
-        "Iran",
-        "India",
-        "China"
+        "33rd-largest",
+        "5th-largest",
+        "2nd-largest",
+        "7th-largest"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'It shares a maritime border with Oman in the Gulf of Oman'.",
-        "Incorrect. Iran shares a land border to the southwest, not a maritime border in the Gulf of Oman.",
-        "Incorrect. India shares a land border to the east.",
-        "Incorrect. China shares a land border to the northeast."
+        "Correct. The article says, \"Pakistan is the 33rd-largest country by area.\"",
+        "Incorrect. 5th-largest refers to population, not area.",
+        "Incorrect. 2nd-largest refers to Muslim population, not area.",
+        "Incorrect. 7th-largest is not mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "What was the name of the pamphlet in which the name 'Pakistan' was first published?",
+      "question": "Which ancient culture is mentioned as being 8,500 years old?",
       "options": [
-        "Now or Never",
-        "Pakistan Declaration",
-        "The Land of the Pure",
-        "The Pakistan Movement"
+        "Mehrgarh",
+        "Indus Valley Civilisation",
+        "Gandhara civilisation",
+        "Maurya Empire"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: 'first published it (originally as \"Pakstan\") in a pamphlet Now or Never'.",
-        "Incorrect. 'Pakistan Declaration' is another name for the pamphlet, but the article specifically says 'Now or Never'.",
-        "Incorrect. 'The Land of the Pure' is a translation of the meaning, not the pamphlet title.",
-        "Incorrect. 'The Pakistan Movement' is the name of the political movement, not the pamphlet."
+        "Correct. The article says, \"the 8,500-year-old Neolithic site of Mehrgarh.\"",
+        "Incorrect. The Indus Valley Civilisation is mentioned but not with that age.",
+        "Incorrect. The Gandhara civilisation is mentioned but not with that age.",
+        "Incorrect. The Maurya Empire is mentioned but not with that age."
       ]
     },
     {
       "id": 10,
-      "question": "Which ancient site in Balochistan is mentioned as a Neolithic settlement?",
+      "question": "In which year did Pakistan gain independence?",
       "options": [
-        "Mehrgarh",
-        "Mohenjo-daro",
-        "Harappa",
-        "Taxila"
+        "1947",
+        "1956",
+        "1971",
+        "1858"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'the 8,500-year-old Neolithic site of Mehrgarh in Balochistan'.",
-        "Incorrect. Mohenjo-daro is an Indus Valley Civilisation site, not specifically Neolithic.",
-        "Incorrect. Harappa is an Indus Valley Civilisation site, not specifically Neolithic.",
-        "Incorrect. Taxila is an ancient university city, not a Neolithic site."
+        "Correct. The article says, \"Pakistan gained independence in 1947.\"",
+        "Incorrect. 1956 is when Pakistan adopted a republican constitution.",
+        "Incorrect. 1971 is when East Pakistan seceded.",
+        "Incorrect. 1858 is the start of the British Raj."
       ]
     }
   ]

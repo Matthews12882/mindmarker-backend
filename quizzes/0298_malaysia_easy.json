@@ -5,86 +5,134 @@
   "questions": [
     {
       "id": 1,
-      "question": "What type of government does Malaysia have?",
+      "question": "In which region is Malaysia located?",
       "options": [
-        "A federal constitutional monarchy",
-        "A unitary presidential republic",
-        "A federal absolute monarchy",
-        "A unitary constitutional monarchy"
+        "Southeast Asia",
+        "South Asia",
+        "East Asia",
+        "Central Asia"
       ],
       "answer_explanations": [
-        "Correct. The article states that Malaysia is 'A federal constitutional monarchy'.",
-        "Incorrect. The article describes Malaysia as a federal constitutional monarchy, not a unitary presidential republic.",
-        "Incorrect. Malaysia is a constitutional monarchy, not an absolute monarchy, and it is federal.",
-        "Incorrect. Malaysia is a federal state, not a unitary one, and it is a constitutional monarchy."
+        "Correct. The article states that 'Malaysia is a country in Southeast Asia'.",
+        "Incorrect. The article specifies Southeast Asia, not South Asia.",
+        "Incorrect. The article specifies Southeast Asia, not East Asia.",
+        "Incorrect. The article specifies Southeast Asia, not Central Asia."
       ]
     },
     {
       "id": 2,
-      "question": "Which sea separates Peninsular Malaysia and East Malaysia?",
+      "question": "What type of government does Malaysia have?",
       "options": [
-        "South China Sea",
-        "Andaman Sea",
-        "Java Sea",
-        "Sulu Sea"
+        "A federal constitutional monarchy",
+        "A unitary republic",
+        "A federal presidential republic",
+        "A parliamentary democracy with no monarch"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the two regions are 'separated by the South China Sea'.",
-        "Incorrect. The article specifies the South China Sea as the separating body of water.",
-        "Incorrect. The article identifies the South China Sea, not the Java Sea.",
-        "Incorrect. The article refers to the South China Sea, not the Sulu Sea."
+        "Correct. The article describes Malaysia as 'A federal constitutional monarchy'.",
+        "Incorrect. The article says it is a federal constitutional monarchy, not a unitary republic.",
+        "Incorrect. The article says it is a federal constitutional monarchy, not a federal presidential republic.",
+        "Incorrect. The article says it is a federal constitutional monarchy, which includes a monarch."
       ]
     },
     {
       "id": 3,
-      "question": "What is the national capital of Malaysia?",
+      "question": "How many states and federal territories does Malaysia consist of?",
       "options": [
-        "Kuala Lumpur",
-        "Putrajaya",
-        "George Town",
-        "Kota Kinabalu"
+        "13 states and three federal territories",
+        "14 states and two federal territories",
+        "12 states and four federal territories",
+        "15 states and one federal territory"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Kuala Lumpur is the country's national capital'.",
-        "Incorrect. Putrajaya is the federal administrative capital, not the national capital.",
-        "Incorrect. George Town is a city in Penang, not the national capital.",
-        "Incorrect. Kota Kinabalu is the capital of Sabah, not the national capital."
+        "Correct. The article states Malaysia consists of '13 states and three federal territories'.",
+        "Incorrect. The article specifies 13 states and three federal territories, not 14 and two.",
+        "Incorrect. The article specifies 13 states and three federal territories, not 12 and four.",
+        "Incorrect. The article specifies 13 states and three federal territories, not 15 and one."
       ]
     },
     {
       "id": 4,
-      "question": "When did Malaysia achieve independence?",
+      "question": "Which sea separates the two regions of Malaysia?",
       "options": [
-        "31 August 1957",
-        "16 September 1963",
-        "31 August 1965",
-        "16 September 1957"
+        "South China Sea",
+        "East China Sea",
+        "Philippine Sea",
+        "Andaman Sea"
       ],
       "answer_explanations": [
-        "Correct. The article states 'The country achieved independence on 31 August 1957'.",
-        "Incorrect. 16 September 1963 is Malaysia Day, when Malaya united with other territories to form Malaysia.",
-        "Incorrect. 31 August 1965 is not mentioned; Singapore separated in August 1965.",
-        "Incorrect. 16 September 1957 is not a date mentioned in the article."
+        "Correct. The article says the regions are 'separated by the South China Sea'.",
+        "Incorrect. The article names the South China Sea, not the East China Sea.",
+        "Incorrect. The article names the South China Sea, not the Philippine Sea.",
+        "Incorrect. The article names the South China Sea, not the Andaman Sea."
       ]
     },
     {
       "id": 5,
-      "question": "Which ethnic group makes up about half of Malaysia's population?",
+      "question": "What is the national capital of Malaysia?",
       "options": [
-        "Malay",
-        "Chinese",
-        "Indian",
-        "Indigenous peoples"
+        "Kuala Lumpur",
+        "Putrajaya",
+        "Singapore",
+        "Bangkok"
       ],
       "answer_explanations": [
-        "Correct. The article says 'About half the population is ethnically Malay'.",
-        "Incorrect. Chinese are a minority, not about half the population.",
-        "Incorrect. Indians are a minority, not about half the population.",
-        "Incorrect. Indigenous peoples are a minority, not about half the population."
+        "Correct. The article states 'Kuala Lumpur is the country's national capital'.",
+        "Incorrect. Putrajaya is the federal administrative capital, not the national capital.",
+        "Incorrect. Singapore is a separate country, not the capital of Malaysia.",
+        "Incorrect. Bangkok is the capital of Thailand, not Malaysia."
       ]
     },
     {
       "id": 6,
+      "question": "Which city is the federal administrative capital of Malaysia?",
+      "options": [
+        "Putrajaya",
+        "Kuala Lumpur",
+        "George Town",
+        "Ipoh"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Putrajaya is the federal administrative capital'.",
+        "Incorrect. Kuala Lumpur is the national capital, not the administrative capital.",
+        "Incorrect. George Town is not mentioned as the administrative capital.",
+        "Incorrect. Ipoh is not mentioned as the administrative capital."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the population of Malaysia?",
+      "options": [
+        "Over 34 million",
+        "Over 30 million",
+        "Over 40 million",
+        "Over 25 million"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'With a population of over 34 million'.",
+        "Incorrect. The article says over 34 million, not over 30 million.",
+        "Incorrect. The article says over 34 million, not over 40 million.",
+        "Incorrect. The article says over 34 million, not over 25 million."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which country is NOT listed as sharing a land or maritime border with Malaysia?",
+      "options": [
+        "China",
+        "Thailand",
+        "Singapore",
+        "Indonesia"
+      ],
+      "answer_explanations": [
+        "Correct. China is not mentioned in the article's border list; Thailand, Singapore, and Indonesia are all mentioned.",
+        "Incorrect. Thailand is mentioned as sharing land and maritime borders with Peninsular Malaysia.",
+        "Incorrect. Singapore is mentioned as sharing maritime borders with Peninsular Malaysia.",
+        "Incorrect. Indonesia is mentioned as sharing maritime borders with Peninsular Malaysia and land borders with East Malaysia."
+      ]
+    },
+    {
+      "id": 9,
       "question": "What is the official language of Malaysia?",
       "options": [
         "Malaysian Malay",
@@ -94,73 +142,25 @@
       ],
       "answer_explanations": [
         "Correct. The article states 'The official language is Malaysian Malay'.",
-        "Incorrect. English is an active second language, not the official language.",
-        "Incorrect. Mandarin is not mentioned as an official language.",
-        "Incorrect. Tamil is not mentioned as an official language."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "What is the official religion of Malaysia?",
-      "options": [
-        "Islam",
-        "Buddhism",
-        "Hinduism",
-        "Christianity"
-      ],
-      "answer_explanations": [
-        "Correct. The article says 'recognising Islam as the official religion'.",
-        "Incorrect. Buddhism is not the official religion; Islam is.",
-        "Incorrect. Hinduism is not the official religion; Islam is.",
-        "Incorrect. Christianity is not the official religion; Islam is."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "Which system is the Malaysian government modelled on?",
-      "options": [
-        "Westminster parliamentary system",
-        "Presidential system",
-        "Semi-presidential system",
-        "Absolute monarchy"
-      ],
-      "answer_explanations": [
-        "Correct. The article states 'The government is modelled on the Westminster parliamentary system'.",
-        "Incorrect. The article specifies the Westminster parliamentary system, not a presidential system.",
-        "Incorrect. The article does not mention a semi-presidential system.",
-        "Incorrect. Malaysia is a constitutional monarchy, not an absolute monarchy."
-      ]
-    },
-    {
-      "id": 9,
-      "question": "How often is the head of state of Malaysia elected?",
-      "options": [
-        "Every five years",
-        "Every four years",
-        "Every six years",
-        "Every ten years"
-      ],
-      "answer_explanations": [
-        "Correct. The article says the head of state is 'chosen among the nine state rulers every five years'.",
-        "Incorrect. The article states every five years, not four.",
-        "Incorrect. The article states every five years, not six.",
-        "Incorrect. The article states every five years, not ten."
+        "Incorrect. English is described as an active second language, not the official language.",
+        "Incorrect. Mandarin is not mentioned as the official language.",
+        "Incorrect. Tamil is not mentioned as the official language."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is a founding member organization that Malaysia belongs to?",
+      "question": "Which religion is recognised as the official religion of Malaysia?",
       "options": [
-        "Association of Southeast Asian Nations (ASEAN)",
-        "United Nations (UN)",
-        "World Trade Organization (WTO)",
-        "European Union (EU)"
+        "Islam",
+        "Christianity",
+        "Hinduism",
+        "Buddhism"
       ],
       "answer_explanations": [
-        "Correct. The article states Malaysia is 'a founding member of the ... Association of Southeast Asian Nations (ASEAN)'.",
-        "Incorrect. The article does not mention Malaysia as a founding member of the UN.",
-        "Incorrect. The article does not mention the WTO.",
-        "Incorrect. The article does not mention the EU, and Malaysia is not in Europe."
+        "Correct. The article states 'recognising Islam as the official religion'.",
+        "Incorrect. Christianity is not mentioned as the official religion.",
+        "Incorrect. Hinduism is not mentioned as the official religion.",
+        "Incorrect. Buddhism is not mentioned as the official religion."
       ]
     }
   ]

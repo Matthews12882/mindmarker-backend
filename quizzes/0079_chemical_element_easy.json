@@ -5,18 +5,18 @@
   "questions": [
     {
       "id": 1,
-      "question": "What defines a chemical element according to the article?",
+      "question": "What defines a chemical element?",
       "options": [
         "Its number of protons",
         "Its number of neutrons",
         "Its number of electrons",
-        "Its atomic weight"
+        "Its atomic mass"
       ],
       "answer_explanations": [
-        "Correct. The article states that a chemical element is a species of atom defined by its number of protons, called the atomic number.",
+        "Correct. The article states that a chemical element is defined by its number of protons.",
         "Incorrect. The article says atoms of the same element can have different numbers of neutrons, so neutrons do not define the element.",
-        "Incorrect. The article does not state that electron count defines an element; it notes electron count is determined by proton number in non-ionized atoms.",
-        "Incorrect. Atomic weight is listed as a property, not the defining characteristic of an element."
+        "Incorrect. The article does not mention electrons as the defining feature of an element.",
+        "Incorrect. The article does not mention atomic mass as the defining feature of an element."
       ]
     },
     {
@@ -25,142 +25,142 @@
       "options": [
         "8",
         "6",
-        "7",
-        "9"
+        "16",
+        "10"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states that oxygen has an atomic number of 8, meaning each oxygen atom has 8 protons.",
-        "Incorrect. The article gives carbon as having 6 protons, not oxygen.",
-        "Incorrect. The article does not assign atomic number 7 to oxygen.",
-        "Incorrect. The article does not assign atomic number 9 to oxygen."
+        "Correct. The article states that oxygen has an atomic number of 8.",
+        "Incorrect. The article does not give 6 as the atomic number of oxygen.",
+        "Incorrect. The article does not give 16 as the atomic number of oxygen.",
+        "Incorrect. The article does not give 10 as the atomic number of oxygen."
       ]
     },
     {
       "id": 3,
-      "question": "What are isotopes?",
+      "question": "What is the number of protons in an atom called?",
       "options": [
-        "Atoms of the same element with different numbers of neutrons",
-        "Atoms of different elements with the same number of neutrons",
-        "Atoms with different numbers of protons",
-        "Atoms with different numbers of electrons"
+        "The atomic number",
+        "The neutron number",
+        "The mass number",
+        "The isotope number"
       ],
       "answer_explanations": [
-        "Correct. The article defines isotopes as atoms of the same element with different numbers of neutrons in their nuclei.",
-        "Incorrect. Isotopes are atoms of the same element, not different elements.",
-        "Incorrect. Atoms with different numbers of protons are different elements, not isotopes.",
-        "Incorrect. The article does not define isotopes based on differing electron counts."
+        "Correct. The article says the number of protons is called the atomic number of that element.",
+        "Incorrect. The article does not use the term 'neutron number' for the number of protons.",
+        "Incorrect. The article does not use the term 'mass number' for the number of protons.",
+        "Incorrect. The article does not use the term 'isotope number' for the number of protons."
       ]
     },
     {
       "id": 4,
-      "question": "How many elements did IUPAC recognize by November 2016?",
+      "question": "What are atoms of the same element with different numbers of neutrons called?",
       "options": [
-        "118",
-        "94",
-        "24",
-        "100"
+        "Isotopes",
+        "Isomers",
+        "Isotones",
+        "Ions"
       ],
       "answer_explanations": [
-        "Correct. The article states that by November 2016, IUPAC recognized a total of 118 elements.",
-        "Incorrect. 94 is the number of naturally occurring elements, not the total recognized.",
-        "Incorrect. 24 is the number of synthetic elements, not the total recognized.",
-        "Incorrect. The article does not state that IUPAC recognized 100 elements."
+        "Correct. The article states that atoms of the same element with different numbers of neutrons are known as isotopes.",
+        "Incorrect. The article does not mention 'isomers' in this context.",
+        "Incorrect. The article does not mention 'isotones' in this context.",
+        "Incorrect. The article does not mention 'ions' in this context."
       ]
     },
     {
       "id": 5,
-      "question": "How many of the recognized elements occur naturally on Earth?",
+      "question": "How can atoms of one element be transformed into atoms of a different element?",
       "options": [
-        "94",
-        "118",
-        "24",
-        "80"
+        "In nuclear reactions",
+        "In chemical reactions",
+        "In physical changes",
+        "In biological processes"
       ],
       "answer_explanations": [
-        "Correct. The article states that the first 94 elements occur naturally on Earth.",
-        "Incorrect. 118 is the total number of recognized elements, not just the naturally occurring ones.",
-        "Incorrect. 24 is the number of synthetic elements produced in nuclear reactions.",
-        "Incorrect. 80 is mentioned as the number of stable elements, not naturally occurring elements."
+        "Correct. The article states that atoms of one element can be transformed into atoms of a different element in nuclear reactions.",
+        "Incorrect. The article does not say chemical reactions change an atom's atomic number.",
+        "Incorrect. The article does not mention physical changes as a way to transform elements.",
+        "Incorrect. The article does not mention biological processes as a way to transform elements."
       ]
     },
     {
       "id": 6,
-      "question": "Who published the first recognizable periodic table in 1869?",
+      "question": "What is the name for the type of matter that is almost entirely composed of elements in the universe?",
       "options": [
-        "Dmitri Mendeleev",
-        "Marie Curie",
-        "John Dalton",
-        "Antoine Lavoisier"
+        "Baryonic matter",
+        "Dark matter",
+        "Antimatter",
+        "Plasma"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Dmitri Mendeleev as the Russian chemist who published the first recognizable periodic table in 1869.",
-        "Incorrect. The article does not credit Marie Curie with publishing the periodic table.",
-        "Incorrect. The article does not credit John Dalton with publishing the periodic table.",
-        "Incorrect. The article does not credit Antoine Lavoisier with publishing the periodic table."
+        "Correct. The article states that almost all baryonic matter in the universe is composed of elements.",
+        "Incorrect. The article does not mention dark matter.",
+        "Incorrect. The article does not mention antimatter.",
+        "Incorrect. The article does not mention plasma in this context."
       ]
     },
     {
       "id": 7,
-      "question": "What do the columns in the periodic table share?",
+      "question": "What is an exception to the rule that baryonic matter is composed of elements?",
       "options": [
-        "Recurring physical and chemical properties",
-        "Increasing atomic mass",
-        "Equal numbers of neutrons",
-        "Identical electron configurations"
+        "Neutron stars",
+        "Black holes",
+        "Comets",
+        "Planets"
       ],
       "answer_explanations": [
-        "Correct. The article states that columns called groups share recurring physical and chemical properties.",
-        "Incorrect. The article says rows are organized by increasing atomic number, not that columns share increasing atomic mass.",
-        "Incorrect. The article does not state that columns share equal numbers of neutrons.",
-        "Incorrect. The article does not state that columns share identical electron configurations."
+        "Correct. The article mentions neutron stars as a rare exception.",
+        "Incorrect. The article does not mention black holes as an exception.",
+        "Incorrect. The article does not mention comets as an exception.",
+        "Incorrect. The article does not mention planets as an exception."
       ]
     },
     {
       "id": 8,
-      "question": "Which elements are the lightest according to the article?",
+      "question": "Besides referring to a species of atom, what else does the term 'chemical element' often mean?",
       "options": [
-        "Hydrogen and helium",
-        "Carbon and oxygen",
-        "Lithium and beryllium",
-        "Uranium and thorium"
+        "A pure chemical substance consisting of a single element",
+        "A mixture of different elements",
+        "A compound of two elements",
+        "An alloy of metals"
       ],
       "answer_explanations": [
-        "Correct. The article states that the lightest elements are hydrogen and helium.",
-        "Incorrect. Carbon and oxygen are not identified as the lightest elements.",
-        "Incorrect. Lithium and beryllium are mentioned as trace elements created alongside hydrogen and helium, not as the lightest.",
-        "Incorrect. Uranium and thorium are heavy elements, not the lightest."
+        "Correct. The article says the term is also widely used to mean a pure chemical substance consisting of a single element.",
+        "Incorrect. The article does not define the term as a mixture.",
+        "Incorrect. The article does not define the term as a compound.",
+        "Incorrect. The article does not define the term as an alloy."
       ]
     },
     {
       "id": 9,
-      "question": "What is the ratio of hydrogen to helium by mass mentioned in the article?",
+      "question": "What is an example of a pure chemical substance consisting of a single element given in the article?",
       "options": [
-        "Around 3:1",
-        "12:1",
-        "1:3",
-        "1:12"
+        "Oxygen gas",
+        "Water",
+        "Salt",
+        "Carbon dioxide"
       ],
       "answer_explanations": [
-        "Correct. The article states hydrogen and helium were created in a ratio of around 3:1 by mass.",
-        "Incorrect. 12:1 is the ratio by number of atoms, not by mass.",
-        "Incorrect. The article does not state a 1:3 ratio by mass.",
-        "Incorrect. The article does not state a 1:12 ratio by mass."
+        "Correct. The article gives oxygen gas as an example.",
+        "Incorrect. Water is a compound, not a single element.",
+        "Incorrect. Salt is a compound, not a single element.",
+        "Incorrect. Carbon dioxide is a compound, not a single element."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is an example of a homonuclear molecule?",
+      "question": "What does the atomic number of an element indicate about its atoms?",
       "options": [
-        "Hydrogen gas (H2)",
-        "Water (H2O)",
-        "Carbon dioxide (CO2)",
-        "Air"
+        "The number of protons in each atom",
+        "The number of neutrons in each atom",
+        "The number of electrons in each atom",
+        "The total number of particles in each atom"
       ],
       "answer_explanations": [
-        "Correct. The article gives hydrogen atoms forming diatomic molecules (H2) as an example of a homonuclear molecule.",
-        "Incorrect. Water is a chemical compound made of different elements, not a homonuclear molecule.",
-        "Incorrect. Carbon dioxide is a compound of different elements, not a homonuclear molecule.",
-        "Incorrect. Air is a mixture of different substances, not a homonuclear molecule."
+        "Correct. The article states that the atomic number is the number of protons in the atom.",
+        "Incorrect. The article does not say the atomic number is the number of neutrons.",
+        "Incorrect. The article does not say the atomic number is the number of electrons.",
+        "Incorrect. The article does not say the atomic number is the total number of particles."
       ]
     }
   ]

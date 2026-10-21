@@ -5,38 +5,118 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Africa's rank in terms of size among the world's continents?",
+      "question": "What is Africa's rank in size among the world's continents?",
       "options": [
-        "second-largest",
-        "largest",
-        "third-largest",
-        "fourth-largest"
+        "Second-largest",
+        "Largest",
+        "Third-largest",
+        "Smallest"
       ],
       "answer_explanations": [
         "Correct. The article states that Africa is the world's second-largest continent after Asia.",
-        "Incorrect. The article says Africa is second-largest, not the largest.",
-        "Incorrect. The article does not rank Africa as third-largest.",
-        "Incorrect. The article does not rank Africa as fourth-largest."
+        "Incorrect. The article says Africa is the second-largest, not the largest; Asia is the largest.",
+        "Incorrect. The article does not say Africa is third-largest; it is second-largest.",
+        "Incorrect. The article says Africa is second-largest, not the smallest."
       ]
     },
     {
       "id": 2,
-      "question": "What percentage of Earth's land area does Africa cover?",
+      "question": "Approximately how much land area does Africa cover, including adjacent islands?",
       "options": [
-        "around 20%",
-        "around 10%",
-        "around 30%",
-        "around 40%"
+        "30.3 million kmÂ²",
+        "20 million kmÂ²",
+        "11.7 million kmÂ²",
+        "6 million kmÂ²"
       ],
       "answer_explanations": [
-        "Correct. The article states that Africa covers around 20% of Earth's land area.",
-        "Incorrect. The article does not say Africa covers around 10% of Earth's land area.",
-        "Incorrect. The article does not say Africa covers around 30% of Earth's land area.",
-        "Incorrect. The article does not say Africa covers around 40% of Earth's land area."
+        "Correct. The article says Africa covers about 30.3 million kmÂ² (11.7 million square miles), including adjacent islands.",
+        "Incorrect. 20 million kmÂ² is not mentioned; the article gives 30.3 million kmÂ².",
+        "Incorrect. 11.7 million is the area in square miles, not kmÂ².",
+        "Incorrect. 6% is the percentage of Earth's total surface area, not the land area."
       ]
     },
     {
       "id": 3,
+      "question": "What percentage of Earth's land area does Africa cover?",
+      "options": [
+        "About 20%",
+        "About 6%",
+        "About 30%",
+        "About 15%"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Africa covers around 20% of Earth's land area.",
+        "Incorrect. 6% is the percentage of Earth's total surface area, not land area.",
+        "Incorrect. 30% is not mentioned; the article says about 20%.",
+        "Incorrect. 15% is not mentioned; the article says about 20%."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which continent has the youngest population among all continents?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "Oceania"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Africa's population is the youngest among the continents.",
+        "Incorrect. Asia is not described as having the youngest population; Africa is.",
+        "Incorrect. Europe is not mentioned as having the youngest population.",
+        "Incorrect. Oceania is not mentioned in this context; Africa is the youngest."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What was Africa's median age in 2012?",
+      "options": [
+        "19.7",
+        "30.4",
+        "25.0",
+        "20.0"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the median age in 2012 was 19.7.",
+        "Incorrect. 30.4 was the worldwide median age, not Africa's.",
+        "Incorrect. 25.0 is not mentioned; the article says 19.7.",
+        "Incorrect. 20.0 is not mentioned; the article says 19.7."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to 2024 projections, by 2100 Africa's population will exceed how many people?",
+      "options": [
+        "3.8 billion",
+        "1.4 billion",
+        "2.5 billion",
+        "5 billion"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Africa's population will exceed 3.8 billion people by 2100.",
+        "Incorrect. 1.4 billion is the current population mentioned, not the 2100 projection.",
+        "Incorrect. 2.5 billion is not mentioned; the projection is 3.8 billion.",
+        "Incorrect. 5 billion is not mentioned; the projection is 3.8 billion."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which ocean is to the west of Africa?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Mediterranean Sea",
+        "Pacific Ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the Atlantic Ocean is to the west.",
+        "Incorrect. The Indian Ocean is to the southeast, not west.",
+        "Incorrect. The Mediterranean Sea is to the north, not west.",
+        "Incorrect. The Pacific Ocean is not mentioned as bordering Africa."
+      ]
+    },
+    {
+      "id": 8,
       "question": "Which country is the largest in Africa by area?",
       "options": [
         "Algeria",
@@ -45,122 +125,42 @@
         "South Africa"
       ],
       "answer_explanations": [
-        "Correct. The article states that Algeria is the largest country by area.",
-        "Incorrect. The article states Nigeria is the largest by population, not by area.",
-        "Incorrect. The article does not identify Egypt as the largest country by area.",
-        "Incorrect. The article does not identify South Africa as the largest country by area."
+        "Correct. The article states Algeria is the largest country by area.",
+        "Incorrect. Nigeria is the largest by population, not area.",
+        "Incorrect. Egypt is not mentioned as the largest by area.",
+        "Incorrect. South Africa is not mentioned as the largest by area."
       ]
     },
     {
-      "id": 4,
+      "id": 9,
       "question": "Where is the African Union headquartered?",
       "options": [
         "Addis Ababa",
         "Cairo",
         "Nairobi",
-        "Pretoria"
+        "Lagos"
       ],
       "answer_explanations": [
-        "Correct. The article states that the African Union is headquartered in Addis Ababa.",
-        "Incorrect. The article does not say the African Union is headquartered in Cairo.",
-        "Incorrect. The article does not say the African Union is headquartered in Nairobi.",
-        "Incorrect. The article does not say the African Union is headquartered in Pretoria."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What is Africa considered to be the place of origin of?",
-      "options": [
-        "humans and the Hominidae clade",
-        "all mammals",
-        "European languages",
-        "the Industrial Revolution"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Africa is widely accepted to be the place of origin of humans and the Hominidae clade.",
-        "Incorrect. The article does not claim Africa is the origin of all mammals.",
-        "Incorrect. The article does not claim Africa is the origin of European languages.",
-        "Incorrect. The article does not claim Africa is the origin of the Industrial Revolution."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "Which two African countries were not colonised by European nations during the Scramble for Africa?",
-      "options": [
-        "Ethiopia and Liberia",
-        "Egypt and South Africa",
-        "Nigeria and Kenya",
-        "Ghana and Morocco"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that most of Africa was colonised by European nations, save for Ethiopia and Liberia.",
-        "Incorrect. The article does not say Egypt and South Africa were not colonised.",
-        "Incorrect. The article does not say Nigeria and Kenya were not colonised.",
-        "Incorrect. The article does not say Ghana and Morocco were not colonised."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "How many fully recognised sovereign states does Africa contain?",
-      "options": [
-        "54",
-        "44",
-        "64",
-        "34"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Africa contains 54 fully recognised sovereign states.",
-        "Incorrect. The article does not say Africa contains 44 fully recognised sovereign states.",
-        "Incorrect. The article does not say Africa contains 64 fully recognised sovereign states.",
-        "Incorrect. The article does not say Africa contains 34 fully recognised sovereign states."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "Which continent is identified by the UN Intergovernmental Panel on Climate Change as the most vulnerable to climate change?",
-      "options": [
-        "Africa",
-        "Asia",
-        "South America",
-        "Europe"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the UN Intergovernmental Panel on Climate Change has identified Africa as the continent most vulnerable to climate change.",
-        "Incorrect. The article does not identify Asia as the most vulnerable continent to climate change.",
-        "Incorrect. The article does not identify South America as the most vulnerable continent to climate change.",
-        "Incorrect. The article does not identify Europe as the most vulnerable continent to climate change."
-      ]
-    },
-    {
-      "id": 9,
-      "question": "What was the median age in Africa in 2012?",
-      "options": [
-        "19.7",
-        "30.4",
-        "25.0",
-        "40.2"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the median age in Africa in 2012 was 19.7.",
-        "Incorrect. The article states 30.4 was the worldwide median age, not Africa's.",
-        "Incorrect. The article does not state the median age in Africa was 25.0 in 2012.",
-        "Incorrect. The article does not state the median age in Africa was 40.2 in 2012."
+        "Correct. The article says the African Union is headquartered in Addis Ababa.",
+        "Incorrect. Cairo is not mentioned as the headquarters.",
+        "Incorrect. Nairobi is not mentioned as the headquarters.",
+        "Incorrect. Lagos is not mentioned as the headquarters."
       ]
     },
     {
       "id": 10,
-      "question": "Which body of water is located to the north of Africa?",
+      "question": "Which continent is identified as the most vulnerable to climate change by the UN Intergovernmental Panel on Climate Change?",
       "options": [
-        "Mediterranean Sea",
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Red Sea"
+        "Africa",
+        "Asia",
+        "Europe",
+        "South America"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Mediterranean Sea is to the north of Africa.",
-        "Incorrect. The article states the Indian Ocean is to the southeast, not the north.",
-        "Incorrect. The article states the Atlantic Ocean is to the west, not the north.",
-        "Incorrect. The article does not say the Red Sea is to the north of Africa."
+        "Correct. The article states the UN IPCC has identified Africa as the continent most vulnerable to climate change.",
+        "Incorrect. Asia is not identified as most vulnerable; Africa is.",
+        "Incorrect. Europe is not identified as most vulnerable; Africa is.",
+        "Incorrect. South America is not mentioned in this context; Africa is."
       ]
     }
   ]

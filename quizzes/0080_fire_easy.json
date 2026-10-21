@@ -8,159 +8,159 @@
       "question": "What is fire defined as in the article?",
       "options": [
         "The rapid oxidation of a fuel in the exothermic chemical process of combustion",
-        "A slow chemical reaction that absorbs heat",
-        "A physical change that produces only light",
-        "A biological process occurring in plants"
+        "The slow oxidation of a fuel in the endothermic chemical process of combustion",
+        "The rapid reduction of a fuel in the exothermic chemical process of combustion",
+        "The slow reduction of a fuel in the endothermic chemical process of combustion"
       ],
       "answer_explanations": [
-        "Correct. The article states fire is 'the rapid oxidation of a fuel in the exothermic chemical process of combustion.'",
-        "Incorrect. The article describes fire as rapid oxidation, not slow, and it releases heat rather than absorbing it.",
-        "Incorrect. The article says fire releases heat, light, and reaction products, not just light.",
-        "Incorrect. Fire is described as a chemical process of combustion, not a biological process in plants."
+        "Correct. The article states that fire is 'the rapid oxidation of a fuel in the exothermic chemical process of combustion'.",
+        "Incorrect. The article describes fire as rapid oxidation, not slow, and the process is exothermic, not endothermic.",
+        "Incorrect. The article describes oxidation, not reduction, and the process is exothermic, not endothermic.",
+        "Incorrect. The article describes rapid oxidation, not slow reduction, and the process is exothermic, not endothermic."
       ]
     },
     {
       "id": 2,
-      "question": "What are flames produced from?",
+      "question": "What does fire release during combustion?",
       "options": [
-        "The combustion reaction when fuel reaches its ignition point temperature",
-        "The cooling of fuel below room temperature",
-        "The evaporation of water alone",
-        "The freezing of gases"
+        "Heat, light, and various reaction products",
+        "Only heat and light",
+        "Only light and various reaction products",
+        "Only heat and various reaction products"
       ],
       "answer_explanations": [
-        "Correct. The article states flames are produced in the combustion reaction when fuel reaches its ignition point temperature.",
-        "Incorrect. The article does not say flames result from cooling fuel below room temperature.",
-        "Incorrect. While water vapor is mentioned as a component, flames are not produced from evaporation of water alone.",
-        "Incorrect. The article describes flames as part of combustion, not freezing of gases."
+        "Correct. The article says fire releases 'heat, light, and various reaction products'.",
+        "Incorrect. The article also mentions the release of various reaction products, not just heat and light.",
+        "Incorrect. The article also mentions the release of heat, not just light and reaction products.",
+        "Incorrect. The article also mentions the release of light, not just heat and reaction products."
       ]
     },
     {
       "id": 3,
-      "question": "What do flames from hydrocarbon fuels consist primarily of?",
+      "question": "What is the most visible portion of fire?",
       "options": [
-        "Carbon dioxide, water vapor, oxygen, and nitrogen",
-        "Helium and neon",
-        "Pure carbon and hydrogen",
-        "Molten metal and ash"
+        "Flames",
+        "Smoke",
+        "Ash",
+        "Sparks"
       ],
       "answer_explanations": [
-        "Correct. The article states flames from hydrocarbon fuels consist primarily of carbon dioxide, water vapor, oxygen, and nitrogen.",
-        "Incorrect. Helium and neon are not mentioned in the article as components of hydrocarbon flames.",
-        "Incorrect. The article lists gases such as carbon dioxide and nitrogen, not pure carbon and hydrogen.",
-        "Incorrect. Molten metal and ash are not identified as primary components of flames in the article."
+        "Correct. The article states that 'Flames, the most visible portion of the fire, are produced in the combustion reaction'.",
+        "Incorrect. The article identifies flames, not smoke, as the most visible portion.",
+        "Incorrect. The article identifies flames, not ash, as the most visible portion.",
+        "Incorrect. The article identifies flames, not sparks, as the most visible portion."
       ]
     },
     {
       "id": 4,
-      "question": "What do the color and intensity of a flame depend on?",
+      "question": "When are flames produced in the combustion reaction?",
       "options": [
-        "The type of fuel and composition of the surrounding gases",
-        "The time of day and season of the year",
-        "The altitude and wind speed only",
-        "The color of the fuel container"
+        "When the fuel reaches its ignition point temperature",
+        "When the fuel is mixed with water",
+        "When the fuel is cooled below freezing",
+        "When the fuel is exposed to sunlight"
       ],
       "answer_explanations": [
-        "Correct. The article states the color and intensity of the flame depend on the type of fuel and composition of the surrounding gases.",
-        "Incorrect. The article does not mention time of day or season as factors affecting flame color and intensity.",
-        "Incorrect. Altitude and wind speed are not cited in the article as determinants of flame color and intensity.",
-        "Incorrect. The article does not mention fuel containers affecting flame color or intensity."
+        "Correct. The article says flames are produced 'when the fuel reaches its ignition point temperature'.",
+        "Incorrect. The article does not mention water as a condition for flame production.",
+        "Incorrect. The article does not mention cooling as a condition for flame production.",
+        "Incorrect. The article does not mention sunlight as a condition for flame production."
       ]
     },
     {
       "id": 5,
-      "question": "What can happen if fire removes protective vegetation?",
+      "question": "Flames from hydrocarbon fuels consist primarily of which gases?",
       "options": [
-        "Heavy rainfall can cause soil erosion",
-        "Soil fertility immediately increases",
-        "Plants grow faster without any negative effects",
-        "Atmospheric nitrogen levels decrease permanently"
+        "Carbon dioxide, water vapor, oxygen, and nitrogen",
+        "Carbon monoxide, hydrogen, oxygen, and nitrogen",
+        "Carbon dioxide, water vapor, methane, and nitrogen",
+        "Carbon dioxide, water vapor, oxygen, and sulfur dioxide"
       ],
       "answer_explanations": [
-        "Correct. The article states that when fire removes protective vegetation, heavy rainfall can cause soil erosion.",
-        "Incorrect. The article says fire causes a long-term reduction in soil fertility due to nitrogen loss, not an immediate increase.",
-        "Incorrect. The article describes harms such as soil erosion, not faster plant growth without negative effects.",
-        "Incorrect. While nitrogen is released into the atmosphere, the article does not state that atmospheric nitrogen levels decrease permanently."
+        "Correct. The article states that flames from hydrocarbon fuels consist primarily of 'carbon dioxide, water vapor, oxygen, and nitrogen'.",
+        "Incorrect. The article lists carbon dioxide, water vapor, oxygen, and nitrogen, not carbon monoxide and hydrogen.",
+        "Incorrect. The article lists carbon dioxide, water vapor, oxygen, and nitrogen, not methane.",
+        "Incorrect. The article lists carbon dioxide, water vapor, oxygen, and nitrogen, not sulfur dioxide."
       ]
     },
     {
       "id": 6,
-      "question": "Which plants can help recover nitrogen lost from soil after a fire?",
+      "question": "What may happen to the gases if they become hot enough?",
       "options": [
-        "Nitrogen-fixing plants such as clover, peas, and beans",
-        "Only trees and shrubs",
-        "Aquatic plants exclusively",
-        "Plants that absorb nitrogen from ash"
+        "They may become ionized to produce plasma",
+        "They may become liquid",
+        "They may become solid",
+        "They may disappear"
       ],
       "answer_explanations": [
-        "Correct. The article states nitrogen can be recovered by nitrogen-fixing plants such as clover, peas, and beans.",
-        "Incorrect. The article specifically names nitrogen-fixing plants like clover, peas, and beans, not only trees and shrubs.",
-        "Incorrect. The article does not restrict nitrogen recovery to aquatic plants.",
-        "Incorrect. The article says potassium and phosphorus remain in ash, but nitrogen is lost to the atmosphere and recovered by nitrogen-fixing plants, not plants absorbing nitrogen from ash."
+        "Correct. The article says 'If hot enough, the gases may become ionized to produce plasma'.",
+        "Incorrect. The article mentions ionization to plasma, not liquefaction.",
+        "Incorrect. The article mentions ionization to plasma, not solidification.",
+        "Incorrect. The article mentions ionization to plasma, not disappearance."
       ]
     },
     {
       "id": 7,
-      "question": "What is one historical human use of fire listed in the article?",
+      "question": "What does the color and intensity of the flame depend on?",
       "options": [
-        "Cooking",
-        "Preserving food by freezing",
-        "Generating electricity from wind",
-        "Purifying water by filtration"
+        "The type of fuel and composition of the surrounding gases",
+        "The amount of water in the air",
+        "The color of the fuel",
+        "The time of day"
       ],
       "answer_explanations": [
-        "Correct. The article lists cooking among the purposes for which fire has been used throughout human history.",
-        "Incorrect. Preserving food by freezing is not mentioned as a use of fire in the article.",
-        "Incorrect. Generating electricity from wind is not listed as a human use of fire in the article.",
-        "Incorrect. Purifying water by filtration is not mentioned in the article as a use of fire."
+        "Correct. The article states that 'The color and intensity of the flame depend on the type of fuel and composition of the surrounding gases'.",
+        "Incorrect. The article does not mention water in the air as a factor.",
+        "Incorrect. The article does not mention the color of the fuel as a factor.",
+        "Incorrect. The article does not mention the time of day as a factor."
       ]
     },
     {
       "id": 8,
-      "question": "What are two major causes of home fires mentioned in the article?",
+      "question": "What is the potential result of fire in its most common form?",
       "options": [
-        "Unattended cooking and cigarettes",
-        "Lightning strikes and power surges",
-        "Cooking with gas ovens only",
-        "Electrical appliances and candles"
+        "Conflagration",
+        "Flood",
+        "Earthquake",
+        "Tornado"
       ],
       "answer_explanations": [
-        "Correct. The article states most home fires start from unattended cooking, although cigarettes are another major cause.",
-        "Incorrect. Lightning strikes and power surges are not cited in the article as major causes of home fires.",
-        "Incorrect. The article mentions unattended cooking generally, not cooking with gas ovens only.",
-        "Incorrect. Electrical appliances and candles are not identified in the article as major causes of home fires."
+        "Correct. The article says 'Fire, in its most common form, has the potential to result in conflagration'.",
+        "Incorrect. The article mentions conflagration, not flood.",
+        "Incorrect. The article mentions conflagration, not earthquake.",
+        "Incorrect. The article mentions conflagration, not tornado."
       ]
     },
     {
       "id": 9,
-      "question": "What does the word ignite derive from?",
+      "question": "Which of the following is listed as a benefit of fire?",
       "options": [
-        "The classical Latin ignis meaning fire",
-        "The Greek term pyr",
-        "The Old English word fÈ³r",
-        "The Proto-Indo-European pÃ©h2wr"
+        "Stimulating plant growth and maintaining ecological balance",
+        "Causing soil erosion",
+        "Releasing nitrogen into the atmosphere",
+        "Reducing soil fertility"
       ],
       "answer_explanations": [
-        "Correct. The article states the word ignite is derived from the classical Latin ignis meaning fire.",
-        "Incorrect. The article says pyr is the Greek term for fire used in words like pyroclastic, not the origin of ignite.",
-        "Incorrect. The article says fire comes from Old English fÈ³r, but ignite derives from Latin ignis.",
-        "Incorrect. The article traces fire to Proto-Indo-European pÃ©h2wr, but ignite specifically derives from Latin ignis."
+        "Correct. The article states that 'The benefits of fire include stimulating plant growth and maintaining ecological balance'.",
+        "Incorrect. Soil erosion is listed as a harm, not a benefit.",
+        "Incorrect. Releasing nitrogen is mentioned as a consequence, not a benefit.",
+        "Incorrect. Reducing soil fertility is a harm, not a benefit."
       ]
     },
     {
       "id": 10,
-      "question": "When does the fossil record of fire first appear according to the article?",
+      "question": "What happens when fire removes protective vegetation?",
       "options": [
-        "With the establishment of land-based flora in the Middle Ordovician period, 470 million years ago",
-        "During the time of the dinosaurs",
-        "Only after humans appeared on Earth",
-        "In the last 10,000 years"
+        "Heavy rainfall can cause soil erosion",
+        "The soil becomes more fertile",
+        "The vegetation grows back immediately",
+        "The air becomes cleaner"
       ],
       "answer_explanations": [
-        "Correct. The article states the fossil record of fire first appears with the establishment of land-based flora in the Middle Ordovician period, 470 million years ago.",
-        "Incorrect. The article places the first appearance of fire in the fossil record at 470 million years ago, not during the time of the dinosaurs.",
-        "Incorrect. The article describes fire in the fossil record hundreds of millions of years before humans appeared.",
-        "Incorrect. The article states fire appears in the fossil record 470 million years ago, not only in the last 10,000 years."
+        "Correct. The article states 'When fire removes protective vegetation, heavy rainfall can cause soil erosion'.",
+        "Incorrect. The article says soil erosion can occur, not increased fertility.",
+        "Incorrect. The article does not mention immediate regrowth.",
+        "Incorrect. The article does not mention cleaner air; it mentions atmospheric pollution as a harm."
       ]
     }
   ]

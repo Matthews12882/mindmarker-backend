@@ -5,39 +5,39 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Plato's most famous contribution according to the article?",
+      "question": "Who is Plato?",
       "options": [
-        "The Theory of Forms",
-        "The Socratic method",
-        "The Academy",
-        "Platonism"
+        "An ancient Greek philosopher",
+        "A Roman emperor",
+        "An Egyptian priest",
+        "A medieval scholar"
       ],
       "answer_explanations": [
-        "Correct. The article states that Plato's most famous contribution is his Theory of Forms.",
-        "Incorrect. The Socratic method is described as Socrates' series of questioning, not Plato's most famous contribution.",
-        "Incorrect. The Academy is mentioned as the philosophical school Plato founded, not his most famous contribution.",
-        "Incorrect. Platonism is described as the collection of theories taught at the Academy, not Plato's most famous contribution."
+        "Correct. The article states that Plato was 'an ancient Greek philosopher of Classical Athens'.",
+        "Incorrect. The article identifies Plato as a philosopher, not a Roman emperor.",
+        "Incorrect. The article identifies Plato as a Greek philosopher, not an Egyptian priest.",
+        "Incorrect. The article identifies Plato as an ancient philosopher, not a medieval scholar."
       ]
     },
     {
       "id": 2,
-      "question": "Who was Plato's teacher?",
+      "question": "When did Plato live?",
       "options": [
-        "Socrates",
-        "Aristotle",
-        "Pythagoras",
-        "Parmenides"
+        "c. 428â347 BC",
+        "c. 100â200 AD",
+        "c. 500â600 BC",
+        "c. 1500â1600 AD"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Socrates as Plato's teacher and greatest source of inspiration.",
-        "Incorrect. Aristotle is described as Plato's student, not his teacher.",
-        "Incorrect. Pythagoras is listed as one of the pre-Socratic thinkers who influenced Plato, not his teacher.",
-        "Incorrect. Parmenides is listed as one of the pre-Socratic thinkers who influenced Plato, not his teacher."
+        "Correct. The article gives Plato's dates as 'c. 428â347 BC'.",
+        "Incorrect. The article states Plato lived in the 4th century BC, not the 2nd century AD.",
+        "Incorrect. The article gives his dates as c. 428â347 BC, not 500â600 BC.",
+        "Incorrect. The article places him in ancient times, not the 16th century AD."
       ]
     },
     {
       "id": 3,
-      "question": "What did Plato found in Athens?",
+      "question": "What was the name of the philosophical school Plato founded?",
       "options": [
         "The Academy",
         "The Lyceum",
@@ -45,122 +45,122 @@
         "The Garden"
       ],
       "answer_explanations": [
-        "Correct. The article states that Plato was the founder of the Academy, a philosophical school in Athens.",
-        "Incorrect. The Lyceum is not mentioned in the article as a school founded by Plato.",
-        "Incorrect. The Stoa is not mentioned in the article as a school founded by Plato.",
-        "Incorrect. The Garden is not mentioned in the article as a school founded by Plato."
+        "Correct. The article says Plato 'was the founder of the Academy, a philosophical school in Athens'.",
+        "Incorrect. The Lyceum was founded by Aristotle, not Plato, according to the article.",
+        "Incorrect. The Stoa is not mentioned as Plato's school in the article.",
+        "Incorrect. The Garden is not mentioned as Plato's school in the article."
       ]
     },
     {
       "id": 4,
-      "question": "What were Plato's favorite employment in his youthful years according to ancient writers?",
+      "question": "Where was the Academy located?",
       "options": [
-        "Poetry",
-        "Gymnastics",
-        "Music",
-        "Philosophy"
+        "Athens",
+        "Sparta",
+        "Rome",
+        "Alexandria"
       ],
       "answer_explanations": [
-        "Correct. The article states there was a tradition that Plato's favorite employment in his youthful years was poetry.",
-        "Incorrect. Gymnastics is mentioned as part of the traditional education Plato received, not as his favorite employment.",
-        "Incorrect. Music is mentioned as part of the traditional education Plato received, not as his favorite employment.",
-        "Incorrect. Philosophy is what Plato turned to after meeting Socrates, not his favorite youthful employment."
+        "Correct. The article describes the Academy as 'a philosophical school in Athens'.",
+        "Incorrect. The article specifies Athens, not Sparta.",
+        "Incorrect. The article specifies Athens, not Rome.",
+        "Incorrect. The article specifies Athens, not Alexandria."
       ]
     },
     {
       "id": 5,
-      "question": "In what year did Sparta defeat Athens at the conclusion of the Peloponnesian War?",
+      "question": "What is Plato's most famous contribution?",
       "options": [
-        "404 BC",
-        "403 BC",
-        "401 BC",
-        "399 BC"
+        "The Theory of Forms (or Ideas)",
+        "The Theory of Relativity",
+        "The Theory of Evolution",
+        "The Theory of Gravity"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 404, Sparta defeated Athens at the conclusion of the Peloponnesian war.",
-        "Incorrect. 403 BC is when the democracy was restored, not when Sparta defeated Athens.",
-        "Incorrect. 401 BC is when the restored democrats raided Eleusis, not when Sparta defeated Athens.",
-        "Incorrect. 399 BC is not the year Sparta defeated Athens according to the article."
+        "Correct. The article states 'Plato's most famous contribution is his Theory of Forms (or Ideas)'.",
+        "Incorrect. The Theory of Relativity is not attributed to Plato in the article.",
+        "Incorrect. The Theory of Evolution is not attributed to Plato in the article.",
+        "Incorrect. The Theory of Gravity is not attributed to Plato in the article."
       ]
     },
     {
       "id": 6,
-      "question": "Which two of Plato's relatives were included in the Thirty Tyrants?",
+      "question": "Who was Plato's teacher?",
       "options": [
-        "Critias and Charmides",
-        "Glaucon and Adeimantus",
-        "Solon and Perictione",
-        "Dion and Archytas"
+        "Socrates",
+        "Aristotle",
+        "Pythagoras",
+        "Heraclitus"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Thirty Tyrants included two of Plato's relatives, Critias and Charmides.",
-        "Incorrect. Glaucon and Adeimantus are described as Plato's brothers, not members of the Thirty Tyrants.",
-        "Incorrect. Solon is described as an ancestor through Plato's mother, and Perictione is Plato's mother, not members of the Thirty Tyrants.",
-        "Incorrect. Dion and Archytas are not described as members of the Thirty Tyrants in the article."
+        "Correct. The article mentions 'his teacher Socrates'.",
+        "Incorrect. Aristotle was Plato's student, not his teacher, according to the article.",
+        "Incorrect. Pythagoras was a pre-Socratic thinker who influenced Plato, but not his teacher.",
+        "Incorrect. Heraclitus was a pre-Socratic thinker who influenced Plato, but not his teacher."
       ]
     },
     {
       "id": 7,
-      "question": "What did Plato do when he was invited to join the administration of the Thirty Tyrants?",
+      "question": "Who was Plato's student?",
       "options": [
-        "He declined",
-        "He accepted",
-        "He ignored the invitation",
-        "He recommended Socrates"
+        "Aristotle",
+        "Socrates",
+        "Parmenides",
+        "Alfred North Whitehead"
       ],
       "answer_explanations": [
-        "Correct. The article states that Plato himself was invited to join the administration, but declined.",
-        "Incorrect. The article says Plato declined the invitation, not that he accepted it.",
-        "Incorrect. The article explicitly states Plato declined the invitation, so he did not ignore it.",
-        "Incorrect. The article does not mention Plato recommending Socrates in connection with the Thirty Tyrants."
+        "Correct. The article says 'his student Aristotle'.",
+        "Incorrect. Socrates was Plato's teacher, not his student.",
+        "Incorrect. Parmenides was a pre-Socratic thinker, not Plato's student.",
+        "Incorrect. Alfred North Whitehead was a modern philosopher, not Plato's student."
       ]
     },
     {
       "id": 8,
-      "question": "What happened to Plato's poems when he met Socrates?",
+      "question": "Which pre-Socratic thinkers influenced Plato, according to the article?",
       "options": [
-        "He burnt them",
-        "He published them",
-        "He gave them to Socrates",
-        "He forgot them"
+        "Pythagoras, Heraclitus, and Parmenides",
+        "Socrates, Aristotle, and Plato",
+        "Homer, Hesiod, and Aeschylus",
+        "Thales, Anaximander, and Anaximenes"
       ],
       "answer_explanations": [
-        "Correct. The article states that Plato abandoned his early passion and burnt his poems when he met Socrates and turned to philosophy.",
-        "Incorrect. The article says Plato burnt his poems, not that he published them.",
-        "Incorrect. The article says Plato burnt his poems, not that he gave them to Socrates.",
-        "Incorrect. The article says Plato burnt his poems, not that he forgot them."
+        "Correct. The article states he 'was influenced by the pre-Socratic thinkers Pythagoras, Heraclitus, and Parmenides'.",
+        "Incorrect. Socrates and Aristotle were not pre-Socratic thinkers.",
+        "Incorrect. Homer, Hesiod, and Aeschylus are not mentioned as pre-Socratic influences in the article.",
+        "Incorrect. Thales, Anaximander, and Anaximenes are not the ones listed in the article."
       ]
     },
     {
       "id": 9,
-      "question": "Who arrived at the Academy in 367 BC?",
+      "question": "What did Alfred North Whitehead say about the European philosophical tradition?",
       "options": [
-        "Aristotle",
-        "Socrates",
-        "Euclid of Megara",
-        "Archytas of Tarentum"
+        "It consists of a series of footnotes to Plato",
+        "It is a collection of dialogues",
+        "It has no foundation",
+        "It is based on the Academy"
       ],
       "answer_explanations": [
-        "Correct. The article states that Aristotle of Stagira arrived in 367 BC, shortly before Plato departed again for Syracuse.",
-        "Incorrect. Socrates is Plato's teacher who died before the Academy was founded, not someone who arrived in 367 BC.",
-        "Incorrect. Euclid of Megara is mentioned as someone Plato studied with in Megara around 396 BC, not as arriving at the Academy in 367 BC.",
-        "Incorrect. Archytas of Tarentum is mentioned as someone Plato studied mathematics with, not as arriving at the Academy in 367 BC."
+        "Correct. The article quotes Whitehead: 'the safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.'",
+        "Incorrect. Whitehead's quote is about footnotes to Plato, not a collection of dialogues.",
+        "Incorrect. Whitehead's quote affirms a foundation in Plato, not the absence of one.",
+        "Incorrect. Whitehead's quote does not mention the Academy."
       ]
     },
     {
       "id": 10,
-      "question": "What did Alfred North Whitehead say about the European philosophical tradition?",
+      "question": "How many years later are Plato's complete works believed to have survived?",
       "options": [
-        "It consists of a series of footnotes to Plato",
-        "It began with Plato",
-        "It ended with Plato",
-        "It is unrelated to Plato"
+        "2,400 years later",
+        "1,000 years later",
+        "3,500 years later",
+        "500 years later"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Whitehead saying the safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.",
-        "Incorrect. The article does not say Whitehead claimed the tradition began with Plato.",
-        "Incorrect. The article does not say Whitehead claimed the tradition ended with Plato.",
-        "Incorrect. Whitehead's quote directly connects the European philosophical tradition to Plato, so it is not unrelated."
+        "Correct. The article says '2,400 years later, Plato's complete works are believed to have survived'.",
+        "Incorrect. The article specifies 2,400 years, not 1,000.",
+        "Incorrect. The article specifies 2,400 years, not 3,500.",
+        "Incorrect. The article specifies 2,400 years, not 500."
       ]
     }
   ]

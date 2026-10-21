@@ -9,158 +9,158 @@
       "options": [
         "English",
         "Scottish",
-        "Welsh",
-        "Irish"
+        "Irish",
+        "Welsh"
       ],
       "answer_explanations": [
-        "Correct. The article states that Michael Faraday was an English chemist and physicist.",
+        "Correct. The article states that Michael Faraday was an 'English chemist and physicist'.",
         "Incorrect. The article identifies Faraday as English, not Scottish.",
-        "Incorrect. The article identifies Faraday as English, not Welsh.",
-        "Incorrect. The article identifies Faraday as English, not Irish."
+        "Incorrect. The article identifies Faraday as English, not Irish.",
+        "Incorrect. The article identifies Faraday as English, not Welsh."
       ]
     },
     {
       "id": 2,
-      "question": "What was Michael Faraday's date of birth?",
+      "question": "What was Michael Faraday's profession?",
       "options": [
-        "22 September 1791",
-        "25 August 1867",
-        "12 June 1821",
-        "1 March 1813"
+        "Chemist and physicist",
+        "Biologist and chemist",
+        "Astronomer and physicist",
+        "Mathematician and chemist"
       ],
       "answer_explanations": [
-        "Correct. The article states that Michael Faraday was born on 22 September 1791.",
-        "Incorrect. 25 August 1867 is Faraday's date of death, not his birth date.",
-        "Incorrect. 12 June 1821 is the date Faraday married Sarah Barnard.",
-        "Incorrect. 1 March 1813 is the date Faraday was appointed Chemical Assistant at the Royal Institution."
+        "Correct. The article describes Faraday as an 'English chemist and physicist'.",
+        "Incorrect. The article does not mention biology as one of Faraday's professions.",
+        "Incorrect. The article does not mention astronomy as one of Faraday's professions.",
+        "Incorrect. The article does not describe Faraday as a mathematician."
       ]
     },
     {
       "id": 3,
-      "question": "Which SI unit is named after Michael Faraday?",
+      "question": "What is the SI unit of capacitance named after Michael Faraday?",
       "options": [
-        "farad",
-        "volt",
-        "watt",
-        "ohm"
+        "The farad",
+        "The newton",
+        "The joule",
+        "The watt"
       ],
       "answer_explanations": [
-        "Correct. The article states that the SI unit of capacitance, the farad, is named after him.",
-        "Incorrect. The article does not mention the volt being named after Faraday.",
-        "Incorrect. The article does not mention the watt being named after Faraday.",
-        "Incorrect. The article does not mention the ohm being named after Faraday."
+        "Correct. The article states that 'The SI unit of capacitance, the farad, is named after him.'",
+        "Incorrect. The newton is a unit of force, not capacitance, and is not named after Faraday.",
+        "Incorrect. The joule is a unit of energy, not capacitance, and is not named after Faraday.",
+        "Incorrect. The watt is a unit of power, not capacitance, and is not named after Faraday."
       ]
     },
     {
       "id": 4,
-      "question": "Which chemical substance did Faraday discover?",
+      "question": "Which of the following is NOT a discovery attributed to Faraday in the introduction?",
       "options": [
-        "benzene",
-        "oxygen",
-        "hydrogen",
-        "nitrogen"
+        "The theory of relativity",
+        "Electromagnetic induction",
+        "Diamagnetism",
+        "Electrolysis"
       ],
       "answer_explanations": [
-        "Correct. The article states that as a chemist, Faraday discovered benzene.",
-        "Incorrect. The article does not state that Faraday discovered oxygen.",
-        "Incorrect. The article does not state that Faraday discovered hydrogen.",
-        "Incorrect. The article does not state that Faraday discovered nitrogen."
+        "Correct. The theory of relativity is not mentioned in the introduction; Faraday's discoveries include electromagnetic induction, diamagnetism, and electrolysis.",
+        "Incorrect. Electromagnetic induction is listed as one of Faraday's main discoveries.",
+        "Incorrect. Diamagnetism is listed as one of Faraday's main discoveries.",
+        "Incorrect. Electrolysis is listed as one of Faraday's main discoveries."
       ]
     },
     {
       "id": 5,
-      "question": "What position did Faraday hold at the Royal Institution?",
+      "question": "What did Faraday establish about magnetism and rays of light?",
       "options": [
-        "Fullerian Professor of Chemistry",
-        "President of the Royal Society",
-        "Director of the Royal Mint",
-        "Head of the Royal Philharmonic Society"
+        "That magnetism could affect rays of light",
+        "That magnetism could create light",
+        "That light could destroy magnetism",
+        "That magnetism and light are unrelated"
       ],
       "answer_explanations": [
-        "Correct. The article states that Faraday became the first Fullerian Professor of Chemistry at the Royal Institution.",
-        "Incorrect. The article states that Faraday twice refused to become President of the Royal Society.",
-        "Incorrect. The article does not state that Faraday was Director of the Royal Mint.",
-        "Incorrect. The article does not state that Faraday was Head of the Royal Philharmonic Society."
+        "Correct. The article states that 'Faraday also established that magnetism could affect rays of light and that there was an underlying relationship between the two phenomena.'",
+        "Incorrect. The article says magnetism affects light, not that it creates light.",
+        "Incorrect. The article does not suggest that light destroys magnetism.",
+        "Incorrect. The article says there is a relationship between magnetism and light, not that they are unrelated."
       ]
     },
     {
       "id": 6,
-      "question": "What did Faraday refuse to work on during the Crimean War?",
+      "question": "What did Faraday's inventions of electromagnetic rotary devices form the foundation of?",
       "options": [
-        "chemical weapons",
-        "lighthouse optimization",
-        "ship corrosion protection",
-        "coal mine safety"
+        "Electric motor technology",
+        "Steam engine technology",
+        "Internal combustion engine technology",
+        "Nuclear power technology"
       ],
       "answer_explanations": [
-        "Correct. The article states that Faraday refused to work on developing chemical weapons for use in the Crimean War.",
-        "Incorrect. Faraday worked on optimising lighthouses, but this was not what he refused during the Crimean War.",
-        "Incorrect. Faraday worked on protecting ships from corrosion, but this was not what he refused during the Crimean War.",
-        "Incorrect. Faraday investigated a colliery explosion, but this was not what he refused during the Crimean War."
+        "Correct. The article states that 'His inventions of electromagnetic rotary devices formed the foundation of electric motor technology.'",
+        "Incorrect. The article does not mention steam engines in this context.",
+        "Incorrect. The article does not mention internal combustion engines in this context.",
+        "Incorrect. The article does not mention nuclear power in this context."
       ]
     },
     {
       "id": 7,
-      "question": "Where was Faraday interred?",
+      "question": "What did Faraday discover as a chemist?",
       "options": [
-        "Highgate Cemetery",
-        "Westminster Abbey",
-        "St Paul's Cathedral",
-        "Hampton Court"
+        "Benzene and tetrachloroethylene",
+        "Oxygen and hydrogen",
+        "Carbon dioxide and methane",
+        "Sodium and potassium"
       ],
       "answer_explanations": [
-        "Correct. The article states that Faraday was interred in the dissenters' section of Highgate Cemetery.",
-        "Incorrect. The article states that Faraday turned down an offer of burial in Westminster Abbey.",
-        "Incorrect. The article does not mention St Paul's Cathedral as Faraday's burial place.",
-        "Incorrect. Hampton Court is where Faraday lived and died, not where he was interred."
+        "Correct. The article states that 'As a chemist, Faraday discovered benzene and tetrachloroethylene.'",
+        "Incorrect. Oxygen and hydrogen were not discovered by Faraday according to the introduction.",
+        "Incorrect. Carbon dioxide and methane are not mentioned as Faraday's discoveries.",
+        "Incorrect. Sodium and potassium are not mentioned as Faraday's discoveries."
       ]
     },
     {
       "id": 8,
-      "question": "Who gave Faraday tickets to attend Humphry Davy's lectures?",
+      "question": "Which of the following terms did Faraday popularise?",
       "options": [
-        "William Dance",
-        "John Tatum",
-        "Sarah Barnard",
-        "James Clerk Maxwell"
+        "Electrode",
+        "Gravity",
+        "Atom",
+        "Molecule"
       ],
       "answer_explanations": [
-        "Correct. The article states that many of the tickets for Davy's lectures were given to Faraday by William Dance.",
-        "Incorrect. John Tatum was the founder of the City Philosophical Society, not the person who gave Faraday lecture tickets.",
-        "Incorrect. Sarah Barnard was Faraday's wife, not the person who gave him lecture tickets.",
-        "Incorrect. James Clerk Maxwell summarised Faraday's work in equations, but did not give him lecture tickets."
+        "Correct. The article states that Faraday 'popularised terminology such as \"anode\", \"cathode\", \"electrode\" and \"ion\".'",
+        "Incorrect. Gravity is not listed as a term popularised by Faraday.",
+        "Incorrect. Atom is not listed as a term popularised by Faraday.",
+        "Incorrect. Molecule is not listed as a term popularised by Faraday."
       ]
     },
     {
       "id": 9,
-      "question": "What did Faraday decline to have published?",
+      "question": "What position did Faraday hold at the Royal Institution?",
       "options": [
-        "his lectures",
-        "his research papers",
-        "his letters",
-        "his diary"
+        "Fullerian Professor of Chemistry",
+        "Professor of Physics",
+        "Director of Research",
+        "President of the Institution"
       ],
       "answer_explanations": [
-        "Correct. The article states that Faraday declined to have his lectures published.",
-        "Incorrect. The article does not state that Faraday declined to have his research papers published.",
-        "Incorrect. The article does not state that Faraday declined to have his letters published.",
-        "Incorrect. The article does not state that Faraday declined to have his diary published."
+        "Correct. The article states that Faraday 'ultimately became the first and foremost Fullerian Professor of Chemistry at the Royal Institution.'",
+        "Incorrect. The article specifies the position as Fullerian Professor of Chemistry, not Professor of Physics.",
+        "Incorrect. The article does not mention a Director of Research position.",
+        "Incorrect. The article does not mention Faraday as President of the Institution."
       ]
     },
     {
       "id": 10,
-      "question": "How many children did Faraday and Sarah Barnard have?",
+      "question": "How did Faraday convey his ideas?",
       "options": [
-        "none",
-        "one",
-        "two",
-        "three"
+        "In clear and simple language",
+        "Using complex mathematical formulas",
+        "Through lengthy technical jargon",
+        "By speaking only in Latin"
       ],
       "answer_explanations": [
-        "Correct. The article states that Faraday and Sarah Barnard had no children.",
-        "Incorrect. The article states they had no children, not one.",
-        "Incorrect. The article states they had no children, not two.",
-        "Incorrect. The article states they had no children, not three."
+        "Correct. The article states that Faraday 'conveyed his ideas in clear and simple language.'",
+        "Incorrect. The article says Faraday's mathematical abilities were limited, so he did not use complex formulas.",
+        "Incorrect. The article emphasizes clear and simple language, not technical jargon.",
+        "Incorrect. The article does not mention Latin."
       ]
     }
   ]

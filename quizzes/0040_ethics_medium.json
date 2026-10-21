@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does normative ethics aim to discover?",
+      "question": "What is ethics also called?",
       "options": [
-        "General principles that govern how people should act",
-        "The dominant moral codes and beliefs in different societies",
-        "The psychological processes involved in moral reasoning",
-        "The historical origins of the word ethics"
+        "Moral philosophy",
+        "Value theory",
+        "Moral psychology",
+        "Descriptive ethics"
       ],
       "answer_explanations": [
-        "Correct. The article states that normative ethics aims to find general principles that govern how people should act.",
-        "Incorrect. Describing dominant moral codes and beliefs in different societies is the task of descriptive ethics, not normative ethics.",
-        "Incorrect. Investigating psychological processes involved in morality belongs to moral psychology, not normative ethics.",
-        "Incorrect. The historical origins of the word ethics are discussed in the etymology section, not as the aim of normative ethics."
+        "Correct. The article states: 'Ethics, also called moral philosophy, is the study of moral phenomena.'",
+        "Incorrect. Value theory is a related field, but it is not another name for ethics.",
+        "Incorrect. Moral psychology is a related empirical field, but it is not another name for ethics.",
+        "Incorrect. Descriptive ethics is a branch that describes moral codes, but it is not another name for ethics."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is an example of a topic examined by applied ethics?",
+      "question": "Which of the following is NOT listed as a main branch of ethics?",
       "options": [
-        "Treatment of animals",
-        "Whether there are objective moral facts",
-        "The formation of moral character",
-        "The contrast between intrinsic and instrumental value"
+        "Moral psychology",
+        "Normative ethics",
+        "Applied ethics",
+        "Metaethics"
       ],
       "answer_explanations": [
-        "Correct. The article lists treatment of animals as a concrete ethical problem examined by applied ethics.",
-        "Incorrect. Asking whether there are objective moral facts is a question of metaethics, not applied ethics.",
-        "Incorrect. The formation of moral character is investigated by moral psychology, not applied ethics.",
-        "Incorrect. The contrast between intrinsic and instrumental value is studied by value theory, not applied ethics."
+        "Correct. The article lists normative ethics, applied ethics, and metaethics as the main branches. Moral psychology is described as a 'related empirical field', not a main branch.",
+        "Incorrect. Normative ethics is listed as one of the main branches of ethics.",
+        "Incorrect. Applied ethics is listed as one of the main branches of ethics.",
+        "Incorrect. Metaethics is listed as one of the main branches of ethics."
       ]
     },
     {
       "id": 3,
-      "question": "What does metaethics explore?",
+      "question": "According to the article, what does normative ethics aim to do?",
       "options": [
-        "The underlying assumptions and concepts of ethics",
-        "Concrete ethical problems in real-life situations",
-        "General principles that govern how people should act",
-        "The dominant moral codes and beliefs in different societies"
+        "Find general principles that govern how people should act",
+        "Describe the moral codes of different societies",
+        "Study the psychological processes behind morality",
+        "Examine the meaning of ethical terms"
       ],
       "answer_explanations": [
-        "Correct. The article states that metaethics explores the underlying assumptions and concepts of ethics.",
-        "Incorrect. Examining concrete ethical problems in real-life situations is the domain of applied ethics.",
-        "Incorrect. Finding general principles that govern how people should act is the aim of normative ethics.",
-        "Incorrect. Describing dominant moral codes and beliefs in different societies is descriptive ethics."
+        "Correct. The article states that 'Normative ethics aims to find general principles that govern how people should act.'",
+        "Incorrect. Describing moral codes is the task of descriptive ethics, not normative ethics.",
+        "Incorrect. Studying psychological processes is the task of moral psychology, not normative ethics.",
+        "Incorrect. Examining underlying assumptions is a task of metaethics, not normative ethics."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, how do deontologists determine whether an act is right?",
+      "question": "According to consequentialism, when is an act considered right?",
       "options": [
-        "By whether the act adheres to duties like telling the truth and keeping promises",
-        "By whether the act produces the best consequences",
-        "By whether the act manifests virtues like courage and compassion",
-        "By whether the act promotes the greatest happiness for the greatest number"
+        "If it leads to the best consequences",
+        "If it follows a set of duties",
+        "If it manifests virtues like courage",
+        "If it follows social conventions"
       ],
       "answer_explanations": [
-        "Correct. The article states that deontologists focus on acts themselves and say they must adhere to duties like telling the truth and keeping promises.",
-        "Incorrect. Judging acts by whether they produce the best consequences is consequentialism, not deontology.",
-        "Incorrect. Seeing the manifestation of virtues as the fundamental principle of morality is virtue ethics, not deontology.",
-        "Incorrect. Promoting the greatest happiness for the greatest number is utilitarianism, a form of consequentialism."
+        "Correct. The article says, 'According to consequentialists, an act is right if it leads to the best consequences.'",
+        "Incorrect. Focusing on duties is a characteristic of deontology, not consequentialism.",
+        "Incorrect. Manifesting virtues is a characteristic of virtue ethics, not consequentialism.",
+        "Incorrect. Following social conventions is not the criterion for right action in consequentialism."
       ]
     },
     {
       "id": 5,
-      "question": "How does virtue ethics understand the fundamental principle of morality?",
+      "question": "Which theory focuses on duties, like telling the truth and keeping promises?",
       "options": [
-        "As the manifestation of virtues like courage and compassion",
-        "As adherence to duties such as telling the truth",
-        "As producing the best possible consequences",
-        "As following rules that lead to the best community-level outcomes"
+        "Deontology",
+        "Consequentialism",
+        "Virtue ethics",
+        "Utilitarianism"
       ],
       "answer_explanations": [
-        "Correct. The article states that virtue ethics sees the manifestation of virtues, like courage and compassion, as the fundamental principle of morality.",
-        "Incorrect. Adherence to duties such as telling the truth is the deontological view.",
-        "Incorrect. Producing the best possible consequences is the consequentialist view.",
-        "Incorrect. Following rules that lead to the best community-level outcomes describes rule consequentialism."
+        "Correct. The article states that 'Deontologists focus on acts themselves, saying that they must adhere to duties, like telling the truth and keeping promises.'",
+        "Incorrect. Consequentialism focuses on the consequences of actions, not on duties themselves.",
+        "Incorrect. Virtue ethics focuses on the manifestation of virtues, not on duties.",
+        "Incorrect. Utilitarianism is a form of consequentialism and focuses on consequences, not duties."
       ]
     },
     {
       "id": 6,
-      "question": "What is a key difference between act consequentialism and rule consequentialism?",
+      "question": "What does metaethics explore?",
       "options": [
-        "Act consequentialism assesses an act by its own consequences, while rule consequentialism assesses an act by whether it follows rules that produce the best community-level outcomes",
-        "Act consequentialism considers only expected consequences, while rule consequentialism considers only actual consequences",
-        "Act consequentialism evaluates motives and character traits, while rule consequentialism evaluates only acts",
-        "Act consequentialism requires maximizing value, while rule consequentialism only requires satisficing value"
+        "The underlying assumptions and concepts of ethics",
+        "Concrete ethical problems in real-life situations",
+        "The history of ethical principles in ancient societies",
+        "The dominant moral codes in different societies"
       ],
       "answer_explanations": [
-        "Correct. The article explains that act consequentialism determines moral value directly from an act's consequences, whereas rule consequentialism holds that an act is right if it follows rules whose community-wide following leads to the best consequences.",
-        "Incorrect. The distinction between actual and expected consequences is a separate issue from the act-versus-rule distinction.",
-        "Incorrect. Both act and rule consequentialism can evaluate motives, character traits, rules, and policies; the difference lies in how consequences are assessed.",
-        "Incorrect. Maximizing versus satisficing is another separate disagreement within consequentialism, not the defining difference between act and rule versions."
+        "Correct. The article says, 'Metaethics explores the underlying assumptions and concepts of ethics.'",
+        "Incorrect. Examining concrete ethical problems is the task of applied ethics.",
+        "Incorrect. The history of ethics is a separate field, not the focus of metaethics.",
+        "Incorrect. Describing dominant moral codes is the task of descriptive ethics."
       ]
     },
     {
       "id": 7,
-      "question": "What does classical utilitarianism identify as the only source of intrinsic value?",
+      "question": "According to the article, what is the origin of the English word 'ethics'?",
       "options": [
-        "Happiness",
-        "Health",
-        "Friendship",
-        "Knowledge"
+        "The Ancient Greek word 'Ãªthos'",
+        "The Latin word 'moralis'",
+        "The Old French term 'moralitÃ©'",
+        "The Middle English term 'ethique'"
       ],
       "answer_explanations": [
-        "Correct. The article states that classical utilitarianism sees happiness as the only source of intrinsic value.",
-        "Incorrect. The article says health has value but not intrinsic value; it is desirable as a means to happiness.",
-        "Incorrect. The article says friendship has value but not intrinsic value; it is desirable as a means to happiness.",
-        "Incorrect. The article says knowledge has value but not intrinsic value; it is desirable as a means to happiness."
+        "Correct. The article states, 'The English word ethics has its roots in the Ancient Greek word Ãªthos (á¼¦Î¸Î¿Ï), meaning 'character' and 'personal disposition'.'",
+        "Incorrect. The Latin word 'moralis' is the origin of the term 'morality', not 'ethics'.",
+        "Incorrect. The Old French term 'moralitÃ©' is related to 'morality', not 'ethics'.",
+        "Incorrect. The article does not mention a Middle English term 'ethique'."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about the relationship between ethics and morality?",
+      "question": "Which of the following is an example of a moral code that a profession follows, as mentioned in the article?",
       "options": [
-        "The terms are usually used interchangeably, but some philosophers distinguish between them",
-        "Ethics is narrower than morality and focuses only on professional codes",
-        "Morality is broader than ethics and includes ideas about the good life",
-        "Ethics and morality are entirely unrelated concepts"
+        "Medical ethics",
+        "Aristotelian ethics",
+        "Protestant work ethic",
+        "Environmental ethics"
       ],
       "answer_explanations": [
-        "Correct. The article states that the terms ethics and morality are usually used interchangeably but some philosophers distinguish between the two.",
-        "Incorrect. The article says ethics is broader than morality in one view, not narrower.",
-        "Incorrect. The article says ethics is broader and includes ideas about what is good and how to lead a meaningful life, not morality.",
-        "Incorrect. The article explicitly discusses the close connection and interchangeable use of the two terms."
+        "Correct. The article gives 'medical ethics' as an example of a moral code that certain professions follow.",
+        "Incorrect. Aristotelian ethics is given as an example of an individual ethical theory, not a professional code.",
+        "Incorrect. Protestant work ethic is given as an example of a moral code for a social group, not a profession.",
+        "Incorrect. Environmental ethics is an example of a code in a specific area, not necessarily a profession."
       ]
     },
     {
       "id": 9,
-      "question": "What is descriptive ethics concerned with?",
+      "question": "What is the main difference between act consequentialism and rule consequentialism?",
       "options": [
-        "Describing the dominant moral codes and beliefs in different societies",
-        "Finding general principles that govern how people should act",
-        "Determining whether there are objective moral facts",
-        "Evaluating whether acts produce the best consequences"
+        "Act consequentialism judges acts by their own consequences, while rule consequentialism judges acts by whether they follow the best rules",
+        "Act consequentialism only considers the agent's own good, while rule consequentialism considers everyone's good",
+        "Act consequentialism focuses on motives, while rule consequentialism focuses on character traits",
+        "Act consequentialism is a form of deontology, while rule consequentialism is a form of virtue ethics"
       ],
       "answer_explanations": [
-        "Correct. The article states that descriptive ethics describes the dominant moral codes and beliefs in different societies and considers their historical dimension.",
-        "Incorrect. Finding general principles that govern how people should act is the aim of normative ethics.",
-        "Incorrect. Determining whether there are objective moral facts is a question of metaethics.",
-        "Incorrect. Evaluating whether acts produce the best consequences is consequentialism, a normative theory."
+        "Correct. The article explains: 'According to act consequentialism, the consequences of an act determine its moral value... Rule consequentialism, by contrast, holds that an act is right if it follows a certain set of rules.'",
+        "Incorrect. This distinction is not about the agent's own good vs. everyone's good.",
+        "Incorrect. Both forms of consequentialism focus on consequences, not on motives or character traits.",
+        "Incorrect. Both are forms of consequentialism, not deontology or virtue ethics."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what is one difficulty for normative ethical systems with several basic principles?",
+      "question": "According to the article, what is classical utilitarianism's view on pleasure?",
       "options": [
-        "The principles may conflict with each other in some cases and lead to ethical dilemmas",
-        "The principles cannot be justified without appealing to religious teachings",
-        "The principles are too abstract to guide behavior in concrete situations",
-        "The principles must all be derived from a single source of value"
+        "Pleasure is good and the action leading to the most overall pleasure is right",
+        "Pleasure is bad and should be avoided",
+        "Pleasure is only valuable as a means to an end",
+        "Pleasure is not a source of value"
       ],
       "answer_explanations": [
-        "Correct. The article states that one difficulty for systems with several basic principles is that these principles may conflict with each other in some cases and lead to ethical dilemmas.",
-        "Incorrect. The article does not say that multiple principles require religious justification.",
-        "Incorrect. The article does not claim that multiple principles are too abstract to guide behavior.",
-        "Incorrect. The article does not say that all principles must be derived from a single source of value."
+        "Correct. The article states, 'classical utilitarianism says that pleasure is good and that the action leading to the most overall pleasure is right.'",
+        "Incorrect. Classical utilitarianism views pleasure as good, not bad.",
+        "Incorrect. Classical utilitarianism sees pleasure as the only source of intrinsic value, not just as a means.",
+        "Incorrect. Classical utilitarianism sees pleasure as the sole source of value."
       ]
     }
   ]

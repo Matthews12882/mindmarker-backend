@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "If two lightweight balls are both charged by touching them with the same rubbed glass rod, what will happen when they are brought near each other?",
+      "question": "Why did Thales of Miletus's belief that rubbed amber became magnetic represent a conceptual error that later proved insightful?",
       "options": [
-        "They will repel each other",
-        "They will attract each other",
-        "They will have no effect on each other",
-        "They will neutralize each other's charge"
+        "He conflated two distinct phenomena, but his error foreshadowed the eventual unification of electricity and magnetism.",
+        "He correctly identified that friction creates a magnetic field, which was later confirmed by Maxwell.",
+        "He thought amber was a mineral like magnetite, but amber is actually organic, so his classification was wrong.",
+        "He believed that rubbing amber produced an electric charge, which contradicted later findings about static electricity."
       ],
       "answer_explanations": [
-        "Correct. The article states that if a similar ball is charged by the same glass rod, it is found to repel the first, illustrating the axiom that like-charged objects repel.",
-        "Incorrect. The article indicates attraction occurs only when one ball is charged by a glass rod and the other by an amber rod, not when both are charged by the same glass rod.",
-        "Incorrect. The article describes a clear repulsive force between two balls charged by the same glass rod.",
-        "Incorrect. The article does not mention that the balls neutralize each other; instead, they repel due to carrying the same type of charge."
+        "Correct. The article states Thales believed friction rendered amber 'magnetic', which was incorrect, but 'later science would prove a link between magnetism and electricity', so his error anticipated the unification.",
+        "Incorrect. The article says Thales was 'incorrect in believing the attraction was due to a magnetic effect', so friction does not create a magnetic field in that sense.",
+        "Incorrect. The article contrasts amber with magnetite, but the key error was about the nature of the attraction, not amber's classification as organic.",
+        "Incorrect. Thales's observations on static electricity were correct; his error was attributing the attraction to magnetism, not to electric charge."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what did Benjamin Franklin's kite experiment in June 1752 demonstrate?",
+      "question": "What does the progression from the 'cat's-whisker detector' to the transistor imply about the evolution of solid-state electronics?",
       "options": [
-        "That lightning was electrical in nature",
-        "That electricity could be stored in a Leyden jar",
-        "That positive and negative charges both exist",
-        "That electric fish could cure ailments"
+        "It shows a shift from simple contact-based detection to engineered materials that actively control current flow.",
+        "It indicates that early detectors were based on vacuum tubes, which were later replaced by solid-state components.",
+        "It suggests that germanium was abandoned in favor of other materials for all subsequent solid-state devices.",
+        "It proves that the transistor was invented by accident, not through systematic research."
       ],
       "answer_explanations": [
-        "Correct. The article states that sparks jumping from the key to the back of Franklin's hand showed that lightning was indeed electrical in nature.",
-        "Incorrect. While Franklin explained the Leyden jar as a charge-storage device, the kite experiment itself demonstrated the electrical nature of lightning.",
-        "Incorrect. Franklin explained the Leyden jar in terms of positive and negative charges, but the kite experiment specifically showed lightning's electrical nature.",
-        "Incorrect. The use of electric fish to treat ailments is described in the ancient history section, not in connection with Franklin's kite experiment."
+        "Correct. The article describes the cat's-whisker detector as a wire in contact with a crystal, while solid-state components are 'engineered specifically to switch and amplify' current, showing a progression from passive detection to active control.",
+        "Incorrect. The article does not mention vacuum tubes in this context; it contrasts early detectors with later solid-state components.",
+        "Incorrect. The article notes the first transistor was germanium-based, but it does not say germanium was abandoned for all later devices.",
+        "Incorrect. The article credits Bardeen and Brattain with inventing the transistor at Bell Labs, but it does not suggest it was accidental."
       ]
     },
     {
       "id": 3,
-      "question": "What did William Gilbert accomplish in his 1600 work De Magnete?",
+      "question": "Why was Benjamin Franklin's explanation of the Leyden jar considered significant despite his earlier misconceptions about charge?",
       "options": [
-        "He distinguished the lodestone effect from static electricity produced by rubbing amber",
-        "He discovered that lightning was electrical in nature",
-        "He invented the electric motor",
-        "He coined the term 'electric current'"
+        "Because he correctly interpreted it as storing charge in terms of positive and negative charges, advancing the understanding of electricity.",
+        "Because he proved that lightning was electrical, which was more important than any theoretical explanation.",
+        "Because he was the first to invent the Leyden jar, which allowed for the storage of electrical charge.",
+        "Because he demonstrated that the Leyden jar could produce sparks, which was a new phenomenon."
       ],
       "answer_explanations": [
-        "Correct. The article states that in De Magnete, Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber.",
-        "Incorrect. The demonstration that lightning was electrical in nature is attributed to Benjamin Franklin's kite experiment in 1752, not to Gilbert.",
-        "Incorrect. The electric motor was invented by Michael Faraday in 1821, long after Gilbert's work.",
-        "Incorrect. The article does not credit Gilbert with coining the term 'electric current'; he coined the word 'electricus' to refer to the property of attracting small objects after being rubbed."
+        "Correct. The article states Franklin 'explained the apparently paradoxical behaviour of the Leyden jar as a device for storing large amounts of electrical charge in terms of electricity consisting of both positive and negative charges', showing his theoretical contribution.",
+        "Incorrect. The kite experiment proved lightning's nature, but the question is about the Leyden jar explanation, which was a separate achievement.",
+        "Incorrect. The Leyden jar was not invented by Franklin; the article implies it existed before his explanation.",
+        "Incorrect. Sparks from the Leyden jar were known; Franklin's contribution was explaining its charge storage, not the sparks themselves."
       ]
     },
     {
       "id": 4,
-      "question": "What did Luigi Galvani's 1791 discovery demonstrate?",
+      "question": "What does the article's account of electric fish suggest about the relationship between ancient observations and modern scientific understanding?",
       "options": [
-        "That electricity was the medium by which neurons passed signals to the muscles",
-        "That electric eels could deliver powerful shocks",
-        "That a voltaic pile could provide a reliable source of electrical energy",
-        "That magnetism and electricity were unified phenomena"
+        "Ancient observations of electric fish were practical but lacked theoretical explanation, which only came with later scientific developments.",
+        "Ancient physicians fully understood the electrical nature of fish shocks and used them effectively for medical treatment.",
+        "Ancient writers like Pliny the Elder correctly identified the mechanism of electric shocks as electrical in nature.",
+        "Ancient cultures had no knowledge of electric fish until Greek and Roman naturalists documented them."
       ],
       "answer_explanations": [
-        "Correct. The article states that Galvani's discovery of bioelectromagnetics demonstrated that electricity was the medium by which neurons passed signals to the muscles.",
-        "Incorrect. Hugh Williamson reported experiments on electric eel shocks in 1775, but this was not Galvani's 1791 discovery.",
-        "Incorrect. Alessandro Volta's voltaic pile of 1800 provided a reliable source of electrical energy, not Galvani's discovery.",
-        "Incorrect. The recognition of electromagnetism as the unity of electric and magnetic phenomena is attributed to Ãrsted and AmpÃ¨re in 1819â1820."
+        "Correct. The article notes that ancient peoples were aware of shocks from electric fish and even used them for ailments, but 'long before any knowledge of electricity existed', indicating a lack of theoretical understanding.",
+        "Incorrect. The article says patients were directed to touch electric fish 'in the hope that the powerful jolt might cure them', showing a hope rather than understanding.",
+        "Incorrect. Pliny and others attested to the numbing effect, but they did not understand it as electricity; that knowledge came later.",
+        "Incorrect. The article mentions Egyptian texts from 2750 BCE, so knowledge predates the Greeks and Romans."
       ]
     },
     {
       "id": 5,
-      "question": "If a new solid-state device confines current flow entirely within engineered solid elements and compounds designed to switch and amplify current, which concept from the article does this device exemplify?",
+      "question": "Why might the electromagnetic force be considered more influential than gravity in explaining everyday phenomena, according to the article?",
       "options": [
-        "Solid-state electronics",
-        "Electrostatic machines",
-        "The photoelectric effect",
-        "The cat's-whisker detector"
+        "Because it is vastly stronger than gravity at the particle level, as shown by the comparison of forces between two electrons.",
+        "Because it operates only over short distances, making it more relevant to atomic interactions.",
+        "Because it is weaker than gravity but acts over all distances, affecting large-scale structures.",
+        "Because it is the only force that can attract or repel objects, while gravity only attracts."
       ],
       "answer_explanations": [
-        "Correct. The article defines solid-state electronics as components in which current is confined to solid elements and compounds engineered specifically to switch and amplify it.",
-        "Incorrect. Electrostatic machines are described as earlier sources of electrical energy, not as devices where current is confined to engineered solid elements.",
-        "Incorrect. The photoelectric effect involves light energy carried in discrete quantized packets energizing electrons, not solid-state current confinement.",
-        "Incorrect. The cat's-whisker detector is described as the first solid-state device, but the general concept of confining current to engineered solid elements is solid-state electronics."
+        "Correct. The article states the electromagnetic force pushing two electrons apart is 10^42 times the gravitational attraction, indicating its dominance at that scale.",
+        "Incorrect. The article says the electromagnetic force 'operates over all distances', not just short ones.",
+        "Incorrect. The article says it is 'second only in strength to the strong interaction' and much stronger than gravity, not weaker.",
+        "Incorrect. While the article mentions like charges repel and opposite attract, it does not claim it is the only force with attraction/repulsion; also, gravity is always attractive."
       ]
     },
     {
       "id": 6,
-      "question": "Based on the article, what can be concluded about the magnitude of charge any object can carry?",
+      "question": "What does the development of the photoelectric effect's explanation imply about the relationship between light and electricity?",
       "options": [
-        "It must be a multiple of the elementary charge",
-        "It can be any value smaller than the elementary charge",
-        "It is always exactly 1.602176634Ã10â19 coulombs",
-        "It is unrelated to the charge of protons and electrons"
+        "It shows that light can transfer energy to electrons, linking optical and electrical phenomena in a quantized manner.",
+        "It proves that light is a form of electric current, as it moves electrons in a circuit.",
+        "It indicates that electricity is fundamentally a wave phenomenon, similar to light.",
+        "It demonstrates that ultraviolet light is the only type of light that can affect electrical charges."
       ],
       "answer_explanations": [
-        "Correct. The article states that no object can have a charge smaller than the elementary charge, and any amount of charge an object may carry is a multiple of the elementary charge.",
-        "Incorrect. The article explicitly states that no object can have a charge smaller than the elementary charge.",
-        "Incorrect. The article gives the elementary charge as 1.602176634Ã10â19 coulombs but states that any charge is a multiple of this value, not that every object carries exactly this amount.",
-        "Incorrect. The article defines the charge of electrons as negative and protons as positive, establishing that object charge is directly related to these particles."
+        "Correct. The article says Einstein explained the photoelectric effect as light energy being carried in 'discrete quantized packets, energising electrons', linking light and electricity.",
+        "Incorrect. Light is not an electric current; it energises electrons, but the article does not equate light with current.",
+        "Incorrect. The article focuses on the particle nature of light in this context, not wave nature.",
+        "Incorrect. The article mentions ultraviolet light in Hertz's discovery, but Einstein's explanation applies to light generally, and the article does not limit it to UV."
       ]
     },
     {
       "id": 7,
-      "question": "If two objects both carry positive electric charge, what will be the force between them according to the article?",
+      "question": "Why was Maxwell's work considered a definitive link between electricity, magnetism, and light?",
       "options": [
-        "They will repel each other",
-        "They will attract each other",
-        "There will be no force between them",
-        "The force will depend on their mass"
+        "Because his equations unified electric and magnetic phenomena, and his work on physical lines of force connected them to light.",
+        "Because he was the first to discover that lightning is electrical, which linked atmospheric electricity to magnetism.",
+        "Because he invented the electric motor, demonstrating the practical application of electromagnetism.",
+        "Because he proved that light is a mechanical wave, which was the prevailing theory at the time."
       ],
       "answer_explanations": [
-        "Correct. The article states the axiom that like-charged objects repel and opposite-charged objects attract, so two positively charged objects will repel.",
-        "Incorrect. Attraction occurs between opposite-charged objects, not between two objects with the same positive charge.",
-        "Incorrect. The article describes an electrostatic force between charges; like charges produce a repulsive force, not no force.",
-        "Incorrect. The article describes the force in terms of charge and distance via Coulomb's law, not mass."
+        "Correct. The article states that 'Electricity and magnetism (and light) were definitively linked by James Clerk Maxwell', particularly in his 1861-62 paper 'On Physical Lines of Force'.",
+        "Incorrect. Benjamin Franklin, not Maxwell, demonstrated lightning's electrical nature.",
+        "Incorrect. Faraday invented the electric motor, not Maxwell.",
+        "Incorrect. Maxwell's theory treated light as an electromagnetic wave, not a mechanical wave."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following best describes the relationship between electricity and magnetism as presented in the article?",
+      "question": "What does the invention of the voltaic pile imply about the advancement of electrical science in the early 19th century?",
       "options": [
-        "Both are part of the phenomenon of electromagnetism",
-        "Electricity is a subset of magnetism",
-        "Magnetism is a type of static electricity",
-        "They are completely unrelated phenomena"
+        "It provided a steady and reliable current source, enabling more systematic experiments than before.",
+        "It was the first device to demonstrate static electricity, which was a major breakthrough.",
+        "It replaced all previous methods of generating electricity, making them obsolete.",
+        "It was primarily used for medical treatments, such as curing gout and headaches."
       ],
       "answer_explanations": [
-        "Correct. The article states that electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations.",
-        "Incorrect. The article presents electricity and magnetism as related but distinct parts of electromagnetism, not as a subset relationship.",
-        "Incorrect. The article distinguishes static electricity from magnetic effects, noting Thales was incorrect in believing amber's attraction was magnetic.",
-        "Incorrect. The article explicitly states that electricity is related to magnetism as part of electromagnetism."
+        "Correct. The article says the voltaic pile 'provided scientists with a more reliable source of electrical energy than the electrostatic machines previously used', enabling more consistent research.",
+        "Incorrect. Static electricity was known long before; the pile produced a continuous current, not static.",
+        "Incorrect. The article does not say it replaced all methods; it says it was more reliable than previous ones.",
+        "Incorrect. The article mentions electric fish used for ailments, not the voltaic pile."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what role did electricity play in the late 19th century?",
+      "question": "Why is the definition of charge as a multiple of the elementary charge significant for understanding matter?",
       "options": [
-        "It was the driving force behind the Second Industrial Revolution",
-        "It remained an intellectual curiosity with no practical use",
-        "It was used only for treating medical ailments with electric fish",
-        "It was primarily used to power electrostatic machines"
+        "It implies that charge is quantized, meaning any observable charge is an integer multiple of a fundamental unit.",
+        "It shows that protons and electrons have exactly equal but opposite charges, making matter electrically neutral by default.",
+        "It proves that antimatter has no charge, as antiparticles are neutral.",
+        "It indicates that the elementary charge can be divided into smaller units under certain conditions."
       ],
       "answer_explanations": [
-        "Correct. The article states that the rapid expansion in electrical technology in the late 19th century was the driving force behind the Second Industrial Revolution.",
-        "Incorrect. The article describes electricity as having become an essential tool for modern life by the late 19th century, not as merely an intellectual curiosity.",
-        "Incorrect. The use of electric fish for ailments is described in the ancient history section, not as the role of electricity in the late 19th century.",
-        "Incorrect. Electrostatic machines are mentioned as earlier sources of electrical energy, not as the primary late-19th-century application of electricity."
+        "Correct. The article states 'No object can have a charge smaller than the elementary charge, and any amount of charge an object may carry is a multiple of the elementary charge', which is the principle of charge quantization.",
+        "Incorrect. While protons and electrons have equal and opposite charges, the article does not say matter is neutral by default; it just defines the charges.",
+        "Incorrect. The article says each antiparticle bears 'an equal and opposite charge to its corresponding particle', so antimatter can have charge.",
+        "Incorrect. The article explicitly says no object can have a charge smaller than the elementary charge, so it cannot be divided."
       ]
     },
     {
       "id": 10,
-      "question": "If an engineer designs a circuit in which current is carried by positively charged electron deficiencies moving through a crystalline semiconductor, what does the article call these deficiencies?",
+      "question": "What does the rapid expansion of electrical technology in the late 19th century imply about its role in the Second Industrial Revolution?",
       "options": [
-        "Holes",
-        "Protons",
-        "Antiparticles",
-        "Charge carriers"
+        "It was a driving force that transformed both industry and society, indicating electricity's foundational role.",
+        "It was a minor factor compared to other inventions like the steam engine.",
+        "It mainly benefited the scientific community, with little impact on everyday life.",
+        "It was limited to the United States, as European countries lagged behind."
       ],
       "answer_explanations": [
-        "Correct. The article states that current flow can be understood as positively charged electron deficiencies called holes.",
-        "Incorrect. Protons carry positive charge but are not described in the article as electron deficiencies in a semiconductor.",
-        "Incorrect. Antiparticles are mentioned as bearing equal and opposite charge to their corresponding particles, not as electron deficiencies in semiconductors.",
-        "Incorrect. Charge carriers is a general term for entities whose motion constitutes electric current, but the specific term for positively charged electron deficiencies is holes."
+        "Correct. The article says this expansion was 'the driving force behind the Second Industrial Revolution', and electricity's versatility drove transformations in industry and society.",
+        "Incorrect. The article emphasizes electricity's central role, not a minor one.",
+        "Incorrect. The article mentions applications in transport, heating, lighting, communications, and computation, showing broad societal impact.",
+        "Incorrect. The article lists engineers from various countries, including Europe, and does not limit the impact to the US."
       ]
     }
   ]

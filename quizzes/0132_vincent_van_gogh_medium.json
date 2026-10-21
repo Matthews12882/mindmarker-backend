@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following statements about Vincent van Gogh's early life is true?",
+      "question": "What is Vincent van Gogh's nationality?",
       "options": [
-        "He was born into an upper-middle-class family in Zundert, Netherlands.",
-        "He was born in The Hague and grew up in poverty.",
-        "He was the youngest child of a poor farming family.",
-        "He was born in London and moved to the Netherlands as a teenager."
+        "Dutch",
+        "French",
+        "Belgian",
+        "German"
       ],
       "answer_explanations": [
-        "Correct. The article states that Vincent van Gogh was born into an upper-middle-class family in Zundert, Netherlands.",
-        "Incorrect. The article does not mention he was born in The Hague or that his family was poor.",
-        "Incorrect. The article describes his family as upper-middle-class, not poor, and he was the oldest surviving child.",
-        "Incorrect. The article says he was born in Zundert, not London."
+        "Correct. The article states that Van Gogh was a Dutch Post-Impressionist painter.",
+        "Incorrect. The article identifies him as Dutch, not French.",
+        "Incorrect. The article identifies him as Dutch, not Belgian.",
+        "Incorrect. The article identifies him as Dutch, not German."
       ]
     },
     {
       "id": 2,
-      "question": "What was the primary reason Vincent van Gogh began painting seriously?",
+      "question": "How many oil paintings did Van Gogh create in his lifetime?",
       "options": [
-        "He was encouraged by his brother Theo to pursue art.",
-        "He wanted to become a pastor and needed visual aids.",
-        "He was inspired by a trip to Paris and the avant-garde movement.",
-        "He was forced by his parents to change careers."
+        "Around 860",
+        "Around 2,100",
+        "Around 500",
+        "Around 1,000"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that after drifting in ill health and solitude, Theo suggested he take up art in earnest, leading him to start painting in 1881.",
-        "Incorrect. While his religious pursuits preceded painting, the article attributes his turn to art to Theo's suggestion.",
-        "Incorrect. His move to Paris occurred later and influenced his style, but not the initial decision to start painting.",
-        "Incorrect. The article does not indicate his parents forced him; it was his own path after earlier failures."
+        "Correct. The article says he created about 2,100 artworks, including around 860 oil paintings.",
+        "Incorrect. 2,100 is the total number of artworks, not the number of oil paintings.",
+        "Incorrect. This number is not mentioned in the article.",
+        "Incorrect. This number is not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following best describes Vincent van Gogh's relationship with his brother Theo?",
+      "question": "Who supported Van Gogh financially?",
       "options": [
-        "Theo provided financial and emotional support and they corresponded extensively.",
-        "Theo was an art dealer who competed with Vincent for clients.",
-        "Theo discouraged Vincent from pursuing art and cut off financial aid.",
-        "Theo was primarily a painter and rarely interacted with Vincent."
+        "His younger brother Theo",
+        "His father Theodorus",
+        "His uncle Cent",
+        "His sister Wil"
       ],
       "answer_explanations": [
-        "Correct. The article says Theo supported Vincent financially and emotionally, and they kept up a long correspondence by letter.",
-        "Incorrect. Theo was an art dealer but did not compete; he supported Vincent.",
-        "Incorrect. Theo encouraged Vincent and provided support.",
-        "Incorrect. Theo was an art dealer, not a painter, and they had a close relationship."
+        "Correct. The article states that his younger brother Theo supported him financially.",
+        "Incorrect. The article specifically names Theo as the financial supporter, not his father.",
+        "Incorrect. The article does not say his uncle supported him financially.",
+        "Incorrect. The article does not say his sister supported him financially."
       ]
     },
     {
       "id": 4,
-      "question": "During his time in Arles, which series of paintings did Vincent van Gogh create?",
+      "question": "Where did Van Gogh stay in 1888 when his style became fully realised?",
       "options": [
-        "Olive trees, wheat fields, and sunflowers.",
-        "Seashells and coastal scenes.",
-        "Abstract geometric compositions.",
-        "Portraits of local aristocrats."
+        "Arles",
+        "Paris",
+        "Saint-RÃ©my",
+        "Auvers-sur-Oise"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that during his stay in Arles in 1888, he broadened his subject matter to include series of olive trees, wheat fields, and sunflowers.",
-        "Incorrect. The article does not mention seashells or coastal scenes as series from Arles.",
-        "Incorrect. Abstract geometric compositions are not described in the article.",
-        "Incorrect. Portraits of local aristocrats are not mentioned."
+        "Correct. The article says his style became fully realised during his stay in Arles in the south of France in 1888.",
+        "Incorrect. Paris was where he met avant-garde artists, but his style fully developed in Arles.",
+        "Incorrect. Saint-RÃ©my was where he spent time in a psychiatric hospital.",
+        "Incorrect. Auvers-sur-Oise was where he moved after Saint-RÃ©my."
       ]
     },
     {
       "id": 5,
-      "question": "What event led to the end of Vincent van Gogh's friendship with Paul Gauguin?",
+      "question": "What happened after Van Gogh's confrontation with Gauguin?",
       "options": [
-        "A confrontation with a razor, during which he severed part of his own left ear.",
-        "A disagreement over artistic style that ended their collaboration.",
-        "Gauguin's sudden departure to Tahiti.",
-        "Vincent's decision to move to Paris."
+        "He severed part of his own left ear",
+        "He cut off Gauguin's ear",
+        "He moved to Paris",
+        "He stopped painting"
       ],
       "answer_explanations": [
-        "Correct. The article states that his friendship with Gauguin ended after a confrontation with a razor, when he severed part of his own left ear.",
-        "Incorrect. The article specifically cites the ear incident, not a style disagreement.",
-        "Incorrect. Gauguin did not leave for Tahiti during this period.",
-        "Incorrect. Vincent's move to Paris occurred earlier and did not end the friendship."
+        "Correct. The article says that in a rage, he severed part of his own left ear.",
+        "Incorrect. The article says he severed his own ear, not Gauguin's.",
+        "Incorrect. The article does not say he moved to Paris after the confrontation.",
+        "Incorrect. The article does not say he stopped painting."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following best describes the content and style of Vincent van Gogh's early works?",
+      "question": "How did Van Gogh die?",
       "options": [
-        "They were mostly still lifes and depictions of peasant labourers, with few signs of vivid colour.",
-        "They were bright, bold colour paintings characteristic of his later period.",
-        "They were primarily religious frescoes for churches.",
-        "They were abstract expressionist pieces."
+        "He shot himself in the chest with a revolver",
+        "He died of an illness",
+        "He drowned",
+        "He was killed in a fight"
       ],
       "answer_explanations": [
-        "Correct. The article says his early works, mostly still lifes and depictions of peasant labourers, contain few signs of the vivid colour that distinguished his later work.",
-        "Incorrect. Bright, bold colour is characteristic of his later work, not early.",
-        "Incorrect. The article does not mention religious frescoes as his early works.",
-        "Incorrect. Abstract expressionism is not described."
+        "Correct. The article states that on 27 July 1890, Van Gogh shot himself in the chest with a revolver and died two days later.",
+        "Incorrect. The article clearly states he died from a self-inflicted gunshot wound.",
+        "Incorrect. The article does not mention drowning.",
+        "Incorrect. The article does not mention a fight."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following statements about Vincent van Gogh's letters is true?",
+      "question": "What is the most comprehensive primary source on Van Gogh?",
       "options": [
-        "They are considered an important source for understanding his artistic methods and evolving theories of colour.",
-        "They were primarily written to his mother and sister.",
-        "They were destroyed after his death and are now lost.",
-        "They were written only in Dutch and never translated."
+        "His correspondence with his brother Theo",
+        "His diary",
+        "His autobiography",
+        "His medical records"
       ],
       "answer_explanations": [
-        "Correct. The article states that Van Gogh's letters are regarded as an important source for understanding his artistic methods, working practices, and evolving theories of colour and composition.",
-        "Incorrect. The letters were mainly to his brother Theo, not his mother and sister.",
-        "Incorrect. The letters survived and were published after his death.",
-        "Incorrect. The article mentions letters in Dutch, French, and English, and they have been translated."
+        "Correct. The article says the most comprehensive primary source is his correspondence with his younger brother Theo.",
+        "Incorrect. The article does not mention a diary.",
+        "Incorrect. The article does not mention an autobiography.",
+        "Incorrect. The article does not mention medical records."
       ]
     },
     {
       "id": 8,
-      "question": "What was the cause of Vincent van Gogh's death?",
+      "question": "Who arranged for the publication of Van Gogh's letters?",
       "options": [
-        "He died from injuries sustained after shooting himself with a revolver.",
-        "He died of a prolonged illness unrelated to mental health.",
-        "He was killed in a car accident.",
-        "He died of starvation while living in poverty."
+        "Theo's widow Johanna van Gogh-Bonger",
+        "Van Gogh's sister Wil",
+        "The artist Paul Gauguin",
+        "The critic Albert Aurier"
       ],
       "answer_explanations": [
-        "Correct. The article says that on 27 July 1890, Van Gogh shot himself in the chest with a revolver and died from his injuries two days later.",
-        "Incorrect. The article specifically attributes his death to the self-inflicted gunshot.",
-        "Incorrect. No car accident is mentioned.",
-        "Incorrect. He died from the gunshot wound, not starvation."
+        "Correct. The article says Theo's widow Johanna van Gogh-Bonger arranged for the publication of some of their letters.",
+        "Incorrect. The article names Johanna, not Wil.",
+        "Incorrect. The article names Johanna, not Gauguin.",
+        "Incorrect. The article names Johanna, not Aurier."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following best describes Vincent van Gogh's reputation during his lifetime?",
+      "question": "What did Van Gogh do in March 1880 regarding Jules Breton?",
       "options": [
-        "He was unsuccessful and considered a madman and a failure.",
-        "He was a celebrated artist with numerous exhibitions.",
-        "He was primarily known as a writer and poet.",
-        "He was a successful art dealer in Paris."
+        "He walked 80 kilometres to meet Breton but returned without making his presence known",
+        "He wrote a letter to Breton",
+        "He painted Breton's portrait",
+        "He bought one of Breton's paintings"
       ],
       "answer_explanations": [
-        "Correct. The article states that Van Gogh was unsuccessful during his lifetime and was considered a madman and a failure.",
-        "Incorrect. He was not celebrated during his lifetime.",
-        "Incorrect. He is known primarily as a painter, not as a writer or poet.",
-        "Incorrect. He was not an art dealer; his brother Theo was."
+        "Correct. The article says he set out on an 80-kilometre trip on foot to meet Breton, but was intimidated and returned without making his presence known.",
+        "Incorrect. The article does not say he wrote to Breton.",
+        "Incorrect. The article does not say he painted Breton's portrait.",
+        "Incorrect. The article does not say he bought a painting."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following artists did Vincent van Gogh meet in Paris and were part of the avant-garde?",
+      "question": "What was Van Gogh's early life like according to his own words?",
       "options": [
-        "Ãmile Bernard and Paul Gauguin.",
-        "Claude Monet and Pierre-Auguste Renoir.",
-        "Vincent van Gogh did not meet any other artists in Paris.",
-        "Edgar Degas and Mary Cassatt."
+        "Austere and cold, and sterile",
+        "Happy and carefree",
+        "Full of adventure",
+        "Comfortable and warm"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that in Paris he met members of the avant-garde, including Ãmile Bernard and Paul Gauguin.",
-        "Incorrect. Monet and Renoir were Impressionists, not mentioned as avant-garde contacts in the article.",
-        "Incorrect. He did meet other artists in Paris.",
-        "Incorrect. Degas and Cassatt are not mentioned as contacts in the article."
+        "Correct. The article quotes Van Gogh writing that his youth was 'austere and cold, and sterile.'",
+        "Incorrect. The article does not describe his youth as happy.",
+        "Incorrect. The article does not describe his youth as full of adventure.",
+        "Incorrect. The article does not describe his youth as comfortable."
       ]
     }
   ]

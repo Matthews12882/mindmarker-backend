@@ -5,22 +5,70 @@
   "questions": [
     {
       "id": 1,
-      "question": "On what date was Napoleon born?",
+      "question": "What was Napoleon Bonaparte's birth name?",
       "options": [
-        "15 August 1769",
-        "5 May 1821",
-        "18 May 1804",
-        "13 VendÃ©miaire"
+        "Napoleone di Buonaparte",
+        "Napoleon I",
+        "Napoleon Bonaparte",
+        "Napoleone Bonaparte"
       ],
       "answer_explanations": [
-        "Correct. The article states Napoleon was born on 15 August 1769.",
-        "Incorrect. 5 May 1821 is the date of Napoleon's death, not his birth.",
-        "Incorrect. 18 May 1804 is when Napoleon became Emperor of the French.",
-        "Incorrect. 13 VendÃ©miaire refers to 1795, when Napoleon defeated royalist insurgents in Paris."
+        "Correct. The article states he was born 'Napoleone di Buonaparte'.",
+        "Incorrect. Napoleon I was his regnal name, not his birth name.",
+        "Incorrect. Napoleon Bonaparte is his commonly used name, but not his birth name as given in the article.",
+        "Incorrect. The article does not mention this name."
       ]
     },
     {
       "id": 2,
+      "question": "When was Napoleon born?",
+      "options": [
+        "15 August 1769",
+        "5 May 1821",
+        "18 May 1804",
+        "15 August 1779"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he was born on '15 August 1769'.",
+        "Incorrect. 5 May 1821 is the date of his death.",
+        "Incorrect. 18 May 1804 is when he became Emperor.",
+        "Incorrect. The article does not give this date."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What was Napoleon's regnal name?",
+      "options": [
+        "Napoleon I",
+        "Napoleone di Buonaparte",
+        "Napoleon the Great",
+        "Emperor Napoleon"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he was later known by his regnal name 'Napoleon I'.",
+        "Incorrect. That was his birth name, not his regnal name.",
+        "Incorrect. The article does not use this title.",
+        "Incorrect. The article does not use this title."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "When did Napoleon become Emperor of the French?",
+      "options": [
+        "18 May 1804",
+        "15 August 1769",
+        "5 May 1821",
+        "18 May 1814"
+      ],
+      "answer_explanations": [
+        "Correct. The article states he was Emperor 'from 18 May 1804'.",
+        "Incorrect. That is his birth date.",
+        "Incorrect. That is his death date.",
+        "Incorrect. The article does not give this date."
+      ]
+    },
+    {
+      "id": 5,
       "question": "On which island was Napoleon born?",
       "options": [
         "Corsica",
@@ -29,138 +77,90 @@
         "Sardinia"
       ],
       "answer_explanations": [
-        "Correct. The article states Napoleon was born on the island of Corsica.",
-        "Incorrect. Elba is where Napoleon was first exiled after his abdication in 1814.",
-        "Incorrect. Saint Helena is where Napoleon was exiled after Waterloo and where he died.",
-        "Incorrect. Sardinia is mentioned as the target of a failed French expedition in 1793, not Napoleon's birthplace."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "What title did Napoleon hold from 18 May 1804 until his first abdication in 1814?",
-      "options": [
-        "Emperor of the French",
-        "First Consul",
-        "King of Spain",
-        "King of Italy"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Napoleon was Emperor of the French from 18 May 1804 until his first abdication in 1814.",
-        "Incorrect. First Consul was the position Napoleon held after the Coup of 18 Brumaire in 1799.",
-        "Incorrect. King of Spain was the title given to Napoleon's brother Joseph in 1808.",
-        "Incorrect. King of Italy is not mentioned as a title held by Napoleon in the article."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "In what year did Napoleon sell the territory of Louisiana to the United States?",
-      "options": [
-        "1803",
-        "1804",
-        "1805",
-        "1806"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that in 1803 Napoleon sold the territory of Louisiana to the United States.",
-        "Incorrect. 1804 is when Napoleon crowned himself Emperor of the French.",
-        "Incorrect. 1805 is when the War of the Third Coalition began.",
-        "Incorrect. 1806 is when Napoleon defeated Prussia at the Battle of JenaâAuerstedt."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "To which remote island was Napoleon exiled after his defeat at the Battle of Waterloo?",
-      "options": [
-        "Saint Helena",
-        "Elba",
-        "Corsica",
-        "Sardinia"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Napoleon was exiled to the remote island of Saint Helena after Waterloo.",
-        "Incorrect. Elba was where Napoleon was first exiled in 1814, before escaping.",
-        "Incorrect. Corsica is Napoleon's birthplace, not an island of exile.",
-        "Incorrect. Sardinia is mentioned in connection with a failed French expedition, not Napoleon's exile."
+        "Correct. The article says he was 'Born on the island of Corsica'.",
+        "Incorrect. Elba is where he was exiled, not his birthplace.",
+        "Incorrect. Saint Helena is where he died, not his birthplace.",
+        "Incorrect. The article does not mention Sardinia."
       ]
     },
     {
       "id": 6,
-      "question": "What was the name of Napoleon's regnal name?",
+      "question": "In what year was Napoleon commissioned as an officer in the French Royal Army?",
       "options": [
-        "Napoleon I",
-        "Napoleone di Buonaparte",
-        "Napoleon Bonaparte",
-        "Napoleon III"
+        "1785",
+        "1779",
+        "1789",
+        "1793"
       ],
       "answer_explanations": [
-        "Correct. The article states Napoleon was later known by his regnal name Napoleon I.",
-        "Incorrect. Napoleone di Buonaparte was Napoleon's birth name.",
-        "Incorrect. Napoleon Bonaparte is the name by which he is commonly known, not his regnal name.",
-        "Incorrect. Napoleon III is not mentioned in the article as Napoleon's regnal name."
+        "Correct. The article says he 'was commissioned as an officer in the French Royal Army in 1785'.",
+        "Incorrect. 1779 is when he moved to mainland France.",
+        "Incorrect. 1789 is when he supported the French Revolution.",
+        "Incorrect. 1793 is when he won the siege of Toulon."
       ]
     },
     {
       "id": 7,
-      "question": "Which battle resulted in a decisive victory that led to the dissolution of the Holy Roman Empire?",
+      "question": "What event in 1793 helped Napoleon rise rapidly through the ranks?",
       "options": [
-        "Battle of Austerlitz",
-        "Battle of JenaâAuerstedt",
-        "Battle of Friedland",
-        "Battle of Waterloo"
+        "Winning the siege of Toulon",
+        "Defeating royalist insurgents in Paris",
+        "Commanding a campaign against the Austrians",
+        "Leading an invasion of Egypt and Syria"
       ],
       "answer_explanations": [
-        "Correct. The article states Napoleon's decisive victory at the Battle of Austerlitz led to the dissolution of the Holy Roman Empire.",
-        "Incorrect. The Battle of JenaâAuerstedt was a victory over Prussia in 1806.",
-        "Incorrect. The Battle of Friedland was a victory over the Russians in 1807.",
-        "Incorrect. The Battle of Waterloo was Napoleon's final defeat in 1815."
+        "Correct. The article states he 'rose rapidly through the ranks after winning the siege of Toulon in 1793'.",
+        "Incorrect. That event happened in 1795, not 1793.",
+        "Incorrect. That campaign happened in 1796.",
+        "Incorrect. That invasion happened in 1798."
       ]
     },
     {
       "id": 8,
-      "question": "In which year did Napoleon launch an invasion of Russia?",
+      "question": "What did Napoleon do in November 1799?",
       "options": [
-        "1812",
-        "1813",
-        "1814",
-        "1815"
+        "Engineered the Coup of 18 Brumaire",
+        "Won the Battle of Marengo",
+        "Sold Louisiana to the United States",
+        "Crowned himself Emperor"
       ],
       "answer_explanations": [
-        "Correct. The article states that in the summer of 1812 Napoleon launched an invasion of Russia.",
-        "Incorrect. 1813 is when Prussia and Austria joined Russia in the War of the Sixth Coalition.",
-        "Incorrect. 1814 is when Napoleon was forced to abdicate.",
-        "Incorrect. 1815 is when Napoleon was defeated at the Battle of Waterloo."
+        "Correct. The article says 'In November 1799 Napoleon engineered the Coup of 18 Brumaire'.",
+        "Incorrect. The Battle of Marengo was in 1800.",
+        "Incorrect. The Louisiana sale was in 1803.",
+        "Incorrect. He crowned himself Emperor in December 1804."
       ]
     },
     {
       "id": 9,
-      "question": "Which battle marked Napoleon's final defeat in June 1815?",
+      "question": "What did Napoleon become after the Coup of 18 Brumaire?",
       "options": [
-        "Battle of Waterloo",
-        "Battle of Leipzig",
-        "Battle of Borodino",
-        "Battle of Wagram"
+        "First Consul of the Republic",
+        "Emperor of the French",
+        "King of Spain",
+        "General of the French Royal Army"
       ],
       "answer_explanations": [
-        "Correct. The article states the Seventh Coalition defeated Napoleon at the Battle of Waterloo in June 1815.",
-        "Incorrect. The Battle of Leipzig was a decisive defeat in 1813 during the War of the Sixth Coalition.",
-        "Incorrect. The Battle of Borodino was fought during the invasion of Russia in 1812.",
-        "Incorrect. The Battle of Wagram was fought in 1809 during the War of the Fifth Coalition."
+        "Correct. The article says he 'became First Consul of the Republic'.",
+        "Incorrect. He became Emperor later, in 1804.",
+        "Incorrect. His brother Joseph became King of Spain.",
+        "Incorrect. He was already an officer, but this is not what he became after the coup."
       ]
     },
     {
       "id": 10,
-      "question": "What was the cause of Napoleon's death in 1821?",
+      "question": "In what year did Napoleon sell the territory of Louisiana to the United States?",
       "options": [
-        "stomach cancer",
-        "poisoning",
-        "pneumonia",
-        "old age"
+        "1803",
+        "1800",
+        "1804",
+        "1799"
       ],
       "answer_explanations": [
-        "Correct. The article states Napoleon died of stomach cancer in 1821 on Saint Helena.",
-        "Incorrect. Poisoning is not mentioned as the cause of Napoleon's death in the article.",
-        "Incorrect. Pneumonia is not mentioned as the cause of Napoleon's death in the article.",
-        "Incorrect. Napoleon died aged 51, which is not old age, and the article specifies stomach cancer."
+        "Correct. The article says 'in 1803 he sold the territory of Louisiana to the United States'.",
+        "Incorrect. 1800 is when he won the Battle of Marengo.",
+        "Incorrect. 1804 is when he crowned himself Emperor.",
+        "Incorrect. 1799 is when he engineered the Coup of 18 Brumaire."
       ]
     }
   ]

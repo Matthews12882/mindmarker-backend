@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does the article state about Babylonian mathematics regarding proofs?",
+      "question": "What does the history of mathematics deal with?",
       "options": [
-        "Babylonian mathematics shows no explicit statement of the need for proofs or logical principles",
-        "Babylonian mathematics emphasized deductive reasoning in all proofs",
-        "Babylonian mathematicians wrote formal proofs on clay tablets",
-        "Babylonian mathematics required logical principles for every solution"
+        "The origin of discoveries in mathematics and the mathematical methods and notation of the past",
+        "The study of modern mathematical theories only",
+        "The biographies of famous mathematicians",
+        "The application of mathematics in engineering"
       ],
       "answer_explanations": [
-        "Correct. The article states that Babylonian mathematics shows 'no explicit statement of the need for proofs or logical principles.'",
-        "Incorrect. The article attributes the introduction of deductive reasoning and mathematical rigor to Greek mathematics, not Babylonian mathematics.",
-        "Incorrect. The article does not state that Babylonian mathematicians wrote formal proofs on clay tablets.",
-        "Incorrect. The article explicitly says Babylonian mathematics lacked an explicit statement of the need for logical principles."
+        "Correct. The article states that the history of mathematics deals with the origin of discoveries in mathematics and the mathematical methods and notation of the past.",
+        "Incorrect. The history of mathematics is not limited to modern theories; it covers past developments.",
+        "Incorrect. While it may involve mathematicians, the article defines it as dealing with discoveries and methods, not biographies.",
+        "Incorrect. The article does not focus on engineering applications as the main subject."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what did Greek mathematics introduce that greatly refined mathematical methods?",
+      "question": "Which ancient civilizations began using arithmetic, algebra, and geometry for taxation, commerce, and astronomy from 3000 BC?",
       "options": [
-        "Deductive reasoning and mathematical rigor in proofs",
-        "A place-value numeral system",
-        "The use of negative numbers",
-        "Applied mathematics for surveying and engineering"
+        "Mesopotamian states of Sumer, Akkad, and Assyria, followed by Ancient Egypt and Ebla",
+        "Ancient Greece and Rome",
+        "China and India",
+        "The Maya civilization"
       ],
       "answer_explanations": [
-        "Correct. The article states that Greek mathematics greatly refined methods 'especially through the introduction of deductive reasoning and mathematical rigor in proofs.'",
-        "Incorrect. The article credits Chinese mathematics with an early place value system, not Greek mathematics.",
-        "Incorrect. The article states that Chinese mathematics made the first use of negative numbers.",
-        "Incorrect. The article says the ancient Romans used applied mathematics in surveying and engineering, not the Greeks."
+        "Correct. The article says that from 3000 BC the Mesopotamian states of Sumer, Akkad, and Assyria, followed closely by Ancient Egypt and the Levantine state of Ebla, began using these mathematical fields.",
+        "Incorrect. The article does not mention Greece and Rome in this context; they came later.",
+        "Incorrect. China and India are mentioned later in the article, not as early users from 3000 BC.",
+        "Incorrect. The Maya civilization is mentioned later and independently."
       ]
     },
     {
       "id": 3,
-      "question": "Which civilization does the article credit with the first use of negative numbers?",
+      "question": "Which mathematical theorem seems to be the most ancient and widespread development after basic arithmetic and geometry, according to the article?",
       "options": [
-        "Chinese mathematics",
-        "Babylonian mathematics",
-        "Egyptian mathematics",
-        "Greek mathematics"
+        "The Pythagorean theorem",
+        "The binomial theorem",
+        "Fermat's last theorem",
+        "The fundamental theorem of calculus"
       ],
       "answer_explanations": [
-        "Correct. The article states that Chinese mathematics made early contributions, including 'the first use of negative numbers.'",
-        "Incorrect. The article does not attribute the first use of negative numbers to Babylonian mathematics.",
-        "Incorrect. The article does not credit Egyptian mathematics with the first use of negative numbers.",
-        "Incorrect. The article does not attribute the first use of negative numbers to Greek mathematics."
+        "Correct. The article states that the Pythagorean theorem seems to be the most ancient and widespread mathematical development after basic arithmetic and geometry.",
+        "Incorrect. The article does not mention the binomial theorem in this context.",
+        "Incorrect. Fermat's last theorem is not mentioned in the article.",
+        "Incorrect. The fundamental theorem of calculus is not mentioned in the article."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say about the Ishango bone?",
+      "question": "Who coined the term 'mathematics' from the ancient Greek word meaning 'subject of instruction'?",
       "options": [
-        "It may show a tally of prime numbers or a six-month lunar calendar",
-        "It is definitely a record of prime numbers discovered after 500 BC",
-        "It proves Neanderthals used written arithmetic",
-        "It was found in Mesopotamia and dates to 3000 BC"
+        "The Pythagoreans",
+        "The Babylonians",
+        "The Egyptians",
+        "The Romans"
       ],
       "answer_explanations": [
-        "Correct. The article says common interpretations are that the Ishango bone shows either 'a tally of the earliest known demonstration of sequences of prime numbers or a six-month lunar calendar.'",
-        "Incorrect. The article presents the prime number interpretation as one possibility among others, not as a definite fact, and notes Peter Rudman dates prime number understanding to about 500 BC.",
-        "Incorrect. The article mentions Neanderthals used yarn 40,000 years ago, but does not connect the Ishango bone to written arithmetic by Neanderthals.",
-        "Incorrect. The article states the Ishango bone was found near the headwaters of the Nile river, not in Mesopotamia."
+        "Correct. The article says that the Pythagoreans coined the term 'mathematics' from the ancient Greek word mathema, meaning 'subject of instruction'.",
+        "Incorrect. The Babylonians did not coin the term; they had their own mathematical traditions.",
+        "Incorrect. The Egyptians did not coin the term.",
+        "Incorrect. The Romans used applied mathematics but did not coin the term."
       ]
     },
     {
       "id": 5,
-      "question": "What does the article identify as the most ancient and widespread mathematical development after basic arithmetic and geometry?",
+      "question": "Which civilization made early contributions including a place value system and the first use of negative numbers?",
       "options": [
-        "The Pythagorean theorem",
-        "The sexagesimal numeral system",
-        "The concept of zero",
-        "Calculus"
+        "Chinese mathematics",
+        "Greek mathematics",
+        "Babylonian mathematics",
+        "Egyptian mathematics"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'the Pythagorean theorem seems to be the most ancient and widespread mathematical development, after basic arithmetic and geometry.'",
-        "Incorrect. The sexagesimal system is discussed as Babylonian, but not identified as the most ancient and widespread development after arithmetic and geometry.",
-        "Incorrect. The concept of zero is mentioned in connection with Maya numerals, not as the most ancient and widespread development.",
-        "Incorrect. Calculus is mentioned as a 17th-century development, not an ancient one."
+        "Correct. The article states that Chinese mathematics made early contributions, including a place value system and the first use of negative numbers.",
+        "Incorrect. Greek mathematics refined methods but is not credited with these specific contributions in the article.",
+        "Incorrect. Babylonian mathematics had a place-value system but not the first use of negative numbers.",
+        "Incorrect. Egyptian mathematics is not credited with these contributions in the article."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what modern measurements derive from the Babylonian sexagesimal system?",
+      "question": "How was the HinduâArabic numeral system transmitted to the Western world?",
       "options": [
-        "60 seconds in a minute, 60 minutes in an hour, and 360 degrees in a circle",
-        "100 centimeters in a meter and 1000 meters in a kilometer",
-        "12 inches in a foot and 3 feet in a yard",
-        "24 hours in a day and 7 days in a week"
+        "Via Islamic mathematics through the work of KhwÄrizmÄ«",
+        "Through direct trade with India",
+        "By the Romans during their conquests",
+        "Through Chinese scholars"
       ],
       "answer_explanations": [
-        "Correct. The article states that from the sexagesimal system derives 'the modern-day usage of 60 seconds in a minute, 60 minutes in an hour, and 360 (60 Ã 6) degrees in a circle.'",
-        "Incorrect. The article does not connect the sexagesimal system to metric measurements.",
-        "Incorrect. The article does not mention inches, feet, or yards in connection with the sexagesimal system.",
-        "Incorrect. The article does not attribute 24-hour days or 7-day weeks to the Babylonian sexagesimal system."
+        "Correct. The article says that the HinduâArabic numeral system was transmitted to the Western world via Islamic mathematics through the work of KhwÄrizmÄ«.",
+        "Incorrect. The article does not mention direct trade as the transmission route.",
+        "Incorrect. The Romans predate the system's development.",
+        "Incorrect. The article does not mention Chinese scholars in this context."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the Babylonian zero symbol developed by the Seleucid period?",
+      "question": "What did the Maya civilization contribute to mathematics, according to the article?",
       "options": [
-        "It was used as a placeholder for empty intermediate positions but not terminal positions",
-        "It functioned as a true zero in all positions including terminal ones",
-        "It was never developed; Babylonians had no concept of zero",
-        "It was used only in religious texts and not in mathematics"
+        "The concept of zero was given a standard symbol in Maya numerals",
+        "The invention of calculus",
+        "The first use of negative numbers",
+        "The development of the sexagesimal system"
       ],
       "answer_explanations": [
-        "Correct. The article states that by the Seleucid period, Babylonians had developed a zero symbol as a placeholder for empty positions, but 'it was only used for intermediate positions' and 'does not appear in terminal positions.'",
-        "Incorrect. The article explicitly says the zero sign does not appear in terminal positions, so it was not a true zero in all positions.",
-        "Incorrect. The article states the Babylonians did develop a zero symbol as a placeholder.",
-        "Incorrect. The article does not mention religious texts in connection with the Babylonian zero symbol."
+        "Correct. The article states that in the Maya civilization, the concept of zero was given a standard symbol in Maya numerals.",
+        "Incorrect. Calculus was developed much later by Newton and Leibniz.",
+        "Incorrect. Negative numbers were first used by the Chinese, not the Maya.",
+        "Incorrect. The sexagesimal system was used by the Babylonians."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about the Moscow Mathematical Papyrus?",
+      "question": "What happened in Renaissance Italy in the 15th century regarding mathematics?",
       "options": [
-        "It consists of word problems or story problems intended as entertainment",
-        "It is a Babylonian tablet from c. 2000 BC",
-        "It contains the earliest known statement of the Pythagorean theorem",
-        "It gives an approximation of â2 accurate to five decimal places"
+        "New mathematical developments were made at an increasing pace, interacting with new scientific discoveries",
+        "Mathematics stagnated completely",
+        "The first mathematical texts were written",
+        "The Pythagorean theorem was discovered"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moscow papyrus 'consists of what are today called word problems or story problems, which were apparently intended as entertainment.'",
-        "Incorrect. The article identifies the Moscow Mathematical Papyrus as Egyptian, not Babylonian.",
-        "Incorrect. The article attributes the earliest known statement of the Pythagorean theorem to Old Babylonian period tablets, not the Moscow papyrus.",
-        "Incorrect. The article attributes the approximation of â2 to the Babylonian tablet YBC 7289, not the Moscow papyrus."
+        "Correct. The article says that beginning in Renaissance Italy in the 15th century, new mathematical developments, interacting with new scientific discoveries, were made at an increasing pace.",
+        "Incorrect. The article says the opposite: developments increased in pace.",
+        "Incorrect. The earliest mathematical texts are from much earlier, like the Rhind papyrus.",
+        "Incorrect. The Pythagorean theorem was known much earlier."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, through what channel did the HinduâArabic numeral system reach the Western world?",
+      "question": "What is the Ishango bone, and what are common interpretations of it?",
       "options": [
-        "Islamic mathematics through the work of KhwÄrizmÄ«",
-        "Direct translation from Sanskrit to Latin",
-        "Greek mathematics in the 6th century BC",
-        "Maya civilization trade routes"
+        "A bone with marks that may show a tally of prime numbers or a six-month lunar calendar",
+        "A tool used for measuring land",
+        "A weapon from the Stone Age",
+        "A musical instrument"
       ],
       "answer_explanations": [
-        "Correct. The article states the HinduâArabic numeral system 'were transmitted to the Western world via Islamic mathematics through the work of KhwÄrizmÄ«.'",
-        "Incorrect. The article does not mention direct translation from Sanskrit to Latin.",
-        "Incorrect. Greek mathematics in the 6th century BC predates the HinduâArabic numeral system's transmission.",
-        "Incorrect. The article does not connect the HinduâArabic numeral system to Maya civilization trade routes."
+        "Correct. The article describes the Ishango bone as a series of marks carved in three columns, with common interpretations being a tally of the earliest known demonstration of sequences of prime numbers or a six-month lunar calendar.",
+        "Incorrect. The article does not suggest it was a measuring tool.",
+        "Incorrect. The article does not describe it as a weapon.",
+        "Incorrect. The article does not mention it as a musical instrument."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about mathematical discovery from ancient times through the Middle Ages?",
+      "question": "What was a limitation of the Babylonian notational system?",
       "options": [
-        "Periods of discovery were often followed by centuries of stagnation",
-        "Discovery occurred at a constant, uninterrupted pace",
-        "All mathematical progress happened in Renaissance Italy",
-        "Stagnation only occurred after the 17th century"
+        "It lacked an equivalent of the decimal point, so the place value of a symbol often had to be inferred from context",
+        "It could not represent fractions",
+        "It had no zero symbol at all",
+        "It was based on the decimal system"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'From ancient times through the Middle Ages, periods of mathematical discovery were often followed by centuries of stagnation.'",
-        "Incorrect. The article describes an alternating pattern of discovery and stagnation, not a constant pace.",
-        "Incorrect. The article says new developments began in Renaissance Italy at an increasing pace, but does not say all progress happened there.",
-        "Incorrect. The article describes stagnation as occurring from ancient times through the Middle Ages, not only after the 17th century."
+        "Correct. The article states that the Babylonians lacked an equivalent of the decimal point, and so the place value of a symbol often had to be inferred from the context.",
+        "Incorrect. The article says the system could represent fractions as easily as whole numbers.",
+        "Incorrect. By the Seleucid period, they had developed a zero symbol as a placeholder, though not in terminal positions.",
+        "Incorrect. The Babylonian system was sexagesimal (base-60), not decimal."
       ]
     }
   ]

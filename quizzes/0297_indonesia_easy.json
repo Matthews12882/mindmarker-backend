@@ -8,159 +8,159 @@
       "question": "What is the official name of Indonesia?",
       "options": [
         "Republic of Indonesia",
+        "Democratic Republic of Indonesia",
         "United States of Indonesia",
-        "Federal Republic of Indonesia",
-        "Democratic Republic of Indonesia"
+        "People's Republic of Indonesia"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Indonesia, officially the Republic of Indonesia'.",
-        "Incorrect. The article does not use this name.",
-        "Incorrect. The article does not use this name.",
-        "Incorrect. The article does not use this name."
+        "Correct. The article states that Indonesia is officially the 'Republic of Indonesia'.",
+        "Incorrect. The article does not mention 'Democratic Republic of Indonesia'.",
+        "Incorrect. The article does not mention 'United States of Indonesia'.",
+        "Incorrect. The article does not mention 'People's Republic of Indonesia'."
       ]
     },
     {
       "id": 2,
-      "question": "How many islands does Indonesia comprise?",
+      "question": "Between which two oceans is Indonesia located?",
       "options": [
-        "Between 13,000 and 17,000",
-        "Exactly 17,000",
-        "Between 10,000 and 13,000",
-        "Over 20,000"
+        "Indian and Pacific oceans",
+        "Atlantic and Indian oceans",
+        "Pacific and Atlantic oceans",
+        "Arctic and Indian oceans"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Comprising between 13,000 and 17,000 islands'.",
-        "Incorrect. The article gives a range, not an exact number.",
-        "Incorrect. The article gives a range of 13,000 to 17,000.",
-        "Incorrect. The article says 'between 13,000 and 17,000 islands'."
+        "Correct. The article says Indonesia is between the Indian and Pacific oceans.",
+        "Incorrect. The Atlantic Ocean is not mentioned in the article.",
+        "Incorrect. The Atlantic Ocean is not mentioned in the article.",
+        "Incorrect. The Arctic Ocean is not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "What is the national motto of Indonesia?",
+      "question": "How many islands does Indonesia comprise?",
       "options": [
-        "Bhinneka Tunggal Ika",
-        "Unity in Diversity",
-        "Bersatu Kita Teguh",
-        "Pancasila"
+        "Between 13,000 and 17,000",
+        "Between 10,000 and 13,000",
+        "Between 17,000 and 20,000",
+        "Exactly 15,000"
       ],
       "answer_explanations": [
-        "Correct. The article states 'the national motto, Bhinneka Tunggal Ika'.",
-        "Incorrect. This is the English translation, not the motto itself.",
-        "Incorrect. This is not mentioned in the article.",
-        "Incorrect. This is not mentioned as the motto."
+        "Correct. The article states that Indonesia comprises between 13,000 and 17,000 islands.",
+        "Incorrect. The article does not mention that range.",
+        "Incorrect. The article does not mention that range.",
+        "Incorrect. The article does not give an exact number."
       ]
     },
     {
       "id": 4,
-      "question": "Which ocean is NOT mentioned as bordering Indonesia?",
+      "question": "Which of these islands is NOT listed as part of Indonesia?",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean",
-        "Both Indian and Pacific oceans are mentioned"
+        "Honshu",
+        "Sumatra",
+        "Java",
+        "New Guinea"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the Indian and Pacific oceans, not the Atlantic.",
-        "Incorrect. The article says 'between the Indian and Pacific oceans'.",
-        "Incorrect. The article says 'between the Indian and Pacific oceans'.",
-        "Incorrect. The article mentions both."
+        "Correct. Honshu is not mentioned in the article; Sumatra, Java, and New Guinea are listed.",
+        "Incorrect. Sumatra is explicitly mentioned as one of the islands.",
+        "Incorrect. Java is explicitly mentioned as one of the islands.",
+        "Incorrect. New Guinea is explicitly mentioned as part of Indonesia."
       ]
     },
     {
       "id": 5,
-      "question": "What is the capital city of Indonesia?",
+      "question": "What is Indonesia's rank in the world by population?",
       "options": [
-        "Jakarta",
-        "Bandung",
-        "Surabaya",
-        "Medan"
+        "Fourth",
+        "Second",
+        "Third",
+        "Fifth"
       ],
       "answer_explanations": [
-        "Correct. The article states 'the capital Jakarta'.",
-        "Incorrect. This is not the capital according to the article.",
-        "Incorrect. This is not the capital according to the article.",
-        "Incorrect. This is not the capital according to the article."
+        "Correct. The article says Indonesia 'ranks fourth in the world by population'.",
+        "Incorrect. The article does not say second.",
+        "Incorrect. The article does not say third.",
+        "Incorrect. The article does not say fifth."
       ]
     },
     {
       "id": 6,
-      "question": "Which island is the most heavily populated in the world?",
+      "question": "What is the capital city of Indonesia?",
       "options": [
-        "Java",
-        "Sumatra",
-        "Borneo",
-        "Sulawesi"
+        "Jakarta",
+        "Bangkok",
+        "Manila",
+        "Kuala Lumpur"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Java, the most heavily populated island in the world'.",
-        "Incorrect. The article identifies Java as the most heavily populated.",
-        "Incorrect. The article identifies Java as the most heavily populated.",
-        "Incorrect. The article identifies Java as the most heavily populated."
+        "Correct. The article states that the capital is Jakarta.",
+        "Incorrect. Bangkok is not mentioned in the article.",
+        "Incorrect. Manila is not mentioned in the article.",
+        "Incorrect. Kuala Lumpur is not mentioned in the article."
       ]
     },
     {
       "id": 7,
-      "question": "What is the official language of Indonesia?",
+      "question": "What is the national motto of Indonesia?",
       "options": [
-        "Indonesian",
-        "Malay",
-        "Javanese",
-        "Dutch"
+        "Bhinneka Tunggal Ika",
+        "E Pluribus Unum",
+        "Unity in Diversity",
+        "One for All"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Indonesian... is the official and national language'.",
-        "Incorrect. Indonesian is a standardised variety of Malay, but the official language is Indonesian.",
-        "Incorrect. This is not the official language according to the article.",
-        "Incorrect. This is not the official language according to the article."
+        "Correct. The article says the national motto is 'Bhinneka Tunggal Ika'.",
+        "Incorrect. That is not mentioned in the article.",
+        "Incorrect. The article gives the meaning but not as the motto itself.",
+        "Incorrect. That is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "How many provinces does Indonesia consist of?",
+      "question": "What is the official and national language of Indonesia?",
       "options": [
-        "38",
-        "34",
-        "27",
-        "33"
+        "Indonesian",
+        "Malay",
+        "English",
+        "Hindi"
       ],
       "answer_explanations": [
-        "Correct. The article says 'consists of 38 provinces'.",
-        "Incorrect. The article states 38 provinces.",
-        "Incorrect. The article states 38 provinces.",
-        "Incorrect. The article states 38 provinces."
+        "Correct. The article states that Indonesian is the official and national language.",
+        "Incorrect. Malay is mentioned as the base, but not as the official language.",
+        "Incorrect. English is not mentioned in the article.",
+        "Incorrect. Hindi is not mentioned in the article."
       ]
     },
     {
       "id": 9,
-      "question": "What is the meaning of the national motto 'Bhinneka Tunggal Ika'?",
+      "question": "Which organization is Indonesia a member of?",
       "options": [
-        "Unity in diversity",
-        "Strength in unity",
-        "One for all",
-        "Peace and prosperity"
+        "ASEAN",
+        "NATO",
+        "European Union",
+        "African Union"
       ],
       "answer_explanations": [
-        "Correct. The article says 'meaning \"unity in diversity\"'.",
-        "Incorrect. The article gives 'unity in diversity' as the meaning.",
-        "Incorrect. The article gives 'unity in diversity' as the meaning.",
-        "Incorrect. The article gives 'unity in diversity' as the meaning."
+        "Correct. The article lists ASEAN as one of the organizations Indonesia belongs to.",
+        "Incorrect. NATO is not mentioned in the article.",
+        "Incorrect. The European Union is not mentioned in the article.",
+        "Incorrect. The African Union is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "Which international organization is Indonesia NOT a member of according to the article?",
+      "question": "What does the national motto 'Bhinneka Tunggal Ika' mean?",
       "options": [
-        "European Union",
-        "United Nations",
-        "G20",
-        "ASEAN"
+        "Unity in diversity",
+        "Strength in numbers",
+        "Peace and prosperity",
+        "Freedom and justice"
       ],
       "answer_explanations": [
-        "Correct. The article lists UN, G20, Non-Aligned Movement, ASEAN, and OIC, but not the European Union.",
-        "Incorrect. The article states Indonesia is a member of the United Nations.",
-        "Incorrect. The article states Indonesia is a member of the G20.",
-        "Incorrect. The article states Indonesia is a member of ASEAN."
+        "Correct. The article says it means 'unity in diversity'.",
+        "Incorrect. That is not the meaning given in the article.",
+        "Incorrect. That is not the meaning given in the article.",
+        "Incorrect. That is not the meaning given in the article."
       ]
     }
   ]

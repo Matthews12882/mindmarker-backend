@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which country does NOT share a border with Ethiopia?",
+      "question": "What is the official name of Ethiopia?",
       "options": [
-        "Somalia",
-        "Eritrea",
-        "Djibouti",
-        "Uganda"
+        "Federal Democratic Republic of Ethiopia",
+        "Republic of Ethiopia",
+        "Ethiopian Empire",
+        "People's Democratic Republic of Ethiopia"
       ],
       "answer_explanations": [
-        "Correct. The article lists Somalia as a southeastern neighbor.",
-        "Incorrect. Eritrea is listed as a northern neighbor.",
-        "Incorrect. Djibouti is listed as a northeastern neighbor.",
-        "Incorrect. Uganda is not listed among the six bordering countries (Eritrea, Djibouti, Somalia, Kenya, South Sudan, Sudan)."
+        "Correct. The article states: \"Ethiopia, officially the Federal Democratic Republic of Ethiopia (FDRE).\"",
+        "Incorrect. The article does not use this name; it uses 'Federal Democratic Republic of Ethiopia'.",
+        "Incorrect. The Ethiopian Empire was a historical state, not the current official name.",
+        "Incorrect. This is not the official name mentioned in the article."
       ]
     },
     {
       "id": 2,
-      "question": "What is the significance of Addis Ababa's location relative to the East African Rift?",
+      "question": "Which country borders Ethiopia to the north?",
       "options": [
-        "It lies several kilometres west of the rift, which splits the country into two tectonic plates.",
-        "It is located directly on the rift, making it geologically unstable.",
-        "It is east of the rift, placing it entirely on the Somali Plate.",
-        "It is north of the rift, near the border with Eritrea."
+        "Eritrea",
+        "Djibouti",
+        "Somalia",
+        "Kenya"
       ],
       "answer_explanations": [
-        "Correct. The article states that Addis Ababa 'lies several kilometres west of the East African Rift that splits the country into the African and Somali tectonic plates.'",
-        "Incorrect. The article specifies it is west of the rift, not directly on it.",
-        "Incorrect. The article says it is west of the rift, not east.",
-        "Incorrect. The article does not place Addis Ababa north of the rift near Eritrea."
+        "Correct. The article says Ethiopia \"shares borders with Eritrea to the north.\"",
+        "Incorrect. Djibouti is to the northeast, not the north.",
+        "Incorrect. Somalia is to the southeast.",
+        "Incorrect. Kenya is to the south."
       ]
     },
     {
       "id": 3,
-      "question": "Which dynasty ruled Ethiopia immediately before the Solomonic dynasty?",
+      "question": "What is the capital and largest city of Ethiopia?",
       "options": [
-        "Zagwe dynasty",
-        "D'mt",
-        "Kingdom of Aksum",
-        "Gondarine dynasty"
+        "Addis Ababa",
+        "Axum",
+        "Gondar",
+        "Dire Dawa"
       ],
       "answer_explanations": [
-        "Correct. The article states that after the collapse of Aksum, the 'Zagwe dynasty ruled the north-central parts of Ethiopia' until Yekuno Amlak overthrew it in 1270, inaugurating the Solomonic dynasty.",
-        "Incorrect. D'mt was a kingdom that existed in 980 BC, long before the Solomonic dynasty.",
-        "Incorrect. The Kingdom of Aksum collapsed in 960, before the Zagwe dynasty.",
-        "Incorrect. The Gondarine court is mentioned later in the context of the Zemene Mesafint, not as a predecessor to the Solomonic dynasty."
+        "Correct. The article states: \"The national capital and largest city, Addis Ababa.\"",
+        "Incorrect. Axum is an ancient city, not the current capital.",
+        "Incorrect. Gondar is not mentioned as the capital.",
+        "Incorrect. Dire Dawa is not mentioned as the capital."
       ]
     },
     {
       "id": 4,
-      "question": "What event marked the end of the Zemene Mesafint period?",
+      "question": "Which kingdom maintained a unified civilisation in the region for 900 years?",
       "options": [
-        "The reign of Emperor Tewodros II beginning in 1855",
-        "The Battle of Ansata in 1270",
-        "The EthiopianâAdal War (1529â1543)",
-        "The dissolution of the Derg in 1991"
+        "Kingdom of Aksum",
+        "Kingdom of D'mt",
+        "Zagwe dynasty",
+        "Ethiopian Empire"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Emperor Tewodros II ended the Zemene Mesafint at the beginning of his reign in 1855, marking the reunification and modernisation of Ethiopia.'",
-        "Incorrect. The Battle of Ansata was in 1270 and inaugurated the Solomonic dynasty, not the end of Zemene Mesafint.",
-        "Incorrect. The EthiopianâAdal War weakened the empire and opened the way for Oromo expansion, which contributed to the Zemene Mesafint, but did not end it.",
-        "Incorrect. The dissolution of the Derg occurred in 1991, long after the Zemene Mesafint."
+        "Correct. The article says \"the Kingdom of Aksum maintained a unified civilisation in the region for 900 years.\"",
+        "Incorrect. D'mt extended its realm but is not described as maintaining a 900-year unified civilisation.",
+        "Incorrect. The Zagwe dynasty ruled after Aksum's collapse.",
+        "Incorrect. The Ethiopian Empire was inaugurated later by Yekuno Amlak."
       ]
     },
     {
       "id": 5,
-      "question": "During which conflict did Ethiopia lose its sovereignty to Italy?",
+      "question": "In which year did Ethiopia defeat an Italian invasion at the Battle of Adwa?",
       "options": [
-        "Second Italo-Ethiopian War",
-        "Battle of Adwa",
-        "EthiopianâAdal War",
-        "World War II"
+        "1896",
+        "1936",
+        "1941",
+        "1944"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Ethiopia lost its sovereignty in 1936, when Italy under Benito Mussolini invaded during the Second Italo-Ethiopian War.'",
-        "Incorrect. The Battle of Adwa in 1896 was a victory for Ethiopia against Italy, not a loss of sovereignty.",
-        "Incorrect. The EthiopianâAdal War was in the 16th century and did not involve Italy.",
-        "Incorrect. World War II is when Ethiopia was liberated, not when it lost sovereignty."
+        "Correct. The article mentions \"defeating an Italian invasion at the Battle of Adwa in 1896.\"",
+        "Incorrect. In 1936, Italy invaded and Ethiopia lost its sovereignty.",
+        "Incorrect. In 1941, Ethiopia was liberated by the British Army.",
+        "Incorrect. In 1944, Ethiopia's full sovereignty was restored."
       ]
     },
     {
       "id": 6,
-      "question": "What political system was established in Ethiopia after the fall of the Derg in 1991?",
+      "question": "What happened to Ethiopia in 1936?",
       "options": [
-        "Ethnic-based federalism under the EPRDF",
-        "A Soviet-backed military junta",
-        "A return to the Solomonic dynasty",
-        "Italian colonial rule"
+        "It lost its sovereignty to Italy",
+        "It gained independence from Italy",
+        "It was liberated by the British Army",
+        "It became a member of BRICS"
       ],
       "answer_explanations": [
-        "Correct. The article notes that after the dissolution of the Derg, 'the Ethiopian People's Revolutionary Democratic Front (EPRDF) dominated the country with a new constitution and ethnic-based federalism.'",
-        "Incorrect. The Derg was the Soviet-backed military junta that fell in 1991.",
-        "Incorrect. The Solomonic dynasty was deposed in 1974 and not restored.",
-        "Incorrect. Italian colonial rule ended in 1941."
+        "Correct. The article states: \"Ethiopia lost its sovereignty in 1936, when Italy under Benito Mussolini invaded.\"",
+        "Incorrect. Ethiopia lost sovereignty, not gained it, in 1936.",
+        "Incorrect. Liberation by the British Army occurred in 1941.",
+        "Incorrect. Ethiopia became a full member of BRICS in 2024."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following best describes Ethiopia's economic status according to the article?",
+      "question": "Which political group dominated Ethiopia after the dissolution of the Derg in 1991?",
       "options": [
-        "A least developed country with fast economic growth, but still among the poorest in Africa in per capita income",
-        "A wealthy nation with the highest GDP in sub-Saharan Africa",
-        "A country with a declining economy due to lack of foreign investment",
-        "A middle-income country with a literacy rate above 90%"
+        "Ethiopian People's Revolutionary Democratic Front (EPRDF)",
+        "The Solomonic dynasty",
+        "The Derg",
+        "The Italian colonial government"
       ],
       "answer_explanations": [
-        "Correct. The article states Ethiopia is 'one of the least developed countries' but has 'the fastest economic growth in sub-Saharan African countries,' while 'in terms of per capita income and the Human Development Index the country remains among the poorest in Africa.'",
-        "Incorrect. The article does not claim Ethiopia has the highest GDP in sub-Saharan Africa.",
-        "Incorrect. The article mentions 'foreign direct investment' driving growth, not a lack of it.",
-        "Incorrect. The article states the literacy rate is 60%, not above 90%."
+        "Correct. The article says \"the Ethiopian People's Revolutionary Democratic Front (EPRDF) dominated the country\" after the Derg's dissolution in 1991.",
+        "Incorrect. The Solomonic dynasty was deposed in 1974.",
+        "Incorrect. The Derg was dissolved in 1991.",
+        "Incorrect. Italy had lost control long before 1991."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what is the origin of the name 'Ethiopia' in Ethiopian tradition?",
+      "question": "What is the largest religious denomination in Ethiopia?",
       "options": [
-        "It comes from the name of the first King of Ethiopia, Ethiop or Ethiopis.",
-        "It is derived from the Greek words for 'burnt-face'.",
-        "It comes from the Hebrew term 'Kush'.",
-        "It is a Latinised form of the ancient 'Habash'."
+        "Ethiopian Orthodox Tewahedo Church",
+        "Islam",
+        "Traditional faiths",
+        "Roman Catholicism"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Tradition holds that the name Ethiopia comes from the name of the first King of Ethiopia, Ethiop, or Ethiopis.'",
-        "Incorrect. This is the Greek etymology, not the Ethiopian tradition.",
-        "Incorrect. The Hebrew texts identify Nubia as Kush, not Ethiopia.",
-        "Incorrect. 'Abyssinia' is the Latinised form of 'Habash', not the origin of 'Ethiopia'."
+        "Correct. The article states \"the largest denomination being the Ethiopian Orthodox Tewahedo Church.\"",
+        "Incorrect. Islam is the second most widely professed faith.",
+        "Incorrect. Traditional faiths are followed by a small percentage.",
+        "Incorrect. Roman Catholicism is not mentioned as the largest denomination."
       ]
     },
     {
       "id": 9,
-      "question": "Which hominid fossil, found in Ethiopia, is known locally as 'Dinkinesh'?",
+      "question": "Which international organisation's headquarters does Ethiopia host?",
       "options": [
-        "Australopithecus afarensis (Lucy)",
-        "Ardipithecus ramidus (Ardi)",
-        "Homo sapiens idaltu (Herto Man)",
-        "Omo remains"
+        "African Union Commission",
+        "United Nations",
+        "BRICS",
+        "World Bank"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Australopithecus afarensis (Lucy)' is 'Known locally as Dinkinesh'.",
-        "Incorrect. Ardi is the 4.2 million-year-old Ardipithecus ramidus, not Dinkinesh.",
-        "Incorrect. Herto Man is Homo sapiens idaltu, not Dinkinesh.",
-        "Incorrect. The Omo remains are older Homo sapiens fossils, not Dinkinesh."
+        "Correct. The article says Ethiopia \"hosts the headquarters of the African Union Commission.\"",
+        "Incorrect. Ethiopia is a founding member of the UN but does not host its headquarters.",
+        "Incorrect. Ethiopia became a member of BRICS in 2024, but it does not host its headquarters.",
+        "Incorrect. The World Bank is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "What evidence of early human activity was discovered at the Fincha Habera site in the Bale Mountains?",
+      "question": "According to the article, what is Ethiopia's largest economic sector?",
       "options": [
-        "The earliest permanent human occupation at high altitude, dated to 30,000 years ago",
-        "The oldest stone-tipped projectile weapons, dated to 279,000 years ago",
-        "The oldest anatomically modern human skeleton, dated to 200,000 years ago",
-        "The first evidence of Afroasiatic-speaking populations"
+        "Agriculture",
+        "Manufacturing",
+        "Foreign direct investment",
+        "Mining"
       ],
       "answer_explanations": [
-        "Correct. The article says archaeologists discovered a '30,000-year-old Middle Stone Age rock shelter' at Fincha Habera, which 'is proof of the earliest permanent human occupation at high altitude yet discovered.'",
-        "Incorrect. The stone-tipped projectile weapons were found at Gademotta, not Fincha Habera.",
-        "Incorrect. The oldest anatomically modern human skeleton is the Omo remains, found in the Omo Kibish area, not Fincha Habera.",
-        "Incorrect. The article discusses Afroasiatic-speaking populations in the context of the Neolithic era, not the Fincha Habera site."
+        "Correct. The article states \"agriculture is the country's largest economic sector, accounting for over 37% of the GDP as of 2022.\"",
+        "Incorrect. Manufacturing is mentioned as an area of expansion, but it is not the largest sector.",
+        "Incorrect. Foreign direct investment is a factor in growth, not an economic sector.",
+        "Incorrect. Mining is not mentioned in the article."
       ]
     }
   ]

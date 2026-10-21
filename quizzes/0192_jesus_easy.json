@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Jesus described as in the article?",
+      "question": "According to the article, in which Roman province was Jesus active during the 1st century?",
       "options": [
-        "a Jewish preacher and religious leader",
-        "a Roman emperor",
-        "a Greek philosopher",
-        "an Egyptian priest"
+        "Judaea",
+        "Galilee",
+        "Samaria",
+        "Syria"
       ],
       "answer_explanations": [
-        "Correct. The article states that Jesus was a Jewish preacher and religious leader active in the Roman province of Judaea.",
-        "Incorrect. The article does not describe Jesus as a Roman emperor.",
-        "Incorrect. The article does not describe Jesus as a Greek philosopher.",
-        "Incorrect. The article does not describe Jesus as an Egyptian priest."
+        "Correct. The article states Jesus was active in the 'Roman province of Judaea'.",
+        "Incorrect. The article mentions Judaea, not Galilee, as the Roman province where Jesus was active.",
+        "Incorrect. The article mentions Judaea, not Samaria, as the Roman province where Jesus was active.",
+        "Incorrect. The article mentions Judaea, not Syria, as the Roman province where Jesus was active."
       ]
     },
     {
       "id": 2,
-      "question": "What religion considers Jesus its central figure?",
+      "question": "What is Jesus described as being the central figure of?",
       "options": [
         "Christianity",
-        "Islam",
         "Judaism",
-        "Hinduism"
+        "Islam",
+        "Rastafari"
       ],
       "answer_explanations": [
-        "Correct. The article states that Jesus is the central figure of Christianity.",
-        "Incorrect. While Islam reveres Jesus as a prophet, the article identifies Christianity as the religion for which he is the central figure.",
-        "Incorrect. The article states that mainstream Judaism rejects the belief that Jesus was the awaited messiah.",
-        "Incorrect. The article does not mention Hinduism in relation to Jesus."
+        "Correct. The article says Jesus is the 'central figure of Christianity'.",
+        "Incorrect. The article identifies Jesus as the central figure of Christianity, not Judaism.",
+        "Incorrect. The article identifies Jesus as the central figure of Christianity, not Islam.",
+        "Incorrect. The article identifies Jesus as the central figure of Christianity, not Rastafari."
       ]
     },
     {
       "id": 3,
-      "question": "Where was Jesus active according to the article?",
+      "question": "According to the article, what do most branches of Christianity consider Jesus to be?",
       "options": [
-        "the Roman province of Judaea",
-        "ancient Greece",
-        "Egypt",
-        "Persia"
+        "The incarnation of God the Son",
+        "A prophet sent to the Israelites",
+        "A teacher of Jewish law only",
+        "The founder of Judaism"
       ],
       "answer_explanations": [
-        "Correct. The article states that Jesus was active in the Roman province of Judaea during the 1st century.",
-        "Incorrect. The article does not state that Jesus was active in ancient Greece.",
-        "Incorrect. The article does not state that Jesus was active in Egypt.",
-        "Incorrect. The article does not state that Jesus was active in Persia."
+        "Correct. The article states most branches of Christianity consider Jesus the 'incarnation of God the Son'.",
+        "Incorrect. The article says most branches of Christianity consider Jesus the incarnation of God the Son, not a prophet sent to the Israelites.",
+        "Incorrect. The article says most branches of Christianity consider Jesus the incarnation of God the Son, not just a teacher of Jewish law.",
+        "Incorrect. The article says most branches of Christianity consider Jesus the incarnation of God the Son, not the founder of Judaism."
       ]
     },
     {
       "id": 4,
-      "question": "What do most branches of Christianity consider Jesus to be?",
+      "question": "Where are accounts of Jesus's life contained, according to the article?",
       "options": [
-        "the incarnation of God the Son and the awaited Messiah",
-        "a purely human teacher",
-        "a mythical figure",
-        "an angel"
+        "In the Gospels",
+        "In the Talmud",
+        "In the Quran",
+        "In the Vedas"
       ],
       "answer_explanations": [
-        "Correct. The article states that most branches of Christianity consider Jesus the incarnation of God the Son and the awaited Messiah or Christ.",
-        "Incorrect. The article states that most branches of Christianity consider Jesus divine, not purely human.",
-        "Incorrect. The article notes that virtually all modern scholars agree Jesus existed historically.",
-        "Incorrect. The article does not describe Jesus as an angel."
+        "Correct. The article states that 'Accounts of Jesus's life are contained in the Gospels'.",
+        "Incorrect. The article mentions the Gospels, not the Talmud, as containing accounts of Jesus's life.",
+        "Incorrect. The article mentions the Gospels, not the Quran, as containing accounts of Jesus's life.",
+        "Incorrect. The article mentions the Gospels, not the Vedas, as containing accounts of Jesus's life."
       ]
     },
     {
       "id": 5,
-      "question": "What do accounts of Jesus's life appear in, according to the article?",
+      "question": "According to the article, what do virtually all modern scholars of antiquity agree on?",
       "options": [
-        "the Gospels",
-        "the Quran",
-        "the Torah",
-        "the Vedas"
+        "That Jesus existed historically",
+        "That Jesus was divine",
+        "That Jesus wrote the Gospels",
+        "That Jesus was born in Jerusalem"
       ],
       "answer_explanations": [
-        "Correct. The article states that accounts of Jesus's life are contained in the Gospels, especially the four canonical Gospels of the New Testament.",
-        "Incorrect. The article does not state that accounts of Jesus's life appear in the Quran.",
-        "Incorrect. The article does not state that accounts of Jesus's life appear in the Torah.",
-        "Incorrect. The article does not state that accounts of Jesus's life appear in the Vedas."
+        "Correct. The article says 'virtually all modern scholars of antiquity agree that Jesus existed historically'.",
+        "Incorrect. The article says scholars agree Jesus existed historically, not that he was divine.",
+        "Incorrect. The article says scholars agree Jesus existed historically, not that he wrote the Gospels.",
+        "Incorrect. The article says scholars agree Jesus existed historically, not that he was born in Jerusalem."
       ]
     },
     {
       "id": 6,
-      "question": "Who baptized Jesus as a young adult?",
+      "question": "According to Christian tradition as described in the article, who baptized Jesus?",
       "options": [
         "John the Baptist",
         "Pontius Pilate",
-        "Peter",
-        "Paul"
+        "The Sanhedrin",
+        "The Pharisees"
       ],
       "answer_explanations": [
-        "Correct. The article states that Jesus was baptized by John the Baptist as a young adult.",
-        "Incorrect. Pontius Pilate is described in the article as the Roman prefect who ordered Jesus's crucifixion, not as the one who baptized him.",
-        "Incorrect. The article does not state that Peter baptized Jesus.",
-        "Incorrect. The article does not state that Paul baptized Jesus."
+        "Correct. The article states Jesus 'was baptized by John the Baptist'.",
+        "Incorrect. The article says John the Baptist baptized Jesus, not Pontius Pilate.",
+        "Incorrect. The article says John the Baptist baptized Jesus, not the Sanhedrin.",
+        "Incorrect. The article says John the Baptist baptized Jesus, not the Pharisees."
       ]
     },
     {
       "id": 7,
-      "question": "How many apostles did Jesus appoint?",
+      "question": "How many apostles did Jesus appoint, according to the article?",
       "options": [
         "12",
-        "7",
-        "3",
-        "40"
+        "10",
+        "40",
+        "70"
       ],
       "answer_explanations": [
-        "Correct. The article states that Jesus gathered followers, 12 of whom he appointed as his apostles.",
-        "Incorrect. The article states the number was 12, not 7.",
-        "Incorrect. The article states the number was 12, not 3.",
-        "Incorrect. The article states the number was 12, not 40."
+        "Correct. The article mentions Jesus 'gathered followers, 12 of whom he appointed as his apostles'.",
+        "Incorrect. The article specifies 12 apostles, not 10.",
+        "Incorrect. The article specifies 12 apostles, not 40.",
+        "Incorrect. The article specifies 12 apostles, not 70."
       ]
     },
     {
       "id": 8,
-      "question": "Who ordered the crucifixion of Jesus?",
+      "question": "According to the New Testament accounts, on whose order was Jesus crucified?",
       "options": [
         "Pontius Pilate",
         "John the Baptist",
-        "the Pharisees",
-        "the Sadducees"
+        "The Sanhedrin",
+        "Herod"
       ],
       "answer_explanations": [
-        "Correct. The article states that Jesus was crucified on the order of Pontius Pilate, the Roman prefect of Judaea.",
-        "Incorrect. John the Baptist baptized Jesus; he did not order the crucifixion.",
-        "Incorrect. The article mentions the Pharisees as a group Jesus debated with, not as the ones who ordered the crucifixion.",
-        "Incorrect. The article mentions the Sadducees as a group Jesus debated with, not as the ones who ordered the crucifixion."
+        "Correct. The article states Jesus was 'crucified on the order of Pontius Pilate'.",
+        "Incorrect. The article says Pontius Pilate ordered the crucifixion, not John the Baptist.",
+        "Incorrect. The article says Pontius Pilate ordered the crucifixion, not the Sanhedrin.",
+        "Incorrect. The article says Pontius Pilate ordered the crucifixion, not Herod."
       ]
     },
     {
       "id": 9,
-      "question": "What is Christmas a celebration of?",
+      "question": "According to the article, what is celebrated annually on 25 December?",
       "options": [
-        "the birth of Jesus",
-        "the crucifixion of Jesus",
-        "the resurrection of Jesus",
-        "the baptism of Jesus"
+        "The birth of Jesus",
+        "The crucifixion of Jesus",
+        "The resurrection of Jesus",
+        "The ascension of Jesus"
       ],
       "answer_explanations": [
-        "Correct. The article states that the birth of Jesus in Bethlehem is celebrated annually as Christmas.",
-        "Incorrect. The article states that the crucifixion is commemorated on Good Friday, not Christmas.",
-        "Incorrect. The article states that the resurrection is commemorated on Easter Sunday, not Christmas.",
-        "Incorrect. The article does not state that Christmas celebrates the baptism of Jesus."
+        "Correct. The article says 'The birth of Jesus... is celebrated annually, generally on 25 December, as Christmas'.",
+        "Incorrect. The article says the birth of Jesus is celebrated on 25 December, not his crucifixion.",
+        "Incorrect. The article says the birth of Jesus is celebrated on 25 December, not his resurrection.",
+        "Incorrect. The article says the birth of Jesus is celebrated on 25 December, not his ascension."
       ]
     },
     {
       "id": 10,
-      "question": "What does mainstream Judaism reject regarding Jesus?",
+      "question": "According to the article, what is the world's most widely used calendar era traditionally based on?",
       "options": [
-        "the belief that Jesus was the awaited messiah",
-        "the belief that Jesus was a prophet",
-        "the belief that Jesus was born in Bethlehem",
-        "the belief that Jesus was baptized by John the Baptist"
+        "The approximate date of the birth of Jesus",
+        "The date of the crucifixion of Jesus",
+        "The date of the resurrection of Jesus",
+        "The date of the founding of the Christian Church"
       ],
       "answer_explanations": [
-        "Correct. The article states that mainstream Judaism rejects the belief that Jesus was the awaited messiah.",
-        "Incorrect. The article does not state that mainstream Judaism rejects the belief that Jesus was a prophet.",
-        "Incorrect. The article does not state that mainstream Judaism rejects the belief that Jesus was born in Bethlehem.",
-        "Incorrect. The article does not state that mainstream Judaism rejects the belief that Jesus was baptized by John the Baptist."
+        "Correct. The article states the calendar era 'is traditionally based on the approximate date of the birth of Jesus'.",
+        "Incorrect. The article says the calendar era is based on the approximate date of Jesus's birth, not his crucifixion.",
+        "Incorrect. The article says the calendar era is based on the approximate date of Jesus's birth, not his resurrection.",
+        "Incorrect. The article says the calendar era is based on the approximate date of Jesus's birth, not the founding of the Church."
       ]
     }
   ]

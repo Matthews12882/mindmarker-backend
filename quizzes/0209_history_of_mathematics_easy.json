@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which ancient civilization is credited with developing the sexagesimal (base-60) numeral system?",
+      "question": "What does the history of mathematics deal with?",
       "options": [
-        "Babylonians",
-        "Egyptians",
-        "Greeks",
-        "Romans"
+        "The origin of discoveries in mathematics and the mathematical methods and notation of the past",
+        "The future of mathematical discoveries",
+        "The biography of famous mathematicians only",
+        "The application of mathematics in modern technology"
       ],
       "answer_explanations": [
-        "Correct. The article states that Babylonian mathematics used a sexagesimal (base-60) numeral system.",
-        "Incorrect. The article mentions that the Egyptians used a different counting system, not a base-60 system.",
-        "Incorrect. Greek mathematics is noted for its deductive reasoning, not for the sexagesimal system.",
-        "Incorrect. Roman mathematics is described as applied mathematics for engineering and bookkeeping, not a base-60 system."
+        "Correct. The article states: 'The history of mathematics deals with the origin of discoveries in mathematics and the mathematical methods and notation of the past.'",
+        "Incorrect. The article does not mention the future of mathematical discoveries.",
+        "Incorrect. The article does not say the history of mathematics is only about biographies of mathematicians.",
+        "Incorrect. The article does not focus on modern technology applications."
       ]
     },
     {
       "id": 2,
-      "question": "What is the name of the Babylonian clay tablet that provides an approximation of â2 to five decimal places?",
+      "question": "From which year BC did the Mesopotamian states begin using arithmetic, algebra, and geometry?",
       "options": [
-        "YBC 7289",
-        "Plimpton 322",
-        "Rhind Mathematical Papyrus",
-        "Moscow Mathematical Papyrus"
+        "3000 BC",
+        "2000 BC",
+        "1000 BC",
+        "500 BC"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the Babylonian tablet YBC 7289 as giving an approximation of â2 accurate to five decimal places.",
-        "Incorrect. Plimpton 322 is a Babylonian tablet containing Pythagorean triples, not the â2 approximation.",
-        "Incorrect. The Rhind Mathematical Papyrus is an Egyptian text, not a Babylonian tablet.",
-        "Incorrect. The Moscow Mathematical Papyrus is an Egyptian text, not a Babylonian tablet."
+        "Correct. The article states: 'From 3000 BC the Mesopotamian states of Sumer, Akkad and Assyria... began using arithmetic, algebra and geometry.'",
+        "Incorrect. 2000 BC is not mentioned as the starting point.",
+        "Incorrect. 1000 BC is not mentioned as the starting point.",
+        "Incorrect. 500 BC is not mentioned as the starting point."
       ]
     },
     {
       "id": 3,
-      "question": "Which early mathematical text is associated with the Egyptian mathematician Ahmes?",
+      "question": "Which ancient civilizations are mentioned as using mathematics for taxation, commerce, trade, and astronomy?",
       "options": [
-        "Rhind papyrus",
-        "Moscow papyrus",
-        "Plimpton 322",
-        "Ishango bone"
+        "Mesopotamian states, Ancient Egypt, and Ebla",
+        "Ancient Rome and Greece",
+        "China and India",
+        "Maya and Mexico"
       ],
       "answer_explanations": [
-        "Correct. The article identifies the Rhind papyrus as sometimes called the Ahmes Papyrus after its author.",
-        "Incorrect. The Moscow papyrus is a separate Egyptian text, not associated with Ahmes.",
-        "Incorrect. Plimpton 322 is a Babylonian tablet, not an Egyptian text.",
-        "Incorrect. The Ishango bone is a prehistoric African artifact, not an Egyptian papyrus."
+        "Correct. The article mentions Mesopotamian states, Ancient Egypt, and the Levantine state of Ebla using arithmetic, algebra, and geometry for taxation, commerce, trade, and astronomy.",
+        "Incorrect. Ancient Rome and Greece are mentioned later, but not in the context of using mathematics for taxation, commerce, trade, and astronomy in that sentence.",
+        "Incorrect. China and India are mentioned later in the article, not in that context.",
+        "Incorrect. The Maya civilization is mentioned later, not in that context."
       ]
     },
     {
       "id": 4,
-      "question": "What concept did the Maya civilization give a standard symbol for in their numerals?",
+      "question": "Which of the following is listed as one of the earliest mathematical texts?",
       "options": [
-        "Zero",
-        "Infinity",
-        "Negative numbers",
-        "Fractions"
+        "Plimpton 322",
+        "The Elements",
+        "The Almagest",
+        "The Liber Abaci"
       ],
       "answer_explanations": [
-        "Correct. The article notes that the Maya civilization gave a standard symbol for zero in Maya numerals.",
-        "Incorrect. The article does not mention the Maya having a symbol for infinity.",
-        "Incorrect. Negative numbers are attributed to Chinese mathematics, not the Maya.",
-        "Incorrect. The article does not discuss Maya symbols for fractions."
+        "Correct. The article states: 'The earliest mathematical texts available are from Mesopotamia and Egypt â Plimpton 322...'",
+        "Incorrect. The Elements is not mentioned in the article.",
+        "Incorrect. The Almagest is not mentioned in the article.",
+        "Incorrect. The Liber Abaci is not mentioned in the article."
       ]
     },
     {
       "id": 5,
-      "question": "Which ancient civilization is credited with the earliest known statement of the Pythagorean theorem?",
+      "question": "What do the earliest mathematical texts from Mesopotamia and Egypt mention?",
       "options": [
-        "Babylonians",
-        "Egyptians",
-        "Greeks",
-        "Romans"
+        "Pythagorean triples",
+        "The concept of zero",
+        "Negative numbers",
+        "Calculus"
       ],
       "answer_explanations": [
-        "Correct. The article states that tablets from the Old Babylonian period contain the earliest known statement of the Pythagorean theorem.",
-        "Incorrect. The article does not attribute the earliest statement of the theorem to the Egyptians.",
-        "Incorrect. While the Greeks later formalized the theorem, the earliest statement is credited to the Babylonians.",
-        "Incorrect. Roman mathematics is described as applied, not as containing the earliest statement of the theorem."
+        "Correct. The article says: 'All these texts mention the so-called Pythagorean triples.'",
+        "Incorrect. The concept of zero is mentioned later in relation to the Maya civilization, not in these texts.",
+        "Incorrect. Negative numbers are mentioned later in relation to Chinese mathematics.",
+        "Incorrect. Calculus is mentioned later in relation to Newton and Leibniz."
       ]
     },
     {
       "id": 6,
-      "question": "What was the primary language of Egyptian mathematics before the Hellenistic period?",
+      "question": "In which century BC did the study of mathematics as a 'demonstrative discipline' begin?",
       "options": [
-        "Egyptian language",
-        "Greek language",
-        "Latin language",
-        "Sumerian language"
+        "6th century BC",
+        "5th century BC",
+        "4th century BC",
+        "3rd century BC"
       ],
       "answer_explanations": [
-        "Correct. The article states that Egyptian mathematics refers to mathematics written in the Egyptian language.",
-        "Incorrect. Greek replaced Egyptian as the written language during the Hellenistic period.",
-        "Incorrect. Latin is not mentioned as the language of Egyptian mathematics.",
-        "Incorrect. Sumerian is associated with Babylonian mathematics, not Egyptian."
+        "Correct. The article states: 'The study of mathematics as a \"demonstrative discipline\" began in the 6th century BC with the Pythagoreans.'",
+        "Incorrect. 5th century BC is not mentioned.",
+        "Incorrect. 4th century BC is not mentioned.",
+        "Incorrect. 3rd century BC is not mentioned."
       ]
     },
     {
       "id": 7,
-      "question": "Which ancient civilization developed a place value system and the first use of negative numbers?",
+      "question": "Who coined the term 'mathematics'?",
       "options": [
-        "Chinese",
-        "Babylonians",
-        "Egyptians",
-        "Greeks"
+        "The Pythagoreans",
+        "The ancient Romans",
+        "The Chinese",
+        "The Maya"
       ],
       "answer_explanations": [
-        "Correct. The article notes that Chinese mathematics made early contributions, including a place value system and the first use of negative numbers.",
-        "Incorrect. The Babylonians used a sexagesimal system but not a place value system like the Chinese.",
-        "Incorrect. Egyptian mathematics did not develop a place value system or negative numbers.",
-        "Incorrect. Greek mathematics focused on deductive reasoning and proofs, not place value or negative numbers."
+        "Correct. The article says: 'the Pythagoreans, who coined the term \"mathematics\"'.",
+        "Incorrect. The ancient Romans are not credited with coining the term.",
+        "Incorrect. The Chinese are not credited with coining the term.",
+        "Incorrect. The Maya are not credited with coining the term."
       ]
     },
     {
       "id": 8,
-      "question": "What does the Ishango bone possibly represent?",
+      "question": "What does the ancient Greek word 'mathema' mean?",
       "options": [
-        "A tally of prime numbers or a six-month lunar calendar",
-        "A map of ancient trade routes",
-        "A religious symbol",
-        "A tool for measuring grain"
+        "Subject of instruction",
+        "Number",
+        "Knowledge",
+        "Science"
       ],
       "answer_explanations": [
-        "Correct. The article explains that common interpretations of the Ishango bone are that it shows either a tally of sequences of prime numbers or a six-month lunar calendar.",
-        "Incorrect. The article does not describe the Ishango bone as a map of trade routes.",
-        "Incorrect. The article does not present the Ishango bone as a religious symbol.",
-        "Incorrect. The article does not describe the Ishango bone as a tool for measuring grain."
+        "Correct. The article states: 'from the ancient Greek Î¼Î¬Î¸Î·Î¼Î± (mathema), meaning \"subject of instruction\".'",
+        "Incorrect. 'Number' is not the meaning given.",
+        "Incorrect. 'Knowledge' is not the meaning given.",
+        "Incorrect. 'Science' is not the meaning given."
       ]
     },
     {
       "id": 9,
-      "question": "Which mathematician introduced the HinduâArabic numeral system to the Western world?",
+      "question": "Which civilization made early contributions including a place value system and the first use of negative numbers?",
       "options": [
-        "KhwÄrizmÄ«",
-        "Isaac Newton",
-        "Gottfried Wilhelm Leibniz",
-        "Carl Friedrich Gauss"
+        "Chinese mathematics",
+        "Greek mathematics",
+        "Roman mathematics",
+        "Islamic mathematics"
       ],
       "answer_explanations": [
-        "Correct. The article states that the HinduâArabic numeral system was transmitted to the Western world via Islamic mathematics through the work of KhwÄrizmÄ«.",
-        "Incorrect. Newton contributed to calculus, not the numeral system.",
-        "Incorrect. Leibniz also contributed to calculus, not the numeral system.",
-        "Incorrect. Gauss made contributions in many areas but not the introduction of the numeral system."
+        "Correct. The article states: 'Chinese mathematics made early contributions, including a place value system and the first use of negative numbers.'",
+        "Incorrect. Greek mathematics is mentioned for refining methods, not for negative numbers.",
+        "Incorrect. Roman mathematics is mentioned for applied mathematics, not for negative numbers.",
+        "Incorrect. Islamic mathematics is mentioned for transmitting the HinduâArabic numeral system, not for negative numbers."
       ]
     },
     {
       "id": 10,
-      "question": "What is the term used for the study of mathematics as a 'demonstrative discipline' that began with the Pythagoreans?",
+      "question": "Which civilization gave the concept of zero a standard symbol in its numerals?",
       "options": [
-        "Mathematics",
-        "Geometry",
-        "Algebra",
-        "Arithmetic"
+        "Maya civilization",
+        "Ancient Egypt",
+        "Babylon",
+        "India"
       ],
       "answer_explanations": [
-        "Correct. The article notes that the Pythagoreans coined the term 'mathematics' from the ancient Greek 'mathema', meaning 'subject of instruction'.",
-        "Incorrect. Geometry is a branch of mathematics, not the term for the study as a demonstrative discipline.",
-        "Incorrect. Algebra is a branch of mathematics, not the term for the study as a demonstrative discipline.",
-        "Incorrect. Arithmetic is a branch of mathematics, not the term for the study as a demonstrative discipline."
+        "Correct. The article states: 'the concept of zero was given a standard symbol in Maya numerals.'",
+        "Incorrect. Ancient Egypt is not mentioned in this context.",
+        "Incorrect. Babylon is not mentioned in this context.",
+        "Incorrect. India is mentioned for the HinduâArabic numeral system, but not for the standard symbol of zero."
       ]
     }
   ]

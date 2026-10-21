@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what is the cell?",
+      "question": "According to the article, what is the basic structural and functional unit of life?",
       "options": [
-        "The structural and functional unit of life",
-        "The smallest known living organism",
-        "A type of macromolecule found only in eukaryotes",
-        "The basic unit of reproduction in all living things"
+        "The cell",
+        "The atom",
+        "The organ",
+        "The molecule"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The cell is the structural and functional unit of life.'",
-        "Incorrect. The article does not describe the cell as the smallest known living organism.",
-        "Incorrect. The article describes proteins and nucleic acids as macromolecules, not the cell.",
-        "Incorrect. While cells are involved in reproduction, the article specifically defines the cell as the structural and functional unit of life, not the basic unit of reproduction."
+        "Correct. The article states, 'The cell is the structural and functional unit of life.'",
+        "Incorrect. The article identifies the cell, not the atom, as the basic unit of life.",
+        "Incorrect. The article identifies the cell, not the organ, as the basic unit of life.",
+        "Incorrect. The article identifies the cell, not the molecule, as the basic unit of life."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as a descriptive trait of life in the article?",
+      "question": "What are the two types of macromolecules that all living things contain?",
       "options": [
-        "Homeostasis",
-        "Photosynthesis",
-        "Cellular respiration",
-        "Genetic mutation"
+        "Proteins and nucleic acids",
+        "Carbohydrates and lipids",
+        "Water and salts",
+        "DNA and RNA"
       ],
       "answer_explanations": [
-        "Correct. Homeostasis is listed as the first descriptive trait of life: 'regulation of the internal environment to maintain a constant state.'",
-        "Incorrect. Photosynthesis is not listed among the descriptive traits of life in the article.",
-        "Incorrect. Cellular respiration is not listed among the descriptive traits of life in the article.",
-        "Incorrect. Genetic mutation is not listed among the descriptive traits of life in the article."
+        "Correct. The article states, 'All living things contain two types of macromolecules, proteins and nucleic acids'.",
+        "Incorrect. The article specifically names proteins and nucleic acids, not carbohydrates and lipids.",
+        "Incorrect. The article specifically names proteins and nucleic acids, not water and salts.",
+        "Incorrect. While DNA and RNA are nucleic acids, the two types of macromolecules mentioned are proteins and nucleic acids."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what is a biota?",
+      "question": "According to the article, how long ago did life originate on Earth?",
       "options": [
-        "The life in a particular ecosystem",
-        "A type of extremophile found in harsh environments",
-        "The process by which cells signal to one another",
-        "A system of binomial nomenclature"
+        "At least 3.5 billion years ago",
+        "At least 2.5 billion years ago",
+        "At least 4.5 billion years ago",
+        "At least 1.5 billion years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The life in a particular ecosystem is called its biota.'",
-        "Incorrect. Extremophiles are organisms that occupy harsh environments, but they are not called biota.",
-        "Incorrect. Cell signalling is a biological process, not a biota.",
-        "Incorrect. Binomial nomenclature is Carl Linnaeus's classification system, not a biota."
+        "Correct. The article states, 'Life originated at least 3.5 billion years ago'.",
+        "Incorrect. The article specifies at least 3.5 billion years ago, not 2.5 billion years.",
+        "Incorrect. The article specifies at least 3.5 billion years ago, not 4.5 billion years.",
+        "Incorrect. The article specifies at least 3.5 billion years ago, not 1.5 billion years."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, why are viruses controversial in discussions of life?",
+      "question": "Which scientist's system of binomial nomenclature marked the beginning of modern classification?",
       "options": [
-        "They replicate only in host cells and do not metabolise",
-        "They are composed of four eternal elements",
-        "They cannot evolve by natural selection",
-        "They are always classified as forms of life"
+        "Carl Linnaeus",
+        "Aristotle",
+        "Charles Darwin",
+        "Louis Pasteur"
       ],
       "answer_explanations": [
-        "Correct. The article states that viruses 'replicate only in host cells' and 'do not metabolise,' which complicates whether they should be considered alive.",
-        "Incorrect. The four eternal elements are part of Empedocles's materialist theory, not a property of viruses.",
-        "Incorrect. The article states that viruses 'evolve by natural selection,' so this is not a reason for controversy.",
-        "Incorrect. The article states viruses are 'most often considered as just gene-coding replicators rather than forms of life,' so they are not always classified as alive."
+        "Correct. The article states, 'Modern classification began with Carl Linnaeus's system of binomial nomenclature in the 1740s.'",
+        "Incorrect. The article states that classification attempts began with Aristotle, but modern classification began with Carl Linnaeus.",
+        "Incorrect. Charles Darwin is mentioned for his evolutionary theory, not for starting modern classification.",
+        "Incorrect. Louis Pasteur is mentioned for his experiments on spontaneous generation, not for starting modern classification."
       ]
     },
     {
       "id": 5,
-      "question": "According to Aristotle's hylomorphism, what is the form of a living thing?",
+      "question": "Which of the following is listed as a descriptive trait of life in the article?",
       "options": [
-        "Its soul",
-        "Its matter",
-        "Its four eternal elements",
-        "Its biochemical molecules"
+        "Homeostasis",
+        "Photosynthesis",
+        "Locomotion",
+        "Consciousness"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'the form of a living thing is its soul (Greek psyche, Latin anima).'",
-        "Incorrect. Matter and form are distinct concepts in hylomorphism; the form is not the matter itself.",
-        "Incorrect. The four eternal elements are part of Empedocles's materialism, not Aristotle's hylomorphism.",
-        "Incorrect. Biochemical molecules are discussed in a later section on the composition of living things, not in Aristotle's hylomorphism."
+        "Correct. The article lists 'Homeostasis: regulation of the internal environment to maintain a constant state' as one of the descriptive traits of life.",
+        "Incorrect. Photosynthesis is not listed among the descriptive traits of life in the article.",
+        "Incorrect. Locomotion is not listed as a descriptive trait of life in the article.",
+        "Incorrect. Consciousness is not listed among the descriptive traits of life in the article."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what did Louis Pasteur's experiments in 1859 decisively dispel?",
+      "question": "According to the article, what is the definition of life adopted by a NASA committee?",
       "options": [
-        "The theory of spontaneous generation",
-        "The theory of hylomorphism",
-        "The theory of materialism",
-        "The theory of natural selection"
+        "A self-sustained chemical system capable of undergoing Darwinian evolution",
+        "A thermodynamic system with an organized molecular structure",
+        "A self-organising and autopoietic entity",
+        "A process that preserves its existence in a given environment"
       ],
       "answer_explanations": [
-        "Correct. The article states that spontaneous generation 'was decisively dispelled by the experiments of Louis Pasteur in 1859.'",
-        "Incorrect. Hylomorphism is Aristotle's theory and is not said to have been dispelled by Pasteur.",
-        "Incorrect. Materialism is a broader philosophical theory and is not said to have been dispelled by Pasteur.",
-        "Incorrect. Natural selection is Charles Darwin's theory and is not said to have been dispelled by Pasteur."
+        "Correct. The article states that NASA adopted the definition of life as 'a self-sustained chemical system capable of undergoing Darwinian evolution'.",
+        "Incorrect. This is a physics perspective on organisms, but not the specific definition adopted by the NASA committee mentioned in the article.",
+        "Incorrect. This is a systemic definition from living systems theory, not the NASA definition mentioned.",
+        "Incorrect. This is a descriptive definition, not the specific definition adopted by the NASA committee."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what two types of macromolecules do all living things contain?",
+      "question": "According to the article, why is it difficult to determine when death has occurred?",
       "options": [
-        "Proteins and nucleic acids",
-        "Carbohydrates and lipids",
-        "DNA and proteins only",
-        "RNA and lipids"
+        "Cessation of life functions is often not simultaneous across organ systems",
+        "There is no legal definition of death",
+        "Death is a process, not a substance",
+        "The soul leaves the body at an unknown time"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'All living things contain two types of macromolecules, proteins and nucleic acids.'",
-        "Incorrect. Carbohydrates and lipids are not mentioned as the two macromolecules all living things contain.",
-        "Incorrect. The article says nucleic acids are usually both DNA and RNA, not that DNA and proteins are the only two types.",
-        "Incorrect. RNA is a nucleic acid, but lipids are not one of the two macromolecule types mentioned."
+        "Correct. The article states, 'cessation of life functions is often not simultaneous across organ systems'.",
+        "Incorrect. The article mentions legal definitions have been debated, but the difficulty in determining death is due to the non-simultaneous cessation of life functions.",
+        "Incorrect. The article says life is a process, not a substance, but this is not the reason given for the difficulty in determining death.",
+        "Incorrect. The article mentions religious beliefs about the soul, but this is not the scientific reason given for the difficulty in determining death."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what criticism is made of the NASA definition of life as 'a self-sustained chemical system capable of undergoing Darwinian evolution'?",
+      "question": "How are viruses most often considered, according to the article?",
       "options": [
-        "A single sexually reproducing individual is not alive as it is incapable of evolving on its own",
-        "It does not account for viruses",
-        "It requires life to be composed of cells",
-        "It excludes extraterrestrial life"
+        "As gene-coding replicators rather than forms of life",
+        "As simple forms of life",
+        "As the first living cells",
+        "As non-biological chemicals"
       ],
       "answer_explanations": [
-        "Correct. The article states this definition 'has been widely criticised because, according to it, a single sexually reproducing individual is not alive as it is incapable of evolving on its own.'",
-        "Incorrect. The article does not mention viruses in connection with the criticism of the NASA definition.",
-        "Incorrect. The article does not state that the definition requires life to be composed of cells.",
-        "Incorrect. The article does not state that the definition excludes extraterrestrial life."
+        "Correct. The article states, 'They are most often considered as just gene-coding replicators rather than forms of life.'",
+        "Incorrect. The article says they are most often considered as replicators, not as forms of life.",
+        "Incorrect. The article does not describe viruses as the first living cells.",
+        "Incorrect. The article describes them as having genes and evolving, so they are not considered non-biological."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is metabolism?",
+      "question": "Who proposed the theory of spontaneous generation?",
       "options": [
-        "Transformation of energy used to convert chemicals into cellular components and to decompose organic matter",
-        "Regulation of the internal environment to maintain a constant state",
-        "The evolutionary process whereby an organism becomes better able to live in its habitat",
-        "The ability to produce new individual organisms"
+        "Aristotle",
+        "Louis Pasteur",
+        "Empedocles",
+        "RenÃ© Descartes"
       ],
       "answer_explanations": [
-        "Correct. The article defines metabolism as 'transformation of energy, used to convert chemicals into cellular components (anabolism) and to decompose organic matter (catabolism).'",
-        "Incorrect. Regulation of the internal environment is homeostasis, not metabolism.",
-        "Incorrect. The evolutionary process whereby an organism becomes better able to live in its habitat is adaptation, not metabolism.",
-        "Incorrect. The ability to produce new individual organisms is reproduction, not metabolism."
+        "Correct. The article states, 'The theory of spontaneous generation was proposed by Aristotle'.",
+        "Incorrect. Louis Pasteur's experiments dispelled the theory, but he did not propose it.",
+        "Incorrect. Empedocles is mentioned for his materialist theory of four elements, not for proposing spontaneous generation.",
+        "Incorrect. RenÃ© Descartes is mentioned for his mechanistic materialism, not for proposing spontaneous generation."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, where is life known to exist?",
+      "question": "According to the article, what is the 'vegetative soul' in Aristotle's hylomorphism?",
       "options": [
-        "Only on Earth",
-        "On Earth and on other planets",
-        "Only in air and water",
-        "Only in soil"
+        "The soul of plants, which causes them to grow and decay",
+        "The soul that allows animals to move and feel",
+        "The source of consciousness and reasoning in man",
+        "The soul that all living things share"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Life is only known to exist on Earth.'",
-        "Incorrect. The article says life is only known to exist on Earth, though extraterrestrial life is thought to be probable.",
-        "Incorrect. The article says life exists in air, water, and soil, not only in air and water.",
-        "Incorrect. The article says life exists in air, water, and soil, not only in soil."
+        "Correct. The article states, 'the vegetative soul of plants, which causes them to grow and decay and nourish themselves'.",
+        "Incorrect. The animal soul is what causes animals to move and feel, not the vegetative soul.",
+        "Incorrect. The rational soul is the source of consciousness and reasoning, not the vegetative soul.",
+        "Incorrect. The article describes three distinct kinds of souls, and the vegetative soul is specific to plants."
       ]
     }
   ]

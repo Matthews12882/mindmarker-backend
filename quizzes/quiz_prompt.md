@@ -44,13 +44,15 @@ Rules:
 }
 ```
 
-Difficulty:
+Difficulty (the exact requirements for the active level are also appended to
+the user message):
 
-- **easy** — literal recall of clearly stated facts.
-- **medium** — comprehension: meaning, paraphrase, relationships, comparisons.
-- **hard** — application and analysis: put the reader in a new scenario and ask
-  them to apply the article's concepts; do not rely on trivia, vague
-  distinctions, or minor dates/details.
+- **easy** — only the article's **intro** (the lead section before the first
+  heading): literal recall of facts stated there.
+- **medium** — the **whole article**, but kept **simple**: main ideas and
+  clearly stated facts in plain, everyday language.
+- **hard** — **interpretation of facts**: what they mean, why they matter,
+  what they imply, and how ideas relate, compare or conflict. No simple recall.
 
 ## User
 

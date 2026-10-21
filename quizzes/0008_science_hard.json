@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what is the primary reason formal sciences such as logic and mathematics are typically regarded as separate from modern science?",
+      "question": "Why are logic, mathematics, and theoretical computer science typically regarded as separate from the natural and social sciences?",
       "options": [
-        "They rely mainly on deductive reasoning instead of the scientific method.",
-        "They do not produce testable explanations about nature and society.",
-        "They are not practiced by the scientific community.",
-        "They lack institutional and professional features."
+        "They rely on deductive reasoning instead of the scientific method as their main methodology.",
+        "They are not empirical disciplines and therefore cannot produce knowledge.",
+        "They are not concerned with nature or society at all.",
+        "They are applied sciences that use scientific knowledge for practical purposes."
       ],
       "answer_explanations": [
         "Correct. The article states that logic, mathematics, and theoretical computer science are typically regarded as separate because they rely on deductive reasoning instead of the scientific method as their main methodology.",
-        "Incorrect. The article does not say formal sciences are excluded because they fail to produce testable explanations about nature and society.",
-        "Incorrect. The article does not link the separation of formal sciences to whether they are practiced by the scientific community.",
-        "Incorrect. Institutional and professional features are discussed in relation to 19th-century science generally, not as the reason formal sciences are separate."
+        "Incorrect. The article does not say they cannot produce knowledge; it says they are separate because of their methodology.",
+        "Incorrect. The article does not claim they are unconcerned with nature or society; it focuses on their reliance on deductive reasoning.",
+        "Incorrect. Applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine, not the formal sciences."
       ]
     },
     {
       "id": 2,
-      "question": "Which statement best captures the article's explanation of why the Socratic method is considered a turning point in early philosophical science?",
+      "question": "What does the article imply about the relationship between the scientific method and the body of knowledge science produces?",
       "options": [
-        "It applied philosophy to human matters and used hypothesis elimination to scrutinize beliefs for consistency.",
-        "It introduced the concept of phusis or nature to distinguish natural phenomena from convention.",
-        "It established a systematic teleological programme of philosophy in the 4th century BCE.",
-        "It rejected supernatural explanations of natural phenomena for the first time."
+        "The scientific method is the process by which knowledge is built and validated, and the knowledge itself is continuously challenged and organised by the scientific community.",
+        "The scientific method is only used in the natural sciences, while the social sciences rely on other methods.",
+        "The body of knowledge is static once produced and is not subject to further scrutiny.",
+        "The scientific method is primarily a deductive process that does not involve empirical evidence."
       ],
       "answer_explanations": [
-        "Correct. The article describes Socrates' application of philosophy to human matters and the Socratic method as hypothesis elimination that identifies and eliminates hypotheses leading to contradictions.",
-        "Incorrect. The article attributes the concept of phusis to pre-Socratic philosophers, not to Socrates or the Socratic method.",
-        "Incorrect. Aristotle created the systematic teleological programme in the 4th century BCE, not Socrates.",
-        "Incorrect. The Milesian school philosophers were the first to explain natural phenomena without relying on the supernatural, not Socrates."
+        "Correct. The article says science is driven by the scientific method, an empirical cycle, and that the body of knowledge it produces is continuously challenged, validated, and organised by the scientific community.",
+        "Incorrect. The article does not restrict the scientific method to natural sciences; it defines science broadly and mentions both natural and social sciences as branches.",
+        "Incorrect. The article explicitly states that the scientific community continuously challenges and validates the body of knowledge.",
+        "Incorrect. The scientific method is described as an empirical cycle involving observations, hypotheses, and evidence, not primarily deductive."
       ]
     },
     {
       "id": 3,
-      "question": "If a researcher today uses only deductive reasoning to develop a new mathematical proof without empirical observation or hypothesis testing, how would the article classify this activity?",
+      "question": "How does the article suggest the history of science is related to the emergence of writing systems?",
       "options": [
-        "As part of the formal sciences, which are typically separate from modern science because they rely on deductive reasoning.",
-        "As modern science, because mathematics is one of the two major branches of science.",
-        "As applied science, because it uses scientific knowledge for practical purposes.",
-        "As natural philosophy, because it explains events in the physical world based on natural causes."
+        "Direct evidence for scientific processes becomes clearer with the advent of writing systems in the Bronze Age civilisations of Ancient Egypt and Mesopotamia.",
+        "Writing systems were developed as a direct result of scientific discoveries.",
+        "Scientific thinking only began after writing systems were invented.",
+        "Writing systems had little impact on the recording of scientific knowledge."
       ],
       "answer_explanations": [
-        "Correct. The article states that logic, mathematics, and theoretical computer science are typically regarded as separate from modern science because they rely on deductive reasoning instead of the scientific method.",
-        "Incorrect. The article divides modern science into natural and social sciences; it does not classify mathematics as a branch of modern science.",
-        "Incorrect. Applied sciences use scientific knowledge for practical purposes such as engineering and medicine, which is not what a purely deductive mathematical proof does.",
-        "Incorrect. Natural philosophy sought explanations of physical events based on natural causes, whereas the article treats formal sciences as separate from this empirical tradition."
+        "Correct. The article states that direct evidence for scientific processes becomes clearer with the advent of writing systems in the Bronze Age civilisations of Ancient Egypt and Mesopotamia, creating the earliest written records in the history of science.",
+        "Incorrect. The article does not claim that writing systems were developed because of scientific discoveries; it says they made evidence clearer.",
+        "Incorrect. The article says scientific thinking emerged gradually over tens of thousands of years, well before writing systems.",
+        "Incorrect. The article implies writing systems were crucial for creating written records of scientific processes."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article indicate about the term 'scientist' before 1834?",
+      "question": "What does the article imply about the motivations of ancient Mesopotamians for studying scientific subjects?",
       "options": [
-        "A person conducting scientific research was called a 'natural philosopher' or 'man of science'.",
-        "The term 'scientist' was already widely used to describe researchers in academic institutions.",
-        "The word 'scientist' originated in ancient Greek natural philosophy.",
-        "Only individual researchers, not teams, were referred to as scientists."
+        "They studied subjects with practical or religious applications and had little interest in satisfying curiosity.",
+        "They were primarily motivated by a desire to understand the universe for its own sake.",
+        "They focused on theoretical knowledge without any practical use.",
+        "They were the first to develop a fully empirical scientific method."
       ],
       "answer_explanations": [
-        "Correct. The article states that in the past, a person who conducted scientific research was called a 'natural philosopher' or 'man of science', and William Whewell introduced 'scientist' in 1834.",
-        "Incorrect. The article indicates that 'scientist' was introduced in 1834, so it was not already widely used before then.",
-        "Incorrect. The article traces 'science' to Latin scientia, not 'scientist' to ancient Greek natural philosophy.",
-        "Incorrect. The article does not say that only individual researchers were called scientists before 1834; it uses the general terms 'natural philosopher' or 'man of science'."
+        "Correct. The article states that the Mesopotamians seem to have studied scientific subjects which had practical or religious applications and had little interest in satisfying curiosity.",
+        "Incorrect. The article explicitly says they had little interest in satisfying curiosity.",
+        "Incorrect. The article says they studied subjects with practical or religious applications, not purely theoretical ones.",
+        "Incorrect. The article does not credit them with developing the scientific method; that is a later development."
       ]
     },
     {
       "id": 5,
-      "question": "Based on the article, which of the following best describes the relationship between ancient Egyptian and Mesopotamian contributions and later Greek science?",
+      "question": "Why was Aristarchus's heliocentric model widely rejected, according to the article?",
       "options": [
-        "Their contributions to mathematics, astronomy, and medicine entered and shaped Greek natural philosophy.",
-        "They directly invented the scientific method that Greek philosophers later formalized.",
-        "Greek science rejected Egyptian and Mesopotamian knowledge as too focused on practical applications.",
-        "Greek natural philosophy was entirely independent of earlier Bronze Age developments."
+        "It was believed to violate the laws of physics.",
+        "It was not supported by any observational evidence.",
+        "It contradicted the teachings of Aristotle.",
+        "It was proposed before the invention of the telescope."
       ],
       "answer_explanations": [
-        "Correct. The article states that Egyptian and Mesopotamian contributions to mathematics, astronomy, and medicine entered and shaped Greek natural philosophy of classical antiquity.",
-        "Incorrect. The article does not credit Egyptians or Mesopotamians with inventing the scientific method.",
-        "Incorrect. The article says their contributions shaped Greek science, not that Greek science rejected them.",
-        "Incorrect. The article explicitly describes a transmission of knowledge from these civilizations to Greek and medieval science."
+        "Correct. The article states that Aristarchus's model was widely rejected because it was believed to violate the laws of physics.",
+        "Incorrect. The article does not mention lack of observational evidence as the reason; it specifically cites the belief that it violated physics.",
+        "Incorrect. The article does not say it contradicted Aristotle; in fact, Aristotle's geocentric model was later accepted.",
+        "Incorrect. The article does not mention the telescope as a factor in the rejection."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what was a key difference between ancient Mesopotamian scientific subjects and modern scientific curiosity?",
+      "question": "What does the article imply about the role of individual researchers versus teams in contemporary scientific research?",
       "options": [
-        "Mesopotamians studied subjects with practical or religious applications and had little interest in satisfying curiosity.",
-        "Mesopotamians focused exclusively on astronomy and ignored medicine and mathematics.",
-        "Mesopotamians used the scientific method to test hypotheses about natural causes.",
-        "Mesopotamians were primarily interested in theoretical knowledge rather than practical applications."
+        "Although research is often collaborative, many major advances, particularly in fundamental science, have come from individual researchers.",
+        "Individual researchers are no longer able to make significant contributions.",
+        "Collaborative teams are only found in applied sciences, not in fundamental science.",
+        "Individual researchers are primarily recognised through Nobel Prizes, while teams are not."
       ],
       "answer_explanations": [
-        "Correct. The article states that Mesopotamians seem to have studied scientific subjects with practical or religious applications and had little interest in satisfying curiosity.",
-        "Incorrect. The article lists many Mesopotamian interests, including animal physiology, anatomy, medicine, and manufacturing, not exclusively astronomy.",
-        "Incorrect. The article attributes the greater role of the scientific method to later periods, not to ancient Mesopotamia.",
-        "Incorrect. The article emphasizes Mesopotamian practical and religious applications, not theoretical knowledge for its own sake."
+        "Correct. The article says contemporary research is often highly collaborative, but many major advancesâparticularly in fundamental scienceâhave come from individual researchers and are recognised through awards like the Nobel Prize.",
+        "Incorrect. The article explicitly notes that individual researchers have made major advances.",
+        "Incorrect. The article does not limit collaboration to applied sciences; it says research is often carried out by teams in academic, government, and company settings.",
+        "Incorrect. The article mentions Nobel Prizes for individual researchers but does not say teams are not recognised."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article suggest about the status of women in prehistoric science?",
+      "question": "What does the article suggest about the evolution of the term 'science' and the term 'scientist'?",
       "options": [
-        "Women likely played a central role in prehistoric science.",
-        "Women were excluded from prehistoric scientific activities.",
-        "Women's contributions to prehistoric science are well documented in written records.",
-        "Women only participated in religious rituals, not in scientific thinking."
+        "The term 'science' originally meant 'knowledge' or 'study', and the term 'scientist' was introduced in the 19th century to describe someone who conducted scientific research.",
+        "The term 'science' has always referred exclusively to the natural sciences.",
+        "The term 'scientist' was coined by Mary Somerville.",
+        "The term 'science' was borrowed from Greek in the 14th century."
       ],
       "answer_explanations": [
-        "Correct. The article states that women likely played a central role in prehistoric science, as did religious rituals.",
-        "Incorrect. The article says the opposite: women likely played a central role.",
-        "Incorrect. The article notes that few details are known about the very earliest developments, so women's contributions are not well documented.",
-        "Incorrect. The article mentions women and religious rituals separately as contributors to prehistoric science."
+        "Correct. The article says science was a synonym for 'knowledge' or 'study' in the past, and William Whewell introduced the term 'scientist' in 1834.",
+        "Incorrect. The article says science was a synonym for knowledge in general, not exclusively natural sciences.",
+        "Incorrect. The article says Whewell introduced the term in a review of Mary Somerville's book, not that she coined it.",
+        "Incorrect. The article says the word was borrowed from Anglo-Norman and Latin, not Greek."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, why was Aristarchus of Samos's heliocentric model widely rejected in antiquity?",
+      "question": "What does the article imply about the relationship between the scientific method and the emergence of modern science in the 16th century?",
       "options": [
-        "It was believed to violate the laws of physics.",
-        "It lacked mathematical support compared with Ptolemy's geocentric model.",
-        "It contradicted religious doctrine of the time.",
-        "It was not published until the Renaissance."
+        "The scientific method played a greater role in the acquisition of knowledge during the Scientific Revolution, leading to the transformation of natural philosophy into natural science.",
+        "The scientific method was developed in the 19th century as part of the professionalisation of science.",
+        "The scientific method replaced all previous forms of inquiry, including natural philosophy.",
+        "The scientific method was first used by the ancient Greeks and remained unchanged until the 19th century."
       ],
       "answer_explanations": [
-        "Correct. The article states that Aristarchus's heliocentric model was widely rejected because it was believed to violate the laws of physics.",
-        "Incorrect. The article does not mention a lack of mathematical support as the reason for rejection.",
-        "Incorrect. The article does not cite religious doctrine as the reason for rejection.",
-        "Incorrect. Aristarchus lived in the 3rd century BCE, long before the Renaissance."
+        "Correct. The article says that during the Scientific Revolution, the scientific method soon played a greater role in the acquisition of knowledge, and in the 19th century, 'natural philosophy' changed to 'natural science'.",
+        "Incorrect. The article says the scientific method played a greater role starting in the 16th century, not that it was developed in the 19th.",
+        "Incorrect. The article does not say it replaced all previous forms; it says it played a greater role.",
+        "Incorrect. The article does not claim the method was unchanged; it says it played a greater role over time."
       ]
     },
     {
       "id": 9,
-      "question": "If a modern research team at a university and a company collaboratively develops a new health-care technology, which feature of contemporary scientific research described in the article does this scenario illustrate?",
+      "question": "What does the article imply about the role of the scientific community in relation to scientific knowledge?",
       "options": [
-        "Contemporary scientific research is often highly collaborative and carried out by teams in academic and research institutions, government agencies, and companies.",
-        "Major advances in fundamental science come primarily from individual researchers.",
-        "Science policies prioritize commercial products over health care and environmental protection.",
-        "The term 'natural philosopher' has replaced 'scientist' in contemporary research settings."
+        "The scientific community continuously challenges, validates, and organises the body of knowledge produced by science.",
+        "The scientific community is primarily responsible for funding scientific research.",
+        "The scientific community only validates knowledge that has been accepted for a long time.",
+        "The scientific community is not involved in the production of new knowledge."
       ],
       "answer_explanations": [
-        "Correct. The article states that contemporary scientific research is often highly collaborative and frequently carried out by teams in academic and research institutions, government agencies, and companies.",
-        "Incorrect. The article says many major advances in fundamental science have come from individual researchers, which contrasts with the collaborative team scenario.",
-        "Incorrect. The article says science policies seek to prioritize responsible development across several areas including health care, not that they prioritize commercial products over health care.",
-        "Incorrect. The article says 'natural philosopher' was a past term, not a contemporary replacement for 'scientist'."
+        "Correct. The article states that the scientific community continuously challenges, validates, and organises the body of knowledge science produces.",
+        "Incorrect. The article does not mention the scientific community's role in funding.",
+        "Incorrect. The article says the community challenges and validates knowledge, implying ongoing scrutiny, not just acceptance of old knowledge.",
+        "Incorrect. The article says new knowledge is advanced by research from scientists, and the community is involved in validating it."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following best reflects the article's characterization of the Scientific Revolution?",
+      "question": "What does the article suggest about the relationship between science and society?",
       "options": [
-        "It began in the 16th century and transformed natural philosophy as new ideas departed from previous Greek conceptions and traditions.",
-        "It introduced the HinduâArabic numeral system to Western Europe.",
-        "It occurred during the Islamic Golden Age and focused on medical prescriptions.",
-        "It established the formal sciences as a separate branch from natural and social sciences."
+        "Science is a systematic discipline that studies both nature and society, and its practical results have led to science policies that prioritise responsible development in areas like health care and environmental protection.",
+        "Science is only concerned with the natural world and has no impact on society.",
+        "Science policies are developed independently of scientific research.",
+        "Science is primarily a solitary pursuit with little relevance to societal needs."
       ],
       "answer_explanations": [
-        "Correct. The article states that the Scientific Revolution began in the 16th century and transformed natural philosophy as new ideas and discoveries departed from previous Greek conceptions and traditions.",
-        "Incorrect. The article says the HinduâArabic numeral system was introduced during the Golden Age of India and the Islamic Golden Age, not the Scientific Revolution.",
-        "Incorrect. The Islamic Golden Age is discussed separately from the Scientific Revolution, and medical prescriptions are linked to ancient Mesopotamia.",
-        "Incorrect. The article discusses formal sciences as separate because of deductive reasoning, not as an outcome of the Scientific Revolution."
+        "Correct. The article defines science as building knowledge about nature and society, and states that practical results of scientific work have led to science policies that prioritise responsible development of commercial products, health care, public infrastructure, environmental protection, and defense capabilities.",
+        "Incorrect. The article explicitly includes social sciences as a branch of science and discusses science policies affecting society.",
+        "Incorrect. The article says science policies seek to prioritise responsible development, implying they are influenced by scientific work.",
+        "Incorrect. The article says contemporary research is often highly collaborative and carried out in academic, government, and company settings, indicating relevance to society."
       ]
     }
   ]

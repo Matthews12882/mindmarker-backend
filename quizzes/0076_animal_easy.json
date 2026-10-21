@@ -13,154 +13,154 @@
         "Protista"
       ],
       "answer_explanations": [
-        "Correct. The article states that animals belong to the biological kingdom Animalia.",
-        "Incorrect. The article identifies animals as belonging to Animalia, not Plantae.",
-        "Incorrect. The article identifies animals as belonging to Animalia, not Fungi.",
-        "Incorrect. The article identifies animals as belonging to Animalia, not Protista."
+        "Correct. The article states that animals belong to the biological kingdom 'Animalia'.",
+        "Incorrect. The article identifies Animalia as the kingdom, not Plantae.",
+        "Incorrect. The article identifies Animalia as the kingdom, not Fungi.",
+        "Incorrect. The article identifies Animalia as the kingdom, not Protista."
       ]
     },
     {
       "id": 2,
-      "question": "How many living animal species have been described according to the article?",
+      "question": "What do animals consume for nutrition?",
       "options": [
-        "Over 1.5 million",
-        "7.77 million",
-        "1.05 million",
-        "65,000"
+        "Organic material",
+        "Inorganic minerals",
+        "Sunlight",
+        "Water only"
       ],
       "answer_explanations": [
-        "Correct. The article states that over 1.5 million living animal species have been described.",
-        "Incorrect. The article states that 7.77 million is the estimated total number of animal species on Earth, not the number described.",
-        "Incorrect. The article states that around 1.05 million described species are insects, not all described animal species.",
-        "Incorrect. The article states that around 65,000 described species are vertebrates, not all described animal species."
+        "Correct. The article says animals 'consume organic material'.",
+        "Incorrect. The article specifies organic material, not inorganic minerals.",
+        "Incorrect. The article specifies organic material, not sunlight.",
+        "Incorrect. The article specifies organic material, not water only."
       ]
     },
     {
       "id": 3,
-      "question": "What is the scientific study of animals known as?",
+      "question": "What do animals breathe?",
       "options": [
-        "Zoology",
-        "Ethology",
-        "Botany",
-        "Ecology"
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
       ],
       "answer_explanations": [
-        "Correct. The article states that the scientific study of animals is known as zoology.",
-        "Incorrect. The article states that ethology is the study of animal behaviour, not animals generally.",
-        "Incorrect. The article does not identify botany as the study of animals.",
-        "Incorrect. The article does not identify ecology as the study of animals."
+        "Correct. The article states that animals 'breathe oxygen'.",
+        "Incorrect. The article says animals breathe oxygen, not carbon dioxide.",
+        "Incorrect. The article says animals breathe oxygen, not nitrogen.",
+        "Incorrect. The article says animals breathe oxygen, not hydrogen."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is listed as one of the five major clades of the animal kingdom?",
+      "question": "What is the name of the hollow sphere of cells that animals grow from during embryonic development?",
       "options": [
-        "Porifera",
-        "Arthropoda",
-        "Chordata",
-        "Mollusca"
+        "Blastula",
+        "Gastrula",
+        "Morula",
+        "Zygote"
       ],
       "answer_explanations": [
-        "Correct. The article lists Porifera as one of the five major clades of the animal kingdom.",
-        "Incorrect. The article lists arthropods as part of the protostomes clade, not as one of the five major clades.",
-        "Incorrect. The article lists chordates as part of the deuterostomes clade, not as one of the five major clades.",
-        "Incorrect. The article lists molluscs as part of the protostomes clade, not as one of the five major clades."
+        "Correct. The article mentions animals grow from a hollow sphere of cells, the 'blastula'.",
+        "Incorrect. The article names the blastula, not the gastrula.",
+        "Incorrect. The article names the blastula, not the morula.",
+        "Incorrect. The article names the blastula, not the zygote."
       ]
     },
     {
       "id": 5,
-      "question": "What stage of embryonic development do animals grow from?",
+      "question": "How many living animal species have been described, according to the article?",
       "options": [
-        "A hollow sphere of cells called a blastula",
-        "A gastrula",
-        "A zygote",
-        "A gamete"
+        "Over 1.5 million",
+        "Over 1 million",
+        "Over 2 million",
+        "Over 500,000"
       ],
       "answer_explanations": [
-        "Correct. The article states that animals grow from a hollow sphere of cells, the blastula, during embryonic development.",
-        "Incorrect. The article describes the gastrula as a later stage formed after the blastula invaginates.",
-        "Incorrect. The article describes the zygote as the fused cell that develops into a blastula, not the hollow sphere itself.",
-        "Incorrect. The article describes gametes as haploid cells produced by meiosis, not as the hollow sphere of embryonic development."
+        "Correct. The article states 'Over 1.5 million living animal species have been described'.",
+        "Incorrect. The article says over 1.5 million, not over 1 million.",
+        "Incorrect. The article says over 1.5 million, not over 2 million.",
+        "Incorrect. The article says over 1.5 million, not over 500,000."
       ]
     },
     {
       "id": 6,
-      "question": "Which group contains the largest number of described animal species?",
+      "question": "Approximately how many of the described animal species are insects?",
       "options": [
-        "Insects",
-        "Molluscs",
-        "Vertebrates",
-        "Cnidarians"
+        "1.05 million",
+        "85,000",
+        "65,000",
+        "7.77 million"
       ],
       "answer_explanations": [
-        "Correct. The article states that around 1.05 million described animal species are insects, more than molluscs or vertebrates.",
-        "Incorrect. The article states that over 85,000 described species are molluscs, far fewer than insects.",
-        "Incorrect. The article states that around 65,000 described species are vertebrates, far fewer than insects.",
-        "Incorrect. The article does not provide a described species count for cnidarians that exceeds insects."
+        "Correct. The article says around 1.05 million are insects.",
+        "Incorrect. 85,000 is the number for molluscs, not insects.",
+        "Incorrect. 65,000 is the number for vertebrates, not insects.",
+        "Incorrect. 7.77 million is the estimated total number of animal species, not the insect count."
       ]
     },
     {
       "id": 7,
-      "question": "Which historical figure created the first hierarchical biological classification for animals in 1758?",
+      "question": "What is the scientific study of animals known as?",
       "options": [
-        "Carl Linnaeus",
-        "Aristotle",
-        "Jean-Baptiste Lamarck",
-        "Ernst Haeckel"
+        "Zoology",
+        "Botany",
+        "Geology",
+        "Ecology"
       ],
       "answer_explanations": [
-        "Correct. The article states that Carl Linnaeus created the first hierarchical biological classification for animals in 1758 with his Systema Naturae.",
-        "Incorrect. The article states that Aristotle divided animals into those with blood and those without, but did not create the 1758 classification.",
-        "Incorrect. The article states that Lamarck expanded Linnaeus's classification into 14 phyla by 1809, but did not create the first one in 1758.",
-        "Incorrect. The article states that Ernst Haeckel divided the animal kingdom into Metazoa and Protozoa in 1874, not 1758."
+        "Correct. The article states 'The scientific study of animals is known as zoology'.",
+        "Incorrect. Botany is the study of plants, not animals.",
+        "Incorrect. Geology is the study of the Earth, not animals.",
+        "Incorrect. Ecology is the study of interactions, not the general study of animals."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is a characteristic that distinguishes animals from plants and algae?",
+      "question": "What is the study of animal behaviour called?",
       "options": [
-        "Animals cannot produce their own food",
-        "Animals are eukaryotic",
-        "Animals are multicellular",
-        "Animals are aerobic"
+        "Ethology",
+        "Zoology",
+        "Entomology",
+        "Anatomy"
       ],
       "answer_explanations": [
-        "Correct. The article states that unlike plants and algae, which produce their own food, animals cannot produce their own food.",
-        "Incorrect. The article states that animals are eukaryotic, but notes that plants and fungi are also eukaryotic, so this does not distinguish animals from plants and algae.",
-        "Incorrect. The article states that animals are multicellular, but this does not distinguish them from plants and algae.",
-        "Incorrect. The article states that animals are aerobic, but this does not distinguish them from plants and algae."
+        "Correct. The article says 'the study of animal behaviour is known as ethology'.",
+        "Incorrect. Zoology is the study of animals in general, not specifically behaviour.",
+        "Incorrect. Entomology is the study of insects, not animal behaviour.",
+        "Incorrect. Anatomy is the study of structure, not behaviour."
       ]
     },
     {
       "id": 9,
-      "question": "What does the term metazoan refer to?",
+      "question": "Which clade do most living animal species belong to?",
       "options": [
-        "Any member of the group Metazoa",
-        "Any single-celled organism",
-        "Any member of the kingdom Plantae",
-        "Any member of the group Protozoa"
+        "Bilateria",
+        "Porifera",
+        "Ctenophora",
+        "Placozoa"
       ],
       "answer_explanations": [
-        "Correct. The article states that a metazoan is any member of the group Metazoa.",
-        "Incorrect. The article describes Protozoa as single-celled organisms, not metazoans.",
-        "Incorrect. The article does not define metazoans as members of the kingdom Plantae.",
-        "Incorrect. The article states that Protozoa are single-celled organisms no longer considered animals, distinct from Metazoa."
+        "Correct. The article states 'Most living animal species belong to the clade Bilateria'.",
+        "Incorrect. Porifera is one of the five major clades, but not the one with most species.",
+        "Incorrect. Ctenophora is one of the five major clades, but not the one with most species.",
+        "Incorrect. Placozoa is one of the five major clades, but not the one with most species."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is listed as a use humans make of other animal species?",
+      "question": "What is the range of animal body lengths mentioned in the article?",
       "options": [
-        "Food",
-        "Fuel",
-        "Construction",
-        "Medicine"
+        "From 8.5 Î¼m to 33.6 m",
+        "From 1 mm to 10 m",
+        "From 5 Î¼m to 50 m",
+        "From 10 cm to 100 m"
       ],
       "answer_explanations": [
-        "Correct. The article states that humans make use of many other animal species for food, including meat, eggs, and dairy products.",
-        "Incorrect. The article does not list fuel as a use humans make of other animal species.",
-        "Incorrect. The article does not list construction as a use humans make of other animal species.",
-        "Incorrect. The article does not list medicine as a use humans make of other animal species."
+        "Correct. The article states 'Animal body lengths range from 8.5 Î¼m (0.00033 in) to 33.6 m (110 ft)'.",
+        "Incorrect. The article specifies 8.5 Î¼m to 33.6 m, not 1 mm to 10 m.",
+        "Incorrect. The article specifies 8.5 Î¼m to 33.6 m, not 5 Î¼m to 50 m.",
+        "Incorrect. The article specifies 8.5 Î¼m to 33.6 m, not 10 cm to 100 m."
       ]
     }
   ]

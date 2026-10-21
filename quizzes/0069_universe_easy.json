@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the approximate diameter of the observable universe at present?",
+      "question": "What does the universe comprise?",
       "options": [
-        "93 billion light-years",
-        "13.8 billion light-years",
-        "46 billion light-years",
-        "28 billion parsecs"
+        "All forms of matter and energy in space and time",
+        "Only the planets and stars",
+        "Only the Milky Way galaxy",
+        "Only the observable portion of space"
       ],
       "answer_explanations": [
-        "Correct. The article states that the observable portion of the universe is approximately 93 billion light-years in diameter at present.",
-        "Incorrect. 13.8 billion light-years refers to the age of the universe times the speed of light, not the diameter of the observable universe.",
-        "Incorrect. 46 billion light-years is the proper distance between Earth and the edge of the observable universe, not the full diameter.",
-        "Incorrect. 28 billion parsecs is equivalent to 93 billion light-years, but the article states the diameter in light-years, not parsecs."
+        "Correct. The article states, 'The universe comprises all of existence: all forms of matter and energy in space and time.'",
+        "Incorrect. The universe comprises more than just planets and stars; it includes all forms of matter and energy.",
+        "Incorrect. The universe is much larger than just the Milky Way galaxy.",
+        "Incorrect. The universe includes both observable and unobservable portions."
       ]
     },
     {
       "id": 2,
-      "question": "What percentage of the mass and energy in the universe does dark matter account for in the ÎCDM model?",
+      "question": "How long has the universe been expanding according to cosmology?",
       "options": [
-        "about 25.8%Â±1.1%",
-        "about 69.2%Â±1.2%",
-        "about 4.84%Â±0.1%",
-        "about 6%"
+        "13.8 billion years",
+        "93 billion years",
+        "4.84 billion years",
+        "25.8 billion years"
       ],
       "answer_explanations": [
-        "Correct. The article states that dark matter accounts for about 25.8%Â±1.1% of the mass and energy in the universe.",
-        "Incorrect. About 69.2%Â±1.2% is dark energy, not dark matter.",
-        "Incorrect. About 4.84%Â±0.1% is ordinary (baryonic) matter, not dark matter.",
-        "Incorrect. About 6% refers to the portion of ordinary matter composed of stars, planets, and visible gas clouds."
+        "Correct. The article says, 'the universe has been expanding for 13.8 billion years.'",
+        "Incorrect. 93 billion light-years is the diameter of the observable universe, not the expansion time.",
+        "Incorrect. 4.84% is the percentage of ordinary matter, not a time duration.",
+        "Incorrect. 25.8% is the percentage of dark matter, not a time duration."
       ]
     },
     {
       "id": 3,
-      "question": "What is the best value of the age of the universe according to the Lambda-CDM model as of 2015?",
+      "question": "What event is described as the starting point of the universe's expansion?",
       "options": [
-        "13.799 Â± 0.021 billion years",
-        "13.8 billion years",
-        "9.8 billion years",
-        "377,000 years"
+        "The Big Bang",
+        "The Scientific Revolution",
+        "The formation of the Milky Way",
+        "The creation of dark matter"
       ],
       "answer_explanations": [
-        "Correct. The article states that measurements yield a best value of the age of the universe at 13.799 Â± 0.021 billion years, as of 2015.",
-        "Incorrect. 13.8 billion years is the approximate age since the Big Bang mentioned earlier, but not the precise best value as of 2015.",
-        "Incorrect. 9.8 billion years marks when the dark-energy-dominated era began, not the age of the universe.",
-        "Incorrect. 377,000 years is when recombination occurred, not the age of the universe."
+        "Correct. The article mentions 'starting from a dense fireball in an event called the Big Bang.'",
+        "Incorrect. The Scientific Revolution led to a heliocentric model, not the start of the universe.",
+        "Incorrect. The Milky Way formed later, not at the start of the universe.",
+        "Incorrect. Dark matter is not described as an event starting the universe."
       ]
     },
     {
       "id": 4,
-      "question": "What did early cosmological models place at the center of the universe?",
+      "question": "What is the approximate diameter of the observable universe?",
       "options": [
-        "Earth",
-        "the Sun",
-        "the Milky Way",
-        "dark matter"
+        "93 billion light-years",
+        "13.8 billion light-years",
+        "25.8 billion light-years",
+        "4.84 billion light-years"
       ],
       "answer_explanations": [
-        "Correct. The article states that some of the earliest cosmological models were geocentric, placing Earth at the center.",
-        "Incorrect. The Sun was placed at the center in the heliocentric model, not the early geocentric models.",
-        "Incorrect. The Milky Way is described as one of many galaxies, not the center of early cosmological models.",
-        "Incorrect. Dark matter is unseen matter discovered through gravity's effects, not the center of early models."
+        "Correct. The article states, 'The observable portion of the universe is approximately 93 billion light-years in diameter at present.'",
+        "Incorrect. 13.8 billion is the age of the universe in years, not its diameter.",
+        "Incorrect. 25.8% is the percentage of dark matter, not a diameter.",
+        "Incorrect. 4.84% is the percentage of ordinary matter, not a diameter."
       ]
     },
     {
       "id": 5,
-      "question": "What is the name of the unseen matter that accounts for more matter than visible objects?",
+      "question": "What is the total size of the universe?",
       "options": [
-        "dark matter",
-        "dark energy",
-        "ordinary matter",
-        "baryonic matter"
+        "Not known",
+        "93 billion light-years",
+        "13.8 billion light-years",
+        "Infinite"
       ],
       "answer_explanations": [
-        "Correct. The article states that this unseen matter is known as dark matter.",
-        "Incorrect. Dark energy is a mysterious form of energy responsible for the acceleration of expansion, not unseen matter.",
-        "Incorrect. Ordinary matter composes only 4.84%Â±0.1% of the universe and is visible matter.",
-        "Incorrect. Baryonic matter is another term for ordinary matter, not the unseen matter."
+        "Correct. The article explicitly says, 'The total size of the universe is not known.'",
+        "Incorrect. 93 billion light-years is the size of the observable portion, not the total universe.",
+        "Incorrect. 13.8 billion is the age of the universe, not its size.",
+        "Incorrect. The article does not state that the universe is infinite."
       ]
     },
     {
       "id": 6,
-      "question": "What does the word 'universe' derive from in Latin?",
+      "question": "What did some of the earliest cosmological models place at the center of the universe?",
       "options": [
-        "universus",
-        "univers",
-        "totum",
-        "mundus"
+        "Earth",
+        "The Sun",
+        "The Milky Way",
+        "The Big Bang"
       ],
       "answer_explanations": [
-        "Correct. The article states that the word universe derives from the Latin word universus, meaning 'combined into one'.",
-        "Incorrect. Univers is the Old French word, not the Latin word.",
-        "Incorrect. Totum is a Latin synonym for universe, not the word from which 'universe' derives.",
-        "Incorrect. Mundus is a Latin synonym for universe, not the word from which 'universe' derives."
+        "Correct. The article says, 'Some of the earliest cosmological models of the universe were geocentric, placing Earth at the center.'",
+        "Incorrect. The Sun was placed at the center in later heliocentric models, not the earliest ones.",
+        "Incorrect. The Milky Way was not placed at the center in early models.",
+        "Incorrect. The Big Bang is an event, not a central object in early models."
       ]
     },
     {
       "id": 7,
-      "question": "What process produced helium, deuterium, and traces of lithium during the first few minutes after the Big Bang?",
+      "question": "During the Scientific Revolution, what model was developed based on astronomical observations?",
       "options": [
-        "Big Bang nucleosynthesis",
-        "recombination",
-        "stellar nucleosynthesis",
-        "cosmic inflation"
+        "A heliocentric model",
+        "A geocentric model",
+        "A dark matter model",
+        "A foam-like structure model"
       ],
       "answer_explanations": [
-        "Correct. The article states that Big Bang nucleosynthesis lasted for about 15 minutes and produced helium, deuterium, and traces of lithium.",
-        "Incorrect. Recombination occurred after about 377,000 years when electrons and nuclei formed stable atoms.",
-        "Incorrect. Stellar nucleosynthesis is the process by which stars seed the universe with elements heavier than helium.",
-        "Incorrect. Cosmic inflation is an intense period of expansion postulated to explain astronomical observations, not the process that produced light elements."
+        "Correct. The article states, 'During the Scientific Revolution, astronomical observations led to a heliocentric model.'",
+        "Incorrect. The geocentric model was earlier, not developed during the Scientific Revolution.",
+        "Incorrect. Dark matter is a later discovery, not a model from the Scientific Revolution.",
+        "Incorrect. The foam-like structure describes galaxy distribution, not a model from the Scientific Revolution."
       ]
     },
     {
       "id": 8,
-      "question": "What happened after about 377,000 years following the Big Bang?",
+      "question": "How many galaxies are in the observable universe according to the article?",
       "options": [
-        "electrons and nuclei formed the first stable atoms",
-        "the first stars formed",
-        "dark energy began to dominate",
-        "nucleosynthesis ended"
+        "A few hundred billion",
+        "A few hundred million",
+        "A few hundred thousand",
+        "A few billion"
       ],
       "answer_explanations": [
-        "Correct. The article states that after about 377,000 years, the universe cooled enough that electrons and nuclei could form the first stable atoms.",
-        "Incorrect. The first stars formed after around 100â300 million years, not 377,000 years.",
-        "Incorrect. Dark energy began to dominate after about 9.8 billion years, not 377,000 years.",
-        "Incorrect. Nucleosynthesis lasted for about 15 minutes, ending long before 377,000 years."
+        "Correct. The article says, 'the Sun is one of a few hundred billion stars in the Milky Way, which is one of a few hundred billion galaxies in the observable universe.'",
+        "Incorrect. The article specifies a few hundred billion, not million.",
+        "Incorrect. The article specifies a few hundred billion, not thousand.",
+        "Incorrect. The article specifies a few hundred billion, not just a few billion."
       ]
     },
     {
       "id": 9,
-      "question": "What is the diameter of the Milky Way according to the article?",
+      "question": "At the largest scale, how are galaxies distributed?",
       "options": [
-        "roughly 87,400 light-years",
-        "93 billion light-years",
-        "2.5 million light-years",
-        "46 billion light-years"
+        "Uniformly and the same in all directions",
+        "In clusters only",
+        "In a single line",
+        "Randomly with no pattern"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Milky Way is roughly 87,400 light-years in diameter.",
-        "Incorrect. 93 billion light-years is the diameter of the observable universe, not the Milky Way.",
-        "Incorrect. 2.5 million light-years is the distance to the Andromeda Galaxy, not the diameter of the Milky Way.",
-        "Incorrect. 46 billion light-years is the proper distance to the edge of the observable universe, not the diameter of the Milky Way."
+        "Correct. The article states, 'At the largest scale, galaxies are distributed uniformly and the same in all directions.'",
+        "Incorrect. Clusters are mentioned at smaller scales, not the largest scale.",
+        "Incorrect. The article does not describe a single line distribution.",
+        "Incorrect. The article says they are uniform, not random."
       ]
     },
     {
       "id": 10,
-      "question": "What is the total size of the universe?",
+      "question": "What is the unseen matter that the universe contains more of than visible objects?",
       "options": [
-        "not known",
-        "93 billion light-years",
-        "13.8 billion light-years",
-        "46 billion light-years"
+        "Dark matter",
+        "Dark energy",
+        "Baryonic matter",
+        "Hydrogen"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states that the total size of the universe is not known.",
-        "Incorrect. 93 billion light-years is the diameter of the observable universe, not the total size of the universe.",
-        "Incorrect. 13.8 billion light-years is related to the age of the universe times the speed of light, not the total size.",
-        "Incorrect. 46 billion light-years is the proper distance to the edge of the observable universe, not the total size."
+        "Correct. The article says, 'This unseen matter is known as dark matter.'",
+        "Incorrect. Dark energy is a form of energy, not matter, and is described separately.",
+        "Incorrect. Baryonic matter is ordinary matter, which is visible.",
+        "Incorrect. Hydrogen is a visible gas, not unseen matter."
       ]
     }
   ]

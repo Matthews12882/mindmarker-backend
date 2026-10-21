@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following best describes the primary contribution of Newton's *Principia* to physics?",
+      "question": "Why is Newton's work considered 'the most influential in bringing forth modern science'?",
       "options": [
-        "It unified terrestrial and celestial mechanics under universal gravitation and the laws of motion.",
-        "It introduced the first theory of electromagnetic waves.",
-        "It disproved the heliocentric model of the solar system.",
-        "It established the periodic table of elements."
+        "Because he unified terrestrial and celestial mechanics, developed calculus, and refined the scientific method, providing a comprehensive framework for modern physics.",
+        "Because he was the first to propose that the Earth orbits the Sun, overturning ancient cosmology.",
+        "Because he invented the telescope, which allowed later scientists to observe the heavens more clearly.",
+        "Because he discovered the theory of relativity, which replaced all earlier physical theories."
       ],
       "answer_explanations": [
-        "Correct. The *Principia* achieved the first great unification in physics by establishing classical mechanics, universal gravitation, and the laws of motion, linking Earth and celestial phenomena.",
-        "Incorrect. Electromagnetic wave theory was not developed in the *Principia*.",
-        "Incorrect. The *Principia* reinforced heliocentricity, not disproved it.",
-        "Incorrect. The periodic table was not part of Newton's work."
+        "Correct. The article states that Newton's work 'is considered the most influential in bringing forth modern science' because he achieved 'the first great unification in physics' with the Principia, developed calculus, and refined the scientific method.",
+        "Incorrect. The article credits Newton with eradicating doubt about heliocentricity, but he did not propose it; the heliocentric model predates him.",
+        "Incorrect. Newton built the first reflecting telescope, but this alone does not explain his overarching influence on modern science.",
+        "Incorrect. The theory of relativity was developed by Einstein, not Newton, and it superseded Newtonian mechanics rather than being his contribution."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following statements about Newton's religious views is supported by the article?",
+      "question": "Why did Newton's laws remain dominant for centuries despite being superseded by relativity?",
       "options": [
-        "He was a devout but unorthodox Christian who privately rejected the doctrine of the Trinity.",
-        "He became an atheist after studying alchemy.",
-        "He was a strict Anglican who took holy orders.",
-        "He converted to Catholicism later in life."
+        "Because they are sufficient approximations for everyday speeds and weak gravitational fields, making them practically accurate in most common situations.",
+        "Because they are mathematically simpler and easier for students to learn than relativity.",
+        "Because they were the first laws of motion ever formulated, and later theories built directly on them.",
+        "Because they were proven to be exactly correct in all physical phenomena, and relativity was later discredited."
       ],
       "answer_explanations": [
-        "Correct. The article states Newton was a devout but unorthodox Christian who privately rejected the Trinity and refused holy orders.",
-        "Incorrect. The article does not mention Newton becoming an atheist.",
-        "Incorrect. He refused holy orders and held unorthodox views.",
-        "Incorrect. No conversion to Catholicism is described."
+        "Correct. The article states that Newton's laws 'still serve as sufficient approximations for all physical phenomena involving low speeds (much less than the speed of light) and weak gravitational fields', which explains their continued practical use.",
+        "Incorrect. The article does not mention mathematical simplicity as a reason for their continued dominance; it emphasizes their accuracy as approximations.",
+        "Incorrect. While Newton's laws were foundational, the article explains their continued use due to their validity in certain conditions, not merely historical precedence.",
+        "Incorrect. The article clearly states that Newton's laws were superseded by relativity, not that relativity was discredited."
       ]
     },
     {
       "id": 3,
-      "question": "What was one of Newton's early inventions or devices that contributed to scientific instrumentation?",
+      "question": "What does Newton's derivation of Kepler's laws and explanation of tides and comets imply about his theory of gravity?",
       "options": [
-        "The first reflecting telescope.",
-        "The first steam engine.",
-        "The first radio transmitter.",
-        "The first electric light bulb."
+        "It implies that gravity is a universal force that governs both terrestrial and celestial phenomena, unifying them under one principle.",
+        "It implies that gravity only affects objects on Earth and not those in the heavens.",
+        "It implies that Kepler's laws were incorrect and needed to be replaced by Newton's own laws.",
+        "It implies that gravity is a purely mathematical concept with no physical basis."
       ],
       "answer_explanations": [
-        "Correct. The article notes Newton built the first reflecting telescope and developed a sophisticated theory of colour using prisms.",
-        "Incorrect. The steam engine was not invented by Newton.",
-        "Incorrect. Radio transmission came much later.",
-        "Incorrect. The light bulb was not Newton's invention."
+        "Correct. The article says Newton used his 'mathematical description of gravity to derive Kepler's laws of planetary motion, account for tides, the trajectories of comets, the precession of the equinoxes', demonstrating that the same principles govern Earth and celestial bodies.",
+        "Incorrect. The article explicitly states that Newton demonstrated that motion of objects on Earth and celestial bodies could be accounted for by the same principles, not that gravity is limited to Earth.",
+        "Incorrect. Newton derived Kepler's laws from his own theory, which validated them rather than replacing them.",
+        "Incorrect. The article presents gravity as a physical force that explains real phenomena, not a mere mathematical abstraction."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following best describes Newton's contribution to the scientific method?",
+      "question": "Why did Newton's inference that the Earth is an oblate spheroid convince many European scientists of the superiority of Newtonian mechanics?",
       "options": [
-        "He contributed to and refined the scientific method, making it more systematic and empirical.",
-        "He rejected experimentation in favor of pure reasoning.",
-        "He invented the concept of the scientific journal.",
-        "He opposed the use of mathematics in natural philosophy."
+        "Because it was a prediction that was later confirmed by geodetic measurements, demonstrating the predictive power of his theory.",
+        "Because it was the first time anyone had suggested the Earth was not a perfect sphere.",
+        "Because it was based on direct observation of the Earth's shape from space.",
+        "Because it contradicted the earlier systems, and scientists preferred any new idea."
       ],
       "answer_explanations": [
-        "Correct. The article says Newton contributed to and refined the scientific method, and his work is considered most influential in bringing forth modern science.",
-        "Incorrect. Newton emphasized empirical observation and experimentation.",
-        "Incorrect. Scientific journals existed before Newton.",
-        "Incorrect. Newton strongly used mathematics in natural philosophy."
+        "Correct. The article states that Newton's inference 'was subsequently confirmed by the geodetic measurements of Pierre Louis Maupertuis, Alexis Clairaut, Charles Marie de La Condamine, and others, convincing most European scientists of the superiority of Newtonian mechanics'.",
+        "Incorrect. The article does not claim this was the first suggestion; it emphasizes the confirmation of his prediction.",
+        "Incorrect. The confirmation came from ground-based geodetic measurements, not observations from space.",
+        "Incorrect. The article implies that the confirmation, not mere novelty, convinced scientists."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following best describes the significance of Newton's work on the age of the Earth?",
+      "question": "How did Newton's work on light and prisms contribute to later technology?",
       "options": [
-        "He was the first to calculate the age of the Earth by experiment.",
-        "He proved the Earth was less than 1,000 years old.",
-        "He discovered the Earth was flat.",
-        "He argued the Earth was infinitely old."
+        "His prism arrays became integral to the development of tunable lasers, showing how his optical research had practical applications centuries later.",
+        "His theory of colour was immediately used to build the first colour television.",
+        "His reflecting telescope was the only invention that used prisms, and it had no further applications.",
+        "His work on light was purely theoretical and had no impact on technology."
       ],
       "answer_explanations": [
-        "Correct. The article states Newton was the first to calculate the age of the Earth by experiment.",
-        "Incorrect. No such claim is made.",
-        "Incorrect. The Earthâs shape was described as an oblate spheroid.",
-        "Incorrect. No claim about infinite age."
+        "Correct. The article states that Newton 'originated prisms as beam expanders and multiple-prism arrays, which would later become integral to the development of tunable lasers'.",
+        "Incorrect. The article does not mention colour television, and the application to lasers came much later.",
+        "Incorrect. The article mentions multiple-prism arrays as a separate contribution, not limited to the telescope.",
+        "Incorrect. The article explicitly links his prism work to later laser technology, showing practical impact."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following best describes Newton's role at the Royal Mint?",
+      "question": "What does Newton's refusal to take holy orders, despite being a fellow, reveal about the relationship between science and religion in his time?",
       "options": [
-        "He served as Warden and later Master, increasing the accuracy and security of British coinage.",
-        "He was the founder of the Royal Mint.",
-        "He abolished British coinage.",
-        "He introduced paper money."
+        "It shows that religious orthodoxy could conflict with scientific careers, and that exceptions could be made for eminent scholars.",
+        "It shows that all scientists were required to be atheists and reject religion entirely.",
+        "It shows that the Church of England had no influence over university appointments.",
+        "It shows that Newton was an orthodox Christian who fully accepted the Trinity doctrine."
       ],
       "answer_explanations": [
-        "Correct. The article notes Newton served as Warden (1696â1699) and Master (1699â1727) of the Royal Mint, improving coinage accuracy and security.",
-        "Incorrect. The Royal Mint existed before Newton.",
-        "Incorrect. He did not abolish coinage.",
-        "Incorrect. Paper money was not introduced by Newton."
+        "Correct. The article explains that fellows were required to take holy orders, but Newton's 'unconventional views' stood in the way, and he was exempted by royal permission, indicating a conflict and an exception.",
+        "Incorrect. Newton was a devout Christian, though unorthodox; the article does not suggest atheism was required.",
+        "Incorrect. The requirement for holy orders shows the Church's influence, and Newton needed a special exemption.",
+        "Incorrect. The article states Newton 'privately rejected the doctrine of the Trinity', so he was not orthodox."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following best describes Newton's contribution to optics?",
+      "question": "Why did Newton's mother's remarriage have a lasting negative impact on him?",
       "options": [
-        "He developed a sophisticated theory of colour based on prisms separating white light into the visible spectrum.",
-        "He discovered that light is composed of particles only.",
-        "He invented the first microscope.",
-        "He proved that colour is a psychological illusion."
+        "Because he was left with his grandmother and felt abandoned, leading to resentment that he expressed in a confession of sins.",
+        "Because his stepfather was a farmer and forced him to work in the fields, which he hated.",
+        "Because his mother took him out of school, preventing him from receiving any education.",
+        "Because his stepfather was abusive and Newton ran away from home."
       ],
       "answer_explanations": [
-        "Correct. The article says Newton developed a sophisticated theory of colour based on prisms separating white light into the visible spectrum.",
-        "Incorrect. While Newton posited particle theory, the article focuses on colour theory via prisms.",
-        "Incorrect. The microscope predates Newton.",
-        "Incorrect. Newton described colour as physical, not purely psychological."
+        "Correct. The article says Newton's mother remarried and left him with his grandmother, and he later confessed to 'Threatening my father and mother Smith to burn them and the house over them', showing his enmity.",
+        "Incorrect. Newton hated farming, but it was his mother, not his stepfather, who later tried to make him a farmer.",
+        "Incorrect. Newton did attend school, and his mother later sent him back after persuasion.",
+        "Incorrect. The article does not mention abuse or running away; it focuses on his resentment."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following best describes Newton's contribution to mathematics?",
+      "question": "How did Newton's experience at The King's School shape his later academic success?",
       "options": [
-        "He generalised the binomial theorem to any real number and introduced the Puiseux series.",
-        "He invented the concept of zero.",
-        "He discovered non-Euclidean geometry.",
-        "He created the decimal system."
+        "It provided a foundation in Latin and Greek, and a desire to excel after being bullied, which motivated him to become the top student.",
+        "It taught him calculus and physics, which he later developed further at Cambridge.",
+        "It was where he built his first reflecting telescope, sparking his interest in optics.",
+        "It was a negative experience that made him hate learning, but he succeeded despite it."
       ],
       "answer_explanations": [
-        "Correct. The article lists many mathematical contributions, including generalising the binomial theorem and introducing Puiseux series.",
-        "Incorrect. Zero existed earlier.",
-        "Incorrect. Non-Euclidean geometry came later.",
-        "Incorrect. Decimal system predates Newton."
+        "Correct. The article says the school taught Latin and Ancient Greek and 'probably imparted a significant foundation of mathematics', and that after being bullied, he 'became the top-ranked student'.",
+        "Incorrect. Calculus and physics were developed later, not taught at King's School.",
+        "Incorrect. The article mentions he built sundials and windmill models at school, not a telescope.",
+        "Incorrect. The article does not say he hated learning; it says he hated farming, and the bullying motivated him to excel."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following best describes Newton's role in the Royal Society?",
+      "question": "What does Newton's period at Woolsthorpe during the plague suggest about the conditions for scientific breakthroughs?",
       "options": [
-        "He was president from 1703 to 1727.",
-        "He founded the Royal Society.",
-        "He was a secretary for life.",
-        "He was a member but never held office."
+        "That isolation and uninterrupted time for private study can be extremely productive, as Newton developed major theories during those two years.",
+        "That scientific progress requires access to a university library and collaboration with other scholars.",
+        "That the plague had no effect on Newton's work, and he continued his studies as usual at Cambridge.",
+        "That Newton was forced to abandon science during the plague and only resumed after returning to Cambridge."
       ],
       "answer_explanations": [
-        "Correct. The article states Newton was president of the Royal Society from 1703 to 1727.",
-        "Incorrect. The Royal Society was founded earlier.",
-        "Incorrect. He was not secretary for life.",
-        "Incorrect. He held the office of president."
+        "Correct. The article describes the two years after Cambridge closed as 'the richest and most productive ever experienced by a scientist', with Newton developing theories on calculus, optics, and gravitation at home.",
+        "Incorrect. Newton was away from the university, yet he was highly productive, suggesting isolation was beneficial.",
+        "Incorrect. The university closed, and Newton worked at home, not at Cambridge.",
+        "Incorrect. The article says he developed major theories during that time, not that he abandoned science."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following best describes Newton's contribution to the understanding of Earth's shape?",
+      "question": "Why is Newton described as a 'Janusian thinker'?",
       "options": [
-        "He inferred that the Earth is an oblate spheroid, later confirmed by geodetic measurements.",
-        "He claimed the Earth was a perfect sphere.",
-        "He argued the Earth was flat.",
-        "He proposed the Earth was a cube."
+        "Because he could combine seemingly disparate fields to stimulate creative breakthroughs, as shown by his wide-ranging interests.",
+        "Because he had two personalities, one scientific and one religious, that were in constant conflict.",
+        "Because he was born on the cusp of two centuries, the Scientific Revolution and the Enlightenment.",
+        "Because he was ambidextrous and could write with both hands simultaneously."
       ],
       "answer_explanations": [
-        "Correct. The article says Newton's inference that the Earth is an oblate spheroid was subsequently confirmed by geodetic measurements.",
-        "Incorrect. He did not claim a perfect sphere.",
-        "Incorrect. No flat Earth claim.",
-        "Incorrect. No cube claim."
+        "Correct. The article quotes that Newton was a 'Janusian thinker, someone who could mix and combine seemingly disparate fields to stimulate creative breakthroughs', and his books showed wide-ranging interests.",
+        "Incorrect. The term refers to combining fields, not to a split personality or conflict.",
+        "Incorrect. The article does not link the term to his birth date or historical periods.",
+        "Incorrect. The article does not mention ambidexterity; it refers to intellectual combination."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the definition of an acquired disease according to the article?",
+      "question": "What is a disease?",
       "options": [
-        "A disease that began at some point during one's lifetime, as opposed to being present at birth",
-        "A disease caught via contagion from another person",
-        "A disease that is always secondary to another primary disease",
-        "A disease present at birth due to genetic factors"
+        "A particular abnormal condition that adversely affects the structure or function of all or part of an organism and is not immediately due to any external injury",
+        "An injury caused by an external force",
+        "A normal variation in human structure or function",
+        "A condition that always leads to death"
       ],
       "answer_explanations": [
-        "Correct. The article states that an acquired disease is one that began at some point during one's lifetime, as opposed to disease that was already present at birth, which is congenital disease.",
-        "Incorrect. The article explicitly notes that 'acquired' does not mean 'caught via contagion'; it simply means acquired sometime after birth.",
-        "Incorrect. The article clarifies that acquired disease can be primary disease and does not necessarily imply secondary disease.",
-        "Incorrect. A disease present at birth is described as a congenital disorder or congenital disease, not an acquired disease."
+        "Correct. The article states, 'A disease is a particular abnormal condition that adversely affects the structure or function of all or part of an organism and is not immediately due to any external injury.'",
+        "Incorrect. The article explicitly says a disease is 'not immediately due to any external injury.'",
+        "Incorrect. A disease is an abnormal condition, not a normal variation.",
+        "Incorrect. The article does not say all diseases lead to death; it says some can cause death, but many do not."
       ]
     },
     {
       "id": 2,
-      "question": "How does the article distinguish illness from disease?",
+      "question": "Which of the following is a type of disease mentioned in the article?",
       "options": [
-        "Illness refers specifically to the patient's personal, subjective experience of their disease",
-        "Illness is always caused by infectious organisms, while disease is not",
-        "Illness is a broader term that includes injuries and disabilities, unlike disease",
-        "Illness and disease are completely synonymous with no distinction"
+        "Infectious diseases",
+        "External injuries",
+        "Normal variations",
+        "Deviant behaviors"
       ],
       "answer_explanations": [
-        "Correct. The article states that the term illness is occasionally used to refer specifically to the patient's personal, subjective experience of their disease.",
-        "Incorrect. The article does not state that illness is always caused by infectious organisms.",
-        "Incorrect. The broader inclusion of injuries and disabilities is mentioned in the context of the broad human use of disease, not illness.",
-        "Incorrect. The article explicitly distinguishes illness from disease, noting it is possible to have a disease without being ill and to be ill without being diseased."
+        "Correct. The article lists 'four main types of disease: infectious diseases, deficiency diseases, hereditary diseases, and physiological diseases.'",
+        "Incorrect. Injuries are not listed as a main type of disease; they are considered external causes.",
+        "Incorrect. Atypical variations are sometimes included in a broader sense of disease, but they are not listed as a main type.",
+        "Incorrect. Deviant behaviors are sometimes included in a broader sense, but they are not listed as a main type of disease."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say about asymptomatic infections during the incubation period?",
+      "question": "According to the article, what is the deadliest disease in humans?",
       "options": [
-        "They are usually considered a disease if expected to produce symptoms later",
-        "They are never considered a disease because they cause no impairment",
-        "They are classified as congenital diseases",
-        "They are considered secondary diseases"
+        "Ischemic heart disease",
+        "Stroke",
+        "COPD",
+        "Depression"
       ],
       "answer_explanations": [
-        "Correct. The article states that an infection that is asymptomatic during its incubation period, but expected to produce symptoms later, is usually considered a disease.",
-        "Incorrect. The article distinguishes between infections that do not and will not produce impairment (not diseases) and asymptomatic infections during incubation that are expected to produce symptoms later (usually considered diseases).",
-        "Incorrect. The article does not classify asymptomatic infections during incubation as congenital diseases.",
-        "Incorrect. The article does not categorize these infections as secondary diseases."
+        "Correct. The article states, 'The deadliest diseases in humans are ischemic heart disease (blood flow obstruction), followed by stroke and COPD.'",
+        "Incorrect. Stroke is listed as the second deadliest, not the first.",
+        "Incorrect. COPD is listed as the third deadliest, not the first.",
+        "Incorrect. Depression is mentioned as a neuropsychiatric condition causing sickness, but it is not listed as the deadliest disease."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following best describes an idiopathic disease?",
+      "question": "What is the study of disease called?",
       "options": [
-        "A disease with an unknown cause or source",
-        "A disease caused by medical intervention",
-        "A disease that is expected to result in death",
-        "A disease that persists for at least six months"
+        "Pathology",
+        "Etiology",
+        "Epidemiology",
+        "Actuarial science"
       ],
       "answer_explanations": [
-        "Correct. The article defines an idiopathic disease as one that has an unknown cause or source.",
-        "Incorrect. A disease caused by medical intervention is defined as an iatrogenic disease.",
-        "Incorrect. A disease expected to have the inevitable result of death is defined as a terminal disease.",
-        "Incorrect. A disease that persists over time, often for at least six months, is defined as a chronic disease."
+        "Correct. The article states, 'Pathology, the study of disease, includes etiology, or the study of cause.'",
+        "Incorrect. Etiology is the study of cause, which is part of pathology, not the study of disease itself.",
+        "Incorrect. Epidemiology is mentioned in relation to morbidity rates, not as the study of disease.",
+        "Incorrect. Actuarial science is mentioned in relation to morbidity rates, not as the study of disease."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what is the relationship between a primary disease and a secondary disease?",
+      "question": "What is an acquired disease?",
       "options": [
-        "A secondary disease is a sequela or complication caused by a primary disease",
-        "A primary disease is always caused by a secondary disease",
-        "Primary and secondary diseases are synonymous terms",
-        "A secondary disease is the root cause of a primary disease"
+        "A disease that began at some point during one's lifetime",
+        "A disease that is present at birth",
+        "A disease caused by medical intervention",
+        "A disease with an unknown cause"
       ],
       "answer_explanations": [
-        "Correct. The article defines a secondary disease as a sequela or complication of a prior, causal disease referred to as the primary disease.",
-        "Incorrect. The article states the opposite: the primary disease is the root cause, and the secondary disease is the complication.",
-        "Incorrect. The article clearly distinguishes primary disease from secondary disease.",
-        "Incorrect. The article states that the primary disease is the underlying cause or root cause, not the secondary disease."
+        "Correct. The article states, 'An acquired disease is one that began at some point during one's lifetime, as opposed to disease that was already present at birth.'",
+        "Incorrect. A disease present at birth is a congenital disease, not an acquired disease.",
+        "Incorrect. A disease caused by medical intervention is an iatrogenic disease.",
+        "Incorrect. A disease with an unknown cause is an idiopathic disease."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article say about incurable diseases?",
+      "question": "What is a chronic disease?",
       "options": [
-        "They are not necessarily terminal diseases",
-        "They always result in death",
-        "They cannot have their symptoms treated",
-        "They are the same as terminal diseases"
+        "A disease that persists over time, often for at least six months",
+        "A disease that is short-term in nature",
+        "A disease that is present at birth",
+        "A disease that is caused by a genetic mutation"
       ],
       "answer_explanations": [
-        "Correct. The article states that incurable diseases are not necessarily terminal diseases.",
-        "Incorrect. The article explicitly says incurable diseases are not necessarily terminal diseases.",
-        "Incorrect. The article notes that sometimes a disease's symptoms can be treated sufficiently for the disease to have little or no impact on quality of life.",
-        "Incorrect. The article distinguishes incurable diseases from terminal diseases."
+        "Correct. The article states, 'A chronic disease is one that persists over time, often for at least six months, but may also include illnesses that are expected to last for the entirety of one's natural life.'",
+        "Incorrect. A short-term disease is an acute disease.",
+        "Incorrect. A disease present at birth is a congenital disease.",
+        "Incorrect. A genetic disease is caused by mutations, but it is not necessarily chronic."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the term disorder in mental health?",
+      "question": "What is an iatrogenic disease?",
       "options": [
-        "It is used to acknowledge the complex interaction of biological, social, and psychological factors",
-        "It is considered more stigmatizing than disease or illness",
-        "It is used only for physical disorders, never mental ones",
-        "It refers exclusively to infectious conditions"
+        "A disease caused by medical intervention",
+        "A disease with an unknown cause",
+        "A disease that is inherited",
+        "A disease that is terminal"
       ],
       "answer_explanations": [
-        "Correct. The article states that in mental health, the term mental disorder is used as a way of acknowledging the complex interaction of biological, social, and psychological factors in psychiatric conditions.",
-        "Incorrect. The article states that disorder is often considered more value-neutral and less stigmatizing than disease or illness.",
-        "Incorrect. The article explicitly discusses the use of mental disorder in mental health.",
-        "Incorrect. The article notes that disorder is used to identify physical disorders not caused by infectious organisms, among other uses."
+        "Correct. The article states, 'An iatrogenic disease or condition is one that is caused by medical intervention, whether as a side effect of a treatment or as an inadvertent outcome.'",
+        "Incorrect. A disease with an unknown cause is an idiopathic disease.",
+        "Incorrect. An inherited disease is a hereditary disease.",
+        "Incorrect. A terminal disease is one expected to result in death, which is not the definition of iatrogenic."
       ]
     },
     {
       "id": 8,
-      "question": "How does the article define comorbidity?",
+      "question": "What is a secondary disease?",
       "options": [
-        "The simultaneous presence of two or more medical conditions",
-        "The rate at which a disease spreads through a population",
-        "A disease that cannot be cured",
-        "A disease present at birth"
+        "A disease that is a sequela or complication of a prior, causal disease",
+        "A disease that is the root cause of illness",
+        "A disease that is present at birth",
+        "A disease that is caused by a pathogen"
       ],
       "answer_explanations": [
-        "Correct. The article defines comorbidity, or co-existing disease, as the simultaneous presence of two or more medical conditions.",
-        "Incorrect. The article discusses incidence and prevalence separately under morbidity in epidemiology, not as comorbidity.",
-        "Incorrect. A disease that cannot be cured is defined as an incurable disease.",
-        "Incorrect. A disease present at birth is defined as a congenital disorder or congenital disease."
+        "Correct. The article states, 'A secondary disease is a disease that is a sequela or complication of a prior, causal disease, which is referred to as the primary disease.'",
+        "Incorrect. A disease due to a root cause is a primary disease.",
+        "Incorrect. A disease present at birth is a congenital disease.",
+        "Incorrect. A disease caused by a pathogen is an infectious disease, not necessarily a secondary disease."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what are the four main types of disease?",
+      "question": "What is the difference between illness and disease, according to the article?",
       "options": [
-        "Infectious diseases, deficiency diseases, hereditary diseases, and physiological diseases",
-        "Infectious diseases, chronic diseases, acute diseases, and genetic diseases",
-        "Primary diseases, secondary diseases, iatrogenic diseases, and idiopathic diseases",
-        "Communicable diseases, non-communicable diseases, terminal diseases, and incurable diseases"
+        "Illness refers to the patient's personal, subjective experience, while disease is an objective condition",
+        "Illness is always caused by infection, while disease is not",
+        "Illness is a type of disease that is always terminal",
+        "There is no difference; they are always used interchangeably"
       ],
       "answer_explanations": [
-        "Correct. The article states there are four main types of disease: infectious diseases, deficiency diseases, hereditary diseases, and physiological diseases.",
-        "Incorrect. Chronic and acute diseases are described under terminology concepts, not as the four main types.",
-        "Incorrect. Primary, secondary, iatrogenic, and idiopathic are disease classifications under terminology, not the four main types.",
-        "Incorrect. Communicable versus non-communicable is mentioned as another way to classify diseases, not as the four main types."
+        "Correct. The article states, 'the term illness is occasionally used to refer specifically to the patient's personal, subjective experience of their disease.'",
+        "Incorrect. The article says symptoms of illness are often not directly the result of infection, but evolved responses.",
+        "Incorrect. Illness is not necessarily terminal.",
+        "Incorrect. While they are often used interchangeably, the article notes a specific difference in some contexts."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about death due to disease?",
+      "question": "What is a medical condition, according to the article?",
       "options": [
-        "It is called death by natural causes",
-        "It is always considered an unnatural death",
-        "It is referred to as mortality from external injury",
-        "It is classified as iatrogenic death"
+        "A broad concept that includes all diseases, lesions, disorders, or non-pathological conditions that normally receive medical treatment",
+        "A specific type of mental illness",
+        "A condition that is always caused by an infectious organism",
+        "A condition that is always terminal"
       ],
       "answer_explanations": [
-        "Correct. The article states that death due to disease is called death by natural causes.",
-        "Incorrect. The article explicitly calls death due to disease death by natural causes, not unnatural death.",
-        "Incorrect. The article defines disease as not immediately due to external injury, so death from disease is not mortality from external injury.",
-        "Incorrect. Iatrogenic disease refers to disease caused by medical intervention, not death due to disease generally."
+        "Correct. The article states, 'A medical condition or health condition is a broad concept that includes all diseases, lesions, disorders, or non-pathological condition that normally receives medical treatment, such as pregnancy or childbirth.'",
+        "Incorrect. While it generally includes mental illnesses, it is broader than just mental illness.",
+        "Incorrect. It includes non-infectious conditions as well.",
+        "Incorrect. It includes non-pathological conditions like pregnancy, which are not terminal."
       ]
     }
   ]

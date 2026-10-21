@@ -9,14 +9,14 @@
       "options": [
         "Liu Bang",
         "Wang Mang",
-        "Xiang Yu",
-        "Emperor Wu"
+        "Emperor Wu",
+        "Cao Pi"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Han dynasty was established by Liu Bang.",
+        "Correct. The article states that the Han dynasty was 'established by Liu Bang'.",
         "Incorrect. Wang Mang established the Xin dynasty, not the Han dynasty.",
-        "Incorrect. Xiang Yu was a hegemon who appointed Liu Bang as prince of Hanzhong, but did not establish the Han dynasty.",
-        "Incorrect. Emperor Wu was a later Han emperor who reigned from 141â87 BC, not the founder of the dynasty."
+        "Incorrect. Emperor Wu was a Han emperor, but he did not establish the dynasty.",
+        "Incorrect. Cao Pi usurped the throne at the end of the Han dynasty, but he did not establish it."
       ]
     },
     {
@@ -29,138 +29,138 @@
         "Zhou dynasty"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Han dynasty was preceded by the short-lived Qin dynasty (221â206 BC).",
-        "Incorrect. The Xin dynasty interrupted the Han dynasty between the Western and Eastern Han periods; it did not precede the Han.",
-        "Incorrect. The Tang dynasty came much later (618â907 AD) and is mentioned only as the dynasty until which Han coinage remained standard.",
-        "Incorrect. The Zhou dynasty (c. 1050â256 BC) is mentioned as when the money economy was first established, not as the dynasty immediately preceding the Han."
+        "Correct. The article says the Han dynasty was 'preceded by the short-lived Qin dynasty'.",
+        "Incorrect. The Xin dynasty interrupted the Han dynasty, it did not precede it.",
+        "Incorrect. The Tang dynasty came after the Han dynasty, not before.",
+        "Incorrect. The Zhou dynasty is mentioned as an earlier period but not as the immediate predecessor."
       ]
     },
     {
       "id": 3,
-      "question": "What year did the Han dynasty come to an end?",
+      "question": "What are the two periods of the Han dynasty?",
       "options": [
-        "220 AD",
-        "9 AD",
-        "202 BC",
-        "280 AD"
+        "Western Han and Eastern Han",
+        "Northern Han and Southern Han",
+        "Early Han and Late Han",
+        "Old Han and New Han"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Han dynasty came to an end in 220 AD when Cao Pi usurped the throne from Emperor Xian.",
-        "Incorrect. 9 AD marks the end of the Western Han and the beginning of the Xin dynasty interruption, not the end of the entire Han dynasty.",
-        "Incorrect. 202 BC marks the beginning of the Han dynasty under Liu Bang (Emperor Gaozu).",
-        "Incorrect. 280 AD marks the end of the Three Kingdoms period, which succeeded the Han dynasty."
+        "Correct. The article states the Han dynasty is 'separated into two periodsâthe Western Han and the Eastern Han'.",
+        "Incorrect. These are not the names of the two periods mentioned in the article.",
+        "Incorrect. These are not the names of the two periods mentioned in the article.",
+        "Incorrect. These are not the names of the two periods mentioned in the article."
       ]
     },
     {
       "id": 4,
-      "question": "What are the two periods into which the Han dynasty is separated?",
+      "question": "What do the majority ethnic group of modern China refer to themselves as?",
       "options": [
-        "Western Han and Eastern Han",
-        "Former Han and Later Han",
-        "Qin and Xin",
-        "Northern and Southern Han"
+        "Han people",
+        "Tang people",
+        "Qin people",
+        "Ming people"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Han dynasty is separated into two periodsâthe Western Han (202 BC â 9 AD) and the Eastern Han (25â220 AD).",
-        "Incorrect. 'Former Han' is another name for the Western Han, and 'Later Han' is not used in the article as a paired period name with it.",
-        "Incorrect. Qin and Xin are separate dynasties that preceded and interrupted the Han, respectively.",
-        "Incorrect. The article does not divide the Han dynasty into Northern and Southern Han periods."
+        "Correct. The article says the majority ethnic group 'refer to themselves as the Han people'.",
+        "Incorrect. The article does not mention 'Tang people'.",
+        "Incorrect. The article does not mention 'Qin people'.",
+        "Incorrect. The article does not mention 'Ming people'."
       ]
     },
     {
       "id": 5,
-      "question": "Which philosophy did the Chinese court officially sponsor from the reign of Emperor Wu onward?",
+      "question": "What is the Han dynasty considered to be in Chinese history?",
       "options": [
-        "Confucianism",
-        "Taoism",
-        "Legalism",
-        "Buddhism"
+        "A golden age",
+        "A dark age",
+        "A period of decline",
+        "A time of chaos"
       ],
       "answer_explanations": [
-        "Correct. The article states that from the reign of Emperor Wu onward, the Chinese court officially sponsored Confucianism in education and court politics.",
-        "Incorrect. Taoist religious societies are mentioned later as challenging imperial authority, but they were not officially sponsored from Emperor Wu's reign.",
-        "Incorrect. Legalism is not mentioned in the article as being sponsored by the Han court.",
-        "Incorrect. Buddhism is not mentioned in the article."
+        "Correct. The article states the Han dynasty is 'considered a golden age in Chinese history'.",
+        "Incorrect. The article does not describe it as a dark age.",
+        "Incorrect. The article does not describe it as a period of decline.",
+        "Incorrect. The article does not describe it as a time of chaos."
       ]
     },
     {
       "id": 6,
-      "question": "In what year did the Han government nationalize private salt and iron industries?",
+      "question": "Who was at the pinnacle of Han society and culture?",
       "options": [
-        "117 BC",
-        "119 BC",
-        "133 BC",
-        "202 BC"
+        "The Han emperor",
+        "The nobility",
+        "The ministers",
+        "The gentry class"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Han government nationalized private salt and iron industries in 117 BC.",
-        "Incorrect. 119 BC is when the coinage minted by the central government remained the standard, not when salt and iron were nationalized.",
-        "Incorrect. 133 BC is when Emperor Wu began a series of military campaigns against the Xiongnu.",
-        "Incorrect. 202 BC is the founding year of the Han dynasty."
+        "Correct. The article says 'The Han emperor was at the pinnacle of Han society and culture'.",
+        "Incorrect. The nobility shared power but were not at the pinnacle.",
+        "Incorrect. Ministers were appointed but not at the pinnacle.",
+        "Incorrect. The gentry class was a source of ministers, but not at the pinnacle."
       ]
     },
     {
       "id": 7,
-      "question": "Which invention is listed among the significant advances in science and technology during the Han period?",
+      "question": "What did the Han government nationalize in 117 BC?",
       "options": [
-        "Papermaking",
-        "Printing press",
-        "Gunpowder",
-        "Compass"
+        "Private salt and iron industries",
+        "Silk production",
+        "Paper mills",
+        "Agricultural lands"
       ],
       "answer_explanations": [
-        "Correct. The article lists the invention of papermaking among the significant advances in science and technology during the Han period.",
-        "Incorrect. The printing press is not mentioned in the article.",
-        "Incorrect. Gunpowder is not mentioned in the article.",
-        "Incorrect. The compass is not mentioned in the article."
+        "Correct. The article states the Han government 'nationalized private salt and iron industries in 117 BC'.",
+        "Incorrect. Silk production is not mentioned as being nationalized.",
+        "Incorrect. Papermaking was invented, but not nationalized.",
+        "Incorrect. Agricultural lands are not mentioned as being nationalized."
       ]
     },
     {
       "id": 8,
-      "question": "Which nomadic confederation did the Han dynasty have many conflicts with?",
+      "question": "Which of the following was invented during the Han period?",
       "options": [
-        "Xiongnu",
-        "Xianbei",
-        "Yuezhi",
-        "Xiongnu and Xianbei"
+        "Papermaking",
+        "Gunpowder",
+        "Compass",
+        "Printing"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Han dynasty had many conflicts with the Xiongnu, a nomadic confederation centered in the eastern Eurasian steppe.",
-        "Incorrect. The Xianbei are mentioned as later overrunning lands north of the Han's borders, not as the group with which the Han had many conflicts.",
-        "Incorrect. The Yuezhi are not mentioned in the article.",
-        "Incorrect. While both groups are mentioned, the article specifically says the Han had many conflicts with the Xiongnu."
+        "Correct. The article lists 'the invention of papermaking' among Han advances.",
+        "Incorrect. Gunpowder is not mentioned in the article.",
+        "Incorrect. The compass is not mentioned in the article.",
+        "Incorrect. Printing is not mentioned in the article."
       ]
     },
     {
       "id": 9,
-      "question": "Which city was chosen as the new capital of the reunified empire under Han?",
+      "question": "What did the Han court officially sponsor from the reign of Emperor Wu onward?",
       "options": [
-        "Chang'an",
-        "Luoyang",
-        "Nanjing",
-        "Beijing"
+        "Confucianism",
+        "Taoism",
+        "Buddhism",
+        "Legalism"
       ],
       "answer_explanations": [
-        "Correct. The article states that Chang'an (modern Xi'an) was chosen as the new capital of the reunified empire under Han.",
-        "Incorrect. Luoyang is not mentioned in the article as the Han capital.",
-        "Incorrect. Nanjing is not mentioned in the article.",
-        "Incorrect. Beijing is not mentioned in the article."
+        "Correct. The article says 'the Chinese court officially sponsored Confucianism' from Emperor Wu's reign.",
+        "Incorrect. Taoism is mentioned later in the article but not as officially sponsored by Emperor Wu.",
+        "Incorrect. Buddhism is not mentioned in the article.",
+        "Incorrect. Legalism is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "Who usurped the throne from Emperor Xian to end the Han dynasty?",
+      "question": "What was the standard coinage minted in 119 BC?",
       "options": [
-        "Cao Pi",
-        "Cao Cao",
-        "Wang Mang",
-        "Liu Bang"
+        "The coinage minted by the central government",
+        "The coinage from the Zhou dynasty",
+        "The coinage from the Qin dynasty",
+        "The coinage from the Tang dynasty"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Han dynasty came to an end in 220 AD when Cao Pi, king of Wei, usurped the throne from Emperor Xian.",
-        "Incorrect. Cao Cao is not mentioned in the article; his son Cao Pi is the one who usurped the throne.",
-        "Incorrect. Wang Mang established the Xin dynasty and interrupted the Han, but did not end it by usurping from Emperor Xian.",
-        "Incorrect. Liu Bang founded the Han dynasty; he did not end it."
+        "Correct. The article states 'The coinage minted by the central government in 119 BC remained the standard in China until the Tang dynasty'.",
+        "Incorrect. The Zhou dynasty coinage was earlier, not the standard from 119 BC.",
+        "Incorrect. The Qin dynasty coinage is not mentioned as the standard.",
+        "Incorrect. The Tang dynasty came later and used the Han coinage as standard."
       ]
     }
   ]

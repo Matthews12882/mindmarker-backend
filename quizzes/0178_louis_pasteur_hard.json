@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of Pasteur's contributions do some historians consider his \"most profound and most original contributions to science\" and his \"greatest scientific discovery\"?",
+      "question": "What does Pasteur's experiment with sterilized and sealed flasks versus open flasks imply about the origin of microorganisms?",
       "options": [
-        "His work on molecular asymmetry and molecular chirality",
-        "His development of the rabies vaccine",
-        "His experiments disproving spontaneous generation",
-        "His invention of pasteurization"
+        "Microorganisms do not arise spontaneously from nonliving matter.",
+        "Microorganisms can only grow in sealed environments.",
+        "Sterilization creates conditions that prevent all microbial growth.",
+        "Open flasks allow microorganisms to generate from the air's oxygen."
       ],
       "answer_explanations": [
-        "Correct. The article states that some historians consider Pasteur's work in the area of molecular asymmetry to be his \"most profound and most original contributions to science\" and his \"greatest scientific discovery.\"",
-        "Incorrect. While the rabies vaccine is mentioned as saving millions of lives, the article does not describe it as his greatest discovery.",
-        "Incorrect. The spontaneous generation experiments earned him the Alhumbert Prize but are not described as his greatest discovery.",
-        "Incorrect. Pasteurization is noted as the technique he is best known to the general public for, but not as his greatest scientific discovery."
+        "Correct. The article states that in sterilized and sealed flasks nothing developed, while in open flasks microorganisms could grow, demonstrating that life does not arise spontaneously from nonliving matter.",
+        "Incorrect. The article shows the opposite: open flasks allowed growth, sealed flasks did not.",
+        "Incorrect. The article does not claim sterilization prevents all growth; it shows that without external contamination, nothing develops.",
+        "Incorrect. The article attributes growth in open flasks to contamination from the environment, not to oxygen."
       ]
     },
     {
       "id": 2,
-      "question": "What did Pasteur conclude about the corpuscles found on silkworms with pÃ©brine after initially believing they were merely a symptom?",
+      "question": "How did Pasteur's work on fermentation challenge the prevailing theories of his time?",
       "options": [
-        "He concluded the corpuscles were the cause of pÃ©brine",
-        "He concluded the corpuscles were unrelated to the disease",
-        "He concluded the corpuscles were caused by poor hygiene",
-        "He concluded the corpuscles were a hereditary trait passed to offspring"
+        "He showed that fermentation was caused by living yeast, not by decomposition.",
+        "He proved that fermentation only occurs in the presence of oxygen.",
+        "He demonstrated that fermentation was a purely chemical process.",
+        "He argued that fermentation was caused by the breakdown of sugar into alcohol."
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1870, Pasteur concluded that the corpuscles were the cause of pÃ©brine, after initially thinking they were a symptom.",
-        "Incorrect. The article indicates Pasteur ultimately identified the corpuscles as the cause, not as unrelated.",
-        "Incorrect. Hygiene is discussed in relation to flacherie, not as the cause of the corpuscles on pÃ©brine-infected silkworms.",
-        "Incorrect. Pasteur showed the disease was hereditary, but he concluded the corpuscles themselves were the cause of pÃ©brine."
+        "Correct. The article states that Berzelius and Liebig had proposed fermentation was caused by decomposition, but Pasteur demonstrated that yeast was responsible for fermentation, thus challenging the decomposition theory.",
+        "Incorrect. Pasteur observed that fermentation occurred even in the absence of air, and the Pasteur effect refers to a lower rate in air.",
+        "Incorrect. Pasteur showed that living yeast, not a purely chemical process, was responsible.",
+        "Incorrect. This is a description of the process, not a challenge to prevailing theories."
       ]
     },
     {
       "id": 3,
-      "question": "What was the outcome of Pasteur's experiment on sterilized and sealed flasks under the auspices of the French Academy of Sciences?",
+      "question": "What is the significance of Pasteur's discovery of molecular chirality in tartrates?",
       "options": [
-        "Nothing ever developed in the sterilized and sealed flasks",
-        "Microorganisms grew in the sterilized and sealed flasks",
-        "The flasks developed mold only after being opened",
-        "The experiment proved spontaneous generation occurred in sealed environments"
+        "It was the first demonstration of molecular chirality and explained isomerism.",
+        "It proved that all tartaric acid is optically active.",
+        "It showed that crystals have small faces that determine their color.",
+        "It demonstrated that chemical synthesis always produces racemic mixtures."
       ],
       "answer_explanations": [
-        "Correct. The article states that in sterilized and sealed flasks, nothing ever developed, while microorganisms could grow in sterilized but open flasks.",
-        "Incorrect. Microorganisms grew in open flasks, not sealed ones.",
-        "Incorrect. The article does not mention mold developing only after opening; it contrasts sealed versus open flasks directly.",
-        "Incorrect. The experiment disproved spontaneous generation by showing no development in sealed flasks."
+        "Correct. The article states that Pasteur's work was the first time anyone had demonstrated molecular chirality and the first explanation of isomerism.",
+        "Incorrect. Pasteur distinguished between naturally derived tartaric acid (optically active) and synthetically derived (not), so not all tartaric acid is optically active.",
+        "Incorrect. The small faces were observed, but the significance is about molecular asymmetry, not color.",
+        "Incorrect. The article does not make that claim; it focuses on the optical activity difference."
       ]
     },
     {
       "id": 4,
-      "question": "What did Pasteur's 1857 memoir on lactic acid fermentation aim to establish?",
+      "question": "Why did Pasteur's method for preventing pÃ©brine in silkworms involve destroying eggs after examining the mother moths?",
       "options": [
-        "That a particular ferment, a lactic yeast, is always present when sugar becomes lactic acid",
-        "That fermentation is caused by chemical decomposition rather than living organisms",
-        "That lactic acid fermentation only occurs in the presence of oxygen",
-        "That lactic acid bacteria are killed by pasteurization"
+        "Because the corpuscles in the moths indicated the eggs would be infected, and destroying them prevented the spread.",
+        "Because the moths were useless after laying eggs and needed to be disposed of.",
+        "Because the eggs were always infected and had to be destroyed to save the moths.",
+        "Because the corpuscles were a symptom, not a cause, so the eggs were destroyed to prevent symptoms."
       ],
       "answer_explanations": [
-        "Correct. The article quotes Pasteur's memoir: he intended to establish that just as there is an alcoholic ferment, there is a particular ferment, a lactic yeast, always present when sugar becomes lactic acid.",
-        "Incorrect. Pasteur demonstrated that Berzelius and Liebig's decomposition theory was incorrect, not that it was correct.",
-        "Incorrect. The Pasteur effect described less sugar fermenting when yeast was exposed to air, but this was not the aim of the 1857 memoir.",
-        "Incorrect. Pasteurization came later and is not mentioned in connection with the 1857 memoir's aims."
+        "Correct. The article explains that if corpuscles were observed in the pulp of the moths, the eggs were destroyed, because the corpuscles indicated the disease was present and hereditary.",
+        "Incorrect. The moths were examined to detect the disease, not simply disposed of as useless.",
+        "Incorrect. The article does not state that all eggs were infected; only those from moths with corpuscles were destroyed.",
+        "Incorrect. Pasteur concluded the corpuscles were the cause, not a symptom, and destroying eggs prevented hereditary transmission."
       ]
     },
     {
       "id": 5,
-      "question": "What did Pasteur's system to prevent pÃ©brine in silkworms involve?",
+      "question": "How does Pasteur's invention of pasteurization relate to his germ theory of disease?",
       "options": [
-        "Turning female moths into pulp after egg-laying, examining the pulp under a microscope, and destroying eggs if corpuscles were observed",
-        "Heating silkworm eggs to between 60 and 100 Â°C to kill bacteria",
-        "Injecting silkworms with a weakened form of the pÃ©brine fungus",
-        "Separating infected silkworms from healthy ones and burning contaminated mulberry leaves"
+        "It applied the principle that killing germs can prevent spoilage and disease, supporting the germ theory.",
+        "It was a method to create germs for study, unrelated to disease prevention.",
+        "It proved that germs are harmless in food and beverages.",
+        "It was a way to preserve food without killing microorganisms."
       ],
       "answer_explanations": [
-        "Correct. The article describes Pasteur's system: after female moths laid eggs, the moths were turned into pulp, examined microscopically, and eggs were destroyed if corpuscles were observed.",
-        "Incorrect. Heating liquids to 60â100 Â°C describes pasteurization, not the pÃ©brine prevention system.",
-        "Incorrect. The article does not mention injecting silkworms with a weakened fungus; this resembles vaccination but is not described for pÃ©brine.",
-        "Incorrect. The article does not describe separating silkworms or burning mulberry leaves as part of the pÃ©brine prevention method."
+        "Correct. The article states that beverage contamination led Pasteur to the idea that microorganisms cause disease, and pasteurization kills bacteria and moulds, thus preventing spoilage and supporting the germ theory.",
+        "Incorrect. Pasteurization was invented to kill germs, not create them.",
+        "Incorrect. The article indicates that germs cause spoilage and disease, so they are not harmless.",
+        "Incorrect. Pasteurization involves heating to kill most bacteria and moulds, so it does kill microorganisms."
       ]
     },
     {
       "id": 6,
-      "question": "What was the significance of Pasteur's discovery regarding tartaric acid derived from living things versus chemically synthesized tartaric acid?",
+      "question": "What does the historical reassessment of Pasteur's notebooks suggest about his scientific reputation?",
       "options": [
-        "It demonstrated molecular chirality and provided the first explanation of isomerism",
-        "It proved that synthesized chemicals are always identical to natural ones",
-        "It showed that optical rotation is caused by impurities in chemical synthesis",
-        "It established that tartaric acid cannot be synthesized chemically"
+        "That he sometimes used deception to outperform his rivals, complicating his legacy.",
+        "That he was always honest and transparent in his experiments.",
+        "That his notebooks contained no evidence of his experiments.",
+        "That he had no rivals in his scientific work."
       ],
       "answer_explanations": [
-        "Correct. The article states that natural tartaric acid rotated polarized light while synthesized tartaric acid did not despite identical composition, leading Pasteur to demonstrate molecular chirality and the first explanation of isomerism.",
-        "Incorrect. The article highlights a difference between natural and synthesized tartaric acid, not identity.",
-        "Incorrect. The article attributes optical activity to the asymmetric internal arrangement of molecules and crystal shape, not impurities.",
-        "Incorrect. The article notes synthesized tartaric acid existed and had identical chemical reactions, so it could be synthesized."
+        "Correct. The article states that historical reassessment revealed he practiced deception to overcome his rivals, which associates his reputation with controversy.",
+        "Incorrect. The article explicitly mentions deception, contradicting this option.",
+        "Incorrect. The notebooks were reassessed and revealed deception, implying they contained records.",
+        "Incorrect. The article mentions rivals and his efforts to overcome them."
       ]
     },
     {
       "id": 7,
-      "question": "What did Pasteur's observation in 1861 about yeast exposed to air become known as?",
+      "question": "Why did Pasteur's authoritarian reforms at the Ãcole Normale SupÃ©rieure lead to student revolts?",
       "options": [
-        "The Pasteur effect",
-        "The germ theory of diseases",
-        "Molecular chirality",
-        "The Alhumbert Prize"
+        "Because his rigid decrees, such as forcing mutton stew and banning smoking, were seen as excessive and controlling.",
+        "Because he reduced the difficulty of examinations, making students complacent.",
+        "Because he allowed smoking, which angered non-smokers.",
+        "Because he abolished the school's prestige, leading to competition."
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1861, Pasteur observed less sugar fermented per part of yeast when exposed to air, and this lower rate of fermentation aerobically became known as the Pasteur effect.",
-        "Incorrect. The germ theory of diseases was supported by Pasteur's broader work but is not the name of the 1861 observation.",
-        "Incorrect. Molecular chirality came from his work on tartrates, not the 1861 yeast observation.",
-        "Incorrect. The Alhumbert Prize was awarded in 1862 for the spontaneous generation experiment."
+        "Correct. The article describes his decrees as rigid and authoritarian, including forcing mutton stew and threatening expulsion for smoking, which led to revolts.",
+        "Incorrect. He made examinations more rigid, not less.",
+        "Incorrect. He threatened to expel students for smoking, not allowed it.",
+        "Incorrect. His reforms increased prestige, but the authoritarian nature caused revolts."
       ]
     },
     {
       "id": 8,
-      "question": "How did Pasteur's research on beverage contamination contribute to clinical medicine?",
+      "question": "What does the fact that Pasteur's children died of typhoid imply about the context of his work?",
       "options": [
-        "It led Joseph Lister to develop antiseptic methods in surgery by proposing that microorganisms infecting animals and humans cause disease",
-        "It resulted in the immediate adoption of pasteurization in hospitals for sterilizing surgical instruments",
-        "It proved that diseases are caused by spontaneous generation within the human body",
-        "It established that vaccination is ineffective against bacterial infections"
+        "That infectious diseases were common and deadly, motivating his research on disease prevention.",
+        "That his work on vaccines was ineffective for his own family.",
+        "That typhoid was not a concern for scientists at the time.",
+        "That his children died because of his experiments."
       ],
       "answer_explanations": [
-        "Correct. The article states that beverage contamination led Pasteur to propose that microorganisms infecting animals and humans cause disease, and that preventing their entry into the human body led Joseph Lister to develop antiseptic methods in surgery.",
-        "Incorrect. Pasteurization was applied to beer and milk, not described as being immediately adopted for surgical instruments.",
-        "Incorrect. Pasteur disproved spontaneous generation; he did not prove diseases arise from it.",
-        "Incorrect. The article credits Pasteur's vaccines with saving lives and does not state vaccination is ineffective against bacterial infections."
+        "Correct. The article notes that three of his five children died of typhoid, which illustrates the prevalence of infectious diseases and likely motivated his focus on preventing disease.",
+        "Incorrect. The article does not suggest his vaccines were ineffective; it notes the deaths as a personal tragedy.",
+        "Incorrect. Typhoid was a serious disease, and the article implies it was a common cause of death.",
+        "Incorrect. There is no indication his experiments caused their deaths."
       ]
     },
     {
       "id": 9,
-      "question": "What did Pasteur determine was responsible for twisting the plane of polarized light in tartrate solutions?",
+      "question": "How did Pasteur's work on silkworm diseases demonstrate the relationship between scientific research and practical agriculture?",
       "options": [
-        "An asymmetric internal arrangement of the molecules of the compound",
-        "The presence of impurities in the synthesized tartaric acid",
-        "The temperature at which the solution was measured",
-        "The concentration of tartaric acid in the solution"
+        "He identified the cause of pÃ©brine and developed a prevention method, saving the silkworm industry.",
+        "He showed that silkworm diseases were purely hereditary and could not be prevented.",
+        "He ignored the farmers' losses and focused only on theoretical chemistry.",
+        "He concluded that corpuscles were symptoms, leading to ineffective treatments."
       ],
       "answer_explanations": [
-        "Correct. The article states that Pasteur determined optical activity related to the shape of the crystals and that an asymmetric internal arrangement of the molecules was responsible for twisting the light.",
-        "Incorrect. The article emphasizes identical elemental composition and chemical reactions between natural and synthesized forms, not impurities as the cause.",
-        "Incorrect. Temperature is not mentioned as a factor in optical rotation in the article.",
-        "Incorrect. Concentration is not identified as the cause of twisting polarized light; molecular asymmetry is."
+        "Correct. The article states that Pasteur worked for five years to address the silkworm diseases and developed a system to prevent pÃ©brine, which helped farmers.",
+        "Incorrect. He developed a prevention method, so the diseases could be prevented.",
+        "Incorrect. He went to AlÃ¨s and worked on the problem, showing practical engagement.",
+        "Incorrect. He initially thought corpuscles were symptoms but later concluded they were the cause, leading to an effective method."
       ]
     },
     {
       "id": 10,
-      "question": "If a modern researcher wanted to apply Pasteur's pÃ©brine prevention method to a different silkworm disease caused by a detectable microorganism, which step would be essential according to the article?",
+      "question": "What does the article suggest about the relationship between Pasteur's early education and his later scientific achievements?",
       "options": [
-        "Examining the pulp of female moths under a microscope after egg-laying and destroying eggs if the microorganism is observed",
-        "Heating the silkworm eggs to between 60 and 100 Â°C before they hatch",
-        "Administering a rabies vaccine to the parent moths",
-        "Sealing the silkworms in flasks to prevent spontaneous generation"
+        "That his early struggles did not preclude later success, as he became a renowned scientist despite being an average student.",
+        "That his early academic excellence directly led to his discoveries.",
+        "That his lack of interest in science meant he never pursued research.",
+        "That his dyslexia prevented him from conducting experiments."
       ],
       "answer_explanations": [
-        "Correct. Pasteur's pÃ©brine system involved turning female moths into pulp after laying eggs, examining the pulp microscopically, and destroying eggs if corpuscles were observed; this logic transfers to any detectable microorganism.",
-        "Incorrect. Heating to 60â100 Â°C describes pasteurization of liquids, not the pÃ©brine egg-selection method.",
-        "Incorrect. The rabies vaccine is unrelated to silkworm disease prevention as described in the article.",
-        "Incorrect. Sealing flasks relates to disproving spontaneous generation, not to selecting disease-free silkworm eggs."
+        "Correct. The article describes him as an average student not particularly academic, yet he went on to make groundbreaking discoveries, showing early struggles did not limit his later achievements.",
+        "Incorrect. He was average, not excellent, in his early years.",
+        "Incorrect. He pursued science and became a professor and researcher.",
+        "Incorrect. His dyslexia is mentioned but not as a barrier to his experimental work."
       ]
     }
   ]

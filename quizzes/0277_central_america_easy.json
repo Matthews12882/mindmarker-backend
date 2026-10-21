@@ -5,6 +5,38 @@
   "questions": [
     {
       "id": 1,
+      "question": "What is Central America a subregion of?",
+      "options": [
+        "North America",
+        "South America",
+        "Europe",
+        "Asia"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Central America is a subregion of North America.",
+        "Incorrect. The article does not say Central America is a subregion of South America.",
+        "Incorrect. The article does not mention Europe in relation to Central America.",
+        "Incorrect. The article does not mention Asia in relation to Central America."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which country borders Central America to the north?",
+      "options": [
+        "Mexico",
+        "Colombia",
+        "Belize",
+        "Guatemala"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Central America is bordered by Mexico to the north.",
+        "Incorrect. Colombia is to the southeast, not the north.",
+        "Incorrect. Belize is part of Central America, not a bordering country to the north.",
+        "Incorrect. Guatemala is part of Central America, not a bordering country to the north."
+      ]
+    },
+    {
+      "id": 3,
       "question": "How many countries is Central America usually defined as consisting of?",
       "options": [
         "Seven",
@@ -13,154 +45,122 @@
         "Eight"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Central America is usually defined as consisting of seven countries: Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama.'",
-        "Incorrect. The article specifies seven countries, not five.",
-        "Incorrect. The article specifies seven countries, not six.",
-        "Incorrect. The article specifies seven countries, not eight."
-      ]
-    },
-    {
-      "id": 2,
-      "question": "Which ocean borders Central America to the southwest?",
-      "options": [
-        "Pacific Ocean",
-        "Atlantic Ocean",
-        "Caribbean Sea",
-        "Indian Ocean"
-      ],
-      "answer_explanations": [
-        "Correct. The article says: 'the Pacific Ocean to the southwest.'",
-        "Incorrect. The Atlantic Ocean is not mentioned as a border of Central America.",
-        "Incorrect. The Caribbean Sea borders Central America to the east, not the southwest.",
-        "Incorrect. The Indian Ocean does not border Central America."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Which country borders Central America to the north?",
-      "options": [
-        "Mexico",
-        "United States",
-        "Guatemala",
-        "Belize"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'bordering Mexico to the north.'",
-        "Incorrect. The United States does not directly border Central America.",
-        "Incorrect. Guatemala is part of Central America, not a northern border.",
-        "Incorrect. Belize is part of Central America, not a northern border."
+        "Correct. The article says Central America is usually defined as consisting of seven countries.",
+        "Incorrect. The article states seven, not five.",
+        "Incorrect. The article states seven, not six.",
+        "Incorrect. The article states seven, not eight."
       ]
     },
     {
       "id": 4,
-      "question": "What is the name of the biodiversity hotspot that extends from southern Mexico to southeastern Panama?",
+      "question": "Which of these is NOT listed as one of the seven countries of Central America?",
       "options": [
-        "Mesoamerican biodiversity hotspot",
-        "Amazon rainforest",
-        "Central American Volcanic Arc",
-        "Isthmo-Colombian Area"
+        "Mexico",
+        "Belize",
+        "Costa Rica",
+        "Panama"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: 'the Mesoamerican biodiversity hotspot, which extends from southern Mexico to southeastern Panama.'",
-        "Incorrect. The Amazon rainforest is not located in Central America.",
-        "Incorrect. The Central American Volcanic Arc is related to seismic activity, not a biodiversity hotspot.",
-        "Incorrect. The Isthmo-Colombian Area is a cultural area, not a biodiversity hotspot."
+        "Correct. The article lists Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama as the seven countries; Mexico is not included in the usual definition.",
+        "Incorrect. Belize is one of the seven countries listed.",
+        "Incorrect. Costa Rica is one of the seven countries listed.",
+        "Incorrect. Panama is one of the seven countries listed."
       ]
     },
     {
       "id": 5,
-      "question": "Which country became independent from Spain in 1841?",
+      "question": "The Mesoamerican biodiversity hotspot extends from southern Mexico to where?",
       "options": [
-        "El Salvador",
+        "Southeastern Panama",
+        "Northern Mexico",
         "Costa Rica",
-        "Guatemala",
-        "Honduras"
+        "Colombia"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'followed by El Salvador in 1841.'",
-        "Incorrect. Costa Rica became independent in 1838, not 1841.",
-        "Incorrect. Guatemala became independent in 1838, not 1841.",
-        "Incorrect. Honduras became independent in 1838, not 1841."
+        "Correct. The article states it extends from southern Mexico to southeastern Panama.",
+        "Incorrect. The article says southeastern Panama, not northern Mexico.",
+        "Incorrect. The article says it extends to southeastern Panama, not just Costa Rica.",
+        "Incorrect. The article says it extends to southeastern Panama, not Colombia."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following is NOT one of the seven countries usually considered part of Central America?",
+      "question": "What kind of activity is high in Central America due to active geologic faults and the volcanic arc?",
       "options": [
-        "Mexico",
-        "Belize",
-        "Panama",
-        "Nicaragua"
+        "Seismic activity",
+        "Volcanic activity only",
+        "Earthquake activity only",
+        "Tornado activity"
       ],
       "answer_explanations": [
-        "Correct. The article lists the seven countries as Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama. Mexico is not included in the usual definition, though it is sometimes included in specialized contexts.",
-        "Incorrect. Belize is one of the seven countries listed.",
-        "Incorrect. Panama is one of the seven countries listed.",
-        "Incorrect. Nicaragua is one of the seven countries listed."
+        "Correct. The article says seismic activity in the region, such as volcanic eruptions and earthquakes, is high.",
+        "Incorrect. The article mentions seismic activity, which includes volcanic eruptions and earthquakes, not just volcanic activity.",
+        "Incorrect. The article mentions seismic activity, which includes earthquakes and volcanic eruptions, not just earthquakes.",
+        "Incorrect. The article does not mention tornado activity."
       ]
     },
     {
       "id": 7,
-      "question": "What type of activity is high in Central America due to active geologic faults and the Central America Volcanic Arc?",
+      "question": "Which ocean is to the east of Central America?",
       "options": [
-        "Seismic activity",
-        "Hurricanes",
-        "Flooding",
-        "Droughts"
+        "The Caribbean",
+        "The Pacific Ocean",
+        "The Atlantic Ocean",
+        "The Indian Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'seismic activity in the region, such as volcanic eruptions and earthquakes, is high.'",
-        "Incorrect. Hurricanes are not specifically mentioned as a result of geologic faults.",
-        "Incorrect. Flooding is not directly linked to geologic faults in the article.",
-        "Incorrect. Droughts are not mentioned in relation to geologic faults."
+        "Correct. The article says the Caribbean is to the east.",
+        "Incorrect. The Pacific Ocean is to the southwest, not the east.",
+        "Incorrect. The article does not mention the Atlantic Ocean in this context.",
+        "Incorrect. The article does not mention the Indian Ocean."
       ]
     },
     {
       "id": 8,
-      "question": "In which year did Belize become independent?",
+      "question": "Which country is to the southeast of Central America?",
       "options": [
-        "1981",
-        "1903",
-        "1841",
-        "1838"
+        "Colombia",
+        "Mexico",
+        "Panama",
+        "Honduras"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Belize in 1981.'",
-        "Incorrect. Panama became independent in 1903, not Belize.",
-        "Incorrect. El Salvador became independent in 1841, not Belize.",
-        "Incorrect. Costa Rica, Guatemala, Honduras, and Nicaragua became independent in 1838, not Belize."
+        "Correct. The article says Colombia is to the southeast.",
+        "Incorrect. Mexico is to the north, not the southeast.",
+        "Incorrect. Panama is part of Central America, not a bordering country to the southeast.",
+        "Incorrect. Honduras is part of Central America, not a bordering country to the southeast."
       ]
     },
     {
       "id": 9,
-      "question": "Which Spanish conquistador began the conquest of northern Central America in 1523?",
+      "question": "Which of the following is NOT one of the seven countries listed in the article?",
       "options": [
-        "Pedro de Alvarado",
-        "Christopher Columbus",
-        "HernÃ¡n CortÃ©s",
-        "Juan de O'DonojÃº"
+        "Canada",
+        "El Salvador",
+        "Guatemala",
+        "Nicaragua"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'Spanish conquistador Pedro de Alvarado commenced the conquest of northern Central America.'",
-        "Incorrect. Christopher Columbus explored the region but did not begin the conquest of northern Central America.",
-        "Incorrect. HernÃ¡n CortÃ©s conquered the Aztec Empire, but Pedro de Alvarado led the conquest of northern Central America.",
-        "Incorrect. Juan de O'DonojÃº signed the Treaty of CÃ³rdoba, not a conquistador."
+        "Correct. The article lists El Salvador, Guatemala, Honduras, Nicaragua, etc.; Canada is not listed.",
+        "Incorrect. El Salvador is one of the seven countries listed.",
+        "Incorrect. Guatemala is one of the seven countries listed.",
+        "Incorrect. Nicaragua is one of the seven countries listed."
       ]
     },
     {
       "id": 10,
-      "question": "What was the name of the sovereign state that existed from 1823 to 1840, composed of five Central American states?",
+      "question": "What is the name of the volcanic arc mentioned in the article?",
       "options": [
-        "Federal Republic of Central America",
-        "First Mexican Empire",
-        "Captaincy General of Guatemala",
-        "United Provinces of New Spain"
+        "Central America Volcanic Arc",
+        "Mesoamerican Volcanic Arc",
+        "Pacific Volcanic Arc",
+        "Caribbean Volcanic Arc"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Federal Republic of Central America ... was a sovereign state that existed from 1823 to 1840. It was composed of five states: Guatemala, Honduras, El Salvador, Nicaragua, and Costa Rica.'",
-        "Incorrect. The First Mexican Empire existed from 1821 to 1823 and included Central America briefly, but it was not composed solely of five Central American states.",
-        "Incorrect. The Captaincy General of Guatemala was a Spanish colonial administrative division, not a sovereign state.",
-        "Incorrect. The United Provinces of New Spain is not mentioned in the article."
+        "Correct. The article mentions the Central America Volcanic Arc.",
+        "Incorrect. The article does not use that name.",
+        "Incorrect. The article does not use that name.",
+        "Incorrect. The article does not use that name."
       ]
     }
   ]

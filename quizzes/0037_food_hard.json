@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Based on the article, which conclusion about global crop allocation is best supported?",
+      "question": "What does the article's description of the food system's contribution to climate change imply about the relationship between food production and environmental impact?",
       "options": [
-        "Most crops are used for purposes other than direct human consumption.",
-        "Most crops are used to feed humans directly.",
-        "Most crops are used for biofuel production.",
-        "Most crops are grown as animal feed."
+        "The food system is a significant driver of climate change, comparable to other major industrial sectors.",
+        "Food production has only a minor effect on climate change, as most emissions come from transportation.",
+        "The food system's climate impact is negligible because it relies on renewable energy sources.",
+        "Climate change has no connection to how food is produced or distributed."
       ],
       "answer_explanations": [
-        "Correct. The article states that 55 percent of crops feed humans, 36 percent are animal feed, and 9 percent are for biofuels, meaning 45 percent go to non-direct-human uses, which is most of the non-human categories combined but not a majority alone; however, the largest single use is human consumption at 55 percent, so this is incorrect. Actually, re-reading: 55% is human, so most crops ARE used for direct human consumption. Let me correct: the correct answer is that most crops are used to feed humans directly at 55 percent.",
-        "Incorrect. The article states that just over half of the world's crops (55 percent) are used to feed humans, making this the largest single category.",
-        "Incorrect. The article states that only 9 percent of crops are grown for biofuels, a small minority.",
-        "Incorrect. The article states that 36 percent of crops are grown as animal feed, which is less than the 55 percent used for human consumption."
+        "Correct. The article states that food and agricultural systems are 'one of the major contributors to climate change, accounting for as much as 37% of total greenhouse gas emissions,' which implies a substantial role in driving climate change.",
+        "Incorrect. The article does not suggest a minor effect; it explicitly states a major contribution of up to 37% of total emissions, which is significant, not minor.",
+        "Incorrect. The article says conventional agriculture 'relies heavily on fossil fuels,' which implies a large carbon footprint, not a negligible impact.",
+        "Incorrect. The article directly links the food system to climate change by attributing a large share of greenhouse gas emissions to it, contradicting this option."
       ]
     },
     {
       "id": 2,
-      "question": "If a new food product is derived entirely from plant reproductive tissue, how would the article classify it botanically?",
+      "question": "Based on the article, what conclusion can be drawn about the classification of food items like tomatoes and peas?",
       "options": [
-        "As a fruit.",
-        "As a vegetable.",
-        "As a grain.",
-        "As a nut."
+        "Botanical and culinary classifications can conflict, leading to different categorizations of the same food.",
+        "All foods have a single, universally agreed-upon classification system.",
+        "Tomatoes and peas are always classified as vegetables in both botanical and culinary terms.",
+        "The classification of foods is irrelevant to how they are consumed or studied."
       ],
       "answer_explanations": [
-        "Correct. The article states that food is a fruit if the part eaten is derived from reproductive tissue, and notes that seeds, nuts and grains are technically fruit.",
-        "Incorrect. The article defines vegetables as any other part of the plant that can be eaten, excluding reproductive tissue-derived foods which are classified as fruit.",
-        "Incorrect. While grains are technically fruit, the article does not classify all reproductive tissue-derived foods specifically as grains.",
-        "Incorrect. While nuts are technically fruit, the article does not classify all reproductive tissue-derived foods specifically as nuts."
+        "Correct. The article notes that 'botanically described fruits such as the tomato, squash, pepper and eggplant or seeds like peas commonly considered vegetables,' showing a conflict between botanical and culinary perspectives.",
+        "Incorrect. The article describes multiple classification systems (four basic groups, eighteen or nineteen FAO/WHO groups, etc.), indicating no single universal system.",
+        "Incorrect. The article explicitly says tomatoes are botanically fruits but commonly considered vegetables, so they are not always classified as vegetables.",
+        "Incorrect. The article spends considerable time discussing classification systems, implying that classification matters for understanding food."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, which statement about the relationship between photosynthesis and food chains is most accurate?",
+      "question": "What does the article's discussion of photosynthesis and the food web imply about the ultimate source of energy for most life on Earth?",
       "options": [
-        "Photosynthesis is the primary source of energy and food for nearly all life on earth.",
-        "Photosynthesis only provides energy for plants and algae.",
-        "Photosynthesis is irrelevant to aquatic food chains.",
-        "Photosynthesis produces oxygen but not usable food energy."
+        "Sunlight is the primary energy source for nearly all life, channeled through photosynthesis.",
+        "Chemical compounds in the soil are the main energy source for most organisms.",
+        "Apex predators generate their own energy without relying on lower food chain levels.",
+        "Bacteria are the primary energy source for all life, independent of sunlight."
       ],
       "answer_explanations": [
-        "Correct. The article states that photosynthetic plants, algae and certain bacteria represent the lowest point of food chains, making photosynthesis the primary source of energy and food for nearly all life on earth.",
-        "Incorrect. The article explicitly states photosynthesis supports nearly all life on earth, not just plants and algae.",
-        "Incorrect. The article mentions plankton, which includes photosynthetic organisms, as a crucial food source in marine environments.",
-        "Incorrect. The article explains that glucose produced during photosynthesis is stored as an energy reserve, providing food energy."
+        "Correct. The article states that photosynthesis is 'the primary source of energy and food for nearly all life on earth,' with photosynthetic organisms at the bottom of food chains.",
+        "Incorrect. The article mentions that some microorganisms obtain energy from chemical compounds, but it emphasizes photosynthesis as the primary source for nearly all life.",
+        "Incorrect. The article describes a food web where energy flows from primary producers up to apex predators, implying apex predators depend on lower levels.",
+        "Incorrect. While bacteria are important, the article says photosynthesis is the primary source of energy for nearly all life, not bacteria themselves."
       ]
     },
     {
       "id": 4,
-      "question": "Based on the article, what can be inferred about the role of bacteria in the global nitrogen cycle and food production?",
+      "question": "How does the article's comparison of fleshy fruits and vegetables relate to their nutritional roles in human diets?",
       "options": [
-        "Bacteria convert atmospheric nitrogen into ammonia, which is essential for producing proteins and vitamins.",
-        "Bacteria have no significant role in nitrogen fixation.",
-        "Bacteria only break down dead organisms and do not contribute to nutrient creation.",
-        "The Haber-Bosch Process has made bacterial nitrogen fixation obsolete."
+        "Fruits provide high sugar and vitamin C, while vegetables offer more starch, fiber, and certain minerals, suggesting complementary dietary roles.",
+        "Vegetables are always more nutritious than fruits because they contain more calories.",
+        "Fruits and vegetables have identical nutritional profiles and can be used interchangeably.",
+        "Vegetables are primarily a source of simple sugars, while fruits are high in starch."
       ],
       "answer_explanations": [
-        "Correct. The article states that without bacteria, life would scarcely exist because they convert atmospheric nitrogen into ammonia, which is the precursor to proteins, nucleic acids, and most vitamins.",
-        "Incorrect. The article emphasizes that bacteria are crucial for converting atmospheric nitrogen into ammonia.",
-        "Incorrect. While bacteria do break down dead organisms, the article also highlights their essential role in nitrogen fixation and ammonia production.",
-        "Incorrect. The article notes that the majority of ammonia is now human-made due to the Haber-Bosch Process, but does not state that bacterial fixation is obsolete or unimportant."
+        "Correct. The article states fruits 'can consist of up to 90% water, contain high levels of simple sugars... and have a high vitamin C content,' while vegetables are 'high in starch, potassium, dietary fiber, folate and vitamins and low in fat and calories,' implying complementary benefits.",
+        "Incorrect. The article does not rank vegetables as always more nutritious; it describes different nutrient profiles, not a hierarchy.",
+        "Incorrect. The article details distinct nutritional differences, such as fruits being high in sugars and vegetables high in starch and fiber, so they are not identical.",
+        "Incorrect. The article says fruits are high in simple sugars, while vegetables are high in starch, which is the opposite of this option."
       ]
     },
     {
       "id": 5,
-      "question": "If a nutritionist is designing a diet based on the article's classification of food groups, which approach would be most consistent with the Food and Agriculture Organization and World Health Organization system?",
+      "question": "What can be inferred about the role of bacteria in the nitrogen cycle from the article's description?",
       "options": [
-        "Using eighteen or nineteen food classifications including cereals, pulses, milk, eggs, fish, meat, insects, vegetables, fruits, fats, sweets, spices, beverages, and others.",
-        "Using only four basic food groups: vegetables and fruit, cereals and bread, dairy, and meat.",
-        "Grouping foods into whole grains, refined grains, vegetables, fruits, nuts, legumes, eggs, dairy, fish, red meat, processed meat, and sugar-sweetened beverages.",
-        "Classifying foods solely by their energy density."
+        "Bacteria are essential for converting atmospheric nitrogen into a form usable by living organisms, underpinning protein and vitamin synthesis.",
+        "Bacteria only play a minor role in nitrogen fixation, with most nitrogen converted by industrial processes.",
+        "Bacteria convert nitrogen directly into proteins and nucleic acids without any intermediate steps.",
+        "The Haber-Bosch process has made bacterial nitrogen fixation completely obsolete."
       ],
       "answer_explanations": [
-        "Correct. The article states that the Food and Agriculture Organization and World Health Organization use a system with eighteen or nineteen food classifications, listing examples such as cereals, pulses, milk, eggs, fish, meat, insects, vegetables, fruits, fats, sweets, spices, beverages, and more.",
-        "Incorrect. The four basic groups are described as 'most systems,' not specifically the FAO/WHO system.",
-        "Incorrect. This grouping is used in studies that look into diet quality, not the FAO/WHO system.",
-        "Incorrect. The article does not describe the FAO/WHO system as classifying foods solely by energy density."
+        "Correct. The article says 'Without bacteria, life would scarcely exist because bacteria convert atmospheric nitrogen into nutritious ammonia,' which is 'the precursor to proteins, nucleic acids, and most vitamins,' implying a foundational role.",
+        "Incorrect. The article states that the majority of ammonia is now human-made via the Haber-Bosch process, but it emphasizes that without bacteria life would scarcely exist, implying a critical natural role.",
+        "Incorrect. The article says bacteria convert nitrogen into ammonia, which is a precursor to proteins and nucleic acids, not directly into those molecules.",
+        "Incorrect. The article notes the industrial process produces the majority of ammonia, but it does not say bacterial fixation is obsolete; it implies bacteria are still vital."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, which statement about the energy density of food components is most accurate?",
+      "question": "What does the article's description of seed dispersal by animals suggest about the evolutionary relationship between plants and frugivores?",
       "options": [
-        "Fat is the most energy-dense component of food.",
-        "Water is the most energy-dense component of food.",
-        "Fibers have the highest energy density of all food components.",
-        "Carbohydrates are more energy-dense than fat."
+        "Plants and animals that eat fruit have coevolved so that both benefit, with animals aiding in seed dispersal while gaining nutrition.",
+        "Seed predation is always harmful to plants, with no mutual benefits possible.",
+        "Frugivores are the only animals that help disperse seeds, while all other animals are purely destructive.",
+        "Plants have evolved to prevent animals from eating their fruits to protect their seeds."
       ],
       "answer_explanations": [
-        "Correct. The article states that fat is the most energy-dense component of food.",
-        "Incorrect. The article states that water has no food energy.",
-        "Incorrect. The article states that fibers have low energy densities, some providing none.",
-        "Incorrect. The article identifies fat, not carbohydrates, as the most energy-dense component."
+        "Correct. The article states that 'many plants and animals have coevolved in such a way that the fruit is a good source of nutrition for the animal, who then excretes the seeds some distance away, allowing greater dispersal,' implying a mutualistic relationship.",
+        "Incorrect. The article says 'even seed predation can be mutually beneficial, as some seeds can survive the digestion process,' contradicting this option.",
+        "Incorrect. The article mentions ants as 'the only real seed dispersers' among insects, and birds and mammals also disperse seeds, so frugivores are not the only dispersers.",
+        "Incorrect. The article describes plants benefiting from animals eating fruits, implying plants have evolved to attract frugivores, not to prevent them."
       ]
     },
     {
       "id": 7,
-      "question": "Based on the article, which conclusion about human dietary adaptability is best supported?",
+      "question": "Based on the article, what conclusion follows about the adequacy of plant-based diets for human protein needs?",
       "options": [
-        "Humans are omnivores capable of obtaining food from many different ecosystems.",
-        "Humans are strict herbivores adapted only to plant-based diets.",
-        "Humans are carnivores that rely exclusively on animal products.",
-        "Humans cannot adapt to different ecosystems for food acquisition."
+        "Plant-based diets can provide protein, but animal products are noted as complete proteins containing all essential amino acids, implying potential challenges for vegans.",
+        "Plant-based diets cannot provide any protein at all.",
+        "Animal products are the only source of protein for humans.",
+        "All plant proteins are complete proteins, matching animal proteins exactly."
       ],
       "answer_explanations": [
-        "Correct. The article describes humans as omnivorous and highly adaptable, having adapted to obtaining food in many different ecosystems.",
-        "Incorrect. The article explicitly classifies humans as omnivores, not herbivores.",
-        "Incorrect. The article states humans consume both plants and animals, making them omnivores rather than carnivores.",
-        "Incorrect. The article emphasizes that humans are highly adaptable and obtain food in many different ecosystems."
+        "Correct. The article says animal products are 'considered complete proteins for human consumption as they contain all the essential amino acids,' implying that plant proteins may lack some essential amino acids, which is a relevant consideration for plant-based diets.",
+        "Incorrect. The article discusses plant foods like nuts and seeds as having protein content, so plant-based diets can provide protein.",
+        "Incorrect. The article mentions protein in plant sources like nuts and seeds, so animal products are not the only source.",
+        "Incorrect. The article only describes animal products as complete proteins, implying that plant proteins are not necessarily complete, contradicting this option."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what is the relationship between industrial agriculture and climate change?",
+      "question": "What does the article's listing of various international agencies imply about the importance of food safety and security?",
       "options": [
-        "The conventional food system relies heavily on fossil fuels and contributes significantly to greenhouse gas emissions.",
-        "Industrial agriculture has no measurable impact on climate change.",
-        "The food industry reduces greenhouse gas emissions through efficient distribution.",
-        "Only transportation, not production, contributes to the food system's climate impact."
+        "Food safety and security are global concerns that require international monitoring and coordination.",
+        "Food safety is only a national issue, with no international bodies involved.",
+        "International agencies focus solely on food production, not safety or security.",
+        "Food security is a minor issue that does not warrant international attention."
       ],
       "answer_explanations": [
-        "Correct. The article states that conventional agriculture relies heavily on fossil fuels and that food and agricultural systems account for as much as 37% of total greenhouse gas emissions.",
-        "Incorrect. The article explicitly identifies food and agricultural systems as major contributors to climate change.",
-        "Incorrect. The article describes the food industry as a contributor to emissions, not a reducer of them.",
-        "Incorrect. The article attributes the climate impact to the entire system of conventional agriculture, not just transportation."
+        "Correct. The article states that 'food safety and security are monitored by international agencies' and lists several, implying these issues are significant enough to require global oversight.",
+        "Incorrect. The article explicitly mentions international agencies like the World Food Programme and FAO, contradicting this option.",
+        "Incorrect. The article says these agencies monitor food safety and security, which are distinct from just production.",
+        "Incorrect. The article's emphasis on international monitoring implies food security is a major concern, not a minor one."
       ]
     },
     {
       "id": 9,
-      "question": "Based on the article, which statement about plant-based food categories is most accurate?",
+      "question": "How does the article's description of the food web structure relate to the concept of ecological niches mentioned in the introduction?",
       "options": [
-        "Botanically, seeds, nuts, and grains are technically fruits.",
-        "Vegetables are defined as the reproductive tissue of plants.",
-        "Grains are not seeds and do not belong to any plant family.",
-        "Nuts are fleshy fruits with soft shells."
+        "The food web illustrates how different feeding behaviours fill specific roles within an ecosystem, supporting the idea of ecological niches.",
+        "Ecological niches are unrelated to feeding behaviours and food webs.",
+        "The food web only applies to aquatic ecosystems, not terrestrial ones.",
+        "Apex predators do not occupy any ecological niche because they have no predators."
       ],
       "answer_explanations": [
-        "Correct. The article states that food is a fruit if the part eaten is derived from reproductive tissue, so seeds, nuts and grains are technically fruit.",
-        "Incorrect. The article defines vegetables as any other part of the plant that can be eaten, not reproductive tissue.",
-        "Incorrect. The article defines grains as seeds that humans eat or harvest, with cereal grains belonging to the Poaceae family.",
-        "Incorrect. The article describes nuts as dry fruits with a woody shell, not fleshy fruits with soft shells."
+        "Correct. The introduction says feeding behaviours 'have evolved to fill specific ecological niches,' and the food web section describes roles like primary producers, herbivores, carnivores, and apex predators, showing how these behaviours define niches.",
+        "Incorrect. The article connects feeding behaviours to ecological niches, and the food web is a description of those feeding relationships.",
+        "Incorrect. The article discusses food webs in general ecosystems, including terrestrial ones with plants and animals, not just aquatic.",
+        "Incorrect. Apex predators are described as the top of the food chain, which is a specific ecological role, so they do occupy a niche."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, which statement about animal-sourced foods is most accurate?",
+      "question": "What can be inferred about the relationship between food processing and the food industry from the article's discussion?",
       "options": [
-        "Animal products are complete proteins containing all essential amino acids needed by humans.",
-        "Animal products contain no essential vitamins or minerals.",
-        "Plant proteins are always superior to animal proteins for human nutrition.",
-        "Dairy products are not derived from animals."
+        "The food industry relies on complex processing and distribution systems to supply most of humanity's food energy.",
+        "Food processing is a minor part of the food industry, which focuses mainly on raw agricultural products.",
+        "The food industry produces food only through simple, local methods without extensive distribution.",
+        "Food processing has no connection to the food industry's role in providing food energy."
       ],
       "answer_explanations": [
-        "Correct. The article states that animal products are considered complete proteins for human consumption as they contain all the essential amino acids that the human body needs.",
-        "Incorrect. The article lists essential vitamins (including B12) and minerals (including zinc, iron, calcium, magnesium) found in animal products.",
-        "Incorrect. The article does not state that plant proteins are always superior; it describes animal products as complete proteins.",
-        "Incorrect. The article explicitly identifies dairy products like milk and cheese as animal-sourced foods produced by mammary glands."
+        "Correct. The article says the food industry 'produces food through intensive agriculture and distributes it through complex food processing and food distribution systems,' implying processing is integral to its function.",
+        "Incorrect. The article describes food processing as a complex and key part of the food industry's distribution system, not a minor aspect.",
+        "Incorrect. The article mentions 'complex food processing and food distribution systems,' contradicting the idea of simple, local methods.",
+        "Incorrect. The article links the food industry's supply of food energy to its processing and distribution systems, so they are connected."
       ]
     }
   ]

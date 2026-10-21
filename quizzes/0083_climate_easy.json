@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the standard averaging period used to define climate?",
+      "question": "What is climate typically averaged over?",
       "options": [
         "30 years",
         "10 years",
@@ -13,154 +13,154 @@
         "100 years"
       ],
       "answer_explanations": [
-        "Correct. The article states that the standard averaging period is 30 years, as defined by the World Meteorological Organization.",
-        "Incorrect. The article does not mention 10 years as the standard averaging period.",
-        "Incorrect. The article does not mention 50 years as the standard averaging period.",
-        "Incorrect. The article does not mention 100 years as the standard averaging period."
+        "Correct. The article states that climate is 'typically averaged over 30 years'.",
+        "Incorrect. The article specifies 30 years, not 10 years.",
+        "Incorrect. The article specifies 30 years, not 50 years.",
+        "Incorrect. The article specifies 30 years, not 100 years."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as a commonly measured meteorological variable?",
+      "question": "Which of the following is NOT a meteorological variable commonly measured?",
       "options": [
-        "temperature",
-        "soil color",
-        "ocean salinity",
-        "cloud height"
+        "Soil type",
+        "Temperature",
+        "Humidity",
+        "Wind"
       ],
       "answer_explanations": [
-        "Correct. The article lists temperature among the commonly measured meteorological variables.",
-        "Incorrect. Soil color is not mentioned as a commonly measured meteorological variable.",
-        "Incorrect. Ocean salinity is not mentioned as a commonly measured meteorological variable.",
-        "Incorrect. Cloud height is not mentioned as a commonly measured meteorological variable."
+        "Correct. The article lists temperature, humidity, atmospheric pressure, wind, and precipitation, but not soil type.",
+        "Incorrect. Temperature is listed as a commonly measured meteorological variable.",
+        "Incorrect. Humidity is listed as a commonly measured meteorological variable.",
+        "Incorrect. Wind is listed as a commonly measured meteorological variable."
       ]
     },
     {
       "id": 3,
-      "question": "Which climate classification scheme is described as the most widely used?",
+      "question": "Which of the following is part of the climate system?",
       "options": [
-        "KÃ¶ppen climate classification",
-        "Thornthwaite system",
-        "Bergeron system",
-        "Spatial Synoptic Classification"
+        "Atmosphere",
+        "Ocean currents",
+        "Mountain ranges",
+        "Forests"
       ],
       "answer_explanations": [
-        "Correct. The article states that the most widely used classification scheme is the KÃ¶ppen climate classification.",
-        "Incorrect. The Thornthwaite system is mentioned but not described as the most widely used.",
-        "Incorrect. The Bergeron system is mentioned but not described as the most widely used.",
-        "Incorrect. The Spatial Synoptic Classification is mentioned but not described as the most widely used."
+        "Correct. The article mentions the atmosphere as one of the components of the climate system.",
+        "Incorrect. Ocean currents are not listed as a component; the hydrosphere is mentioned.",
+        "Incorrect. Mountain ranges are not listed; terrain is mentioned as a factor affecting climate, not as a component of the climate system.",
+        "Incorrect. Forests are not listed; the biosphere is mentioned as a component."
       ]
     },
     {
       "id": 4,
-      "question": "What is paleoclimatology the study of?",
+      "question": "What is the climate of a location affected by?",
       "options": [
-        "ancient climates",
-        "modern weather instruments",
-        "future climate models",
-        "daily weather forecasts"
+        "Latitude, longitude, terrain, altitude, land use, and nearby water bodies",
+        "Only temperature and precipitation",
+        "Only latitude and altitude",
+        "Only longitude and terrain"
       ],
       "answer_explanations": [
-        "Correct. The article defines paleoclimatology as the study of ancient climates.",
-        "Incorrect. Modern weather instruments are discussed under the modern climate record, not paleoclimatology.",
-        "Incorrect. Future climate models are discussed separately from paleoclimatology.",
-        "Incorrect. Daily weather forecasts are not the subject of paleoclimatology."
+        "Correct. The article states that the climate of a location is affected by its latitude, longitude, terrain, altitude, land use, and nearby water bodies and their currents.",
+        "Incorrect. Temperature and precipitation are used for classification, not as the only factors affecting climate.",
+        "Incorrect. Latitude and altitude are factors, but not the only ones.",
+        "Incorrect. Longitude and terrain are factors, but not the only ones."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is given as an example of proxy evidence used to infer paleoclimates?",
+      "question": "What does 'variability' refer to in the definition of climate?",
       "options": [
-        "tree rings",
-        "satellite images",
-        "thermometer readings",
-        "weather balloons"
+        "Statistical dispersion",
+        "Average temperature",
+        "Precipitation amount",
+        "Wind speed"
       ],
       "answer_explanations": [
-        "Correct. The article lists tree rings as biotic evidence used to infer paleoclimates.",
-        "Incorrect. Satellite images are not listed as proxy evidence for paleoclimates.",
-        "Incorrect. Thermometer readings are direct observations, not proxy evidence.",
-        "Incorrect. Weather balloons are not mentioned as proxy evidence."
+        "Correct. The article defines climate as the mean and variability, with variability linked to statistical dispersion.",
+        "Incorrect. Average temperature is part of the mean, not variability.",
+        "Incorrect. Precipitation amount is a variable, not variability itself.",
+        "Incorrect. Wind speed is a variable, not variability itself."
       ]
     },
     {
       "id": 6,
-      "question": "What did the technical commission designate at its 1934 Wiesbaden meeting?",
+      "question": "Which of the following is NOT a component of the climate system?",
       "options": [
-        "the thirty-year period from 1901 to 1930 as the reference time frame",
-        "the KÃ¶ppen climate classification",
-        "satellite records as the primary data source",
-        "the Thornthwaite system"
+        "Lithosphere",
+        "Hydrosphere",
+        "Biosphere",
+        "Geosphere"
       ],
       "answer_explanations": [
-        "Correct. The article states that at the 1934 Wiesbaden meeting, the commission designated the period from 1901 to 1930 as the reference time frame.",
-        "Incorrect. The KÃ¶ppen climate classification is not linked to the Wiesbaden meeting.",
-        "Incorrect. Satellite records are not mentioned in connection with the Wiesbaden meeting.",
-        "Incorrect. The Thornthwaite system is not linked to the Wiesbaden meeting."
+        "Correct. The article lists atmosphere, hydrosphere, cryosphere, lithosphere, and biosphere; 'geosphere' is not mentioned.",
+        "Incorrect. Hydrosphere is listed as a component.",
+        "Incorrect. Biosphere is listed as a component.",
+        "Incorrect. Lithosphere is listed as a component."
       ]
     },
     {
       "id": 7,
-      "question": "Which phrase summarizes the difference between climate and weather?",
+      "question": "What is the time span over which climate can be considered?",
       "options": [
-        "\"Climate is what you expect, weather is what you get.\"",
-        "\"Weather is what you expect, climate is what you get.\"",
-        "\"Climate is short-term, weather is long-term.\"",
-        "\"Weather is averaged over 30 years.\""
+        "From months to millions of years",
+        "Exactly 30 years",
+        "From days to years",
+        "From hours to days"
       ],
       "answer_explanations": [
-        "Correct. The article quotes this phrase to summarize the difference between climate and weather.",
-        "Incorrect. The article does not present this reversed version of the phrase.",
-        "Incorrect. The article states the opposite: climate is long-term and weather is short-term.",
-        "Incorrect. The article states that climate, not weather, is averaged over 30 years."
+        "Correct. The article says climate is the mean and variability over a time spanning from months to millions of years.",
+        "Incorrect. 30 years is the typical averaging period, but the time span can be longer or shorter.",
+        "Incorrect. The article specifies months to millions of years, not days to years.",
+        "Incorrect. The article specifies months to millions of years, not hours to days."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following affects the climate of a location?",
+      "question": "What is the broader sense of climate?",
       "options": [
-        "latitude",
-        "population density",
-        "time zone",
-        "language spoken"
+        "The state of the components of the climate system and their interactions",
+        "The average weather over 30 years",
+        "The temperature and precipitation of a region",
+        "The study of ancient climates"
       ],
       "answer_explanations": [
-        "Correct. The article lists latitude as a factor affecting the climate of a location.",
-        "Incorrect. Population density is not listed as a climate determinant.",
-        "Incorrect. Time zone is not listed as a climate determinant.",
-        "Incorrect. Language spoken is not listed as a climate determinant."
+        "Correct. The article states that in a broader sense, climate is the state of the components of the climate system and the interactions between them.",
+        "Incorrect. This is the general definition, not the broader sense.",
+        "Incorrect. Temperature and precipitation are variables used for classification, not the broader sense.",
+        "Incorrect. The study of ancient climates is paleoclimatology, not the broader sense of climate."
       ]
     },
     {
       "id": 9,
-      "question": "What are the major classifications in Thornthwaite's climate classification?",
+      "question": "Which of the following is a commonly measured meteorological variable?",
       "options": [
-        "microthermal, mesothermal, and megathermal",
-        "tropical, dry, and temperate",
-        "A, B, and C",
-        "marine, continental, and polar"
+        "Precipitation",
+        "Soil moisture",
+        "Cloud cover",
+        "Solar radiation"
       ],
       "answer_explanations": [
-        "Correct. The article states that the major classifications in Thornthwaite's system are microthermal, mesothermal, and megathermal.",
-        "Incorrect. Tropical, dry, and temperate are not the major classifications in Thornthwaite's system.",
-        "Incorrect. A, B, and C are not mentioned as Thornthwaite classifications.",
-        "Incorrect. Marine, continental, and polar are not the major classifications in Thornthwaite's system."
+        "Correct. Precipitation is listed as a commonly measured meteorological variable.",
+        "Incorrect. Soil moisture is not listed in the article.",
+        "Incorrect. Cloud cover is not listed in the article.",
+        "Incorrect. Solar radiation is not listed in the article."
       ]
     },
     {
       "id": 10,
-      "question": "What does climate variability describe?",
+      "question": "What is the climate of a location affected by?",
       "options": [
-        "variations in the mean state and other characteristics of climate",
-        "only extreme weather events",
-        "only human-caused climate change",
-        "only daily temperature fluctuations"
+        "Nearby water bodies and their currents",
+        "Only its latitude",
+        "Only its altitude",
+        "Only its land use"
       ],
       "answer_explanations": [
-        "Correct. The article defines climate variability as variations in the mean state and other characteristics of climate on all spatial and temporal scales beyond individual weather events.",
-        "Incorrect. Climate variability is not limited to extreme weather events.",
-        "Incorrect. Climate variability is not limited to human-caused climate change.",
-        "Incorrect. Climate variability is not limited to daily temperature fluctuations."
+        "Correct. The article mentions nearby water bodies and their currents as a factor affecting climate.",
+        "Incorrect. Latitude is a factor, but not the only one.",
+        "Incorrect. Altitude is a factor, but not the only one.",
+        "Incorrect. Land use is a factor, but not the only one."
       ]
     }
   ]

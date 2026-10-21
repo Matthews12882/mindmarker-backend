@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Louis Armstrong's full birth name?",
+      "question": "What was Louis Armstrong's nickname?",
       "options": [
-        "Louis Daniel Armstrong",
-        "Louis William Armstrong",
-        "Louis Daniel Oliver",
-        "Louis Daniel Henderson"
+        "Satchmo",
+        "Duke",
+        "Bird",
+        "Count"
       ],
       "answer_explanations": [
-        "Correct. The article states his full name was Louis Daniel Armstrong.",
-        "Incorrect. The article does not list William as his middle name.",
-        "Incorrect. Oliver was his mentor's last name, not Armstrong's middle name.",
-        "Incorrect. Henderson was a bandleader, not part of Armstrong's name."
+        "Correct. The article states that Armstrong was nicknamed \"Satchmo\", \"Satch\", and \"Pops\".",
+        "Incorrect. The article does not mention \"Duke\" as a nickname for Armstrong.",
+        "Incorrect. The article does not mention \"Bird\" as a nickname for Armstrong.",
+        "Incorrect. The article does not mention \"Count\" as a nickname for Armstrong."
       ]
     },
     {
       "id": 2,
-      "question": "What instrument was Louis Armstrong primarily known for playing?",
+      "question": "What instruments did Louis Armstrong play?",
       "options": [
-        "trumpet",
-        "piano",
-        "saxophone",
-        "clarinet"
+        "Trumpet and cornet",
+        "Saxophone and piano",
+        "Drums and bass",
+        "Guitar and violin"
       ],
       "answer_explanations": [
-        "Correct. The article describes Armstrong as an American jazz and blues trumpeter.",
-        "Incorrect. The article does not identify piano as his primary instrument.",
-        "Incorrect. The article does not identify saxophone as his primary instrument.",
-        "Incorrect. The article does not identify clarinet as his primary instrument."
+        "Correct. The article says he was an inventive trumpet and cornet player.",
+        "Incorrect. The article does not mention saxophone or piano.",
+        "Incorrect. The article does not mention drums or bass.",
+        "Incorrect. The article does not mention guitar or violin."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following was a nickname of Louis Armstrong?",
-      "options": [
-        "Satchmo",
-        "Duke",
-        "Count",
-        "King"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists Satchmo as one of Armstrong's nicknames.",
-        "Incorrect. Duke was Duke Ellington's nickname, not Armstrong's.",
-        "Incorrect. Count was not listed as an Armstrong nickname in the article.",
-        "Incorrect. King referred to Joe 'King' Oliver, Armstrong's mentor."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "In which city was Louis Armstrong born and raised?",
+      "question": "Where was Louis Armstrong born and raised?",
       "options": [
         "New Orleans",
         "Chicago",
         "New York City",
-        "Memphis"
+        "Los Angeles"
       ],
       "answer_explanations": [
-        "Correct. The article states Armstrong was born and raised in New Orleans.",
-        "Incorrect. Armstrong moved to Chicago later, but was not born there.",
-        "Incorrect. Armstrong moved to New York City later in his career.",
-        "Incorrect. The article does not state Armstrong was born in Memphis."
+        "Correct. The article states: \"Armstrong was born and raised in New Orleans.\"",
+        "Incorrect. Chicago is where he later moved to play with Joe King Oliver, not where he was born.",
+        "Incorrect. New York City is where he later moved to become a featured soloist, not his birthplace.",
+        "Incorrect. Los Angeles is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In what decade did Louis Armstrong come to prominence?",
+      "options": [
+        "1920s",
+        "1930s",
+        "1940s",
+        "1950s"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he came to prominence in the 1920s.",
+        "Incorrect. The article says the 1920s, not the 1930s.",
+        "Incorrect. The article says the 1920s, not the 1940s.",
+        "Incorrect. The article says the 1920s, not the 1950s."
       ]
     },
     {
       "id": 5,
-      "question": "Which song earned Armstrong the Grammy Award for Best Male Vocal Performance in 1965?",
+      "question": "Who was Louis Armstrong's mentor?",
       "options": [
-        "Hello, Dolly!",
-        "What a Wonderful World",
-        "La Vie en rose",
-        "When the Saints Go Marching In"
+        "Joe \"King\" Oliver",
+        "Fletcher Henderson",
+        "Ella Fitzgerald",
+        "Duke Ellington"
       ],
       "answer_explanations": [
-        "Correct. The article states he received the Grammy for 'Hello, Dolly!' in 1965.",
-        "Incorrect. 'What a Wonderful World' is listed as one of his best known songs, but not the 1965 Grammy winner.",
-        "Incorrect. 'La Vie en rose' is listed as one of his best known songs, but not the 1965 Grammy winner.",
-        "Incorrect. 'When the Saints Go Marching In' is listed as one of his best known songs, but not the 1965 Grammy winner."
+        "Correct. The article says Armstrong followed his mentor, Joe \"King\" Oliver, to Chicago.",
+        "Incorrect. Fletcher Henderson was a bandleader who heard of Armstrong, not his mentor.",
+        "Incorrect. Ella Fitzgerald was a collaborator, not his mentor.",
+        "Incorrect. Duke Ellington is not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "Who was Armstrong's mentor that he followed to Chicago around 1922?",
+      "question": "Which of these songs is listed as one of Armstrong's best known?",
       "options": [
-        "Joe 'King' Oliver",
-        "Fletcher Henderson",
-        "Bunk Johnson",
-        "Kid Ory"
+        "What a Wonderful World",
+        "Strange Fruit",
+        "Take the A Train",
+        "Mood Indigo"
       ],
       "answer_explanations": [
-        "Correct. The article states Armstrong followed his mentor Joe 'King' Oliver to Chicago.",
-        "Incorrect. Fletcher Henderson was a bandleader in New York, not the mentor he followed to Chicago.",
-        "Incorrect. Bunk Johnson was a cornetist from his youth, not the mentor he followed to Chicago.",
-        "Incorrect. Kid Ory was a bandleader whose attention Armstrong attracted, not the mentor he followed to Chicago."
+        "Correct. The article lists \"What a Wonderful World\" among his best known songs.",
+        "Incorrect. \"Strange Fruit\" is not mentioned in the article.",
+        "Incorrect. \"Take the A Train\" is not mentioned in the article.",
+        "Incorrect. \"Mood Indigo\" is not mentioned in the article."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is listed as one of Armstrong's best known songs?",
+      "question": "With which singer did Armstrong produce three records together?",
       "options": [
-        "What a Wonderful World",
-        "Take Five",
-        "So What",
-        "Blue Train"
+        "Ella Fitzgerald",
+        "Billie Holiday",
+        "Sarah Vaughan",
+        "Nina Simone"
       ],
       "answer_explanations": [
-        "Correct. The article lists 'What a Wonderful World' among Armstrong's best known songs.",
-        "Incorrect. 'Take Five' is not mentioned in the article as one of his songs.",
-        "Incorrect. 'So What' is not mentioned in the article as one of his songs.",
-        "Incorrect. 'Blue Train' is not mentioned in the article as one of his songs."
+        "Correct. The article states he collaborated with Ella Fitzgerald, producing three records together.",
+        "Incorrect. Billie Holiday is not mentioned in the article.",
+        "Incorrect. Sarah Vaughan is not mentioned in the article.",
+        "Incorrect. Nina Simone is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "With which vocalist did Armstrong collaborate on three records?",
+      "question": "What is the name of the film from 1932 in which Armstrong appeared?",
       "options": [
-        "Ella Fitzgerald",
-        "Bessie Smith",
-        "Ma Rainey",
-        "Alberta Hunter"
+        "A Rhapsody in Black and Blue",
+        "Cabin in the Sky",
+        "High Society",
+        "Paris Blues"
       ],
       "answer_explanations": [
-        "Correct. The article states Armstrong collaborated with Ella Fitzgerald, producing three records together.",
-        "Incorrect. Bessie Smith is mentioned as a blues singer he recorded with, but not as the collaborator on three records.",
-        "Incorrect. Ma Rainey is mentioned as a blues singer he recorded with, but not as the collaborator on three records.",
-        "Incorrect. Alberta Hunter is mentioned as a blues singer he recorded with, but not as the collaborator on three records."
+        "Correct. The article lists \"A Rhapsody in Black and Blue\" (1932) as one of his films.",
+        "Incorrect. \"Cabin in the Sky\" is from 1943, not 1932.",
+        "Incorrect. \"High Society\" is from 1956, not 1932.",
+        "Incorrect. \"Paris Blues\" is from 1961, not 1932."
       ]
     },
     {
       "id": 9,
-      "question": "In what year did Louis Armstrong die?",
+      "question": "What type of singing was Armstrong skilled at?",
       "options": [
-        "1971",
-        "1965",
-        "1972",
-        "1901"
+        "Scat singing",
+        "Opera singing",
+        "Yodeling",
+        "Rapping"
       ],
       "answer_explanations": [
-        "Correct. The article states Louis Armstrong died on July 6, 1971.",
-        "Incorrect. 1965 is the year he won a Grammy, not the year he died.",
-        "Incorrect. 1972 is the year he received a posthumous Grammy Lifetime Achievement Award.",
-        "Incorrect. 1901 is the year Armstrong was born."
+        "Correct. The article says he was skilled at scat singing.",
+        "Incorrect. Opera singing is not mentioned.",
+        "Incorrect. Yodeling is not mentioned.",
+        "Incorrect. Rapping is not mentioned."
       ]
     },
     {
       "id": 10,
-      "question": "Which hall of fame inducted Louis Armstrong according to the article?",
+      "question": "What is the name of the recording included on the Voyager Golden Record?",
       "options": [
-        "Rock and Roll Hall of Fame",
-        "Country Music Hall of Fame",
-        "Gospel Music Hall of Fame",
-        "Classical Music Hall of Fame"
+        "Melancholy Blues",
+        "Hello, Dolly!",
+        "La Vie en rose",
+        "When You're Smiling"
       ],
       "answer_explanations": [
-        "Correct. The article lists the Rock and Roll Hall of Fame among his inductions.",
-        "Incorrect. The Country Music Hall of Fame is not mentioned in the article.",
-        "Incorrect. The Gospel Music Hall of Fame is not mentioned in the article.",
-        "Incorrect. The Classical Music Hall of Fame is not mentioned in the article."
+        "Correct. The article states that his recording of \"Melancholy Blues\" is included on the Voyager Golden Record.",
+        "Incorrect. \"Hello, Dolly!\" is a famous song but not the one mentioned for the Golden Record.",
+        "Incorrect. \"La Vie en rose\" is a famous song but not the one mentioned for the Golden Record.",
+        "Incorrect. \"When You're Smiling\" is a famous song but not the one mentioned for the Golden Record."
       ]
     }
   ]

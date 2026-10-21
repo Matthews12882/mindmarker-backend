@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following statements accurately reflects the distribution of farmland among farms of different sizes globally?",
+      "question": "Considering the article's description of farm size distribution, what is the most significant implication of the fact that farms larger than 50 hectares occupy over 70% of global farmland while representing only 1% of all farms?",
       "options": [
-        "Only 1% of all farms globally are larger than 50 hectares, yet they encompass more than 70% of the world's farmland.",
-        "Small farms, defined as one hectare or smaller, produce the majority of the world's food.",
-        "Nearly 40% of all global agricultural land is found on farms larger than 1,000 hectares.",
-        "Five of every six farms in the world consist of fewer than 2 hectares and take up only around 12% of all agricultural land."
+        "It implies that agricultural land use is highly concentrated, with a tiny fraction of farms controlling the vast majority of farmland, which contrasts with the numerical dominance of small farms.",
+        "It implies that small farms, despite being numerous, are inefficient and therefore occupy a disproportionately small amount of land.",
+        "It implies that most of the world's food is produced by large farms, since they control most of the farmland.",
+        "It implies that the global distribution of farmland is evenly spread across farms of all sizes."
       ],
       "answer_explanations": [
-        "Correct. The article states that while only 1% of all farms globally are greater than 50 hectares, they encompass more than 70% of the world's farmland.",
-        "Incorrect. The article notes that small farms (one hectare or smaller) produce about one-third of the world's food, not the majority.",
-        "Incorrect. Although nearly 40% of global agricultural land is on farms larger than 1,000 hectares, this statement does not capture the full distribution pattern described.",
-        "Incorrect. The article says five of every six farms consist of fewer than 2 hectares and take up only around 12% of all agricultural land, but this does not reflect the dominance of large farms in total land use."
+        "Correct. The article states that 'only 1% of all farms globally are greater than 50 hectares... they encompass more than 70% of the world's farmland,' which directly implies a high concentration of land in a few large farms, contrasting with the numerical dominance of small farms.",
+        "Incorrect. The article does not state or imply that small farms are inefficient; it only notes their numerical dominance and their production of about one-third of the world's food.",
+        "Incorrect. The article notes that small farms produce about one-third of the world's food, but it does not state that large farms produce the majority, nor does it directly link land share to food output.",
+        "Incorrect. The article's data clearly shows an uneven distribution, with 70% of farmland on only 1% of farms, contradicting any notion of even spread."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following best describes the role of agriculture in the development of early human civilization?",
+      "question": "How does the article's account of the origins of agriculture challenge a simplistic view that agriculture was a single, sudden invention?",
       "options": [
-        "It enabled the rise of sedentary civilization by creating food surpluses that allowed people to live in cities.",
-        "It primarily served as a method for hunting and gathering.",
-        "It was a minor factor compared to trade and religion.",
-        "It was only practiced in the Middle East."
+        "It shows that agriculture arose independently in at least 11 regions, involved different crops and animals at different times, and followed a gradual transition from gathering to planting.",
+        "It shows that agriculture was invented once in the Middle East and then spread to all other parts of the world.",
+        "It shows that agriculture began simultaneously across the globe around 11,500 years ago.",
+        "It shows that agriculture was first practiced by ants and termites, and humans copied them."
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states that agriculture was a key factor in the rise of sedentary human civilization, creating food surpluses that enabled people to live in cities.",
-        "Incorrect. Agriculture is distinct from hunting and gathering; the article emphasizes its role in enabling sedentary life.",
-        "Incorrect. The article highlights agriculture as a key factor, not a minor one.",
-        "Incorrect. Agriculture began independently in at least 11 regions of the world, not only in the Middle East."
+        "Correct. The article states that 'Plants were independently cultivated in at least 11 regions of the world' and describes a gradual process: 'wild stands that had previously been harvested started to be planted, and gradually came to be domesticated,' with different crops and animals domesticated at different times in different places.",
+        "Incorrect. The article explicitly mentions multiple independent centers of origin, contradicting a single-origin theory.",
+        "Incorrect. The article gives different dates for different domestications, such as grains planted around 11,500 years ago and cattle domesticated around 10,000 years ago, indicating a staggered process.",
+        "Incorrect. While the article mentions that ants, termites, and beetles have cultivated crops for millions of years, it does not suggest that humans copied them."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, which of the following is NOT listed as a major environmental issue caused or exacerbated by agriculture?",
+      "question": "What conclusion can be drawn from the article's statement that agriculture is 'both a cause of and sensitive to environmental degradation'?",
       "options": [
-        "Contributions to climate change",
-        "Depletion of aquifers",
-        "Deforestation",
-        "Antibiotic resistance"
+        "It implies a feedback loop where agricultural practices can harm the environment, which in turn can reduce agricultural productivity, such as through biodiversity loss or soil degradation.",
+        "It implies that agriculture is the sole cause of environmental degradation and is not affected by it.",
+        "It implies that environmental degradation only affects agriculture in developing countries.",
+        "It implies that agriculture is completely independent of environmental conditions."
       ],
       "answer_explanations": [
-        "Incorrect. The article lists contributions to climate change as an environmental issue.",
-        "Incorrect. Depletion of aquifers is listed as an environmental issue.",
-        "Incorrect. Deforestation is listed as an environmental issue.",
-        "Correct. The article mentions antibiotic resistance as an issue, but it is not listed among the major environmental issues caused by agriculture; rather, it is listed under other agricultural pollution."
+        "Correct. The article lists environmental issues like biodiversity loss, desertification, and soil degradation as both caused by agriculture and as factors that 'can cause decreases in crop yield,' demonstrating a two-way relationship.",
+        "Incorrect. The article explicitly states agriculture is 'sensitive to environmental degradation,' meaning it is also affected by it.",
+        "Incorrect. The article makes no such geographical distinction.",
+        "Incorrect. The article states agriculture is sensitive to environmental degradation, implying it is not independent."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following statements about the domestication of crops and animals is supported by the article?",
+      "question": "Given the article's description of the development of agriculture in the Americas, what does the diversity of domesticated crops and techniques suggest about the agricultural knowledge of indigenous peoples?",
       "options": [
-        "Sheep, goats, pigs, and cattle were domesticated around 10,000 years ago.",
-        "Rice was domesticated in China between 11,500 and 6200 BC with the earliest known cultivation from 5700 BC.",
-        "The potato was domesticated in the Andes between 10,000 and 7,000 years ago.",
-        "All of the above."
+        "It suggests they had sophisticated and varied agricultural practices, including irrigation, terracing, and companion planting, adapted to diverse environments.",
+        "It suggests they relied solely on hunting and gathering and had no agriculture.",
+        "It suggests they learned all agricultural techniques from European settlers.",
+        "It suggests they only cultivated a single crop, maize."
       ],
       "answer_explanations": [
-        "Incorrect. The article states that sheep, goats, pigs, and cattle were domesticated around 10,000 years ago, but this is not the only correct statement; the others are also correct.",
-        "Incorrect. The article provides the timeline for rice domestication, but this is not the only correct statement; the others are also correct.",
-        "Incorrect. The article mentions the potato domestication in the Andes, but this is not the only correct statement; the others are also correct.",
-        "Correct. The article includes all three domestication timelines as factual information."
+        "Correct. The article details that the Aztecs 'developed irrigation systems, formed terraced hillsides, fertilized their soil, and developed chinampas,' and that North Americans developed the Three Sisters companion planting system, among many other crops and techniques.",
+        "Incorrect. The article provides extensive evidence of agriculture in the Americas, including domestication of maize, squash, beans, and cotton.",
+        "Incorrect. The article describes agricultural practices that predate European contact, such as the Three Sisters system.",
+        "Incorrect. The article lists numerous crops domesticated in the Americas, including squash, beans, cacao, tomato, and potato."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following best describes the impact of modern agricultural technologies on crop yields and the environment?",
+      "question": "How does the article's information about the timeline of human grain gathering versus planting inform our understanding of the transition to agriculture?",
       "options": [
-        "They have sharply increased crop yields but also contributed to ecological and environmental damage.",
-        "They have increased crop yields without any environmental impact.",
-        "They have decreased crop yields due to environmental damage.",
-        "They have had no significant effect on either crop yields or the environment."
+        "It suggests that humans had a long period of gathering wild grains before the practice of planting them began, indicating a gradual shift rather than an immediate revolution.",
+        "It suggests that planting grains was the first step, and gathering came much later.",
+        "It suggests that gathering and planting started at the same time.",
+        "It suggests that the transition was instantaneous and driven by a single discovery."
       ],
       "answer_explanations": [
-        "Correct. The article states that modern agronomy, plant breeding, agrochemicals, and technological developments have sharply increased crop yields, but also contributed to ecological and environmental damage.",
-        "Incorrect. The article notes that modern technologies have contributed to environmental damage.",
-        "Incorrect. The article indicates that modern technologies have sharply increased crop yields, not decreased them.",
-        "Incorrect. The article describes both increased yields and environmental damage."
+        "Correct. The article states that 'humans started gathering grains at least 105,000 years ago, but nascent farmers only began planting them around 11,500 years ago,' showing a vast gap of time and a gradual process.",
+        "Incorrect. The article clearly states gathering preceded planting by tens of thousands of years.",
+        "Incorrect. The article gives distinct dates for gathering (105,000 years ago) and planting (11,500 years ago).",
+        "Incorrect. The long time gap and the description of gradual domestication contradict the idea of an instantaneous revolution."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following statements about the etymology of the word 'agriculture' is accurate?",
+      "question": "What is the main tension or trade-off highlighted by the article's discussion of modern agricultural technologies?",
       "options": [
-        "It is a late Middle English adaptation of Latin agricultura, from ager 'field' and cultura '[cultivation]' or 'growing'.",
-        "It originates from Old French 'agriculture'.",
-        "It is derived from Greek 'agros' meaning 'field'.",
-        "It was coined in the 20th century."
+        "The tension between increased crop yields and the associated ecological and environmental damage.",
+        "The tension between using genetically modified organisms and the need to feed a growing population.",
+        "The tension between small farms and large farms in terms of food production.",
+        "The tension between producing food and producing non-food products like fibers and fuels."
       ],
       "answer_explanations": [
-        "Correct. The article provides the etymology: a late Middle English adaptation of Latin agricultura, from ager 'field' and cultura '[cultivation]' or 'growing'.",
-        "Incorrect. The article does not mention Old French as the origin.",
-        "Incorrect. The article does not mention Greek as the origin.",
-        "Incorrect. The article indicates the word has Middle English origins."
+        "Correct. The article states that 'technological developments have sharply increased crop yields, but also contributed to ecological and environmental damage,' directly highlighting this trade-off.",
+        "Incorrect. While GMOs are mentioned, the article does not frame them as a tension with feeding the population; it simply notes they are widely used and some countries ban them.",
+        "Incorrect. The article presents data on small and large farms but does not frame it as a tension or trade-off.",
+        "Incorrect. The article lists different product categories but does not present a conflict between them."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following statements about the scope of agriculture is supported by the article?",
+      "question": "Based on the article, what does the independent domestication of similar types of plants or animals in different regions suggest about human agricultural development?",
       "options": [
-        "It is defined with varying scopes, in its broadest sense using natural resources to produce commodities which maintain life, including food, fiber, forest products, horticultural crops, and their related services.",
-        "It is limited to the cultivation of crops only.",
-        "It excludes animal husbandry.",
-        "It is defined solely by the use of modern technology."
+        "It suggests that similar needs and environmental opportunities led different human societies to independently develop agricultural solutions.",
+        "It suggests that all agricultural knowledge was spread through a single trade network.",
+        "It suggests that agriculture was a random accident that only happened once.",
+        "It suggests that humans in different regions had no common needs or challenges."
       ],
       "answer_explanations": [
-        "Correct. The article defines agriculture with varying scopes, in its broadest sense using natural resources to produce commodities which maintain life, including food, fiber, forest products, horticultural crops, and their related services.",
-        "Incorrect. The article notes that agriculture includes more than just crops, such as fiber, forest products, and services.",
-        "Incorrect. The article includes animal husbandry as part of agriculture.",
-        "Incorrect. The article does not define agriculture solely by modern technology."
+        "Correct. The article notes that crops like cotton were 'domesticated in Peru by 5,600 years ago, and was independently domesticated in Eurasia,' and that plants were independently cultivated in at least 11 regions, implying convergent solutions to common human needs.",
+        "Incorrect. The article emphasizes independent origins, not a single trade network.",
+        "Incorrect. The article describes multiple independent origins, not a single accident.",
+        "Incorrect. The fact that different regions domesticated similar crops (e.g., grains) suggests common needs."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following best describes the impact of agriculture on rural society?",
+      "question": "How does the article's description of the Sumerians' and Ancient Egyptians' agriculture illustrate the relationship between agriculture and the development of early civilizations?",
       "options": [
-        "Farms and farming greatly influence rural economics and greatly shape rural society, affecting both the direct agricultural workforce and broader businesses that support the farms and farming populations.",
-        "Agriculture has no impact on rural society.",
-        "Agriculture only affects urban economies.",
-        "Agriculture only impacts the environment."
+        "It shows that agriculture, particularly irrigation-based farming along rivers, was foundational to the rise of these early urban societies.",
+        "It shows that these civilizations developed agriculture only after they had already built large cities.",
+        "It shows that agriculture was unimportant to these civilizations, which relied on trade.",
+        "It shows that these civilizations invented agriculture independently of any environmental factors."
       ],
       "answer_explanations": [
-        "Correct. The article states that farms and farming greatly influence rural economics and greatly shape rural society, affecting both the direct agricultural workforce and broader businesses that support the farms and farming populations.",
-        "Incorrect. The article clearly states that agriculture significantly impacts rural society.",
-        "Incorrect. The article focuses on rural, not urban, impacts.",
-        "Incorrect. While agriculture does impact the environment, the article also highlights its societal impacts."
+        "Correct. The article states that Sumerians 'started to live in villages from about 8000 BC, relying on the Tigris and Euphrates rivers and a canal system for irrigation,' and Egyptian agriculture 'relied on the Nile River and its seasonal flooding,' linking agriculture directly to the rise of these societies.",
+        "Incorrect. The article describes agriculture as preceding or coinciding with the development of villages and cities, not following them.",
+        "Incorrect. The article emphasizes the central role of agriculture in these civilizations.",
+        "Incorrect. The article highlights the reliance on river systems and irrigation, showing environmental factors were crucial."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following statements about the global agricultural production amounts is accurate?",
+      "question": "What does the article's mention of 'forest gardening' and 'fire-stick farming' among indigenous peoples of the Americas and Australia imply about their relationship with the environment?",
       "options": [
-        "Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood.",
-        "Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood, but no food is lost before retail.",
-        "Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood, with around 14% of the world's food lost before reaching the retail level.",
-        "Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood, with no mention of food loss."
+        "It implies they actively managed and shaped their environments to enhance food production, rather than passively extracting resources.",
+        "It implies they had no impact on their environment.",
+        "It implies they only used fire for cooking and warmth, not for agriculture.",
+        "It implies they practiced agriculture identical to that of European settlers."
       ],
       "answer_explanations": [
-        "Incorrect. The article includes additional detail about food loss before retail.",
-        "Incorrect. The article notes that around 14% of the world's food is lost before reaching the retail level.",
-        "Correct. The article states that global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibers, and 4 billion m3 of wood, and that around 14% of the world's food is lost from production before reaching the retail level.",
-        "Incorrect. The article includes the detail about food loss."
+        "Correct. The article describes 'forest gardening' and 'fire-stick farming' as practices that managed the landscape, and notes that natives 'controlled fire on a regional scale to create a low-intensity fire ecology that sustained a low-density agriculture,' showing active environmental management.",
+        "Incorrect. Practices like controlled burning and forest gardening clearly show a significant impact on the environment.",
+        "Incorrect. The article explicitly links fire use to agriculture, calling it 'fire-stick farming'.",
+        "Incorrect. The article describes unique practices like the Three Sisters and fire-stick farming, which differ from European agriculture."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following statements about the historical origins of agriculture is supported by the article?",
+      "question": "Considering the article's data on food loss and global production, what is the most logical conclusion about the efficiency of the global food system?",
       "options": [
-        "Scholars have offered multiple hypotheses to explain the historical origins of agriculture, with studies indicating an initial period of intensification and increasing sedentism before domestication.",
-        "Agriculture originated solely from a single hypothesis.",
-        "Agriculture originated from a single center of origin.",
-        "Agriculture was invented by a single civilization."
+        "A significant portion of food produced is wasted before it even reaches consumers, indicating inefficiencies in the supply chain.",
+        "The global food system is perfectly efficient, with no food being lost.",
+        "Food loss only occurs in developing countries and not in developed ones.",
+        "The 11 billion tonnes of food produced is exactly what is consumed globally."
       ],
       "answer_explanations": [
-        "Correct. The article states that scholars have offered multiple hypotheses and that studies of the transition from hunter-gatherer to agricultural societies indicate an initial period of intensification and increasing sedentism before domestication.",
-        "Incorrect. The article mentions multiple hypotheses, not a single one.",
-        "Incorrect. The article notes that agriculture began independently in at least 11 separate centers of origin.",
-        "Incorrect. The article emphasizes multiple independent origins, not a single civilization."
+        "Correct. The article states that 'around 14% of the world's food is lost from production before reaching the retail level,' which directly implies a significant inefficiency in the supply chain.",
+        "Incorrect. The article explicitly mentions a 14% loss rate, contradicting perfect efficiency.",
+        "Incorrect. The article does not specify that food loss is limited to developing countries.",
+        "Incorrect. The article notes that 14% is lost before retail, implying that not all 11 billion tonnes is consumed."
       ]
     }
   ]

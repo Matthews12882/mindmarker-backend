@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is biology defined as in the article?",
+      "question": "What is biology the scientific study of?",
       "options": [
-        "The scientific study of life and living organisms",
-        "The study of chemical processes within living organisms",
-        "The study of evolution and natural selection",
-        "The study of cells and their functions"
+        "Life and living organisms",
+        "Rocks and minerals",
+        "Weather patterns",
+        "Stars and planets"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Biology is the scientific study of life and living organisms.\"",
-        "Incorrect. Biochemistry, not biology generally, is defined as the study of chemical processes within living organisms.",
-        "Incorrect. Evolution and natural selection are important parts of biology, but they do not define the entire field.",
-        "Incorrect. Cell biology studies cells and their functions, but biology as a whole is broader than just cells."
+        "Correct. The article states that biology is the scientific study of life and living organisms.",
+        "Incorrect. The article does not mention rocks and minerals as the subject of biology.",
+        "Incorrect. Weather patterns are not the focus of biology according to the article.",
+        "Incorrect. Stars and planets are not mentioned as the subject of biology."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as one of the five fundamental themes of biology?",
+      "question": "Which of the following is described as the basic unit of life?",
       "options": [
-        "Homeostasis, the maintenance of internal stability",
-        "Photosynthesis as the primary energy source for all life",
-        "The atom as the basic unit of living things",
-        "Spontaneous generation as the origin of cells"
+        "The cell",
+        "The gene",
+        "The organism",
+        "The ecosystem"
       ],
       "answer_explanations": [
-        "Correct. The article lists homeostasis, defined as the maintenance of internal stability, as one of the five central themes of biology.",
-        "Incorrect. The article mentions energy transformation generally but does not identify photosynthesis as the primary energy source for all life.",
-        "Incorrect. The article identifies the cell, not the atom, as the basic unit of life.",
-        "Incorrect. The article notes that Schleiden and Schwann opposed spontaneous generation, and that Remak and Virchow helped establish that cells come from the division of other cells."
+        "Correct. The article lists 'the cell as the basic unit of life' as one of the central themes of biology.",
+        "Incorrect. Genes are mentioned as the basis of inheritance, not the basic unit of life.",
+        "Incorrect. Organisms are mentioned as a level of organization, not the basic unit of life.",
+        "Incorrect. Ecosystems are mentioned as a level of organization, not the basic unit of life."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what do genes and heredity form the basis of?",
+      "question": "According to the article, what is the basis of inheritance?",
       "options": [
-        "Inheritance",
-        "Energy transformation",
-        "Biological diversity",
-        "Internal stability"
+        "Genes and heredity",
+        "Cells and energy",
+        "Evolution and diversity",
+        "Homeostasis and stability"
       ],
       "answer_explanations": [
-        "Correct. The article states that genes and heredity are \"the basis of inheritance.\"",
-        "Incorrect. Energy transformation is listed as a separate theme, not the basis of inheritance.",
-        "Incorrect. Evolution is described as the driver of biological diversity, not genes and heredity.",
-        "Incorrect. Homeostasis is described as the maintenance of internal stability, not genes and heredity."
+        "Correct. The article states that 'genes and heredity' are the basis of inheritance.",
+        "Incorrect. Cells and energy are mentioned as separate themes, not as the basis of inheritance.",
+        "Incorrect. Evolution is described as the driver of biological diversity, not the basis of inheritance.",
+        "Incorrect. Homeostasis is described as the maintenance of internal stability, not the basis of inheritance."
       ]
     },
     {
       "id": 4,
-      "question": "Which subdiscipline of biology is defined as the scientific study of inheritance?",
+      "question": "What is described as the driver of biological diversity?",
       "options": [
-        "Genetics",
-        "Ecology",
-        "Physiology",
-        "Systematics"
+        "Evolution",
+        "Energy transformation",
+        "Homeostasis",
+        "Genes"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Genetics is the scientific study of inheritance.\"",
-        "Incorrect. Ecology is listed as a subdiscipline but is not defined as the study of inheritance.",
-        "Incorrect. Physiology is listed as a subdiscipline but is not defined as the study of inheritance.",
-        "Incorrect. Systematics is listed as a subdiscipline but is not defined as the study of inheritance."
+        "Correct. The article states that evolution is the driver of biological diversity.",
+        "Incorrect. Energy transformation is mentioned as sustaining life processes, not as the driver of diversity.",
+        "Incorrect. Homeostasis is the maintenance of internal stability, not the driver of diversity.",
+        "Incorrect. Genes are the basis of inheritance, not the driver of diversity."
       ]
     },
     {
       "id": 5,
-      "question": "Who first articulated the theory of evolution by natural selection?",
+      "question": "What does homeostasis refer to in biology?",
       "options": [
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Jean-Baptiste Lamarck",
-        "Alfred Russel Wallace"
+        "Maintenance of internal stability",
+        "Growth of organisms",
+        "Distribution of life",
+        "Origin of life"
       ],
       "answer_explanations": [
-        "Correct. The article states that modern biology is grounded in the theory of evolution by natural selection, \"first articulated by Charles Darwin.\"",
-        "Incorrect. Gregor Mendel's work outlined the principles of biological inheritance, not natural selection.",
-        "Incorrect. Jean-Baptiste Lamarck presented a coherent theory of evolution, but the article credits Darwin with first articulating natural selection.",
-        "Incorrect. Alfred Russel Wallace independently reached similar conclusions, but the article states Darwin first articulated the theory."
+        "Correct. The article defines homeostasis as 'the maintenance of internal stability'.",
+        "Incorrect. Growth is mentioned as one of the aspects biology explains, but not as homeostasis.",
+        "Incorrect. Distribution of life is mentioned as something biology explains, but not as homeostasis.",
+        "Incorrect. Origin is mentioned as something biology explains, but not as homeostasis."
       ]
     },
     {
       "id": 6,
-      "question": "What did Schleiden and Schwann promote in 1838?",
+      "question": "Which of the following is NOT listed as a level of organization examined by biology?",
       "options": [
-        "That the basic unit of organisms is the cell and that individual cells have all the characteristics of life",
-        "That all cells come from the division of other cells",
-        "That spontaneous generation is the origin of all cells",
-        "That DNA is the component of chromosomes that holds genes"
+        "Planets",
+        "Molecules",
+        "Cells",
+        "Ecosystems"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1838 Schleiden and Schwann promoted the ideas that (1) the basic unit of organisms is the cell and (2) individual cells have all the characteristics of life.",
-        "Incorrect. The article notes that Schleiden and Schwann opposed the idea that all cells come from the division of other cells; Robert Remak and Rudolf Virchow later established that tenet.",
-        "Incorrect. The article says Schleiden and Schwann opposed spontaneous generation, not supported it.",
-        "Incorrect. The HersheyâChase experiments in the 1940s and 1950s pointed to DNA as the component of chromosomes holding genes, not Schleiden and Schwann."
+        "Correct. The article mentions molecules, cells, organisms, populations, and ecosystems, but not planets.",
+        "Incorrect. Molecules are explicitly listed as a level of organization.",
+        "Incorrect. Cells are explicitly listed as a level of organization.",
+        "Incorrect. Ecosystems are explicitly listed as a level of organization."
       ]
     },
     {
       "id": 7,
-      "question": "From which languages do the Greek roots of the word \"biology\" come?",
+      "question": "Who first articulated the theory of evolution by natural selection?",
       "options": [
-        "Greek",
-        "Latin and French",
-        "German and English",
-        "Arabic and Sanskrit"
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Isaac Newton"
       ],
       "answer_explanations": [
-        "Correct. The Etymology section states the word comes from Greek Î²Î¯Î¿Ï (bÃ­os) meaning 'life' and Î»Î¿Î³Î¯Î± (logia) meaning 'study of'.",
-        "Incorrect. The article identifies Greek, not Latin and French, as the source of the roots.",
-        "Incorrect. The article identifies Greek, not German and English, as the source of the roots.",
-        "Incorrect. The article identifies Greek, not Arabic and Sanskrit, as the source of the roots."
+        "Correct. The article states that the theory of evolution by natural selection was 'first articulated by Charles Darwin'.",
+        "Incorrect. The article does not mention Gregor Mendel in this context.",
+        "Incorrect. The article does not mention Louis Pasteur in this context.",
+        "Incorrect. The article does not mention Isaac Newton in this context."
       ]
     },
     {
       "id": 8,
-      "question": "Which scientist began the scientific study of plants?",
+      "question": "What is modern biology grounded in, according to the article?",
       "options": [
-        "Theophrastus",
-        "Aristotle",
-        "Carl Linnaeus",
-        "Anton van Leeuwenhoek"
+        "The theory of evolution and the molecular understanding of genes in DNA",
+        "The study of weather and climate",
+        "The classification of rocks and minerals",
+        "The observation of stars and planets"
       ],
       "answer_explanations": [
-        "Correct. The article states that Aristotle's successor, Theophrastus, began the scientific study of plants.",
-        "Incorrect. Aristotle contributed extensively to biological knowledge and explored biological causation, but Theophrastus began the study of plants.",
-        "Incorrect. Carl Linnaeus published a basic taxonomy and introduced scientific names for species, but did not begin the scientific study of plants.",
-        "Incorrect. Anton van Leeuwenhoek improved the microscope and helped discover microscopic life, but did not begin the scientific study of plants."
+        "Correct. The article states that modern biology is grounded in the theory of evolution by natural selection and in the molecular understanding of genes encoded in DNA.",
+        "Incorrect. Weather and climate are not mentioned as grounding for modern biology.",
+        "Incorrect. Rocks and minerals are not mentioned as grounding for modern biology.",
+        "Incorrect. Stars and planets are not mentioned as grounding for modern biology."
       ]
     },
     {
       "id": 9,
-      "question": "What did Gregor Mendel's work in 1865 outline?",
+      "question": "Which of the following is mentioned as an application of advances in biology?",
       "options": [
-        "The principles of biological inheritance",
-        "The structure of DNA",
-        "The theory of evolution by natural selection",
-        "The genetic code"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Mendel's work in 1865 \"outlined the principles of biological inheritance.\"",
-        "Incorrect. The structure of DNA was discovered by James Watson and Francis Crick in 1953, not by Mendel in 1865.",
-        "Incorrect. Charles Darwin forged the theory of evolution by natural selection, not Gregor Mendel.",
-        "Incorrect. The genetic code was cracked by Har Gobind Khorana, Robert W. Holley, and Marshall Warren Nirenberg after DNA was understood to contain codons, not by Mendel."
-      ]
-    },
-    {
-      "id": 10,
-      "question": "Which of the following is listed as a subdiscipline of biology in the article?",
-      "options": [
-        "Molecular biology",
-        "Astrophysics",
+        "Medicine",
+        "Astronomy",
         "Geology",
         "Meteorology"
       ],
       "answer_explanations": [
-        "Correct. The article lists molecular biology among the subdisciplines of biology.",
-        "Incorrect. Astrophysics is not mentioned as a subdiscipline of biology in the article.",
-        "Incorrect. Geology is not mentioned as a subdiscipline of biology in the article.",
-        "Incorrect. Meteorology is not mentioned as a subdiscipline of biology in the article."
+        "Correct. The article lists medicine as one of the applications of advances in biology.",
+        "Incorrect. Astronomy is not mentioned as an application.",
+        "Incorrect. Geology is not mentioned as an application.",
+        "Incorrect. Meteorology is not mentioned as an application."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "According to the article, how do biologists classify organisms?",
+      "options": [
+        "Based on shared characteristics and evolutionary relationships",
+        "Based on their size and color",
+        "Based on their habitat only",
+        "Based on their diet only"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that biologists classify organisms 'based on shared characteristics and evolutionary relationships'.",
+        "Incorrect. Size and color are not mentioned as classification criteria.",
+        "Incorrect. Habitat only is not mentioned as the classification basis.",
+        "Incorrect. Diet only is not mentioned as the classification basis."
       ]
     }
   ]

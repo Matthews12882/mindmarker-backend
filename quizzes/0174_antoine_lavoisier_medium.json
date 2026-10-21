@@ -5,23 +5,23 @@
   "questions": [
     {
       "id": 1,
-      "question": "What major shift did Lavoisier bring to chemistry according to the article?",
+      "question": "What was Antoine Lavoisier's major contribution to chemistry?",
       "options": [
         "He changed chemistry from a qualitative to a quantitative science.",
-        "He replaced the metric system with older measurement standards.",
-        "He proved that phlogiston theory was correct.",
-        "He focused chemistry entirely on biological processes rather than matter."
+        "He discovered the phlogiston theory.",
+        "He invented the microscope.",
+        "He developed the first atomic bomb."
       ],
       "answer_explanations": [
-        "Correct. The article states that Lavoisier's great accomplishments stem largely from changing the science from a qualitative to a quantitative one.",
-        "Incorrect. The article says Lavoisier helped construct the metric system, not replace it.",
-        "Incorrect. Lavoisier opposed the phlogiston theory of combustion rather than proving it correct.",
-        "Incorrect. While he influenced biology, the article emphasizes his quantitative approach to chemistry, not a shift entirely to biological processes."
+        "Correct. The article states that Lavoisier's great accomplishments in chemistry stem largely from his changing the science from a qualitative to a quantitative one.",
+        "Incorrect. Lavoisier opposed the phlogiston theory; he did not discover it.",
+        "Incorrect. The article does not mention the microscope.",
+        "Incorrect. The atomic bomb was developed much later and is not mentioned."
       ]
     },
     {
       "id": 2,
-      "question": "Which element did Lavoisier name and recognize in 1778?",
+      "question": "Which element did Lavoisier name and recognize as an element in 1778?",
       "options": [
         "Oxygen",
         "Hydrogen",
@@ -29,138 +29,138 @@
         "Carbon"
       ],
       "answer_explanations": [
-        "Correct. The article states that Lavoisier named oxygen in 1778, recognizing it as an element.",
-        "Incorrect. Lavoisier recognized hydrogen as an element in 1783, not 1778.",
-        "Incorrect. Lavoisier predicted the existence of silicon but did not name it in 1778.",
-        "Incorrect. The article does not mention Lavoisier naming carbon in 1778."
+        "Correct. The article says he named oxygen (1778), recognizing it as an element.",
+        "Incorrect. Hydrogen was recognized as an element later, in 1783.",
+        "Incorrect. Silicon was predicted in his list of elements, not named in 1778.",
+        "Incorrect. Carbon is not mentioned in this context."
       ]
     },
     {
       "id": 3,
-      "question": "What did Lavoisier confirm about matter in a closed system using precise measurements?",
+      "question": "What did Lavoisier help construct and write the first extensive list of?",
       "options": [
-        "Its mass always remains the same even as its form or shape changes.",
-        "Its mass increases when matter changes form.",
-        "Its mass decreases during chemical reactions.",
-        "Its mass can be created or destroyed in a closed system."
+        "The metric system and elements",
+        "The periodic table and compounds",
+        "The thermometer and gases",
+        "The barometer and acids"
       ],
       "answer_explanations": [
-        "Correct. The article says he confirmed that although matter in a closed system may change its form or shape, its mass always remains the same.",
-        "Incorrect. The article states mass remains the same, not that it increases.",
-        "Incorrect. The article states mass remains the same, not that it decreases.",
-        "Incorrect. The article describes conservation of mass, meaning mass is neither created nor destroyed."
+        "Correct. The article states he helped construct the metric system and wrote the first extensive list of elements.",
+        "Incorrect. He wrote a list of elements, not compounds, and the periodic table came later.",
+        "Incorrect. The thermometer and gases are not mentioned as his contributions.",
+        "Incorrect. The barometer and acids are not mentioned."
       ]
     },
     {
       "id": 4,
-      "question": "How did Marie-Anne Paulze Lavoisier contribute to her husband's scientific work?",
+      "question": "What was the Ferme gÃ©nÃ©rale?",
       "options": [
-        "She translated English documents, assisted in the laboratory, and created sketches and engravings of instruments.",
-        "She opposed his work on the metric system and refused to assist him.",
-        "She conducted all of his experiments independently while he handled administration.",
-        "She published his memoirs in English translation during his lifetime."
+        "A tax farming financial company",
+        "A scientific academy",
+        "A royal laboratory",
+        "A type of gunpowder"
       ],
       "answer_explanations": [
-        "Correct. The article says she translated English documents, assisted in the laboratory, and created sketches and carved engravings of laboratory instruments.",
-        "Incorrect. The article states she worked with him to develop the metric system, not that she opposed it.",
-        "Incorrect. The article describes her as his assistant and collaborator, not as an independent experimenter.",
-        "Incorrect. The article says she edited and published his memoirs but notes it is unknown whether English translations survived; it does not say she published them in English during his lifetime."
+        "Correct. The article describes the Ferme gÃ©nÃ©rale as a tax farming financial company that advanced tax revenue to the royal government.",
+        "Incorrect. The Ferme gÃ©nÃ©rale was not a scientific academy.",
+        "Incorrect. It was not a laboratory.",
+        "Incorrect. It was not a type of gunpowder."
       ]
     },
     {
       "id": 5,
-      "question": "Why was the Ferme gÃ©nÃ©rale hated under the Ancien RÃ©gime?",
+      "question": "How did Lavoisier's wife, Marie-Anne, assist him in his scientific work?",
       "options": [
-        "Because of the profits it took at the expense of the state, the secrecy of its contracts, and the violence of its armed agents.",
-        "Because it refused to collect taxes for the royal government.",
-        "Because it funded scientific research instead of public works.",
-        "Because it abolished customs duties around Paris."
+        "She translated English documents and created sketches of laboratory instruments",
+        "She discovered the law of conservation of mass",
+        "She was the first woman to join the Academy of Sciences",
+        "She invented the metric system"
       ],
       "answer_explanations": [
-        "Correct. The article lists these exact reasons for the Ferme gÃ©nÃ©rale being one of the most hated components of the Ancien RÃ©gime.",
-        "Incorrect. The article says it advanced estimated tax revenue to the government in return for the right to collect taxes, not that it refused to collect taxes.",
-        "Incorrect. The article says his activities with the Ferme gÃ©nÃ©rale enabled him to fund research, but this is not why it was hated.",
-        "Incorrect. The article says Lavoisier commissioned a wall around Paris so customs duties could be collected, not abolished."
+        "Correct. The article says she translated English documents for him and created many sketches and carved engravings of laboratory instruments.",
+        "Incorrect. The law of conservation of mass is attributed to Lavoisier, not his wife.",
+        "Incorrect. The article does not mention her joining the Academy.",
+        "Incorrect. The metric system was developed by a commission, not by her."
       ]
     },
     {
       "id": 6,
-      "question": "What happened to Lavoisier at the height of the French Revolution?",
+      "question": "What was the main reason Lavoisier was guillotined during the French Revolution?",
       "options": [
-        "He was charged with tax fraud and selling adulterated tobacco and was guillotined.",
-        "He was exiled to England for his aristocratic ties.",
-        "He was appointed leader of the new revolutionary government.",
-        "He was imprisoned but escaped before trial."
+        "He was charged with tax fraud and selling adulterated tobacco",
+        "He was accused of being a spy for England",
+        "He refused to support the revolution",
+        "He was caught stealing from the royal treasury"
       ],
       "answer_explanations": [
-        "Correct. The article states he was charged with tax fraud and selling adulterated tobacco and was guillotined despite appeals to spare him.",
-        "Incorrect. The article does not mention exile to England.",
-        "Incorrect. The article describes his execution, not an appointment to lead the government.",
-        "Incorrect. The article says he was guillotined and later exonerated, not that he escaped."
+        "Correct. The article states he was charged with tax fraud and selling adulterated tobacco and was guillotined.",
+        "Incorrect. There is no mention of spying.",
+        "Incorrect. His political activities with the Ferme gÃ©nÃ©rale were the issue, not refusal to support the revolution.",
+        "Incorrect. The charge was tax fraud and tobacco adulteration, not stealing from the treasury."
       ]
     },
     {
       "id": 7,
-      "question": "What conclusion did Lavoisier reach after ten years of work on his experimental farm in the Sologne?",
+      "question": "What did Lavoisier's study on the supposed conversion of water into earth show?",
       "options": [
-        "The tax system left tenant farmers with so little that it was unrealistic to expect them to change traditional practices.",
-        "New crops and livestock alone could fully restore poor farmland regardless of taxes.",
-        "Ergotism was caused by poor ventilation rather than humidity affecting rye.",
-        "Agricultural reform was impossible because farmers refused to try new methods."
+        "The 'earthy' sediment came from the glass vessel, not from water changing into earth",
+        "Water can indeed turn into earth",
+        "Water is a compound of hydrogen and oxygen",
+        "Evaporation leaves behind minerals"
       ],
       "answer_explanations": [
-        "Correct. The article says his conclusion was that despite possibilities for reform, the tax system left tenant farmers with so little that changing traditional practices was unrealistic.",
-        "Incorrect. The article says tax burdens limited farmers' ability to change, not that new crops alone could restore farmland.",
-        "Incorrect. The article links ergotism to humidity and rye blight, not ventilation.",
-        "Incorrect. The article attributes the barrier to the tax system, not farmer refusal."
+        "Correct. The article says he showed the sediment was due to the gradual disintegration of the inside of the glass vessel, not a conversion of water into earth.",
+        "Incorrect. He disproved that idea.",
+        "Incorrect. That was a different discovery, not mentioned in this context.",
+        "Incorrect. The article does not mention minerals from evaporation."
       ]
     },
     {
       "id": 8,
-      "question": "How did Lavoisier's appointment to the Gunpowder Commission benefit his scientific career?",
+      "question": "What did Lavoisier recommend to improve the tobacco sold by the Farmers General?",
       "options": [
-        "It gave him a house and laboratory in the Royal Arsenal where he lived and worked between 1775 and 1792.",
-        "It forced him to abandon chemistry and focus exclusively on military engineering.",
-        "It ended his involvement with the Ferme gÃ©nÃ©rale and its tax collection.",
-        "It led to his immediate election as head of the French Academy of Sciences."
+        "Adding a small amount of water and ash to improve flavour and bulk",
+        "Selling only pure tobacco without any additives",
+        "Increasing the price of tobacco",
+        "Banning the sale of tobacco"
       ],
       "answer_explanations": [
-        "Correct. The article states that as a commissioner, he enjoyed a house and laboratory in the Royal Arsenal, where he lived and worked between 1775 and 1792.",
-        "Incorrect. The article says his combustion research continued alongside his public duties, not that he abandoned chemistry.",
-        "Incorrect. The article does not say the appointment ended his Ferme gÃ©nÃ©rale involvement.",
-        "Incorrect. The article does not mention him becoming head of the Academy of Sciences as a result."
+        "Correct. The article says he noticed a small amount of ash improved flavour and recommended adding a consistent 6.3% of water by volume.",
+        "Incorrect. He recommended adding small amounts of water and ash.",
+        "Incorrect. The article does not mention price changes.",
+        "Incorrect. He did not recommend banning tobacco."
       ]
     },
     {
       "id": 9,
-      "question": "What method did Lavoisier devise to detect ash mixed into tobacco?",
+      "question": "What was Lavoisier's role in the Gunpowder Commission?",
       "options": [
-        "Pouring an acid solution such as spirit of vitriol or aqua fortis on ash causes an immediate intense effervescent reaction with detectable noise.",
-        "Measuring the weight of tobacco before and after burning to see if residue remains.",
-        "Asking retailers to report the flavor of the tobacco they sold.",
-        "Using a microscope to look for crystalline ash particles in tobacco leaves."
+        "He was one of four commissioners appointed to improve gunpowder supply and quality",
+        "He was the sole inventor of gunpowder",
+        "He was a soldier who used gunpowder in battles",
+        "He was a merchant who sold gunpowder"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Lavoisier's method: pouring acid on ash produces an immediate very intense effervescent reaction accompanied by easily detected noise.",
-        "Incorrect. The article does not describe weighing tobacco before and after burning.",
-        "Incorrect. While Lavoisier noted flavor effects, his detection method was the chemical acid test, not retailer reports.",
-        "Incorrect. The article does not mention using a microscope."
+        "Correct. The article states he was made one of four commissioners of gunpowder appointed to replace a private company, and he improved quantity and quality.",
+        "Incorrect. He did not invent gunpowder; it already existed.",
+        "Incorrect. He was not a soldier.",
+        "Incorrect. He was a commissioner, not a merchant."
       ]
     },
     {
       "id": 10,
-      "question": "Why did Lavoisier's involvement with the Ferme gÃ©nÃ©rale have consequences for him during the French Revolution?",
+      "question": "What did Lavoisier do to help public education in the sciences?",
       "options": [
-        "The systems he introduced for tobacco were deeply unpopular with retailers, and his tax-collecting role damaged his reputation.",
-        "He used Ferme gÃ©nÃ©rale funds to finance a secret royalist army.",
-        "He refused to collect taxes during the Revolution and was labeled a traitor.",
-        "The Ferme gÃ©nÃ©rale was abolished before he joined it, so his membership was illegal."
+        "He founded two organizations, LycÃ©e and MusÃ©e des Arts et MÃ©tiers, to serve as educational tools",
+        "He wrote textbooks for all schools",
+        "He built a public library",
+        "He gave free lectures at the Academy"
       ],
       "answer_explanations": [
-        "Correct. The article says his tobacco-checking systems were deeply unpopular with retailers and that his participation in tax collection did not help his reputation when the Reign of Terror began.",
-        "Incorrect. The article does not mention financing a royalist army.",
-        "Incorrect. The article says he collected taxes, not that he refused to do so.",
-        "Incorrect. The article says he bought a share in the Ferme gÃ©nÃ©rale and worked for it; it was not abolished before he joined."
+        "Correct. The article says he founded two organizations, LycÃ©e and MusÃ©e des Arts et MÃ©tiers, which were created to serve as educational tools for the public.",
+        "Incorrect. The article does not mention textbooks.",
+        "Incorrect. A public library is not mentioned.",
+        "Incorrect. He did not give free lectures at the Academy; he founded institutions."
       ]
     }
   ]

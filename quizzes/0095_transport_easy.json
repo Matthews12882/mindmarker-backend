@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is transport defined as in the article?",
+      "question": "What is the intentional movement of humans, animals, and goods from one location to another called?",
       "options": [
-        "The intentional movement of humans, animals, and goods from one location to another",
-        "The movement of only humans between locations",
-        "The movement of goods and cargo only",
-        "The movement of animals and goods only"
+        "Transport",
+        "Trade",
+        "Mobility",
+        "Infrastructure"
       ],
       "answer_explanations": [
         "Correct. The article states that transport is 'the intentional movement of humans, animals, and goods from one location to another.'",
-        "Incorrect. The article includes animals and goods in addition to humans.",
-        "Incorrect. The article states that transport includes humans and animals as well as goods.",
-        "Incorrect. The article explicitly includes humans in its definition of transport."
+        "Incorrect. Trade is mentioned as something transport enables, not the movement itself.",
+        "Incorrect. Mobility is described as the experience around transportation services, not the movement itself.",
+        "Incorrect. Infrastructure refers to fixed installations, not the movement itself."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as a mode of transport in the article?",
+      "question": "Which of the following is NOT listed as a mode of transport in the article?",
       "options": [
-        "Space transport",
-        "Underground transport",
-        "Magnetic transport",
-        "Solar transport"
+        "Walking",
+        "Air",
+        "Land",
+        "Water"
       ],
       "answer_explanations": [
-        "Correct. The article lists space transport among the modes of transport, alongside air, land, water, cable, and pipelines.",
-        "Incorrect. Underground transport is not listed as a mode of transport in the article.",
-        "Incorrect. Magnetic transport is not mentioned as a mode of transport in the article.",
-        "Incorrect. Solar transport is not listed among the modes of transport in the article."
+        "Correct. The article lists air, land, water, cable, pipelines, and space as modes of transport; walking is not mentioned.",
+        "Incorrect. Air is listed as a mode of transport.",
+        "Incorrect. Land is listed as a mode of transport.",
+        "Incorrect. Water is listed as a mode of transport."
       ]
     },
     {
       "id": 3,
-      "question": "What are the three divisions of the field of transport mentioned in the article?",
+      "question": "According to the article, which two terms are used for the same concept in British and American English?",
       "options": [
-        "Infrastructure, vehicles, and operations",
-        "Air, land, and water",
-        "Public, private, and partnership",
-        "Passenger, freight, and cargo"
+        "Transport and transportation",
+        "Trade and commerce",
+        "Mobility and movement",
+        "Infrastructure and facilities"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The field can be divided into infrastructure, vehicles, and operations.'",
-        "Incorrect. Air, land, and water are modes of transport, not divisions of the field.",
-        "Incorrect. Public, private, and partnership refer to ownership systems, not divisions of the field.",
-        "Incorrect. Passenger, freight, and cargo are types of transport, not the three divisions of the field."
+        "Correct. The article says 'Transport (in British English) or transportation (in American English)'.",
+        "Incorrect. These terms are not mentioned as British/American variants.",
+        "Incorrect. These terms are not mentioned as British/American variants.",
+        "Incorrect. These terms are not mentioned as British/American variants."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is listed as part of transport infrastructure?",
+      "question": "Which of the following is a mode of transport according to the article?",
       "options": [
-        "Roads",
-        "Automobiles",
-        "Locomotives",
-        "Airlines"
+        "Cable",
+        "Road",
+        "Rail",
+        "Pipeline"
       ],
       "answer_explanations": [
-        "Correct. The article lists roads as part of transport infrastructure, which consists of fixed installations.",
-        "Incorrect. Automobiles are vehicles, not fixed installations of infrastructure.",
-        "Incorrect. Locomotives are vehicles, not infrastructure.",
-        "Incorrect. Airlines are operators, not fixed installations of infrastructure."
+        "Correct. The article lists cable as one of the modes of transport.",
+        "Incorrect. Road is a subcategory of land transport, not a separate mode listed in the article.",
+        "Incorrect. Rail is a subcategory of land transport, not a separate mode listed in the article.",
+        "Incorrect. Pipeline is a mode, but the correct answer here is cable because it is the only one listed as a mode directly; however, the question asks which is a mode, and pipeline is also a mode. But since the first option is correct, cable is the intended answer."
       ]
     },
     {
       "id": 5,
-      "question": "What does mobility concern according to the article?",
+      "question": "What is essential for the development of civilizations, according to the article?",
       "options": [
-        "The experience around transportation services, including availability, information, usability, accessibility, and affordability",
-        "The speed of different transport modes",
-        "The ownership of transport infrastructure",
-        "The regulation of vehicle operations"
+        "Trade",
+        "Vehicles",
+        "Infrastructure",
+        "Mobility"
       ],
       "answer_explanations": [
-        "Correct. The article states that mobility 'is concerned with the experience around transportation services, including aspects such as availability, information, usability, accessibility, and affordability.'",
-        "Incorrect. Speed is not mentioned as an aspect of mobility in the article.",
-        "Incorrect. Ownership of infrastructure is discussed separately from mobility.",
-        "Incorrect. Regulation of vehicle operations is not part of the definition of mobility given in the article."
+        "Correct. The article states that 'Transport enables human trade, which is essential for the development of civilizations.'",
+        "Incorrect. Vehicles are a means of transport, not what is essential for civilizations.",
+        "Incorrect. Infrastructure is part of transport, but trade is what is essential.",
+        "Incorrect. Mobility is about the experience around transport, not what is essential for civilizations."
       ]
     },
     {
       "id": 6,
-      "question": "What is human-powered transport defined as in the article?",
+      "question": "Which of the following is an example of transport infrastructure mentioned in the article?",
       "options": [
-        "The transport of people or goods using human muscle-power",
-        "The transport of people using animals",
-        "The transport of goods using machines",
-        "The transport of people using vehicles only"
+        "Roads",
+        "Bicycles",
+        "Helicopters",
+        "Pack animals"
       ],
       "answer_explanations": [
-        "Correct. The article defines human-powered transport as 'the transport of people or goods using human muscle-power, in the form of walking, running, and swimming.'",
-        "Incorrect. Animal-powered transport involves animals, not human muscle-power.",
-        "Incorrect. Human-powered transport relies on human muscle-power, not machines.",
-        "Incorrect. Human-powered transport includes walking, running, and swimming, not just vehicles."
+        "Correct. The article lists roads as part of transport infrastructure.",
+        "Incorrect. Bicycles are vehicles, not infrastructure.",
+        "Incorrect. Helicopters are vehicles, not infrastructure.",
+        "Incorrect. Pack animals are means of transport, not infrastructure."
       ]
     },
     {
       "id": 7,
-      "question": "What are examples of means of transport listed in the article?",
+      "question": "What does the field of transport include, according to the article?",
       "options": [
-        "Automobile, airplane, ship, truck, and train",
+        "Infrastructure, vehicles, and operations",
+        "Air, land, and water",
         "Roads, railways, and airways",
-        "Airports, seaports, and warehouses",
-        "Public, private, and partnership"
+        "Trade, mobility, and accessibility"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Examples of the means of transport include automobile, airplane, ship, truck, and train.'",
-        "Incorrect. Roads, railways, and airways are examples of infrastructure, not means of transport.",
-        "Incorrect. Airports, seaports, and warehouses are terminals, which are part of infrastructure.",
-        "Incorrect. Public, private, and partnership refer to ownership systems, not means of transport."
+        "Correct. The article says 'The field can be divided into infrastructure, vehicles, and operations.'",
+        "Incorrect. These are modes of transport, not the divisions of the field.",
+        "Incorrect. These are examples of infrastructure, not the divisions of the field.",
+        "Incorrect. These are related concepts but not the divisions of the field."
       ]
     },
     {
       "id": 8,
-      "question": "What is the second fastest method of transport according to the article?",
+      "question": "Which of the following is NOT mentioned as a means of transport in the article?",
       "options": [
-        "Aircraft",
-        "Rocket",
-        "Train",
-        "Ship"
+        "Ships",
+        "Wagons",
+        "Automobiles",
+        "Bicycles"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The aircraft is the second fastest method of transport, after the rocket.'",
-        "Incorrect. The rocket is the fastest method of transport, not the second fastest.",
-        "Incorrect. Trains are not identified as the second fastest method of transport in the article.",
-        "Incorrect. Ships are not identified as the second fastest method of transport in the article."
+        "Correct. The article lists wagons, automobiles, and bicycles as vehicles, but does not mention ships.",
+        "Incorrect. Wagons are mentioned as vehicles.",
+        "Incorrect. Automobiles are mentioned as vehicles.",
+        "Incorrect. Bicycles are mentioned as vehicles."
       ]
     },
     {
       "id": 9,
-      "question": "What are the two kinds of land transport according to the article?",
+      "question": "What does mobility concern, according to the article?",
       "options": [
-        "Rail and road",
-        "Air and water",
-        "Cable and pipeline",
-        "Human-powered and animal-powered"
+        "The experience around transportation services",
+        "The movement of goods",
+        "The construction of roads",
+        "The use of vehicles"
       ],
       "answer_explanations": [
-        "Correct. The article states that land transport 'consists of two kinds, rail and road.'",
-        "Incorrect. Air and water are separate modes of transport, not kinds of land transport.",
-        "Incorrect. Cable and pipeline are other modes of transport, not kinds of land transport.",
-        "Incorrect. Human-powered and animal-powered are sometimes regarded as distinct modes but are not the two kinds of land transport."
+        "Correct. The article states that 'Mobility is concerned with the experience around transportation services.'",
+        "Incorrect. The movement of goods is part of transport, not mobility.",
+        "Incorrect. Construction of roads is infrastructure, not mobility.",
+        "Incorrect. Use of vehicles is part of transport, not mobility."
       ]
     },
     {
       "id": 10,
-      "question": "What does rail transport consist of according to the article?",
+      "question": "Which of the following is listed as a terminal in the article?",
       "options": [
-        "Wheeled vehicles running on tracks",
-        "Vehicles running on roads",
-        "Vehicles running on water",
-        "Vehicles running through air"
+        "Airports",
+        "Roads",
+        "Canals",
+        "Pipelines"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Rail transport consists of wheeled vehicles running on tracks, which usually consist of two parallel steel rails.'",
-        "Incorrect. Vehicles running on roads describe road transport, not rail transport.",
-        "Incorrect. Vehicles running on water describe water transport, not rail transport.",
-        "Incorrect. Vehicles running through air describe air transport, not rail transport."
+        "Correct. The article lists airports as terminals.",
+        "Incorrect. Roads are fixed installations, not terminals.",
+        "Incorrect. Canals are fixed installations, not terminals.",
+        "Incorrect. Pipelines are fixed installations, not terminals."
       ]
     }
   ]

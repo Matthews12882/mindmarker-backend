@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is RenÃ© Descartes' best-known philosophical statement?",
+      "question": "What was RenÃ© Descartes's nationality?",
       "options": [
-        "\"cogito, ergo sum\" (\"I think, therefore I am\")",
-        "\"I think, therefore I doubt\"",
-        "\"I doubt, therefore I am\"",
-        "\"I am, therefore I think\""
+        "French",
+        "German",
+        "English",
+        "Italian"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"His best-known philosophical statement is \\\"cogito, ergo sum\\\" (\\\"I think, therefore I am\\\").\"",
-        "Incorrect. The article does not attribute this phrase to Descartes.",
-        "Incorrect. The article does not attribute this phrase to Descartes.",
-        "Incorrect. The article does not attribute this phrase to Descartes."
+        "Correct. The article states that Descartes was 'a French philosopher, mathematician, and scientist'.",
+        "Incorrect. The article identifies Descartes as French, not German.",
+        "Incorrect. The article identifies Descartes as French, not English.",
+        "Incorrect. The article identifies Descartes as French, not Italian."
       ]
     },
     {
       "id": 2,
-      "question": "On what date was RenÃ© Descartes born?",
+      "question": "Which two fields did Descartes connect into analytic geometry?",
       "options": [
-        "31 March 1596",
-        "11 February 1650",
-        "31 March 1650",
-        "11 February 1596"
+        "Geometry and algebra",
+        "Geometry and calculus",
+        "Algebra and trigonometry",
+        "Calculus and analysis"
       ],
       "answer_explanations": [
-        "Correct. The article states Descartes was born \"on 31 March 1596.\"",
-        "Incorrect. 11 February 1650 is Descartes' death date, not his birth date.",
-        "Incorrect. The article gives 31 March 1596 as his birth date.",
-        "Incorrect. The article gives 11 February 1650 as his death date."
+        "Correct. The article says he 'connected the previously separate fields of geometry and algebra into analytic geometry'.",
+        "Incorrect. The article mentions geometry and algebra, not calculus.",
+        "Incorrect. The article mentions geometry and algebra, not trigonometry.",
+        "Incorrect. The article mentions geometry and algebra, not calculus and analysis."
       ]
     },
     {
       "id": 3,
-      "question": "Which coordinate system is named after Descartes?",
+      "question": "What is Descartes's best-known philosophical statement?",
       "options": [
-        "Cartesian coordinate system",
-        "Polar coordinate system",
-        "Spherical coordinate system",
-        "Cylindrical coordinate system"
+        "Cogito, ergo sum",
+        "I think, therefore I am not",
+        "To be is to be perceived",
+        "The unexamined life is not worth living"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"the Cartesian coordinate system is named after him.\"",
-        "Incorrect. The article does not name the polar coordinate system after Descartes.",
-        "Incorrect. The article does not name the spherical coordinate system after Descartes.",
-        "Incorrect. The article does not name the cylindrical coordinate system after Descartes."
+        "Correct. The article states that his best-known philosophical statement is 'cogito, ergo sum' ('I think, therefore I am').",
+        "Incorrect. The article states the statement is 'cogito, ergo sum', not 'I think, therefore I am not'.",
+        "Incorrect. The article states the statement is 'cogito, ergo sum', not 'To be is to be perceived'.",
+        "Incorrect. The article states the statement is 'cogito, ergo sum', not 'The unexamined life is not worth living'."
       ]
     },
     {
       "id": 4,
-      "question": "In which country was RenÃ© Descartes born?",
+      "question": "In which work did Descartes assert he would write 'as if no one had written on these matters before'?",
       "options": [
-        "France",
-        "Sweden",
-        "Netherlands",
-        "Germany"
+        "Passions of the Soul",
+        "Meditations on First Philosophy",
+        "Discourse on the Method",
+        "Geometry"
       ],
       "answer_explanations": [
-        "Correct. The article states Descartes was born in La Haye en Touraine, Province of Touraine, France.",
-        "Incorrect. The article states Descartes moved to Sweden later in life, but was born in France.",
-        "Incorrect. The article states Descartes lived in the Netherlands for many years, but was born in France.",
-        "Incorrect. The article does not state Descartes was born in Germany."
+        "Correct. The article says that in the opening section of the 'Passions of the Soul', Descartes asserts he will write 'as if no one had written on these matters before'.",
+        "Incorrect. The article mentions 'Passions of the Soul', not 'Meditations on First Philosophy'.",
+        "Incorrect. The article mentions 'Passions of the Soul', not 'Discourse on the Method'.",
+        "Incorrect. The article mentions 'Passions of the Soul', not 'Geometry'."
       ]
     },
     {
       "id": 5,
-      "question": "What did Descartes introduce that connected geometry and algebra?",
+      "question": "What is the French translation of 'cogito, ergo sum' given in the article?",
       "options": [
-        "analytic geometry",
-        "calculus",
-        "trigonometry",
-        "topology"
+        "Je pense, donc je suis",
+        "Je suis, donc je pense",
+        "Je pense, donc je ne suis pas",
+        "Je ne pense pas, donc je suis"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"He connected the previously separate fields of geometry and algebra into analytic geometry.\"",
-        "Incorrect. The article credits analytic geometry, not calculus, with connecting geometry and algebra.",
-        "Incorrect. The article does not mention trigonometry in this context.",
-        "Incorrect. The article does not mention topology in this context."
+        "Correct. The article gives the French as 'Je pense, donc je suis'.",
+        "Incorrect. The article gives 'Je pense, donc je suis', not 'Je suis, donc je pense'.",
+        "Incorrect. The article gives 'Je pense, donc je suis', not 'Je pense, donc je ne suis pas'.",
+        "Incorrect. The article gives 'Je pense, donc je suis', not 'Je ne pense pas, donc je suis'."
       ]
     },
     {
       "id": 6,
-      "question": "Which army did Descartes join in 1618?",
+      "question": "What is the Cartesian coordinate system named after?",
       "options": [
-        "Protestant Dutch States Army",
-        "French Royal Army",
-        "Swedish Army",
-        "Spanish Army"
+        "Descartes",
+        "Newton",
+        "Leibniz",
+        "Euclid"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"In accordance with his ambition to become a professional military officer in 1618, Descartes joined, as a mercenary, the Protestant Dutch States Army in Breda.\"",
-        "Incorrect. The article does not state Descartes joined the French Royal Army.",
-        "Incorrect. The article does not state Descartes joined the Swedish Army.",
-        "Incorrect. The article does not state Descartes joined the Spanish Army."
+        "Correct. The article states that 'the Cartesian coordinate system is named after him' (Descartes).",
+        "Incorrect. The article states it is named after Descartes, not Newton.",
+        "Incorrect. The article states it is named after Descartes, not Leibniz.",
+        "Incorrect. The article states it is named after Descartes, not Euclid."
       ]
     },
     {
       "id": 7,
-      "question": "What illness did Descartes contract before his death?",
+      "question": "What did Descartes refuse to accept?",
       "options": [
-        "pneumonia",
-        "scarlet fever",
-        "tuberculosis",
-        "plague"
+        "The authority of previous philosophers",
+        "The authority of the church",
+        "The authority of the king",
+        "The authority of scientists"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"He contracted pneumonia and died on 11 February.\"",
-        "Incorrect. Scarlet fever is mentioned as the cause of his daughter Francine's death, not his own.",
-        "Incorrect. The article does not mention tuberculosis.",
-        "Incorrect. The article does not mention plague."
+        "Correct. The article says 'Refusing to accept the authority of previous philosophers, Descartes frequently set his views apart from the philosophers who preceded him.'",
+        "Incorrect. The article specifically mentions previous philosophers, not the church.",
+        "Incorrect. The article specifically mentions previous philosophers, not the king.",
+        "Incorrect. The article specifically mentions previous philosophers, not scientists."
       ]
     },
     {
       "id": 8,
-      "question": "Which of Descartes' works was published in 1641?",
+      "question": "Which of the following is NOT mentioned as a field to which Descartes made major contributions?",
       "options": [
-        "Meditations on First Philosophy",
-        "Discourse on the Method",
-        "Principles of Philosophy",
-        "The Passions of the Soul"
+        "Chemistry",
+        "Epistemology",
+        "Philosophy of mind",
+        "Metaphysics"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"In 1641, he published a metaphysics treatise, Meditationes de Prima Philosophia (Meditations on First Philosophy).\"",
-        "Incorrect. The article states Discourse on the Method was published in 1637.",
-        "Incorrect. The article states Principles of Philosophy was published in 1644.",
-        "Incorrect. The article states The Passions of the Soul was published in 1649."
+        "Correct. The article mentions epistemology, philosophy of mind, and metaphysics, but not chemistry.",
+        "Incorrect. The article states Descartes made major contributions to epistemology.",
+        "Incorrect. The article states Descartes made major contributions to philosophy of mind.",
+        "Incorrect. The article states Descartes made major contributions to metaphysics."
       ]
     },
     {
       "id": 9,
-      "question": "To whom was Descartes' Principles of Philosophy dedicated?",
+      "question": "What did Descartes's analytic geometry facilitate the discovery of?",
       "options": [
-        "Princess Elisabeth of Bohemia",
-        "Queen Christina of Sweden",
-        "Cardinal Richelieu",
-        "Marin Mersenne"
+        "Infinitesimal calculus and analysis",
+        "Quantum mechanics",
+        "Theory of relativity",
+        "Number theory"
       ],
       "answer_explanations": [
-        "Correct. The article states Principles of Philosophy \"was dedicated to Princess Elisabeth of Bohemia.\"",
-        "Incorrect. The article does not state Principles of Philosophy was dedicated to Queen Christina.",
-        "Incorrect. The article does not state Principles of Philosophy was dedicated to Cardinal Richelieu.",
-        "Incorrect. The article does not state Principles of Philosophy was dedicated to Marin Mersenne."
+        "Correct. The article says analytic geometry 'facilitated the discovery of infinitesimal calculus and analysis'.",
+        "Incorrect. The article mentions infinitesimal calculus and analysis, not quantum mechanics.",
+        "Incorrect. The article mentions infinitesimal calculus and analysis, not the theory of relativity.",
+        "Incorrect. The article mentions infinitesimal calculus and analysis, not number theory."
       ]
     },
     {
       "id": 10,
-      "question": "Where was Descartes buried after his death?",
+      "question": "What is the title of the early modern treatise on emotions mentioned in the article?",
       "options": [
-        "among orphans at Adolf Fredrik Church in Stockholm",
-        "in the PanthÃ©on in Paris",
-        "at Saint-Ãtienne-du-Mont in France",
-        "at the Jesuit College of La FlÃ¨che"
+        "Passions of the Soul",
+        "Meditations on First Philosophy",
+        "Discourse on Method",
+        "Rules for the Direction of the Mind"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"He was buried among orphans at what is now Adolf Fredrik Church in Stockholm.\"",
-        "Incorrect. The article mentions the PanthÃ©on only as a planned transfer in 1792 that did not happen.",
-        "Incorrect. The article states his remains were moved to Saint-Ãtienne-du-Mont in 1666, not that he was originally buried there.",
-        "Incorrect. The article does not state Descartes was buried at the Jesuit College of La FlÃ¨che."
+        "Correct. The article describes 'Passions of the Soul' as 'an early modern treatise on emotions'.",
+        "Incorrect. The article describes 'Passions of the Soul' as the treatise on emotions, not 'Meditations on First Philosophy'.",
+        "Incorrect. The article describes 'Passions of the Soul' as the treatise on emotions, not 'Discourse on Method'.",
+        "Incorrect. The article describes 'Passions of the Soul' as the treatise on emotions, not 'Rules for the Direction of the Mind'."
       ]
     }
   ]

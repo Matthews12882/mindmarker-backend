@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Michael Jackson commonly known as?",
+      "question": "What was Michael Jackson's full name?",
       "options": [
-        "King of Pop",
-        "King of Rock",
-        "King of Soul",
-        "King of Jazz"
+        "Michael Joseph Jackson",
+        "Michael John Jackson",
+        "Michael James Jackson",
+        "Michael Jeffrey Jackson"
       ],
       "answer_explanations": [
-        "Correct. Michael Jackson is commonly known as the \"King of Pop\".",
-        "Incorrect. He is not commonly known as the King of Rock.",
-        "Incorrect. He is not commonly known as the King of Soul.",
-        "Incorrect. He is not commonly known as the King of Jazz."
+        "Correct. The article states his full name as 'Michael Joseph Jackson'.",
+        "Incorrect. The article states his full name as 'Michael Joseph Jackson', not Michael John Jackson.",
+        "Incorrect. The article states his full name as 'Michael Joseph Jackson', not Michael James Jackson.",
+        "Incorrect. The article states his full name as 'Michael Joseph Jackson', not Michael Jeffrey Jackson."
       ]
     },
     {
       "id": 2,
-      "question": "Which dance move popularized by Michael Jackson is mentioned in the article?",
+      "question": "When was Michael Jackson born?",
       "options": [
-        "Moonwalk",
-        "Breakdance",
-        "Popping",
-        "Locking"
+        "August 29, 1958",
+        "June 25, 2009",
+        "August 29, 1959",
+        "June 25, 1958"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the moonwalk as one of the dance moves popularized by Michael Jackson.",
-        "Incorrect. Breakdance is not mentioned as one of his popularized moves.",
-        "Incorrect. Popping is not mentioned as one of his popularized moves.",
-        "Incorrect. Locking is not mentioned as one of his popularized moves."
+        "Correct. The article gives his birth date as August 29, 1958.",
+        "Incorrect. June 25, 2009 is the date of his death, not his birth.",
+        "Incorrect. The article states his birth date as August 29, 1958, not 1959.",
+        "Incorrect. The article states his birth date as August 29, 1958, not June 25."
       ]
     },
     {
       "id": 3,
-      "question": "In which year did Michael Jackson die?",
+      "question": "What was Michael Jackson dubbed?",
       "options": [
-        "2009",
-        "2010",
-        "2008",
-        "2011"
+        "King of Pop",
+        "King of Rock",
+        "Prince of Pop",
+        "King of Dance"
       ],
       "answer_explanations": [
-        "Correct. The article states that Michael Jackson died in 2009.",
-        "Incorrect. He did not die in 2010.",
-        "Incorrect. He did not die in 2008.",
-        "Incorrect. He did not die in 2011."
+        "Correct. The article says he was 'Dubbed the \"King of Pop\"'.",
+        "Incorrect. The article says he was dubbed the 'King of Pop', not 'King of Rock'.",
+        "Incorrect. The article says he was dubbed the 'King of Pop', not 'Prince of Pop'.",
+        "Incorrect. The article says he was dubbed the 'King of Pop', not 'King of Dance'."
       ]
     },
     {
       "id": 4,
-      "question": "Which album is described as the first to produce five US Billboard Hot 100 number-one singles for Michael Jackson?",
+      "question": "At what age did Michael Jackson make his public debut?",
       "options": [
-        "Bad",
-        "Thriller",
-        "Off the Wall",
-        "Dangerous"
+        "Six",
+        "Eight",
+        "Ten",
+        "Five"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"Bad\" (1987) was the first album to produce five US Billboard Hot 100 number-one singles.",
-        "Incorrect. \"Thriller\" is not described as the first album with five number-one singles.",
-        "Incorrect. \"Off the Wall\" is not described as the first album with five number-one singles.",
-        "Incorrect. \"Dangerous\" is not described as the first album with five number-one singles."
+        "Correct. The article states he 'made his public debut at age six'.",
+        "Incorrect. The article states he made his public debut at age six, not eight.",
+        "Incorrect. The article states he made his public debut at age six, not ten.",
+        "Incorrect. The article states he made his public debut at age six, not five."
       ]
     },
     {
       "id": 5,
-      "question": "How many Grammy Awards did Michael Jackson win according to the article?",
+      "question": "What was the name of the group Michael Jackson was the lead singer of?",
       "options": [
-        "13",
-        "12",
-        "14",
-        "15"
+        "The Jackson 5",
+        "The Jackson Family",
+        "The Jackson Brothers",
+        "The Jackson Singers"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that Michael Jackson won 13 Grammy Awards.",
-        "Incorrect. He won 13, not 12.",
-        "Incorrect. He won 13, not 14.",
-        "Incorrect. He won 13, not 15."
+        "Correct. The article says he was 'the lead singer of the Jackson 5'.",
+        "Incorrect. The article names the group as 'the Jackson 5', not 'The Jackson Family'.",
+        "Incorrect. The article names the group as 'the Jackson 5', not 'The Jackson Brothers'.",
+        "Incorrect. The article names the group as 'the Jackson 5', not 'The Jackson Singers'."
       ]
     },
     {
       "id": 6,
-      "question": "Which physician administered propofol to Michael Jackson before his death?",
+      "question": "Which album became the best-selling album in history?",
       "options": [
-        "Conrad Murray",
-        "Dr. Greene",
-        "Dr. Patel",
-        "Dr. Smith"
+        "Thriller",
+        "Off the Wall",
+        "Bad",
+        "Dangerous"
       ],
       "answer_explanations": [
-        "Correct. The article states that Conrad Murray administered propofol to Michael Jackson before his death.",
-        "Incorrect. Dr. Greene did not administer propofol.",
-        "Incorrect. Dr. Patel did not administer propofol.",
-        "Incorrect. Dr. Smith did not administer propofol."
+        "Correct. The article says 'Thriller' (1982) 'became the best-selling album in history'.",
+        "Incorrect. The article says 'Thriller' became the best-selling album, not 'Off the Wall'.",
+        "Incorrect. The article says 'Thriller' became the best-selling album, not 'Bad'.",
+        "Incorrect. The article says 'Thriller' became the best-selling album, not 'Dangerous'."
       ]
     },
     {
       "id": 7,
-      "question": "What was the name of Michael Jackson's final album, released in 2001?",
+      "question": "Which album was the first to produce five US Billboard Hot 100 number-one singles?",
       "options": [
-        "Invincible",
-        "HIStory",
-        "Dangerous",
-        "Neverland"
+        "Bad",
+        "Thriller",
+        "Off the Wall",
+        "HIStory"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"Invincible\" (2001) was Michael Jackson's final album.",
-        "Incorrect. \"HIStory\" is not his final album.",
-        "Incorrect. \"Dangerous\" is not his final album.",
-        "Incorrect. \"Neverland\" is not his final album."
+        "Correct. The article states 'Bad' (1987) 'was the first album to produce five US Billboard Hot 100 number-one singles'.",
+        "Incorrect. The article says 'Bad' was the first to do this, not 'Thriller'.",
+        "Incorrect. The article says 'Bad' was the first to do this, not 'Off the Wall'.",
+        "Incorrect. The article says 'Bad' was the first to do this, not 'HIStory'."
       ]
     },
     {
       "id": 8,
-      "question": "Which documentary released in 2019 detailed further child sexual abuse allegations against Michael Jackson?",
+      "question": "What was the name of Michael Jackson's final album?",
       "options": [
-        "Leaving Neverland",
-        "This Is It",
-        "Wipe Out",
-        "The Last Days of Michael Jackson"
+        "Invincible",
+        "Dangerous",
+        "HIStory",
+        "Xscape"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the 2019 documentary \"Leaving Neverland\" detailed further child sexual abuse allegations against Michael Jackson.",
-        "Incorrect. \"This Is It\" is a documentary about his comeback concerts, not the 2019 allegations.",
-        "Incorrect. \"Wipe Out\" is not the documentary in question.",
-        "Incorrect. \"The Last Days of Michael Jackson\" is not the documentary in question."
+        "Correct. The article says 'Jackson's final album, Invincible (2001)'.",
+        "Incorrect. The article says his final album was 'Invincible', not 'Dangerous'.",
+        "Incorrect. The article says his final album was 'Invincible', not 'HIStory'.",
+        "Incorrect. The article says his final album was 'Invincible', not 'Xscape'."
       ]
     },
     {
       "id": 9,
-      "question": "How many solo studio albums did Michael Jackson release with Motown between 1972 and 1975?",
+      "question": "From what did Michael Jackson die in 2009?",
       "options": [
-        "Four",
-        "Three",
-        "Five",
-        "Six"
+        "An overdose of propofol",
+        "A heart attack",
+        "An overdose of painkillers",
+        "A car accident"
       ],
       "answer_explanations": [
-        "Correct. The article states that between 1972 and 1975, he released four solo studio albums with Motown.",
-        "Incorrect. He released four, not three.",
-        "Incorrect. He released four, not five.",
-        "Incorrect. He released four, not six."
+        "Correct. The article states he 'died in 2009 from an overdose of propofol'.",
+        "Incorrect. The article states he died from an overdose of propofol, not a heart attack.",
+        "Incorrect. The article states he died from an overdose of propofol, not painkillers.",
+        "Incorrect. The article states he died from an overdose of propofol, not a car accident."
       ]
     },
     {
       "id": 10,
-      "question": "What was the name of the group Michael Jackson made his public debut with at age six?",
+      "question": "How many Grammy Awards did Michael Jackson receive?",
       "options": [
-        "The Jackson 5",
-        "The Jacksons",
-        "The Supremes",
-        "The Miracles"
+        "13",
+        "26",
+        "12",
+        "8"
       ],
       "answer_explanations": [
-        "Correct. The article states that Michael Jackson made his public debut at age six as the lead singer of The Jackson 5.",
-        "Incorrect. \"The Jacksons\" is the name they used later, not his debut group.",
-        "Incorrect. \"The Supremes\" is a different group.",
-        "Incorrect. \"The Miracles\" is a different group."
+        "Correct. The article lists '13 Grammy Awards' among his accolades.",
+        "Incorrect. 26 is the number of American Music Awards he received, not Grammy Awards.",
+        "Incorrect. 12 is the number of World Music Awards he received, not Grammy Awards.",
+        "Incorrect. 8 is the number of MTV Video Music Awards he received, not Grammy Awards."
       ]
     }
   ]

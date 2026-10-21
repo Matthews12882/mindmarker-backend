@@ -9,158 +9,158 @@
       "options": [
         "People's Republic of Bangladesh",
         "Republic of Bangladesh",
-        "Democratic Republic of Bangladesh",
-        "Federal Republic of Bangladesh"
+        "Bangladesh Republic",
+        "Democratic Republic of Bangladesh"
       ],
       "answer_explanations": [
         "Correct. The article states: 'Bangladesh, officially the People's Republic of Bangladesh'.",
-        "Incorrect. The official name is 'People's Republic of Bangladesh', not 'Republic of Bangladesh'.",
-        "Incorrect. The official name is 'People's Republic of Bangladesh', not 'Democratic Republic of Bangladesh'.",
-        "Incorrect. The official name is 'People's Republic of Bangladesh', not 'Federal Republic of Bangladesh'."
+        "Incorrect. The official name includes 'People's Republic'.",
+        "Incorrect. The official name includes 'People's Republic'.",
+        "Incorrect. The official name includes 'People's Republic'."
       ]
     },
     {
       "id": 2,
-      "question": "Which country shares a land border with Bangladesh to the southeast?",
+      "question": "What is the population of Bangladesh as mentioned in the article?",
       "options": [
-        "Myanmar",
-        "India",
-        "China",
-        "Bhutan"
+        "Almost 175.4 million",
+        "Almost 150 million",
+        "Almost 200 million",
+        "Almost 160 million"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'Bangladesh shares land borders with India to the north, west, and east, and Myanmar to the southeast'.",
-        "Incorrect. India borders Bangladesh to the north, west, and east, not the southeast.",
-        "Incorrect. China does not share a direct land border with Bangladesh; it is separated by Indian states.",
-        "Incorrect. Bhutan is separated from Bangladesh by the Siliguri Corridor."
+        "Correct. The article says 'a population of almost 175.4 million'.",
+        "Incorrect. The article gives a specific figure of almost 175.4 million.",
+        "Incorrect. The article gives a specific figure of almost 175.4 million.",
+        "Incorrect. The article gives a specific figure of almost 175.4 million."
       ]
     },
     {
       "id": 3,
+      "question": "Which country shares a land border with Bangladesh to the southeast?",
+      "options": [
+        "Myanmar",
+        "India",
+        "Bhutan",
+        "Nepal"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: 'Myanmar to the southeast'.",
+        "Incorrect. India borders Bangladesh to the north, west, and east.",
+        "Incorrect. Bhutan is separated by the Siliguri Corridor.",
+        "Incorrect. Nepal is separated by the Siliguri Corridor."
+      ]
+    },
+    {
+      "id": 4,
       "question": "What is the capital and largest city of Bangladesh?",
       "options": [
         "Dhaka",
         "Chittagong",
         "Khulna",
-        "Rajshahi"
+        "Sylhet"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Dhaka, the capital and largest city'.",
-        "Incorrect. Chittagong is the second-largest city, not the capital.",
-        "Incorrect. Khulna is not mentioned as the capital or largest city.",
-        "Incorrect. Rajshahi is not mentioned as the capital or largest city."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Which battle in 1757 began British colonial rule in Bengal?",
-      "options": [
-        "Battle of Plassey",
-        "Battle of Buxar",
-        "Battle of Panipat",
-        "Battle of Haldighati"
-      ],
-      "answer_explanations": [
-        "Correct. The article says: 'The Battle of Plassey in 1757 began British colonial rule'.",
-        "Incorrect. The Battle of Buxar occurred later, in 1764, and is not mentioned in the article.",
-        "Incorrect. The Battle of Panipat is not mentioned in the article.",
-        "Incorrect. The Battle of Haldighati is not mentioned in the article."
+        "Correct. The article says: 'Dhaka, the capital and largest city'.",
+        "Incorrect. Chittagong is the second-largest city.",
+        "Incorrect. The article names Dhaka as the capital and largest city.",
+        "Incorrect. The article names Dhaka as the capital and largest city."
       ]
     },
     {
       "id": 5,
-      "question": "What was the name of the eastern wing of Pakistan after the Partition of India?",
+      "question": "Which city is the second-largest and has the busiest port?",
       "options": [
-        "East Bengal",
-        "East Pakistan",
-        "West Bengal",
-        "Bangladesh"
+        "Chittagong",
+        "Dhaka",
+        "Rajshahi",
+        "Barisal"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'after the Partition of India in 1947, East Bengal became the eastern wing of the newly formed Dominion of Pakistan'.",
-        "Incorrect. East Pakistan was the name after 1956, but initially it was East Bengal.",
-        "Incorrect. West Bengal is a state in India, not a wing of Pakistan.",
-        "Incorrect. Bangladesh is the name of the independent country, not the wing of Pakistan."
+        "Correct. The article states: 'Chittagong is the second-largest city and the busiest port of the country'.",
+        "Incorrect. Dhaka is the capital and largest city.",
+        "Incorrect. The article names Chittagong as the second-largest city.",
+        "Incorrect. The article names Chittagong as the second-largest city."
       ]
     },
     {
       "id": 6,
-      "question": "When did Bangladesh become a sovereign nation?",
+      "question": "What is the area of Bangladesh in square kilometres?",
       "options": [
-        "16 December 1971",
-        "15 August 1947",
-        "26 March 1971",
-        "16 December 1972"
+        "148,461 square kilometres",
+        "157,321 square kilometres",
+        "140,000 square kilometres",
+        "150,000 square kilometres"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'Bangladesh became a sovereign nation on 16 December 1971'.",
-        "Incorrect. 15 August 1947 is the date of the Partition of India.",
-        "Incorrect. 26 March 1971 is celebrated as Independence Day, but the article states the sovereign nation date as 16 December 1971.",
-        "Incorrect. 16 December 1972 is not mentioned in the article."
+        "Correct. The article states: 'an area of 148,461 square kilometres (57,321 sq mi)'.",
+        "Incorrect. The area is 148,461 square kilometres.",
+        "Incorrect. The area is 148,461 square kilometres.",
+        "Incorrect. The area is 148,461 square kilometres."
       ]
     },
     {
       "id": 7,
-      "question": "Which two political parties have dominated national politics in Bangladesh since 1991?",
+      "question": "Which body of water is to the south of Bangladesh?",
       "options": [
-        "Awami League and Bangladesh Nationalist Party",
-        "Awami League and Muslim League",
-        "Bangladesh Nationalist Party and Jatiya Party",
-        "Muslim League and Communist Party"
+        "Bay of Bengal",
+        "Indian Ocean",
+        "Arabian Sea",
+        "Pacific Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'national politics has largely dominated between the Awami League, led by Sheikh Hasina, and the Bangladesh Nationalist Party, led by Khaleda Zia'.",
-        "Incorrect. The Muslim League is not mentioned as a dominant party since 1991.",
-        "Incorrect. The Jatiya Party is not mentioned as a dominant party since 1991.",
-        "Incorrect. The Communist Party is not mentioned as a dominant party."
+        "Correct. The article says: 'a coastline along the Bay of Bengal to its south'.",
+        "Incorrect. The article specifies the Bay of Bengal.",
+        "Incorrect. The article specifies the Bay of Bengal.",
+        "Incorrect. The article specifies the Bay of Bengal."
       ]
     },
     {
       "id": 8,
-      "question": "What is the largest mangrove forest in the world, located in Bangladesh?",
+      "question": "Which country is separated from Bangladesh by the Siliguri Corridor?",
       "options": [
-        "Sundarbans",
-        "Amazon Rainforest",
-        "Congo Basin",
-        "Daintree Rainforest"
+        "Bhutan",
+        "India",
+        "Myanmar",
+        "China"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'It is home to the largest mangrove forest in the world' (the Sundarbans).",
-        "Incorrect. The Amazon Rainforest is not a mangrove forest and is not in Bangladesh.",
-        "Incorrect. The Congo Basin is not a mangrove forest and is not in Bangladesh.",
-        "Incorrect. The Daintree Rainforest is in Australia, not Bangladesh."
+        "Correct. The article states: 'separated from Bhutan and Nepal by the Siliguri Corridor'.",
+        "Incorrect. India shares land borders with Bangladesh.",
+        "Incorrect. Myanmar shares a land border with Bangladesh.",
+        "Incorrect. China is separated by Indian states, not the Siliguri Corridor."
       ]
     },
     {
       "id": 9,
-      "question": "What does the name 'Bangladesh' mean?",
+      "question": "Which country borders Bangladesh to the north, west, and east?",
       "options": [
-        "Land of Bengal",
-        "Land of the Bengalis",
-        "Country of Rivers",
-        "Golden Bengal"
+        "India",
+        "Myanmar",
+        "Bhutan",
+        "Nepal"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'the name Bangladesh means \"Land of Bengal\" or \"Country of Bengal\"'.",
-        "Incorrect. 'Land of the Bengalis' is not the exact meaning given in the article.",
-        "Incorrect. 'Country of Rivers' is not mentioned as the meaning.",
-        "Incorrect. 'Golden Bengal' is a poetic term, not the meaning of the name."
+        "Correct. The article says: 'Bangladesh shares land borders with India to the north, west, and east'.",
+        "Incorrect. Myanmar is to the southeast.",
+        "Incorrect. Bhutan is separated by the Siliguri Corridor.",
+        "Incorrect. Nepal is separated by the Siliguri Corridor."
       ]
     },
     {
       "id": 10,
-      "question": "Which Mughal emperor's reign saw Bengal described as the 'Paradise of Countries'?",
+      "question": "Which city is described as the nation's political, financial, and cultural centre?",
       "options": [
-        "The Mughal Empire",
-        "Akbar",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Dhaka",
+        "Chittagong",
+        "Khulna",
+        "Sylhet"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'the Bengal Subah emerged as one of the wealthiest provinces of the empire and was described as the \"Paradise of Countries\"' during the Mughal Empire period.",
-        "Incorrect. Akbar is not specifically mentioned in that context.",
-        "Incorrect. Shah Jahan is not specifically mentioned in that context.",
-        "Incorrect. Aurangzeb is not specifically mentioned in that context."
+        "Correct. The article states: 'Dhaka, the capital and largest city, is the nation's political, financial, and cultural centre'.",
+        "Incorrect. Chittagong is the second-largest city and busiest port.",
+        "Incorrect. The article names Dhaka as the political, financial, and cultural centre.",
+        "Incorrect. The article names Dhaka as the political, financial, and cultural centre."
       ]
     }
   ]

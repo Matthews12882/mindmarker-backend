@@ -5,7 +5,23 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the official and most widely spoken language in the Democratic Republic of the Congo?",
+      "question": "What is the Democratic Republic of the Congo's rank in terms of land area in Africa?",
+      "options": [
+        "It is the second-largest country in Africa.",
+        "It is the largest country in Africa.",
+        "It is the third-largest country in Africa.",
+        "It is the fourth-largest country in Africa."
+      ],
+      "answer_explanations": [
+        "Correct. The article states, \"By land area, it is the second-largest country in Africa.\"",
+        "Incorrect. The article says it is the second-largest, not the largest.",
+        "Incorrect. The article says it is the second-largest, not the third-largest.",
+        "Incorrect. The article says it is the second-largest, not the fourth-largest."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which language is the official and most widely spoken language in the DRC?",
       "options": [
         "French",
         "Lingala",
@@ -13,31 +29,31 @@
         "Portuguese"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'French is the official and most widely spoken language.'",
-        "Incorrect. Lingala is the most widely spoken indigenous language, but not the official or most widely spoken overall.",
-        "Incorrect. Kikongo is an indigenous language, but not the official language.",
+        "Correct. The article states, \"French is the official and most widely spoken language.\"",
+        "Incorrect. Lingala is mentioned as the most widely spoken indigenous language, not the official one.",
+        "Incorrect. Kikongo is a language mentioned in the etymology section, but French is the official language.",
         "Incorrect. Portuguese is not mentioned as an official language of the DRC."
       ]
     },
     {
-      "id": 2,
-      "question": "Which country is the DRC's largest trade partner?",
+      "id": 3,
+      "question": "Who acquired rights to the Congo territory in 1885?",
       "options": [
-        "China",
-        "Belgium",
-        "Rwanda",
-        "Angola"
+        "King Leopold II of Belgium",
+        "Patrice Lumumba",
+        "Mobutu Sese Seko",
+        "Joseph Kabila"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: 'with China being its largest trade partner.'",
-        "Incorrect. Belgium is a former colonial power, but not the largest trade partner.",
-        "Incorrect. Rwanda is a neighboring country involved in conflict, not the largest trade partner.",
-        "Incorrect. Angola is a neighboring country, but not mentioned as the largest trade partner."
+        "Correct. The article states, \"King Leopold II of Belgium acquired rights to the Congo territory in 1885.\"",
+        "Incorrect. Patrice Lumumba was the first prime minister after independence, not the one who acquired the territory in 1885.",
+        "Incorrect. Mobutu Sese Seko seized power in 1965, not in 1885.",
+        "Incorrect. Joseph Kabila was president much later, after the Second Congo War."
       ]
     },
     {
-      "id": 3,
-      "question": "What was the name of the country under Mobutu Sese Seko's rule?",
+      "id": 4,
+      "question": "What was the name of the country when Mobutu Sese Seko renamed it in 1971?",
       "options": [
         "Zaire",
         "Belgian Congo",
@@ -45,122 +61,106 @@
         "Republic of the Congo-LÃ©opoldville"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'Mobutu renamed the country Zaire in 1971.'",
-        "Incorrect. Belgian Congo was the name before independence.",
-        "Incorrect. Congo Free State was the name under King Leopold II.",
-        "Incorrect. Republic of the Congo-LÃ©opoldville was the name at independence."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Which event marked the country's first peaceful transition of power since independence?",
-      "options": [
-        "FÃ©lix Tshisekedi winning the 2018 election",
-        "Joseph Kabila stepping down in 2019",
-        "The end of the Second Congo War in 2003",
-        "The overthrow of Mobutu in 1997"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'Kabila stepped down in 2019 after FÃ©lix Tshisekedi won the contentious 2018 election, marking the country's first peaceful transition of power since independence.'",
-        "Incorrect. Joseph Kabila stepping down is part of the transition, but the election of Tshisekedi is what marked the peaceful transition.",
-        "Incorrect. The end of the Second Congo War did not involve a peaceful transfer of power.",
-        "Incorrect. The overthrow of Mobutu was a result of war, not a peaceful transition."
+        "Correct. The article states, \"Mobutu renamed the country Zaire in 1971.\"",
+        "Incorrect. Belgian Congo was the name before independence in 1960.",
+        "Incorrect. Congo Free State was the name under Leopold II's rule.",
+        "Incorrect. Republic of the Congo-LÃ©opoldville was the name at independence, before it was changed to Zaire."
       ]
     },
     {
       "id": 5,
-      "question": "What is the primary reason the DRC is considered a prominent example of the 'resource curse'?",
+      "question": "Which event marked the country's first peaceful transition of power since independence?",
       "options": [
-        "Despite abundant natural resources, it remains one of the world's poorest countries due to political instability and corruption.",
-        "It has no natural resources and relies entirely on foreign aid.",
-        "Its natural resources are all depleted.",
-        "It exports only agricultural products."
+        "FÃ©lix Tshisekedi winning the 2018 election and Kabila stepping down in 2019",
+        "The end of the Second Congo War in 2003",
+        "The overthrow of Mobutu in 1997",
+        "The assassination of Laurent-DÃ©sirÃ© Kabila"
       ],
       "answer_explanations": [
-        "Correct. The article explains: 'Despite being rich in natural resources, the DRC is one of the world's poorest and least developed countries, having suffered from political instability, lack of infrastructure, rampant corruption, and centuries of commercial and colonial extraction and exploitation. The nation is a prominent example of the \"resource curse\".'",
-        "Incorrect. The DRC is rich in natural resources.",
-        "Incorrect. The article does not state that its resources are depleted.",
-        "Incorrect. The DRC's main exports are raw minerals and metal, not agricultural products."
+        "Correct. The article states, \"Kabila stepped down in 2019 after FÃ©lix Tshisekedi won the contentious 2018 election, marking the country's first peaceful transition of power since independence.\"",
+        "Incorrect. The end of the Second Congo War is not described as a peaceful transition of power.",
+        "Incorrect. Mobutu's overthrow was a result of the First Congo War, not a peaceful transition.",
+        "Incorrect. The assassination of Laurent-DÃ©sirÃ© Kabila was not a peaceful transition of power."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following was NOT a cause of the First Congo War?",
+      "question": "What is the Congo River known for?",
       "options": [
-        "The assassination of Patrice Lumumba",
-        "Instability caused by an influx of refugees from the Rwandan Civil War",
-        "The overthrow of Mobutu Sese Seko",
-        "The end of Mobutu's rule"
+        "It is the world's deepest river and the third-largest by discharge.",
+        "It is the world's longest river.",
+        "It is the world's widest river.",
+        "It is the world's fastest-flowing river."
       ],
       "answer_explanations": [
-        "Correct. The assassination of Patrice Lumumba occurred in 1961, long before the First Congo War (1996-1997). The article states the war was caused by 'Instability caused by an influx of refugees from the Rwandan Civil War' and ended with Mobutu's overthrow.",
-        "Incorrect. This is explicitly mentioned as a cause of the First Congo War.",
-        "Incorrect. The First Congo War ended with Mobutu's overthrow, so it was a result, not a cause.",
-        "Incorrect. The war led to the end of Mobutu's rule."
+        "Correct. The article states, \"The Congo River is the world's deepest river and the world's third-largest river by discharge.\"",
+        "Incorrect. The article does not say it is the longest river.",
+        "Incorrect. The article does not say it is the widest river.",
+        "Incorrect. The article does not say it is the fastest-flowing river."
       ]
     },
     {
       "id": 7,
-      "question": "What is the origin of the name 'Congo' according to the article?",
+      "question": "What was the main economic activity in the Congo Free State under Leopold II?",
       "options": [
-        "It comes from the Kongo language word 'konga', meaning 'to gather'.",
-        "It is derived from the Portuguese word for river.",
-        "It was named after a Belgian king.",
-        "It comes from the word 'nzadi', meaning 'river'."
+        "Extracting rubber using forced labour",
+        "Mining gold",
+        "Farming coffee",
+        "Trading ivory"
       ],
       "answer_explanations": [
-        "Correct. The article quotes: 'It is probable that the word \"Kongo\" itself implies a public gathering and that it is based on the root konga, \"to gather\" (trans[itive]).'",
-        "Incorrect. The Portuguese adaptation of 'nzadi' led to 'Zaire', not 'Congo'.",
-        "Incorrect. The country was named after the Congo River, not a Belgian king.",
-        "Incorrect. 'Nzadi' is the origin of the name 'Zaire', not 'Congo'."
+        "Correct. The article states, \"King Leopold II of Belgium established and ruled the Congo Free State as his personal possession, using forced labour and concessionary companies to extract rubber.\"",
+        "Incorrect. The article specifically mentions rubber extraction, not gold mining.",
+        "Incorrect. The article specifically mentions rubber extraction, not coffee farming.",
+        "Incorrect. The article specifically mentions rubber extraction, not ivory trading."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is NOT a neighboring country of the DRC?",
+      "question": "What is the DRC's main export, according to the article?",
       "options": [
-        "Nigeria",
-        "Uganda",
-        "Rwanda",
-        "Zambia"
+        "Raw minerals and metal",
+        "Agricultural products",
+        "Textiles",
+        "Oil"
       ],
       "answer_explanations": [
-        "Correct. Nigeria is not listed as a neighbor. The article lists Uganda, Rwanda, and Zambia as bordering the DRC.",
-        "Incorrect. Uganda is listed as a neighbor to the east.",
-        "Incorrect. Rwanda is listed as a neighbor to the east.",
-        "Incorrect. Zambia is listed as a neighbor to the south."
+        "Correct. The article states, \"DRC's main exports are raw minerals and metal, which accounted for 80% of exports in 2023.\"",
+        "Incorrect. The article does not mention agricultural products as the main export.",
+        "Incorrect. The article does not mention textiles as the main export.",
+        "Incorrect. The article does not mention oil as the main export."
       ]
     },
     {
       "id": 9,
-      "question": "What was the name of the river that flows through the DRC, which is the world's deepest?",
+      "question": "According to the article, which country is the DRC's largest trade partner?",
       "options": [
-        "Congo River",
-        "Zaire River",
-        "Nile River",
-        "Lake Tanganyika"
+        "China",
+        "Belgium",
+        "Rwanda",
+        "United States"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Congo River is the world's deepest river.'",
-        "Incorrect. Zaire was a former name for the Congo River, but the article identifies the Congo River as the deepest.",
-        "Incorrect. The Nile River is not mentioned in the article.",
-        "Incorrect. Lake Tanganyika is a lake, not a river."
+        "Correct. The article states, \"with China being its largest trade partner.\"",
+        "Incorrect. Belgium is not mentioned as the largest trade partner.",
+        "Incorrect. Rwanda is mentioned in the context of conflict, not trade.",
+        "Incorrect. The United States is not mentioned as the largest trade partner."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following best describes the current security situation in the eastern DRC?",
+      "question": "What does the word 'Zaire' mean, according to the article?",
       "options": [
-        "Over 120 armed groups remain active, and the city of Goma has been occupied by M23 rebels.",
-        "The region is completely peaceful after the end of the Second Congo War.",
-        "All armed groups have been disarmed by the government.",
-        "The only conflict is with neighboring Rwanda."
+        "It is a Portuguese adaptation of a Kikongo word for 'river'.",
+        "It means 'gathering' in the Kongo language.",
+        "It is the name of a local tribe.",
+        "It means 'deep water'."
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Over 120 armed groups remain active, concentrated in the east. One of the region's largest cities, Goma, was occupied by the M23 rebels in 2012 and again since 2025.'",
-        "Incorrect. The article describes ongoing conflicts and active armed groups.",
-        "Incorrect. The article mentions that armed groups remain active.",
-        "Incorrect. While there is a conflict with Rwanda, the article also mentions many other armed groups."
+        "Correct. The article states, \"The word Zaire is from a Portuguese adaptation of a Kikongo word nzadi ('river').\"",
+        "Incorrect. The article mentions that 'Kongo' might imply a public gathering, but not 'Zaire'.",
+        "Incorrect. The article does not say 'Zaire' is the name of a local tribe.",
+        "Incorrect. The article does not say 'Zaire' means 'deep water'."
       ]
     }
   ]

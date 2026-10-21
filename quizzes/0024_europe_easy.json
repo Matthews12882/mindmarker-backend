@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which hemisphere is Europe located entirely in?",
+      "question": "In which hemispheres is Europe located?",
       "options": [
-        "Northern Hemisphere",
-        "Southern Hemisphere",
-        "Western Hemisphere",
-        "Eastern Hemisphere"
+        "Entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere",
+        "Entirely in the Southern Hemisphere and mostly in the Western Hemisphere",
+        "Entirely in the Eastern Hemisphere and mostly in the Northern Hemisphere",
+        "Entirely in the Western Hemisphere and mostly in the Southern Hemisphere"
       ],
       "answer_explanations": [
-        "Correct. The article states Europe is located entirely in the Northern Hemisphere.",
-        "Incorrect. The article does not say Europe is located entirely in the Southern Hemisphere.",
-        "Incorrect. The article does not say Europe is located entirely in the Western Hemisphere.",
-        "Incorrect. The article says Europe is mostly in the Eastern Hemisphere, not entirely."
+        "Correct. The article states that Europe is 'located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere'.",
+        "Incorrect. The article does not place Europe in the Southern Hemisphere; it is entirely in the Northern Hemisphere.",
+        "Incorrect. The article says Europe is mostly in the Eastern Hemisphere, not entirely, and entirely in the Northern Hemisphere, not mostly.",
+        "Incorrect. The article places Europe in the Northern and Eastern Hemispheres, not the Western and Southern Hemispheres."
       ]
     },
     {
       "id": 2,
       "question": "Which ocean borders Europe to the north?",
       "options": [
-        "Arctic Ocean",
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Pacific Ocean"
+        "The Arctic Ocean",
+        "The Atlantic Ocean",
+        "The Mediterranean Sea",
+        "The Indian Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states Europe is bordered by the Arctic Ocean to the north.",
+        "Correct. The article says Europe 'is bordered by the Arctic Ocean to the north'.",
         "Incorrect. The Atlantic Ocean borders Europe to the west, not the north.",
-        "Incorrect. The Indian Ocean is not mentioned as bordering Europe.",
-        "Incorrect. The Pacific Ocean is not mentioned as bordering Europe."
+        "Incorrect. The Mediterranean Sea borders Europe to the south, not the north.",
+        "Incorrect. The Indian Ocean is not mentioned as a border of Europe in the article."
       ]
     },
     {
       "id": 3,
-      "question": "What is Europe's approximate area in square kilometres?",
+      "question": "What landmass does Europe share with Asia?",
       "options": [
-        "10,186,000",
-        "3,933,000",
-        "745,000,000",
-        "2%"
+        "Eurasia",
+        "Afro-Eurasia",
+        "Africa",
+        "The Ural Mountains"
       ],
       "answer_explanations": [
-        "Correct. The article states Europe covers approximately 10,186,000 square kilometres.",
-        "Incorrect. 3,933,000 is the area in square miles, not square kilometres.",
-        "Incorrect. 745 million refers to Europe's population, not its area.",
-        "Incorrect. 2% refers to Earth's surface area covered by Europe, not square kilometres."
+        "Correct. The article states that 'Europe shares the landmass of Eurasia with Asia'.",
+        "Incorrect. Europe shares Afro-Eurasia with both Africa and Asia, not just with Asia.",
+        "Incorrect. Africa is not a landmass shared by Europe and Asia; it is part of Afro-Eurasia.",
+        "Incorrect. The Ural Mountains are part of the boundary separating Europe from Asia, not a shared landmass."
       ]
     },
     {
       "id": 4,
-      "question": "Which country is described as the largest and most populous in Europe?",
+      "question": "Which of these is NOT part of the boundary separating Europe from Asia?",
       "options": [
-        "Russia",
-        "Germany",
-        "France",
-        "United Kingdom"
+        "The Alps",
+        "The Ural Mountains",
+        "The Caspian Sea",
+        "The Black Sea"
       ],
       "answer_explanations": [
-        "Correct. The article states Russia is the largest and most populous country in Europe.",
-        "Incorrect. Germany is not identified as the largest or most populous country.",
-        "Incorrect. France is not identified as the largest or most populous country.",
-        "Incorrect. The United Kingdom is not identified as the largest or most populous country."
+        "Correct. The article lists the Ural Mountains, Ural River, Caspian Sea, Greater Caucasus, Black Sea, and Turkish straits as the boundary, but does not mention the Alps.",
+        "Incorrect. The Ural Mountains are explicitly listed as part of the boundary separating Europe from Asia.",
+        "Incorrect. The Caspian Sea is explicitly listed as part of the boundary separating Europe from Asia.",
+        "Incorrect. The Black Sea is explicitly listed as part of the boundary separating Europe from Asia."
       ]
     },
     {
       "id": 5,
-      "question": "What was Europe's total population in 2021?",
+      "question": "Approximately how much of Earth's land area does Europe cover?",
       "options": [
-        "about 745 million",
-        "about 10 million",
-        "about 1 billion",
-        "about 500 million"
+        "6.8%",
+        "2%",
+        "10%",
+        "15%"
       ],
       "answer_explanations": [
-        "Correct. The article states Europe had a total population of about 745 million in 2021.",
-        "Incorrect. The article does not give a population of about 10 million for Europe.",
-        "Incorrect. The article does not state Europe's population was about 1 billion in 2021.",
-        "Incorrect. The article does not state Europe's population was about 500 million in 2021."
+        "Correct. The article states that Europe covers '6.8% of Earth's land area'.",
+        "Incorrect. 2% refers to Europe's share of Earth's surface, not its land area.",
+        "Incorrect. 10% refers to Europe's share of the world population in 2021, not its land area.",
+        "Incorrect. 15% refers to Russia's share of Europe's population, not Europe's share of Earth's land area."
       ]
     },
     {
       "id": 6,
-      "question": "Which warm Atlantic current affects Europe's climate?",
+      "question": "Which country is the largest and most populous in Europe?",
       "options": [
-        "Gulf Stream",
-        "Amazon Current",
-        "North Pacific Drift",
-        "Indian Monsoon Current"
+        "Russia",
+        "Germany",
+        "France",
+        "Spain"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the Gulf Stream as a warm Atlantic current affecting Europe's climate.",
-        "Incorrect. The Amazon Current is not mentioned in the article.",
-        "Incorrect. The North Pacific Drift is not mentioned in the article.",
-        "Incorrect. The Indian Monsoon Current is not mentioned in the article."
+        "Correct. The article states that 'Russia is the largest and most populous' country in Europe.",
+        "Incorrect. Germany is not mentioned as the largest or most populous country in Europe in the article.",
+        "Incorrect. France is not mentioned as the largest or most populous country in Europe in the article.",
+        "Incorrect. Spain is not mentioned as the largest or most populous country in Europe in the article."
       ]
     },
     {
       "id": 7,
-      "question": "Which ancient civilizations are referenced as crucial shared roots of European culture?",
+      "question": "What was Europe's total population in 2021?",
       "options": [
-        "ancient Greece and ancient Rome",
-        "ancient Egypt and ancient Persia",
-        "ancient China and ancient India",
-        "ancient Mesopotamia and ancient Carthage"
+        "About 745 million",
+        "About 500 million",
+        "About 1 billion",
+        "About 300 million"
       ],
       "answer_explanations": [
-        "Correct. The article states European culture commonly references ancient Greece and ancient Rome as crucial and shared roots.",
-        "Incorrect. The article does not cite ancient Egypt and ancient Persia as shared roots.",
-        "Incorrect. The article does not cite ancient China and ancient India as shared roots.",
-        "Incorrect. The article does not cite ancient Mesopotamia and ancient Carthage as shared roots."
+        "Correct. The article states that 'Europe had a total population of about 745 million' in 2021.",
+        "Incorrect. The article does not give a population of about 500 million for Europe in 2021.",
+        "Incorrect. The article does not give a population of about 1 billion for Europe in 2021.",
+        "Incorrect. The article does not give a population of about 300 million for Europe in 2021."
       ]
     },
     {
       "id": 8,
-      "question": "In which country did the Industrial Revolution begin?",
+      "question": "Which warm Atlantic current affects the European climate?",
       "options": [
-        "Great Britain",
-        "France",
-        "Germany",
-        "United States"
+        "The Gulf Stream",
+        "The North Atlantic Drift",
+        "The Canary Current",
+        "The Labrador Current"
       ],
       "answer_explanations": [
-        "Correct. The article states the Industrial Revolution began in Great Britain at the end of the 18th century.",
-        "Incorrect. The article does not say the Industrial Revolution began in France.",
-        "Incorrect. The article does not say the Industrial Revolution began in Germany.",
-        "Incorrect. The article states the Industrial Revolution began in Great Britain, not the United States."
+        "Correct. The article states that 'The European climate is affected by warm Atlantic currents, such as the Gulf Stream'.",
+        "Incorrect. The North Atlantic Drift is not mentioned in the article.",
+        "Incorrect. The Canary Current is not mentioned in the article.",
+        "Incorrect. The Labrador Current is not mentioned in the article."
       ]
     },
     {
       "id": 9,
-      "question": "What common currency have a majority of EU members adopted?",
+      "question": "What type of climate does the Gulf Stream help produce on much of Europe?",
       "options": [
-        "euro",
-        "dollar",
-        "pound",
-        "yen"
+        "A temperate climate",
+        "A tropical climate",
+        "A polar climate",
+        "A desert climate"
       ],
       "answer_explanations": [
-        "Correct. The article states a majority of EU members have adopted the euro as a common currency.",
-        "Incorrect. The article does not mention the dollar as an EU common currency.",
-        "Incorrect. The article does not mention the pound as an EU common currency.",
-        "Incorrect. The article does not mention the yen as an EU common currency."
+        "Correct. The article states that the Gulf Stream helps 'produce a temperate climate' on much of the continent.",
+        "Incorrect. A tropical climate is not mentioned as a result of the Gulf Stream's effect on Europe.",
+        "Incorrect. A polar climate is not mentioned as a result of the Gulf Stream's effect on Europe.",
+        "Incorrect. A desert climate is not mentioned as a result of the Gulf Stream's effect on Europe."
       ]
     },
     {
       "id": 10,
-      "question": "How often do regular popular elections take place within the EU?",
+      "question": "According to the article, what happens further from the sea in Europe?",
       "options": [
-        "every five years",
-        "every two years",
-        "every year",
-        "every ten years"
+        "Seasonal differences are more noticeable, producing more continental climates",
+        "The climate becomes more temperate",
+        "Winters become milder",
+        "The Gulf Stream has a stronger effect"
       ],
       "answer_explanations": [
-        "Correct. The article states regular popular elections take place every five years within the EU.",
-        "Incorrect. The article does not state EU elections occur every two years.",
-        "Incorrect. The article does not state EU elections occur every year.",
-        "Incorrect. The article does not state EU elections occur every ten years."
+        "Correct. The article states that 'Further from the sea, seasonal differences are more noticeable, producing more continental climates'.",
+        "Incorrect. The article says temperate climates are produced near the sea, not further from it.",
+        "Incorrect. The article says winters are tempered near the sea, not further from it.",
+        "Incorrect. The article does not say the Gulf Stream's effect is stronger further from the sea."
       ]
     }
   ]

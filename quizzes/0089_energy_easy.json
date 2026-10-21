@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the SI unit of measurement for energy?",
+      "question": "What is the unit of measurement for energy in the International System of Units?",
       "options": [
         "joule",
         "watt",
-        "erg",
-        "foot-pound"
+        "newton",
+        "calorie"
       ],
       "answer_explanations": [
         "Correct. The article states that the unit of measurement for energy in the International System of Units (SI) is the joule (J).",
-        "Incorrect. The watt is the SI unit of power, defined as energy per unit of time, not energy itself.",
-        "Incorrect. The erg is the CGS energy unit, not the SI unit.",
-        "Incorrect. The foot-pound is an imperial and US customary unit of energy, not the SI unit."
+        "Incorrect. The article specifies the joule, not the watt, as the SI unit for energy.",
+        "Incorrect. The article specifies the joule, not the newton, as the SI unit for energy.",
+        "Incorrect. The article specifies the joule, not the calorie, as the SI unit for energy."
       ]
     },
     {
       "id": 2,
-      "question": "Which ancient language does the word 'energy' derive from?",
+      "question": "According to the law of conservation of energy, what remains constant in an isolated system?",
       "options": [
-        "Ancient Greek",
-        "Latin",
-        "Sanskrit",
-        "Arabic"
+        "the total energy",
+        "the temperature",
+        "the mass",
+        "the volume"
       ],
       "answer_explanations": [
-        "Correct. The article states that energy comes from Ancient Greek á¼Î½Î­ÏÎ³ÎµÎ¹Î± (enÃ©rgeia), meaning 'activity'.",
-        "Incorrect. Latin is mentioned in relation to 'vis viva', but not as the origin of the word energy.",
-        "Incorrect. Sanskrit is not mentioned in the article as the origin of the word energy.",
-        "Incorrect. Arabic is not mentioned in the article as the origin of the word energy."
+        "Correct. The article states that the total energy of an isolated system remains constant.",
+        "Incorrect. The article says total energy, not temperature, remains constant.",
+        "Incorrect. The article says total energy, not mass, remains constant.",
+        "Incorrect. The article says total energy, not volume, remains constant."
       ]
     },
     {
       "id": 3,
-      "question": "What does the law of conservation of energy state about the total energy of an isolated system?",
+      "question": "Energy is recognizable in the capacity to do what?",
       "options": [
-        "It remains constant",
-        "It increases over time",
-        "It decreases over time",
-        "It fluctuates randomly"
+        "work",
+        "thinking",
+        "sleeping",
+        "growing"
       ],
       "answer_explanations": [
-        "Correct. The article states that the law of conservation of energy says the total energy of an isolated system remains constant.",
-        "Incorrect. The article says the total energy remains constant, not that it increases.",
-        "Incorrect. The article says the total energy remains constant, not that it decreases.",
-        "Incorrect. The article says the total energy remains constant, not that it fluctuates."
+        "Correct. The article states energy is recognizable in the capacity to do work.",
+        "Incorrect. The article mentions work, not thinking, as a capacity.",
+        "Incorrect. The article mentions work, not sleeping, as a capacity.",
+        "Incorrect. The article mentions work, not growing, as a capacity."
       ]
     },
     {
       "id": 4,
-      "question": "What type of energy is associated with an object's rest mass?",
+      "question": "Which of the following is a form of energy mentioned in the article?",
       "options": [
-        "rest energy",
         "kinetic energy",
-        "potential energy",
-        "radiant energy"
+        "nuclear energy",
+        "sound energy",
+        "magnetic energy"
       ],
       "answer_explanations": [
-        "Correct. The article lists rest energy as associated with an object's rest mass.",
-        "Incorrect. Kinetic energy is energy of motion, not energy associated with rest mass.",
-        "Incorrect. Potential energy is stored energy based on position or field, not specifically rest mass.",
-        "Incorrect. Radiant energy is carried by electromagnetic radiation, not associated with rest mass."
+        "Correct. The article lists kinetic energy as one of the forms of energy.",
+        "Incorrect. The article does not mention nuclear energy in the introduction.",
+        "Incorrect. The article does not mention sound energy in the introduction.",
+        "Incorrect. The article does not mention magnetic energy in the introduction."
       ]
     },
     {
       "id": 5,
-      "question": "What drives the Earth's climate and ecosystems processes primarily?",
+      "question": "The Earth's climate and ecosystems processes are driven primarily by what?",
       "options": [
         "radiant energy from the Sun",
         "geothermal energy",
-        "nuclear energy",
-        "chemical energy"
+        "wind energy",
+        "tidal energy"
       ],
       "answer_explanations": [
-        "Correct. The article states that Earth's climate and ecosystems processes are driven primarily by radiant energy from the Sun.",
-        "Incorrect. Geothermal energy is not mentioned as the primary driver of Earth's climate and ecosystems.",
-        "Incorrect. Nuclear energy is not mentioned as the primary driver of Earth's climate and ecosystems.",
-        "Incorrect. Chemical energy is not mentioned as the primary driver of Earth's climate and ecosystems."
+        "Correct. The article states that the Earth's climate and ecosystems processes are driven primarily by radiant energy from the Sun.",
+        "Incorrect. The article specifies radiant energy from the Sun, not geothermal energy.",
+        "Incorrect. The article specifies radiant energy from the Sun, not wind energy.",
+        "Incorrect. The article specifies radiant energy from the Sun, not tidal energy."
       ]
     },
     {
       "id": 6,
-      "question": "Who proposed the concept of conservation of energy in the marginalia of her French translation of Newton's Principia Mathematica?",
+      "question": "What is the origin of the word 'energy' according to the article?",
       "options": [
-        "Ãmilie du ChÃ¢telet",
-        "Marie Curie",
-        "Rosalind Franklin",
-        "Ada Lovelace"
+        "Ancient Greek",
+        "Latin",
+        "Arabic",
+        "Sanskrit"
       ],
       "answer_explanations": [
-        "Correct. The article states that Ãmilie du ChÃ¢telet proposed the concept of conservation of energy in the marginalia of her French language translation of Newton's Principia Mathematica.",
-        "Incorrect. Marie Curie is not mentioned in the article in connection with the conservation of energy.",
-        "Incorrect. Rosalind Franklin is not mentioned in the article in connection with the conservation of energy.",
-        "Incorrect. Ada Lovelace is not mentioned in the article in connection with the conservation of energy."
+        "Correct. The article states that 'Energy' comes from Ancient Greek.",
+        "Incorrect. The article says Ancient Greek, not Latin.",
+        "Incorrect. The article says Ancient Greek, not Arabic.",
+        "Incorrect. The article says Ancient Greek, not Sanskrit."
       ]
     },
     {
       "id": 7,
-      "question": "What did Gottfried Leibniz call the product of an object's mass and its velocity squared?",
+      "question": "Which of the following is NOT listed as a form of energy in the article?",
       "options": [
-        "vis viva",
-        "kinetic energy",
+        "thermal energy",
         "potential energy",
-        "rest energy"
+        "chemical energy",
+        "elastic energy"
       ],
       "answer_explanations": [
-        "Correct. The article states that Gottfried Leibniz proposed the idea of vis viva, defined as the product of mass and velocity squared.",
-        "Incorrect. Kinetic energy is the modern analog of vis viva, differing by a factor of two, but is not what Leibniz called it.",
-        "Incorrect. Potential energy was coined by William Rankine in 1853, not by Leibniz.",
-        "Incorrect. Rest energy is associated with rest mass and special relativity, not Leibniz's concept."
+        "Correct. The article does not list thermal energy in the introduction; it lists kinetic, potential, elastic, chemical, radiant, internal, and rest energy.",
+        "Incorrect. Potential energy is explicitly listed as a form of energy.",
+        "Incorrect. Chemical energy is explicitly listed as a form of energy.",
+        "Incorrect. Elastic energy is explicitly listed as a form of energy."
       ]
     },
     {
       "id": 8,
-      "question": "What is thermal energy described as in the article's table of energy types?",
+      "question": "What does the article say about the total energy of an isolated system?",
       "options": [
-        "kinetic energy of the microscopic motion of particles",
-        "potential energy due to chemical bonds",
-        "potential energy stored in electric fields",
-        "kinetic energy due to the rotation of an object"
+        "It remains constant.",
+        "It increases over time.",
+        "It decreases over time.",
+        "It is always zero."
       ],
       "answer_explanations": [
-        "Correct. The article's table describes thermal energy as the kinetic energy of the microscopic motion of particles.",
-        "Incorrect. Chemical energy is described as potential energy due to chemical bonds, not thermal energy.",
-        "Incorrect. Electric energy is described as potential energy due to or stored in electric fields, not thermal energy.",
-        "Incorrect. Rotational energy is described as kinetic energy due to rotation, not thermal energy."
+        "Correct. The article states that the total energy of an isolated system remains constant.",
+        "Incorrect. The article says it remains constant, not increases.",
+        "Incorrect. The article says it remains constant, not decreases.",
+        "Incorrect. The article says it remains constant, not that it is always zero."
       ]
     },
     {
       "id": 9,
-      "question": "What is a kilowatt-hour equal to in joules?",
+      "question": "Which of the following is an example of potential energy mentioned in the article?",
       "options": [
-        "3.6 million joules",
-        "1000 joules",
-        "1 joule",
-        "3600 joules"
+        "energy stored by an object due to its position in a field",
+        "energy of a moving object",
+        "energy carried by electromagnetic radiation",
+        "energy contained within a thermodynamic system"
       ],
       "answer_explanations": [
-        "Correct. The article states that a kilowatt-hour is equal to 3.6 million joules.",
-        "Incorrect. 1000 joules is not the value given for a kilowatt-hour in the article.",
-        "Incorrect. 1 joule is the SI unit of energy, not the value of a kilowatt-hour.",
-        "Incorrect. 3600 joules is not the value given for a kilowatt-hour in the article."
+        "Correct. The article states potential energy is stored by an object due to its position in a field.",
+        "Incorrect. Energy of a moving object is kinetic energy, not potential.",
+        "Incorrect. Energy carried by electromagnetic radiation is radiant energy, not potential.",
+        "Incorrect. Energy contained within a thermodynamic system is internal energy, not potential."
       ]
     },
     {
       "id": 10,
-      "question": "In what year did William Rankine coin the term 'potential energy'?",
+      "question": "What do all living organisms constantly do according to the article?",
       "options": [
-        "1853",
-        "1807",
-        "1829",
-        "1845"
+        "take in and release energy",
+        "produce light",
+        "generate heat",
+        "consume oxygen"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1853, William Rankine coined the term 'potential energy'.",
-        "Incorrect. 1807 is when Thomas Young possibly first used the term 'energy', not when Rankine coined 'potential energy'.",
-        "Incorrect. 1829 is when Gustave-Gaspard Coriolis described kinetic energy, not when Rankine coined potential energy.",
-        "Incorrect. 1845 is when James Prescott Joule discovered the link between mechanical work and heat, not when Rankine coined potential energy."
+        "Correct. The article states that all living organisms constantly take in and release energy.",
+        "Incorrect. The article does not say they produce light.",
+        "Incorrect. The article does not say they generate heat.",
+        "Incorrect. The article does not say they consume oxygen."
       ]
     }
   ]

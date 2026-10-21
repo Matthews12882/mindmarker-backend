@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Based on the article, which factor most directly explains why Marie Curie was denied a place at KrakÃ³w University in 1894?",
+      "question": "Why did Marie Curie's hypothesis that radiation comes from the atom itself challenge a fundamental assumption in physics?",
       "options": [
-        "Sexism in academia prevented her admission",
-        "She lacked the required academic credentials",
-        "She could not afford the tuition fees",
-        "She was not a Polish citizen at the time"
+        "Because it implied atoms were not indivisible, contradicting the prevailing view.",
+        "Because it suggested radiation was caused by molecular interactions.",
+        "Because it showed radiation depended on an external energy source.",
+        "Because it proved that uranium was the only radioactive element."
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states she 'was denied a place at KrakÃ³w University because of sexism in academia.'",
-        "Incorrect. The article does not mention a lack of credentials as the reason for her denial.",
-        "Incorrect. While she previously could not afford Paris tuition, the denial at KrakÃ³w is specifically attributed to sexism, not finances.",
-        "Incorrect. The article does not link her denial at KrakÃ³w University to her citizenship status."
+        "Correct. The article states that her hypothesis 'was an important step in disproving the assumption that atoms were indivisible.'",
+        "Incorrect. The article says she hypothesized the opposite: radiation was not the outcome of molecular interaction but came from the atom itself.",
+        "Incorrect. The article notes that Becquerel's discovery showed radiation arose spontaneously from uranium, not from an external source.",
+        "Incorrect. The article later mentions thorium was also radioactive, so this is not supported."
       ]
     },
     {
       "id": 2,
-      "question": "Which conclusion did Marie Curie draw from her finding that pitchblende was four times as active as uranium itself?",
+      "question": "What does the naming of the element polonium reveal about Marie Curie's personal values?",
       "options": [
-        "Pitchblende must contain small quantities of another substance far more active than uranium",
-        "Uranium compounds lose activity when purified",
-        "The electrometer was malfunctioning",
-        "Radioactivity depends on external energy sources"
+        "It shows her strong sense of Polish identity despite living in France.",
+        "It indicates her preference for Polish over French scientific terminology.",
+        "It suggests she wanted to honor her husband's heritage.",
+        "It implies she was more patriotic than scientific."
       ],
       "answer_explanations": [
-        "Correct. The article states she concluded 'these two minerals must contain small quantities of another substance that was far more active than uranium.'",
-        "Incorrect. The article does not state that uranium compounds lose activity when purified.",
-        "Incorrect. The article presents the electrometer as a reliable instrument she used successfully.",
-        "Incorrect. The article notes that Becquerel showed radiation did not depend on an external source of energy."
+        "Correct. The article says she 'named the first chemical element she and Pierre discovered polonium, after her native country' and that she 'never lost her sense of Polish identity.'",
+        "Incorrect. The naming was about honoring her native country, not about terminology preference.",
+        "Incorrect. The element was named after Poland, not after Pierre or his heritage.",
+        "Incorrect. The naming reflects her identity, but it does not imply a lack of scientific commitment."
       ]
     },
     {
       "id": 3,
-      "question": "What was the significance of Marie Curie's hypothesis that radiation comes from the atom itself?",
+      "question": "Why did Marie Curie initially reject Pierre Curie's marriage proposal?",
       "options": [
-        "It was an important step in disproving the assumption that atoms were indivisible",
-        "It proved that uranium rays were identical to X-rays",
-        "It demonstrated that radioactivity requires an external energy source",
-        "It showed that only uranium compounds emit radiation"
+        "Because she intended to return to Poland and pursue her career there.",
+        "Because she did not love him.",
+        "Because she wanted to finish her doctorate first.",
+        "Because her family disapproved of the marriage."
       ],
       "answer_explanations": [
-        "Correct. The article states this hypothesis 'was an important step in disproving the assumption that atoms were indivisible.'",
-        "Incorrect. The article distinguishes uranium rays from X-rays and does not claim they were proven identical.",
-        "Incorrect. The article states the opposite: radiation seemed to arise spontaneously without an external energy source.",
-        "Incorrect. The article notes she discovered thorium was also radioactive, so it was not limited to uranium compounds."
+        "Correct. The article states she 'did not accept as she was still planning to go back to her native country.'",
+        "Incorrect. The article says they developed feelings for one another, so love was not the issue.",
+        "Incorrect. There is no mention of her wanting to finish her doctorate before marrying.",
+        "Incorrect. The article does not mention family disapproval; it was her own career plans."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following best describes Marie Curie's living and working conditions while conducting her early research in Paris?",
+      "question": "What can be inferred about the scientific environment at the time from the Curies' working conditions?",
       "options": [
-        "She lived in poverty and worked in a poorly ventilated, non-waterproof converted shed",
-        "She had access to a fully funded, modern laboratory at ESPCI",
-        "She lived comfortably with her sister and worked in a well-equipped university lab",
-        "She conducted all her research in a well-ventilated medical school dissecting room"
+        "Research funding and facilities were often inadequate for pioneering work.",
+        "Scientists had full institutional support and modern laboratories.",
+        "Radiation safety was well understood and regulated.",
+        "Women were fully accepted in academic research."
       ],
       "answer_explanations": [
-        "Correct. The article describes her meagre resources in Paris and the research shed as 'poorly ventilated and not even waterproof.'",
-        "Incorrect. The article explicitly states ESPCI did not sponsor her research and she lacked a dedicated laboratory.",
-        "Incorrect. While she briefly stayed with her sister, the article emphasizes her meagre resources and poor working conditions.",
-        "Incorrect. The shed was formerly a dissecting room but was poorly ventilated and not waterproof, not well-ventilated."
+        "Correct. The article describes their laboratory as a 'converted shed' that was 'poorly ventilated and not even waterproof,' and notes ESPCI did not sponsor her research, implying inadequate support.",
+        "Incorrect. The description of the shed contradicts this.",
+        "Incorrect. The article says they were 'unaware of the deleterious effects of radiation exposure,' implying lack of safety knowledge.",
+        "Incorrect. The article mentions she was denied a place at KrakÃ³w University due to sexism, showing lack of acceptance."
       ]
     },
     {
       "id": 5,
-      "question": "If a researcher today wanted to model Marie Curie's approach to discovering new radioactive elements, which of her methods would be most essential to replicate?",
+      "question": "Why did Marie Curie's discovery that pitchblende was more active than uranium suggest the existence of new elements?",
       "options": [
-        "Systematically measuring the activity of minerals and concluding that higher-than-expected activity indicates unknown radioactive substances",
-        "Relying solely on university funding and institutional laboratory space",
-        "Testing only pure uranium compounds for radiation",
-        "Assuming that all radiation requires an external source of energy"
+        "Because the extra activity could not be explained by the known uranium content, implying another substance was present.",
+        "Because pitchblende contained more uranium than expected.",
+        "Because thorium was also found to be radioactive.",
+        "Because the electrometer was not calibrated correctly."
       ],
       "answer_explanations": [
-        "Correct. The article describes how she measured pitchblende and torbernite, found them more active than uranium, and inferred the presence of additional radioactive substances.",
-        "Incorrect. The article notes ESPCI did not sponsor her research and she worked in a converted shed with outside subsidies.",
-        "Incorrect. Her breakthrough came from studying minerals like pitchblende, not only pure uranium compounds.",
-        "Incorrect. The article states radiation seemed to arise spontaneously without an external energy source."
+        "Correct. The article says she concluded the minerals 'must contain small quantities of another substance that was far more active than uranium' because the activity was higher than expected from uranium alone.",
+        "Incorrect. The article does not say pitchblende had more uranium; it says the activity was disproportionate.",
+        "Incorrect. Thorium's radioactivity was a separate discovery, not the reason for the conclusion about pitchblende.",
+        "Incorrect. The article does not suggest calibration error; it presents the finding as valid."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following best captures the relationship between Marie Curie's personal background and her scientific identity, as described in the article?",
+      "question": "What does the fact that Marie Curie taught her daughters Polish and visited Poland suggest about her identity?",
       "options": [
-        "She maintained her Polish identity while becoming a naturalized French citizen and naming an element after Poland",
-        "She rejected her Polish heritage after moving to France and becoming a citizen",
-        "She identified solely as Polish and never took French citizenship",
-        "She distanced herself from Poland to avoid political complications in her research"
+        "She maintained a strong cultural connection to Poland despite being a French citizen.",
+        "She wanted her daughters to be fluent in French and Polish equally.",
+        "She planned to return to Poland permanently.",
+        "She rejected her Polish heritage after moving to France."
       ],
       "answer_explanations": [
-        "Correct. The article states she 'never lost her sense of Polish identity,' taught her daughters Polish, and named polonium after her native country while being a French citizen.",
-        "Incorrect. The article explicitly says she never lost her sense of Polish identity.",
-        "Incorrect. The article describes her as a naturalized-French physicist and chemist.",
-        "Incorrect. The article shows she actively honored Poland through language, visits, and naming polonium after it."
+        "Correct. The article says she 'never lost her sense of Polish identity' and 'taught her daughters the Polish language and took them on visits to Poland.'",
+        "Incorrect. The article does not mention language balance, only that she taught them Polish.",
+        "Incorrect. The article does not indicate a permanent return; she lived in France.",
+        "Incorrect. The opposite is true; she maintained her Polish identity."
       ]
     },
     {
       "id": 7,
-      "question": "Based on the article, what can be inferred about Marie Curie's decision to return to Paris in 1894 after visiting Warsaw?",
+      "question": "How did Marie Curie's work during World War I reflect her scientific expertise applied to practical needs?",
       "options": [
-        "She concluded she could not pursue her chosen field in Poland due to barriers such as sexism",
-        "She had secured a well-paid university position in Warsaw",
-        "Pierre Curie refused to move to Poland under any circumstances",
-        "She had already completed her PhD in Warsaw"
+        "She developed mobile X-ray units to aid field hospitals.",
+        "She created new radioactive elements for weapons.",
+        "She stopped her research to focus on nursing.",
+        "She used her Nobel Prize money to fund the war."
       ],
       "answer_explanations": [
-        "Correct. The article states she was denied a place at KrakÃ³w University because of sexism and that a letter from Pierre convinced her to return to Paris.",
-        "Incorrect. The article indicates she was denied academic opportunities in Poland, not offered a well-paid position.",
-        "Incorrect. The article says Pierre declared he was ready to move with her to Poland.",
-        "Incorrect. She went to Paris to pursue a PhD, not having completed one in Warsaw."
+        "Correct. The article says she 'developed mobile radiography units to provide X-ray services to field hospitals.'",
+        "Incorrect. The article does not mention weapons development.",
+        "Incorrect. She developed radiography units, not nursing.",
+        "Incorrect. The article does not mention using Nobel money for the war."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following best explains why Marie Curie's work with pitchblende and torbernite led to the discovery of new elements?",
+      "question": "Why did Marie Curie's father's firing from his position likely influence her early education?",
       "options": [
-        "The minerals were more radioactive than could be explained by their uranium content alone",
-        "She found that both minerals contained no uranium at all",
-        "She used X-rays to transmute the minerals into new elements",
-        "She discovered that radioactivity only occurs in pure elements, not minerals"
+        "Because he brought laboratory equipment home and taught his children, fostering her scientific interest.",
+        "Because he was forced to leave Poland, so she was educated abroad.",
+        "Because he became an atheist, which affected her religious upbringing.",
+        "Because he lost his fortune, so she could not afford schooling."
       ],
       "answer_explanations": [
-        "Correct. The article states pitchblende was four times as active as uranium and chalcolite twice as active, leading her to conclude they contained another far more active substance.",
-        "Incorrect. The article discusses uranium minerals and their uranium content, not an absence of uranium.",
-        "Incorrect. The article does not mention using X-rays to transmute elements.",
-        "Incorrect. Her work with minerals, not pure elements, led to the discovery of new radioactive substances."
+        "Correct. The article says after being fired, he 'brought much of the laboratory equipment home and instructed his children in its use,' which contributed to her scientific training.",
+        "Incorrect. The family stayed in Warsaw; she later went to Paris for higher studies.",
+        "Incorrect. His atheism is mentioned separately, not as a result of his firing.",
+        "Incorrect. The article says the family lost money on investments, but she still attended school and later earned a gold medal."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following best describes the long-term impact of Marie Curie's research on radioactivity, as indicated by the article?",
+      "question": "What does the fact that Marie Curie was entombed in the PanthÃ©on on her own merits signify?",
       "options": [
-        "It led to the first studies of treating neoplasms with radioactive isotopes and the founding of major medical research institutes",
-        "It proved that radiation exposure is completely safe for researchers",
-        "It resulted in the immediate banning of all radioactive materials in medicine",
-        "It had no application beyond academic physics and chemistry"
+        "It was a recognition of her individual achievements, not her husband's.",
+        "It meant she was honored for her political contributions.",
+        "It was a religious honor, as the PanthÃ©on is a church.",
+        "It indicated she was the first woman to be buried in France."
       ],
       "answer_explanations": [
-        "Correct. The article states that under her direction the first studies into treating neoplasms with radioactive isotopes were conducted, and she founded the Curie Institutes in Paris and Warsaw.",
-        "Incorrect. The article notes she died of aplastic anaemia likely from radiation exposure, indicating it was not safe.",
-        "Incorrect. The article describes medical applications, not a banning of radioactive materials.",
-        "Incorrect. The article highlights major medical applications and institutes resulting from her work."
+        "Correct. The article says she 'became the first woman to be entombed on her own merits in the Paris PanthÃ©on,' implying recognition of her own accomplishments.",
+        "Incorrect. The PanthÃ©on honors national figures, not specifically political ones.",
+        "Incorrect. The PanthÃ©on is a secular mausoleum, not a church.",
+        "Incorrect. The article says she was the first woman to be entombed on her own merits, not the first woman buried in France."
       ]
     },
     {
       "id": 10,
-      "question": "If Marie Curie had accepted Kazimierz Å»orawski's marriage proposal and remained in Poland, which of the following outcomes described in the article would most likely not have occurred?",
+      "question": "Why did Marie Curie's initial plan to work in Poland fail, and how did that shape her career?",
       "options": [
-        "Her collaboration with Pierre Curie on radioactivity and her Nobel Prizes",
-        "Her education at the clandestine Flying University",
-        "Her work as a governess for the Å»orawski family",
-        "Her father's instruction in physics and mathematics"
+        "She was denied a university position due to sexism, so she returned to Paris and pursued research there.",
+        "She could not speak French, so she stayed in Poland.",
+        "She was offered a better job in Poland but chose Paris for love.",
+        "She was forced to leave Poland for political reasons."
       ],
       "answer_explanations": [
-        "Correct. The article describes her collaboration with Pierre and Nobel Prizes as occurring after she moved to Paris and married him, not while remaining in Poland with Å»orawski.",
-        "Incorrect. Her involvement with the Flying University occurred in Warsaw before any potential marriage to Å»orawski.",
-        "Incorrect. Her work as a governess for the Å»orawski family was part of the relationship that led to the proposal, so it would still have occurred.",
-        "Incorrect. Her father's instruction took place during her childhood in Warsaw, before the proposed marriage."
+        "Correct. The article says she was 'denied a place at KrakÃ³w University because of sexism in academia,' and a letter from Pierre convinced her to return to Paris, where she did her groundbreaking work.",
+        "Incorrect. She learned French and studied in Paris, so language was not a barrier.",
+        "Incorrect. She was not offered a job in Poland; she was denied one.",
+        "Incorrect. She left Poland voluntarily to study, and the denial was due to sexism, not political exile."
       ]
     }
   ]

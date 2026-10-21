@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
+      "question": "What is Mesopotamia?",
+      "options": [
+        "A historical region of West Asia",
+        "A modern country in Europe",
+        "A mountain range in Asia",
+        "A river in Africa"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Mesopotamia is a 'historical region of West Asia'.",
+        "Incorrect. The article does not describe Mesopotamia as a modern country in Europe.",
+        "Incorrect. The article does not describe Mesopotamia as a mountain range.",
+        "Incorrect. The article does not describe Mesopotamia as a river."
+      ]
+    },
+    {
+      "id": 2,
       "question": "Which river system is Mesopotamia situated within?",
       "options": [
         "TigrisâEuphrates river system",
         "Nile river system",
         "Indus river system",
-        "Yellow River system"
+        "Amazon river system"
       ],
       "answer_explanations": [
-        "Correct. The article states that Mesopotamia is situated within the TigrisâEuphrates river system.",
-        "Incorrect. The Nile river system is associated with Ancient Egypt, not Mesopotamia.",
-        "Incorrect. The Indus river system is associated with the Indian subcontinent, not Mesopotamia.",
-        "Incorrect. The Yellow River system is associated with Ancient China, not Mesopotamia."
-      ]
-    },
-    {
-      "id": 2,
-      "question": "What does the name Mesopotamia translate to?",
-      "options": [
-        "(land) between rivers",
-        "land of cities",
-        "fertile land",
-        "land of empires"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Mesopotamia comes from Greek roots and translates to '(land) between rivers'.",
-        "Incorrect. The article does not translate Mesopotamia as 'land of cities'.",
-        "Incorrect. The article does not translate Mesopotamia as 'fertile land'.",
-        "Incorrect. The article does not translate Mesopotamia as 'land of empires'."
+        "Correct. The article says Mesopotamia is situated within the 'TigrisâEuphrates river system'.",
+        "Incorrect. The article does not mention the Nile river system.",
+        "Incorrect. The article does not mention the Indus river system.",
+        "Incorrect. The article does not mention the Amazon river system."
       ]
     },
     {
       "id": 3,
-      "question": "Which modern country does Mesopotamia correspond roughly to?",
+      "question": "In which part of the Fertile Crescent is Mesopotamia located?",
       "options": [
-        "Iraq",
-        "Iran",
-        "Turkey",
-        "Syria"
+        "The northern part",
+        "The southern part",
+        "The eastern part",
+        "The western part"
       ],
       "answer_explanations": [
-        "Correct. The article states that Mesopotamia corresponds roughly to the territory of modern Iraq.",
-        "Incorrect. Iran lies just beyond Mesopotamia, but Mesopotamia does not correspond roughly to Iran.",
-        "Incorrect. Turkey includes parts of Mesopotamia in the broader sense, but Mesopotamia corresponds roughly to Iraq.",
-        "Incorrect. Syria includes parts of Mesopotamia in the broader sense, but Mesopotamia corresponds roughly to Iraq."
+        "Correct. The article states that Mesopotamia is 'in the northern part of the Fertile Crescent'.",
+        "Incorrect. The article specifies the northern part, not the southern part.",
+        "Incorrect. The article specifies the northern part, not the eastern part.",
+        "Incorrect. The article specifies the northern part, not the western part."
       ]
     },
     {
       "id": 4,
-      "question": "Which two groups dominated Mesopotamia from the beginning of recorded history to the fall of Babylon in 539 BC?",
+      "question": "The territory of Mesopotamia corresponds roughly to which modern country?",
       "options": [
-        "Sumerians and Akkadians",
-        "Romans and Parthians",
-        "Assyrians and Babylonians",
-        "Persians and Greeks"
+        "Iraq",
+        "Iran",
+        "Syria",
+        "Turkey"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Sumerians and Akkadians dominated Mesopotamia from the beginning of recorded history to the fall of Babylon in 539 BC.",
-        "Incorrect. The Romans and Parthians battled over Mesopotamia much later, around 150 BC onward.",
-        "Incorrect. Assyria and Babylonia were polarized in the early second millennium BC, but they are not the two groups said to dominate from the beginning of recorded history.",
-        "Incorrect. The Persians and Greeks conquered Mesopotamia later, after 539 BC."
+        "Correct. The article says Mesopotamia 'corresponds roughly to the territory of modern Iraq'.",
+        "Incorrect. The article mentions Iran as lying just beyond Mesopotamia, not as the corresponding territory.",
+        "Incorrect. The article does not say Mesopotamia corresponds to Syria.",
+        "Incorrect. The article does not say Mesopotamia corresponds to Turkey."
       ]
     },
     {
       "id": 5,
-      "question": "Which empire conquered Mesopotamia in 539 BC?",
+      "question": "What lies just beyond Mesopotamia?",
       "options": [
-        "Achaemenid Empire",
-        "Roman Empire",
-        "Sassanid Empire",
-        "Neo-Assyrian Empire"
+        "Southwestern Iran",
+        "Northern Egypt",
+        "Eastern Greece",
+        "Western India"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 539 BC, Mesopotamia was conquered by the Achaemenid Empire under Cyrus the Great.",
-        "Incorrect. The Roman Empire came into conflict with Parthians over Mesopotamia much later.",
-        "Incorrect. The Sassanid Persians took eastern Mesopotamia in 226 AD, not 539 BC.",
-        "Incorrect. The Neo-Assyrian Empire asserted control from 900 to 612 BC, before 539 BC."
+        "Correct. The article states 'Just beyond it lies southwestern Iran'.",
+        "Incorrect. The article does not mention Egypt in this context.",
+        "Incorrect. The article does not mention Greece in this context.",
+        "Incorrect. The article does not mention India in this context."
       ]
     },
     {
       "id": 6,
-      "question": "Which modern people are described as direct descendants of Ancient Sumerians?",
+      "question": "From around what time did the earliest developments of the Neolithic Revolution occur in Mesopotamia?",
       "options": [
-        "Marsh Iraqis",
-        "Modern Assyrians",
-        "Kurds",
-        "Turks"
+        "10,000 BC",
+        "5,000 BC",
+        "3,100 BC",
+        "539 BC"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Marsh Iraqis are genetically and culturally the closest modern people to ancient Sumer and are the direct descendants of Ancient Sumerians.",
-        "Incorrect. Modern Assyrians are described as direct descendants of native Mesopotamians, not specifically Ancient Sumerians.",
-        "Incorrect. The article does not identify Kurds as descendants of Ancient Sumerians.",
-        "Incorrect. The article does not identify Turks as descendants of Ancient Sumerians."
+        "Correct. The article says 'from around 10,000 BC'.",
+        "Incorrect. The article does not mention 5,000 BC.",
+        "Incorrect. 3,100 BC is mentioned as the beginning of recorded history, not the Neolithic Revolution.",
+        "Incorrect. 539 BC is mentioned as the fall of Babylon, not the Neolithic Revolution."
       ]
     },
     {
       "id": 7,
-      "question": "Which two rivers does Mesopotamia encompass the land between?",
+      "question": "Which of the following is mentioned as an important development inspired by Mesopotamia?",
       "options": [
-        "Euphrates and Tigris",
-        "Nile and Tigris",
-        "Euphrates and Indus",
-        "Tigris and Yellow River"
+        "The invention of the wheel",
+        "The invention of the printing press",
+        "The discovery of electricity",
+        "The development of the internet"
       ],
       "answer_explanations": [
-        "Correct. The article states that Mesopotamia encompasses the land between the Euphrates and Tigris rivers.",
-        "Incorrect. The Nile is not one of the rivers that Mesopotamia lies between.",
-        "Incorrect. The Indus is not one of the rivers that Mesopotamia lies between.",
-        "Incorrect. The Yellow River is not one of the rivers that Mesopotamia lies between."
+        "Correct. The article lists 'the invention of the wheel' among important developments.",
+        "Incorrect. The article does not mention the printing press.",
+        "Incorrect. The article does not mention electricity.",
+        "Incorrect. The article does not mention the internet."
       ]
     },
     {
       "id": 8,
-      "question": "Which city constituted the geographical boundary between JazÄ«ra and SawÄd?",
+      "question": "Which two groups dominated Mesopotamia from the beginning of recorded history?",
       "options": [
-        "Baghdad",
-        "Basra",
-        "KÅ«fa",
-        "Nineveh"
+        "Sumerians and Akkadians",
+        "Egyptians and Hittites",
+        "Persians and Greeks",
+        "Romans and Parthians"
       ],
       "answer_explanations": [
-        "Correct. The article states that Baghdad constituted the geographical boundary between JazÄ«ra and SawÄd.",
-        "Incorrect. Basra is listed as part of Iraq but not as the boundary between JazÄ«ra and SawÄd.",
-        "Incorrect. KÅ«fa is listed as part of Iraq but not as the boundary between JazÄ«ra and SawÄd.",
-        "Incorrect. Nineveh is mentioned as a historical Mesopotamian city, not as the boundary between JazÄ«ra and SawÄd."
+        "Correct. The article states 'The Sumerians and Akkadians ... dominated Mesopotamia from the beginning of recorded history'.",
+        "Incorrect. The article does not mention Egyptians and Hittites as dominating Mesopotamia.",
+        "Incorrect. The article mentions Persians and Greeks later in history, not from the beginning of recorded history.",
+        "Incorrect. The article mentions Romans and Parthians later, not from the beginning of recorded history."
       ]
     },
     {
       "id": 9,
-      "question": "What does the Arabic term al-SawÄd mean?",
+      "question": "In what year did the fall of Babylon occur?",
       "options": [
-        "black land or arable land",
-        "island",
-        "between rivers",
-        "center of the world"
+        "539 BC",
+        "2350 BC",
+        "3100 BC",
+        "332 BC"
       ],
       "answer_explanations": [
-        "Correct. The article states that al-SawÄd is an Arabic term meaning 'black land' or 'arable land'.",
-        "Incorrect. 'Island' is the meaning of al-JazÄ«ra, not al-SawÄd.",
-        "Incorrect. '(Land) between rivers' is the translation of Mesopotamia, not al-SawÄd.",
-        "Incorrect. The article describes al-Ê¿IrÄq as lying at the center of the world, not al-SawÄd."
+        "Correct. The article mentions 'the fall of Babylon in 539 BC'.",
+        "Incorrect. 2350 BC is associated with Sargon of Akkad, not the fall of Babylon.",
+        "Incorrect. 3100 BC is the beginning of recorded history, not the fall of Babylon.",
+        "Incorrect. 332 BC is when Alexander the Great conquered the area, not the fall of Babylon."
       ]
     },
     {
       "id": 10,
-      "question": "Which animals did nomadic pastoralists in Mesopotamia herd?",
+      "question": "Who conquered Mesopotamia in 539 BC?",
       "options": [
-        "sheep and goats",
-        "cattle and horses",
-        "camels and cows",
-        "pigs and chickens"
+        "The Achaemenid Empire under Cyrus the Great",
+        "Alexander the Great",
+        "The Roman Empire",
+        "The Sassanid Persians"
       ],
       "answer_explanations": [
-        "Correct. The article states that nomads herded sheep and goats (and later camels).",
-        "Incorrect. The article does not mention cattle and horses as the primary herded animals.",
-        "Incorrect. Camels are mentioned as a later addition, but cows are not mentioned as a primary herd animal.",
-        "Incorrect. The article does not mention pigs and chickens as herded animals."
+        "Correct. The article states 'In 539 BC, Mesopotamia was conquered by the Achaemenid Empire under Cyrus the Great'.",
+        "Incorrect. Alexander the Great conquered the area in 332 BC, not 539 BC.",
+        "Incorrect. The Romans are mentioned later, not in 539 BC.",
+        "Incorrect. The Sassanid Persians are mentioned in 226 AD, not 539 BC."
       ]
     }
   ]

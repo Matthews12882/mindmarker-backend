@@ -8,159 +8,159 @@
       "question": "What does the scientific name Homo sapiens mean?",
       "options": [
         "thinking man or wise man",
-        "tool-using primate",
-        "upright walker",
-        "social animal"
+        "walking man",
+        "talking man",
+        "big-brained man"
       ],
       "answer_explanations": [
         "Correct. The article states that Homo sapiens means 'thinking man' or 'wise man'.",
-        "Incorrect. The article does not define Homo sapiens as 'tool-using primate'.",
-        "Incorrect. The article does not define Homo sapiens as 'upright walker'.",
-        "Incorrect. The article does not define Homo sapiens as 'social animal'."
+        "Incorrect. The article does not say that Homo sapiens means 'walking man'.",
+        "Incorrect. The article does not say that Homo sapiens means 'talking man'.",
+        "Incorrect. The article does not say that Homo sapiens means 'big-brained man'."
       ]
     },
     {
       "id": 2,
-      "question": "How long can humans survive without food?",
+      "question": "According to the article, which of these is a characteristic of humans?",
       "options": [
-        "up to eight weeks",
-        "three or four days",
-        "seven to nine hours",
-        "several months"
+        "bipedalism",
+        "living underwater",
+        "having wings",
+        "being cold-blooded"
       ],
       "answer_explanations": [
-        "Correct. The article states humans can survive for up to eight weeks without food.",
-        "Incorrect. Three or four days is how long humans can survive without water, not food.",
-        "Incorrect. Seven to nine hours is the average amount of sleep per day.",
-        "Incorrect. The article does not say humans can survive several months without food."
+        "Correct. The article says humans are characterized by bipedalism, minimal body hair, and large, complex brains.",
+        "Incorrect. The article does not mention humans living underwater.",
+        "Incorrect. The article does not mention humans having wings.",
+        "Incorrect. The article does not say humans are cold-blooded."
       ]
     },
     {
       "id": 3,
-      "question": "What is the average amount of sleep humans get per day?",
+      "question": "What kind of social structures do humans tend to live in?",
       "options": [
-        "seven to nine hours",
-        "three or four days",
-        "up to eight weeks",
-        "twelve hours"
+        "complex social structures",
+        "simple isolated groups",
+        "hierarchical ant colonies",
+        "solitary territories"
       ],
       "answer_explanations": [
-        "Correct. The article states humans sleep on average seven to nine hours per day.",
-        "Incorrect. Three or four days refers to survival without water.",
-        "Incorrect. Up to eight weeks refers to survival without food.",
-        "Incorrect. The article does not mention twelve hours of sleep."
+        "Correct. The article states that humans are highly social beings and tend to live in complex social structures composed of many cooperating and competing groups.",
+        "Incorrect. The article describes human social structures as complex, not simple.",
+        "Incorrect. The article does not compare human social structures to ant colonies.",
+        "Incorrect. The article says humans are highly social, not solitary."
       ]
     },
     {
       "id": 4,
-      "question": "Who coined the species name Homo sapiens?",
+      "question": "Which region of the brain is associated with higher cognition in humans?",
       "options": [
-        "Carl Linnaeus",
-        "Charles Darwin",
-        "Gregor Mendel",
-        "Alfred Russel Wallace"
+        "prefrontal cortex",
+        "cerebellum",
+        "medulla oblongata",
+        "hippocampus"
       ],
       "answer_explanations": [
-        "Correct. The article states Homo sapiens was coined by Carl Linnaeus in his 1735 work Systema Naturae.",
-        "Incorrect. The article does not credit Charles Darwin with coining Homo sapiens.",
-        "Incorrect. The article does not credit Gregor Mendel with coining Homo sapiens.",
-        "Incorrect. The article does not credit Alfred Russel Wallace with coining Homo sapiens."
+        "Correct. The article says humans have a large and highly developed prefrontal cortex, the region of the brain associated with higher cognition.",
+        "Incorrect. The article does not mention the cerebellum in this context.",
+        "Incorrect. The article does not mention the medulla oblongata in this context.",
+        "Incorrect. The article does not mention the hippocampus in this context."
       ]
     },
     {
       "id": 5,
-      "question": "How genetically similar are any two humans on average?",
+      "question": "What is the cumulative preservation and advancement of knowledge across generations called?",
       "options": [
-        "over 99%",
-        "around 1% to 2%",
-        "less than 90%",
-        "exactly 100%"
+        "ratchet effect",
+        "ripple effect",
+        "domino effect",
+        "butterfly effect"
       ],
       "answer_explanations": [
-        "Correct. The article states any two humans are on average over 99% genetically similar.",
-        "Incorrect. Around 1% to 2% is the genetic difference between males and females.",
-        "Incorrect. The article does not say humans are less than 90% genetically similar.",
-        "Incorrect. The article does not say humans are exactly 100% genetically similar."
+        "Correct. The article states that in anthropology, the cumulative preservation and advancement of knowledge across generations is known as the ratchet effect.",
+        "Incorrect. The article does not use the term 'ripple effect'.",
+        "Incorrect. The article does not use the term 'domino effect'.",
+        "Incorrect. The article does not use the term 'butterfly effect'."
       ]
     },
     {
       "id": 6,
-      "question": "Which continent has the most genetically diverse human populations?",
+      "question": "How long can humans survive without food, according to the article?",
       "options": [
-        "Africa",
-        "Asia",
-        "Europe",
-        "Australia"
+        "up to eight weeks",
+        "up to eight days",
+        "up to eight hours",
+        "up to eight months"
       ],
       "answer_explanations": [
-        "Correct. The article states the most genetically diverse populations are from Africa.",
-        "Incorrect. The article does not identify Asia as having the most genetically diverse populations.",
-        "Incorrect. The article does not identify Europe as having the most genetically diverse populations.",
-        "Incorrect. The article does not identify Australia as having the most genetically diverse populations."
+        "Correct. The article states that humans can survive for up to eight weeks without food.",
+        "Incorrect. The article says eight weeks, not eight days.",
+        "Incorrect. The article says eight weeks, not eight hours.",
+        "Incorrect. The article says eight weeks, not eight months."
       ]
     },
     {
       "id": 7,
-      "question": "When did Homo sapiens emerge according to the article?",
+      "question": "How many hours per day do humans generally sleep on average?",
       "options": [
-        "around 300,000 years ago",
-        "2.8 million years ago",
-        "2 million years ago",
-        "160,000 years ago"
+        "seven to nine hours",
+        "five to six hours",
+        "ten to twelve hours",
+        "three to four hours"
       ],
       "answer_explanations": [
-        "Correct. The article states Homo sapiens emerged around 300,000 years ago.",
-        "Incorrect. 2.8 million years ago refers to the earliest record of the genus Homo (specimen LD 350-1).",
-        "Incorrect. 2 million years ago refers to when H. erectus evolved.",
-        "Incorrect. 160,000â70,000 years ago is when humans began exhibiting behavioral modernity."
+        "Correct. The article says humans are generally diurnal, sleeping on average seven to nine hours per day.",
+        "Incorrect. The article states seven to nine hours, not five to six.",
+        "Incorrect. The article states seven to nine hours, not ten to twelve.",
+        "Incorrect. The article states seven to nine hours, not three to four."
       ]
     },
     {
       "id": 8,
-      "question": "Which continent did the evolutionary branch humans descended from split from other hominins in?",
+      "question": "What is said about human childbirth in the article?",
       "options": [
-        "Africa",
-        "Asia",
-        "Europe",
-        "Australia"
+        "It is dangerous, with a high risk of complications and death.",
+        "It is always easy and safe.",
+        "It is only dangerous for the father.",
+        "It never results in complications."
       ],
       "answer_explanations": [
-        "Correct. The article states the evolutionary branch humans descended from split from other hominins in Africa several million years ago.",
-        "Incorrect. The article does not say the split occurred in Asia.",
-        "Incorrect. The article does not say the split occurred in Europe.",
-        "Incorrect. The article does not say the split occurred in Australia."
+        "Correct. The article states that human childbirth is dangerous, with a high risk of complications and death.",
+        "Incorrect. The article says childbirth is dangerous, not easy and safe.",
+        "Incorrect. The article does not say it is only dangerous for the father.",
+        "Incorrect. The article says there is a high risk of complications, so it does not say there are never complications."
       ]
     },
     {
       "id": 9,
-      "question": "Which species was the first archaic human to leave Africa and disperse across Eurasia?",
+      "question": "According to the article, what is the average genetic similarity between any two humans?",
       "options": [
-        "Homo erectus",
-        "Homo habilis",
-        "Homo sapiens",
-        "Homo neanderthalensis"
+        "over 99%",
+        "about 50%",
+        "about 75%",
+        "under 90%"
       ],
       "answer_explanations": [
-        "Correct. The article states H. erectus was the first archaic human species to leave Africa and disperse across Eurasia.",
-        "Incorrect. The article does not say Homo habilis was the first archaic human to leave Africa.",
-        "Incorrect. Homo sapiens migrated out of Africa later, not as the first archaic human.",
-        "Incorrect. The article does not identify Homo neanderthalensis as the first archaic human to leave Africa."
+        "Correct. The article states that any two humans are on average over 99% genetically similar.",
+        "Incorrect. The article says over 99%, not about 50%.",
+        "Incorrect. The article says over 99%, not about 75%.",
+        "Incorrect. The article says over 99%, not under 90%."
       ]
     },
     {
       "id": 10,
-      "question": "Approximately how many humans occupied almost all regions of Earth in 2026?",
+      "question": "Which population has the most genetically diverse humans, according to the article?",
       "options": [
-        "over 8.3 billion",
-        "around 300,000",
-        "2.8 million",
-        "70,000"
+        "Africa",
+        "Europe",
+        "Asia",
+        "North America"
       ],
       "answer_explanations": [
-        "Correct. The article states over 8.3 billion humans occupied almost all regions of Earth in 2026.",
-        "Incorrect. Around 300,000 years ago is when Homo sapiens emerged.",
-        "Incorrect. 2.8 million years ago refers to the earliest Homo specimen.",
-        "Incorrect. 70,000 to 50,000 years ago refers to the Southern Dispersal migration."
+        "Correct. The article states that the most genetically diverse populations are from Africa.",
+        "Incorrect. The article specifically names Africa, not Europe.",
+        "Incorrect. The article specifically names Africa, not Asia.",
+        "Incorrect. The article specifically names Africa, not North America."
       ]
     }
   ]

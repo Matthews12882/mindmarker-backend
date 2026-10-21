@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is fire defined as in the article?",
+      "question": "What is fire, according to the article?",
       "options": [
         "The rapid oxidation of a fuel in the exothermic chemical process of combustion",
-        "A physical state of matter similar to plasma",
-        "The release of nitrogen and phosphorus from burning vegetation",
-        "A classical element used only for cooking and heating"
+        "A slow chemical reaction that only produces heat",
+        "A type of plasma that exists only in stars",
+        "A process that releases only light and no heat"
       ],
       "answer_explanations": [
-        "Correct. The article defines fire as 'the rapid oxidation of a fuel in the exothermic chemical process of combustion, releasing heat, light, and various reaction products.'",
-        "Incorrect. The article mentions plasma as a possible state of hot gases in flames, but does not define fire itself as a state of matter.",
-        "Incorrect. The release of nitrogen and phosphorus is discussed as an effect of burning vegetation, not as the definition of fire.",
-        "Incorrect. Cooking and heating are listed as historical uses of fire, but they do not constitute its definition."
+        "Correct. The article states that fire is 'the rapid oxidation of a fuel in the exothermic chemical process of combustion, releasing heat, light, and various reaction products.'",
+        "Incorrect. The article describes fire as a rapid oxidation process, not a slow reaction.",
+        "Incorrect. While hot enough gases may become ionized to produce plasma, fire itself is defined as rapid oxidation, not plasma.",
+        "Incorrect. The article says fire releases both heat and light, not only light."
       ]
     },
     {
       "id": 2,
-      "question": "What happens to nitrogen when vegetation is burned, according to the article?",
+      "question": "What are the main components of flames from hydrocarbon fuels?",
       "options": [
-        "It is released into the atmosphere",
-        "It remains in the ash and is quickly recycled into the soil",
-        "It is converted into potassium and phosphorus",
-        "It is absorbed by nitrogen-fixing plants immediately"
+        "Carbon dioxide, water vapor, oxygen, and nitrogen",
+        "Only carbon dioxide and water vapor",
+        "Plasma and ionized gases",
+        "Nitrogen and potassium"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'the burning of vegetation releases nitrogen into the atmosphere, unlike other plant nutrients such as potassium and phosphorus, which remain in the ash.'",
-        "Incorrect. The article says potassium and phosphorus remain in the ash, not nitrogen.",
-        "Incorrect. The article does not state that nitrogen is converted into other nutrients.",
-        "Incorrect. Nitrogen-fixing plants can help recover soil nitrogen over time, but the article does not say they absorb it immediately during burning."
+        "Correct. The article states that 'flames from hydrocarbon fuels consist primarily of carbon dioxide, water vapor, oxygen, and nitrogen.'",
+        "Incorrect. The article lists four main components, not just two.",
+        "Incorrect. Plasma is mentioned as a possibility if gases become hot enough, but it is not listed as a primary component of hydrocarbon flames.",
+        "Incorrect. Potassium is not listed as a component of flames; it is mentioned as remaining in ash."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is listed as a benefit of fire in the article?",
+      "question": "What happens to nitrogen when vegetation burns, according to the article?",
       "options": [
-        "Stimulating plant growth and maintaining ecological balance",
-        "Causing soil erosion by removing protective vegetation",
-        "Releasing nitrogen into the atmosphere",
-        "Producing atmospheric pollution and water contamination"
+        "It is released into the atmosphere",
+        "It remains in the ash and is recycled into the soil",
+        "It turns into potassium",
+        "It is absorbed by the soil immediately"
       ],
       "answer_explanations": [
-        "Correct. The article lists among the benefits of fire 'stimulating plant growth and maintaining ecological balance.'",
-        "Incorrect. Soil erosion is described as a harm that occurs when fire removes protective vegetation.",
-        "Incorrect. Releasing nitrogen into the atmosphere is described as contributing to a long-term reduction in soil fertility, which is a harm.",
-        "Incorrect. Atmospheric pollution and water contamination are listed as harms of fire, not benefits."
+        "Correct. The article says 'the burning of vegetation releases nitrogen into the atmosphere.'",
+        "Incorrect. The article says potassium and phosphorus remain in the ash, not nitrogen.",
+        "Incorrect. The article does not say nitrogen turns into potassium.",
+        "Incorrect. The article says nitrogen is released into the atmosphere, not absorbed by the soil."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article identify as the key factor in the prevalence of wildfire?",
+      "question": "Which of the following is listed as a benefit of fire?",
       "options": [
-        "The level of atmospheric oxygen",
-        "The presence of grasses as tinder",
-        "The frequency of lightning strikes",
-        "The number of nitrogen-fixing plants"
+        "Stimulating plant growth and maintaining ecological balance",
+        "Causing permanent physical damage",
+        "Releasing nitrogen into the atmosphere",
+        "Creating soil erosion"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'the level of atmospheric oxygen is closely correlated with the amount of charcoal in the fossil record, clearly pointing to oxygen as the key factor in the prevalence of wildfire.'",
-        "Incorrect. Grasses provided tinder for rapid fire spread, but the article identifies oxygen as the key factor in wildfire prevalence.",
-        "Incorrect. Lightning is mentioned as a natural phenomenon that can help recover nitrogen, not as the key factor in wildfire prevalence.",
-        "Incorrect. Nitrogen-fixing plants help restore soil fertility after fire, but they are not identified as a factor in wildfire prevalence."
+        "Correct. The article states that 'the benefits of fire include stimulating plant growth and maintaining ecological balance.'",
+        "Incorrect. Permanent physical damage is listed as a potential result of conflagration, not a benefit.",
+        "Incorrect. Releasing nitrogen is described as a loss that reduces soil fertility, not a benefit.",
+        "Incorrect. Soil erosion is listed as a harm, not a benefit."
       ]
     },
     {
       "id": 5,
-      "question": "What is the oldest clear evidence of deliberate firemaking mentioned in the article?",
+      "question": "What is the origin of the word 'fire' according to the article?",
       "options": [
-        "Around 400,000 years ago at the Hoxnian-aged Barnfield site in England",
-        "Around 1 million years ago, from evidence of occasional cooked food",
-        "Around 50 to 100 thousand years ago, when fire use became widespread",
-        "During the Neolithic Revolution, with controlled burns for landscape management"
+        "It comes from Old English 'fÈ³r'",
+        "It comes from Latin 'ignis'",
+        "It comes from Greek 'pyr'",
+        "It comes from Proto-Indo-European 'pÃ©h2wr' directly"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The oldest clear evidence of deliberate firemaking dates to around 400,000 years ago at the Hoxnian-aged Barnfield site in England.'",
-        "Incorrect. Evidence from 1 million years ago suggests occasional cooked food and controlled use, but it is not described as the oldest clear evidence of deliberate firemaking.",
-        "Incorrect. Widespread evidence around 50 to 100 thousand years ago suggests regular use, not the oldest clear evidence of deliberate firemaking.",
-        "Incorrect. The Neolithic Revolution involved landscape management with fire, but this occurred much later than 400,000 years ago."
+        "Correct. The article says 'the word fire comes from Old English fÈ³r'.",
+        "Incorrect. The article says 'ignite' is derived from Latin 'ignis', not the word 'fire'.",
+        "Incorrect. The article says the Greek term 'pyr' is used in words like 'pyroclastic', not that 'fire' comes from it.",
+        "Incorrect. The article mentions Proto-Indo-European 'pÃ©h2wr' as an ancestor, but the direct origin is stated as Old English 'fÈ³r'."
       ]
     },
     {
       "id": 6,
-      "question": "How do 'cool fires' differ from 'hot fires' in landscape management, according to the article?",
+      "question": "When does the fossil record first show evidence of wildfire?",
       "options": [
-        "Cool fires clear undergrowth without damaging the soil, while hot fires destroy plants and animals and endanger communities",
-        "Cool fires are used only in tropical regions, while hot fires are used in temperate forests",
-        "Cool fires release more nitrogen into the atmosphere than hot fires",
-        "Cool fires are uncontrolled wildfires, while hot fires are deliberately set"
+        "In the Late Silurian period, about 420 million years ago",
+        "In the Middle Ordovician period, about 470 million years ago",
+        "In the Late Devonian period",
+        "About 6 to 7 million years ago"
       ],
       "answer_explanations": [
-        "Correct. The article explains that cool fires 'clear undergrowth, burning up biomass that could trigger a hot fire,' whereas hot fires 'destroy plants and animals and endanger communities' and damage the soil.",
-        "Incorrect. The article does not restrict cool fires to tropical regions or hot fires to temperate forests.",
-        "Incorrect. The article discusses nitrogen loss from burning vegetation generally, not as a difference between cool and hot fires.",
-        "Incorrect. The article describes cool fires as controlled burns, not uncontrolled wildfires."
+        "Correct. The article states that 'wildfire is first recorded in the Late Silurian fossil record, 420 million years ago.'",
+        "Incorrect. The Middle Ordovician is when land flora first appeared, not when wildfire is first recorded.",
+        "Incorrect. The Late Devonian is mentioned as having a controversial gap in charcoal, not as the first record of wildfire.",
+        "Incorrect. The 6 to 7 million years ago date is when grasses became dominant, not the first wildfire record."
       ]
     },
     {
       "id": 7,
-      "question": "What did Antoine Lavoisier demonstrate about combustion?",
+      "question": "What is the oldest clear evidence of deliberate firemaking, according to the article?",
       "options": [
-        "That something is taken up during combustion rather than a substance being released",
-        "That burning charcoal releases a gas called gas sylvestris",
-        "That combustion involves the release of phlogiston",
-        "That combustion is unrelated to any component of air"
+        "Striking pyrite against flint at the Barnfield site in England about 400,000 years ago",
+        "Evidence of cooked food from 1 million years ago",
+        "The use of fire in the Neolithic Revolution",
+        "The creation of charcoal tens of thousands of years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states that Lavoisier 'demonstrated that combustion did not involve the release of a substance, but rather something was being taken up.'",
-        "Incorrect. Jan Baptist van Helmont discovered that burning charcoal released gas sylvestris, not Lavoisier.",
-        "Incorrect. The phlogiston theory proposed the release of a substance, which Lavoisier's work contradicted.",
-        "Incorrect. Lavoisier proposed that combustion involves a reaction with a component of air, which he termed oxygÃ¨ne."
+        "Correct. The article says 'the oldest clear evidence of deliberate firemaking dates to around 400,000 years ago at the Hoxnian-aged Barnfield site in England, where pyrite appears to have been struck against flint to create fire.'",
+        "Incorrect. Cooked food from 1 million years ago suggests controlled use, but not necessarily deliberate firemaking.",
+        "Incorrect. The Neolithic Revolution is mentioned later in history, not as the oldest evidence.",
+        "Incorrect. Creating charcoal is mentioned as a later use of fire, not the oldest evidence of deliberate firemaking."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what is a major cause of home fires?",
+      "question": "What is the difference between 'cool fires' and 'hot fires' as described in the article?",
       "options": [
-        "Unattended cooking",
-        "Electrical wiring faults",
-        "Heating appliances left overnight",
-        "Children playing with matches"
+        "Cool fires are controlled burns that clear undergrowth, while hot fires are uncontrolled and damage the soil",
+        "Cool fires are conducted in summer, while hot fires are conducted in winter",
+        "Cool fires destroy plants and animals, while hot fires encourage growth",
+        "Cool fires are used in forests, while hot fires are used in grasslands"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'most home fires start from unattended cooking, although cigarettes are another major cause.'",
-        "Incorrect. Electrical wiring faults are not mentioned as a cause of home fires in the article.",
-        "Incorrect. Heating appliances left overnight are not mentioned as a cause of home fires in the article.",
-        "Incorrect. Children playing with matches are not mentioned as a cause of home fires in the article."
+        "Correct. The article says these fires were 'typically controlled burns or cool fires, as opposed to uncontrolled hot fires, which damage the soil.' It also says cool fires 'clear undergrowth'.",
+        "Incorrect. The article says cool fires are conducted in spring and autumn, not summer.",
+        "Incorrect. The article says hot fires destroy plants and animals, not cool fires.",
+        "Incorrect. The article does not make this distinction based on location."
       ]
     },
     {
       "id": 9,
-      "question": "What is the etymological origin of the word 'fire' according to the article?",
+      "question": "Who demonstrated that combustion involved taking up a substance rather than releasing one?",
       "options": [
-        "Old English fÈ³r, from Proto-Germanic *fÅr and Proto-Indo-European *pÃ©h2wr*",
-        "Classical Latin ignis",
-        "Greek pyr",
-        "Middle English fier, with no earlier roots"
+        "Antoine Lavoisier",
+        "Jan Baptist van Helmont",
+        "Johann Joachim Becher",
+        "Georg Ernst Stahl"
       ],
       "answer_explanations": [
-        "Correct. The article states that the word fire comes from Old English fÈ³r, with Proto-Germanic nominative *fÅr* descending from Proto-Indo-European *pÃ©h2wr*.",
-        "Incorrect. Latin ignis is the origin of the word ignite, not fire.",
-        "Incorrect. Greek pyr is used in words like pyroclastic and pyrotechnic, but it is not the origin of the English word fire.",
-        "Incorrect. Middle English fier is mentioned as an alternative spelling preserved in fiery, but the article traces fire further back to Old English and Proto-Indo-European roots."
+        "Correct. The article states 'it was Antoine Lavoisier who demonstrated that combustion did not involve the release of a substance, but rather something was being taken up.'",
+        "Incorrect. Van Helmont discovered 'gas sylvestris', but did not demonstrate this.",
+        "Incorrect. Becher incorporated the gas into Phlogiston theory, which was later rejected.",
+        "Incorrect. Stahl formalized Phlogiston theory, but Lavoisier disproved it."
       ]
     },
     {
       "id": 10,
-      "question": "What modern application of fire is described in the article as providing electricity for a large percentage of humanity?",
+      "question": "What was Greek fire used for, according to the article?",
       "options": [
-        "Thermal power stations igniting fuels to boil water into steam that drives turbines",
-        "Internal combustion vehicles used for daily transportation",
-        "Cremation and incineration of waste",
-        "Fire-based torture and execution methods"
+        "The Byzantine fleet used it to attack ships and men",
+        "It was used by German troops in the First World War",
+        "It was used in the Spanish Civil War",
+        "It was used to create firestorms in Hamburg and Dresden"
       ],
       "answer_explanations": [
-        "Correct. The article states that thermal power stations provide electricity by igniting fuels such as coal, oil, or natural gas, then using the heat to boil water into steam, which drives turbines.",
-        "Incorrect. Internal combustion vehicles are mentioned as a daily controlled use of fire, but not as a primary source of electricity for humanity.",
-        "Incorrect. Cremation and incineration are listed as historical uses of fire, not as modern electricity generation.",
-        "Incorrect. Fire-based torture and execution are mentioned historically, not as modern applications for electricity."
+        "Correct. The article says 'the Byzantine fleet used Greek fire to attack ships and men.'",
+        "Incorrect. German troops in WWI used flamethrowers, not Greek fire.",
+        "Incorrect. Molotov cocktails were used in the Spanish Civil War, not Greek fire.",
+        "Incorrect. Firestorms were caused by incendiary bombs in WWII, not Greek fire."
       ]
     }
   ]

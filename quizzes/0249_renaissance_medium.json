@@ -7,160 +7,160 @@
       "id": 1,
       "question": "What does the word 'Renaissance' mean?",
       "options": [
-        "rebirth",
-        "revival",
-        "renewal",
-        "reform"
+        "Rebirth",
+        "Revolution",
+        "Rebellion",
+        "Reformation"
       ],
       "answer_explanations": [
         "Correct. The article states that 'Renaissance' means 'rebirth'.",
-        "Incorrect. The article defines Renaissance specifically as 'rebirth', not 'revival'.",
-        "Incorrect. The article defines Renaissance specifically as 'rebirth', not 'renewal'.",
-        "Incorrect. The article defines Renaissance specifically as 'rebirth', not 'reform'."
+        "Incorrect. The article does not define 'Renaissance' as 'Revolution'.",
+        "Incorrect. The article does not define 'Renaissance' as 'Rebellion'.",
+        "Incorrect. The article does not define 'Renaissance' as 'Reformation'."
       ]
     },
     {
       "id": 2,
-      "question": "Where was the Renaissance first centered?",
+      "question": "According to the article, where did the Renaissance first center?",
       "options": [
-        "the Republic of Florence",
-        "Venice",
-        "Rome",
-        "Milan"
+        "In the Republic of Florence",
+        "In the Republic of Venice",
+        "In the Kingdom of Naples",
+        "In the Papal States"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Renaissance was first centered in the Republic of Florence.",
-        "Incorrect. Venice is listed as another major center, not the first center.",
-        "Incorrect. Rome is listed as another major center, not the first center.",
-        "Incorrect. Milan is listed as another major center, not the first center."
+        "Correct. The article says the Renaissance 'was first centered in the Republic of Florence'.",
+        "Incorrect. Venice is mentioned as another major center, but not the first one.",
+        "Incorrect. Naples is mentioned as another major center, but not the first one.",
+        "Incorrect. Rome is mentioned as another major center, but not the first one."
       ]
     },
     {
       "id": 3,
-      "question": "What classical concept is Renaissance humanism derived from?",
+      "question": "Which invention sped up the sharing of ideas from the later 15th century?",
       "options": [
-        "Roman humanitas",
-        "Greek philosophy",
-        "Christian theology",
-        "medieval scholasticism"
+        "Metal movable type",
+        "The steam engine",
+        "The compass",
+        "The telescope"
       ],
       "answer_explanations": [
-        "Correct. The article states that Renaissance humanism was derived from the concept of Roman humanitas.",
-        "Incorrect. While classical Greek philosophy influenced humanism, the article specifically identifies Roman humanitas as its derivation.",
-        "Incorrect. The article does not state that humanism was derived from Christian theology.",
-        "Incorrect. The article does not state that humanism was derived from medieval scholasticism."
+        "Correct. The article states that 'the invention of metal movable type sped the dissemination of ideas from the later 15th century'.",
+        "Incorrect. The article does not mention the steam engine as speeding up the sharing of ideas.",
+        "Incorrect. The article does not mention the compass as speeding up the sharing of ideas.",
+        "Incorrect. The article does not mention the telescope as speeding up the sharing of ideas."
       ]
     },
     {
       "id": 4,
-      "question": "Which ancient philosopher is quoted in the article as saying 'man is the measure of all things'?",
+      "question": "Which philosopher is quoted as saying 'man is the measure of all things'?",
       "options": [
         "Protagoras",
+        "Socrates",
         "Plato",
-        "Aristotle",
-        "Socrates"
+        "Aristotle"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Protagoras as saying 'man is the measure of all things'.",
-        "Incorrect. Plato is not quoted in the article with this phrase.",
-        "Incorrect. Aristotle is not quoted in the article with this phrase.",
-        "Incorrect. Socrates is not quoted in the article with this phrase."
+        "Correct. The article mentions the rediscovery of classical Greek philosophy 'such as that of Protagoras, who said that \"man is the measure of all things\"'.",
+        "Incorrect. Socrates is not mentioned in the article in this context.",
+        "Incorrect. Plato is not mentioned in the article in this context.",
+        "Incorrect. Aristotle is not mentioned in the article in this context."
       ]
     },
     {
       "id": 5,
-      "question": "What artistic technique did Renaissance painters develop to render a more natural reality?",
+      "question": "Which family was the dominant family in Florence that provided patronage?",
       "options": [
-        "linear perspective",
-        "chiaroscuro",
-        "sfumato",
-        "fresco"
+        "The Medici",
+        "The Borgia",
+        "The Sforza",
+        "The Visconti"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the development of linear perspective and other techniques of rendering a more natural reality in painting.",
-        "Incorrect. Chiaroscuro is not mentioned in the article as the technique developed.",
-        "Incorrect. Sfumato is not mentioned in the article as the technique developed.",
-        "Incorrect. Fresco is not mentioned in the article as the technique developed."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "What event in 1527 is cited as marking the conclusion of the Italian Renaissance?",
-      "options": [
-        "the Sack of Rome",
-        "the start of the Reformation",
-        "the Counter-Reformation",
-        "the advent of the Baroque period"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the Italian Renaissance concluded in 1527 when Holy Roman Emperor Charles V launched an assault on Rome.",
-        "Incorrect. The Reformation began in 1517, not 1527, and is not cited as the conclusion of the Italian Renaissance.",
-        "Incorrect. The Counter-Reformation began in 1545, not 1527.",
-        "Incorrect. The Baroque period is mentioned as following the Renaissance but is not the 1527 event."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "Which family's patronage is mentioned as a factor in the origins of the Renaissance in Florence?",
-      "options": [
-        "the Medici",
-        "the Borgia",
-        "the Sforza",
-        "the Visconti"
-      ],
-      "answer_explanations": [
-        "Correct. The article cites the patronage of Florence's dominant family, the Medici, as a factor in the Renaissance's origins.",
+        "Correct. The article mentions 'the patronage of its dominant family, the Medici'.",
         "Incorrect. The Borgia family is not mentioned in the article.",
         "Incorrect. The Sforza family is not mentioned in the article.",
         "Incorrect. The Visconti family is not mentioned in the article."
       ]
     },
     {
-      "id": 8,
-      "question": "What did Renaissance humanists such as Poggio Bracciolini seek in Europe's monastic libraries?",
+      "id": 6,
+      "question": "What event in 1453 brought Greek scholars with ancient manuscripts to Italy?",
       "options": [
-        "Latin literary, historical, and oratorical texts of antiquity",
-        "Greek and Arabic works of natural sciences",
-        "medieval religious manuscripts",
-        "vernacular poetry"
+        "The fall of Constantinople",
+        "The Sack of Rome",
+        "The start of the Reformation",
+        "The discovery of the New World"
       ],
       "answer_explanations": [
-        "Correct. The article states that Renaissance humanists sought out Latin literary, historical, and oratorical texts of antiquity.",
-        "Incorrect. Greek and Arabic works of natural sciences were studied by medieval scholars of the Renaissance of the 12th century, not by Renaissance humanists like Bracciolini.",
-        "Incorrect. The article does not say humanists sought medieval religious manuscripts.",
-        "Incorrect. The article does not say humanists sought vernacular poetry in monastic libraries."
+        "Correct. The article mentions 'the fall of Constantinople (1453) generated a wave of Ã©migrÃ© Greek scholars bringing precious manuscripts in ancient Greek'.",
+        "Incorrect. The Sack of Rome happened in 1527, not 1453.",
+        "Incorrect. The Reformation is dated to 1517 in the article.",
+        "Incorrect. The article does not link the discovery of the New World to the arrival of Greek scholars."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Who competed for the contract to build the bronze doors of the Florence Baptistery in 1401?",
+      "options": [
+        "Lorenzo Ghiberti and Filippo Brunelleschi",
+        "Leonardo da Vinci and Michelangelo",
+        "Donatello and Masaccio",
+        "Nicola Pisano and Giotto"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'one proposed starting point is 1401, when the rival geniuses Lorenzo Ghiberti and Filippo Brunelleschi competed for the contract to build the bronze doors'.",
+        "Incorrect. Leonardo and Michelangelo are mentioned as polymaths but not for this competition.",
+        "Incorrect. Donatello and Masaccio are mentioned as artists but not for this specific competition.",
+        "Incorrect. Nicola Pisano and Giotto are mentioned in other contexts, not for this competition."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which political philosopher is mentioned for describing political life as it really was?",
+      "options": [
+        "NiccolÃ² Machiavelli",
+        "Hans Kohn",
+        "Rodney Stark",
+        "Leon Poliakov"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'Political philosophers, most famously NiccolÃ² Machiavelli, sought to describe political life as it really was'.",
+        "Incorrect. Hans Kohn is mentioned as a political philosopher who described the age, but not for this specific point.",
+        "Incorrect. Rodney Stark is a sociologist who plays down the Renaissance.",
+        "Incorrect. Leon Poliakov is a historian who offers a critical view on ethnic origin myths."
       ]
     },
     {
       "id": 9,
-      "question": "Which political philosopher sought to describe political life as it really was?",
+      "question": "According to the article, which humanists helped promote a return to the original Greek of the New Testament?",
       "options": [
-        "NiccolÃ² Machiavelli",
-        "Hans Kohn",
-        "Giovanni Pico della Mirandola",
-        "Leonardo da Vinci"
+        "Lorenzo Valla and Erasmus",
+        "Poggio Bracciolini and Petrarch",
+        "Giovanni Pico della Mirandola and Thomas More",
+        "Dante and Giotto"
       ],
       "answer_explanations": [
-        "Correct. The article states that political philosophers, most famously NiccolÃ² Machiavelli, sought to describe political life as it really was.",
-        "Incorrect. Hans Kohn is quoted describing the Renaissance as an age where 'Men looked for new foundations', not for describing political life as it really was.",
-        "Incorrect. Giovanni Pico della Mirandola wrote Oration on the Dignity of Man, not a work on describing political life as it really was.",
-        "Incorrect. Leonardo da Vinci is described as a polymath and artist, not a political philosopher."
+        "Correct. The article mentions 'the return to the original Greek of the New Testament promoted by humanists Lorenzo Valla and Erasmus'.",
+        "Incorrect. Poggio Bracciolini is mentioned for seeking out Latin texts, and Petrarch for earlier learning.",
+        "Incorrect. Pico della Mirandola wrote the Oration, and Thomas More is mentioned with Erasmus for new spiritual foundations, but not for this specific promotion.",
+        "Incorrect. Dante and Giotto are mentioned as early traces of the Renaissance, not for this promotion."
       ]
     },
     {
       "id": 10,
-      "question": "How did the introduction of the printing press combined with vernacular languages affect access to books?",
+      "question": "What did the Italian city-republics take over from monastic estates, according to Rodney Stark's analysis?",
       "options": [
-        "it allowed many more people access to books, especially the Bible",
-        "it restricted books to scholarly elites",
-        "it made books available only in Latin",
-        "it decreased the production of books"
+        "The principles of capitalism",
+        "The principles of democracy",
+        "The principles of feudalism",
+        "The principles of absolutism"
       ],
       "answer_explanations": [
-        "Correct. The article states that the use of vernacular languages combined with the printing press allowed many more people access to books, especially the Bible.",
-        "Incorrect. The article states the opposite: access expanded to many more people.",
-        "Incorrect. The article states that authors increasingly used vernacular languages, not only Latin.",
-        "Incorrect. The article does not state that book production decreased."
+        "Correct. The article states that the city-republics 'took over the principles of capitalism invented on monastic estates'.",
+        "Incorrect. The article does not mention democracy in this context.",
+        "Incorrect. The article does not mention feudalism in this context.",
+        "Incorrect. The article does not mention absolutism in this context."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Qin Shi Huang's original given name before he became emperor?",
+      "question": "Who was the founder of the Qin dynasty?",
       "options": [
-        "Ying Zheng",
-        "Zhao Zheng",
-        "Zheng",
-        "Zhao Zheng (with a different character)"
+        "Qin Shi Huang",
+        "Li Si",
+        "LÃ¼ Buwei",
+        "King Zhuangxiang of Qin"
       ],
       "answer_explanations": [
-        "Correct. The article states that he was born as Ying Zheng (å¬´æ¿) or Zhao Zheng (è¶æ¿).",
-        "Incorrect. Zhao Zheng is an alternative name but the original given name is Ying Zheng.",
-        "Incorrect. Zheng is part of his name but not the full given name.",
-        "Incorrect. The alternative form is Zhao Zheng, not a different character."
+        "Correct. The article states that Qin Shi Huang was the founder of the Qin dynasty.",
+        "Incorrect. Li Si was Qin Shi Huang's minister, not the founder.",
+        "Incorrect. LÃ¼ Buwei was a merchant who assisted Qin Shi Huang, but he was not the founder.",
+        "Incorrect. King Zhuangxiang was Qin Shi Huang's father, not the founder of the Qin dynasty."
       ]
     },
     {
       "id": 2,
-      "question": "Which title did Qin Shi Huang create for himself after unifying China?",
+      "question": "What title did Qin Shi Huang invent?",
       "options": [
-        "huÃ¡ngdÃ¬ (emperor)",
-        "wÃ¡ng (king)",
-        "dÃ¬ (god)",
-        "shÃ ng (highness)"
+        "huÃ¡ngdÃ¬",
+        "wÃ¡ng",
+        "emperor of China",
+        "king of Qin"
       ],
       "answer_explanations": [
-        "Correct. The article explains he created the new title huÃ¡ngdÃ¬ (emperor).",
-        "Incorrect. He abandoned the title of king in favor of emperor.",
-        "Incorrect. He combined huÃ¡ng and dÃ¬ to form huÃ¡ngdÃ¬.",
-        "Incorrect. This was a form of address, not his new title."
+        "Correct. The article says he invented the title huÃ¡ngdÃ¬.",
+        "Incorrect. wÃ¡ng was the existing title for 'king', which he did not reuse.",
+        "Incorrect. 'emperor of China' is a description, but the invented title was huÃ¡ngdÃ¬.",
+        "Incorrect. 'king of Qin' was his title before becoming emperor."
       ]
     },
     {
       "id": 3,
-      "question": "Who assisted Qin Shi Huang in succeeding his father as king of Qin?",
+      "question": "Where was Qin Shi Huang born?",
       "options": [
-        "LÃ¼ Buwei",
-        "Lady Zhao",
-        "King Zhuangxiang",
-        "Li Si"
+        "Handan",
+        "Chu",
+        "Guangdong",
+        "Ordos Plateau"
       ],
       "answer_explanations": [
-        "Correct. The article says LÃ¼ Buwei assisted him in succeeding his father.",
-        "Incorrect. Lady Zhao was his mother, not his regent.",
-        "Incorrect. King Zhuangxiang was his father, not his regent.",
-        "Incorrect. Li Si became chancellor later, not regent."
+        "Correct. The article states he was born in Handan, the capital of Zhao.",
+        "Incorrect. Chu was a state, not his birthplace.",
+        "Incorrect. Guangdong was added to the Sinosphere during his reign, not his birthplace.",
+        "Incorrect. The Ordos Plateau was conquered from the Xiongnu, not his birthplace."
       ]
     },
     {
       "id": 4,
-      "question": "In which year did Qin Shi Huang unify all of China?",
+      "question": "What was Qin Shi Huang's original name?",
       "options": [
-        "221 BC",
-        "256 BC",
-        "235 BC",
-        "210 BC"
+        "Ying Zheng",
+        "Zhao Zheng",
+        "LÃ¼ Buwei",
+        "Li Si"
       ],
       "answer_explanations": [
-        "Correct. The article states he unified all of China by 221 BC.",
-        "Incorrect. 256 BC was the year the Zhou dynasty ended.",
-        "Incorrect. 235 BC was when Zhao Zheng assumed full power.",
-        "Incorrect. 210 BC was the year of his death."
+        "Correct. The article says he was born as Ying Zheng or Zhao Zheng.",
+        "Incorrect. Zhao Zheng is also correct, but Ying Zheng is one of the names.",
+        "Incorrect. LÃ¼ Buwei was the merchant who assisted him.",
+        "Incorrect. Li Si was his minister."
       ]
     },
     {
       "id": 5,
-      "question": "What major construction project did Qin Shi Huang incorporate from earlier state walls?",
+      "question": "By what year had Qin Shi Huang unified all of China?",
       "options": [
-        "Great Wall of China",
-        "Mausoleum",
-        "Terracotta Army",
-        "National road system"
+        "221 BC",
+        "210 BC",
+        "259 BC",
+        "1911"
       ],
       "answer_explanations": [
-        "Correct. The article mentions he incorporated diverse state walls into a single Great Wall of China.",
-        "Incorrect. The mausoleum is a separate project.",
-        "Incorrect. The Terracotta Army guards the mausoleum.",
-        "Incorrect. The road system was also built but not from walls."
+        "Correct. The article states that by 221 BC he had conquered all the other warring states and unified all of China.",
+        "Incorrect. 210 BC is the year of his death.",
+        "Incorrect. 259 BC is the year of his birth.",
+        "Incorrect. 1911 is mentioned as the end of an epoch, not the unification."
       ]
     },
     {
       "id": 6,
-      "question": "Which minister worked with Qin Shi Huang on major economic and political reforms?",
+      "question": "Which nomadic group did Qin Shi Huang's campaigns conquer the Ordos Plateau from?",
       "options": [
-        "Li Si",
-        "LÃ¼ Buwei",
-        "Lady Zhao",
-        "Zhao Zheng"
+        "Xiongnu",
+        "Yue",
+        "Han",
+        "Zhao"
       ],
       "answer_explanations": [
-        "Correct. The article says he worked with his minister Li Si to enact reforms.",
-        "Incorrect. LÃ¼ Buwei was regent earlier, not his reform minister.",
-        "Incorrect. Lady Zhao was his mother.",
-        "Incorrect. Zhao Zheng is his given name."
+        "Correct. The article says campaigns in Inner Asia conquered the Ordos Plateau from the nomadic Xiongnu.",
+        "Incorrect. The Yue were in the south, not the Ordos Plateau.",
+        "Incorrect. The Han dynasty succeeded the Qin, not a nomadic group.",
+        "Incorrect. Zhao was a state, not a nomadic group."
       ]
     },
     {
       "id": 7,
-      "question": "What was the name of the merchant who assisted in Qin Shi Huang's succession?",
+      "question": "Who did Qin Shi Huang work with to enact major economic and political reforms?",
       "options": [
-        "LÃ¼ Buwei",
         "Li Si",
-        "Lady Zhao",
-        "Zhao Zheng"
+        "LÃ¼ Buwei",
+        "King Zhuangxiang",
+        "Modu Chanyu"
       ],
       "answer_explanations": [
-        "Correct. The article identifies LÃ¼ Buwei as the wealthy merchant who assisted him.",
-        "Incorrect. Li Si was a later minister.",
-        "Incorrect. Lady Zhao was his mother.",
-        "Incorrect. Zhao Zheng is his given name."
+        "Correct. The article states he worked with his minister Li Si.",
+        "Incorrect. LÃ¼ Buwei was a merchant who assisted him earlier, not in these reforms.",
+        "Incorrect. King Zhuangxiang was his father.",
+        "Incorrect. Modu Chanyu was a Xiongnu leader."
       ]
     },
     {
       "id": 8,
-      "question": "Which region was added to the Sinosphere after Qin campaigns south of Chu?",
+      "question": "What is Qin Shi Huang traditionally said to have done to books and scholars?",
       "options": [
-        "Hunan and Guangdong",
-        "Inner Asia",
-        "Ordos Plateau",
-        "Xiongnu lands"
+        "Banned and burned many books and executed scholars",
+        "Preserved all books and honored scholars",
+        "Wrote many books and became a scholar",
+        "Ignored books and scholars"
       ],
       "answer_explanations": [
-        "Correct. The article says campaigns south of Chu permanently added the Yue lands of Hunan and Guangdong.",
-        "Incorrect. Inner Asia was conquered from the Xiongnu.",
-        "Incorrect. The Ordos Plateau was part of Inner Asia campaigns.",
-        "Incorrect. The Xiongnu were the nomadic people, not the region."
+        "Correct. The article says he is traditionally said to have banned and burned many books and executed scholars.",
+        "Incorrect. This is the opposite of what is traditionally said.",
+        "Incorrect. There is no mention of him writing books.",
+        "Incorrect. The article says he acted against books and scholars, not ignored them."
       ]
     },
     {
       "id": 9,
-      "question": "What title did Qin Shi Huang's successors adopt after his death?",
+      "question": "Which of the following was NOT a public works project of Qin Shi Huang?",
       "options": [
-        "Second Emperor",
-        "Lord of Qin",
-        "King of Zhou",
-        "High Priest"
+        "The Grand Canal",
+        "Incorporation of state walls into the Great Wall of China",
+        "A massive new national road system",
+        "His city-sized mausoleum guarded by the Terracotta Army"
       ],
       "answer_explanations": [
-        "Correct. The article explains he intended his successors to be titled the Second Emperor, Third Emperor, etc.",
-        "Incorrect. He used the title Qin Shi Huangdi, not Lord of Qin.",
-        "Incorrect. The Zhou dynasty had ended before his reign.",
-        "Incorrect. He did not adopt a religious title."
+        "Correct. The Grand Canal is not mentioned; the article lists the Great Wall, road system, and mausoleum.",
+        "Incorrect. The article mentions the incorporation of state walls into the Great Wall.",
+        "Incorrect. The article mentions a massive new national road system.",
+        "Incorrect. The article mentions his city-sized mausoleum guarded by the Terracotta Army."
       ]
     },
     {
       "id": 10,
-      "question": "What was the name of the coup attempt led by Lao Ai?",
+      "question": "When did Qin Shi Huang die?",
       "options": [
-        "coup d'Ã©tat",
-        "assassination",
-        "rebellion",
-        "conspiracy"
+        "210 BC",
+        "221 BC",
+        "259 BC",
+        "1911"
       ],
       "answer_explanations": [
-        "Correct. The article refers to Lao Ai's attempted coup d'Ã©tat.",
-        "Incorrect. An assassination targeted King Zheng, not Lao Ai.",
-        "Incorrect. Rebellion refers to Zhao Chengjiao's actions.",
-        "Incorrect. Conspiracy is a general term, not the specific term used."
+        "Correct. The article states he ruled until his death in 210 BC.",
+        "Incorrect. 221 BC is when he unified China.",
+        "Incorrect. 259 BC is his birth year.",
+        "Incorrect. 1911 is the end of an epoch, not his death."
       ]
     }
   ]

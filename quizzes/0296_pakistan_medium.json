@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which body of water borders Pakistan to the south?",
+      "question": "What is the official name of Pakistan?",
       "options": [
-        "Arabian Sea",
-        "Gulf of Oman",
-        "Indian Ocean",
-        "Bay of Bengal"
+        "Islamic Republic of Pakistan",
+        "Republic of Pakistan",
+        "Dominion of Pakistan",
+        "Federal Republic of Pakistan"
       ],
       "answer_explanations": [
-        "Correct. The article states Pakistan is 'Bounded by the Arabian Sea on the south'.",
-        "Incorrect. The Gulf of Oman borders Pakistan to the southwest, not the south.",
-        "Incorrect. The Indian Ocean is a larger body, but the article specifies the Arabian Sea as the southern border.",
-        "Incorrect. The Bay of Bengal is on the eastern side of the Indian subcontinent, not bordering Pakistan."
+        "Correct. The article states: 'Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia.'",
+        "Incorrect. The article specifies the official name as 'Islamic Republic of Pakistan', not just 'Republic of Pakistan'.",
+        "Incorrect. The article mentions 'Dominion of Pakistan' as an early status but not as the official name.",
+        "Incorrect. The article does not use the term 'Federal Republic of Pakistan'."
       ]
     },
     {
       "id": 2,
-      "question": "What is the significance of the Neolithic site of Mehrgarh mentioned in the article?",
+      "question": "Which city is the capital of Pakistan?",
       "options": [
-        "It is an 8,500-year-old Neolithic site located in Balochistan.",
-        "It is a Bronze Age site of the Indus Valley Civilisation.",
-        "It is the location of the earliest known stone tools in South Asia.",
-        "It is a major urban centre from the Gandhara civilisation."
+        "Islamabad",
+        "Karachi",
+        "Lahore",
+        "Multan"
       ],
       "answer_explanations": [
-        "Correct. The article mentions 'the 8,500-year-old Neolithic site of Mehrgarh in Balochistan'.",
-        "Incorrect. Mehrgarh is Neolithic, not Bronze Age; the Indus Valley Civilisation is Bronze Age.",
-        "Incorrect. The earliest stone tools were found in the Soan Valley, not at Mehrgarh.",
-        "Incorrect. Mehrgarh is not associated with the Gandhara civilisation."
+        "Correct. The article states: 'Islamabad is the nation's capital.'",
+        "Incorrect. Karachi is described as 'its largest city and financial centre', not the capital.",
+        "Incorrect. Lahore is mentioned as a key urban centre during the Mughal period, not as the capital.",
+        "Incorrect. Multan is mentioned as a key urban centre during the Mughal period, not as the capital."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what event directly preceded Pakistan's independence in 1947?",
+      "question": "Which sea borders Pakistan to the south?",
       "options": [
-        "Election victories in 1946 by the All-India Muslim League",
-        "The adoption of a republican constitution in 1956",
-        "The secession of East Pakistan as Bangladesh",
-        "The end of the British Raj in 1858"
+        "Arabian Sea",
+        "Gulf of Oman",
+        "Sir Creek",
+        "Wakhan Corridor"
       ],
       "answer_explanations": [
-        "Correct. The article states independence was 'Spurred by the Pakistan Movement... and election victories in 1946 by the All-India Muslim League'.",
-        "Incorrect. The republican constitution was adopted in 1956, after independence.",
-        "Incorrect. The secession of Bangladesh occurred in 1971, well after independence.",
-        "Incorrect. The British Raj began in 1858; independence came in 1947."
+        "Correct. The article states: 'Bounded by the Arabian Sea on the south.'",
+        "Incorrect. The Gulf of Oman is on the southwest, not the south.",
+        "Incorrect. Sir Creek is on the southeast, not the south.",
+        "Incorrect. The Wakhan Corridor is a narrow strip of Afghanistan, not a sea."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article identify as the meaning of the Persian word 'pÄk' in the etymology of 'Pakistan'?",
+      "question": "Which country shares a land border with Pakistan to the east?",
       "options": [
-        "Pure",
-        "Land",
-        "Spiritually clean",
-        "Place of"
+        "India",
+        "Afghanistan",
+        "Iran",
+        "China"
       ],
       "answer_explanations": [
-        "Correct. The article states 'pÄk, is 'pure' in Persian and Pashto'.",
-        "Incorrect. 'Land' is the meaning of the suffix '-stan', not 'pÄk'.",
-        "Incorrect. While Rahmat Ali said it means 'the spiritually pure and clean', the etymological note specifies 'pÄk' means 'pure'.",
-        "Incorrect. 'Place of' is the meaning of the suffix '-stan'."
+        "Correct. The article states: 'it shares land borders with India to the east.'",
+        "Incorrect. Afghanistan is to the west of Pakistan.",
+        "Incorrect. Iran is to the southwest of Pakistan.",
+        "Incorrect. China is to the northeast of Pakistan."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following empires ruled the region of modern-day Pakistan before the arrival of Islam?",
+      "question": "What is the name of the 8,500-year-old Neolithic site located in Balochistan?",
       "options": [
-        "Maurya Empire",
-        "Ghaznavid Empire",
-        "Mughal Empire",
-        "Delhi Sultanate"
+        "Mehrgarh",
+        "Mohenjo-daro",
+        "Harappa",
+        "Taxila"
       ],
       "answer_explanations": [
-        "Correct. The article lists the Maurya Empire among the pre-Islamic empires that ruled the region.",
-        "Incorrect. The Ghaznavid Empire was a Muslim empire that ruled after the arrival of Islam.",
-        "Incorrect. The Mughal Empire was a Muslim empire that ruled after the arrival of Islam.",
-        "Incorrect. The Delhi Sultanate was a Muslim empire that ruled after the arrival of Islam."
+        "Correct. The article mentions 'the 8,500-year-old Neolithic site of Mehrgarh in Balochistan'.",
+        "Incorrect. Mohenjo-daro is a site of the Indus Valley Civilisation, not the Neolithic site in Balochistan.",
+        "Incorrect. Harappa is a site of the Indus Valley Civilisation, not the Neolithic site in Balochistan.",
+        "Incorrect. Taxila is known for an ancient university, not as the 8,500-year-old Neolithic site."
       ]
     },
     {
       "id": 6,
-      "question": "What was the status of Pakistan immediately after its independence in 1947?",
+      "question": "In which year did Pakistan gain independence?",
       "options": [
-        "A dominion of the British Commonwealth",
-        "An Islamic republic",
-        "A single province called West Pakistan",
-        "A colony of the British Empire"
+        "1947",
+        "1956",
+        "1971",
+        "1933"
       ],
       "answer_explanations": [
-        "Correct. The article says Pakistan was 'Initially a dominion of the British Commonwealth'.",
-        "Incorrect. Pakistan became an Islamic republic in 1956, not immediately in 1947.",
-        "Incorrect. West Pakistan was one of two provinces after the 1956 constitution, not the status at independence.",
-        "Incorrect. Pakistan gained independence in 1947 and was not a colony after that."
+        "Correct. The article states: 'Pakistan gained independence in 1947 after the partition of British India.'",
+        "Incorrect. In 1956, Pakistan adopted a republican constitution, not independence.",
+        "Incorrect. In 1971, East Pakistan seceded to become Bangladesh.",
+        "Incorrect. In 1933, the name 'Pakistan' was first published in a pamphlet."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is NOT listed as a current challenge facing Pakistan?",
+      "question": "What happened to East Pakistan in 1971?",
       "options": [
-        "Overpopulation",
-        "Poverty",
-        "Illiteracy",
-        "Corruption"
+        "It seceded as the new country of Bangladesh",
+        "It became the capital of Pakistan",
+        "It was renamed West Pakistan",
+        "It was merged with India"
       ],
       "answer_explanations": [
-        "Correct. The article lists poverty, illiteracy, corruption, and terrorism as challenges, but does not mention overpopulation.",
-        "Incorrect. The article explicitly mentions 'poverty' as a challenge.",
-        "Incorrect. The article explicitly mentions 'illiteracy' as a challenge.",
-        "Incorrect. The article explicitly mentions 'corruption' as a challenge."
+        "Correct. The article states: 'East Pakistan seceded as the new country of Bangladesh in 1971.'",
+        "Incorrect. The capital of Pakistan is Islamabad, not East Pakistan.",
+        "Incorrect. West Pakistan was a separate province, not a new name for East Pakistan.",
+        "Incorrect. The article does not mention any merger with India."
       ]
     },
     {
       "id": 8,
-      "question": "What was the primary role of Sufi missionaries in the medieval period according to the article?",
+      "question": "Who coined the name 'Pakistan'?",
       "options": [
-        "Converting a majority of the regional population to Islam",
-        "Establishing the Delhi Sultanate",
-        "Defeating the Hindu Shahi dynasties",
-        "Building Mughal architecture in Multan"
+        "Choudhry Rahmat Ali",
+        "Alexander the Great",
+        "Muhammad ibn Qasim",
+        "Ashoka the Great"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Sufi missionaries played a pivotal role in converting a majority of the regional population to Islam'.",
-        "Incorrect. The Delhi Sultanate was established by other rulers, not Sufi missionaries.",
-        "Incorrect. The Hindu Shahi dynasties were defeated by Muslim empires, not specifically by Sufi missionaries.",
-        "Incorrect. Mughal architecture was built under the Mughal Empire, not by Sufi missionaries."
+        "Correct. The article states: 'The name Pakistan was coined by Choudhry Rahmat Ali.'",
+        "Incorrect. Alexander the Great conquered the region in 326 BCE, long before the name was coined.",
+        "Incorrect. Muhammad ibn Qasim conquered Sindh in 711 CE, not related to coining the name.",
+        "Incorrect. Ashoka the Great was a Mauryan ruler, not the coiner of the name."
       ]
     },
     {
       "id": 9,
-      "question": "Which country shares a maritime border with Pakistan in the Gulf of Oman?",
+      "question": "According to Rahmat Ali, what does the suffix '-stan' mean?",
       "options": [
-        "Oman",
-        "Iran",
-        "India",
-        "China"
+        "Land or place of",
+        "Pure",
+        "Spiritually clean",
+        "Homeland"
       ],
       "answer_explanations": [
-        "Correct. The article states Pakistan 'shares a maritime border with Oman in the Gulf of Oman'.",
-        "Incorrect. Iran shares a land border with Pakistan to the southwest, not a maritime border in the Gulf of Oman.",
-        "Incorrect. India shares a land border with Pakistan to the east.",
-        "Incorrect. China shares a land border with Pakistan to the northeast."
+        "Correct. The article states: 'the Persian suffix -stan means 'land' or 'place of'.'",
+        "Incorrect. 'Pure' is the meaning of 'pÄk', not '-stan'.",
+        "Incorrect. 'Spiritually clean' is part of the explanation of 'pÄk', not '-stan'.",
+        "Incorrect. The article does not define '-stan' as 'homeland'."
       ]
     },
     {
       "id": 10,
-      "question": "Based on the article, which of the following best describes the political history of Pakistan since independence?",
+      "question": "Which of the following is a major problem that Pakistan continues to face, according to the article?",
       "options": [
-        "A mix of civilian and military governments, with periods of both growth and instability",
-        "Continuous democratic rule since 1947",
-        "Uninterrupted military dictatorship",
-        "A single period of political stability followed by decline"
+        "Poverty",
+        "Excessive wealth",
+        "High literacy rates",
+        "Lack of corruption"
       ],
       "answer_explanations": [
-        "Correct. The article states Pakistan has been 'ruled by governments that alternated between civilian and military' and 'characterised by periods of significant economic and military growth as well as those of political and economic instability'.",
-        "Incorrect. The article explicitly mentions alternation with military rule.",
-        "Incorrect. The article mentions civilian governments as well.",
-        "Incorrect. The article describes alternating periods of growth and instability, not a single stable period."
+        "Correct. The article states: 'The country continues to face poverty, illiteracy, corruption, and terrorism.'",
+        "Incorrect. The article mentions poverty, not excessive wealth, as a problem.",
+        "Incorrect. The article mentions illiteracy, not high literacy rates, as a problem.",
+        "Incorrect. The article mentions corruption as a problem, not a lack of it."
       ]
     }
   ]

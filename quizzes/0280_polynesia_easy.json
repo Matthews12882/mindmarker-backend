@@ -7,20 +7,84 @@
       "id": 1,
       "question": "What is Polynesia?",
       "options": [
-        "A subregion of Oceania made up of more than 1,000 islands",
-        "A continent in the Pacific Ocean",
-        "A single large island in the Pacific",
-        "A region of the Atlantic Ocean"
+        "A subregion of Oceania",
+        "A country in the Pacific",
+        "A continent",
+        "A city in the Pacific"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Polynesia is a subregion of Oceania, made up of more than 1,000 islands scattered over the central and southern Pacific Ocean.'",
-        "Incorrect. Polynesia is a subregion of Oceania, not a continent.",
-        "Incorrect. Polynesia consists of more than 1,000 islands, not a single large island.",
-        "Incorrect. Polynesia is located in the Pacific Ocean, not the Atlantic."
+        "Correct. The article states that Polynesia is a subregion of Oceania.",
+        "Incorrect. The article does not describe Polynesia as a country.",
+        "Incorrect. The article describes Polynesia as a subregion, not a continent.",
+        "Incorrect. The article does not describe Polynesia as a city."
       ]
     },
     {
       "id": 2,
+      "question": "How many islands make up Polynesia?",
+      "options": [
+        "More than 1,000",
+        "Exactly 500",
+        "Less than 100",
+        "About 2,000"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Polynesia is made up of more than 1,000 islands.",
+        "Incorrect. The article states more than 1,000 islands, not exactly 500.",
+        "Incorrect. The article states more than 1,000 islands, not less than 100.",
+        "Incorrect. The article states more than 1,000 islands, not about 2,000."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Where are the islands of Polynesia scattered?",
+      "options": [
+        "Over the central and southern Pacific Ocean",
+        "Over the Atlantic Ocean",
+        "Over the Indian Ocean",
+        "Over the Arctic Ocean"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the islands are scattered over the central and southern Pacific Ocean.",
+        "Incorrect. The article mentions the Pacific Ocean, not the Atlantic.",
+        "Incorrect. The article mentions the Pacific Ocean, not the Indian.",
+        "Incorrect. The article mentions the Pacific Ocean, not the Arctic."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What are the indigenous people of Polynesia called?",
+      "options": [
+        "Polynesians",
+        "Melanesians",
+        "Micronesians",
+        "Aborigines"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the indigenous people are called Polynesians.",
+        "Incorrect. The article specifically names Polynesians, not Melanesians.",
+        "Incorrect. The article specifically names Polynesians, not Micronesians.",
+        "Incorrect. The article specifically names Polynesians, not Aborigines."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT mentioned as something Polynesians have in common?",
+      "options": [
+        "Political system",
+        "Linguistic relations",
+        "Cultural practices",
+        "Traditional beliefs"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists linguistic relations, cultural practices, and traditional beliefs, but not political system.",
+        "Incorrect. The article mentions linguistic relations as a commonality.",
+        "Incorrect. The article mentions cultural practices as a commonality.",
+        "Incorrect. The article mentions traditional beliefs as a commonality."
+      ]
+    },
+    {
+      "id": 6,
       "question": "Who first used the term 'PolynÃ©sie' in 1756?",
       "options": [
         "Charles de Brosses",
@@ -29,138 +93,74 @@
         "Ferdinand Magellan"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The term PolynÃ©sie was first used in 1756 by the French writer Charles de Brosses.'",
-        "Incorrect. Jules Dumont d'Urville proposed a narrower definition in 1831, but did not first use the term.",
-        "Incorrect. James Cook is not mentioned in the article as the originator of the term.",
-        "Incorrect. Ferdinand Magellan is not mentioned in the article."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "What shape is used to define the main area of Polynesia?",
-      "options": [
-        "A triangle",
-        "A square",
-        "A circle",
-        "A rectangle"
-      ],
-      "answer_explanations": [
-        "Correct. The article mentions 'the Polynesian Triangle' and explains that the term makes clear the grouping includes the Hawaiian Islands at the northern vertex.",
-        "Incorrect. The article specifically uses the term 'triangle'.",
-        "Incorrect. The article does not describe a circle.",
-        "Incorrect. The article does not describe a rectangle."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Which country contains more than 270,000 square kilometers of Polynesian land?",
-      "options": [
-        "New Zealand",
-        "Hawaii",
-        "Samoa",
-        "Tonga"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'It consists of approximately 300,000 to 310,000 square kilometres of land, of which more than 270,000 km2 are within New Zealand.'",
-        "Incorrect. The Hawaiian archipelago consists of about half the remainder after New Zealand.",
-        "Incorrect. Samoa is a volcanic island group but does not have that much land area.",
-        "Incorrect. Tonga is a volcanic island group but does not have that much land area."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "Most Polynesian islands, such as Hawaii and Samoa, are composed of what type of volcanic formation?",
-      "options": [
-        "Volcanic islands built by hotspots",
-        "Continental fragments",
-        "Coral atolls",
-        "Glacial deposits"
-      ],
-      "answer_explanations": [
-        "Correct. The article says: 'Most Polynesian islands and archipelagos, including the Hawaiian Islands and Samoa, are composed of volcanic islands built by hotspots (volcanoes).'",
-        "Incorrect. New Zealand and a few others are unsubmerged portions of Zealandia, but most are volcanic hotspots.",
-        "Incorrect. Coral atolls are not mentioned as the primary composition.",
-        "Incorrect. Glacial deposits are not mentioned."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "Which of the following is NOT a sovereign state in Polynesia?",
-      "options": [
-        "American Samoa",
-        "Samoa",
-        "Tonga",
-        "Tuvalu"
-      ],
-      "answer_explanations": [
-        "Correct. The table lists American Samoa as an unincorporated and unorganized territory of the United States, not a sovereign state.",
-        "Incorrect. Samoa is listed as a sovereign state.",
-        "Incorrect. Tonga is listed as a sovereign state.",
-        "Incorrect. Tuvalu is listed as a sovereign state."
+        "Correct. The article says the term was first used in 1756 by the French writer Charles de Brosses.",
+        "Incorrect. Jules Dumont d'Urville proposed a narrower definition in 1831, not the first use in 1756.",
+        "Incorrect. The article does not mention James Cook in this context.",
+        "Incorrect. The article does not mention Ferdinand Magellan in this context."
       ]
     },
     {
       "id": 7,
-      "question": "What is the name of the largely sunken continent that includes New Zealand?",
+      "question": "In what year did Jules Dumont d'Urville propose a narrower definition of Polynesia?",
       "options": [
-        "Zealandia",
-        "Gondwana",
-        "Pangaea",
-        "Laurasia"
+        "1831",
+        "1756",
+        "1900",
+        "1850"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'New Zealand, Norfolk Island, and OuvÃ©a... are the unsubmerged portions of the largely sunken continent of Zealandia.'",
-        "Incorrect. Gondwana is an ancient supercontinent, not the one specifically mentioned.",
-        "Incorrect. Pangaea is an ancient supercontinent, not the one specifically mentioned.",
-        "Incorrect. Laurasia is an ancient supercontinent, not the one specifically mentioned."
+        "Correct. The article states that in 1831, Jules Dumont d'Urville proposed a narrower definition.",
+        "Incorrect. 1756 is the year the term was first used, not when d'Urville proposed his definition.",
+        "Incorrect. The article specifies 1831, not 1900.",
+        "Incorrect. The article specifies 1831, not 1850."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, which of these is an island group with strong Polynesian cultural traits but whose people speak a non-Polynesian language?",
+      "question": "What are the islands located in the southern Pacific traditionally called?",
       "options": [
-        "Rotuma",
-        "Fiji",
-        "Tonga",
-        "Samoa"
+        "South Sea Islands",
+        "North Sea Islands",
+        "West Indies",
+        "East Indies"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'An island group with strong Polynesian cultural traits outside of this great triangle is Rotuma... The people of Rotuma have many common Polynesian traits, but speak a non-Polynesian language.'",
-        "Incorrect. Fiji is mentioned as part of Melanesia, not as having a non-Polynesian language with Polynesian traits.",
-        "Incorrect. Tonga is within the Polynesian Triangle and speaks a Polynesian language.",
-        "Incorrect. Samoa is within the Polynesian Triangle and speaks a Polynesian language."
+        "Correct. The article says the islands in the southern Pacific have often been called the South Sea Islands.",
+        "Incorrect. The article says South Sea Islands, not North Sea Islands.",
+        "Incorrect. The article says South Sea Islands, not West Indies.",
+        "Incorrect. The article says South Sea Islands, not East Indies."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following is NOT one of the three theories regarding the spread of humans across the Pacific to Polynesia?",
+      "question": "Why are the Hawaiian Islands often considered part of the South Sea Islands?",
       "options": [
-        "Slow Boat model",
-        "Express Train model",
-        "Entangled Bank model",
-        "Pacific Highway model"
+        "Because of their relative proximity to the southern Pacific islands",
+        "Because they are located in the southern Pacific",
+        "Because they are the largest islands",
+        "Because they were discovered first"
       ],
       "answer_explanations": [
-        "Correct. The article lists three theories: Express Train model, Entangled Bank model, and Slow Boat model. 'Pacific Highway model' is not mentioned.",
-        "Incorrect. The Express Train model is one of the three theories mentioned.",
-        "Incorrect. The Entangled Bank model is one of the three theories mentioned.",
-        "Incorrect. The Slow Boat model is one of the three theories mentioned."
+        "Correct. The article says the Hawaiian Islands have often been considered part of the South Sea Islands because of their relative proximity to the southern Pacific islands.",
+        "Incorrect. The article notes they are actually in the North Pacific, not the southern Pacific.",
+        "Incorrect. The article does not mention size as a reason.",
+        "Incorrect. The article does not mention discovery order as a reason."
       ]
     },
     {
       "id": 10,
-      "question": "What is the name of the pottery tradition associated with the early Polynesian expansion around 1400 BC?",
+      "question": "What term avoids the inconsistency of calling Hawaii a South Sea Island?",
       "options": [
-        "Lapita",
-        "Jomon",
-        "Yangshao",
-        "Dong Son"
+        "The Polynesian Triangle",
+        "The Pacific Triangle",
+        "The Hawaiian Triangle",
+        "The Oceanic Triangle"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'It is thought that by roughly 1400 BC, \"Lapita peoples\", so-named after their pottery tradition, appeared in the Bismarck Archipelago.'",
-        "Incorrect. Jomon is a Japanese pottery tradition, not mentioned in the article.",
-        "Incorrect. Yangshao is a Chinese pottery tradition, not mentioned in the article.",
-        "Incorrect. Dong Son is a Southeast Asian bronze age culture, not mentioned in the article."
+        "Correct. The article says another term in use, which avoids this inconsistency, is 'the Polynesian Triangle'.",
+        "Incorrect. The article specifically names the Polynesian Triangle, not the Pacific Triangle.",
+        "Incorrect. The article specifically names the Polynesian Triangle, not the Hawaiian Triangle.",
+        "Incorrect. The article specifically names the Polynesian Triangle, not the Oceanic Triangle."
       ]
     }
   ]

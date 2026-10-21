@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following is listed as an example of a metal that is a chemical element?",
+      "question": "What does a metal show when polished or fractured?",
       "options": [
-        "iron",
-        "stainless steel",
-        "polymeric sulfur nitride",
-        "titanium nitride"
+        "A lustrous appearance",
+        "A dull appearance",
+        "A transparent appearance",
+        "A rough appearance"
       ],
       "answer_explanations": [
-        "Correct. The article states that a metal may be a chemical element, such as iron.",
-        "Incorrect. Stainless steel is given as an example of an alloy, not a chemical element.",
-        "Incorrect. Polymeric sulfur nitride is given as an example of a molecular compound, not a chemical element.",
-        "Incorrect. Titanium nitride is mentioned as a multi-element metal used in the semiconductor industry, not as a chemical element."
+        "Correct. The article states that a metal, when polished or fractured, shows a lustrous appearance.",
+        "Incorrect. The article says a metal shows a lustrous appearance, not a dull one.",
+        "Incorrect. The article does not mention transparency; it says lustrous.",
+        "Incorrect. The article says lustrous, not rough."
       ]
     },
     {
       "id": 2,
-      "question": "What property do metals typically show when polished or fractured?",
+      "question": "Which two things does a metal conduct relatively well?",
       "options": [
-        "a lustrous appearance",
-        "a dull appearance",
-        "transparency",
-        "magnetic attraction"
+        "Electricity and heat",
+        "Light and sound",
+        "Water and air",
+        "Magnetism and gravity"
       ],
       "answer_explanations": [
-        "Correct. The article states that metals show a lustrous appearance when polished or fractured.",
-        "Incorrect. The article describes metals as lustrous, not dull.",
-        "Incorrect. The article does not state that metals are transparent when polished or fractured.",
-        "Incorrect. The article does not mention magnetic attraction as a property shown when metals are polished or fractured."
+        "Correct. The article says a metal conducts electricity and heat relatively well.",
+        "Incorrect. The article mentions electricity and heat, not light and sound.",
+        "Incorrect. The article does not say metals conduct water or air.",
+        "Incorrect. The article does not mention magnetism or gravity as conducted by metals."
       ]
     },
     {
       "id": 3,
-      "question": "Which metal is identified as the least dense elemental metal?",
+      "question": "What does the word 'ductile' mean in the article?",
       "options": [
-        "lithium",
-        "osmium",
-        "magnesium",
-        "iron"
+        "Can be drawn into a wire",
+        "Can be shaped via hammering",
+        "Can be polished to a shine",
+        "Can conduct electricity"
       ],
       "answer_explanations": [
-        "Correct. The article states that lithium is the least dense metal at 0.534 g/cm3.",
-        "Incorrect. Osmium is identified as the most dense metal at 22.59 g/cm3.",
-        "Incorrect. Magnesium is described as a light metal but not the least dense.",
-        "Incorrect. Iron is listed as an older structural metal with a density of 7.9 g/cm3, not the least dense."
+        "Correct. The article defines ductile as 'can be drawn into a wire'.",
+        "Incorrect. That is the definition of malleable, not ductile.",
+        "Incorrect. Polishing is not the definition of ductile.",
+        "Incorrect. Conducting electricity is a property, but not the meaning of ductile."
       ]
     },
     {
       "id": 4,
-      "question": "What is the general science of metals called?",
+      "question": "What does the word 'malleable' mean in the article?",
       "options": [
-        "metallurgy",
-        "condensed matter physics",
-        "solid-state chemistry",
-        "materials science"
+        "Can be shaped via hammering or pressing",
+        "Can be drawn into a wire",
+        "Can be melted easily",
+        "Can be found in mines"
       ],
       "answer_explanations": [
-        "Correct. The article states that the general science of metals is called metallurgy.",
-        "Incorrect. Condensed matter physics covers aspects of electronic and thermal properties, but is not the general science of metals.",
-        "Incorrect. Solid-state chemistry covers aspects of electronic and thermal properties, but is not the general science of metals.",
-        "Incorrect. Materials science is the broader field of which metallurgy is a subtopic."
+        "Correct. The article defines malleable as 'can be shaped via hammering or pressing'.",
+        "Incorrect. That is the definition of ductile, not malleable.",
+        "Incorrect. The article does not define malleable as melting easily.",
+        "Incorrect. The article does not define malleable in terms of mines."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is listed as a use of metals due to their strength and resilience?",
+      "question": "Which of these is given as an example of a metal that is a chemical element?",
       "options": [
-        "high-rise building and bridge construction",
-        "coinage in the modern era",
-        "semiconductor industry dopants",
-        "historical use as polymers"
+        "Iron",
+        "Stainless steel",
+        "Polymeric sulfur nitride",
+        "Wood"
       ],
       "answer_explanations": [
-        "Correct. The article states that the strength and resilience of some metals have led to their frequent use in high-rise building and bridge construction.",
-        "Incorrect. Precious metals were historically used as coinage, but this is not linked to strength and resilience in construction.",
-        "Incorrect. The semiconductor industry uses multi-element metals like titanium nitride, but this is not the example given for strength and resilience.",
-        "Incorrect. Polymers are described as nonmetallic materials, not a use of metals."
+        "Correct. The article lists iron as an example of a chemical element metal.",
+        "Incorrect. Stainless steel is given as an example of an alloy, not a chemical element.",
+        "Incorrect. Polymeric sulfur nitride is given as an example of a molecular compound metal.",
+        "Incorrect. Wood is mentioned as a nonmetallic material, not a metal."
       ]
     },
     {
       "id": 6,
-      "question": "Which metal's electrical conductivity increases when heated in the temperature range of around â175 to +125 Â°C?",
+      "question": "What is the general science of metals called?",
       "options": [
-        "plutonium",
-        "silver",
-        "manganese",
-        "boron"
+        "Metallurgy",
+        "Biology",
+        "Geology",
+        "Astronomy"
       ],
       "answer_explanations": [
-        "Correct. The article states that plutonium's electrical conductivity increases when heated in that temperature range.",
-        "Incorrect. Silver has the highest electrical conductivity among elemental metals listed, but its conductivity decreases with heating.",
-        "Incorrect. Manganese is listed at the low end of elemental metal conductivity, but is not the exception that increases with heating.",
-        "Incorrect. Boron is a semiconducting metalloid with much lower conductivity, not the metal described."
+        "Correct. The article says 'The general science of metals is called metallurgy'.",
+        "Incorrect. Biology is not mentioned as the science of metals.",
+        "Incorrect. Geology is not mentioned as the science of metals.",
+        "Incorrect. Astronomy is not mentioned as the science of metals."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following metals does not react with the atmosphere at all?",
+      "question": "At what temperature does a metal conduct electricity, according to the article?",
       "options": [
-        "gold",
-        "potassium",
-        "iron",
-        "chromium"
+        "Absolute zero",
+        "Room temperature",
+        "Boiling point of water",
+        "Melting point of iron"
       ],
       "answer_explanations": [
-        "Correct. The article states that gold does not react with the atmosphere at all.",
-        "Incorrect. Potassium burns in seconds when reacting with oxygen in the air.",
-        "Incorrect. Iron rusts over years when exposed to air.",
-        "Incorrect. Chromium is mentioned in the context of acidic oxides, not as a metal that does not react with the atmosphere."
+        "Correct. The article states 'A metal conducts electricity at a temperature of absolute zero'.",
+        "Incorrect. The article specifically mentions absolute zero, not room temperature.",
+        "Incorrect. The article does not mention boiling point of water.",
+        "Incorrect. The article does not mention melting point of iron."
       ]
     },
     {
       "id": 8,
-      "question": "What are the three common crystal structures of simple metallic substances?",
+      "question": "Which element gradually becomes a metal at high pressure, according to the article?",
       "options": [
-        "body-centered cubic, face-centered cubic, and hexagonal close-packed",
-        "cubic, tetragonal, and orthorhombic",
-        "amorphous, crystalline, and polymeric",
-        "rock salt, perovskite, and diamond"
+        "Iodine",
+        "Iron",
+        "Copper",
+        "Sodium"
       ],
       "answer_explanations": [
-        "Correct. The article lists body-centered cubic, face-centered cubic, and hexagonal close-packed as the three common crystal structures.",
-        "Incorrect. Cubic, tetragonal, and orthorhombic are not the three structures named in the article.",
-        "Incorrect. Amorphous, crystalline, and polymeric are not the three common crystal structures listed for simple metallic substances.",
-        "Incorrect. Rock salt and perovskite are mentioned as more complicated structures, not the three common ones."
+        "Correct. The article says 'iodine gradually becomes a metal at a pressure between 40 and 170 thousand times atmospheric'.",
+        "Incorrect. Iron is already a metal, not an example of becoming metallic under pressure in this context.",
+        "Incorrect. Copper is not mentioned in this context.",
+        "Incorrect. Sodium is not mentioned in this context."
       ]
     },
     {
       "id": 9,
-      "question": "Which element is identified as the first light metal discovered?",
+      "question": "Which of the following is mentioned as a nonmetallic material?",
       "options": [
-        "sodium",
-        "lithium",
-        "magnesium",
-        "aluminium"
+        "Wood",
+        "Iron",
+        "Stainless steel",
+        "Titanium nitride"
       ],
       "answer_explanations": [
-        "Correct. The article states that the discovery of sodium was the first light metal, in 1809.",
-        "Incorrect. Lithium is mentioned as the least dense metal, but not as the first light metal discovered.",
-        "Incorrect. Magnesium is described as a light metal of commercial importance, but not the first discovered.",
-        "Incorrect. Aluminium is described as a light metal of commercial importance, but not the first discovered."
+        "Correct. The article says 'polymers, wood, or ceramics are nonmetallic materials'.",
+        "Incorrect. Iron is a metal, not nonmetallic.",
+        "Incorrect. Stainless steel is an alloy metal, not nonmetallic.",
+        "Incorrect. Titanium nitride is mentioned as a multi-element metal, not nonmetallic."
       ]
     },
     {
       "id": 10,
-      "question": "What does a metal conduct at a temperature of absolute zero?",
+      "question": "What is metallurgy a subtopic of?",
       "options": [
-        "electricity",
-        "light",
-        "sound",
-        "magnetism"
+        "Materials science",
+        "Physics",
+        "Chemistry",
+        "Biology"
       ],
       "answer_explanations": [
-        "Correct. The article states that a metal conducts electricity at a temperature of absolute zero.",
-        "Incorrect. The article does not state that metals conduct light at absolute zero.",
-        "Incorrect. The article does not state that metals conduct sound at absolute zero.",
-        "Incorrect. The article does not state that metals conduct magnetism at absolute zero."
+        "Correct. The article says metallurgy is 'a subtopic of materials science'.",
+        "Incorrect. Physics is mentioned as related to condensed matter physics, but not as the subtopic of metallurgy.",
+        "Incorrect. Chemistry is mentioned as related to solid-state chemistry, but not as the subtopic of metallurgy.",
+        "Incorrect. Biology is not mentioned in this context."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does chemistry study according to the article?",
+      "question": "What is chemistry the scientific study of?",
       "options": [
         "The properties and behavior of matter",
-        "The properties and behavior of energy",
-        "The properties and behavior of forces",
-        "The properties and behavior of light"
+        "The properties of light",
+        "The behavior of living organisms",
+        "The structure of the Earth"
       ],
       "answer_explanations": [
-        "Correct. The article states that chemistry is the scientific study of the properties and behavior of matter.",
-        "Incorrect. The article does not say chemistry studies energy specifically.",
-        "Incorrect. The article does not say chemistry studies forces specifically.",
-        "Incorrect. The article does not say chemistry studies light specifically."
+        "Correct. The article states, 'Chemistry is the scientific study of the properties and behavior of matter.'",
+        "Incorrect. The article does not say chemistry is the study of light.",
+        "Incorrect. The article does not say chemistry is the study of living organisms.",
+        "Incorrect. The article does not say chemistry is the study of the Earth's structure."
       ]
     },
     {
       "id": 2,
-      "question": "Why is chemistry sometimes called the central science?",
+      "question": "What type of science is chemistry?",
       "options": [
-        "Because it provides a foundation for understanding basic and applied scientific disciplines at a fundamental level",
-        "Because it is the oldest of all sciences",
-        "Because it is the only science that uses mathematics",
-        "Because it studies only chemical reactions"
+        "A physical science",
+        "A social science",
+        "A biological science",
+        "A formal science"
       ],
       "answer_explanations": [
-        "Correct. The article states chemistry is called the central science because it provides a foundation for understanding both basic and applied scientific disciplines at a fundamental level.",
-        "Incorrect. The article does not claim chemistry is the oldest science.",
-        "Incorrect. The article does not claim chemistry is the only science that uses mathematics.",
-        "Incorrect. The article does not say chemistry studies only chemical reactions."
+        "Correct. The article says, 'It is a physical science within the natural sciences.'",
+        "Incorrect. The article does not describe chemistry as a social science.",
+        "Incorrect. The article does not describe chemistry as a biological science.",
+        "Incorrect. The article does not describe chemistry as a formal science."
       ]
     },
     {
       "id": 3,
-      "question": "From which word does the modern word chemistry come?",
+      "question": "Which of the following is NOT mentioned as something chemistry studies about matter?",
       "options": [
-        "Alchemy",
-        "Physics",
-        "Biology",
-        "Mathematics"
+        "Color",
+        "Composition",
+        "Structure",
+        "Properties"
       ],
       "answer_explanations": [
-        "Correct. The article states the word chemistry comes from a modification during the Renaissance of the word alchemy.",
-        "Incorrect. The article does not say chemistry comes from physics.",
-        "Incorrect. The article does not say chemistry comes from biology.",
-        "Incorrect. The article does not say chemistry comes from mathematics."
+        "Correct. The article lists composition, structure, properties, and behavior, but does not mention color.",
+        "Incorrect. The article says chemistry studies 'composition'.",
+        "Incorrect. The article says chemistry studies 'structure'.",
+        "Incorrect. The article says chemistry studies 'properties'."
       ]
     },
     {
       "id": 4,
-      "question": "What is the current model of atomic structure?",
+      "question": "What does chemistry study the changes of during reactions?",
       "options": [
-        "The quantum mechanical model",
-        "The Bohr model",
-        "The plum pudding model",
-        "The Dalton model"
+        "Matter",
+        "Energy",
+        "Light",
+        "Sound"
       ],
       "answer_explanations": [
-        "Correct. The article states the current model of atomic structure is the quantum mechanical model.",
-        "Incorrect. The article does not mention the Bohr model as the current model.",
-        "Incorrect. The article does not mention the plum pudding model as the current model.",
-        "Incorrect. The article does not mention the Dalton model as the current model."
+        "Correct. The article says chemistry studies 'the changes they undergo during reactions' referring to matter.",
+        "Incorrect. The article does not say chemistry studies changes of energy during reactions.",
+        "Incorrect. The article does not say chemistry studies changes of light during reactions.",
+        "Incorrect. The article does not say chemistry studies changes of sound during reactions."
       ]
     },
     {
       "id": 5,
-      "question": "What is a chemical reaction?",
+      "question": "What does chemistry address the nature of in chemical compounds?",
       "options": [
-        "A transformation of some substances into one or more different substances",
-        "A change in the temperature of a substance",
-        "A change in the color of a substance",
-        "A change in the state of matter of a substance"
+        "Chemical bonds",
+        "Physical states",
+        "Electrical charges",
+        "Atomic numbers"
       ],
       "answer_explanations": [
-        "Correct. The article defines a chemical reaction as a transformation of some substances into one or more different substances.",
-        "Incorrect. The article does not define a chemical reaction as a temperature change.",
-        "Incorrect. The article does not define a chemical reaction as a color change.",
-        "Incorrect. The article does not define a chemical reaction as a change in state of matter."
+        "Correct. The article says, 'Chemistry also addresses the nature of chemical bonds in chemical compounds.'",
+        "Incorrect. The article does not mention physical states in this context.",
+        "Incorrect. The article does not mention electrical charges in this context.",
+        "Incorrect. The article does not mention atomic numbers in this context."
       ]
     },
     {
       "id": 6,
-      "question": "What is the atom described as in chemistry?",
+      "question": "Between which two sciences does chemistry occupy an intermediate position?",
       "options": [
-        "The basic unit of chemistry",
-        "The largest unit of chemistry",
-        "The only unit of chemistry",
-        "The most complex unit of chemistry"
+        "Physics and biology",
+        "Geology and botany",
+        "Ecology and pharmacology",
+        "Forensics and cosmology"
       ],
       "answer_explanations": [
-        "Correct. The article states the atom is the basic unit of chemistry.",
-        "Incorrect. The article does not say the atom is the largest unit.",
-        "Incorrect. The article does not say the atom is the only unit.",
-        "Incorrect. The article does not say the atom is the most complex unit."
+        "Correct. The article says, 'chemistry occupies an intermediate position between physics and biology.'",
+        "Incorrect. The article does not say chemistry is between geology and botany.",
+        "Incorrect. The article does not say chemistry is between ecology and pharmacology.",
+        "Incorrect. The article does not say chemistry is between forensics and cosmology."
       ]
     },
     {
       "id": 7,
-      "question": "What characterizes a chemical element?",
+      "question": "What is chemistry sometimes called?",
       "options": [
-        "A pure substance composed of a single type of atom",
-        "A mixture of different types of atoms",
-        "A substance with no definite composition",
-        "A substance made only of molecules"
+        "The central science",
+        "The mother science",
+        "The natural science",
+        "The fundamental science"
       ],
       "answer_explanations": [
-        "Correct. The article states a chemical element is a pure substance composed of a single type of atom.",
-        "Incorrect. The article defines an element as a pure substance, not a mixture.",
-        "Incorrect. The article says an element has a definite composition.",
-        "Incorrect. The article does not say an element is made only of molecules."
+        "Correct. The article says, 'It is sometimes called the central science.'",
+        "Incorrect. The article does not call chemistry 'the mother science'.",
+        "Incorrect. The article does not call chemistry 'the natural science'.",
+        "Incorrect. The article does not call chemistry 'the fundamental science'."
       ]
     },
     {
       "id": 8,
-      "question": "What is a compound?",
+      "question": "According to the article, chemistry explains how medications work in which field?",
       "options": [
-        "A pure chemical substance composed of more than one element",
-        "A pure substance made of only one element",
-        "A mixture of two or more substances",
-        "A substance that cannot be broken down"
+        "Pharmacology",
+        "Botany",
+        "Geology",
+        "Ecology"
       ],
       "answer_explanations": [
-        "Correct. The article states a compound is a pure chemical substance composed of more than one element.",
-        "Incorrect. A substance made of only one element is an element, not a compound.",
-        "Incorrect. The article defines a compound as a pure substance, not a mixture.",
-        "Incorrect. The article does not say a compound cannot be broken down."
+        "Correct. The article says chemistry explains 'how medications work (pharmacology)'.",
+        "Incorrect. Botany is mentioned as a field where chemistry explains plant growth, not medications.",
+        "Incorrect. Geology is mentioned as a field where chemistry explains the formation of igneous rocks, not medications.",
+        "Incorrect. Ecology is mentioned as a field where chemistry explains ozone formation and pollutant degradation, not medications."
       ]
     },
     {
       "id": 9,
-      "question": "What is a molecule?",
+      "question": "According to the article, chemistry explains how to collect DNA evidence at a crime scene in which field?",
       "options": [
-        "The smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties",
-        "A collection of atoms with no chemical properties",
-        "A type of mixture",
-        "A charged particle only found in solids"
+        "Forensics",
+        "Cosmochemistry",
+        "Pharmacology",
+        "Botany"
       ],
       "answer_explanations": [
-        "Correct. The article defines a molecule as the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties.",
-        "Incorrect. The article says molecules have unique chemical properties.",
-        "Incorrect. The article does not define a molecule as a mixture.",
-        "Incorrect. The article does not say molecules are charged particles only found in solids."
+        "Correct. The article says chemistry explains 'how to collect DNA evidence at a crime scene (forensics)'.",
+        "Incorrect. Cosmochemistry is mentioned as a field where chemistry explains the properties of lunar soil, not DNA evidence.",
+        "Incorrect. Pharmacology is mentioned as a field where chemistry explains how medications work, not DNA evidence.",
+        "Incorrect. Botany is mentioned as a field where chemistry explains plant growth, not DNA evidence."
       ]
     },
     {
       "id": 10,
-      "question": "What is one mole defined to contain?",
+      "question": "Since when has chemistry existed?",
       "options": [
-        "Exactly 6.02214076Ã10^23 particles",
-        "Exactly 6.02214076Ã10^22 particles",
-        "Exactly 6.02214076Ã10^24 particles",
-        "Exactly 6.02214076Ã10^21 particles"
+        "Since ancient times",
+        "Since the Middle Ages",
+        "Since the Renaissance",
+        "Since the 19th century"
       ],
       "answer_explanations": [
-        "Correct. The article states one mole is defined to contain exactly 6.02214076Ã10^23 particles.",
-        "Incorrect. The article specifies 10^23, not 10^22.",
-        "Incorrect. The article specifies 10^23, not 10^24.",
-        "Incorrect. The article specifies 10^23, not 10^21."
+        "Correct. The article says, 'Chemistry has existed under various names since ancient times.'",
+        "Incorrect. The article does not say chemistry has existed since the Middle Ages.",
+        "Incorrect. The article does not say chemistry has existed since the Renaissance.",
+        "Incorrect. The article does not say chemistry has existed since the 19th century."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which sociologist introduced the formula P = E/T, where P is the development index, E is a measure of energy consumed, and T is a measure of the efficiency of technical factors in using the energy?",
+      "question": "Given the article's description of technology's etymology and its modern usage, what fundamental shift in the concept of technology does this reveal?",
       "options": [
-        "Leslie White",
-        "Lewis H. Morgan",
-        "Gerhard Lenski",
-        "Nikolai Kardashev"
+        "It has moved from describing applied arts to encompassing advancements that affect the environment.",
+        "It has moved from describing information technology to encompassing simple stone tools.",
+        "It has moved from describing genetic engineering to encompassing applied arts.",
+        "It has moved from describing economic history to encompassing scientific instruments."
       ],
       "answer_explanations": [
-        "Correct. Leslie White introduced the formula P = E/T as part of his theory on cultural evolution based on energy use.",
-        "Incorrect. Lewis H. Morgan focused on stages of social evolution like savagery, barbarism, and civilization, not the energy formula.",
-        "Incorrect. Gerhard Lenski emphasized information and communication stages rather than an energy efficiency formula.",
-        "Incorrect. Nikolai Kardashev created the Kardashev scale based on energy consumption but did not originate the P = E/T formula."
+        "Correct. The article states the term was 'first used to describe applied arts, but it is now used to describe advancements and changes that affect the environment around us,' showing a broadening of scope.",
+        "Incorrect. The article does not say the term moved from information technology; it says it was first used for applied arts.",
+        "Incorrect. The article does not say the term moved from genetic engineering; it says it was first used for applied arts.",
+        "Incorrect. The article does not say the term moved from economic history; it says it was first used for applied arts."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what is the primary function of culture as argued by Leslie White?",
+      "question": "How does the article's statement that 'technical history is connected to the history of science' and 'tightly connected to economic history' imply a relationship between these fields?",
       "options": [
-        "To harness and control energy",
-        "To develop advanced tools",
-        "To increase social inequality",
-        "To create artistic expression"
+        "Technology is both a product of scientific knowledge and a driver of economic activity, making these histories interdependent.",
+        "Technology is solely a branch of science, and economic history is irrelevant to its development.",
+        "Technology is primarily an economic phenomenon, and its connection to science is only incidental.",
+        "Technology, science, and economic history are completely separate and unrelated fields of study."
       ],
       "answer_explanations": [
-        "Correct. White stated that the primary function of culture is to 'harness and control energy.'",
-        "Incorrect. While tools are important, White's focus was on energy control rather than tool development.",
-        "Incorrect. Social inequality is a consequence, not the primary function, in White's view.",
-        "Incorrect. Artistic expression is part of culture but not its primary function per White."
+        "Correct. The article explains that technology is 'applied science' and uses resources, producing other resources, which links it directly to both scientific and economic histories, implying interdependence.",
+        "Incorrect. The article explicitly says technology is 'tightly connected to economic history,' so economic history is not irrelevant.",
+        "Incorrect. The article explicitly says technical history is 'connected to the history of science,' so the connection is not incidental.",
+        "Incorrect. The article explicitly states connections between technology, science, and economic history, so they are not unrelated."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is listed as a technological milestone that can divide Morgan's three major stages of social evolution?",
+      "question": "What is the central implication of Leslie White's formula P = E/T for measuring technological progress?",
       "options": [
-        "Fire",
-        "Writing",
-        "Ironworking",
-        "Printing press"
+        "Progress is determined by both the amount of energy harnessed and the efficiency of using it.",
+        "Progress is determined solely by the total amount of energy consumed, regardless of efficiency.",
+        "Progress is determined solely by the efficiency of technical factors, not the amount of energy.",
+        "Progress is determined by the type of energy source, such as muscle versus nuclear."
       ],
       "answer_explanations": [
-        "Correct. Morgan's concept of three major stages (savagery, barbarism, civilization) can be divided by technological milestones such as fire.",
-        "Incorrect. Writing is a later development but not highlighted as a dividing milestone in Morgan's stages.",
-        "Incorrect. Ironworking occurs later than the basic stages Morgan described.",
-        "Incorrect. The printing press is a much later invention, beyond Morgan's early stages."
+        "Correct. The article states White's formula is P = E/T, where P is development, E is energy consumed, and T is efficiency, and that culture evolves as energy harnessed increases or as efficiency of use increases, showing both factors matter.",
+        "Incorrect. The formula includes T (efficiency), so progress is not solely about the amount of energy consumed.",
+        "Incorrect. The formula includes E (energy), so progress is not solely about efficiency.",
+        "Incorrect. The formula does not include the type of energy source; it focuses on amount and efficiency."
       ]
     },
     {
       "id": 4,
-      "question": "In Lenski's approach to human development, which stage involves the use of signs and the development of logic?",
+      "question": "How does Gerhard Lenski's focus on information as a measure of progress compare and contrast with Leslie White's focus on energy?",
       "options": [
-        "Third stage",
-        "First stage",
-        "Fourth stage",
-        "Second stage"
+        "Both propose stages of development, but Lenski's stages are based on communication and information, while White's are based on energy sources.",
+        "Both propose stages of development based on the same criteria, but Lenski includes more stages.",
+        "Both focus on energy, but Lenski adds a formula to measure it, which White lacks.",
+        "Both focus on information, but White adds a formula to measure it, which Lenski lacks."
       ],
       "answer_explanations": [
-        "Correct. Lenski identifies the third stage as the point where humans start using signs and develop logic.",
-        "Incorrect. The first stage is based on genetic information, not signs or logic.",
-        "Incorrect. The fourth stage involves symbols, language, and writing, beyond signs and logic.",
-        "Incorrect. The second stage is about sentience and learning through experience."
+        "Correct. The article describes White's five stages based on energy (muscles, animals, plants, natural resources, nuclear) and Lenski's four stages based on information (genes, experience, signs, symbols/language), showing a contrast in their criteria.",
+        "Incorrect. The article shows they use different criteria: White uses energy and Lenski uses information.",
+        "Incorrect. The article shows Lenski focuses on information, not energy, and White is the one with the formula.",
+        "Incorrect. The article shows White focuses on energy, not information, and Lenski does not introduce a formula."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following societies is NOT listed among Lenski's differentiation of societies based on technology, communication, and economy?",
+      "question": "What does the article's example of declining manufacturing employment in the United States imply about the relationship between productivity growth and employment?",
       "options": [
-        "Industrial",
-        "Simple agricultural",
-        "Hunter-gatherer",
-        "Nomadic pastoralist"
+        "Increased productivity can lead to reduced labor inputs and thus lower employment in a sector, even as output is maintained or increased.",
+        "Increased productivity always leads to higher employment in the same sector.",
+        "Declining employment in manufacturing is unrelated to productivity changes.",
+        "Declining employment in manufacturing means productivity is also declining."
       ],
       "answer_explanations": [
-        "Correct. Lenski's list includes hunter-gatherer, simple agricultural, advanced agricultural, industrial, and special (such as fishing societies). Nomadic pastoralist is not listed.",
-        "Incorrect. Simple agricultural is explicitly listed as one of Lenski's categories.",
-        "Incorrect. Hunter-gatherer is included in Lenski's classification.",
-        "Incorrect. Industrial is one of the categories identified."
+        "Correct. The article states that productivity increases when fewer inputs like labor are used to produce a unit of output, and that new products and services are needed to offset unemployment from reduced labor inputs. The manufacturing example shows employment declining from over 30% to just over 10%, implying productivity gains reduced labor needs.",
+        "Incorrect. The article shows the opposite: productivity gains can reduce labor inputs and employment.",
+        "Incorrect. The article directly links reduced labor inputs to productivity increases, so they are related.",
+        "Incorrect. The article implies productivity increased, allowing same output with fewer workers, not that productivity declined."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article state about productivity growth in developed countries since the late 1970s?",
+      "question": "What is the main conclusion drawn by sociologists and anthropologists like Toffler, Bell, and Naisbitt about the current era, based on the article?",
       "options": [
-        "It has been slowing overall, but higher in some sectors like manufacturing.",
-        "It has been consistently increasing across all sectors.",
-        "It has remained constant.",
-        "It has been decreasing sharply in all sectors."
+        "The industrial era is ending, and services and information are becoming more important than industry and goods.",
+        "The industrial era is strengthening, with industry and goods becoming more important than services.",
+        "The post-industrial era has already ended, and society is returning to an industrial model.",
+        "The post-industrial era is identical to the industrial era in all important aspects."
       ],
       "answer_explanations": [
-        "Correct. The article notes that productivity growth has been slowing since the late 1970s overall, but higher in some sectors such as manufacturing.",
-        "Incorrect. The article indicates a slowdown, not consistent increase.",
-        "Incorrect. The article mentions a slowdown, not constant growth.",
-        "Incorrect. While slowing, it is not described as sharply decreasing in all sectors."
+        "Correct. The article states these theorists argue 'the current era of industrial society is coming to an end, and services and information are becoming more important than industry and goods.'",
+        "Incorrect. The article states the opposite: services and information are becoming more important than industry and goods.",
+        "Incorrect. The article says the industrial era is coming to an end, not that the post-industrial era has ended.",
+        "Incorrect. The article describes a shift away from the industrial model, implying a difference."
       ]
     },
     {
       "id": 7,
-      "question": "Which invention is dated to approximately 1450â1455 AD in the article?",
+      "question": "How does the article's timeline of technological developments, from Lomekwi stone technology to the atomic bomb, illustrate the concept of technological acceleration?",
       "options": [
-        "Printing press",
-        "Steam engine",
-        "Atomic bomb",
-        "Cast iron"
+        "The intervals between major new technologies become progressively shorter over time, showing a quickening pace of change.",
+        "The intervals between major new technologies remain constant, showing a steady pace of change.",
+        "The intervals between major new technologies become progressively longer, showing a slowing pace of change.",
+        "The timeline shows no clear pattern in the pace of technological change."
       ],
       "answer_explanations": [
-        "Correct. The article lists the printing press as invented between 1450â1455 AD.",
-        "Incorrect. The steam engine is dated to 1712 AD.",
-        "Incorrect. The atomic bomb is dated to 1945 AD.",
-        "Incorrect. Cast iron is dated to around 400 BC."
+        "Correct. The timeline shows early developments like stone tools (3.3 million years ago) and fire (1.5 million years ago) are separated by vast periods, while later developments like the printing press (1450 AD), steam engine (1712 AD), and atomic bomb (1945 AD) occur in increasingly rapid succession, implying acceleration.",
+        "Incorrect. The timeline clearly shows intervals shrinking dramatically, not remaining constant.",
+        "Incorrect. The timeline clearly shows intervals shrinking, not growing longer.",
+        "Incorrect. The timeline shows a clear pattern of accelerating change."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what major shift characterizes the post-industrial stage?",
+      "question": "What does the article's description of the Oldowan industry and the process of making stone tools imply about early human technological capability?",
       "options": [
-        "Services and information become more important than industry and goods.",
-        "Manufacturing becomes the dominant sector.",
-        "Agricultural output surpasses industrial production.",
-        "Energy consumption declines sharply."
+        "Early humans had the cognitive and physical skills to deliberately shape materials for specific purposes, like butchering animals.",
+        "Early humans only used naturally occurring sharp objects without any modification.",
+        "Early humans had no understanding of material properties like flaking.",
+        "Early humans developed agriculture before they developed stone tools."
       ],
       "answer_explanations": [
-        "Correct. The article describes post-industrial societies as those where services and information become more important than industry and goods.",
-        "Incorrect. The shift is away from manufacturing dominance.",
-        "Incorrect. Agriculture is not highlighted as surpassing industry.",
-        "Incorrect. Energy consumption is not described as sharply declining."
+        "Correct. The article describes the Oldowan industry as a method of stone tool making where a core was struck with a hammerstone to produce sharp edges for tools like choppers, implying deliberate shaping for use, such as to butcher dead animals.",
+        "Incorrect. The article describes a process of striking a core to create tools, which is modification, not just natural use.",
+        "Incorrect. The article says cores of hard stone with specific flaking properties were chosen, implying an understanding of material properties.",
+        "Incorrect. The article states the Paleolithic spans up to the development of agriculture, implying agriculture came later."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following technologies is listed as emerging since the 1980s?",
+      "question": "How does the article's mention of 'fictional technology' in relation to post-industrial society and the singularity suggest a connection between these concepts?",
       "options": [
-        "Information technology",
-        "Stone tools",
-        "Wheel",
-        "Bronze"
+        "Extreme visions of post-industrial society in fiction resemble visions of near- and post-singularity societies, suggesting they share imagined characteristics.",
+        "Fictional technology is presented as the main driver of the transition to a post-industrial society.",
+        "The singularity is presented as a purely fictional concept with no relation to real technological trends.",
+        "Post-industrial society and the singularity are described as identical concepts with no differences."
       ],
       "answer_explanations": [
-        "Correct. The article mentions information technology as emerging since the 1980s.",
-        "Incorrect. Stone tools are ancient technologies.",
-        "Incorrect. The wheel dates to around 4000 BC.",
-        "Incorrect. Bronze dates to around 2500 BC."
+        "Correct. The article states 'Some extreme visions of post-industrial society, especially in fiction, are strikingly similar to visions of near- and post-singularity societies,' implying a resemblance in imagined characteristics.",
+        "Incorrect. The article does not say fictional technology drives the transition; it only notes a similarity in visions.",
+        "Incorrect. The article does not dismiss the singularity as purely fictional; it compares it to visions of post-industrial society.",
+        "Incorrect. The article says they are 'strikingly similar,' not identical."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about the relationship between technology and cultural traditions?",
+      "question": "What is the primary implication of the article's statement that technological change 'is a force for economic growth and a means of developing and projecting economic, political, and military power and wealth'?",
       "options": [
-        "Technological change affects, and is affected by, a society's cultural traditions.",
-        "Cultural traditions have no impact on technological change.",
-        "Technology always overrides cultural traditions.",
-        "Cultural traditions are solely responsible for technological innovation."
+        "Technology is a strategic asset that can be used to enhance a society's power and wealth in multiple domains.",
+        "Technology is only important for economic growth, not for political or military power.",
+        "Technological change is a neutral force that does not affect a society's standing in the world.",
+        "Technological change is primarily a cultural phenomenon with no economic or political consequences."
       ],
       "answer_explanations": [
-        "Correct. The article states that technological change affects, and is affected by, a society's cultural traditions.",
-        "Incorrect. The article describes a bidirectional relationship, not a one-way effect.",
-        "Incorrect. Technology does not always override culture; they interact.",
-        "Incorrect. The article does not claim culture alone drives innovation."
+        "Correct. The article explicitly lists economic, political, and military power and wealth as things technology helps develop and project, implying it is a strategic asset.",
+        "Incorrect. The article explicitly mentions political and military power, not just economic growth.",
+        "Incorrect. The article says technology is a force for growth and a means of developing power, implying it is not neutral.",
+        "Incorrect. The article explicitly ties technology to economic and political consequences, not just cultural ones."
       ]
     }
   ]

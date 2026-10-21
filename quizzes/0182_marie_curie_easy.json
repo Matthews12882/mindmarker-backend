@@ -8,143 +8,143 @@
       "question": "What was Marie Curie's birth name?",
       "options": [
         "Maria Salomea SkÅodowska Curie",
-        "Marie SkÅodowska",
-        "Maria Curie",
-        "BronisÅawa SkÅodowska"
+        "Marie Curie",
+        "Maria SkÅodowska",
+        "BronisÅawa DÅuska"
       ],
       "answer_explanations": [
-        "Correct. The article states her full name as Maria Salomea SkÅodowska Curie.",
-        "Incorrect. Marie SkÅodowska omits her full birth name and married surname.",
-        "Incorrect. Marie Curie is her better-known name, not her full birth name.",
-        "Incorrect. BronisÅawa SkÅodowska was her sister, not Marie herself."
+        "Correct. The article states her birth name as 'Maria Salomea SkÅodowska Curie'.",
+        "Incorrect. 'Marie Curie' is her better-known name, not her full birth name.",
+        "Incorrect. 'Maria SkÅodowska' is part of her birth name but not the full version.",
+        "Incorrect. BronisÅawa is her elder sister, not her birth name."
       ]
     },
     {
       "id": 2,
-      "question": "In what year was Marie Curie born?",
+      "question": "What was Marie Curie's nationality before she became French?",
       "options": [
-        "1867",
-        "1865",
-        "1869",
-        "1871"
+        "Polish",
+        "Russian",
+        "German",
+        "British"
       ],
       "answer_explanations": [
-        "Correct. The article states she was born on 7 November 1867.",
-        "Incorrect. 1865 is not her birth year according to the article.",
-        "Incorrect. 1869 is not her birth year according to the article.",
-        "Incorrect. 1871 is not her birth year according to the article."
+        "Correct. The article describes her as 'Polish and naturalised-French'.",
+        "Incorrect. She was born in Warsaw, which was part of the Russian Empire, but her nationality was Polish.",
+        "Incorrect. There is no mention of German nationality.",
+        "Incorrect. There is no mention of British nationality."
       ]
     },
     {
       "id": 3,
-      "question": "Which Nobel Prize did Marie Curie share with her husband Pierre in 1903?",
+      "question": "With whom did Marie Curie share the 1903 Nobel Prize in Physics?",
       "options": [
-        "Nobel Prize in Physics",
-        "Nobel Prize in Chemistry",
-        "Nobel Prize in Medicine",
-        "Nobel Peace Prize"
+        "Pierre Curie",
+        "Henri Becquerel",
+        "Her sister BronisÅawa",
+        "Ãve Curie"
       ],
       "answer_explanations": [
-        "Correct. The article states she shared the 1903 Nobel Prize in Physics with Pierre Curie.",
-        "Incorrect. She won the Nobel Prize in Chemistry in 1911, not 1903.",
-        "Incorrect. The article does not mention a Nobel Prize in Medicine for her.",
-        "Incorrect. The article does not mention a Nobel Peace Prize for her."
+        "Correct. The article says she shared the 1903 Nobel Prize in Physics with her husband, Pierre Curie.",
+        "Incorrect. Henri Becquerel is mentioned as the professor whose discoveries were studied, but he is not stated as sharing the prize.",
+        "Incorrect. Her sister is not mentioned in connection with the prize.",
+        "Incorrect. Ãve Curie is her daughter, not mentioned in connection with the prize."
       ]
     },
     {
       "id": 4,
-      "question": "For what achievement did Marie Curie win the 1911 Nobel Prize in Chemistry?",
+      "question": "In which year did Marie Curie win the Nobel Prize in Chemistry?",
       "options": [
-        "The discovery of the elements radium and polonium",
-        "Her work on X-ray technology",
-        "Her research on magnetism",
-        "Her studies of uranium compounds"
+        "1911",
+        "1903",
+        "1906",
+        "1934"
       ],
       "answer_explanations": [
-        "Correct. The article states she won the 1911 Nobel Prize in Chemistry for the discovery of radium and polonium.",
-        "Incorrect. Her mobile radiography units were developed during World War I, not the basis for the 1911 prize.",
-        "Incorrect. Her work on magnetism was Pierre Curie's research, not the basis for her chemistry prize.",
-        "Incorrect. While she studied uranium compounds, the 1911 prize specifically cited the discovery of radium and polonium."
+        "Correct. The article states she won the 1911 Nobel Prize in Chemistry.",
+        "Incorrect. 1903 is the year she won the Nobel Prize in Physics.",
+        "Incorrect. 1906 is the year she became a professor at the University of Paris.",
+        "Incorrect. 1934 is the year she died."
       ]
     },
     {
       "id": 5,
-      "question": "What distinction did Marie Curie hold as the first woman to win a Nobel Prize?",
+      "question": "What did Marie Curie discover that earned her the 1911 Nobel Prize?",
       "options": [
-        "She was the first woman to win a Nobel Prize",
-        "She was the first person to win two Nobel Prizes",
-        "She was the only person to win in two scientific fields",
-        "She was the first married couple to win a Nobel Prize"
+        "Radium and polonium",
+        "Radioactivity",
+        "X-rays",
+        "Curium"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states she was the first woman to win a Nobel Prize.",
-        "Incorrect. Being the first person to win twice is a separate distinction mentioned in the article.",
-        "Incorrect. Being the only person to win in two scientific fields is another separate distinction.",
-        "Incorrect. She and Pierre were the first married couple to win, but that is not the same as being the first woman winner."
+        "Correct. The article says the prize was for 'the discovery of the elements radium and polonium'.",
+        "Incorrect. Radioactivity is a term she coined, but the prize was for the elements.",
+        "Incorrect. X-rays are not mentioned as her discovery.",
+        "Incorrect. Curium is named after her, not discovered by her."
       ]
     },
     {
       "id": 6,
-      "question": "In what year did Marie Curie become the first woman professor at the University of Paris?",
+      "question": "What was Marie Curie the first woman to do?",
       "options": [
-        "1906",
-        "1903",
-        "1911",
-        "1920"
+        "Win a Nobel Prize",
+        "Become a professor at the University of Paris",
+        "Win a Nobel Prize twice",
+        "All of the above"
       ],
       "answer_explanations": [
-        "Correct. The article states she became the first woman professor at the University of Paris in 1906.",
-        "Incorrect. 1903 was the year she shared the Nobel Prize in Physics.",
-        "Incorrect. 1911 was the year she won the Nobel Prize in Chemistry.",
-        "Incorrect. 1920 was the year she founded the Curie Institute in Paris."
+        "Correct. The article states she was the first woman to win a Nobel Prize, the first person to win twice, and the first woman professor at the University of Paris, so all are true.",
+        "Incorrect. While she was the first woman to become a professor, she was also the first woman to win a Nobel Prize.",
+        "Incorrect. She was the first person to win twice, but also the first woman to win.",
+        "Incorrect. The correct answer is 'All of the above' because all these firsts are mentioned."
       ]
     },
     {
       "id": 7,
       "question": "Where was Marie Curie born?",
       "options": [
-        "Warsaw, Russian Empire",
-        "Paris, France",
-        "KrakÃ³w, Poland",
-        "Sancellemoz, France"
+        "Warsaw",
+        "Paris",
+        "Passy",
+        "Sancellemoz"
       ],
       "answer_explanations": [
         "Correct. The article states she was born in Warsaw, Russian Empire.",
-        "Incorrect. She moved to Paris later for her studies and work.",
-        "Incorrect. She was denied a place at KrakÃ³w University but was not born there.",
-        "Incorrect. Sancellemoz is where she died, not where she was born."
+        "Incorrect. Paris is where she studied and worked, not where she was born.",
+        "Incorrect. Passy is where she died.",
+        "Incorrect. Sancellemoz is the sanatorium where she died."
       ]
     },
     {
       "id": 8,
-      "question": "What did Marie Curie name the first chemical element she and Pierre discovered, after her native country?",
+      "question": "What term did Marie Curie coin?",
       "options": [
-        "Polonium",
+        "Radioactivity",
         "Radium",
-        "Curium",
-        "Thorium"
+        "Polonium",
+        "Neoplasm"
       ],
       "answer_explanations": [
-        "Correct. The article states she named polonium after her native country, Poland.",
-        "Incorrect. Radium was the other element discovered, not named after Poland.",
-        "Incorrect. Curium is a synthetic element named in her honour, not by her.",
-        "Incorrect. Thorium was found to be radioactive by her, but not named after Poland."
+        "Correct. The article says she conducted pioneering research on radioactivityâa term she coined.",
+        "Incorrect. Radium is an element she discovered, not a term she coined.",
+        "Incorrect. Polonium is an element she discovered, not a term she coined.",
+        "Incorrect. Neoplasm is a medical term, not coined by her."
       ]
     },
     {
       "id": 9,
-      "question": "What did Marie Curie develop during the First World War to provide X-ray services to field hospitals?",
+      "question": "What did Marie Curie name the first chemical element she discovered?",
       "options": [
-        "Mobile radiography units",
-        "The Curie Institute",
-        "Radioactive isotopes for neoplasms",
-        "The electrometer"
+        "Polonium",
+        "Radium",
+        "Curium",
+        "Uranium"
       ],
       "answer_explanations": [
-        "Correct. The article states she developed mobile radiography units during the First World War.",
-        "Incorrect. The Curie Institute was founded in 1920 and 1932, not during the war.",
-        "Incorrect. Studies into neoplasms were conducted under her direction, but not specifically as X-ray units for field hospitals.",
-        "Incorrect. The electrometer was developed fifteen years earlier by Pierre and his brother."
+        "Correct. The article says she named the first chemical element she discovered 'polonium'.",
+        "Incorrect. Radium is another element she discovered, but not the first.",
+        "Incorrect. Curium is named in her honour, not discovered by her.",
+        "Incorrect. Uranium is not mentioned."
       ]
     },
     {
@@ -153,14 +153,14 @@
       "options": [
         "1934",
         "1906",
-        "1911",
-        "1920"
+        "1920",
+        "1932"
       ],
       "answer_explanations": [
         "Correct. The article states she died in 1934, aged 66.",
-        "Incorrect. 1906 was the year Pierre died and she became a professor.",
-        "Incorrect. 1911 was the year she won the Nobel Prize in Chemistry.",
-        "Incorrect. 1920 was the year she founded the Curie Institute in Paris."
+        "Incorrect. 1906 is the year Pierre died.",
+        "Incorrect. 1920 is the year she founded the Curie Institute in Paris.",
+        "Incorrect. 1932 is the year she founded the Curie Institute in Warsaw."
       ]
     }
   ]

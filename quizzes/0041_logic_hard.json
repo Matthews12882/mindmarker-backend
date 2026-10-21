@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what distinguishes a deductively valid argument from an ampliative argument?",
+      "question": "Why does the article suggest that formal logic cannot directly study arguments in natural language?",
       "options": [
-        "If the premises of a deductively valid argument are true, the conclusion must also be true, whereas ampliative arguments arrive at genuinely new information not found in the premises.",
-        "Deductively valid arguments are expressed in natural language, while ampliative arguments use formal language.",
-        "Ampliative arguments guarantee the truth of their conclusion if their premises are true, while deductively valid arguments do not.",
-        "Deductively valid arguments are studied only by informal logic, while ampliative arguments are studied only by formal logic."
+        "Because formal logic relies on formal languages with exact syntactic rules, so natural language arguments must first be translated into a formal language before their validity can be assessed.",
+        "Because natural language arguments are always invalid, so formal logic has no interest in them.",
+        "Because formal logic only studies arguments that are expressed in mathematical symbols, and natural language is not mathematical.",
+        "Because formal logic is only concerned with the content of arguments, which natural language cannot express."
       ],
       "answer_explanations": [
-        "Correct. The article states that deductive arguments have the strongest form of support: if their premises are true then their conclusion must also be true, while ampliative arguments arrive at genuinely new information not found in the premises.",
-        "Incorrect. The article associates formal logic with formal language and informal logic with natural language, not deductive validity with natural language.",
-        "Incorrect. This reverses the relationship; the article says deductively valid arguments ensure the conclusion's truth if premises are true, not ampliative arguments.",
-        "Incorrect. The article states that formal logic studies deductively valid arguments, and informal logic can also study non-deductive arguments, so this assignment is wrong."
+        "Correct. The article states that formal logic uses formal languages with a very limited vocabulary and exact syntactic rules, and because of this reliance, natural language arguments cannot be studied directly; they need to be translated into formal language before their validity can be assessed.",
+        "Incorrect. The article does not claim natural language arguments are always invalid; it says they need translation before formal assessment, not that they are inherently invalid.",
+        "Incorrect. The article does not restrict formal logic to mathematical symbols; it says formal logic uses formal languages, which can be used for any argument after translation.",
+        "Incorrect. The article says formal logic is topic-neutral and concerned with abstract structure, not content, so this option misrepresents its focus."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following best describes the relationship between formal logic and natural language arguments?",
+      "question": "What does the article imply about the relationship between deductive validity and logical truth?",
       "options": [
-        "Natural language arguments must be translated into formal language before their validity can be assessed by formal logic.",
-        "Formal logic directly studies natural language arguments without any translation.",
-        "Informal logic translates natural language arguments into formal language, while formal logic studies them in their original form.",
-        "Formal logic ignores natural language arguments entirely because they are too ambiguous."
+        "They are closely related but not identical, since a deductively valid inference from p to q corresponds to the logical truth of 'if p then q'.",
+        "They are exactly the same concept, so every logical truth is a deductively valid argument.",
+        "They are completely unrelated, since validity concerns arguments and logical truth concerns propositions with no connection.",
+        "They are opposites, because valid arguments are about content while logical truths are about structure."
       ],
       "answer_explanations": [
-        "Correct. The article states that because formal logic relies on formal language, natural language arguments cannot be studied directly and need to be translated into formal language before their validity can be assessed.",
-        "Incorrect. The article explicitly says natural language arguments cannot be studied directly by formal logic.",
-        "Incorrect. This reverses the roles; the article says informal logic investigates natural language arguments in their original form, while formal logic translates them.",
-        "Incorrect. The article does not say formal logic ignores natural language arguments; it says they must be translated first."
+        "Correct. The article explicitly says the two definitions of formal logic are not identical but closely related, giving the example that if the inference from p to q is deductively valid then the claim 'if p then q' is a logical truth.",
+        "Incorrect. The article states they are not identical, so this option contradicts the text.",
+        "Incorrect. The article says they are closely related, not unrelated, and provides a specific connection between them.",
+        "Incorrect. The article does not present them as opposites; both concern structure, and the article links them directly."
       ]
     },
     {
       "id": 3,
-      "question": "A researcher is evaluating an argument that moves from many observations of black ravens to the conclusion that all ravens are black. Based on the article, how should this argument be classified?",
+      "question": "Why does the article suggest that the propositional theory of premises and conclusions faces criticism from philosophical naturalists?",
       "options": [
-        "An inductive argument, because it is a statistical generalization that arrives at new information not found in the premises.",
-        "A deductively valid argument, because the conclusion must be true if the premises are true.",
-        "An abductive argument, because it is an inference to the best explanation.",
-        "A logically true proposition, because its truth depends only on logical structure."
+        "Because propositions are usually seen as abstract objects, and philosophical naturalists typically reject the existence of abstract objects.",
+        "Because propositions are concrete linguistic objects like sentences, which naturalists reject as too vague.",
+        "Because propositions are psychological thoughts, which naturalists do not consider real.",
+        "Because propositions are always true or false, and naturalists deny that truth values exist."
       ],
       "answer_explanations": [
-        "Correct. The article identifies inductive arguments as statistical generalizations, such as inferring that all ravens are black based on many individual observations of black ravens, and notes that ampliative arguments arrive at genuinely new information.",
-        "Incorrect. The article states that deductive arguments guarantee the conclusion if premises are true, but the raven example is given as an inductive, ampliative argument.",
-        "Incorrect. The article describes abductive arguments as inferences to the best explanation, such as a doctor diagnosing a disease, not statistical generalizations about ravens.",
-        "Incorrect. The article discusses logical truth as a property of propositions, not as a classification for this type of argument."
+        "Correct. The article states that propositional theories are criticized because they rely on abstract objects, and philosophical naturalists usually reject the existence of abstract objects.",
+        "Incorrect. The article says propositions are abstract objects, not concrete linguistic objects; sentences are the concrete alternative.",
+        "Incorrect. The article mentions psychologism as a separate view, not the propositional theory, and naturalists' objection is specifically about abstract objects.",
+        "Incorrect. The article does not say naturalists deny truth values; it focuses on the rejection of abstract objects."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is an example of a logically true proposition as described in the article?",
+      "question": "What does the article imply about the difference between formal and informal logic in terms of the language of arguments?",
       "options": [
-        "Either it is raining, or it is not.",
-        "Mars is red.",
-        "All ravens are black.",
-        "The patient has a certain disease."
+        "Informal logic studies arguments in their original natural language form, while formal logic studies them only after translation into a formal language.",
+        "Formal logic studies natural language arguments directly, while informal logic studies only translated arguments.",
+        "Both formal and informal logic study arguments in formal language, but informal logic adds context.",
+        "Informal logic rejects natural language arguments and only uses formal symbols."
       ],
       "answer_explanations": [
-        "Correct. The article gives the claim \"either it is raining, or it is not\" as an example of a proposition that is true in all possible worlds and under all interpretations of its non-logical terms.",
-        "Incorrect. The article uses \"Mars is red\" as an example of a simple proposition whose truth depends on the meanings of its parts, not as a logically true proposition.",
-        "Incorrect. The article presents \"all ravens are black\" as the conclusion of an inductive argument, not as a logically true proposition.",
-        "Incorrect. The article mentions a doctor concluding a patient has a disease as an example of abductive reasoning, not logical truth."
+        "Correct. The article says that on the literal approach, informal logic investigates arguments in their original natural language form, while formal logic can only examine them indirectly by translating them first into a formal language.",
+        "Incorrect. The article says the opposite: formal logic requires translation, and informal logic studies the original form.",
+        "Incorrect. The article does not say informal logic uses formal language; it says informal logic studies natural language arguments.",
+        "Incorrect. The article explicitly says informal logic's main focus is everyday discourse in natural language, not formal symbols."
       ]
     },
     {
       "id": 5,
-      "question": "What is modus ponens, according to the article?",
+      "question": "Why does the article suggest that the sentence-based approach to premises and conclusions has its own problems?",
       "options": [
-        "A rule of inference where all arguments of the form \"p, if p then q, therefore q\" are valid.",
-        "A type of informal fallacy involving ambiguous language.",
-        "A logical truth that holds in all possible worlds.",
-        "A method for translating natural language into formal language."
+        "Because sentences are often context-dependent and ambiguous, so an argument's validity would depend on context and interpretation rather than just its parts.",
+        "Because sentences are abstract objects that cannot be written down or displayed.",
+        "Because sentences are always false, making validity impossible to assess.",
+        "Because sentences have no internal structure, so they cannot express complex propositions."
       ],
       "answer_explanations": [
-        "Correct. The article defines modus ponens as a rule of inference according to which all arguments of the form \"(1) p, (2) if p then q, (3) therefore q\" are valid, independent of what p and q stand for.",
-        "Incorrect. The article discusses informal fallacies separately and does not identify modus ponens as one.",
-        "Incorrect. The article distinguishes rules of inference like modus ponens from logical truths, though it notes they are related.",
-        "Incorrect. The article describes translation into formal language as a separate process, not as modus ponens."
+        "Correct. The article states that the sentence approach comes with new problems because sentences are often context-dependent and ambiguous, meaning an argument's validity would not only depend on its parts but also on its context and interpretation.",
+        "Incorrect. The article says sentences are concrete linguistic objects, like symbols on a page, not abstract objects.",
+        "Incorrect. The article does not claim sentences are always false; it notes they are context-dependent and ambiguous.",
+        "Incorrect. The article says premises and conclusions have an internal structure; it does not say sentences lack structure."
       ]
     },
     {
       "id": 6,
-      "question": "How does the article differentiate classical logic from deviant logics?",
+      "question": "What does the article imply about the relationship between ampliative arguments and deductive arguments?",
       "options": [
-        "Classical logic accepts basic intuitions that deviant logics reject, and deviant logics provide alternative explanations of the basic laws of logic.",
-        "Classical logic is only used in mathematics, while deviant logics are used in philosophy.",
-        "Deviant logics include propositional and first-order logic, while classical logic does not.",
-        "Classical logic studies natural language arguments, while deviant logics use formal language exclusively."
+        "Ampliative arguments arrive at genuinely new information not found in the premises, whereas deductive arguments have the strongest form of support where true premises guarantee the conclusion.",
+        "Ampliative arguments are a type of deductive argument that also guarantees their conclusions.",
+        "Deductive arguments are ampliative because they always introduce new information.",
+        "Ampliative arguments are always incorrect, while deductive arguments are always correct."
       ],
       "answer_explanations": [
-        "Correct. The article states that deviant logics reject certain classical intuitions and provide alternative explanations of the basic laws of logic, while extended logics accept classical intuitions.",
-        "Incorrect. The article does not restrict classical logic to mathematics or assign deviant logics exclusively to philosophy.",
-        "Incorrect. The article says classical logic consists of propositional and first-order logic, not deviant logics.",
-        "Incorrect. The article associates formal logic with formal language and informal logic with natural language, not classical versus deviant logics in this way."
+        "Correct. The article contrasts deductive arguments, where true premises ensure the conclusion, with ampliative arguments, which arrive at genuinely new information not found in the premises.",
+        "Incorrect. The article presents ampliative and deductive as distinct categories, not subtypes of each other.",
+        "Incorrect. The article says deductive arguments do not arrive at new information in the same way; ampliative arguments are the ones that do.",
+        "Incorrect. The article does not say ampliative arguments are always incorrect; it says they fall short of deductive standards but are common in everyday discourse and sciences."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is a key difficulty in studying natural language arguments within informal logic?",
+      "question": "Why does the article suggest that the definition of informal logic as the study of informal fallacies is only one of several approaches?",
       "options": [
-        "Natural language expressions are often ambiguous, vague, and context-dependent.",
-        "Natural language arguments cannot be translated into formal language.",
-        "Natural language arguments are always deductively valid.",
-        "Natural language arguments lack premises and conclusions."
+        "Because there is no general agreement on the precise definition of informal logic, and multiple characterizations have been suggested, including ones based on language, non-deductive arguments, and fallacies.",
+        "Because informal logic is actually identical to formal logic, so no separate definition is needed.",
+        "Because informal logic only studies deductive arguments, so fallacies are irrelevant to it.",
+        "Because the study of informal fallacies is the only accepted definition, and other approaches have been rejected."
       ],
       "answer_explanations": [
-        "Correct. The article states that the study of natural language arguments comes with difficulties, such as natural language expressions being often ambiguous, vague, and context-dependent.",
-        "Incorrect. The article says natural language arguments can be translated into formal language for formal logic, so this is not the difficulty described.",
-        "Incorrect. The article does not claim natural language arguments are always deductively valid.",
-        "Incorrect. The article defines arguments as having premises and conclusions, including those in natural language."
+        "Correct. The article states that many characterizations of informal logic have been suggested but there is no general agreement on its precise definition, and it lists several approaches including language-based, non-deductive, and fallacy-based definitions.",
+        "Incorrect. The article distinguishes informal logic from formal logic and does not say they are identical.",
+        "Incorrect. The article says informal logic is associated with non-deductive arguments and fallacies, not deductive arguments exclusively.",
+        "Incorrect. The article presents the fallacy-based definition as one among several, not the only accepted one."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following best characterizes informal logic according to the article?",
+      "question": "What does the article imply about why formal logic is considered topic-neutral?",
       "options": [
-        "It uses non-formal criteria and standards to analyze and assess the correctness of arguments, with a main focus on everyday discourse.",
-        "It replaces concrete expressions with abstract symbols to examine logical form independent of content.",
-        "It studies only deductively valid arguments using formal languages.",
-        "It is identical to formal logic but applies only to natural language."
+        "Because it replaces concrete expressions with abstract symbols to examine the logical form of arguments independent of their concrete content.",
+        "Because it studies only topics related to mathematics and ignores all other subjects.",
+        "Because it focuses on the content of arguments rather than their structure.",
+        "Because it only applies to natural language arguments and not to formal systems."
       ],
       "answer_explanations": [
-        "Correct. The article states that informal logic uses non-formal criteria and standards to analyze and assess the correctness of arguments and that its main focus is on everyday discourse.",
-        "Incorrect. This describes formal logic, which replaces concrete expressions with abstract symbols.",
-        "Incorrect. The article says formal logic studies deductively valid arguments, and informal logic includes non-deductive arguments as well.",
-        "Incorrect. The article treats formal and informal logic as distinct approaches, not as identical."
+        "Correct. The article says formal logic is topic-neutral since it is only concerned with the abstract structure of arguments and not with their concrete content, using abstract symbols to examine logical form.",
+        "Incorrect. The article does not limit formal logic to mathematics; it says formal logic is widely used in mathematical logic but is topic-neutral.",
+        "Incorrect. The article says formal logic is concerned with abstract structure, not content, so this option reverses the idea.",
+        "Incorrect. The article says formal logic uses formal languages and studies translated arguments, not natural language directly."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is the relationship between a valid inference and a logical truth?",
+      "question": "Why does the article suggest that the example of the false dilemma fallacy illustrates an error of content?",
       "options": [
-        "If the inference from p to q is deductively valid, then the claim \"if p then q\" is a logical truth.",
-        "Logical truths are only valid when expressed in natural language.",
-        "A valid inference guarantees that its conclusion is false.",
-        "Logical truths depend on the specific meanings of non-logical terms."
+        "Because the fallacy excludes viable options, which is an error in the content of the argument rather than in its logical form.",
+        "Because the fallacy has a valid logical form but the conclusion is false due to a factual error.",
+        "Because the fallacy uses ambiguous language that makes the argument unclear.",
+        "Because the fallacy relies on a rule of inference that is not valid in formal logic."
       ],
       "answer_explanations": [
-        "Correct. The article states that if the inference from p to q is deductively valid then the claim \"if p then q\" is a logical truth.",
-        "Incorrect. The article says logical truths are true in all possible worlds and under all interpretations of non-logical terms, not only in natural language.",
-        "Incorrect. The article defines valid arguments as ones where true premises ensure a true conclusion, not a false one.",
-        "Incorrect. The article says logical truths are true independent of the specific meanings of non-logical terms."
+        "Correct. The article states that a false dilemma involves an error of content by excluding viable options, and gives the example 'you are either with us or against us; you are not with us; therefore, you are against us'.",
+        "Incorrect. The article says the error is in content, not that the logical form is valid; it specifically identifies the problem as excluding options.",
+        "Incorrect. The article does not mention ambiguity in this context; it focuses on the exclusion of viable options as a content error.",
+        "Incorrect. The article says informal fallacies have errors in content and context, not that they rely on invalid rules of inference in formal logic."
       ]
     },
     {
       "id": 10,
-      "question": "A logician is examining an argument whose conclusion goes beyond the information contained in its premises, making the conclusion probable but not certain. Based on the article, which type of argument is this?",
+      "question": "What does the article imply about the relationship between the two definitions of formal logic as the science of valid inferences and as the study of logical truths?",
       "options": [
-        "An ampliative argument.",
-        "A deductively valid argument.",
-        "A logically true proposition.",
-        "A formal fallacy."
+        "They are closely related but not identical, since a valid inference corresponds to a logical truth of the form 'if p then q'.",
+        "They are completely independent, with no connection between valid inferences and logical truths.",
+        "They are the same definition, so every logical truth is also a valid inference.",
+        "They are contradictory, because valid inferences are about content while logical truths are about structure."
       ],
       "answer_explanations": [
-        "Correct. The article defines ampliative arguments as those that arrive at genuinely new information not found in the premises, and notes that non-deductive arguments make their conclusion probable but do not ensure it is true.",
-        "Incorrect. The article states that deductively valid arguments guarantee the conclusion if premises are true, so the conclusion does not go beyond the premises.",
-        "Incorrect. The article discusses logical truth as a property of propositions, not as a type of argument with probable conclusions.",
-        "Incorrect. The article discusses fallacies as incorrect arguments, but does not classify probable but uncertain conclusions as formal fallacies."
+        "Correct. The article explicitly says these two definitions are not identical but closely related, and it provides the example that if the inference from p to q is deductively valid then the claim 'if p then q' is a logical truth.",
+        "Incorrect. The article says they are closely related, not independent, and gives a direct connection.",
+        "Incorrect. The article says they are not identical, so this option contradicts the text.",
+        "Incorrect. The article does not present them as contradictory; both concern logical structure, and the article links them."
       ]
     }
   ]

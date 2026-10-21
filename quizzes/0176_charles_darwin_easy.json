@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Charles Darwin's date of birth?",
+      "question": "What was Charles Darwin's full name?",
       "options": [
-        "12 February 1809",
-        "19 April 1882",
-        "12 February 1819",
-        "19 April 1809"
+        "Charles Robert Darwin",
+        "Charles Richard Darwin",
+        "Charles Roger Darwin",
+        "Charles Raymond Darwin"
       ],
       "answer_explanations": [
-        "Correct. The article states Darwin was born on 12 February 1809.",
-        "Incorrect. 19 April 1882 is Darwin's date of death, not his birth date.",
-        "Incorrect. The article gives Darwin's birth year as 1809, not 1819.",
-        "Incorrect. 19 April 1882 is Darwin's date of death, not his birth date."
+        "Correct. The article states his full name as 'Charles Robert Darwin'.",
+        "Incorrect. The article gives his middle name as Robert, not Richard.",
+        "Incorrect. The article gives his middle name as Robert, not Roger.",
+        "Incorrect. The article gives his middle name as Robert, not Raymond."
       ]
     },
     {
       "id": 2,
-      "question": "Which ship did Darwin sail on during his five-year voyage from 1831 to 1836?",
+      "question": "When was Charles Darwin born?",
       "options": [
-        "HMS Beagle",
-        "HMS Victory",
-        "HMS Bounty",
-        "HMS Challenger"
+        "12 February 1809",
+        "12 February 1808",
+        "19 April 1809",
+        "19 April 1882"
       ],
       "answer_explanations": [
-        "Correct. The article describes Darwin's five-year voyage on HMS Beagle from 1831 to 1836.",
-        "Incorrect. The article does not mention HMS Victory in connection with Darwin's voyage.",
-        "Incorrect. The article does not mention HMS Bounty in connection with Darwin's voyage.",
-        "Incorrect. The article does not mention HMS Challenger in connection with Darwin's voyage."
+        "Correct. The article says he was born on '12 February 1809'.",
+        "Incorrect. The article gives the birth date as 12 February 1809, not 1808.",
+        "Incorrect. 19 April is his death date, not his birth date.",
+        "Incorrect. 19 April 1882 is his death date, not his birth date."
       ]
     },
     {
       "id": 3,
-      "question": "What process did Darwin propose as the mechanism for evolution's branching pattern?",
+      "question": "What was Charles Darwin's nationality?",
       "options": [
-        "natural selection",
-        "artificial selection",
-        "sexual selection",
-        "uniformitarianism"
+        "English",
+        "Scottish",
+        "Welsh",
+        "Irish"
       ],
       "answer_explanations": [
-        "Correct. The article states Darwin proposed natural selection as the process behind evolution's branching pattern.",
-        "Incorrect. Artificial selection is mentioned as a comparison, not as Darwin's proposed mechanism for evolution's branching pattern.",
-        "Incorrect. Sexual selection is discussed in relation to The Descent of Man, not as the mechanism for evolution's branching pattern.",
-        "Incorrect. Uniformitarianism refers to Charles Lyell's concept of gradual geological change, not Darwin's proposed evolutionary mechanism."
+        "Correct. The article describes him as 'an English naturalist'.",
+        "Incorrect. The article states he was English, not Scottish.",
+        "Incorrect. The article states he was English, not Welsh.",
+        "Incorrect. The article states he was English, not Irish."
       ]
     },
     {
       "id": 4,
-      "question": "In what year was On the Origin of Species published?",
+      "question": "Which of the following fields is NOT mentioned as one of Darwin's professions?",
       "options": [
-        "1859",
-        "1858",
-        "1871",
-        "1881"
+        "Chemist",
+        "Naturalist",
+        "Geologist",
+        "Biologist"
       ],
       "answer_explanations": [
-        "Correct. The article states Darwin published On the Origin of Species in 1859.",
-        "Incorrect. 1858 is when Wallace sent Darwin his essay and their joint theories were submitted, not when On the Origin of Species was published.",
-        "Incorrect. 1871 is the publication year of The Descent of Man, not On the Origin of Species.",
-        "Incorrect. 1881 is the publication year of The Formation of Vegetable Mould, Darwin's final book."
+        "Correct. The article lists him as a naturalist, geologist, and biologist, but not a chemist.",
+        "Incorrect. The article calls him a naturalist.",
+        "Incorrect. The article calls him a geologist.",
+        "Incorrect. The article calls him a biologist."
       ]
     },
     {
       "id": 5,
-      "question": "Where was Charles Darwin buried?",
+      "question": "What process did Darwin propose that results from the struggle for existence?",
       "options": [
-        "Westminster Abbey",
-        "St Chad's Church, Shrewsbury",
-        "Christ's College, Cambridge",
-        "The Mount, Shrewsbury"
+        "Natural selection",
+        "Artificial selection",
+        "Selective breeding",
+        "Common descent"
       ],
       "answer_explanations": [
-        "Correct. The article states Darwin was honoured by burial in Westminster Abbey.",
-        "Incorrect. St Chad's Church, Shrewsbury is where Darwin was baptised, not where he was buried.",
-        "Incorrect. Christ's College, Cambridge is where Darwin studied, not where he was buried.",
-        "Incorrect. The Mount, Shrewsbury is Darwin's family home and birthplace, not his burial place."
+        "Correct. The article says he proposed that the branching pattern of evolution resulted from 'natural selection'.",
+        "Incorrect. Artificial selection is mentioned as a comparison, not the process he proposed.",
+        "Incorrect. Selective breeding is mentioned as a comparison, not the process he proposed.",
+        "Incorrect. Common descent is the proposition that all species descended from a common ancestor, not the process."
       ]
     },
     {
       "id": 6,
-      "question": "What subject did Darwin study at the University of Edinburgh?",
+      "question": "With whom did Darwin jointly present his theory?",
       "options": [
-        "medicine",
-        "natural science",
-        "geology",
-        "theology"
+        "Alfred Russel Wallace",
+        "Robert Edmond Grant",
+        "Charles Lyell",
+        "Christ's College"
       ],
       "answer_explanations": [
-        "Correct. The article states Darwin neglected his medical education at the University of Edinburgh.",
-        "Incorrect. Darwin studied natural science at Cambridge, not at Edinburgh.",
-        "Incorrect. Darwin studied geology during his voyage and at Cambridge, not as his subject at Edinburgh.",
-        "Incorrect. Darwin studied at Cambridge with the intention of becoming a parson, but his subject at Edinburgh was medicine."
+        "Correct. The article says 'In a joint presentation with Alfred Russel Wallace'.",
+        "Incorrect. Robert Edmond Grant is mentioned as someone Darwin helped, not as a co-presenter.",
+        "Incorrect. Charles Lyell is mentioned for his geological concept, not as a co-presenter.",
+        "Incorrect. Christ's College is a university, not a person."
       ]
     },
     {
       "id": 7,
-      "question": "What was Darwin's first scientific work?",
+      "question": "What did Darwin propose about all species?",
       "options": [
-        "The Structure and Distribution of Coral Reefs",
-        "On the Origin of Species",
-        "The Voyage of the Beagle",
-        "The Descent of Man"
+        "They have descended from a common ancestor",
+        "They were created separately",
+        "They are unchanged since creation",
+        "They evolved from monkeys"
       ],
       "answer_explanations": [
-        "Correct. The article identifies The Structure and Distribution of Coral Reefs (1842) as Darwin's first scientific work.",
-        "Incorrect. On the Origin of Species was published in 1859 and was not Darwin's first scientific work.",
-        "Incorrect. The Voyage of the Beagle (1839) is described as Darwin's travel journal, not his first scientific work.",
-        "Incorrect. The Descent of Man was published in 1871 and was not Darwin's first scientific work."
+        "Correct. The article states his proposition 'that all species have descended from a common ancestor'.",
+        "Incorrect. The article says species descended from a common ancestor, not that they were created separately.",
+        "Incorrect. The article says species descended from a common ancestor, not that they are unchanged.",
+        "Incorrect. The article does not mention monkeys in this context."
       ]
     },
     {
       "id": 8,
-      "question": "Who sent Darwin an essay in 1858 outlining the same idea of natural selection?",
+      "question": "How is Darwin described in terms of influence?",
       "options": [
-        "Alfred Russel Wallace",
-        "Charles Lyell",
-        "Robert FitzRoy",
-        "John Stevens Henslow"
+        "One of the most influential figures in human history",
+        "A minor figure in science",
+        "An influential figure only in England",
+        "A controversial figure with little influence"
       ],
       "answer_explanations": [
-        "Correct. The article states that Wallace sent Darwin an essay outlining the same idea in 1858.",
-        "Incorrect. Charles Lyell is mentioned for his concept of gradual geological change, not for sending Darwin an essay on natural selection.",
-        "Incorrect. Robert FitzRoy was the captain of HMS Beagle, not the person who sent Darwin an essay on natural selection.",
-        "Incorrect. John Stevens Henslow was a botany professor and Darwin's friend, not the person who sent Darwin an essay on natural selection."
+        "Correct. The article says he 'has been described as one of the most influential figures in human history'.",
+        "Incorrect. The article describes him as one of the most influential, not minor.",
+        "Incorrect. The article says influential in human history, not just England.",
+        "Incorrect. The article does not say he was controversial or had little influence."
       ]
     },
     {
       "id": 9,
-      "question": "Which medal did Darwin win in 1853?",
+      "question": "Where was Darwin honoured by burial?",
       "options": [
-        "Royal Medal",
-        "Nobel Prize",
-        "Copley Medal",
-        "Darwin Medal"
+        "Westminster Abbey",
+        "St Paul's Cathedral",
+        "Canterbury Cathedral",
+        "York Minster"
       ],
       "answer_explanations": [
-        "Correct. The article states Darwin won the Royal Medal in 1853.",
-        "Incorrect. The article does not mention Darwin winning a Nobel Prize.",
-        "Incorrect. The article does not mention Darwin winning the Copley Medal.",
-        "Incorrect. The article does not mention Darwin winning the Darwin Medal."
+        "Correct. The article says he was 'honoured by burial in Westminster Abbey'.",
+        "Incorrect. The article specifies Westminster Abbey, not St Paul's.",
+        "Incorrect. The article specifies Westminster Abbey, not Canterbury.",
+        "Incorrect. The article specifies Westminster Abbey, not York Minster."
       ]
     },
     {
       "id": 10,
-      "question": "What was Darwin's final book?",
+      "question": "What is the fundamental scientific concept that Darwin's proposition is now considered?",
       "options": [
-        "The Formation of Vegetable Mould, through the Actions of Worms",
-        "The Descent of Man",
-        "On the Origin of Species",
-        "The Expression of the Emotions in Man and Animals"
+        "A fundamental scientific concept",
+        "A controversial hypothesis",
+        "A religious belief",
+        "A philosophical idea"
       ],
       "answer_explanations": [
-        "Correct. The article identifies The Formation of Vegetable Mould, through the Actions of Worms (1881) as Darwin's final book.",
-        "Incorrect. The Descent of Man was published in 1871 and was not Darwin's final book.",
-        "Incorrect. On the Origin of Species was published in 1859 and was not Darwin's final book.",
-        "Incorrect. The Expression of the Emotions in Man and Animals was published in 1872 and was not Darwin's final book."
+        "Correct. The article says his proposition 'is now accepted and considered a fundamental scientific concept'.",
+        "Incorrect. The article says it is accepted, not controversial.",
+        "Incorrect. The article says it is a scientific concept, not a religious belief.",
+        "Incorrect. The article says it is a scientific concept, not a philosophical idea."
       ]
     }
   ]

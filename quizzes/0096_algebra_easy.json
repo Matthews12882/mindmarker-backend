@@ -5,22 +5,86 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does algebra introduce that arithmetic does not primarily use?",
+      "question": "What is algebra a branch of?",
       "options": [
-        "Variables",
-        "Only whole numbers",
-        "Only geometry",
-        "Only calculus"
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology"
       ],
       "answer_explanations": [
-        "Correct. The article states that algebra is a generalization of arithmetic that introduces variables.",
-        "Incorrect. The article does not say algebra uses only whole numbers.",
-        "Incorrect. Geometry is mentioned as a related field, not as something algebra introduces instead of arithmetic.",
-        "Incorrect. Calculus is listed as a branch where algebra is relevant, not as something algebra introduces."
+        "Correct. The article states that 'Algebra is a branch of mathematics'.",
+        "Incorrect. The article does not mention physics as the branch that algebra belongs to.",
+        "Incorrect. The article does not mention chemistry as the branch that algebra belongs to.",
+        "Incorrect. The article does not mention biology as the branch that algebra belongs to."
       ]
     },
     {
       "id": 2,
+      "question": "What does algebra deal with?",
+      "options": [
+        "Abstract systems and the manipulation of expressions",
+        "Only numbers and arithmetic operations",
+        "The study of shapes and their properties",
+        "The study of living organisms"
+      ],
+      "answer_explanations": [
+        "Correct. The article says algebra 'deals with abstract systems, known as algebraic structures, and the manipulation of expressions within those systems'.",
+        "Incorrect. The article states algebra is a generalization of arithmetic and introduces variables and algebraic operations, not just numbers and arithmetic.",
+        "Incorrect. The article does not describe algebra as the study of shapes; that is geometry.",
+        "Incorrect. The article does not describe algebra as the study of living organisms."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What does algebra introduce that arithmetic does not?",
+      "options": [
+        "Variables and algebraic operations",
+        "Addition and multiplication",
+        "Geometry and topology",
+        "Logic and empirical sciences"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that algebra 'introduces variables and algebraic operations other than the standard arithmetic operations'.",
+        "Incorrect. Addition and multiplication are standard arithmetic operations, not new introductions.",
+        "Incorrect. Geometry and topology are mentioned later as related fields, not as introductions of algebra.",
+        "Incorrect. Logic and empirical sciences are mentioned later as fields where algebra is relevant, not as introductions."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which is the main form of algebra taught in schools?",
+      "options": [
+        "Elementary algebra",
+        "Linear algebra",
+        "Abstract algebra",
+        "Universal algebra"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that 'Elementary algebra is the main form of algebra taught in schools'.",
+        "Incorrect. Linear algebra is described as a closely related field, not the main form taught in schools.",
+        "Incorrect. Abstract algebra is described as a generalization, not the main form taught in schools.",
+        "Incorrect. Universal algebra is mentioned later as a general framework, not the main form taught in schools."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What does elementary algebra seek to determine?",
+      "options": [
+        "For which values mathematical statements are true",
+        "The area of geometric shapes",
+        "The number of elements in a set",
+        "The speed of moving objects"
+      ],
+      "answer_explanations": [
+        "Correct. The article says elementary algebra 'seeks to determine for which values the statements are true'.",
+        "Incorrect. The article does not mention area of geometric shapes in relation to elementary algebra.",
+        "Incorrect. The article does not mention counting elements of a set in this context.",
+        "Incorrect. The article does not mention speed of moving objects."
+      ]
+    },
+    {
+      "id": 6,
       "question": "Which field investigates linear equations and systems of linear equations?",
       "options": [
         "Linear algebra",
@@ -29,138 +93,74 @@
         "Universal algebra"
       ],
       "answer_explanations": [
-        "Correct. The article states that linear algebra investigates linear equations and systems of linear equations.",
-        "Incorrect. Elementary algebra examines statements using variables but is not described as focusing on systems of linear equations.",
-        "Incorrect. Abstract algebra studies algebraic structures such as groups, rings, and fields.",
-        "Incorrect. Universal algebra investigates characteristics of algebraic structures in general, not specifically linear equations."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "What does abstract algebra study?",
-      "options": [
-        "Algebraic structures",
-        "Only addition and subtraction",
-        "Only linear equations",
-        "Only polynomial equations"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that abstract algebra studies algebraic structures, which consist of a set of mathematical objects together with operations defined on that set.",
-        "Incorrect. Addition and subtraction are arithmetic operations, not the sole focus of abstract algebra.",
-        "Incorrect. Linear equations are investigated by linear algebra, not abstract algebra.",
-        "Incorrect. Polynomial equations are discussed under elementary algebra, not as the subject of abstract algebra."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Which mathematician systematized algebra as an independent discipline in the 9th century?",
-      "options": [
-        "Muá¸¥ammad ibn MÅ«sÄ al-KhwÄrizmÄ«",
-        "Isaac Newton",
-        "Euclid",
-        "Pythagoras"
-      ],
-      "answer_explanations": [
-        "Correct. The article says that in the 9th century Muá¸¥ammad ibn MÅ«sÄ al-KhwÄrizmÄ« systematized algebra as an independent mathematical discipline.",
-        "Incorrect. Isaac Newton is not mentioned in the article.",
-        "Incorrect. Euclid is not mentioned in the article.",
-        "Incorrect. Pythagoras is not mentioned in the article."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What is the main goal of elementary algebra?",
-      "options": [
-        "To determine the values for which a statement is true",
-        "To calculate the area of geometric shapes",
-        "To memorize multiplication tables",
-        "To study the history of numbers"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the main goal of elementary algebra is to determine the values for which a statement is true.",
-        "Incorrect. Calculating areas is not described as the main goal of elementary algebra.",
-        "Incorrect. Memorizing multiplication tables is not mentioned as the goal of elementary algebra.",
-        "Incorrect. Studying the history of numbers is not described as the main goal of elementary algebra."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "What does the word algebra come from?",
-      "options": [
-        "The Arabic term al-jabr",
-        "The Latin word calculus",
-        "The Greek word geometry",
-        "The French word algorithme"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the word algebra comes from the Arabic term Ø§ÙØ¬Ø¨Ø± (al-jabr).",
-        "Incorrect. The article does not say algebra comes from the Latin word calculus.",
-        "Incorrect. The article does not say algebra comes from the Greek word geometry.",
-        "Incorrect. The article does not say algebra comes from the French word algorithme."
+        "Correct. The article states that 'Linear algebra is a closely related field that investigates linear equations and combinations of them called systems of linear equations'.",
+        "Incorrect. Elementary algebra is about mathematical statements and variables, not specifically linear equations.",
+        "Incorrect. Abstract algebra studies algebraic structures, not specifically linear equations.",
+        "Incorrect. Universal algebra provides general frameworks, not specifically linear equations."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is an example of an algebraic expression given in the article?",
+      "question": "What do algebraic structures consist of?",
       "options": [
-        "5x + 3",
-        "2 + 5 = 7",
-        "x = 11",
-        "a Ã b = b Ã a"
+        "A set of mathematical objects together with one or several operations",
+        "Only numbers and addition",
+        "Only equations and variables",
+        "Only geometric shapes and their properties"
       ],
       "answer_explanations": [
-        "Correct. The article gives 5x + 3 as an example of an algebraic expression.",
-        "Incorrect. 2 + 5 = 7 is presented as an arithmetic operation, not an algebraic expression.",
-        "Incorrect. x = 11 is the result of solving an equation, not the example expression.",
-        "Incorrect. a Ã b = b Ã a is presented as an equation expressing the commutative property, not as the algebraic expression example."
+        "Correct. The article states that algebraic structures 'consist of a set of mathematical objects together with one or several operations defined on that set'.",
+        "Incorrect. The article says algebraic structures can involve various mathematical objects and operations, not just numbers and addition.",
+        "Incorrect. The article does not limit algebraic structures to equations and variables.",
+        "Incorrect. The article does not mention geometric shapes in the definition of algebraic structures."
       ]
     },
     {
       "id": 8,
-      "question": "What is a polynomial according to the article?",
+      "question": "Which of the following is an example of an algebraic structure mentioned in the article?",
       "options": [
-        "An expression consisting of one or more terms added or subtracted",
-        "A type of geometric figure",
-        "A method for solving linear systems",
-        "A branch of calculus"
+        "Groups",
+        "Triangles",
+        "Planets",
+        "Animals"
       ],
       "answer_explanations": [
-        "Correct. The article defines a polynomial as an expression consisting of one or more terms that are added or subtracted from each other.",
-        "Incorrect. A polynomial is not described as a geometric figure.",
-        "Incorrect. A polynomial is not described as a method for solving linear systems.",
-        "Incorrect. A polynomial is not described as a branch of calculus."
+        "Correct. The article mentions 'groups, rings, and fields' as examples of algebraic structures.",
+        "Incorrect. Triangles are geometric shapes, not algebraic structures mentioned in the article.",
+        "Incorrect. Planets are not mentioned as algebraic structures.",
+        "Incorrect. Animals are not mentioned as algebraic structures."
       ]
     },
     {
       "id": 9,
-      "question": "What does the degree of a polynomial represent?",
+      "question": "Who systematized algebra as an independent mathematical discipline in the 9th century?",
       "options": [
-        "The maximal sum of the exponents of the variables among its terms",
-        "The number of terms in the polynomial",
-        "The value of the constant term",
-        "The number of variables used"
+        "Muá¸¥ammad ibn MÅ«sÄ al-KhwÄrizmÄ«",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Euclid"
       ],
       "answer_explanations": [
-        "Correct. The article states that the degree of a polynomial is the maximal value among its terms of the sum of the exponents of the variables.",
-        "Incorrect. The degree is not defined as the number of terms.",
-        "Incorrect. The degree is not defined as the value of the constant term.",
-        "Incorrect. The degree is not defined as the number of variables used."
+        "Correct. The article states that 'in the 9th century with Muá¸¥ammad ibn MÅ«sÄ al-KhwÄrizmÄ«, who systematized algebra as an independent mathematical discipline'.",
+        "Incorrect. Isaac Newton is not mentioned in the article.",
+        "Incorrect. Albert Einstein is not mentioned in the article.",
+        "Incorrect. Euclid is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "What technique is used to replace one variable with an equivalent expression that does not use this variable?",
+      "question": "According to the article, algebra is relevant to which of the following?",
       "options": [
-        "Substitution",
-        "Factorization",
-        "Simplification",
-        "Graphing"
+        "Geometry, topology, number theory, and calculus",
+        "Only arithmetic and addition",
+        "Only physics and chemistry",
+        "Only history and literature"
       ],
       "answer_explanations": [
-        "Correct. The article states that substitution is a common technique to replace one variable with an equivalent expression that does not use this variable.",
-        "Incorrect. Factorization rewrites a polynomial as a product of factors, not replace variables.",
-        "Incorrect. Simplification replaces a complicated expression with an equivalent simpler one, not specifically replace variables.",
-        "Incorrect. Graphing interprets equations geometrically, not replace variables."
+        "Correct. The article states that 'Algebra is relevant to many branches of mathematics, such as geometry, topology, number theory, and calculus'.",
+        "Incorrect. The article lists many branches, not just arithmetic and addition.",
+        "Incorrect. The article does not mention physics and chemistry as relevant fields.",
+        "Incorrect. The article does not mention history and literature."
       ]
     }
   ]

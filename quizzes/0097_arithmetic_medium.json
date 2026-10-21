@@ -5,71 +5,87 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following best describes how arithmetic systems can be distinguished according to the article?",
+      "question": "What are the four basic arithmetic operations mentioned in the article?",
       "options": [
-        "Based on the type of numbers they operate on and the numeral system employed",
-        "Based solely on whether they use decimal or binary notation",
-        "Based only on whether they include exponentiation and logarithms",
-        "Based exclusively on whether they operate on natural numbers"
+        "Addition, subtraction, multiplication, and division",
+        "Addition, exponentiation, roots, and logarithms",
+        "Counting, measuring, comparing, and calculating",
+        "Addition, subtraction, multiplication, and exponentiation"
       ],
       "answer_explanations": [
-        "Correct. The article states that arithmetic systems can be distinguished based on the type of numbers they operate on and based on the numeral system employed.",
-        "Incorrect. The article describes multiple distinctions, not solely decimal versus binary notation.",
-        "Incorrect. Exponentiation and logarithms are mentioned as part of a wider sense of arithmetic, not as a basis for distinguishing arithmetic systems.",
-        "Incorrect. The article discusses integers, rational numbers, real numbers, and other kinds, not only natural numbers."
+        "Correct. The article states that arithmetic deals with numerical operations like addition, subtraction, multiplication, and division.",
+        "Incorrect. Exponentiation, roots, and logarithms are mentioned as part of a wider sense of arithmetic, not as the four basic operations.",
+        "Incorrect. Counting, measuring, comparing, and calculating are not listed as the basic arithmetic operations in the article.",
+        "Incorrect. While addition, subtraction, and multiplication are basic, exponentiation is not listed among the four basic operations; division is."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what is a key difference between rational and irrational numbers?",
+      "question": "Which numeral system is most commonly used for arithmetic, according to the article?",
       "options": [
-        "Rational numbers can be expressed as the ratio of two integers, while irrational numbers cannot",
-        "Rational numbers are always whole numbers, while irrational numbers are always decimals",
-        "Rational numbers include only positive values, while irrational numbers include negative values",
-        "Rational numbers are used in geometry, while irrational numbers are used in counting"
+        "Decimal",
+        "Binary",
+        "Unary",
+        "Roman"
       ],
       "answer_explanations": [
-        "Correct. The article states that a number is rational if it can be represented as the ratio of two integers, whereas irrational numbers cannot be expressed through such a ratio.",
-        "Incorrect. The article explains that rational numbers include fractions and integers, not only whole numbers.",
-        "Incorrect. The article does not state that rational numbers are limited to positive values or that irrational numbers are limited to negative values.",
-        "Incorrect. The article notes that irrational numbers are often required to describe geometric magnitudes, not rational numbers exclusively."
+        "Correct. The article says, 'Decimal arithmetic is the most common.'",
+        "Incorrect. Binary arithmetic is used by most computers, but it is not the most common system for arithmetic in general.",
+        "Incorrect. The unary system is the simplest non-positional system but is not the most common for arithmetic.",
+        "Incorrect. The Roman numeral system is a non-positional system, but it is not described as the most common for arithmetic."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say about the decimal representation of irrational numbers?",
+      "question": "What is the identity element for addition?",
       "options": [
-        "It is infinite without repeating decimals",
-        "It always terminates after a finite number of digits",
-        "It repeats a fixed pattern of digits indefinitely",
-        "It contains only the digits 0 and 1"
+        "0",
+        "1",
+        "-1",
+        "10"
       ],
       "answer_explanations": [
-        "Correct. The article states that the decimal representation of an irrational number is infinite without repeating decimals.",
-        "Incorrect. The article contrasts irrational numbers with rational numbers, which correspond to finite or repeating decimals.",
-        "Incorrect. Repeating decimals are a feature of rational numbers, not irrational numbers, according to the article.",
-        "Incorrect. The article does not restrict irrational numbers to binary digits."
+        "Correct. The article states, 'the identity element of addition is 0 since any sum of a number and 0 results in the same number.'",
+        "Incorrect. 1 is not the identity element for addition; adding 1 changes the value of a number.",
+        "Incorrect. -1 is not the identity element for addition; adding -1 changes the value of a number.",
+        "Incorrect. 10 is not the identity element for addition; adding 10 changes the value of a number."
       ]
     },
     {
       "id": 4,
-      "question": "Which statement about positional numeral systems is supported by the article?",
+      "question": "How are natural numbers different from whole numbers?",
       "options": [
-        "The position of a digit determines its value in a positional numeral system",
-        "Positional numeral systems were the first numeral systems ever developed",
-        "All positional numeral systems use a radix of 10",
-        "Positional systems cannot be used in computer arithmetic"
+        "Natural numbers start from 1, while whole numbers include 0",
+        "Natural numbers include 0, while whole numbers start from 1",
+        "Natural numbers include negative numbers, while whole numbers do not",
+        "There is no difference between them"
       ],
       "answer_explanations": [
-        "Correct. The article defines a positional numeral system as one where the position of a basic numeral determines its value.",
-        "Incorrect. The article states that all early numeral systems were non-positional.",
-        "Incorrect. The article gives examples of different radices, such as 10 for decimal and 2 for binary.",
-        "Incorrect. The article explicitly mentions the binary system is used extensively in computer arithmetic."
+        "Correct. The article says, 'The natural numbers are whole numbers that start from 1 and go to infinity. They exclude 0 and negative numbers.' It also says, 'The whole numbers are identical to the natural numbers with the only difference being that they include 0.'",
+        "Incorrect. It is the opposite; natural numbers start from 1, and whole numbers include 0.",
+        "Incorrect. Both natural and whole numbers exclude negative numbers according to the article.",
+        "Incorrect. The article clearly states a difference: whole numbers include 0, but natural numbers do not."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what is the additive inverse of 6?",
+      "question": "What is the radix of the binary numeral system?",
+      "options": [
+        "2",
+        "10",
+        "60",
+        "1"
+      ],
+      "answer_explanations": [
+        "Correct. The article states, 'the binary system, which has a radix of 2.'",
+        "Incorrect. 10 is the radix of the decimal system, not the binary system.",
+        "Incorrect. 60 is the radix of the earliest positional system developed by ancient Babylonians, not the binary system.",
+        "Incorrect. 1 is not the radix of the binary system; the binary system uses a radix of 2."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the additive inverse of the number 6?",
       "options": [
         "-6",
         "6",
@@ -77,90 +93,74 @@
         "1/6"
       ],
       "answer_explanations": [
-        "Correct. The article states that the additive inverse of the number 6 is -6 since their sum is 0.",
-        "Incorrect. The article identifies -6, not 6, as the additive inverse of 6.",
-        "Incorrect. The article identifies 0 as the identity element of addition, not the additive inverse of 6.",
-        "Incorrect. The article does not describe 1/6 as the additive inverse of 6."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "How does the article distinguish number theory from arithmetic in a more specific sense?",
-      "options": [
-        "Number theory is restricted to the study of integers and their properties and relationships",
-        "Number theory includes all real and complex numbers, while arithmetic does not",
-        "Number theory is exclusively concerned with practical calculations like shopping",
-        "Number theory is identical to arithmetic with no differences in scope"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that in a more specific sense, number theory is restricted to the study of integers and focuses on properties such as divisibility, factorization, and primality.",
-        "Incorrect. The article describes number theory as narrower, focused on integers, not broader than arithmetic.",
-        "Incorrect. The article does not link number theory exclusively to practical calculations.",
-        "Incorrect. The article notes that while some authors use the terms as synonyms, there is a more specific sense in which they differ."
+        "Correct. The article says, 'the additive inverse of the number 6 is -6 since their sum is 0.'",
+        "Incorrect. 6 is the number itself, not its additive inverse; the sum of 6 and 6 is 12, not 0.",
+        "Incorrect. 0 is the identity element for addition, not the additive inverse of 6.",
+        "Incorrect. 1/6 is the multiplicative inverse of 6, not the additive inverse."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the historical origin of the decimal system?",
+      "question": "Which operation is the inverse of addition?",
       "options": [
-        "Ancient Indians developed the concept of zero and the decimal system",
-        "Ancient Egyptians invented the decimal system in about 3000 BCE",
-        "The ancient Greeks introduced the decimal system in the 7th century BCE",
-        "Arab mathematicians invented the decimal system before spreading it to India"
+        "Subtraction",
+        "Multiplication",
+        "Division",
+        "Exponentiation"
       ],
       "answer_explanations": [
-        "Correct. The article states that the ancient Indians developed the concept of zero and the decimal system.",
-        "Incorrect. The article credits ancient Egyptians with inventing numeral systems for practical problems, not specifically the decimal system.",
-        "Incorrect. The article says ancient Greeks initiated a more abstract study of numbers and introduced rigorous proofs, not the decimal system.",
-        "Incorrect. The article states that Arab mathematicians refined and spread the system developed by ancient Indians."
+        "Correct. The article states, 'subtraction is the inverse of addition since a number returns to its original value if a second number is first added and subsequently subtracted.'",
+        "Incorrect. Multiplication is not the inverse of addition; it is a separate operation.",
+        "Incorrect. Division is the inverse of multiplication, not addition.",
+        "Incorrect. Exponentiation is not the inverse of addition; it is a separate operation."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, which of the following is an example of an arithmetic system that operates on mathematical objects other than numbers?",
+      "question": "What does the article say about the practice of arithmetic?",
       "options": [
-        "Matrix arithmetic",
-        "Binary arithmetic",
-        "Decimal arithmetic",
-        "Integer arithmetic"
+        "It is at least thousands and possibly tens of thousands of years old",
+        "It began in the 17th century with mechanical calculators",
+        "It was invented by the ancient Greeks",
+        "It started in the 20th century with computers"
       ],
       "answer_explanations": [
-        "Correct. The article lists matrix arithmetic alongside interval arithmetic as systems that operate on mathematical objects other than numbers.",
-        "Incorrect. The article describes binary arithmetic as a numeral system used to represent numbers.",
-        "Incorrect. The article describes decimal arithmetic as the most common numeral system for expressing numbers.",
-        "Incorrect. The article describes integer arithmetic as calculations with positive and negative integers."
+        "Correct. The article states, 'The practice of arithmetic is at least thousands and possibly tens of thousands of years old.'",
+        "Incorrect. The first mechanical calculators were invented in the 17th century, but arithmetic practice is much older.",
+        "Incorrect. The ancient Greeks initiated a more abstract study of numbers, but arithmetic practice predates them.",
+        "Incorrect. The 20th century saw the emergence of electronic calculators and computers, but arithmetic practice is much older."
       ]
     },
     {
       "id": 9,
-      "question": "What role does the article assign to arithmetic operations in fields such as physics and economics?",
+      "question": "What is a rational number?",
       "options": [
-        "They play a similar foundational role in the sciences as they do in branches of mathematics",
-        "They are used only for basic counting and not for scientific analysis",
-        "They are irrelevant to modern physics and economics",
-        "They replaced mathematics entirely in the sciences"
+        "A number that can be represented as the ratio of two integers",
+        "A number that cannot be expressed as the ratio of two integers",
+        "A number that is always a whole number",
+        "A number that has an infinite non-repeating decimal representation"
       ],
       "answer_explanations": [
-        "Correct. The article states that arithmetic operations play a similar role in the sciences, like physics and economics, as they do in branches of mathematics.",
-        "Incorrect. The article presents arithmetic as foundational in the sciences, not limited to basic counting.",
-        "Incorrect. The article explicitly identifies physics and economics as fields where arithmetic plays a role.",
-        "Incorrect. The article describes arithmetic as a basis for mathematics and sciences, not as a replacement for them."
+        "Correct. The article states, 'A number is rational if it can be represented as the ratio of two integers.'",
+        "Incorrect. This describes an irrational number, not a rational number.",
+        "Incorrect. Rational numbers include fractions like 1/2, so they are not always whole numbers.",
+        "Incorrect. This describes an irrational number; rational numbers have finite or repeating decimal representations."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following best describes the relationship between cardinal and ordinal numbers as presented in the article?",
+      "question": "What is the earliest positional numeral system mentioned in the article?",
       "options": [
-        "Cardinal numbers express quantity, while ordinal numbers indicate order or position",
-        "Cardinal numbers indicate order, while ordinal numbers express quantity",
-        "Cardinal and ordinal numbers are identical concepts with different names",
-        "Cardinal numbers are fractions, while ordinal numbers are whole numbers"
+        "The Babylonian system with a radix of 60",
+        "The Egyptian hieroglyphic system",
+        "The Roman numeral system",
+        "The decimal system"
       ],
       "answer_explanations": [
-        "Correct. The article states that cardinal numbers express quantity and answer 'how many?', while ordinal numbers indicate order or placement and answer 'what position?'.",
-        "Incorrect. The article reverses these definitions: cardinal numbers express quantity, not order.",
-        "Incorrect. The article presents cardinal and ordinal numbers as distinct concepts based on how natural and whole numbers are used.",
-        "Incorrect. The article does not define cardinal numbers as fractions or ordinal numbers as whole numbers."
+        "Correct. The article states, 'The earliest positional system was developed by ancient Babylonians and had a radix of 60.'",
+        "Incorrect. The Egyptian hieroglyphic system was non-positional, not positional.",
+        "Incorrect. The Roman numeral system was non-positional, not positional.",
+        "Incorrect. The decimal system is positional, but it was not the earliest; the Babylonian system was earlier."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What did Galileo conclude about Kepler's Supernova based on its lack of detectable diurnal parallax?",
+      "question": "What was Galileo's profession or role?",
       "options": [
-        "It was a distant star",
-        "It was a nearby planet",
-        "It was an atmospheric phenomenon",
-        "It was a comet"
+        "He was an Italian astronomer, physicist, engineer, and polymath.",
+        "He was a Dutch lens maker.",
+        "He was a Catholic priest.",
+        "He was a painter and sculptor."
       ],
       "answer_explanations": [
-        "Correct. The article states that since the new stars displayed no detectable diurnal parallax, Galileo concluded they were distant stars.",
-        "Incorrect. The article says Galileo concluded the supernova was a distant star, not a nearby planet.",
-        "Incorrect. The article does not describe Kepler's Supernova as an atmospheric phenomenon.",
-        "Incorrect. The article does not classify Kepler's Supernova as a comet."
+        "Correct. The article states that Galileo was 'an Italian astronomer, physicist, engineer and polymath'.",
+        "Incorrect. The article identifies him as Italian, not Dutch.",
+        "Incorrect. The article mentions he considered the priesthood but does not say he became a priest.",
+        "Incorrect. He studied art and taught perspective, but his primary roles were in science and engineering."
       ]
     },
     {
       "id": 2,
-      "question": "What did Galileo name Jupiter's four largest moons?",
+      "question": "What did Galileo observe with his improved telescope?",
       "options": [
-        "The Medicean stars",
-        "The Galilean moons",
-        "The Cosmic stars",
-        "The Florentine satellites"
+        "The Milky Way, phases of Venus, Jupiter's four largest moons, Saturn's rings, lunar craters, and sunspots.",
+        "Only the Moon and the stars in the Milky Way.",
+        "The rings of Saturn and the moons of Mars.",
+        "The phases of Mercury and the craters on Venus."
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo named the group of four the Medicean stars, in honour of Cosimo II de' Medici.",
-        "Incorrect. The article says he called them the Medicean stars; 'Galilean moons' is a modern term.",
-        "Incorrect. The article does not mention the name Cosmic stars.",
-        "Incorrect. The article does not mention the name Florentine satellites."
+        "Correct. The article lists these observations: 'the stars of the Milky Way, the phases of Venus, the four largest satellites of Jupiter, Saturn's rings, lunar craters, and sunspots'.",
+        "Incorrect. The article mentions many more observations than just the Moon and Milky Way.",
+        "Incorrect. The article mentions Saturn's rings but not moons of Mars.",
+        "Incorrect. The article mentions phases of Venus but not craters on Venus."
       ]
     },
     {
       "id": 3,
-      "question": "What was Galileo forced to do after being found 'vehemently suspect of heresy'?",
+      "question": "Why did the Catholic Church oppose Galileo's ideas?",
       "options": [
-        "Recant his views",
-        "Leave Italy permanently",
-        "Burn his books",
-        "Resign from the University of Padua"
+        "Because his support for Copernican heliocentrism contradicted accepted Biblical interpretations.",
+        "Because he refused to build a telescope for the Pope.",
+        "Because he was not a practicing Catholic.",
+        "Because he wrote a book about the Moon's mountains."
       ],
       "answer_explanations": [
-        "Correct. The article states he was found 'vehemently suspect of heresy' and forced to recant.",
-        "Incorrect. The article says he spent the rest of his life under house arrest, not that he left Italy.",
-        "Incorrect. The article does not say he was forced to burn his books.",
-        "Incorrect. The article does not say he resigned from the University of Padua as a result of the trial."
+        "Correct. The article states the Inquisition concluded that 'his opinions contradicted accepted Biblical interpretations'.",
+        "Incorrect. The article does not mention any refusal to build a telescope.",
+        "Incorrect. The article says he was a 'pious Catholic'.",
+        "Incorrect. The article mentions his lunar observations but not as a reason for Church opposition."
       ]
     },
     {
       "id": 4,
-      "question": "What did Galileo observe about a swinging chandelier in 1581?",
+      "question": "What happened to Galileo after he was tried by the Inquisition?",
       "options": [
-        "It took the same amount of time to swing back and forth regardless of arc size",
-        "It swung faster with larger arcs",
-        "It stopped swinging when air currents ceased",
-        "It swung in perfect circles"
+        "He was forced to recant and spent the rest of his life under house arrest.",
+        "He was exiled to France.",
+        "He was imprisoned in a dungeon for life.",
+        "He was allowed to continue teaching freely."
       ],
       "answer_explanations": [
-        "Correct. The article says the chandelier seemed to take the same amount of time to swing back and forth no matter how far it was swinging.",
-        "Incorrect. The article says the time did not vary with the size of the swing.",
-        "Incorrect. The article does not say the chandelier stopped when air currents ceased.",
-        "Incorrect. The article describes back-and-forth swinging, not circular motion."
+        "Correct. The article states he was 'found \"vehemently suspect of heresy\", and forced to recant. He spent the rest of his life under house arrest.'",
+        "Incorrect. The article does not mention exile to France.",
+        "Incorrect. The article specifies house arrest, not imprisonment in a dungeon.",
+        "Incorrect. He was under house arrest, so he could not continue teaching freely."
       ]
     },
     {
       "id": 5,
-      "question": "What did Galileo's observations of the Moon reveal about its surface?",
+      "question": "Who was Galileo's father?",
       "options": [
-        "It had mountains and craters",
-        "It was a translucent and perfect sphere",
-        "It was covered in water",
-        "It emitted its own light"
+        "Vincenzo Galilei, a leading lutenist, composer, and music theorist.",
+        "Jacopo Borghini, his tutor.",
+        "Cosimo II de' Medici, the Grand Duke of Tuscany.",
+        "Muzio Tedaldi, his guardian."
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo deduced the uneven waning was caused by light occlusion from lunar mountains and craters.",
-        "Incorrect. The article says the Moon was not the translucent perfect sphere Aristotle claimed.",
-        "Incorrect. The article does not say the Moon was covered in water.",
-        "Incorrect. The article does not say the Moon emitted its own light."
+        "Correct. The article names his father as 'Vincenzo Galilei, a leading lutenist, composer, and music theorist'.",
+        "Incorrect. Jacopo Borghini was his tutor when he was ten years old.",
+        "Incorrect. Cosimo II de' Medici was his future patron, not his father.",
+        "Incorrect. Muzio Tedaldi was his guardian for two years when he was eight."
       ]
     },
     {
       "id": 6,
-      "question": "Why were Galileo's daughters Virginia and Livia considered unmarriageable?",
+      "question": "What did Galileo notice about the swinging chandelier in 1581?",
       "options": [
-        "Because they were born out of wedlock",
-        "Because they were too young",
-        "Because they had taken vows of silence",
-        "Because they lived in Arcetri"
+        "It took the same amount of time to swing back and forth no matter how far it was swinging.",
+        "It swung faster when it had a larger arc.",
+        "It stopped swinging when the air currents stopped.",
+        "It made a musical sound that matched his heartbeat."
       ],
       "answer_explanations": [
-        "Correct. The article states that due to their illegitimate birth, Galileo considered the girls unmarriageable.",
-        "Incorrect. The article attributes their unmarriageable status to illegitimate birth, not age.",
-        "Incorrect. The article does not mention vows of silence.",
-        "Incorrect. Living in Arcetri is where they became nuns, not the reason they were considered unmarriageable."
+        "Correct. The article says 'it seemed, by comparison with his heartbeat, that the chandelier took the same amount of time to swing back and forth, no matter how far it was swinging'.",
+        "Incorrect. The article states the time was the same regardless of the size of the swing.",
+        "Incorrect. The article does not mention it stopping due to air currents.",
+        "Incorrect. The article compares the timing to his heartbeat, not a sound."
       ]
     },
     {
       "id": 7,
-      "question": "What did Galileo publish in 1586 that first brought him to the attention of the scholarly world?",
+      "question": "What did Galileo initially study at the University of Pisa?",
       "options": [
-        "A small book on the design of a hydrostatic balance",
-        "Sidereus Nuncius",
-        "Dialogue Concerning the Two Chief World Systems",
-        "Discourses and Mathematical Demonstrations Relating to Two New Sciences"
+        "Medicine.",
+        "Mathematics.",
+        "Astronomy.",
+        "Art and design."
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1586 he published a small book on the design of a hydrostatic balance, which first brought him to the attention of the scholarly world.",
-        "Incorrect. Sidereus Nuncius was published in March 1610, not 1586.",
-        "Incorrect. Dialogue Concerning the Two Chief World Systems was published in 1632.",
-        "Incorrect. Discourses and Mathematical Demonstrations Relating to Two New Sciences was published in 1638."
+        "Correct. The article states he 'enrolled in 1580 at the University of Pisa for a medical degree'.",
+        "Incorrect. He later studied mathematics after being kept away from it initially.",
+        "Incorrect. He taught astronomy later, but his initial degree was in medicine.",
+        "Incorrect. He studied art later, but his initial university study was medicine."
       ]
     },
     {
       "id": 8,
-      "question": "What did Galileo's discovery of Jupiter's moons provide evidence for?",
+      "question": "What did Galileo conclude from observing Kepler's Supernova in 1604?",
       "options": [
-        "Copernicus's heliocentric model",
-        "Aristotle's geocentric model",
-        "The immutability of the heavens",
-        "The existence of lunar craters"
+        "That the new stars were distant, disproving the Aristotelian belief in the immutability of the heavens.",
+        "That the new stars were nearby objects in the Earth's atmosphere.",
+        "That the new stars were planets in our solar system.",
+        "That the new stars were comets moving between the planets."
       ],
       "answer_explanations": [
-        "Correct. The article states the discovery provided evidence in favour of Copernicus's heliocentric model.",
-        "Incorrect. The article says the discovery supported heliocentrism, not Aristotle's geocentric model.",
-        "Incorrect. The immutability of the heavens was disproven by his observations of new stars, not Jupiter's moons.",
-        "Incorrect. Lunar craters were observed on the Moon, not evidenced by Jupiter's moons."
+        "Correct. The article says he concluded they were distant stars and 'disproved the Aristotelian belief in the immutability of the heavens'.",
+        "Incorrect. The article says they displayed no diurnal parallax, leading him to conclude they were distant.",
+        "Incorrect. The article does not say they were planets.",
+        "Incorrect. The article does not say they were comets."
       ]
     },
     {
       "id": 9,
-      "question": "What did Galileo write while under house arrest?",
+      "question": "What did Galileo name the four largest moons of Jupiter?",
       "options": [
-        "Discourses and Mathematical Demonstrations Relating to Two New Sciences",
-        "Dialogue Concerning the Two Chief World Systems",
-        "Sidereus Nuncius",
-        "On the Shape, Location, and Size of Dante's Inferno"
+        "The Medicean stars.",
+        "The Galilean moons.",
+        "The Copernican satellites.",
+        "The Tuscan planets."
       ],
       "answer_explanations": [
-        "Correct. The article states that during house arrest he wrote Discourses and Mathematical Demonstrations Relating to Two New Sciences (1638).",
-        "Incorrect. Dialogue Concerning the Two Chief World Systems was published in 1632, before his house arrest.",
-        "Incorrect. Sidereus Nuncius was published in March 1610, long before house arrest.",
-        "Incorrect. On the Shape, Location, and Size of Dante's Inferno was presented in 1588, long before house arrest."
+        "Correct. The article states 'Galileo named the group of four the *Medicean stars*, in honour of his future patron, Cosimo II de' Medici'.",
+        "Incorrect. They are now called the Galilean moons, but he named them the Medicean stars.",
+        "Incorrect. The article does not mention this name.",
+        "Incorrect. The article does not mention this name."
       ]
     },
     {
       "id": 10,
-      "question": "Why did Galileo initially enroll in a medical degree at the University of Pisa?",
+      "question": "What did Galileo write during his house arrest?",
       "options": [
-        "At his father's urging, because a physician earned a higher income than a mathematician",
-        "Because he wanted to become a priest",
-        "Because he had no interest in mathematics",
-        "Because medicine was the only degree offered at Pisa"
+        "Discourses and Mathematical Demonstrations Relating to Two New Sciences.",
+        "Dialogue Concerning the Two Chief World Systems.",
+        "Starry Messenger.",
+        "On the Shape, Location, and Size of Dante's Inferno."
       ],
       "answer_explanations": [
-        "Correct. The article says he enrolled at his father's urging, since a physician earned a higher income than a mathematician.",
-        "Incorrect. Although he considered the priesthood, he enrolled in medicine at his father's urging, not because he wanted to be a priest.",
-        "Incorrect. The article says he was kept away from mathematics due to income concerns, not lack of interest.",
-        "Incorrect. The article does not say medicine was the only degree offered."
+        "Correct. The article states 'During this time, he wrote *Discorsi e Dimostrazioni Matematiche, intorno a due nuove scienze* (*Discourses and Mathematical Demonstrations Relating to Two New Sciences*, 1638)'.",
+        "Incorrect. This was written before his trial and house arrest.",
+        "Incorrect. This was written in 1610, long before his house arrest.",
+        "Incorrect. This was a lecture he presented in 1588."
       ]
     }
   ]

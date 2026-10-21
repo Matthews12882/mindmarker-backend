@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what does physics study?",
+      "question": "What is physics the scientific study of?",
       "options": [
-        "matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force",
-        "only the motion of objects through space",
-        "only energy and force",
-        "only matter and its fundamental constituents"
+        "Matter, its motion and behavior through space and time, and related entities like energy and force",
+        "Only the study of living organisms and their interactions",
+        "The study of the chemical composition of substances",
+        "The study of the Earth's geological formations"
       ],
       "answer_explanations": [
-        "Correct. The article states that physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force.",
-        "Incorrect. Physics studies more than just the motion of objects through space; it also includes matter, energy, and force.",
-        "Incorrect. Physics is not limited to energy and force; matter and its constituents are also central.",
-        "Incorrect. Physics encompasses more than matter and its fundamental constituents; it also covers motion, energy, and force."
+        "Correct. The article states that physics is the scientific study of matter, its motion and behavior through space and time, and the related entities of energy and force.",
+        "Incorrect. The study of living organisms is biology, not physics.",
+        "Incorrect. Chemistry, not physics, focuses on the chemical composition of substances.",
+        "Incorrect. Geology, not physics, studies the Earth's geological formations."
       ]
     },
     {
       "id": 2,
-      "question": "What happened to natural sciences such as physics, chemistry, and biology during the Scientific Revolution in the 17th century?",
+      "question": "What is a scientist who specializes in physics called?",
       "options": [
-        "they branched into separate research endeavors",
-        "they remained part of natural philosophy",
-        "they were replaced by mathematics",
-        "they were unified into a single discipline"
+        "A physicist",
+        "A chemist",
+        "A biologist",
+        "An astronomer"
       ],
       "answer_explanations": [
-        "Correct. The article says that during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors.",
-        "Incorrect. They did not remain part of natural philosophy; they branched away from it.",
-        "Incorrect. The article does not say they were replaced by mathematics.",
-        "Incorrect. They were not unified; they became separate endeavors."
+        "Correct. The article says, 'A scientist who specializes in the field of physics is called a physicist.'",
+        "Incorrect. A chemist specializes in chemistry, not physics.",
+        "Incorrect. A biologist specializes in biology, not physics.",
+        "Incorrect. An astronomer studies celestial objects, but the term for a physics specialist is physicist."
       ]
     },
     {
       "id": 3,
-      "question": "Which technologies did the article say resulted directly from advances in electromagnetism, solid-state physics, and nuclear physics?",
+      "question": "Before the Scientific Revolution in the 17th century, what were physics, chemistry, biology, and certain branches of mathematics part of?",
       "options": [
-        "television, computers, domestic appliances, and nuclear weapons",
-        "industrialization and calculus",
-        "telescopes and observational astronomy",
-        "blackbody radiation and quantum mechanics"
+        "Natural philosophy",
+        "Modern science",
+        "Engineering",
+        "Medicine"
       ],
       "answer_explanations": [
-        "Correct. The article states that advances in electromagnetism, solid-state physics, and nuclear physics led directly to television, computers, domestic appliances, and nuclear weapons.",
-        "Incorrect. Industrialization came from thermodynamics, and calculus was inspired by mechanics.",
-        "Incorrect. Telescopes and observational astronomy are associated with Galileo, not these fields.",
-        "Incorrect. Blackbody radiation and quantum mechanics are discussed later as problems for classical physics."
+        "Correct. The article states that over much of the past two millennia, these subjects were part of natural philosophy before branching into separate research endeavors.",
+        "Incorrect. Modern science emerged later, after the Scientific Revolution.",
+        "Incorrect. Engineering is a separate applied field, not the historical grouping mentioned.",
+        "Incorrect. Medicine is a distinct field, not the historical grouping mentioned."
       ]
     },
     {
       "id": 4,
-      "question": "What did pre-Socratic philosophers like Thales proclaim about natural phenomena?",
+      "question": "Which advances in physics led directly to the development of technologies like television and computers?",
       "options": [
-        "every event had a natural cause",
-        "events were caused by gods",
-        "only observation could verify events",
-        "events required non-naturalistic explanations"
+        "Electromagnetism, solid-state physics, and nuclear physics",
+        "Thermodynamics alone",
+        "Mechanics alone",
+        "Optics alone"
       ],
       "answer_explanations": [
-        "Correct. The article says pre-Socratic philosophers like Thales rejected non-naturalistic explanations and proclaimed that every event had a natural cause.",
-        "Incorrect. They rejected explanations involving gods or non-natural causes.",
-        "Incorrect. They proposed ideas verified by reason and observation, not observation alone.",
-        "Incorrect. They explicitly rejected non-naturalistic explanations."
+        "Correct. The article says advances in electromagnetism, solid-state physics, and nuclear physics led directly to technologies like television and computers.",
+        "Incorrect. Thermodynamics led to industrialization, not directly to television and computers.",
+        "Incorrect. Mechanics inspired calculus, not directly to television and computers.",
+        "Incorrect. Optics is not cited as the direct cause for television and computers in this context."
       ]
     },
     {
       "id": 5,
-      "question": "According to Aristotle's theory of the four elements, where would fire be located relative to the other elements?",
+      "question": "What is the origin of the word 'physics'?",
       "options": [
-        "at the top",
-        "at the bottom",
-        "between air and water",
-        "mixed with earth"
+        "It comes from the Latin 'physica' and Greek 'phusiká¸', meaning 'study of nature' or 'natural science'",
+        "It comes from the German word for 'science'",
+        "It comes from the Arabic word for 'motion'",
+        "It comes from the French word for 'matter'"
       ],
       "answer_explanations": [
-        "Correct. The article states that because of their weights, fire would be at the top, air underneath fire, then water, then lastly earth.",
-        "Incorrect. Earth is described as lastly, at the bottom.",
-        "Incorrect. The order given is fire, air, water, earth, not fire between air and water.",
-        "Incorrect. Earth is last, not mixed with fire."
+        "Correct. The article states the word comes from Latin 'physica' and Greek 'phusiká¸', meaning 'study of nature' or 'natural science'.",
+        "Incorrect. The article does not mention a German origin.",
+        "Incorrect. The article does not mention an Arabic origin.",
+        "Incorrect. The article does not mention a French origin."
       ]
     },
     {
       "id": 6,
-      "question": "What did Ibn al-Haytham present in his Book of Optics as an alternative to the ancient Greek idea about visual rays?",
+      "question": "Which early civilizations are mentioned as having predictive knowledge of the motions of the Sun, Moon, and stars before 3000 BCE?",
       "options": [
-        "the idea of light rays",
-        "the theory of four elements",
-        "the geocentric model",
-        "the concept of image formation"
+        "Sumerians, ancient Egyptians, and the Indus Valley Civilization",
+        "Greeks, Romans, and Persians",
+        "Chinese, Japanese, and Koreans",
+        "Mayans, Aztecs, and Incas"
       ],
       "answer_explanations": [
-        "Correct. The article says Ibn al-Haytham presented the idea of light rays as an alternative to the ancient Greek idea about visual rays.",
-        "Incorrect. The theory of four elements is associated with Aristotle.",
-        "Incorrect. The geocentric model is discussed in the Scientific Revolution section.",
-        "Incorrect. The article notes that Ibn al-Haytham still lacked the concept of image formation."
+        "Correct. The article mentions the Sumerians, ancient Egyptians, and the Indus Valley Civilization as early civilizations with such knowledge.",
+        "Incorrect. These civilizations are not mentioned in that context.",
+        "Incorrect. These civilizations are not mentioned in that context.",
+        "Incorrect. These civilizations are not mentioned in that context."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is listed in the article as a major development of the Scientific Revolution?",
+      "question": "According to the article, what did Aristotle believe about the four classical elements?",
       "options": [
-        "Isaac Newton's discovery and unification of the laws of motion and universal gravitation",
-        "the discovery of the Higgs boson at CERN",
-        "the proposal of atomism by Leucippus and Democritus",
-        "the development of quantum mechanics by Heisenberg, SchrÃ¶dinger, and Dirac"
+        "Each element had its own natural place, and they would revert to it based on density",
+        "They were all equally dense and mixed randomly",
+        "They were created by the gods and never moved",
+        "They existed only in the heavens, not on Earth"
       ],
       "answer_explanations": [
-        "Correct. The article lists Isaac Newton's discovery and unification of the laws of motion and universal gravitation as a major development of the Scientific Revolution.",
-        "Incorrect. The Higgs boson discovery at CERN occurred in 2012 and is part of 20th-century physics.",
-        "Incorrect. Atomism was proposed by Leucippus and Democritus in ancient natural philosophy.",
-        "Incorrect. Quantum mechanics was pioneered in the 20th century, not the Scientific Revolution."
+        "Correct. The article says Aristotle believed each of the four classical elements had its own natural place, and because of their differing densities, each would revert to its specific place.",
+        "Incorrect. Aristotle's theory was based on differing densities and natural places, not equal density or random mixing.",
+        "Incorrect. Aristotle's theory explained earthly motion, not divine creation.",
+        "Incorrect. Aristotle's theory applied to the terrestrial realm, not just the heavens."
       ]
     },
     {
       "id": 8,
-      "question": "What discrepancy did Einstein's theory of special relativity correct?",
+      "question": "During the Islamic Golden Age, what field saw the most notable innovations under Islamic scholarship?",
       "options": [
-        "classical mechanics predicted that the speed of light depends on the motion of the observer, conflicting with Maxwell's equations",
-        "classical mechanics predicted that the speed of light is constant for all observers",
-        "Maxwell's equations predicted that the speed of light depends on the motion of the observer",
-        "special relativity predicted that light cannot travel through a vacuum"
+        "Optics and vision",
+        "Thermodynamics",
+        "Nuclear physics",
+        "Electromagnetism"
       ],
       "answer_explanations": [
-        "Correct. The article states that classical mechanics predicted the speed of light depends on the motion of the observer, which could not be resolved with the constant speed predicted by Maxwell's equations, and this was corrected by special relativity.",
-        "Incorrect. Classical mechanics did not predict a constant speed of light; Maxwell's equations did.",
-        "Incorrect. Maxwell's equations predicted a constant speed of light, not one dependent on observer motion.",
-        "Incorrect. The article does not say special relativity predicted that light cannot travel through a vacuum."
+        "Correct. The article states that the most notable innovations under Islamic scholarship were in the field of optics and vision.",
+        "Incorrect. Thermodynamics was developed later, particularly during the Industrial Revolution.",
+        "Incorrect. Nuclear physics is a 20th-century field.",
+        "Incorrect. Electromagnetism was developed later, in the 19th century."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what did Max Planck propose to solve the problem of black-body radiation?",
+      "question": "Who developed calculus, the mathematical study of continuous change, according to the article?",
       "options": [
-        "the excitation of material oscillators is possible only in discrete steps proportional to their frequency",
-        "the speed of light depends on the motion of the observer",
-        "light rays are an alternative to visual rays",
-        "every event has a natural cause"
+        "Isaac Newton and Gottfried Wilhelm Leibniz",
+        "Galileo Galilei and Johannes Kepler",
+        "Max Planck and Albert Einstein",
+        "Werner Heisenberg and Erwin SchrÃ¶dinger"
       ],
       "answer_explanations": [
-        "Correct. The article states that Planck proposed that the excitation of material oscillators is possible only in discrete steps proportional to their frequency, correcting the black-body radiation problem.",
-        "Incorrect. The speed of light depending on observer motion was a problem corrected by Einstein's special relativity.",
-        "Incorrect. Light rays as an alternative to visual rays came from Ibn al-Haytham.",
-        "Incorrect. Every event having a natural cause was proclaimed by pre-Socratic philosophers like Thales."
+        "Correct. The article says Newton and, separately, Leibniz developed calculus.",
+        "Incorrect. Galileo and Kepler are mentioned for their work in astronomy and planetary motion, not calculus.",
+        "Incorrect. Planck and Einstein are associated with quantum theory and relativity, not calculus.",
+        "Incorrect. Heisenberg and SchrÃ¶dinger are pioneers of quantum mechanics, not calculus."
       ]
     },
     {
       "id": 10,
-      "question": "What did the article say about fundamental particles predicted by the Standard Model after the 2012 Higgs boson discovery at CERN?",
+      "question": "What did Max Planck propose to correct the problem of black-body radiation?",
       "options": [
-        "all fundamental particles predicted by the Standard Model, and no others, appear to exist",
-        "no fundamental particles predicted by the Standard Model appear to exist",
-        "only the Higgs boson appears to exist",
-        "supersymmetry has been confirmed as part of the Standard Model"
+        "That excitation of material oscillators is possible only in discrete steps proportional to their frequency",
+        "That light always travels in continuous waves",
+        "That the speed of light depends on the observer's motion",
+        "That atoms are indivisible and cannot change energy"
       ],
       "answer_explanations": [
-        "Correct. The article states that following the 2012 Higgs boson discovery, all fundamental particles predicted by the Standard Model, and no others, appear to exist.",
-        "Incorrect. The article says all predicted particles appear to exist, not none.",
-        "Incorrect. The article does not say only the Higgs boson appears to exist.",
-        "Incorrect. Supersymmetry is described as an active area of research beyond the Standard Model, not as confirmed."
+        "Correct. The article states Planck proposed that excitation of material oscillators is possible only in discrete steps proportional to their frequency.",
+        "Incorrect. Planck's proposal introduced discrete steps, not continuous waves.",
+        "Incorrect. This was a classical mechanics prediction, not Planck's proposal.",
+        "Incorrect. Planck's idea was about energy quantization, not atomic indivisibility."
       ]
     }
   ]

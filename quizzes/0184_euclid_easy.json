@@ -7,144 +7,144 @@
       "id": 1,
       "question": "What is Euclid chiefly known for?",
       "options": [
-        "His treatise called the Elements",
-        "His invention of calculus",
-        "His discovery of gravity",
-        "His work on astronomy"
+        "The Elements treatise",
+        "The Optics treatise",
+        "The Data treatise",
+        "The Phaenomena treatise"
       ],
       "answer_explanations": [
-        "Correct. The article states Euclid is chiefly known for the Elements treatise.",
-        "Incorrect. The article does not mention Euclid inventing calculus.",
-        "Incorrect. The article does not mention Euclid discovering gravity.",
-        "Incorrect. The article does not mention Euclid working on astronomy."
+        "Correct. The article states that Euclid is 'chiefly known for the Elements treatise'.",
+        "Incorrect. The article mentions Optics as a work Euclid wrote, but it is not what he is chiefly known for.",
+        "Incorrect. The article mentions Data as a lesser-known work, not his chief claim to fame.",
+        "Incorrect. The article mentions Phaenomena as a lesser-known work, not his chief claim to fame."
       ]
     },
     {
       "id": 2,
-      "question": "What title is Euclid considered?",
+      "question": "What is Euclid often considered the father of?",
       "options": [
-        "Father of geometry",
-        "Father of algebra",
-        "Father of calculus",
-        "Father of physics"
+        "Geometry",
+        "Algebra",
+        "Arithmetic",
+        "Astronomy"
       ],
       "answer_explanations": [
-        "Correct. The article calls Euclid the \"father of geometry\".",
+        "Correct. The article says Euclid is 'Considered the \"father of geometry\"'.",
         "Incorrect. The article does not call Euclid the father of algebra.",
-        "Incorrect. The article does not call Euclid the father of calculus.",
-        "Incorrect. The article does not call Euclid the father of physics."
+        "Incorrect. The article does not call Euclid the father of arithmetic.",
+        "Incorrect. The article does not call Euclid the father of astronomy."
       ]
     },
     {
       "id": 3,
-      "question": "In what city did Euclid spend his career?",
+      "question": "When did Euclid flourish (fl.)?",
       "options": [
-        "Alexandria",
-        "Athens",
-        "Rome",
-        "Sparta"
+        "300 BC",
+        "200 BC",
+        "400 BC",
+        "100 BC"
       ],
       "answer_explanations": [
-        "Correct. The article states he spent his career in Alexandria.",
-        "Incorrect. The article says he may have studied in Athens but spent his career in Alexandria.",
-        "Incorrect. The article does not say he spent his career in Rome.",
-        "Incorrect. The article does not say he spent his career in Sparta."
+        "Correct. The article states 'fl. 300 BC'.",
+        "Incorrect. The article gives 300 BC, not 200 BC.",
+        "Incorrect. The article gives 300 BC, not 400 BC.",
+        "Incorrect. The article gives 300 BC, not 100 BC."
       ]
     },
     {
       "id": 4,
-      "question": "When did Euclid live?",
+      "question": "What nationality was Euclid?",
       "options": [
-        "Around 300 BC",
-        "Around 300 AD",
-        "Around 1000 BC",
-        "Around 1500 AD"
+        "Ancient Greek",
+        "Ancient Roman",
+        "Ancient Egyptian",
+        "Ancient Persian"
       ],
       "answer_explanations": [
-        "Correct. The article states Euclid lived around 300 BC.",
-        "Incorrect. The article places Euclid around 300 BC, not AD.",
-        "Incorrect. The article does not place Euclid around 1000 BC.",
-        "Incorrect. The article does not place Euclid around 1500 AD."
+        "Correct. The article describes Euclid as 'an ancient Greek mathematician'.",
+        "Incorrect. The article identifies Euclid as ancient Greek, not Roman.",
+        "Incorrect. Although he worked in Alexandria, the article calls him ancient Greek.",
+        "Incorrect. The article identifies Euclid as ancient Greek, not Persian."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following did Euclid write works on?",
+      "question": "Which of the following is NOT mentioned as an earlier Greek mathematician whose theories Euclid synthesized?",
       "options": [
-        "Perspective",
-        "Cooking",
-        "Medicine",
-        "Music"
+        "Aristotle",
+        "Eudoxus of Cnidus",
+        "Hippocrates of Chios",
+        "Thales"
       ],
       "answer_explanations": [
-        "Correct. The article lists perspective among the subjects Euclid wrote about.",
-        "Incorrect. The article does not mention Euclid writing about cooking.",
-        "Incorrect. The article does not mention Euclid writing about medicine.",
-        "Incorrect. The article does not mention Euclid writing about music."
+        "Correct. The article lists Eudoxus, Hippocrates, Thales, and Theaetetus, but not Aristotle.",
+        "Incorrect. Eudoxus of Cnidus is explicitly listed in the article.",
+        "Incorrect. Hippocrates of Chios is explicitly listed in the article.",
+        "Incorrect. Thales is explicitly listed in the article."
       ]
     },
     {
       "id": 6,
-      "question": "What does the English name Euclid derive from?",
+      "question": "Along with which two mathematicians is Euclid generally considered among the greatest of antiquity?",
       "options": [
-        "The Ancient Greek name EukleÃ­des",
-        "The Latin name Euclidus",
-        "The Egyptian name Euclid",
-        "The Persian name Euklid"
+        "Archimedes and Apollonius of Perga",
+        "Plato and Socrates",
+        "Pythagoras and Aristotle",
+        "Eudoxus and Thales"
       ],
       "answer_explanations": [
-        "Correct. The article says the English name 'Euclid' is the anglicized version of the Ancient Greek name EukleÃ­des.",
-        "Incorrect. The article does not mention a Latin name Euclidus.",
-        "Incorrect. The article does not mention an Egyptian name Euclid.",
-        "Incorrect. The article does not mention a Persian name Euklid."
+        "Correct. The article says 'With Archimedes and Apollonius of Perga, Euclid is generally considered among the greatest mathematicians of antiquity'.",
+        "Incorrect. Plato and Socrates are not mentioned as mathematicians alongside Euclid.",
+        "Incorrect. Pythagoras and Aristotle are not mentioned in this context.",
+        "Incorrect. Eudoxus and Thales are earlier mathematicians, not the ones named with Euclid as greatest of antiquity."
       ]
     },
     {
       "id": 7,
-      "question": "What does the name Euclid mean?",
+      "question": "What is the name of Euclid's system of geometry?",
       "options": [
-        "Renowned, glorious",
-        "Wise, thoughtful",
-        "Strong, powerful",
-        "Quiet, humble"
+        "Euclidean geometry",
+        "Archimedean geometry",
+        "Platonic geometry",
+        "Alexandrian geometry"
       ],
       "answer_explanations": [
-        "Correct. The article states the name means \"renowned, glorious\".",
-        "Incorrect. The article does not say the name means wise or thoughtful.",
-        "Incorrect. The article does not say the name means strong or powerful.",
-        "Incorrect. The article does not say the name means quiet or humble."
+        "Correct. The article says 'His system, now referred to as Euclidean geometry'.",
+        "Incorrect. The article does not use the term Archimedean geometry for Euclid's system.",
+        "Incorrect. The article does not use the term Platonic geometry for Euclid's system.",
+        "Incorrect. The article does not use the term Alexandrian geometry for Euclid's system."
       ]
     },
     {
       "id": 8,
-      "question": "Who are two scholars that provided information about Euclid's life centuries later?",
+      "question": "Until when did Euclid's geometry largely dominate the field?",
       "options": [
-        "Proclus and Pappus of Alexandria",
-        "Plato and Aristotle",
-        "Archimedes and Apollonius",
-        "Galen and Alexander of Aphrodisias"
+        "The early 19th century",
+        "The early 18th century",
+        "The early 20th century",
+        "The early 17th century"
       ],
       "answer_explanations": [
-        "Correct. The article says most information comes from Proclus and Pappus of Alexandria many centuries later.",
-        "Incorrect. Plato and Aristotle are not the scholars cited for biographical information.",
-        "Incorrect. Archimedes and Apollonius are mathematicians, not the biographical sources named.",
-        "Incorrect. Galen and Alexander of Aphrodisias cited the Elements, not Euclid's life."
+        "Correct. The article says his geometry 'largely dominated the field until the early 19th century'.",
+        "Incorrect. The article specifies the early 19th century, not the 18th.",
+        "Incorrect. The article specifies the early 19th century, not the 20th.",
+        "Incorrect. The article specifies the early 19th century, not the 17th."
       ]
     },
     {
       "id": 9,
-      "question": "What is the oldest physical copy of material from the Elements found on?",
+      "question": "According to the introduction, where is it generally accepted that Euclid spent his career?",
       "options": [
-        "Papyrus fragments from Oxyrhynchus",
-        "Stone tablets from Athens",
-        "Parchment from Rome",
-        "Papyrus from Alexandria"
+        "Alexandria",
+        "Athens",
+        "Rome",
+        "Syracuse"
       ],
       "answer_explanations": [
-        "Correct. The article states the oldest physical copies are papyrus fragments unearthed in Oxyrhynchus.",
-        "Incorrect. The article does not mention stone tablets from Athens.",
-        "Incorrect. The article does not mention parchment from Rome.",
-        "Incorrect. The article specifies Oxyrhynchus, not Alexandria."
+        "Correct. The article states 'It is now generally accepted that he spent his career in Alexandria'.",
+        "Incorrect. Athens is mentioned as the place of Plato's tradition, but Euclid's career was in Alexandria.",
+        "Incorrect. Rome is not mentioned in the introduction.",
+        "Incorrect. Syracuse is not mentioned in the introduction."
       ]
     },
     {
@@ -152,15 +152,15 @@
       "question": "What did Euclid deduce the theorems from in the Elements?",
       "options": [
         "A small set of axioms",
-        "A large set of experiments",
-        "A series of observations",
-        "A collection of myths"
+        "A large set of postulates",
+        "Observations of nature",
+        "The works of Archimedes"
       ],
       "answer_explanations": [
-        "Correct. The article states Euclid deduced the theorems from a small set of axioms.",
-        "Incorrect. The article does not mention experiments.",
-        "Incorrect. The article does not mention observations.",
-        "Incorrect. The article does not mention myths."
+        "Correct. The article says 'In the Elements, Euclid deduced the theorems from a small set of axioms'.",
+        "Incorrect. The article specifically says a small set of axioms, not a large set of postulates.",
+        "Incorrect. The article does not say he used observations of nature.",
+        "Incorrect. The article does not say he used the works of Archimedes for the Elements."
       ]
     }
   ]

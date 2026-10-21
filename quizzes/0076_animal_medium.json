@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following is a structural characteristic that sets animals apart from all other living things?",
+      "question": "What is the scientific study of animals known as?",
       "options": [
-        "Cells surrounded by an extracellular matrix composed of collagen and elastic glycoproteins",
-        "The ability to produce their own food through photosynthesis",
-        "Cells held in place by rigid cell walls",
-        "Development by progressive growth without cell rearrangement"
+        "Zoology",
+        "Ethology",
+        "Botany",
+        "Ecology"
       ],
       "answer_explanations": [
-        "Correct. The article states that animals have structural characteristics such as cells surrounded by an extracellular matrix composed of collagen and elastic glycoproteins.",
-        "Incorrect. Animals cannot produce their own food; they are heterotrophs, unlike plants and algae.",
-        "Incorrect. Animal cells are not held in place by cell walls; this is true of algae, plants, and fungi.",
-        "Incorrect. Animals develop by cells moving and reorganising into specialised tissues, not by progressive growth."
+        "Correct. The article states, \"The scientific study of animals is known as zoology.\"",
+        "Incorrect. The article says the study of animal behaviour is known as ethology, not the study of animals themselves.",
+        "Incorrect. Botany is the study of plants, not animals.",
+        "Incorrect. Ecology is the study of interactions between organisms and their environments, not the study of animals specifically."
       ]
     },
     {
       "id": 2,
-      "question": "What is the blastula in animal embryonic development?",
+      "question": "According to the article, which clade contains most living animal species?",
       "options": [
-        "A hollow sphere of cells that forms during early embryonic development",
-        "A digestive chamber with two openings found in most bilaterians",
-        "A type of germ layer that forms the external body covering",
-        "A motile gamete produced by meiosis"
+        "Bilateria",
+        "Porifera",
+        "Cnidaria",
+        "Placozoa"
       ],
       "answer_explanations": [
-        "Correct. The article describes the blastula as a hollow sphere of cells from which animals grow during embryonic development.",
-        "Incorrect. A digestive chamber with one or two openings is a structural feature, not the blastula.",
-        "Incorrect. The ectoderm is the external germ layer, not the blastula.",
-        "Incorrect. Spermatozoa are the smaller, motile gametes, not the blastula."
+        "Correct. The article states, \"Most living animal species belong to the clade Bilateria.\"",
+        "Incorrect. Porifera is one of the five major clades, but the article says most species are in Bilateria.",
+        "Incorrect. Cnidaria is one of the five major clades, but the article says most species are in Bilateria.",
+        "Incorrect. Placozoa is one of the five major clades, but the article says most species are in Bilateria."
       ]
     },
     {
       "id": 3,
-      "question": "Which two large clades make up the vast majority of bilaterians?",
+      "question": "When did most modern animal phyla appear as marine species?",
       "options": [
-        "Protostomes and deuterostomes",
-        "Porifera and Ctenophora",
-        "Cnidaria and Placozoa",
-        "Echinoderms and arthropods"
+        "In the Cambrian explosion, which began around 539 million years ago",
+        "In the Ordovician radiation 485.4 million years ago",
+        "In the Ediacaran period",
+        "In the Cryogenian period"
       ],
       "answer_explanations": [
-        "Correct. The article states that the vast majority of bilaterians belong to the protostomes and deuterostomes.",
-        "Incorrect. Porifera and Ctenophora are separate major clades of the animal kingdom, not subdivisions of bilaterians.",
-        "Incorrect. Cnidaria and Placozoa are major clades but are not the two large clades within Bilateria.",
-        "Incorrect. Echinoderms are deuterostomes and arthropods are protostomes, but they are examples within the clades, not the clades themselves."
+        "Correct. The article says, \"most modern animal phyla appearing as marine species in the Cambrian explosion, which began around 539 million years ago.\"",
+        "Incorrect. The article says most classes appeared during the Ordovician radiation, not most phyla.",
+        "Incorrect. The article says animals are first represented in the fossil record in the Ediacaran period, but it doesn't say most phyla appeared then.",
+        "Incorrect. The Cryogenian period is mentioned as when the common ancestor of all living animals lived, not when most phyla appeared."
       ]
     },
     {
       "id": 4,
-      "question": "What did Ernst Haeckel divide the animal kingdom into in 1874?",
+      "question": "Who created the first hierarchical biological classification for animals in 1758?",
       "options": [
-        "Multicellular Metazoa and single-celled Protozoa",
-        "Animals with blood and animals without blood",
-        "Protostomes and deuterostomes",
-        "Five major clades including Porifera and Ctenophora"
+        "Carl Linnaeus",
+        "Aristotle",
+        "Jean-Baptiste Lamarck",
+        "Ernst Haeckel"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1874, Ernst Haeckel divided the animal kingdom into the multicellular Metazoa and the Protozoa.",
-        "Incorrect. Aristotle divided animals into those with blood and those without, not Haeckel.",
-        "Incorrect. Protostomes and deuterostomes are clades within Bilateria, not Haeckel's division.",
-        "Incorrect. The five major clades are a modern classification, not Haeckel's 1874 division."
+        "Correct. The article states, \"Carl Linnaeus created the first hierarchical biological classification for animals in 1758 with his Systema Naturae.\"",
+        "Incorrect. Aristotle divided animals into those with blood and those without, but he did not create the first hierarchical classification.",
+        "Incorrect. Jean-Baptiste Lamarck expanded the classification into 14 phyla by 1809, but he didn't create the first one.",
+        "Incorrect. Ernst Haeckel divided the animal kingdom into Metazoa and Protozoa in 1874, which was later than Linnaeus."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is true about inbreeding in animals?",
+      "question": "What does the word 'animal' come from?",
       "options": [
-        "It generally leads to inbreeding depression due to increased prevalence of harmful recessive traits",
-        "It increases genetic diversity and strengthens populations",
-        "It is the primary method of asexual reproduction in animals",
-        "It is avoided only in sponges and cnidarians"
+        "The Latin noun 'animal'",
+        "The Ancient Greek word 'zÅion'",
+        "The Latin word 'animalis'",
+        "The Ancient Greek word 'meta'"
       ],
       "answer_explanations": [
-        "Correct. The article states that repeated mating with a close relative generally leads to inbreeding depression due to the increased prevalence of harmful recessive traits.",
-        "Incorrect. Inbreeding reduces genetic fitness and leads to depression, not increased diversity.",
-        "Incorrect. Asexual reproduction includes fragmentation, budding, and parthenogenesis, not inbreeding.",
-        "Incorrect. The article states animals have evolved numerous mechanisms for avoiding close inbreeding generally, not only in sponges and cnidarians."
+        "Correct. The article says, \"The word animal comes from the Latin noun animal of the same meaning.\"",
+        "Incorrect. The article says 'zÅion' is the Ancient Greek word for 'animal' that is part of the derivation of 'metazoa', not the origin of the word 'animal'.",
+        "Incorrect. The article says 'animal' is derived from Latin 'animalis', but the word itself comes from the Latin noun 'animal'.",
+        "Incorrect. 'Meta' is a Greek prefix meaning 'after' or 'later', used in the term 'metazoa', not the origin of the word 'animal'."
       ]
     },
     {
       "id": 6,
-      "question": "How do parasitoid wasps demonstrate multiple feeding methods?",
+      "question": "Which of the following is a structural characteristic that sets animals apart from all other living things?",
       "options": [
-        "Larvae feed on hosts' living tissues while adults primarily consume nectar",
-        "Both larvae and adults feed exclusively on nectar from flowers",
-        "They are strict herbivores that only eat plant leaves",
-        "They produce their own food through photosynthesis"
+        "Cells surrounded by an extracellular matrix composed of collagen",
+        "Being multicellular and eukaryotic",
+        "Being aerobic",
+        "Producing their own food"
       ],
       "answer_explanations": [
-        "Correct. The article states that in parasitoid wasps, larvae feed on hosts' living tissues while adults primarily consume nectar from flowers.",
-        "Incorrect. The larvae do not consume nectar; they feed on host tissues.",
-        "Incorrect. Parasitoid wasps are not described as herbivores.",
-        "Incorrect. Animals cannot produce their own food through photosynthesis."
+        "Correct. The article states that animals have structural characteristics such as \"cells being surrounded by an extracellular matrix composed of collagen and elastic glycoproteins.\"",
+        "Incorrect. The article says animals share being eukaryotic and multicellular with plants and fungi.",
+        "Incorrect. The article says animals are aerobic, as are plants and fungi.",
+        "Incorrect. Animals cannot produce their own food; they ingest organic material, unlike plants and algae."
       ]
     },
     {
       "id": 7,
-      "question": "Which group contains the vertebrates?",
+      "question": "What are the smaller, motile gametes produced by animals called?",
       "options": [
-        "Chordates",
-        "Arthropods",
-        "Molluscs",
-        "Echinoderms"
+        "Spermatozoa",
+        "Ova",
+        "Zygotes",
+        "Blastulas"
       ],
       "answer_explanations": [
-        "Correct. The article states that chordates are the clade that contains the vertebrates.",
-        "Incorrect. Arthropods are protostomes and do not contain vertebrates.",
-        "Incorrect. Molluscs are protostomes and do not contain vertebrates.",
-        "Incorrect. Echinoderms are deuterostomes but are a separate group from chordates."
+        "Correct. The article says, \"the smaller, motile gametes are spermatozoa.\"",
+        "Incorrect. The article says the larger, non-motile gametes are ova.",
+        "Incorrect. Zygotes are formed when gametes fuse, not the gametes themselves.",
+        "Incorrect. A blastula is a hollow sphere of cells that develops from the zygote, not a gamete."
       ]
     },
     {
       "id": 8,
-      "question": "What is the estimated total number of animal species on Earth?",
+      "question": "What is an example of asexual reproduction mentioned in the article?",
       "options": [
-        "As many as 7.77 million",
-        "Over 1.5 million",
-        "Around 1.05 million",
-        "Around 65,000"
+        "Budding, such as in Hydra",
+        "Fusing of spermatozoa and ova",
+        "Formation of a gastrula",
+        "Inbreeding depression"
       ],
       "answer_explanations": [
-        "Correct. The article estimates there are as many as 7.77 million animal species on Earth.",
-        "Incorrect. Over 1.5 million is the number of living animal species that have been described, not the estimated total.",
-        "Incorrect. Around 1.05 million is the number of described insect species.",
-        "Incorrect. Around 65,000 is the number of described vertebrate species."
+        "Correct. The article says asexual reproduction \"may take place through fragmentation; budding, such as in Hydra and other cnidarians; or parthenogenesis.\"",
+        "Incorrect. The fusing of spermatozoa and ova is sexual reproduction, not asexual.",
+        "Incorrect. The gastrula is a stage in embryonic development after fertilization, not a form of asexual reproduction.",
+        "Incorrect. Inbreeding depression is a consequence of mating with close relatives, not a method of reproduction."
       ]
     },
     {
       "id": 9,
-      "question": "What is etymological origin of the word 'animal'?",
+      "question": "Which ecological group includes animals that eat both plants and animals?",
       "options": [
-        "From the Latin 'animalis', meaning 'having breath or soul'",
-        "From Ancient Greek 'zÅion', meaning 'animal'",
-        "From the Latin 'metazoa', meaning 'after animals'",
-        "From Old English 'anim', meaning 'living creature'"
+        "Omnivores",
+        "Herbivores",
+        "Carnivores",
+        "Detritivores"
       ],
       "answer_explanations": [
-        "Correct. The article states the word animal comes from the Latin noun animal, derived from Latin animalis meaning 'having breath or soul'.",
-        "Incorrect. 'ZÅion' is part of the etymology of 'metazoa', not 'animal'.",
-        "Incorrect. 'Metazoa' is derived from Greek, not the origin of the word 'animal'.",
-        "Incorrect. The article traces 'animal' to Latin, not Old English."
+        "Correct. The article lists omnivores as one of the ecological groups based on trophic levels and how they consume organic material.",
+        "Incorrect. Herbivores eat plants, not both plants and animals.",
+        "Incorrect. Carnivores eat other animals, not plants.",
+        "Incorrect. Detritivores feed on dead organic material, not both plants and animals."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following best describes the ecological role of herbivores?",
+      "question": "What do most animals rely on for biomass and bioenergy?",
       "options": [
-        "They are primary consumers that eat producers such as plants and phytoplankton",
-        "They produce biomass and bioenergy through photosynthesis",
-        "They feed on other animals as predators in food webs",
-        "They decompose dead organic material as detritivores"
+        "Plants and phytoplanktons",
+        "Other animals only",
+        "Fungi",
+        "Soil minerals"
       ],
       "answer_explanations": [
-        "Correct. The article states herbivores are primary consumers that rely on biomass and bioenergy produced by plants and phytoplankton.",
-        "Incorrect. Plants and phytoplankton are producers, not herbivores.",
-        "Incorrect. Carnivores and omnivores feed on other animals; herbivores eat producers.",
-        "Incorrect. Scavengers and detritivores decompose dead material; herbivores consume living producers."
+        "Correct. The article states, \"Most animals rely on biomass and bioenergy produced by plants and phytoplanktons (collectively called producers) through photosynthesis.\"",
+        "Incorrect. The article says most animals rely on producers like plants and phytoplankton, not just other animals.",
+        "Incorrect. Fungi are not mentioned as the primary source of biomass and bioenergy for most animals.",
+        "Incorrect. Soil minerals are not the source of biomass and bioenergy for animals; producers like plants are."
       ]
     }
   ]

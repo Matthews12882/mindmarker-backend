@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "A researcher is classifying a newly discovered photosynthetic organism that possesses chlorophylls a and b, has cellulose in its cell walls, and stores starch in plastids bound by two membranes, but is unicellular. Under which concept of Plantae would this organism be included?",
+      "question": "Given the article's description of the historical and current definitions of 'plant', what is the most significant implication of the shift from Aristotle's concept to the modern Viridiplantae clade?",
       "options": [
-        "Green plants (Viridiplantae), or plants in a strict sense",
-        "Land plants (Embryophyta), or plants in the strictest sense",
-        "Archaeplastida, or plants in a broad sense",
-        "Old definitions of plant, or plants in the widest sense"
+        "It reflects a move from a functional/animate classification to a phylogenetically based one, excluding fungi and some algae.",
+        "It reflects a broadening of the plant kingdom to include all photosynthetic organisms, including bacteria.",
+        "It reflects a narrowing that excludes all algae, leaving only land plants.",
+        "It reflects a change that had little impact on which organisms are considered plants."
       ],
       "answer_explanations": [
-        "Correct. The article states that Viridiplantae includes organisms with cellulose in cell walls, chlorophylls a and b, and two-membrane plastids capable of photosynthesis and starch storage, and explicitly notes this grouping includes some unicellular organisms.",
-        "Incorrect. Land plants (Embryophyta) are described as multicellular, so a unicellular organism would not qualify under this strictest concept.",
-        "Incorrect. Archaeplastida is a broader concept that includes red algae and glaucophytes, but the described traits specifically match the Viridiplantae definition given in the article.",
-        "Incorrect. Old definitions included unrelated groups like fungi and bacteria, which does not match the specific cellular and pigment traits described."
+        "Correct. The article states that historically the plant kingdom included all non-animals, including algae and fungi, but 'current definitions exclude fungi and some of the algae' and define plants as the clade Viridiplantae, which is a phylogenetic grouping.",
+        "Incorrect. The article does not include bacteria in any current definition; bacteria are only mentioned in obsolete 'sensu amplo' definitions.",
+        "Incorrect. The Viridiplantae clade includes green algae, so not all algae are excluded.",
+        "Incorrect. The shift is significant because it changes the boundaries of the group based on evolutionary relationships, not just surface features."
       ]
     },
     {
       "id": 2,
-      "question": "If a scientist discovers a fossilized organism from Precambrian rocks with a flattened thallus, what does the article suggest this indicates about early plant evolution?",
+      "question": "Based on the article, what conclusion can be drawn about the relationship between the concepts of Viridiplantae and Archaeplastida?",
       "options": [
-        "Multicellular freshwater eukaryotes existed over 1000 million years ago",
-        "The first true land plants appeared during the Ordovician period",
-        "Parasitic plants evolved before photosynthetic plants",
-        "Flowering plants originated in the Triassic period"
+        "Archaeplastida is a broader clade that includes Viridiplantae plus red algae and glaucophytes.",
+        "Viridiplantae is a broader clade that includes Archaeplastida plus fungi.",
+        "They are synonymous terms for the same group of organisms.",
+        "Archaeplastida is a subset of Viridiplantae, containing only land plants."
       ],
       "answer_explanations": [
-        "Correct. The article states that fossils of organisms with a flattened thallus in Precambrian rocks suggest multicellular freshwater eukaryotes existed over 1000 million years ago.",
-        "Incorrect. The Ordovician, around 450 million years ago, is when the first land plants appeared, not Precambrian thallus fossils.",
-        "Incorrect. The article mentions parasitic plants as a later evolutionary development but does not connect them to Precambrian fossils.",
-        "Incorrect. Flowering plants are discussed as evolving in the Triassic and radiating in the Cretaceous, unrelated to Precambrian thallus fossils."
+        "Correct. The article states that a genome-based definition 'includes the Viridiplantae, along with the red algae and the glaucophytes, in the clade Archaeplastida', making Archaeplastida the more inclusive group.",
+        "Incorrect. Fungi are not included in either clade; they are excluded from modern definitions.",
+        "Incorrect. They are not synonymous; Archaeplastida is more inclusive as it adds red algae and glaucophytes.",
+        "Incorrect. Archaeplastida includes more than Viridiplantae, not less, and Viridiplantae includes green algae, not just land plants."
       ]
     },
     {
       "id": 3,
-      "question": "A botanist is studying a group of organisms that acquired primary chloroplasts directly by engulfing cyanobacteria. Which of the four concepts of Plantae described in the article best fits this group?",
+      "question": "The article notes that some plants have evolved to be parasitic. What does this imply about the definition of plants as photosynthetic organisms?",
       "options": [
-        "Archaeplastida, or plants in a broad sense",
-        "Land plants (Embryophyta), or plants in the strictest sense",
-        "Green plants (Viridiplantae), or plants in a strict sense",
-        "Old definitions of plant, or plants in the widest sense"
+        "Photosynthesis is not a universal characteristic of all plants, as some have lost it and rely on other organisms.",
+        "Parasitic plants are not true plants because they do not photosynthesize.",
+        "Parasitic plants still photosynthesize but also derive energy from hosts.",
+        "The definition of plants is based solely on their ability to photosynthesize."
       ],
       "answer_explanations": [
-        "Correct. The article states that Archaeplastida comprises organisms that eons ago acquired their primary chloroplasts directly by engulfing cyanobacteria.",
-        "Incorrect. Land plants are defined as multicellular embryophytes and are not defined by the direct engulfment of cyanobacteria.",
-        "Incorrect. Green plants (Viridiplantae) are defined by cellulose cell walls, chlorophylls a and b, and two-membrane plastids, not specifically by the cyanobacteria engulfment event.",
-        "Incorrect. Old definitions included algae, fungi, and bacteria in the widest sense and are obsolete, not defined by chloroplast acquisition via cyanobacteria."
+        "Correct. The article states that plants are 'predominantly photosynthetic or came from photosynthetic ancestors' and that some have evolved to be parasitic, meaning they take energy from other organisms, implying that photosynthesis is not universal.",
+        "Incorrect. The article includes parasitic plants within the plant kingdom, so they are still considered plants.",
+        "Incorrect. The article does not state that parasitic plants still photosynthesize; it says they take energy from other organisms.",
+        "Incorrect. The definition is broader, including those that came from photosynthetic ancestors, not just those that currently photosynthesize."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article's evolutionary timeline, which of the following sequences correctly orders the appearance of major plant developments?",
+      "question": "What is the most significant implication of the fact that about 85â90% of plant species are flowering plants?",
       "options": [
-        "First land plants in the Ordovician, followed by primitive land plant diversification in the late Silurian, then the Carboniferous development of swamp forests",
-        "Primitive land plant diversification in the late Silurian, followed by first land plants in the Ordovician, then Carboniferous swamp forests",
-        "Carboniferous swamp forests, followed by first land plants in the Ordovician, then primitive land plant diversification in the late Silurian",
-        "First land plants in the Ordovician, followed by Carboniferous swamp forests, then primitive land plant diversification in the late Silurian"
+        "Flowering plants dominate the plant kingdom in terms of species diversity, indicating their evolutionary success.",
+        "Flowering plants are the only plants that produce seeds.",
+        "The majority of plant species are non-flowering, such as ferns and mosses.",
+        "Flowering plants are the most recently evolved and therefore the most advanced."
       ],
       "answer_explanations": [
-        "Correct. The article presents this sequence: first land plants appeared in the Ordovician around 450 million years ago, primitive land plants diversified in the late Silurian around 420 million years ago, and the Carboniferous saw swamp forests dominated by clubmosses and horsetails.",
-        "Incorrect. This reverses the Ordovician and Silurian events; the article states land plants appeared in the Ordovician before diversifying in the Silurian.",
-        "Incorrect. This places the Carboniferous first, but the article presents it as occurring after both the Ordovician and Silurian developments.",
-        "Incorrect. This places the Carboniferous before the Silurian diversification, which contradicts the article's chronological presentation."
+        "Correct. The article states that 'about 85â90% of all plant species are flowering plants', which implies they are the dominant group in terms of diversity, a sign of evolutionary success.",
+        "Incorrect. Seed plants include gymnosperms as well, not just flowering plants.",
+        "Incorrect. The opposite is true; flowering plants are the majority.",
+        "Incorrect. While flowering plants evolved later, the article does not claim they are 'most advanced', only that they are diverse."
       ]
     },
     {
       "id": 5,
-      "question": "A student argues that because some plants have evolved to be parasitic and obtain energy from other organisms, they should no longer be classified in the kingdom Plantae. Based on the article, how should this argument be evaluated?",
+      "question": "The article describes the Permo-Triassic extinction event as radically changing community structures and possibly enabling the evolution of flowering plants. What does this suggest about the relationship between mass extinctions and evolutionary innovation?",
       "options": [
-        "The argument is invalid because the article explicitly states that some plants have evolved to be parasitic while remaining plants",
-        "The argument is valid because parasitic plants lack chlorophyll and cannot photosynthesize",
-        "The argument is valid because the article defines plants exclusively as photosynthetic organisms",
-        "The argument is invalid because only non-parasitic algae are considered true plants"
+        "Mass extinctions can open ecological niches that allow new groups to diversify and thrive.",
+        "Mass extinctions always lead to the immediate evolution of new major groups.",
+        "Mass extinctions have no effect on the evolution of plants.",
+        "Mass extinctions only affect animals, not plants."
       ],
       "answer_explanations": [
-        "Correct. The article states that plants are predominantly photosynthetic but that some have evolved to be parasitic, taking energy from other organisms, while still being considered plants.",
-        "Incorrect. The article does not state that parasitic plants are excluded from Plantae due to lacking chlorophyll.",
-        "Incorrect. The article explicitly acknowledges parasitic plants as plants, so it does not define plants exclusively as photosynthetic.",
-        "Incorrect. The article includes various algae in plant concepts and does not restrict true plants to non-parasitic algae."
+        "Correct. The article states that the Permo-Triassic extinction 'radically changed the structures of communities. This may have enabled the evolution of flowering plants', implying that extinctions can create opportunities for new groups.",
+        "Incorrect. The article says 'may have enabled', not that it always leads to immediate evolution; it is a possibility, not a certainty.",
+        "Incorrect. The article suggests a link between the extinction and plant evolution, so it does have an effect.",
+        "Incorrect. The article discusses the impact on plant communities, so it affects plants."
       ]
     },
     {
       "id": 6,
-      "question": "If a new genome-based phylogeny analysis placed a particular algal group outside of Archaeplastida, what would this imply according to the article's definition of Archaeplastida?",
+      "question": "Given the article's information on the Rhynie chert, what is the most important reason it is significant to the study of early plant evolution?",
       "options": [
-        "The group did not acquire its primary chloroplasts directly by engulfing cyanobacteria",
-        "The group lacks cellulose in its cell walls",
-        "The group is not multicellular",
-        "The group does not possess chlorophylls a and b"
+        "It preserves early plant anatomy in cellular detail, providing direct evidence of their structure.",
+        "It contains the oldest known fossils of flowering plants.",
+        "It proves that plants originated in volcanic hot springs.",
+        "It shows that plants had already developed seeds by the Devonian."
       ],
       "answer_explanations": [
-        "Correct. The article defines Archaeplastida as the clade including all organisms that acquired their primary chloroplasts directly by engulfing cyanobacteria, so exclusion would imply a different origin.",
-        "Incorrect. Cellulose cell walls are mentioned as a feature of Viridiplantae, not as the defining criterion for Archaeplastida.",
-        "Incorrect. Multicellularity is not the defining feature of Archaeplastida; the article notes this clade includes single-celled organisms.",
-        "Incorrect. Chlorophylls a and b are characteristics of Viridiplantae, not the defining criterion for Archaeplastida membership."
+        "Correct. The article states that 'early plant anatomy is preserved in cellular detail in an early Devonian fossil assemblage from the Rhynie chert', which is crucial for understanding the structure of early plants.",
+        "Incorrect. Flowering plants evolved much later, in the Triassic/Cretaceous, not the Devonian.",
+        "Incorrect. The chert formed in silica-rich volcanic hot springs, but that does not prove plants originated there; it just explains preservation.",
+        "Incorrect. The article does not mention seeds in the Devonian; seeds appear later with gymnosperms."
       ]
     },
     {
       "id": 7,
-      "question": "A researcher examining the diversity table notes that angiosperms account for roughly 258,650 of the approximately 382,000 accepted plant species. What does the article state about the proportion of all plant species that are flowering plants?",
+      "question": "The article mentions that the clade Viridiplantae is characterized by having cellulose in cell walls, chlorophylls a and b, and plastids with two membranes. What does this set of characteristics imply about the evolutionary history of green plants?",
       "options": [
-        "About 85â90% of all plant species are flowering plants",
-        "About 50% of all plant species are flowering plants",
-        "About 25% of all plant species are flowering plants",
-        "About 95â99% of all plant species are flowering plants"
+        "These shared traits indicate a common ancestry and a single origin of primary chloroplasts.",
+        "These traits are also found in red algae, indicating they are all part of the same group.",
+        "These traits are unique to land plants and not found in any algae.",
+        "These traits suggest that green plants evolved chloroplasts independently multiple times."
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states that about 85â90% of all plant species are flowering plants.",
-        "Incorrect. The article gives a much higher estimate of 85â90%, not 50%.",
-        "Incorrect. The article states that flowering plants comprise the vast majority, not just 25%.",
-        "Incorrect. The article's estimate is 85â90%, not 95â99%."
+        "Correct. The article describes these as defining characteristics of Viridiplantae, and later notes that Archaeplastida acquired primary chloroplasts by engulfing cyanobacteria, implying a common origin for these traits.",
+        "Incorrect. Red algae store Floridean starch outside plastids and have different chlorophylls, so they are not part of Viridiplantae.",
+        "Incorrect. Viridiplantae includes green algae, which also have these traits.",
+        "Incorrect. The article suggests a single primary endosymbiosis event for Archaeplastida, not multiple independent origins."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, which of the following best describes the relationship between the definitions of Plantae sensu strictissimo, sensu stricto, sensu lato, and sensu amplo?",
+      "question": "What conclusion can be drawn from the article's statement that the naming of plants is governed by two international codes?",
       "options": [
-        "They represent progressively more inclusive groupings, from land plants only to algae, fungi, and bacteria",
-        "They represent four unrelated classification systems with no hierarchical relationship",
-        "They represent progressively more restrictive groupings, from all organisms to only land plants",
-        "They are synonymous terms that all refer to the same group of organisms"
+        "Plant naming is standardized to avoid confusion and ensure consistency across scientific and cultivated contexts.",
+        "Plant naming is arbitrary and varies by country.",
+        "There is no need for regulation because plant names are universally understood.",
+        "The codes only apply to wild plants, not cultivated ones."
       ],
       "answer_explanations": [
-        "Correct. The article presents the four concepts from least to most inclusive: land plants (strictest), green plants (strict), Archaeplastida (broad), and old definitions including algae, fungi, and bacteria (widest).",
-        "Incorrect. The article explicitly orders these concepts from least to most inclusive, showing a clear hierarchical relationship.",
-        "Incorrect. This reverses the relationship; the article shows sensu amplo as the widest and sensu strictissimo as the strictest.",
-        "Incorrect. The article clearly distinguishes these four concepts with different scopes and descriptions."
+        "Correct. The article mentions the International Code of Nomenclature for algae, fungi, and plants and the International Code of Nomenclature for Cultivated Plants, implying a standardized system for naming, which helps avoid confusion.",
+        "Incorrect. The existence of international codes suggests standardization, not arbitrariness.",
+        "Incorrect. The codes exist precisely because there is a need for regulation.",
+        "Incorrect. The second code specifically covers cultivated plants, so it applies to them."
       ]
     },
     {
       "id": 9,
-      "question": "A student is comparing the article's two species count figures: about 380,000 known species in the introduction and about 382,000 accepted species in the diversity section. What does the article indicate about the majority of plant species in both cases?",
+      "question": "The article notes that the ancestors of land plants evolved in water and that an algal scum formed on land 1,200 million years ago, but the first land plants appeared around 450 million years ago. What does this timeline imply about the transition to land?",
       "options": [
-        "The great majority produce seeds in both figures",
-        "The great majority are non-seed-producing plants in both figures",
-        "The great majority are flowering plants in the first figure but not the second",
-        "The great majority are trees in both figures"
+        "The transition from aquatic algae to land plants took hundreds of millions of years, suggesting a gradual process.",
+        "Land plants evolved almost immediately after algae appeared on land.",
+        "Algal scum was the first land plant, so the transition was rapid.",
+        "The timeline shows that land plants evolved from red algae, not green algae."
       ],
       "answer_explanations": [
-        "Correct. The introduction states that of about 380,000 known species, some 260,000 produce seeds, and the diversity section states that of about 382,000 accepted species, some 283,000 produce seeds.",
-        "Incorrect. Both figures indicate that the great majority produce seeds, not that they are non-seed-producing.",
-        "Incorrect. While the article notes 85â90% are flowering plants, the seed-producing majority is the consistent point across both figures.",
-        "Incorrect. The article does not state that the great majority are trees; it notes plants range from single cells to the tallest trees."
+        "Correct. The article gives a long gap between the algal scum (1,200 Ma) and the first land plants (450 Ma), implying a gradual evolutionary process over hundreds of millions of years.",
+        "Incorrect. The gap is about 750 million years, not immediate.",
+        "Incorrect. Algal scum is not considered a land plant; it is an algal growth, and land plants appeared later.",
+        "Incorrect. The article does not specify that land plants evolved from red algae; it mentions green algae and embryophytes."
       ]
     },
     {
       "id": 10,
-      "question": "If a paleontologist discovers plant fossils from the Devonian period showing roots, leaves, and secondary wood, how does this align with the article's account of plant evolution?",
+      "question": "Based on the article's description of the four concepts of 'plant', what is the most fundamental difference between the 'sensu strictissimo' (land plants) and 'sensu stricto' (green plants) concepts?",
       "options": [
-        "It aligns with the article's statement that by the end of the Devonian, most basic features of plants today were present",
-        "It contradicts the article, which states roots and leaves did not evolve until the Carboniferous",
-        "It aligns with the article's claim that flowering plants first appeared in the Devonian",
-        "It contradicts the article, which states secondary wood only evolved in the Jurassic"
+        "The strictest sense excludes green algae, while the strict sense includes them.",
+        "The strictest sense includes fungi, while the strict sense does not.",
+        "The strictest sense is based on genome data, while the strict sense is based on morphology.",
+        "The strictest sense includes all photosynthetic organisms, while the strict sense only includes land plants."
       ],
       "answer_explanations": [
-        "Correct. The article states that by the end of the Devonian, most basic features of plants today were present, including roots, leaves, and secondary wood in trees such as Archaeopteris.",
-        "Incorrect. The article places the presence of roots and leaves by the end of the Devonian, not first in the Carboniferous.",
-        "Incorrect. The article states flowering plants evolved in the Triassic and radiated in the Cretaceous, not the Devonian.",
-        "Incorrect. The article explicitly mentions secondary wood in Devonian trees such as Archaeopteris, not first appearing in the Jurassic."
+        "Correct. The table shows that 'Land plants' (Embryophyta) are 'Plants in the strictest sense' and do not include green algae, while 'Green plants' (Viridiplantae) are 'Plants in a strict sense' and include green algae.",
+        "Incorrect. Fungi are not included in either modern concept; they were only in obsolete 'sensu amplo'.",
+        "Incorrect. Both concepts are based on evolutionary relationships, not just genome data; the difference is the inclusion of green algae.",
+        "Incorrect. The strictest sense does not include all photosynthetic organisms; it only includes land plants, not algae."
       ]
     }
   ]

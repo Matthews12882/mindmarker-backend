@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What are the three main factors of production identified by Adam Smith?",
+      "question": "What type of science is economics according to the article?",
       "options": [
-        "Land, labour, and capital",
-        "Land, capital, and entrepreneurship",
-        "Labour, capital, and technology",
-        "Land, labour, and technology"
+        "A social science",
+        "A natural science",
+        "A formal science",
+        "An applied science"
       ],
       "answer_explanations": [
-        "Correct. Adam Smith identified land, labour, and capital as the three factors of production.",
-        "Incorrect. Smith did not include entrepreneurship as one of his three factors.",
-        "Incorrect. The combination of labour, capital, and technology is not the set Smith identified.",
-        "Incorrect. Technology was not listed by Smith as a separate factor."
+        "Correct. The article states that economics is 'a social science'.",
+        "Incorrect. The article does not describe economics as a natural science.",
+        "Incorrect. The article does not describe economics as a formal science.",
+        "Incorrect. The article does not describe economics as an applied science."
       ]
     },
     {
       "id": 2,
-      "question": "Which term refers to the study of the production, distribution, and consumption of goods and services?",
+      "question": "Which of the following does economics study?",
       "options": [
-        "Economics",
-        "Sociology",
-        "Psychology",
-        "Political science"
+        "Production, distribution, and consumption of goods and services",
+        "Only the production of goods",
+        "Only the distribution of services",
+        "Only the consumption of goods"
       ],
       "answer_explanations": [
-        "Correct. The article defines economics as the study of production, distribution, and consumption of goods and services.",
-        "Incorrect. Sociology focuses on society and social behavior, not economic activity.",
-        "Incorrect. Psychology studies mental processes and behavior.",
-        "Incorrect. Political science examines government and political systems."
+        "Correct. The article says economics studies 'the production, distribution, and consumption of goods and services'.",
+        "Incorrect. The article includes production but also distribution and consumption.",
+        "Incorrect. The article includes distribution but also production and consumption.",
+        "Incorrect. The article includes consumption but also production and distribution."
       ]
     },
     {
       "id": 3,
       "question": "What does microeconomics analyse?",
       "options": [
-        "Individual agents and markets",
-        "National economic policies",
-        "Global trade agreements",
-        "Stock market trends"
+        "The basic elements of economies, including individual agents and markets",
+        "Economies as whole systems",
+        "The global economy only",
+        "Government policies only"
       ],
       "answer_explanations": [
-        "Correct. Microeconomics analyses individual agents, markets, their interactions, and outcomes.",
-        "Incorrect. National economic policies are the focus of macroeconomics.",
-        "Incorrect. Global trade agreements are covered under international economics, not microeconomics.",
-        "Incorrect. Stock market trends are a subset of financial economics, not the core of microeconomics."
+        "Correct. The article states that 'Microeconomics analyses what is viewed as the basic elements of economies, including individual agents and markets'.",
+        "Incorrect. That description applies to macroeconomics, not microeconomics.",
+        "Incorrect. The article does not say microeconomics analyses only the global economy.",
+        "Incorrect. The article does not say microeconomics analyses only government policies."
       ]
     },
     {
       "id": 4,
-      "question": "Which ancient Greek term is the origin of the word 'economics'?",
+      "question": "Which of the following may be individual agents in microeconomics?",
       "options": [
-        "oikonomia",
-        "politeia",
-        "phronesis",
-        "demos"
+        "Households, firms, buyers, and sellers",
+        "Only governments",
+        "Only countries",
+        "Only banks"
       ],
       "answer_explanations": [
-        "Correct. The article states that the term 'economics' derives from the Ancient Greek Î¿á¼°ÎºÎ¿Î½Î¿Î¼Î¯Î± (oikonomia).",
-        "Incorrect. Politeia refers to citizenship or constitution, not the origin of economics.",
-        "Incorrect. Phronesis means practical wisdom, unrelated to economics etymology.",
-        "Incorrect. Demos means people, not the root of economics."
+        "Correct. The article says 'Individual agents may include households, firms, buyers, and sellers'.",
+        "Incorrect. The article does not list governments as individual agents.",
+        "Incorrect. The article does not list countries as individual agents.",
+        "Incorrect. The article does not list banks as individual agents."
       ]
     },
     {
       "id": 5,
-      "question": "Which economist defined economics as 'the science which studies human behaviour as a relationship between ends and scarce means which have alternative uses'?",
+      "question": "What does macroeconomics analyse?",
       "options": [
-        "Lionel Robbins",
-        "Adam Smith",
-        "John Maynard Keynes",
-        "Milton Friedman"
+        "Economies as systems where production, distribution, consumption, savings, and investment expenditure interact",
+        "Individual markets only",
+        "Only household behaviour",
+        "Only the behaviour of buyers and sellers"
       ],
       "answer_explanations": [
-        "Correct. Lionel Robbins provided this definition in 1932.",
-        "Incorrect. Adam Smith defined economics earlier, focusing on wealth of nations.",
-        "Incorrect. Keynes contributed macroeconomics, not this specific definition.",
-        "Incorrect. Friedman was a monetarist, not associated with this definition."
+        "Correct. The article states that 'Macroeconomics analyses economies as systems where production, distribution, consumption, savings, and investment expenditure interact'.",
+        "Incorrect. That is more aligned with microeconomics, not macroeconomics.",
+        "Incorrect. The article does not limit macroeconomics to household behaviour.",
+        "Incorrect. The article does not limit macroeconomics to buyers and sellers."
       ]
     },
     {
       "id": 6,
-      "question": "What distinction does the article make between positive and normative economics?",
+      "question": "Which of the following is NOT listed as a factor of production in the article?",
       "options": [
-        "Positive economics describes 'what is', normative advocates 'what ought to be'",
-        "Positive economics deals with theory, normative with practice",
-        "Positive economics focuses on markets, normative on government",
-        "Positive economics is quantitative, normative is qualitative"
+        "Money",
+        "Labour",
+        "Capital",
+        "Land"
       ],
       "answer_explanations": [
-        "Correct. The article states that positive economics describes 'what is' and normative economics advocates 'what ought to be'.",
-        "Incorrect. The distinction is not about theory vs practice.",
-        "Incorrect. The distinction is not limited to markets vs government.",
-        "Incorrect. The distinction is not about quantitative vs qualitative."
+        "Correct. The article lists 'labour, capital, land, and enterprise' as factors of production; money is not listed.",
+        "Incorrect. Labour is listed as a factor of production in the article.",
+        "Incorrect. Capital is listed as a factor of production in the article.",
+        "Incorrect. Land is listed as a factor of production in the article."
       ]
     },
     {
       "id": 7,
-      "question": "Which group of 18thâcentury French thinkers advocated a policy of laissezâfaire?",
+      "question": "According to the article, what does positive economics describe?",
       "options": [
-        "Physiocrats",
-        "Mercantilists",
-        "Enlightenment philosophers",
-        "Jacobins"
+        "\"what is\"",
+        "\"what ought to be\"",
+        "\"what was\"",
+        "\"what could be\""
       ],
       "answer_explanations": [
-        "Correct. The article describes physiocrats as advocating laissez-faire and minimal government intervention.",
-        "Incorrect. Mercantilists favored state regulation and tariffs, not laissez-faire.",
-        "Incorrect. Enlightenment philosophers were broader and not specifically physiocrats.",
-        "Incorrect. Jacobins were political radicals, not an economic group."
+        "Correct. The article says positive economics describes 'what is'.",
+        "Incorrect. 'What ought to be' is described as normative economics, not positive.",
+        "Incorrect. The article does not describe positive economics as 'what was'.",
+        "Incorrect. The article does not describe positive economics as 'what could be'."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what did Adam Smith consider the division of labour to be limited by?",
+      "question": "What does normative economics advocate?",
       "options": [
-        "The extent of the market",
-        "The availability of capital",
-        "The level of technology",
-        "The size of the workforce"
+        "\"what ought to be\"",
+        "\"what is\"",
+        "\"what was\"",
+        "\"what might be\""
       ],
       "answer_explanations": [
-        "Correct. Smith's theorem states that 'the division of labour is limited by the extent of the market'.",
-        "Incorrect. Smith did not tie division of labour to capital availability.",
-        "Incorrect. Technology is not the limiting factor per Smith.",
-        "Incorrect. Workforce size is not the limiting factor per Smith."
+        "Correct. The article says normative economics advocates 'what ought to be'.",
+        "Incorrect. 'What is' is described as positive economics, not normative.",
+        "Incorrect. The article does not describe normative economics as 'what was'.",
+        "Incorrect. The article does not describe normative economics as 'what might be'."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following is listed as a factor of production affecting economies in macroeconomics?",
+      "question": "Which of the following is a broad distinction within economics mentioned in the article?",
       "options": [
-        "Labour",
-        "Education",
-        "Healthcare",
-        "Transportation"
+        "Between economic theory and applied economics",
+        "Between microeconomics and macroeconomics only",
+        "Between supply and demand only",
+        "Between imports and exports only"
       ],
       "answer_explanations": [
-        "Correct. The article lists labour as one of the factors of production affecting economies in macroeconomics.",
-        "Incorrect. Education is not listed as a factor of production in the article.",
-        "Incorrect. Healthcare is not listed as a factor of production.",
-        "Incorrect. Transportation is not listed as a factor of production."
+        "Correct. The article mentions distinctions 'between economic theory and applied economics' among others.",
+        "Incorrect. The article mentions microeconomics and macroeconomics but also other distinctions.",
+        "Incorrect. Supply and demand are not mentioned as a broad distinction in the article.",
+        "Incorrect. Imports and exports are not mentioned as a broad distinction in the article."
       ]
     },
     {
       "id": 10,
-      "question": "What is the earlier term for the discipline now commonly called 'economics'?",
+      "question": "According to the article, economic analysis can be applied to which of the following subjects?",
       "options": [
-        "Political economy",
-        "Social science",
-        "Public finance",
-        "Commercial law"
+        "Crime, education, and the family",
+        "Only business and finance",
+        "Only health care and government",
+        "Only engineering and cybersecurity"
       ],
       "answer_explanations": [
-        "Correct. The article states that the earlier term for the discipline was 'political economy'.",
-        "Incorrect. Social science is a broader category, not the earlier term.",
-        "Incorrect. Public finance is a subfield, not the earlier term.",
-        "Incorrect. Commercial law is unrelated to the earlier term."
+        "Correct. The article says economic analysis is applied to 'crime, education, the family' among many other subjects.",
+        "Incorrect. The article mentions business and finance but also many other subjects.",
+        "Incorrect. The article mentions health care and government but also many other subjects.",
+        "Incorrect. The article mentions engineering and cybersecurity but also many other subjects."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which oceans border South America according to the article?",
+      "question": "Which ocean borders South America on the west?",
       "options": [
-        "The Pacific Ocean to the west and the Atlantic Ocean to the north and east",
-        "The Pacific Ocean to the east and the Atlantic Ocean to the west",
-        "The Indian Ocean to the west and the Atlantic Ocean to the north",
-        "The Pacific Ocean to the north and the Atlantic Ocean to the south"
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states that South America is bordered on the west by the Pacific Ocean and on the north and east by the Atlantic Ocean.",
-        "Incorrect. The article places the Pacific Ocean to the west, not the east, and the Atlantic Ocean to the north and east, not the west.",
-        "Incorrect. The article does not mention the Indian Ocean as bordering South America.",
-        "Incorrect. The article does not describe the Pacific Ocean as bordering South America to the north or the Atlantic Ocean as bordering it to the south."
+        "Correct. The article states that South America is bordered on the west by the Pacific Ocean.",
+        "Incorrect. The Atlantic Ocean borders the north and east, not the west.",
+        "Incorrect. The Indian Ocean is not mentioned as a border for South America.",
+        "Incorrect. The Arctic Ocean is not mentioned as a border for South America."
       ]
     },
     {
       "id": 2,
-      "question": "How does South America rank globally in terms of area and population?",
+      "question": "How many sovereign countries are there in South America?",
       "options": [
-        "Fourth in area and fifth in population",
-        "Third in area and fourth in population",
-        "Fifth in area and fourth in population",
-        "Fourth in area and sixth in population"
+        "Twelve",
+        "Ten",
+        "Fourteen",
+        "Eleven"
       ],
       "answer_explanations": [
-        "Correct. The article states that South America ranks fourth in area (after Asia, Africa, and North America) and fifth in population (after Asia, Africa, Europe, and North America).",
-        "Incorrect. The article does not rank South America third in area or fourth in population.",
-        "Incorrect. The article ranks South America fourth in area, not fifth, and fifth in population, not fourth.",
-        "Incorrect. The article ranks South America fifth in population, not sixth."
+        "Correct. The article says the continent includes twelve sovereign countries.",
+        "Incorrect. The article lists twelve, not ten.",
+        "Incorrect. The article lists twelve, not fourteen.",
+        "Incorrect. The article lists twelve, not eleven."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say about the population distribution within South America?",
+      "question": "Which country has almost half of South America's population?",
       "options": [
-        "Most people live near the western or eastern coasts, while the interior and far south are sparsely populated",
-        "The population is evenly distributed across the continent",
-        "Most people live in the interior and far south, while the coasts are sparsely populated",
-        "The population is concentrated primarily in the northern region"
+        "Brazil",
+        "Argentina",
+        "Colombia",
+        "Peru"
       ],
       "answer_explanations": [
-        "Correct. The article states that most of the population lives near the continent's western or eastern coasts while the interior and the far south are sparsely populated.",
-        "Incorrect. The article describes an uneven distribution, with coastal concentration and sparse interior and far southern populations.",
-        "Incorrect. This reverses the pattern described in the article; the coasts are densely populated, not the interior and far south.",
-        "Incorrect. The article does not state that the population is concentrated primarily in the northern region."
+        "Correct. The article states that Brazil is by far the most populous South American country, with almost half of the continent's population.",
+        "Incorrect. Argentina is mentioned as one of the most populous, but not with almost half the population.",
+        "Incorrect. Colombia is mentioned as one of the most populous, but not with almost half the population.",
+        "Incorrect. Peru is mentioned as one of the most populous, but not with almost half the population."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say about warfare in South America after 1900?",
+      "question": "Which mountain range dominates the geography of western South America?",
       "options": [
-        "It has been a relatively peaceful continent with few wars",
-        "It experienced constant warfare throughout the period",
-        "It was involved in more wars than Africa, Asia, and Europe",
-        "It had no wars at all after 1900"
+        "Andes Mountains",
+        "Rocky Mountains",
+        "Himalayas",
+        "Alps"
       ],
       "answer_explanations": [
-        "Correct. The article states that relative to Africa, Asia, and Europe, post-1900 South America has been a peaceful continent with few wars.",
-        "Incorrect. The article describes post-1900 South America as peaceful with few wars, not as experiencing constant warfare.",
-        "Incorrect. The article says South America had fewer wars relative to Africa, Asia, and Europe, not more.",
-        "Incorrect. The article says there were few wars, not that there were no wars at all."
+        "Correct. The article says the geography of western South America is dominated by the Andes Mountains.",
+        "Incorrect. The Rocky Mountains are in North America, not South America.",
+        "Incorrect. The Himalayas are in Asia, not South America.",
+        "Incorrect. The Alps are in Europe, not South America."
       ]
     },
     {
       "id": 5,
-      "question": "What does the article indicate about ancient DNA evidence regarding the peopling of South America?",
+      "question": "What is the name of the site in Chile that is among the oldest evidence for human presence in South America?",
       "options": [
-        "It involved at least three major dispersals followed by regional differentiation",
-        "It resulted from a single migration with uninterrupted population continuity",
-        "It shows no evidence of population replacement in any region",
-        "It proves that humans arrived in South America less than 10,000 years ago"
+        "Monte Verde II",
+        "ChavÃ­n de HuÃ¡ntar",
+        "Huaricanga",
+        "Cusco"
       ],
       "answer_explanations": [
-        "Correct. The article states that ancient DNA evidence indicates the peopling of South America was more complex than a single migration, identifying at least three major dispersals followed by regional differentiation and long-term genetic continuity in some regions.",
-        "Incorrect. The article explicitly says the peopling was more complex than a single southward migration followed by uninterrupted population continuity.",
-        "Incorrect. The article mentions evidence of population replacement in some regions.",
-        "Incorrect. The article states humans reached South America at least 15,000 years ago, not less than 10,000 years ago."
+        "Correct. The article mentions Monte Verde II in Chile as one of the oldest evidence for human presence.",
+        "Incorrect. ChavÃ­n de HuÃ¡ntar is a later archaeological site in Peru, not the oldest evidence.",
+        "Incorrect. Huaricanga is a site in Peru associated with CaralâSupe, not the oldest evidence in Chile.",
+        "Incorrect. Cusco was the capital of the Inca Empire, much later."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, when were llamas and alpacas domesticated in South America?",
+      "question": "Which civilization is known for its monumental architecture at Huaricanga, dating to around 3500 BC?",
       "options": [
-        "Circa 3500 BC in the highlands of the Andes",
-        "Around 6,000 years ago in northern South America",
-        "By 2000 BC throughout the Andes",
-        "Around 14,500 years ago at Monte Verde II"
+        "CaralâSupe",
+        "Inca",
+        "Moche",
+        "Muisca"
       ],
       "answer_explanations": [
-        "Correct. The article states that South American cultures began domesticating llamas and alpacas in the highlands of the Andes circa 3500 BC.",
-        "Incorrect. The article places maize in northern South America around 6,000 years ago, not the domestication of llamas and alpacas.",
-        "Incorrect. The article states that by 2000 BC many agrarian communities had been settled, but it dates llama and alpaca domestication to circa 3500 BC.",
-        "Incorrect. Monte Verde II is cited as evidence of human presence around 14,500 years ago, not as the time of llama and alpaca domestication."
+        "Correct. The article says CaralâSupe created one of the first cities of the world at Huaricanga, dated to around 3500 BC.",
+        "Incorrect. The Inca civilization dominated the Andes from 1438 to 1533, much later.",
+        "Incorrect. Moche flourished around 100 BC to 700 AD, not 3500 BC.",
+        "Incorrect. The Muisca were in what is now Colombia, not at Huaricanga."
       ]
     },
     {
       "id": 7,
-      "question": "Which civilization dominated the Andes region from 1438 to 1533 according to the article?",
+      "question": "Which empire dominated the Andes region from 1438 to 1533?",
       "options": [
-        "The Inca civilization",
-        "The Moche culture",
-        "The ChavÃ­n civilization",
-        "The Tiwanaku Empire"
+        "Inca Empire",
+        "Wari Empire",
+        "ChimÃº Empire",
+        "Tiwanaku"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Inca civilization dominated the Andes region from 1438 to 1533, holding their capital at Cusco.",
-        "Incorrect. The article dates the Moche culture to 100 BC â 700 AD on the northern coast of Peru, not 1438 to 1533.",
-        "Incorrect. The article dates the ChavÃ­n civilization to 900 BC to 300 BC, not 1438 to 1533.",
-        "Incorrect. The article dates Tiwanaku to 100 BC â 1200 AD in Bolivia, not 1438 to 1533."
+        "Correct. The article states that the Inca civilization dominated the Andes region from 1438 to 1533.",
+        "Incorrect. The Wari Empire existed from 600 to 1200, not 1438-1533.",
+        "Incorrect. The ChimÃº Empire existed from 1300 to 1470, not the same period.",
+        "Incorrect. Tiwanaku existed from 100 BC to 1200 AD, not the same period."
       ]
     },
     {
       "id": 8,
-      "question": "What did the Treaty of Tordesillas establish regarding South America?",
+      "question": "What was the name of the treaty signed in 1494 between Portugal and Spain?",
       "options": [
-        "An imaginary north-south meridian dividing the continent between Spain and Portugal",
-        "A joint Spanish-Portuguese administration of all South American colonies",
-        "Exclusive Spanish control over the entire continent",
-        "Exclusive Portuguese control over the entire continent"
+        "Treaty of Tordesillas",
+        "Treaty of Paris",
+        "Treaty of Utrecht",
+        "Treaty of Versailles"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Treaty of Tordesillas established an imaginary line along a north-south meridian, with land to the west belonging to Spain and land to the east to Portugal.",
-        "Incorrect. The treaty created a duopoly divided by a meridian, not a joint administration of all colonies.",
-        "Incorrect. The treaty divided the land between Spain and Portugal, granting Spain most of the continent but not exclusive control over all of it.",
-        "Incorrect. The treaty granted Portugal land to the east of the line, not exclusive control over the entire continent."
+        "Correct. The article mentions the Treaty of Tordesillas signed in 1494.",
+        "Incorrect. The Treaty of Paris is not mentioned in the article.",
+        "Incorrect. The Treaty of Utrecht is not mentioned in the article.",
+        "Incorrect. The Treaty of Versailles is not mentioned in the article."
       ]
     },
     {
       "id": 9,
-      "question": "What effect did European infectious diseases have on native populations under Spanish control, according to the article?",
+      "question": "Which European diseases caused large-scale depopulation of native populations?",
       "options": [
-        "They caused large-scale depopulation",
-        "They had little impact because natives had natural immunity",
-        "They primarily affected European settlers rather than natives",
-        "They led to the immediate end of forced labor systems"
+        "Smallpox, influenza, measles, and typhus",
+        "Malaria, dengue, and yellow fever",
+        "Cholera, tuberculosis, and pneumonia",
+        "HIV, Ebola, and Zika"
       ],
       "answer_explanations": [
-        "Correct. The article states that European infectious diseases caused large-scale depopulation of the native population under Spanish control because they had no immune resistance.",
-        "Incorrect. The article states that native populations had no immune resistance to these diseases.",
-        "Incorrect. The article describes the diseases as affecting native populations, not primarily European settlers.",
-        "Incorrect. The article does not state that diseases led to the immediate end of forced labor systems; instead, it says forced labor also contributed to depopulation."
+        "Correct. The article lists smallpox, influenza, measles, and typhus as diseases to which native populations had no immunity.",
+        "Incorrect. These diseases are not mentioned in the article as causing depopulation.",
+        "Incorrect. These diseases are not mentioned in the article as causing depopulation.",
+        "Incorrect. These diseases are not mentioned in the article as causing depopulation."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about the religious and linguistic impact of Spanish colonization?",
+      "question": "What did the Spaniards and Portuguese bring to South America that improved infrastructure?",
       "options": [
-        "The Spaniards spread their language and Catholicism, while evangelization in native languages contributed to their continued oral use",
-        "The Spaniards completely eradicated native languages and religious practices",
-        "Native groups fully rejected Catholicism and the Spanish language",
-        "The Roman Catholic Church discouraged the use of Quechua, Aymara, and GuaranÃ­"
+        "Western European architectural style, bridges, roads, and sewer systems",
+        "Railways and telegraph lines",
+        "Modern highways and airports",
+        "Internet and telecommunications"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Spaniards brought their language and religion, and that the Roman Catholic Church's evangelization in Quechua, Aymara, and GuaranÃ­ contributed to the continued use of these native languages, albeit only in oral form.",
-        "Incorrect. The article says native groups blended Catholicism with their beliefs and that native languages continued in oral form, so they were not completely eradicated.",
-        "Incorrect. The article indicates that many initial conversion attempts were partially successful and that native groups blended Catholicism with established beliefs, not that they fully rejected it.",
-        "Incorrect. The article states that evangelization in Quechua, Aymara, and GuaranÃ­ contributed to their continued use, meaning the Church did not discourage them."
+        "Correct. The article states that Spaniards and Portuguese brought the western European architectural style and helped improve infrastructure such as bridges, roads, and sewer systems.",
+        "Incorrect. Railways and telegraph lines are not mentioned in the article.",
+        "Incorrect. Modern highways and airports are not mentioned in the article.",
+        "Incorrect. Internet and telecommunications are not mentioned in the article."
       ]
     }
   ]

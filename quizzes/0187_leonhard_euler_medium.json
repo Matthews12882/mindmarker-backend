@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following mathematical notations is attributed to Leonhard Euler according to the article?",
+      "question": "What was Leonhard Euler's nationality?",
       "options": [
-        "Using f(x) to denote the value of a function",
-        "Using the letter n to represent natural numbers",
-        "Using the symbol â to represent infinity",
-        "Using the letter q to represent rational numbers"
+        "Swiss",
+        "German",
+        "Russian",
+        "French"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler was first to use the notation f(x) for the value of a function.",
-        "Incorrect. The article does not attribute the use of n for natural numbers to Euler.",
-        "Incorrect. The article does not mention Euler introducing the infinity symbol â.",
-        "Incorrect. The article does not credit Euler with using q for rational numbers."
+        "Correct. The article states that Euler was a 'Swiss polymath'.",
+        "Incorrect. The article says he was Swiss, not German, although he spent time in Berlin.",
+        "Incorrect. The article says he was Swiss, not Russian, although he lived in Saint Petersburg.",
+        "Incorrect. The article says he was Swiss, not French, although he entered the Paris Academy prize competition."
       ]
     },
     {
       "id": 2,
-      "question": "What problem partly motivated Leonhard Euler's development of graph theory?",
+      "question": "Which two fields did Euler found the studies of?",
       "options": [
-        "The Seven Bridges of KÃ¶nigsberg problem",
-        "The Basel problem",
-        "The problem of placing masts on a ship",
-        "The problem of beam bending and column critical loads"
+        "Graph theory and topology",
+        "Calculus and geometry",
+        "Algebra and trigonometry",
+        "Physics and astronomy"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler developed graph theory partly as a solution for the problem of the Seven Bridges of KÃ¶nigsberg.",
-        "Incorrect. The Basel problem is mentioned as a separate unsolved problem Euler solved, not as the origin of graph theory.",
-        "Incorrect. The ship mast problem was a Paris Academy prize competition Euler entered, not the basis for graph theory.",
-        "Incorrect. Beam bending and column critical loads are mentioned as applied mathematics contributions, unrelated to graph theory's origin."
+        "Correct. The article says he 'founded the studies of graph theory and topology'.",
+        "Incorrect. The article does not say he founded calculus or geometry; it says he founded graph theory and topology.",
+        "Incorrect. The article does not say he founded algebra or trigonometry; it says he founded graph theory and topology.",
+        "Incorrect. The article does not say he founded physics or astronomy; it says he founded graph theory and topology."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following did Euler accomplish while at the Berlin Academy?",
+      "question": "What did Euler popularize the Greek letter Ï (pi) to denote?",
       "options": [
-        "He published Introductio in analysin infinitorum in 1748.",
-        "He received a Master of Philosophy degree.",
-        "He won the Paris Academy prize competition for the first time.",
-        "He was made a professor of physics in 1731."
+        "The ratio of a circle's circumference to its diameter",
+        "The base of the natural logarithm",
+        "The imaginary unit",
+        "The sum of a series"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1748 his text on functions called the Introductio in analysin infinitorum was published during his Berlin period.",
-        "Incorrect. Euler received his Master of Philosophy in 1723 at the University of Basel, before moving to Berlin.",
-        "Incorrect. Euler first entered the Paris Academy prize competition in 1727, before his Berlin period.",
-        "Incorrect. Euler was made a professor of physics in 1731 while in Saint Petersburg, not Berlin."
+        "Correct. The article states Euler is credited for popularizing Ï to denote 'the ratio of a circle's circumference to its diameter'.",
+        "Incorrect. The base of the natural logarithm is denoted by e, not Ï.",
+        "Incorrect. The imaginary unit is denoted by i, not Ï.",
+        "Incorrect. Summations are expressed with the Greek letter Î£ (sigma), not Ï."
       ]
     },
     {
       "id": 4,
-      "question": "What did Euler write to Friederike Charlotte of Brandenburg-Schwedt?",
+      "question": "What is the name of the constant e, which Euler gave the current definition of?",
       "options": [
-        "Over 200 letters later compiled into Letters of Euler on different Subjects in Natural Philosophy Addressed to a German Princess",
-        "A mathematical treatise on differential calculus",
-        "A two-volume work on mechanics titled Mechanica",
-        "Three volumes on optics"
+        "Euler's number",
+        "Pi",
+        "The imaginary unit",
+        "The Euler characteristic"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler wrote over 200 letters to the princess in the early 1760s, later compiled into Letters of Euler on different Subjects in Natural Philosophy Addressed to a German Princess.",
-        "Incorrect. Institutiones calculi differentialis was a text on differential calculus published in 1755, not written to the princess.",
-        "Incorrect. Mechanica was Euler's two-volume work on mechanics reformulating Newton's laws, not correspondence with the princess.",
-        "Incorrect. The three volumes on optics contributed to microscope and telescope design, not written to the princess."
+        "Correct. The article says Euler gave the current definition of the constant e, 'now known as Euler's number'.",
+        "Incorrect. Pi is a different constant, denoted by Ï.",
+        "Incorrect. The imaginary unit is denoted by i, not e.",
+        "Incorrect. The Euler characteristic is a number related to polyhedra, not the constant e."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, how did Frederick II of Prussia view Euler?",
+      "question": "Which famous problem did Euler solve, which was an unsolved problem in number theory and analysis?",
       "options": [
-        "He found Euler unsophisticated and ill-informed on matters beyond numbers and figures.",
-        "He considered Euler a skilled debater and sophisticated court intellectual.",
-        "He appointed Euler as president of the Berlin Academy.",
-        "He regarded Euler as the polar opposite of Voltaire in prestige."
+        "The Basel problem",
+        "The Seven Bridges of KÃ¶nigsberg",
+        "The problem of placing masts on a ship",
+        "The problem of the propagation of sound"
       ],
       "answer_explanations": [
-        "Correct. The article states that Frederick II found the mathematician unsophisticated and ill-informed on matters beyond numbers and figures.",
-        "Incorrect. The article says Euler was not a skilled debater, contrary to this option.",
-        "Incorrect. The article states that Frederick II named himself as president of the academy, not Euler.",
-        "Incorrect. While Euler was the polar opposite of Voltaire, the article does not say Frederick regarded Euler this way in terms of prestige."
+        "Correct. The article says Euler became famous for solving several unsolved problems, 'including the famous Basel problem'.",
+        "Incorrect. The Seven Bridges of KÃ¶nigsberg is related to graph theory, not the specific unsolved problem mentioned here.",
+        "Incorrect. The mast problem was a Paris Academy prize competition problem, not the one mentioned as famous and unsolved.",
+        "Incorrect. The propagation of sound was the topic of Euler's dissertation, not the famous unsolved problem."
       ]
     },
     {
       "id": 6,
-      "question": "What did Euler's father do for a living?",
+      "question": "According to the article, what did Euler reformulate into new laws to explain the motion of rigid bodies?",
       "options": [
-        "He was a pastor of the Reformed Church.",
-        "He was a professor of mathematics at the University of Basel.",
-        "He was a theologian who tutored Euler privately.",
-        "He was a scholar of the classics."
+        "Isaac Newton's laws of motion",
+        "The partial differential equations for inviscid fluid",
+        "The Euler characteristic",
+        "The Basel problem"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler's father, Paul III Euler, was a pastor of the Reformed Church.",
-        "Incorrect. Johann Bernoulli, not Euler's father, was the professor of mathematics at the University of Basel.",
-        "Incorrect. Johannes Burckhardt was the private tutor, not Euler's father.",
-        "Incorrect. Euler's mother Marguerite's ancestors were scholars of the classics, not his father."
+        "Correct. The article says Euler 'reformulated Isaac Newton's laws of motion into new laws' in his work Mechanica.",
+        "Incorrect. The partial differential equations for inviscid fluid were formulated by Euler, but they are not a reformulation of Newton's laws.",
+        "Incorrect. The Euler characteristic is a number related to polyhedra, not a reformulation of Newton's laws.",
+        "Incorrect. The Basel problem is a mathematical problem, not a set of laws."
       ]
     },
     {
       "id": 7,
-      "question": "What happened when Euler applied for a physics professorship at the University of Basel?",
+      "question": "Where was Leonhard Euler born?",
       "options": [
-        "He was unsuccessful in obtaining the position.",
-        "He was appointed to the position immediately.",
-        "He declined the offer to stay in Saint Petersburg.",
-        "He won the Paris Academy prize competition instead."
+        "Basel",
+        "Berlin",
+        "Saint Petersburg",
+        "Riehen"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler delayed his trip to Saint Petersburg while he unsuccessfully applied for a physics professorship at the University of Basel.",
-        "Incorrect. The article explicitly says his application was unsuccessful.",
-        "Incorrect. Euler did go to Saint Petersburg; he did not decline an offer to stay there.",
-        "Incorrect. The Paris Academy prize competition is a separate event mentioned elsewhere in the article."
+        "Correct. The article states 'Leonhard Euler was born in Basel on 15 April 1707'.",
+        "Incorrect. Berlin is where he later lived during his Berlin period, not where he was born.",
+        "Incorrect. Saint Petersburg is where he spent his first career period, not where he was born.",
+        "Incorrect. Riehen is where his family moved soon after his birth, but he was born in Basel."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is true about Euler's time in Saint Petersburg?",
+      "question": "Who gave Euler advice to work through difficult mathematical books and offered to comment on difficulties every Saturday afternoon?",
       "options": [
-        "He succeeded Daniel Bernoulli as head of the mathematics department.",
-        "He was made president of the Imperial Russian Academy of Sciences.",
-        "He declined an offer to move to Berlin in 1740 and never left Russia.",
-        "He was prevented from corresponding with the academy's secretary."
+        "Johann Bernoulli",
+        "Jacob Bernoulli",
+        "Daniel Bernoulli",
+        "Pierre Bouguer"
       ],
       "answer_explanations": [
-        "Correct. The article states that when Daniel Bernoulli left for Basel, Euler succeeded him as head of the mathematics department.",
-        "Incorrect. The article does not say Euler was made president of the academy; Frederick II named himself president of the Berlin Academy.",
-        "Incorrect. Although Frederick II attempted to recruit Euler in 1740, Euler eventually moved to Berlin in 1741.",
-        "Incorrect. The article describes a lengthy correspondence with Johann Daniel Schumacher, not prevention of correspondence."
+        "Correct. The article includes Euler's quote about Johann Bernoulli offering this advice and free access every Saturday afternoon.",
+        "Incorrect. Jacob Bernoulli was the teacher of Euler's father, not Euler himself.",
+        "Incorrect. Daniel Bernoulli was a colleague and friend in Saint Petersburg, not the one who gave this specific advice.",
+        "Incorrect. Pierre Bouguer won the Paris Academy prize competition, he did not give Euler this advice."
       ]
     },
     {
       "id": 9,
-      "question": "What did Euler do in 1731 regarding the Russian Navy?",
+      "question": "In which city did Euler spend 25 years and write several hundred articles?",
       "options": [
-        "He left the Russian Navy, refusing a promotion to lieutenant.",
-        "He joined the Russian Navy as a medic.",
-        "He was promoted to lieutenant in the Russian Navy.",
-        "He began studying ship masts for the Russian Navy."
+        "Berlin",
+        "Basel",
+        "Saint Petersburg",
+        "Paris"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1731 Euler left the Russian Navy, refusing a promotion to lieutenant.",
-        "Incorrect. Euler had already taken on a job as a medic in the Russian Navy before 1731; in 1731 he left it.",
-        "Incorrect. The article says he refused a promotion to lieutenant, not that he accepted one.",
-        "Incorrect. The ship mast problem was part of the Paris Academy prize competition, not a Russian Navy study."
+        "Correct. The article says 'He lived for 25 years in Berlin, where he wrote several hundred articles'.",
+        "Incorrect. Basel is where he was born and studied, not where he spent 25 years writing articles.",
+        "Incorrect. Saint Petersburg is where he spent his first career period, but the 25-year period with several hundred articles was in Berlin.",
+        "Incorrect. Paris is where he entered prize competitions, but he did not live there for 25 years."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is one of Euler's contributions to physics mentioned in the article?",
+      "question": "What did Euler become the tutor for, which led to a work that was more widely read than any of his mathematical works?",
       "options": [
-        "He reformulated Newton's laws of motion into Euler's laws of motion in Mechanica.",
-        "He discovered the law of universal gravitation.",
-        "He invented the telescope.",
-        "He formulated the three laws of thermodynamics."
+        "Friederike Charlotte of Brandenburg-Schwedt, the Princess of Anhalt-Dessau",
+        "The children of the Russian Tsar",
+        "The students at the Berlin Academy",
+        "The son of Johann Bernoulli"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler reformulated Isaac Newton's laws of motion into new laws in his two-volume work Mechanica to better explain the motion of rigid bodies.",
-        "Incorrect. The article does not attribute the law of universal gravitation to Euler; Newton's laws are mentioned instead.",
-        "Incorrect. Euler's optics work contributed to telescope design, but he did not invent the telescope.",
-        "Incorrect. The laws of thermodynamics are not mentioned in the article."
+        "Correct. The article says Euler became tutor for Friederike Charlotte, and his letters to her were compiled into a work that 'became more widely read than any of his mathematical works'.",
+        "Incorrect. The article does not mention Euler tutoring the children of the Russian Tsar.",
+        "Incorrect. The article mentions notable students like Stepan Rumovsky, but not that he was a tutor for the Berlin Academy students.",
+        "Incorrect. The article does not mention Euler tutoring the son of Johann Bernoulli."
       ]
     }
   ]

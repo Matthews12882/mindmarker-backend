@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does the article state music is the arrangement of?",
+      "question": "What is music the arrangement of?",
       "options": [
-        "sound",
-        "light",
-        "color",
-        "motion"
+        "Sound",
+        "Colors",
+        "Words",
+        "Numbers"
       ],
       "answer_explanations": [
-        "Correct. The article states that music is the arrangement of sound to create combinations of form, harmony, melody, rhythm, or expressive content.",
-        "Incorrect. Light is not mentioned in the article as something music arranges.",
-        "Incorrect. Color is not mentioned in the article as something music arranges.",
-        "Incorrect. Motion is not mentioned in the article as something music arranges."
+        "Correct. The article states that music is the arrangement of sound.",
+        "Incorrect. The article does not mention colors as the basis of music.",
+        "Incorrect. The article does not say music is the arrangement of words.",
+        "Incorrect. The article does not say music is the arrangement of numbers."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as a category involved in the creation of music?",
+      "question": "Which of the following is NOT mentioned as an element that music combines?",
       "options": [
-        "improvisation",
-        "recording",
-        "broadcasting",
-        "editing"
+        "Texture",
+        "Harmony",
+        "Melody",
+        "Rhythm"
       ],
       "answer_explanations": [
-        "Correct. The article states that diverse activities involved in the creation of music are often divided into categories of composition, improvisation, and performance.",
-        "Incorrect. Recording is not listed in the article as one of the categories involved in the creation of music.",
-        "Incorrect. Broadcasting is not listed in the article as one of the categories involved in the creation of music.",
-        "Incorrect. Editing is not listed in the article as one of the categories involved in the creation of music."
+        "Correct. The article lists form, harmony, melody, rhythm, and expressive content, but not texture.",
+        "Incorrect. Harmony is explicitly mentioned in the article.",
+        "Incorrect. Melody is explicitly mentioned in the article.",
+        "Incorrect. Rhythm is explicitly mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say about music's presence in human societies?",
+      "question": "According to the article, music is generally agreed to be what kind of universal?",
       "options": [
-        "It is present in all human societies.",
-        "It is present only in Western societies.",
-        "It is present only in societies with written language.",
-        "It is present only in societies with musical instruments."
+        "Cultural",
+        "Linguistic",
+        "Mathematical",
+        "Biological"
       ],
       "answer_explanations": [
-        "Correct. The article states that music is generally agreed to be a cultural universal that is present in all human societies.",
-        "Incorrect. The article does not say music is present only in Western societies; it says it is present in all human societies.",
-        "Incorrect. The article does not limit music's presence to societies with written language.",
-        "Incorrect. The article does not say music is present only in societies with musical instruments."
+        "Correct. The article says music is generally agreed to be a cultural universal.",
+        "Incorrect. The article does not describe music as a linguistic universal.",
+        "Incorrect. The article does not describe music as a mathematical universal.",
+        "Incorrect. The article does not describe music as a biological universal."
       ]
     },
     {
       "id": 4,
-      "question": "Which language's word for music properly refers to art music, according to the article?",
+      "question": "What do scholars agree about regarding the elements of music?",
       "options": [
-        "Hindi",
-        "Chinese",
-        "Arabic",
-        "Indonesian"
+        "That music is defined by a small number of specific elements",
+        "That there are exactly ten elements",
+        "That melody is the most important element",
+        "That harmony is unnecessary"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Hindi word for music, sangita, properly refers to art music.",
-        "Incorrect. The article says the Chinese word yue shares a character with le meaning joy and originally referred to all the arts, not specifically art music.",
-        "Incorrect. The article says Arabic musiqi can refer to all music but is usually used for instrumental and metric music, not specifically art music.",
-        "Incorrect. The article says modern Indonesian musik was recently adopted to reflect the universal conception of music, not that it refers to art music."
+        "Correct. The article states that scholars agree music is defined by a small number of specific elements.",
+        "Incorrect. The article does not specify a number of elements.",
+        "Incorrect. The article does not rank the importance of melody.",
+        "Incorrect. The article does not say harmony is unnecessary."
       ]
     },
     {
       "id": 5,
-      "question": "What is the oldest surviving notated work of music mentioned in the article?",
+      "question": "Which of the following is NOT a category of activity involved in creating music?",
       "options": [
-        "The Hurrian Hymn to Nikkal",
-        "The Seikilos epitaph",
-        "Harmonika Stoicheia",
-        "The Rigveda"
+        "Listening",
+        "Composition",
+        "Improvisation",
+        "Performance"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Hurrian Hymn to Nikkal, found on clay tablets in Ugarit, is the oldest surviving notated work of music, dating back to approximately 1400 BCE.",
-        "Incorrect. The Seikilos epitaph is described as the oldest surviving example of a complete musical composition including notation, not the oldest notated work.",
-        "Incorrect. Harmonika Stoicheia by Aristoxenus is described as the oldest surviving work written about music theory, not the oldest notated work of music.",
-        "Incorrect. The Rigveda is mentioned as an ancient Hindu text with elements of present Indian music, not as the oldest surviving notated work."
+        "Correct. The article mentions composition, improvisation, and performance, but not listening.",
+        "Incorrect. Composition is mentioned as a category.",
+        "Incorrect. Improvisation is mentioned as a category.",
+        "Incorrect. Performance is mentioned as a category."
       ]
     },
     {
       "id": 6,
-      "question": "From what language did the modern English word music ultimately descend?",
+      "question": "Which of the following can be used to perform music?",
       "options": [
-        "Ancient Greek",
-        "Latin",
-        "Old French",
-        "Middle English"
+        "The human voice",
+        "Only electronic devices",
+        "Only string instruments",
+        "Only percussion instruments"
       ],
       "answer_explanations": [
-        "Correct. The article states that the modern English word music descends from Middle English musike, Old French musique, Latin mÅ«sica, and ultimately from Ancient Greek mousikÃ© technÄ.",
-        "Incorrect. Latin is an intermediate step in the descent, but the article says the word ultimately descends from Ancient Greek.",
-        "Incorrect. Old French is an intermediate step, not the ultimate origin according to the article.",
-        "Incorrect. Middle English is an intermediate step, not the ultimate origin according to the article."
+        "Correct. The article states that music may be performed using a wide variety of musical instruments, including the human voice.",
+        "Incorrect. The article does not limit performance to electronic devices.",
+        "Incorrect. The article does not limit performance to string instruments.",
+        "Incorrect. The article does not limit performance to percussion instruments."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say the Greek word mousikÃ© technÄ means?",
+      "question": "Which of the following is given as an example of a device that can play music indirectly?",
       "options": [
-        "art of the Muses",
-        "sound of the gods",
-        "rhythm of the soul",
-        "harmony of the spheres"
+        "Music box",
+        "Television",
+        "Radio",
+        "Telephone"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Ancient Greek phrase mousikÃ© technÄ means art of the Muses.",
-        "Incorrect. The article does not say mousikÃ© technÄ means sound of the gods.",
-        "Incorrect. The article does not say mousikÃ© technÄ means rhythm of the soul.",
-        "Incorrect. The article does not say mousikÃ© technÄ means harmony of the spheres."
+        "Correct. The article mentions a music box as an example of indirect mechanical or electronic playback.",
+        "Incorrect. The article does not mention television.",
+        "Incorrect. The article does not mention radio.",
+        "Incorrect. The article does not mention telephone."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is listed in the article as part of the music industry?",
+      "question": "According to the article, music often plays a key role in which of the following?",
       "options": [
-        "sound engineers",
-        "dance instructors",
-        "music critics",
-        "concert venue architects"
+        "Religious ceremonies",
+        "Scientific experiments",
+        "Political debates",
+        "Sports competitions"
       ],
       "answer_explanations": [
-        "Correct. The article lists sound engineers as part of the music industry, along with songwriters, performers, producers, and others.",
-        "Incorrect. Dance instructors are not mentioned in the article as part of the music industry.",
-        "Incorrect. Music critics are not mentioned in the article as part of the music industry.",
-        "Incorrect. Concert venue architects are not mentioned in the article as part of the music industry."
+        "Correct. The article states that music often plays a key role in social events and religious ceremonies.",
+        "Incorrect. The article does not mention scientific experiments.",
+        "Incorrect. The article does not mention political debates.",
+        "Incorrect. The article does not mention sports competitions."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article say about the Divje Babe flute?",
+      "question": "According to the article, music is used in the production of which of the following media?",
       "options": [
-        "There is considerable debate over whether it is truly a musical instrument.",
-        "It is the oldest widely accepted musical instrument.",
-        "It is made from mammoth ivory.",
-        "It dates to approximately 1400 BCE."
+        "Soundtracks to films",
+        "Newspapers",
+        "Textbooks",
+        "Magazines"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Divje Babe flute is at least 40,000 years old but there is considerable debate over whether it is truly a musical instrument or an object formed by animals.",
-        "Incorrect. The article says the earliest objects whose designations as musical instruments are widely accepted are bone flutes from the Swabian Jura, not the Divje Babe flute.",
-        "Incorrect. The article says the Divje Babe flute is a perforated cave bear femur, not made from mammoth ivory.",
-        "Incorrect. The article dates the Hurrian Hymn to Nikkal to approximately 1400 BCE, not the Divje Babe flute."
+        "Correct. The article says music is used in soundtracks to films, TV shows, operas, and video games.",
+        "Incorrect. The article does not mention newspapers.",
+        "Incorrect. The article does not mention textbooks.",
+        "Incorrect. The article does not mention magazines."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about music in ancient Greece?",
+      "question": "What is a common means of entertainment mentioned in the article?",
       "options": [
-        "It was one of the main subjects taught to children.",
-        "It was banned from religious ceremonies.",
-        "It was performed only by professional musicians.",
-        "It was not considered important for education."
+        "Listening to music",
+        "Watching television",
+        "Reading books",
+        "Playing sports"
       ],
       "answer_explanations": [
-        "Correct. The article states that music was an important part of social and cultural life in ancient Greece and was one of the main subjects taught to children.",
-        "Incorrect. The article does not say music was banned from religious ceremonies; it mentions mixed gender choruses performed for spiritual ceremonies.",
-        "Incorrect. The article does not say music was performed only by professional musicians.",
-        "Incorrect. The article explicitly states that musical education was considered important for the development of an individual's soul."
+        "Correct. The article states that listening to music is a common means of entertainment.",
+        "Incorrect. The article does not mention watching television as a means of entertainment.",
+        "Incorrect. The article does not mention reading books as a means of entertainment.",
+        "Incorrect. The article does not mention playing sports as a means of entertainment."
       ]
     }
   ]

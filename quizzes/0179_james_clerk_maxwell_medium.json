@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what did Maxwell's classical theory of electromagnetic radiation describe electricity, magnetism, and light as?",
+      "question": "What was James Clerk Maxwell's nationality and profession?",
       "options": [
-        "Different manifestations of the same phenomenon",
-        "Completely separate physical phenomena",
-        "Only relevant at microscopic scales",
-        "Unrelated to each other"
+        "Scottish physicist and mathematician",
+        "English chemist and biologist",
+        "Irish astronomer and geologist",
+        "Welsh engineer and inventor"
       ],
       "answer_explanations": [
-        "Correct. The article states that Maxwell's classical theory of electromagnetic radiation was \"the first theory to describe electricity, magnetism and light as different manifestations of the same phenomenon.\"",
-        "Incorrect. The article explicitly says electricity, magnetism, and light were described as manifestations of the same phenomenon, not as separate phenomena.",
-        "Incorrect. The article does not limit the theory's relevance to microscopic scales.",
-        "Incorrect. The article states they are related as different manifestations of the same phenomenon."
+        "Correct. The article states he was a 'Scottish physicist and mathematician'.",
+        "Incorrect. The article identifies him as Scottish, not English, and as a physicist and mathematician, not a chemist or biologist.",
+        "Incorrect. The article identifies him as Scottish, not Irish, and his fields were physics and mathematics, not astronomy or geology.",
+        "Incorrect. The article identifies him as Scottish, not Welsh, and his fields were physics and mathematics, not engineering or invention."
       ]
     },
     {
       "id": 2,
-      "question": "What prize did Maxwell earn in 1859 for his work on the rings of Saturn?",
+      "question": "According to the article, what was the first theory to describe electricity, magnetism, and light as different manifestations of the same phenomenon?",
       "options": [
-        "The Adams Prize",
-        "The Smith's Prize",
-        "The Nobel Prize",
-        "The Copley Medal"
+        "The classical theory of electromagnetic radiation",
+        "Newton's theory of gravity",
+        "The theory of relativity",
+        "Quantum mechanics"
       ],
       "answer_explanations": [
-        "Correct. The article states that Maxwell's work on Saturn's rings \"earned him the Adams Prize in 1859.\"",
-        "Incorrect. The Smith's Prize was earned when Maxwell graduated from Cambridge in 1854, not for the Saturn work.",
-        "Incorrect. The article does not mention Maxwell receiving a Nobel Prize.",
-        "Incorrect. The article does not mention Maxwell receiving the Copley Medal."
+        "Correct. The article says Maxwell was responsible for the 'classical theory of electromagnetic radiation', which was the first to describe electricity, magnetism, and light as different manifestations of the same phenomenon.",
+        "Incorrect. The article mentions Newton's work as the 'first great unification in physics', but not as describing electricity, magnetism, and light as the same phenomenon.",
+        "Incorrect. The article says Maxwell's discoveries laid foundations for relativity, but relativity is not described as the first theory to unify electricity, magnetism, and light.",
+        "Incorrect. The article says Maxwell's discoveries laid foundations for quantum mechanics, but quantum mechanics is not described as the first theory to unify electricity, magnetism, and light."
       ]
     },
     {
       "id": 3,
-      "question": "What did Maxwell's 1865 publication \"A Dynamical Theory of the Electromagnetic Field\" demonstrate about electric and magnetic fields?",
+      "question": "What did Maxwell correctly propose about the rings of Saturn?",
       "options": [
-        "They travel through space as waves moving at the speed of light",
-        "They are static and do not propagate",
-        "They only exist inside conductive materials",
-        "They travel slower than sound"
+        "They were composed of numerous small particles",
+        "They were solid disks",
+        "They were made of liquid",
+        "They were a single large moon"
       ],
       "answer_explanations": [
-        "Correct. The article states the 1865 publication demonstrated that \"electric and magnetic fields travel through space as waves moving at the speed of light.\"",
-        "Incorrect. The article describes them as traveling waves, not static fields.",
-        "Incorrect. The article says they travel through space, not only inside conductive materials.",
-        "Incorrect. The article states they move at the speed of light, not slower than sound."
+        "Correct. The article states he 'correctly proposed that they were composed of numerous small particles'.",
+        "Incorrect. The article says he proposed they were made of numerous small particles, not solid disks.",
+        "Incorrect. The article says he proposed they were made of numerous small particles, not liquid.",
+        "Incorrect. The article says he proposed they were made of numerous small particles, not a single large moon."
       ]
     },
     {
       "id": 4,
-      "question": "Which thought experiment did Maxwell propose in 1867?",
+      "question": "In his 1865 publication, what did Maxwell demonstrate about electric and magnetic fields?",
       "options": [
-        "Maxwell's demon",
-        "SchrÃ¶dinger's cat",
-        "Einstein's elevator",
-        "Newton's cannonball"
+        "They travel through space as waves moving at the speed of light",
+        "They are stationary and do not move",
+        "They travel faster than the speed of light",
+        "They only exist in solid materials"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1867 Maxwell \"proposed the thought experiment known as Maxwell's demon.\"",
-        "Incorrect. SchrÃ¶dinger's cat is not mentioned in the article.",
-        "Incorrect. Einstein's elevator is not mentioned in the article.",
-        "Incorrect. Newton's cannonball is not mentioned in the article."
+        "Correct. The article says his 1865 publication demonstrated that electric and magnetic fields 'travel through space as waves moving at the speed of light'.",
+        "Incorrect. The article says they travel as waves, not that they are stationary.",
+        "Incorrect. The article says they travel at the speed of light, not faster.",
+        "Incorrect. The article says they travel through space, not only in solid materials."
       ]
     },
     {
       "id": 5,
-      "question": "What position did Maxwell take at Cambridge in 1871?",
+      "question": "What did Maxwell present in 1861?",
       "options": [
-        "The first Cavendish Professor of Physics",
-        "Head of Trinity College",
-        "Director of the Royal Society",
-        "Professor of Astronomy"
+        "The first durable colour photograph",
+        "The first black and white photograph",
+        "The first moving picture",
+        "The first X-ray image"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1871 Maxwell \"returned to Cambridge as the first Cavendish Professor of Physics.\"",
-        "Incorrect. The article does not say he became head of Trinity College.",
-        "Incorrect. The article does not say he became director of the Royal Society.",
-        "Incorrect. The article does not say he became Professor of Astronomy."
+        "Correct. The article states he 'presented the first durable colour photograph in 1861'.",
+        "Incorrect. The article specifically mentions a colour photograph, not a black and white one.",
+        "Incorrect. The article mentions a photograph, not a moving picture.",
+        "Incorrect. The article mentions a photograph, not an X-ray image."
       ]
     },
     {
       "id": 6,
-      "question": "What did Maxwell show about colour in 1861?",
+      "question": "What thought experiment did Maxwell propose in 1867?",
       "options": [
-        "He presented the first durable colour photograph and showed any colour can be produced from red, green, and blue",
-        "He proved colour does not exist physically",
-        "He invented black-and-white photography",
-        "He showed only two primary colours are needed"
+        "Maxwell's demon",
+        "SchrÃ¶dinger's cat",
+        "The twin paradox",
+        "The trolley problem"
       ],
       "answer_explanations": [
-        "Correct. The article states Maxwell \"presented the first durable colour photograph in 1861, and showed that any colour can be produced with a mixture of any three primary colours, those being red, green, and blue.\"",
-        "Incorrect. The article describes his work on colour photography and primary colours, not that colour does not exist.",
-        "Incorrect. The article concerns colour photography, not black-and-white photography.",
-        "Incorrect. The article specifies three primary colours (red, green, and blue), not two."
+        "Correct. The article says 'he proposed the thought experiment known as Maxwell's demon' in 1867.",
+        "Incorrect. The article mentions Maxwell's demon, not SchrÃ¶dinger's cat.",
+        "Incorrect. The article mentions Maxwell's demon, not the twin paradox.",
+        "Incorrect. The article mentions Maxwell's demon, not the trolley problem."
       ]
     },
     {
       "id": 7,
-      "question": "What did Maxwell correctly propose about the rings of Saturn while at Marischal College?",
+      "question": "In 1871, what position did Maxwell take at Cambridge?",
       "options": [
-        "They were composed of numerous small particles",
-        "They were solid liquid structures",
-        "They were made of a single solid ring",
-        "They were optical illusions"
+        "The first Cavendish Professor of Physics",
+        "The head librarian",
+        "The chancellor of the university",
+        "The professor of poetry"
       ],
       "answer_explanations": [
-        "Correct. The article states that at Marischal College Maxwell \"correctly proposed that they were composed of numerous small particles.\"",
-        "Incorrect. The article says they are composed of numerous small particles, not solid liquid structures.",
-        "Incorrect. The article says they are composed of numerous small particles, not a single solid ring.",
-        "Incorrect. The article treats the rings as real physical objects composed of particles, not optical illusions."
+        "Correct. The article says he 'returned to Cambridge as the first Cavendish Professor of Physics'.",
+        "Incorrect. The article specifies his role as the first Cavendish Professor of Physics, not a librarian.",
+        "Incorrect. The article specifies his role as a professor, not the chancellor.",
+        "Incorrect. The article specifies his role as a physics professor, not a poetry professor."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is listed among Maxwell's contributions in the article?",
+      "question": "According to the article, what did Maxwell's discoveries lay the foundations for?",
       "options": [
-        "He devised modern dimensional analysis",
-        "He invented the steam engine",
-        "He discovered penicillin",
-        "He formulated the laws of planetary motion"
+        "Relativity and quantum mechanics",
+        "Evolution and genetics",
+        "Plate tectonics and meteorology",
+        "Economics and sociology"
       ],
       "answer_explanations": [
-        "Correct. The article states that Maxwell \"devised modern dimensional analysis.\"",
-        "Incorrect. The article does not credit Maxwell with inventing the steam engine.",
-        "Incorrect. The article does not mention penicillin.",
-        "Incorrect. The article does not attribute the laws of planetary motion to Maxwell."
+        "Correct. The article says his discoveries 'laid the foundations for such fields as relativity and quantum mechanics'.",
+        "Incorrect. The article mentions relativity and quantum mechanics, not evolution or genetics.",
+        "Incorrect. The article mentions relativity and quantum mechanics, not plate tectonics or meteorology.",
+        "Incorrect. The article mentions relativity and quantum mechanics, not economics or sociology."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article say about Maxwell's role in the creation of statistical mechanics?",
+      "question": "Where was James Clerk Maxwell born?",
       "options": [
-        "He was key in its creation",
-        "He opposed its development",
-        "He had no involvement with it",
-        "He only wrote a single paper about it"
+        "Edinburgh",
+        "London",
+        "Aberdeen",
+        "Cambridge"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"Maxwell was also key in the creation of statistical mechanics.\"",
-        "Incorrect. The article says he was key in its creation, not that he opposed it.",
-        "Incorrect. The article explicitly states he was key in its creation.",
-        "Incorrect. The article describes him as key in the creation of the field, not limited to a single paper."
+        "Correct. The article states he 'was born on 13 June 1831 at 14 India Street, Edinburgh'.",
+        "Incorrect. The article states he was born in Edinburgh, not London.",
+        "Incorrect. The article states he was born in Edinburgh, not Aberdeen.",
+        "Incorrect. The article states he was born in Edinburgh, not Cambridge."
       ]
     },
     {
       "id": 10,
-      "question": "What did Maxwell introduce into physics according to the article?",
+      "question": "What did Maxwell discover through his experiments with gelatine and polarising prisms?",
       "options": [
-        "The term relativity",
-        "The term quantum",
-        "The term entropy",
-        "The term gravity"
+        "Photoelasticity",
+        "Radio waves",
+        "The rings of Saturn",
+        "The MaxwellâBoltzmann distribution"
       ],
       "answer_explanations": [
-        "Correct. The article states that his discoveries laid foundations for relativity \"(he was the one to introduce the term into physics).\"",
-        "Incorrect. The article does not say Maxwell introduced the term quantum.",
-        "Incorrect. The article does not say Maxwell introduced the term entropy.",
-        "Incorrect. The article does not say Maxwell introduced the term gravity."
+        "Correct. The article says through this practice he 'discovered photoelasticity'.",
+        "Incorrect. The article mentions radio waves as a prediction from his electromagnetic theory, not from the gelatine experiments.",
+        "Incorrect. The rings of Saturn were studied later at Marischal College, not discovered through the gelatine experiments.",
+        "Incorrect. The MaxwellâBoltzmann distribution was derived for kinetic theory of gases, not from the gelatine experiments."
       ]
     }
   ]

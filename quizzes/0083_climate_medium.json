@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which classification scheme is described as the most widely used for classifying climates?",
+      "question": "What is the standard averaging period for climate, as defined by the World Meteorological Organization?",
       "options": [
-        "KÃ¶ppen climate classification",
-        "Thornthwaite system",
-        "Bergeron classification",
-        "Spatial Synoptic Classification system"
+        "30 years",
+        "10 years",
+        "50 years",
+        "100 years"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The most widely used classification scheme is the KÃ¶ppen climate classification.'",
-        "Incorrect. The Thornthwaite system is mentioned as incorporating evapotranspiration but is not described as the most widely used.",
-        "Incorrect. The Bergeron system focuses on the origin of air masses and is not identified as the most widely used scheme.",
-        "Incorrect. The Spatial Synoptic Classification system focuses on air mass origins and is not identified as the most widely used scheme."
+        "Correct. The article states that the standard averaging period is 30 years, as defined by the World Meteorological Organization (WMO).",
+        "Incorrect. The article specifies a 30-year period, not 10 years.",
+        "Incorrect. The article specifies a 30-year period, not 50 years.",
+        "Incorrect. The article specifies a 30-year period, not 100 years."
       ]
     },
     {
       "id": 2,
-      "question": "What does the World Meteorological Organization define as a climate normal?",
+      "question": "Which climate classification scheme is the most widely used, according to the article?",
       "options": [
-        "The arithmetic average of a climate element over a 30-year period",
-        "The median value of temperature over a 10-year period",
-        "The maximum precipitation recorded over a 50-year period",
-        "The variability of wind patterns over a 20-year period"
+        "KÃ¶ppen climate classification",
+        "Thornthwaite system",
+        "Bergeron system",
+        "Spatial Synoptic Classification system"
       ],
       "answer_explanations": [
-        "Correct. The article quotes the WMO definition: 'A climate normal is defined as the arithmetic average of a climate element (e.g. temperature) over a 30-year period.'",
-        "Incorrect. The article does not define climate normal as a median over 10 years.",
-        "Incorrect. The article does not mention maximum precipitation over 50 years in this context.",
-        "Incorrect. The article does not describe climate normal as wind variability over 20 years."
+        "Correct. The article states that the most widely used classification scheme is the KÃ¶ppen climate classification.",
+        "Incorrect. The Thornthwaite system is mentioned but not as the most widely used.",
+        "Incorrect. The Bergeron system is mentioned but not as the most widely used.",
+        "Incorrect. The Spatial Synoptic Classification system is mentioned but not as the most widely used."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is listed as a major classification in Thornthwaite's climate classification?",
+      "question": "What is the study of ancient climates called?",
       "options": [
-        "Microthermal",
-        "Tropical",
-        "Polar",
-        "Desert"
+        "Paleoclimatology",
+        "Meteorology",
+        "Climatology",
+        "Geology"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The major classifications in Thornthwaite's climate classification are microthermal, mesothermal, and megathermal.'",
-        "Incorrect. Tropical is not listed among Thornthwaite's major classifications in the article.",
-        "Incorrect. Polar is not listed among Thornthwaite's major classifications in the article.",
-        "Incorrect. Desert is not listed among Thornthwaite's major classifications in the article."
+        "Correct. The article states that paleoclimatology is the study of ancient climates.",
+        "Incorrect. Meteorology is the study of weather, not ancient climates.",
+        "Incorrect. Climatology is the study of climate, but the specific term for ancient climates is paleoclimatology.",
+        "Incorrect. Geology is the study of the Earth's solid material, not specifically ancient climates."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what do Bergeron and Spatial Synoptic Classification systems focus on?",
+      "question": "Which of the following is an example of non-biotic evidence used in paleoclimatology?",
       "options": [
-        "The origin of air masses that define the climate of a region",
-        "Evapotranspiration and temperature data",
-        "Average and typical temperature and precipitation variables",
-        "Plant hardiness zones"
+        "Ice cores",
+        "Tree rings",
+        "Coral",
+        "Pollen"
       ],
       "answer_explanations": [
-        "Correct. The article states that these systems 'focus on the origin of air masses that define the climate of a region.'",
-        "Incorrect. Evapotranspiration is associated with the Thornthwaite system, not Bergeron or Spatial Synoptic Classification.",
-        "Incorrect. Average temperature and precipitation are used in general climate classification, not specifically these systems.",
-        "Incorrect. Plant hardiness is mentioned as an example of empiric classification, not these systems."
+        "Correct. The article lists ice cores as an example of non-biotic evidence, along with sediments found in lake beds.",
+        "Incorrect. Tree rings are listed as biotic evidence.",
+        "Incorrect. Coral is listed as biotic evidence.",
+        "Incorrect. Pollen is mentioned in the record section as evidence, and is biotic in nature."
       ]
     },
     {
       "id": 5,
-      "question": "Which period did the technical commission designate at its 1934 Wiesbaden meeting as the reference time frame for climatological standard normals?",
+      "question": "According to the popular phrase in the article, what is the difference between climate and weather?",
       "options": [
-        "1901 to 1930",
-        "1961 to 1990",
-        "1991 to 2020",
-        "1929 to 1934"
+        "Climate is what you expect, weather is what you get",
+        "Climate is what you get, weather is what you expect",
+        "Climate and weather are the same thing",
+        "Climate is short-term, weather is long-term"
       ],
       "answer_explanations": [
-        "Correct. The article states that at the 1934 Wiesbaden meeting, the commission designated 'the thirty-year period from 1901 to 1930 as the reference time frame for climatological standard normals.'",
-        "Incorrect. The 1961â1990 period was used for the updated climate normals completed in 1982, not the 1934 designation.",
-        "Incorrect. The 1991â2020 period is described as the next set of climate normals to be published, not the 1934 designation.",
-        "Incorrect. 1929 to 1934 is not mentioned as a reference period in the article."
+        "Correct. The article quotes the phrase 'Climate is what you expect, weather is what you get.'",
+        "Incorrect. The phrase is stated as 'Climate is what you expect, weather is what you get.'",
+        "Incorrect. The article clearly distinguishes between climate and weather.",
+        "Incorrect. The article states climate is long-term and weather is short-term."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article say about the difference between climate and weather?",
+      "question": "What is the main difference between genetic and empiric climate classification methods?",
       "options": [
-        "Climate is what you expect, weather is what you get",
-        "Climate changes daily while weather remains constant",
-        "Weather is averaged over 30 years while climate is immediate",
-        "There is no meaningful difference between the two terms"
+        "Genetic methods focus on causes, empiric methods focus on effects",
+        "Genetic methods focus on effects, empiric methods focus on causes",
+        "Genetic methods are newer than empiric methods",
+        "Genetic methods use temperature, empiric methods use precipitation"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The difference between climate and weather is usefully summarized by the popular phrase \"Climate is what you expect, weather is what you get.\"'",
-        "Incorrect. The article does not say climate changes daily while weather remains constant; it presents the opposite relationship.",
-        "Incorrect. The article states climate is averaged over long periods, not weather.",
-        "Incorrect. The article explicitly provides a phrase summarizing the difference between the two."
+        "Correct. The article states that genetic methods focus on the causes of climate, while empiric methods focus on the effects of climate.",
+        "Incorrect. The article states the opposite: genetic methods focus on causes, empiric on effects.",
+        "Incorrect. The article does not compare their age.",
+        "Incorrect. The article does not define them by the variables they use."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is identified in the article as a dynamic climate determinant?",
+      "question": "What is climate variability?",
       "options": [
-        "Thermohaline circulation of the ocean",
-        "Latitude",
-        "Altitude",
-        "Proportion of land to water"
+        "Variations in the mean state and other characteristics of climate on all spatial and temporal scales beyond individual weather events",
+        "The average weather over a 30-year period",
+        "Changes in climate caused only by human activities",
+        "The study of ancient climates"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Other climate determinants are more dynamic: the thermohaline circulation of the ocean leads to a 5 Â°C (9 Â°F) warming of the northern Atlantic Ocean...'",
-        "Incorrect. Latitude is described as a nearly constant variable that changes only over millions of years.",
-        "Incorrect. Altitude is described as a nearly constant variable that changes only over millions of years.",
-        "Incorrect. Proportion of land to water is described as a nearly constant variable that changes only over millions of years."
+        "Correct. The article defines climate variability as variations in the mean state and other characteristics of climate 'on all spatial and temporal scales beyond that of individual weather events.'",
+        "Incorrect. This is the definition of climate, not climate variability.",
+        "Incorrect. Climate variability includes natural variations, not just human-caused changes.",
+        "Incorrect. This is the definition of paleoclimatology."
       ]
     },
     {
       "id": 8,
-      "question": "What does paleoclimatology study?",
+      "question": "According to the article, what has the EU's Copernicus Climate Change Service reported about average global air temperature?",
       "options": [
-        "Ancient climates",
-        "Modern weather instruments",
-        "Future climate model projections",
-        "Daily weather variability"
+        "It has passed 1.5C of warming in the period from February 2023 to January 2024",
+        "It has passed 2.0C of warming in the period from February 2023 to January 2024",
+        "It has passed 1.0C of warming in the period from February 2023 to January 2024",
+        "It has passed 0.5C of warming in the period from February 2023 to January 2024"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Paleoclimatology is the study of ancient climates.'",
-        "Incorrect. Modern weather instruments are discussed under the modern climate record, not paleoclimatology.",
-        "Incorrect. Future climate model projections are discussed under climate models, not paleoclimatology.",
-        "Incorrect. Daily weather variability is not the focus of paleoclimatology as described in the article."
+        "Correct. The article states that according to the EU's Copernicus Climate Change Service, average global air temperature has passed 1.5C of warming in the period from February 2023 to January 2024.",
+        "Incorrect. The article specifically mentions 1.5C, not 2.0C.",
+        "Incorrect. The article specifically mentions 1.5C, not 1.0C.",
+        "Incorrect. The article specifically mentions 1.5C, not 0.5C."
       ]
     },
     {
       "id": 9,
-      "question": "Which variables are commonly measured as meteorological variables according to the article?",
+      "question": "What is the term for variations in climate that occur relatively regularly and in distinct modes?",
       "options": [
-        "Temperature, humidity, atmospheric pressure, wind, and precipitation",
-        "Ocean salinity, soil pH, and cloud color",
-        "Solar wind speed, lunar phases, and tectonic activity",
-        "Population density, land use, and greenhouse gas emissions"
+        "Periodic variability",
+        "Random variability",
+        "Noise",
+        "Climate change"
       ],
       "answer_explanations": [
-        "Correct. The article lists these exact variables: 'Some of the meteorological variables that are commonly measured are temperature, humidity, atmospheric pressure, wind, and precipitation.'",
-        "Incorrect. Ocean salinity, soil pH, and cloud color are not listed as commonly measured meteorological variables.",
-        "Incorrect. Solar wind speed, lunar phases, and tectonic activity are not mentioned as meteorological variables.",
-        "Incorrect. Population density, land use, and greenhouse gas emissions are not the meteorological variables listed in the article."
+        "Correct. The article states that periodic variability occurs relatively regularly and in distinct modes of variability or climate patterns.",
+        "Incorrect. Random variability is described as not being caused systematically and occurring at random times.",
+        "Incorrect. Noise is another term for random variability.",
+        "Incorrect. Climate change is a broader term for long-term variations, not specifically regular patterns."
       ]
     },
     {
       "id": 10,
-      "question": "How does the article describe climate in a wider sense?",
+      "question": "What is the main cause of the present rate of climate change, according to the article?",
       "options": [
-        "The state, including a statistical description, of the climate system",
-        "The average weather over a 30-year period",
-        "The mean temperature of a region over one year",
-        "The variability of daily weather events only"
+        "Emission of greenhouse gases by human activities",
+        "Volcanic activity",
+        "Changes in the Earth's orbit",
+        "Variations in solar output"
       ],
       "answer_explanations": [
-        "Correct. The IPCC definition quoted in the article states: 'Climate in a wider sense is the state, including a statistical description, of the climate system.'",
-        "Incorrect. The average weather over 30 years describes climate in a narrow sense, not the wider sense.",
-        "Incorrect. Mean temperature over one year is not the definition of climate in a wider sense given in the article.",
-        "Incorrect. The wider sense refers to the climate system as a whole, not just daily weather variability."
+        "Correct. The article states that naturally caused changes occur on a much slower time scale than the present rate of change which is caused by the emission of greenhouse gases by human activities.",
+        "Incorrect. Volcanic activity is mentioned as a suggested cause of ice age periods, not the main cause of present change.",
+        "Incorrect. Changes in the Earth's orbit are suggested causes of ice ages, not the main cause of present change.",
+        "Incorrect. Variations in solar output are suggested causes of ice ages, not the main cause of present change."
       ]
     }
   ]

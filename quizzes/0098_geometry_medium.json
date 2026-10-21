@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is a mathematician who works in the field of geometry called?",
+      "question": "What is geometry primarily concerned with?",
       "options": [
-        "geometer",
-        "mathematician",
-        "geometrician",
-        "spatial analyst"
+        "Properties of space such as distance, shape, size, and relative position of figures",
+        "The study of numbers and operations",
+        "The study of living organisms",
+        "The study of chemical reactions"
       ],
       "answer_explanations": [
-        "Correct. The article states that a mathematician who works in geometry is called a geometer.",
-        "Incorrect. The article does not define a mathematician who works in geometry simply as a mathematician.",
-        "Incorrect. The article does not use the term geometrician.",
-        "Incorrect. The article does not use the term spatial analyst."
+        "Correct. The article states that geometry is 'concerned with properties of space such as the distance, shape, size, and relative position of figures.'",
+        "Incorrect. That describes arithmetic, not geometry.",
+        "Incorrect. That is biology, not geometry.",
+        "Incorrect. That is chemistry, not geometry."
       ]
     },
     {
       "id": 2,
-      "question": "Which field is geometry, along with arithmetic, described as one of the oldest branches of?",
+      "question": "Until the 19th century, geometry was almost exclusively devoted to which type of geometry?",
       "options": [
-        "mathematics",
-        "science",
-        "art",
-        "architecture"
+        "Euclidean geometry",
+        "Non-Euclidean geometry",
+        "Algebraic geometry",
+        "Projective geometry"
       ],
       "answer_explanations": [
-        "Correct. The article says geometry is, along with arithmetic, one of the oldest branches of mathematics.",
-        "Incorrect. The article does not say geometry is one of the oldest branches of science.",
-        "Incorrect. The article does not say geometry is one of the oldest branches of art.",
-        "Incorrect. The article does not say geometry is one of the oldest branches of architecture."
+        "Correct. The article says, 'Until the 19th century, geometry was almost exclusively devoted to Euclidean geometry.'",
+        "Incorrect. Non-Euclidean geometries were developed later in the 19th century.",
+        "Incorrect. Algebraic geometry is a subfield that developed later.",
+        "Incorrect. Projective geometry was studied systematically in the 17th century and is not the main focus before the 19th century."
       ]
     },
     {
       "id": 3,
-      "question": "Which ancient civilization is associated with the Moscow Papyrus?",
+      "question": "What did Carl Friedrich Gauss's Theorema Egregium assert about surfaces?",
       "options": [
-        "Egypt",
-        "Mesopotamia",
-        "Babylonia",
-        "Nubia"
+        "That the Gaussian curvature of a surface is independent of any specific embedding in a Euclidean space",
+        "That all surfaces have zero curvature",
+        "That surfaces cannot be studied intrinsically",
+        "That the curvature of a surface depends on how it is embedded"
       ],
       "answer_explanations": [
-        "Correct. The article identifies the Moscow Papyrus as one of the Egyptian texts on geometry.",
-        "Incorrect. The article associates Mesopotamia with early geometry but not specifically with the Moscow Papyrus.",
-        "Incorrect. The article associates Babylonian clay tablets with Babylonian mathematics, not the Moscow Papyrus.",
-        "Incorrect. The article mentions ancient Nubians separately from the Moscow Papyrus."
+        "Correct. The article states that the Theorema Egregium 'asserts roughly that the Gaussian curvature of a surface is independent from any specific embedding in a Euclidean space.'",
+        "Incorrect. The theorem does not claim all surfaces have zero curvature.",
+        "Incorrect. The theorem implies surfaces can be studied intrinsically, not that they cannot.",
+        "Incorrect. The theorem says the opposite â curvature is independent of embedding."
       ]
     },
     {
       "id": 4,
-      "question": "What did Thales of Miletus use geometry to solve?",
+      "question": "Which geometry underlies general relativity?",
       "options": [
-        "problems such as calculating the height of pyramids and the distance of ships from the shore",
-        "the volume of a truncated pyramid",
-        "the area under the arc of a parabola",
-        "the diagonals of a cyclic quadrilateral"
+        "Non-Euclidean geometry",
+        "Euclidean geometry",
+        "Projective geometry",
+        "Finite geometry"
       ],
       "answer_explanations": [
-        "Correct. The article states Thales used geometry to solve problems such as calculating pyramid heights and ship distances.",
-        "Incorrect. The Moscow Papyrus gives a formula for the volume of a truncated pyramid, not Thales.",
-        "Incorrect. Archimedes calculated the area under the arc of a parabola, not Thales.",
-        "Incorrect. Brahmagupta stated a theorem on the diagonals of a cyclic quadrilateral, not Thales."
+        "Correct. The article says, 'The geometry that underlies general relativity is a famous application of non-Euclidean geometry.'",
+        "Incorrect. General relativity uses non-Euclidean geometry, not Euclidean.",
+        "Incorrect. Projective geometry is not mentioned in relation to general relativity.",
+        "Incorrect. Finite geometry is not mentioned in relation to general relativity."
       ]
     },
     {
       "id": 5,
-      "question": "Which work by Euclid is described as introducing mathematical rigor through the axiomatic method?",
+      "question": "What is a geometer?",
       "options": [
-        "Elements",
-        "Shatapatha Brahmana",
-        "Sulba Sutras",
-        "Aryabhatiya"
+        "A mathematician who works in the field of geometry",
+        "A scientist who studies stars",
+        "A person who draws maps",
+        "A builder of geometric shapes"
       ],
       "answer_explanations": [
-        "Correct. The article says Euclid's Elements introduced mathematical rigor through the axiomatic method.",
-        "Incorrect. The Shatapatha Brahmana is an Indian text containing rules for ritual geometric constructions.",
-        "Incorrect. The Sulba Sutras are Indian texts related to the Pythagorean Theorem.",
-        "Incorrect. The Aryabhatiya is Aryabhata's work including computation of areas and volumes."
+        "Correct. The article states, 'A mathematician who works in the field of geometry is called a geometer.'",
+        "Incorrect. That is an astronomer, not a geometer.",
+        "Incorrect. That is a cartographer, not a geometer.",
+        "Incorrect. That is not the definition given in the article."
       ]
     },
     {
       "id": 6,
-      "question": "What does Gauss's Theorema Egregium assert about Gaussian curvature?",
+      "question": "What did the Moscow Papyrus provide a formula for?",
       "options": [
-        "It is independent from any specific embedding in a Euclidean space.",
-        "It depends on the surface's embedding in Euclidean space.",
-        "It applies only to non-Euclidean geometries.",
-        "It cannot be studied intrinsically."
+        "Calculating the volume of a truncated pyramid (frustum)",
+        "Calculating the area of a circle",
+        "Finding the height of a pyramid",
+        "Measuring the distance of ships from shore"
       ],
       "answer_explanations": [
-        "Correct. The article states the theorem asserts Gaussian curvature is independent from any specific embedding in a Euclidean space.",
-        "Incorrect. The article says the opposite: curvature is independent of embedding.",
-        "Incorrect. The article does not say the theorem applies only to non-Euclidean geometries.",
-        "Incorrect. The article says surfaces can be studied intrinsically because of this theorem."
+        "Correct. The article says, 'the Moscow Papyrus gives a formula for calculating the volume of a truncated pyramid, or frustum.'",
+        "Incorrect. The Moscow Papyrus is not mentioned for that.",
+        "Incorrect. Thales is credited with calculating the height of pyramids, not the Moscow Papyrus.",
+        "Incorrect. Thales solved the distance of ships from shore, not the Moscow Papyrus."
       ]
     },
     {
       "id": 7,
-      "question": "Which geometry considers only alignment of points but not distance and parallelism?",
+      "question": "Who is credited with the first use of deductive reasoning applied to geometry?",
       "options": [
-        "projective geometry",
-        "affine geometry",
-        "finite geometry",
-        "differential geometry"
-      ],
-      "answer_explanations": [
-        "Correct. The article states projective geometry considers only alignment of points but not distance and parallelism.",
-        "Incorrect. The article says affine geometry omits angle and distance, not specifically alignment only.",
-        "Incorrect. The article says finite geometry omits continuity.",
-        "Incorrect. The article lists differential geometry as a subfield based on methods, not this property."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "Who developed analytic geometry, or geometry with coordinates and equations?",
-      "options": [
-        "RenÃ© Descartes and Pierre de Fermat",
-        "Girard Desargues",
+        "Thales of Miletus",
+        "Pythagoras",
         "Euclid",
         "Archimedes"
       ],
       "answer_explanations": [
-        "Correct. The article credits RenÃ© Descartes and Pierre de Fermat with the creation of analytic geometry.",
-        "Incorrect. Girard Desargues is associated with the systematic study of projective geometry.",
-        "Incorrect. Euclid is associated with the Elements and axiomatic geometry.",
-        "Incorrect. Archimedes used the method of exhaustion and studied surfaces of revolution."
+        "Correct. The article states, 'He is credited with the first use of deductive reasoning applied to geometry' referring to Thales of Miletus.",
+        "Incorrect. Pythagoras is credited with the first proof of the Pythagorean theorem, not deductive reasoning.",
+        "Incorrect. Euclid introduced the axiomatic method later, but Thales is credited with the first use of deductive reasoning.",
+        "Incorrect. Archimedes used the method of exhaustion, not the first use of deductive reasoning."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What did Euclid's 'Elements' introduce?",
+      "options": [
+        "Mathematical rigor through the axiomatic method",
+        "The concept of coordinates",
+        "The first proof of the Pythagorean theorem",
+        "The method of exhaustion"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Euclid's Elements 'introduced mathematical rigor through the axiomatic method.'",
+        "Incorrect. Analytic geometry with coordinates was developed in the 17th century by Descartes and Fermat.",
+        "Incorrect. The Pythagorean School is credited with the first proof of the Pythagorean theorem.",
+        "Incorrect. The method of exhaustion was developed by Eudoxus, not Euclid."
       ]
     },
     {
       "id": 9,
-      "question": "What did the discovery of non-Euclidean geometries and the Erlangen programme change?",
+      "question": "Which mathematician used the method of exhaustion to calculate the area under the arc of a parabola?",
       "options": [
-        "the way geometry had been studied previously",
-        "only the teaching of geometry in schools",
-        "only the definition of a point",
-        "only the use of geometry in art"
+        "Archimedes",
+        "Eudoxus",
+        "Euclid",
+        "Pythagoras"
       ],
       "answer_explanations": [
-        "Correct. The article says these two developments changed the way geometry had been studied previously.",
-        "Incorrect. The article does not limit the change to school teaching.",
-        "Incorrect. The article does not say the change concerned only the definition of a point.",
-        "Incorrect. The article does not say the change concerned only the use of geometry in art."
+        "Correct. The article states, 'Archimedes ... used the method of exhaustion to calculate the area under the arc of a parabola.'",
+        "Incorrect. Eudoxus developed the method of exhaustion but is not credited with that specific calculation.",
+        "Incorrect. Euclid is known for the Elements, not for that calculation.",
+        "Incorrect. Pythagoras is known for the Pythagorean theorem, not for that calculation."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say a geometric space, or simply a space, presently is?",
+      "question": "What did RenÃ© Descartes and Pierre de Fermat create in the early 17th century?",
       "options": [
-        "a mathematical structure on which some geometry is defined",
-        "the three-dimensional space of the physical world",
-        "only a Euclidean model",
-        "only a non-Euclidean model"
+        "Analytic geometry, or geometry with coordinates and equations",
+        "Projective geometry",
+        "Non-Euclidean geometry",
+        "Algebraic topology"
       ],
       "answer_explanations": [
-        "Correct. The article states presently a geometric space is a mathematical structure on which some geometry is defined.",
-        "Incorrect. The article says this was the original meaning, not the present meaning.",
-        "Incorrect. The article does not say a space is only a Euclidean model.",
-        "Incorrect. The article does not say a space is only a non-Euclidean model."
+        "Correct. The article says, 'The first was the creation of analytic geometry, or geometry with coordinates and equations, by RenÃ© Descartes ... and Pierre de Fermat.'",
+        "Incorrect. Projective geometry was systematically studied by Girard Desargues.",
+        "Incorrect. Non-Euclidean geometry was discovered in the 19th century.",
+        "Incorrect. Algebraic topology was founded by Henri PoincarÃ© later."
       ]
     }
   ]

@@ -8,159 +8,159 @@
       "question": "What is a disease according to the article?",
       "options": [
         "A particular abnormal condition that adversely affects the structure or function of all or part of an organism and is not immediately due to any external injury",
-        "A condition caused solely by external injuries",
-        "A temporary feeling of discomfort without physical impairment",
-        "A condition that only affects mental health"
+        "A normal condition that improves the function of an organism",
+        "An external injury that causes immediate harm",
+        "A condition that only affects plants"
       ],
       "answer_explanations": [
-        "Correct. The article defines disease as a particular abnormal condition that adversely affects the structure or function of all or part of an organism and is not immediately due to any external injury.",
-        "Incorrect. The article states disease is not immediately due to external injury.",
-        "Incorrect. The article describes disease as an abnormal condition affecting structure or function, not merely a temporary feeling.",
-        "Incorrect. The article states diseases can affect people mentally as well as physically, not only mental health."
+        "Correct. The article states that a disease is 'a particular abnormal condition that adversely affects the structure or function of all or part of an organism and is not immediately due to any external injury'.",
+        "Incorrect. The article says a disease is an abnormal condition, not a normal one, and it adversely affects the organism.",
+        "Incorrect. The article specifically says a disease is 'not immediately due to any external injury'.",
+        "Incorrect. The article refers to 'all or part of an organism' generally, not only plants."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as one of the four main types of disease?",
+      "question": "What are diseases often known to be associated with?",
       "options": [
-        "Infectious diseases",
-        "Emotional diseases",
-        "Environmental diseases",
-        "Behavioral diseases"
+        "Specific signs and symptoms",
+        "External injuries only",
+        "Good health",
+        "Random events"
       ],
       "answer_explanations": [
-        "Correct. The article lists infectious diseases as one of the four main types of disease, along with deficiency, hereditary, and physiological diseases.",
-        "Incorrect. Emotional diseases are not listed among the four main types.",
-        "Incorrect. Environmental diseases are not listed among the four main types.",
-        "Incorrect. Behavioral diseases are not listed among the four main types."
+        "Correct. The article says, 'Diseases are often known to be medical conditions that are associated with specific signs and symptoms'.",
+        "Incorrect. The article does not state that diseases are associated with external injuries.",
+        "Incorrect. Diseases are linked to abnormal conditions, not good health.",
+        "Incorrect. The article mentions signs and symptoms, not random events."
       ]
     },
     {
       "id": 3,
-      "question": "What does the term acquired disease mean?",
+      "question": "According to the article, what are two types of factors that may cause a disease?",
       "options": [
-        "A disease that began at some point during one's lifetime, as opposed to being present at birth",
-        "A disease caught specifically through contagion",
-        "A disease that is always secondary to another disease",
-        "A disease present at birth"
+        "External factors such as pathogens and internal dysfunctions",
+        "Only external factors like weather",
+        "Only internal dysfunctions like thoughts",
+        "Neither external nor internal factors"
       ],
       "answer_explanations": [
-        "Correct. The article states an acquired disease began at some point during one's lifetime, as opposed to disease already present at birth.",
-        "Incorrect. The article clarifies that acquired does not mean caught via contagion.",
-        "Incorrect. The article states acquired disease can be primary disease, not necessarily secondary.",
-        "Incorrect. A disease present at birth is described as congenital disease, not acquired disease."
+        "Correct. The article states, 'A disease may be caused by external factors such as pathogens or by internal dysfunctions'.",
+        "Incorrect. The article mentions both external and internal factors, not just external ones.",
+        "Incorrect. The article mentions both internal dysfunctions and external factors, not only internal ones.",
+        "Incorrect. The article clearly says diseases may be caused by external or internal factors."
       ]
     },
     {
       "id": 4,
-      "question": "What is an acute disease?",
+      "question": "Which of the following is NOT listed in the article as a disease that can result from internal dysfunctions of the immune system?",
       "options": [
-        "A disease of a short-term nature",
-        "A disease that persists for at least six months",
-        "A disease present at birth",
-        "A disease caused by medical intervention"
+        "Broken bones",
+        "Immunodeficiency",
+        "Hypersensitivity",
+        "Allergies"
       ],
       "answer_explanations": [
-        "Correct. The article defines an acute disease as one of a short-term nature.",
-        "Incorrect. A disease persisting over time, often at least six months, is a chronic disease.",
-        "Incorrect. A disease present at birth is a congenital disorder.",
-        "Incorrect. A disease caused by medical intervention is an iatrogenic disease."
+        "Correct. The article lists immunodeficiency, hypersensitivity, allergies, and autoimmune disorders as examples, but does not mention broken bones.",
+        "Incorrect. The article lists immunodeficiency as one of the diseases from immune system dysfunctions.",
+        "Incorrect. The article lists hypersensitivity as one of the diseases from immune system dysfunctions.",
+        "Incorrect. The article lists allergies as one of the diseases from immune system dysfunctions."
       ]
     },
     {
       "id": 5,
-      "question": "What is an idiopathic disease?",
+      "question": "In humans, the term 'disease' is often used more broadly to refer to any condition that causes or can cause which of the following?",
       "options": [
-        "A disease with an unknown cause or source",
-        "A disease caused by medical intervention",
-        "A disease that cannot be cured",
-        "A disease expected to result in death"
+        "Pain, dysfunction, distress, social problems, or death",
+        "Only physical fitness",
+        "Only happiness",
+        "Only wealth"
       ],
       "answer_explanations": [
-        "Correct. The article states an idiopathic disease has an unknown cause or source.",
-        "Incorrect. A disease caused by medical intervention is iatrogenic.",
-        "Incorrect. A disease that cannot be cured is incurable.",
-        "Incorrect. A disease expected to result in death is terminal."
+        "Correct. The article says, 'In humans, disease is often used more broadly to refer to any condition that causes or can cause pain, dysfunction, distress, social problems, or death'.",
+        "Incorrect. The article lists pain, dysfunction, distress, social problems, or death, not physical fitness.",
+        "Incorrect. The article does not mention happiness as a result of disease.",
+        "Incorrect. The article does not mention wealth as a result of disease."
       ]
     },
     {
       "id": 6,
-      "question": "What is pathology?",
+      "question": "According to the article, in the broader sense, what might the term 'disease' sometimes include?",
       "options": [
-        "The study of disease",
-        "The study of causes of death only",
-        "The treatment of infectious diseases",
-        "The classification of medical conditions"
+        "Injuries, disabilities, disorders, syndromes, infections, isolated symptoms, deviant behaviors, and atypical variations",
+        "Only injuries",
+        "Only disabilities",
+        "Only infections"
       ],
       "answer_explanations": [
-        "Correct. The article states pathology is the study of disease.",
-        "Incorrect. The article defines pathology broadly as the study of disease, not only causes of death.",
-        "Incorrect. The article does not define pathology as the treatment of infectious diseases.",
-        "Incorrect. The article does not define pathology as the classification of medical conditions."
+        "Correct. The article states that in the broader sense, 'it sometimes includes injuries, disabilities, disorders, syndromes, infections, isolated symptoms, deviant behaviors, and atypical variations of structure and function'.",
+        "Incorrect. The article lists many categories, not just injuries.",
+        "Incorrect. The article lists many categories, not just disabilities.",
+        "Incorrect. The article lists many categories, not just infections."
       ]
     },
     {
       "id": 7,
-      "question": "Which conditions are given as examples of neuropsychiatric conditions in developed countries?",
+      "question": "How can diseases affect people according to the article?",
       "options": [
-        "Depression and anxiety",
-        "Ischemic heart disease and stroke",
-        "COPD and influenza",
-        "Diabetes and cancer"
+        "Both physically and mentally",
+        "Only physically",
+        "Only mentally",
+        "Neither physically nor mentally"
       ],
       "answer_explanations": [
-        "Correct. The article states neuropsychiatric conditions such as depression and anxiety cause the most sickness overall in developed countries.",
-        "Incorrect. Ischemic heart disease and stroke are listed among the deadliest diseases, not neuropsychiatric conditions.",
-        "Incorrect. COPD is listed among the deadliest diseases, and influenza is not mentioned in this context.",
-        "Incorrect. Diabetes and cancer are not given as examples of neuropsychiatric conditions in the article."
+        "Correct. The article says, 'Diseases can affect people not only physically but also mentally'.",
+        "Incorrect. The article says diseases affect people both physically and mentally, not only physically.",
+        "Incorrect. The article says diseases affect people both physically and mentally, not only mentally.",
+        "Incorrect. The article clearly states diseases affect people physically and mentally."
       ]
     },
     {
       "id": 8,
-      "question": "What is a congenital disorder?",
+      "question": "What is death due to disease called?",
       "options": [
-        "A disorder present at birth",
-        "A disorder acquired during adulthood",
-        "A disorder caused by medical intervention",
-        "A disorder of short-term nature"
+        "Death by natural causes",
+        "Death by accident",
+        "Death by injury",
+        "Death by old age"
       ],
       "answer_explanations": [
-        "Correct. The article defines a congenital disorder as one present at birth.",
-        "Incorrect. A disorder acquired during lifetime is an acquired disease.",
-        "Incorrect. A disorder caused by medical intervention is iatrogenic.",
-        "Incorrect. A short-term disorder is acute, not congenital."
+        "Correct. The article states, 'Death due to disease is called death by natural causes'.",
+        "Incorrect. The article does not call it death by accident.",
+        "Incorrect. The article does not call it death by injury.",
+        "Incorrect. The article does not call it death by old age."
       ]
     },
     {
       "id": 9,
-      "question": "What is a terminal disease?",
+      "question": "How many main types of disease are listed in the article?",
       "options": [
-        "A disease expected to have the inevitable result of death",
-        "A disease that cannot be cured but can be managed",
-        "A disease of short-term nature",
-        "A disease present at birth"
+        "Four",
+        "Two",
+        "Three",
+        "Five"
       ],
       "answer_explanations": [
-        "Correct. The article defines a terminal disease as one expected to have the inevitable result of death.",
-        "Incorrect. A disease that cannot be cured is incurable; the article notes incurable diseases are not necessarily terminal.",
-        "Incorrect. A short-term disease is acute.",
-        "Incorrect. A disease present at birth is congenital."
+        "Correct. The article says, 'There are four main types of disease: infectious diseases, deficiency diseases, hereditary diseases, and physiological diseases'.",
+        "Incorrect. The article lists four main types, not two.",
+        "Incorrect. The article lists four main types, not three.",
+        "Incorrect. The article lists four main types, not five."
       ]
     },
     {
       "id": 10,
-      "question": "How is the term illness sometimes used specifically?",
+      "question": "According to the article, what is the deadliest disease in humans?",
       "options": [
-        "To refer to the patient's personal, subjective experience of their disease",
-        "To refer only to objectively measurable physical impairments",
-        "To refer exclusively to infectious diseases",
-        "To refer only to conditions present at birth"
+        "Ischemic heart disease",
+        "Stroke",
+        "COPD",
+        "Depression"
       ],
       "answer_explanations": [
-        "Correct. The article states illness is occasionally used to refer specifically to the patient's personal, subjective experience of their disease.",
-        "Incorrect. The article notes a person can have a clinically apparent physical impairment but not feel ill.",
-        "Incorrect. The article does not limit illness to infectious diseases.",
-        "Incorrect. The article does not associate illness specifically with conditions present at birth."
+        "Correct. The article states, 'The deadliest diseases in humans are ischemic heart disease (blood flow obstruction), followed by stroke and COPD'.",
+        "Incorrect. Stroke is listed as the second deadliest, not the deadliest.",
+        "Incorrect. COPD is listed as the third deadliest, not the deadliest.",
+        "Incorrect. Depression is mentioned as a neuropsychiatric condition, not as the deadliest disease."
       ]
     }
   ]

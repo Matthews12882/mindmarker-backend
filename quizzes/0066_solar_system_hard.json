@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, which two planets are the only ones that orbit within the Sun's habitable zone?",
+      "question": "Why does the article's description of the Solar System as an 'isolated single-star planetary system' matter for understanding its formation?",
       "options": [
-        "Earth and Mars",
-        "Earth and Venus",
-        "Mercury and Earth",
-        "Venus and Mars"
+        "It implies the Solar System's formation was not influenced by the gravitational pull of a companion star, but it could have formed alongside other stars in a molecular cloud.",
+        "It means the Solar System is the only planetary system in the Milky Way Galaxy.",
+        "It indicates that the Sun's gravity alone, without any other star's influence, was sufficient to capture all its planets from interstellar space.",
+        "It suggests the Solar System formed in complete isolation, with no connection to any other star or molecular cloud."
       ],
       "answer_explanations": [
-        "Correct. The article states that Earth and Mars are the only planets that orbit within the Sun's habitable zone.",
-        "Incorrect. The article identifies Earth and Mars, not Earth and Venus, as the planets within the habitable zone.",
-        "Incorrect. Mercury is not listed among the planets orbiting within the habitable zone.",
-        "Incorrect. Venus is not one of the two planets the article places within the habitable zone."
+        "Correct. The article states the Solar System is 'an isolated single-star planetary system (not part of a larger star system) within the Milky Way Galaxy', yet the formation section says the initial cloud 'probably birthed several stars', implying it formed in a cluster but is now isolated.",
+        "Incorrect. The article says it is within the Milky Way, which contains many other stars and planetary systems, so it is not the only one.",
+        "Incorrect. The article describes formation from a collapsing molecular cloud, not from capturing planets from interstellar space.",
+        "Incorrect. The article says the initial cloud 'probably birthed several stars', so the Solar System did not form in complete isolation from other stars."
       ]
     },
     {
       "id": 2,
-      "question": "Based on the article, what is the approximate diameter of the protoplanetary disc that formed during the collapse of the pre-solar nebula?",
+      "question": "What is the significance of the Sun containing 99.86% of the Solar System's mass for the behavior of the planets?",
       "options": [
-        "roughly 200 AU",
-        "about 5 AU",
-        "between 2,000 AU and the Hill sphere",
-        "178,000â227,000 AU"
+        "It explains why the Sun's gravitational dominance keeps the planets in their orbits, while the planets' own masses are negligible in comparison.",
+        "It proves that the planets are not gravitationally bound to the Sun but merely drift through space.",
+        "It indicates that the Sun's mass is so great that it prevents any other objects from having any gravitational effect on each other.",
+        "It shows that the Sun's mass is the only factor determining the orbital speeds of the planets, with no influence from their own masses."
       ],
       "answer_explanations": [
-        "Correct. The article states that the pre-solar nebula flattened into a protoplanetary disc with a diameter of roughly 200 AU.",
-        "Incorrect. Five AU is mentioned as the approximate location of the frost line, not the disc diameter.",
-        "Incorrect. This range describes the theorized extent of the Oort cloud.",
-        "Incorrect. This range describes the extent of the Sun's Hill sphere."
+        "Correct. The article says the Sun 'contains 99.86% of the system's known mass and dominates it gravitationally', which is why the planets follow orbits around it.",
+        "Incorrect. The article describes the Solar System as 'gravitationally bound', so the planets are bound to the Sun.",
+        "Incorrect. The article mentions moons orbiting planets, which shows that other objects do have gravitational effects on each other.",
+        "Incorrect. The article does not say planetary masses have no influence; it only emphasizes the Sun's dominance."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what will happen to the Sun's surface temperature when it becomes a red giant?",
+      "question": "How does the article's description of the 'soot line' and the 'frost line' help explain the different compositions of the inner and outer planets?",
       "options": [
-        "It will be cooler than on the main sequence",
-        "It will remain unchanged",
-        "It will become hotter than on the main sequence",
-        "It will fluctuate unpredictably"
+        "It explains that the inner planets formed from materials with high boiling points near the hot Sun, while the outer planets formed from abundant ices beyond the frost line.",
+        "It shows that the inner planets are made of the same materials as the outer planets, just in different quantities.",
+        "It indicates that the soot line and frost line are the same boundary, both determining where rocky planets can form.",
+        "It proves that the outer planets formed first and then migrated inward, bringing icy materials to the inner Solar System."
       ],
       "answer_explanations": [
-        "Correct. The article explains that because of its increased surface area, the surface of the Sun will be cooler than it is on the main sequence.",
-        "Incorrect. The article indicates the surface temperature will change, specifically becoming cooler.",
-        "Incorrect. The article states the surface will be cooler, not hotter, despite the core's greater energy output.",
-        "Incorrect. The article provides a specific expectation of a cooler surface temperature."
+        "Correct. The article says heat from accretion 'exceeded the boiling point of hydrocarbon molecules' inside the soot line, so inner planets are rocky, while beyond the frost line 'icy compounds' were plentiful, allowing giant planets to grow massive.",
+        "Incorrect. The article states the inner planets are 'mainly rocky' and the outer planets formed from 'ices', so they are not made of the same materials.",
+        "Incorrect. The soot line concerns hydrocarbons and the frost line concerns volatile ices; they are distinct boundaries.",
+        "Incorrect. The article does not say the outer planets formed first; it says the giant planets formed 'further out, beyond the frost line'."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what percentage of the Solar System's total mass does the Sun account for?",
+      "question": "What does the article imply about the relationship between a planet's ability to 'dominate its orbit' and its classification as a planet versus a dwarf planet?",
       "options": [
-        "99.86%",
-        "99%",
-        "90%",
-        "less than 0.002%"
+        "It implies that dwarf planets are similar to planets in mass but fail to clear their orbital neighborhoods, which is why they are classified differently.",
+        "It implies that dwarf planets are simply smaller versions of planets with no other distinguishing features.",
+        "It implies that dwarf planets orbit the Sun but are not massive enough to be spherical.",
+        "It implies that dwarf planets are not gravitationally bound to the Sun, unlike true planets."
       ],
       "answer_explanations": [
-        "Correct. The article states that the Sun accounts for 99.86% of the Solar System's total mass.",
-        "Incorrect. Ninety-nine percent refers to the share of the remaining mass accounted for by the four giant planets.",
-        "Incorrect. Ninety percent refers to Jupiter and Saturn's share of the non-stellar mass.",
-        "Incorrect. Less than 0.002% refers to the remaining objects such as terrestrial planets, dwarf planets, moons, asteroids, and comets."
+        "Correct. The article defines planets as those that 'dominate the orbits they occupy', while dwarf planets are 'objects of planetary mass that do not dominate their orbit but directly orbit the Sun'.",
+        "Incorrect. The article distinguishes them by orbital dominance, not just size.",
+        "Incorrect. The article does not say dwarf planets lack spherical shape; it says they are of 'planetary mass'.",
+        "Incorrect. The article says dwarf planets 'directly orbit the Sun', so they are gravitationally bound."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what is the approximate distance range of the Sun's Hill sphere?",
+      "question": "Why is the heliopause, described at around 70â90 AU from the Sun, considered the border between the interplanetary medium and interstellar space?",
       "options": [
-        "178,000â227,000 AU",
-        "70â90 AU",
-        "beyond 2,000 AU",
-        "about 5 AU"
+        "Because at that distance, the solar wind is halted by the interstellar medium, marking the end of the Sun's direct influence on the surrounding plasma.",
+        "Because that is where the Sun's gravitational pull becomes too weak to hold any objects in orbit.",
+        "Because that is the distance at which the Oort cloud begins, and no solar wind can penetrate it.",
+        "Because the Sun's photosphere ends there, and the solar wind can no longer be emitted."
       ],
       "answer_explanations": [
-        "Correct. The article states that the Solar System reaches to the edge of the Sun's Hill sphere, at 178,000â227,000 AU.",
-        "Incorrect. Seventy to ninety AU is where the solar wind is halted by the interstellar medium.",
-        "Incorrect. Beyond 2,000 AU marks the inner extent of the theorized Oort cloud.",
-        "Incorrect. About five AU marks the approximate location of the frost line."
+        "Correct. The article states 'the solar wind is halted by the interstellar medium, resulting in the heliopause and the border of the interplanetary medium to interstellar space'.",
+        "Incorrect. The article says the Sun's Hill sphere extends to 178,000â227,000 AU, so gravity still holds objects far beyond 90 AU.",
+        "Incorrect. The Oort cloud is theorized to extend from 'beyond 2,000 AU', much farther out than the heliopause.",
+        "Incorrect. The photosphere is the Sun's visible surface, not a boundary at 70-90 AU."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, which hypothesis suggests that Jupiter's final inward migration dispersed much of the asteroid belt?",
+      "question": "What conclusion can be drawn from the article's statement that the Solar System is 'technically chaotic' despite being 'fairly stable for billions of years'?",
       "options": [
-        "the grand tack hypothesis",
-        "the Nice model",
-        "the soot line hypothesis",
-        "the frost line hypothesis"
+        "The Solar System's long-term future is not perfectly predictable, and small changes could lead to significant disruptions over very long timescales.",
+        "The Solar System is currently in a state of disorder and could collapse at any moment.",
+        "The planets' orbits are random and have no predictable pattern at all.",
+        "The Sun's gravity is too weak to maintain stable orbits, so the planets are slowly drifting apart."
       ],
       "answer_explanations": [
-        "Correct. The article states that the grand tack hypothesis suggests a final inward migration of Jupiter dispersed much of the asteroid belt.",
-        "Incorrect. The Nice model proposes gravitational encounters caused planet migration and dynamical instability, but the asteroid belt dispersal is attributed to the grand tack hypothesis.",
-        "Incorrect. The soot line refers to the boundary where hydrocarbon molecules boiled in the inner Solar System.",
-        "Incorrect. The frost line is the point where volatile icy compounds could remain solid, not a hypothesis about Jupiter's migration."
+        "Correct. The article says the Solar System is 'technically chaotic' and 'may eventually be disrupted', implying that despite current stability, its long-term evolution is not deterministic.",
+        "Incorrect. The article says it is 'fairly stable for billions of years', so it is not in immediate disorder.",
+        "Incorrect. The article says the planets follow 'isolated, gravitationally bound orbits', which are predictable in the short term.",
+        "Incorrect. The article does not suggest the Sun's gravity is weak or that planets are drifting apart."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is the approximate duration of the Sun's main-sequence phase?",
+      "question": "How does the article's description of the Sun's future evolution explain the expected fate of the inner planets?",
       "options": [
-        "about 10 billion years",
-        "about 5 billion years",
-        "about 2 billion years",
-        "about 4.6 billion years"
+        "It explains that as the Sun expands into a red giant, its increased size and energy output will make the inner planets uninhabitable or vaporize them entirely.",
+        "It explains that the inner planets will be ejected from the Solar System by the expanding Sun's gravitational pull.",
+        "It explains that the inner planets will be consumed by the Sun's helium fusion, which will occur in the core.",
+        "It explains that the inner planets will survive but become frozen as the Sun cools down."
       ],
       "answer_explanations": [
-        "Correct. The article states that the Sun's main-sequence phase will last about 10 billion years.",
-        "Incorrect. Five billion years is when the Sun's main-sequence life will end, not the total duration.",
-        "Incorrect. Around two billion years is the combined duration of all subsequent phases after the main sequence.",
-        "Incorrect. About 4.6 billion years ago is when the Solar System formed."
+        "Correct. The article says the expanding Sun 'is expected to vaporize Mercury as well as Venus, and render Earth and Mars uninhabitable (possibly destroying Earth as well)'.",
+        "Incorrect. The article does not say the inner planets will be ejected; it says they will be vaporized or made uninhabitable.",
+        "Incorrect. The article says helium fusion will occur in the Sun's core, not that the planets will be consumed by it.",
+        "Incorrect. The article says the Sun will become a red giant and then a white dwarf, but the inner planets are affected by the expansion, not cooling."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what is the approximate distance of Proxima Centauri from the Solar System?",
+      "question": "What does the article imply about the role of the Nice model and the grand tack hypothesis in shaping the current Solar System?",
       "options": [
-        "269,000 AU (4.25 ly)",
-        "178,000â227,000 AU",
-        "beyond 2,000 AU",
-        "1,000 light-years"
+        "It implies that gravitational encounters and planetary migration were key processes that scattered planetesimals and influenced the asteroid belt, leading to events like the Late Heavy Bombardment.",
+        "It implies that the planets formed in their current positions without any significant movement or interaction.",
+        "It implies that the gas giants were originally much closer to the Sun and then moved outward, leaving the asteroid belt intact.",
+        "It implies that the Sun's formation directly placed the planets in their orbits, with no subsequent changes."
       ],
       "answer_explanations": [
-        "Correct. The article states that Proxima Centauri is 269,000 AU (4.25 ly) away from the Solar System.",
-        "Incorrect. This range describes the extent of the Sun's Hill sphere.",
-        "Incorrect. Beyond 2,000 AU marks the inner extent of the theorized Oort cloud.",
-        "Incorrect. One thousand light-years is the width of the Local Bubble."
+        "Correct. The article says the Nice model proposes 'gravitational encounters' caused migration, and the grand tack hypothesis suggests Jupiter's migration 'dispersed much of the asteroid belt, leading to the Late Heavy Bombardment'.",
+        "Incorrect. The article describes significant migration and dynamical instability, so the planets did not form in their current positions.",
+        "Incorrect. The grand tack hypothesis involves Jupiter's inward migration dispersing the asteroid belt, not leaving it intact.",
+        "Incorrect. The article describes post-formation processes that shaped the system, so the Sun's formation alone did not determine the orbits."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, which region includes Mercury, Venus, Earth, Mars, and the bodies in the asteroid belt?",
+      "question": "Why does the article's description of the largest moons, such as Ganymede and Titan, being larger than Mercury challenge a simple size-based definition of a planet?",
       "options": [
-        "the inner Solar System",
-        "the outer Solar System",
-        "the Kuiper belt",
-        "the scattered disc"
+        "It shows that size alone cannot distinguish a planet from a moon, since some moons are larger than the smallest planet.",
+        "It proves that Mercury is not actually a planet because it is smaller than some moons.",
+        "It indicates that moons should be reclassified as planets because they are larger than Mercury.",
+        "It suggests that the definition of a planet is based solely on mass, not on orbital characteristics."
       ],
       "answer_explanations": [
-        "Correct. The article states that the inner Solar System includes Mercury, Venus, Earth, Mars, and the bodies in the asteroid belt.",
-        "Incorrect. The outer Solar System includes the giant planets and Kuiper belt bodies.",
-        "Incorrect. The Kuiper belt is just outside Neptune and is part of the outer Solar System.",
-        "Incorrect. The scattered disc is a population of trans-Neptunian objects beyond Neptune."
+        "Correct. The article notes the two largest moons are 'larger (though less massive) than the smallest planet (Mercury)', implying size is not the defining criterion; orbital dominance is.",
+        "Incorrect. The article does not say Mercury is not a planet; it says the moons are larger but less massive.",
+        "Incorrect. The article does not suggest reclassification; it uses this fact to illustrate the complexity of definitions.",
+        "Incorrect. The article emphasizes orbital dominance as the key factor for planets, not just mass."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what is the primary reason the terrestrial planets could not grow very large?",
+      "question": "What can be inferred from the article's statement that the Sun's main-sequence phase will last about 10 billion years, while all other subsequent phases combined will last about two billion years?",
       "options": [
-        "refractory materials comprised only a small fraction of the solar nebula",
-        "they formed inside the frost line where ices could not persist",
-        "heat from accretion exceeded the boiling point of hydrocarbon molecules",
-        "they orbit within the Sun's habitable zone"
+        "The Sun's stable hydrogen-burning phase is the longest and most dominant period of its life, with its later evolution being relatively brief.",
+        "The Sun will spend most of its life as a red giant, with the main-sequence phase being a minor part.",
+        "The Sun's total lifetime is about 10 billion years, after which it will cease to exist entirely.",
+        "The Sun's helium-burning phase will last longer than its hydrogen-burning phase."
       ],
       "answer_explanations": [
-        "Correct. The article states that because refractory materials only comprised a small fraction of the solar nebula, the terrestrial planets could not grow very large.",
-        "Incorrect. While the frost line separates inner and outer planet formation, the article specifically attributes the small size of terrestrial planets to the limited fraction of refractory materials.",
-        "Incorrect. The soot line process affected carbon content but is not cited as the reason terrestrial planets could not grow large.",
-        "Incorrect. Orbiting within the habitable zone relates to liquid water, not planetary size."
+        "Correct. The article says the main-sequence phase 'will last about 10 billion years' compared to 'around two billion years for all other subsequent phases', showing the main sequence is the longest phase.",
+        "Incorrect. The article says the red giant phase is part of the two billion years of subsequent phases, which is much shorter than the main sequence.",
+        "Incorrect. The article says the Sun will become a white dwarf, not cease to exist, so its total lifetime extends beyond 10 billion years.",
+        "Incorrect. The article says the Sun 'will burn helium for a fraction of the time it burned hydrogen', so the helium phase is shorter."
       ]
     }
   ]

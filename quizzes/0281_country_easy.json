@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is a country according to the article?",
+      "question": "What is a country defined as in the article?",
       "options": [
         "A political entity or its territory",
-        "A type of music",
-        "A rural area only",
-        "A synonym for a city"
+        "A cultural region",
+        "A group of people with a common language",
+        "A geographical area with no government"
       ],
       "answer_explanations": [
-        "Correct. The article states, 'A country is a political entity or its territory in the world.'",
-        "Incorrect. The article mentions 'country music' as a descriptive use, but this is not the primary definition.",
-        "Incorrect. The article notes that 'country' can describe rural areas, but that is not the main definition.",
-        "Incorrect. The article does not define a country as a synonym for a city."
+        "Correct. The article states: 'A **country** is a political entity or its territory in the world.'",
+        "Incorrect. The article defines a country as a political entity or its territory, not as a cultural region.",
+        "Incorrect. The article does not define a country as a group of people with a common language.",
+        "Incorrect. The article does not say a country is a geographical area with no government."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is NOT mentioned as a type of country?",
+      "question": "Which of the following is NOT listed as a way countries function?",
       "options": [
-        "City-state",
-        "Sovereign state",
-        "Unrecognized state",
-        "Dependent territory"
+        "As cultural organizations",
+        "As sovereign states",
+        "As unrecognized states",
+        "As dependent territories"
       ],
       "answer_explanations": [
-        "Correct. The article lists sovereign states, unrecognized states, constituent countries, and dependent territories, but not city-states.",
-        "Incorrect. The article explicitly mentions sovereign states as a type of country.",
-        "Incorrect. The article mentions unrecognized states as a type of country.",
-        "Incorrect. The article mentions dependent territories as a type of country."
+        "Correct. The article lists sovereign states, unrecognized states, constituent countries, and dependent territories, but not cultural organizations.",
+        "Incorrect. The article says countries function as sovereign states.",
+        "Incorrect. The article says countries function as unrecognized states.",
+        "Incorrect. The article says countries function as dependent territories."
       ]
     },
     {
       "id": 3,
-      "question": "What is a multinational state?",
+      "question": "What is a structure known as when a country consists of multiple nations?",
       "options": [
-        "A country that consists of multiple nations",
-        "A country with many languages",
-        "A country that is part of a larger empire",
-        "A country with multiple governments"
+        "A multinational state",
+        "A confederation",
+        "A federation",
+        "A union"
       ],
       "answer_explanations": [
-        "Correct. The article says, 'A country may consist of multiple nations, a structure known as a multinational state.'",
-        "Incorrect. The article does not define a multinational state by the number of languages.",
-        "Incorrect. The article does not mention empires in this context.",
-        "Incorrect. The article does not say a multinational state has multiple governments."
+        "Correct. The article states: 'A country may consist of multiple nations, a structure known as a multinational state.'",
+        "Incorrect. The article specifically uses the term 'multinational state', not 'confederation'.",
+        "Incorrect. The article specifically uses the term 'multinational state', not 'federation'.",
+        "Incorrect. The article specifically uses the term 'multinational state', not 'union'."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, why is there no universal agreement on the number of countries?",
+      "question": "How are countries often distinguished in the article?",
       "options": [
-        "Because some countries are not recognized as sovereign states by the UN system",
-        "Because countries change names frequently",
-        "Because the definition of country is too simple",
-        "Because all countries are members of the UN"
+        "As developing countries or developed countries",
+        "As large or small countries",
+        "As old or new countries",
+        "As rich or poor countries"
       ],
       "answer_explanations": [
-        "Correct. The article states, 'This ambiguity is a result of several countries not being recognized as sovereign states by the UN system.'",
-        "Incorrect. While name changes occur, they are not cited as the reason for disagreement on the number of countries.",
-        "Incorrect. The article says the definition is unclear, not too simple.",
-        "Incorrect. The article notes that not all countries are UN members."
+        "Correct. The article states: 'Countries are often distinguished as developing countries or developed countries.'",
+        "Incorrect. The article does not mention large or small as a distinction.",
+        "Incorrect. The article does not mention old or new as a distinction.",
+        "Incorrect. The article does not mention rich or poor as a distinction."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is given as an example of a non-political use of 'country'?",
+      "question": "Is there universal agreement on the number of 'countries' in the world?",
       "options": [
-        "West Country in England",
-        "Canada",
-        "United Nations",
-        "Sovereign state"
+        "No, there is no universal agreement",
+        "Yes, there are exactly 195 countries",
+        "Yes, there are exactly 200 countries",
+        "Yes, the number is fixed by the UN"
       ],
       "answer_explanations": [
-        "Correct. The article mentions 'the West Country in England' as an area referred to as a country that is not a political entity.",
-        "Incorrect. Canada is a sovereign state, a political entity.",
-        "Incorrect. The United Nations is an international organization, not a country.",
-        "Incorrect. Sovereign state is a political entity."
+        "Correct. The article states: 'There is no universal agreement on the number of \"countries\" in the world.'",
+        "Incorrect. The article explicitly says there is no universal agreement, so no exact number is given.",
+        "Incorrect. The article explicitly says there is no universal agreement, so no exact number is given.",
+        "Incorrect. The article says the ambiguity is due to recognition issues, not a fixed UN number."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article say about the definition of 'country' over time?",
+      "question": "What causes the ambiguity in the number of countries?",
       "options": [
-        "It has fluctuated and changed over time",
-        "It has remained the same for centuries",
-        "It was clearly defined in 2010",
-        "It is now only used for political divisions"
+        "Some countries are not recognized as sovereign states by the UN system but are recognized by at least one UN member",
+        "Some countries are too small to count",
+        "Some countries change their names frequently",
+        "Some countries are not on any map"
       ],
       "answer_explanations": [
-        "Correct. The article states, 'The definition and usage of the word \"country\" has fluctuated and changed over time.'",
-        "Incorrect. The article explicitly says it has changed.",
-        "Incorrect. The article quotes The Economist in 2010 saying a clear definition is difficult.",
-        "Incorrect. The article notes that 'country' is also used for non-political areas."
+        "Correct. The article states: 'This ambiguity is a result of several countries not being recognized as sovereign states by the UN system, but are recognized by at least one UN member.'",
+        "Incorrect. The article does not mention size as a cause of ambiguity.",
+        "Incorrect. The article does not mention name changes as a cause.",
+        "Incorrect. The article does not mention maps as a cause."
       ]
     },
     {
       "id": 7,
-      "question": "According to the Montevideo Convention, what is NOT a requirement for statehood?",
+      "question": "What is the term for recognition by at least one UN member?",
       "options": [
-        "Recognition by the United Nations",
-        "A permanent population",
-        "A defined territory",
-        "A government"
+        "Diplomatic recognition",
+        "Formal recognition",
+        "International recognition",
+        "Official recognition"
       ],
       "answer_explanations": [
-        "Correct. The Montevideo Convention lists permanent population, defined territory, government, and ability to enter relations with other states, but does not require UN recognition.",
-        "Incorrect. A permanent population is one of the four criteria listed.",
-        "Incorrect. A defined territory is one of the four criteria listed.",
-        "Incorrect. A government is one of the four criteria listed."
+        "Correct. The article states: 'recognized by at least one UN member, known as \"diplomatic recognition\"'.",
+        "Incorrect. The article uses the specific term 'diplomatic recognition'.",
+        "Incorrect. The article uses the specific term 'diplomatic recognition'.",
+        "Incorrect. The article uses the specific term 'diplomatic recognition'."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is an example of a constituent country mentioned in the article?",
+      "question": "What do countries with only partial recognition often have?",
       "options": [
-        "England",
-        "Hong Kong",
-        "Taiwan",
-        "Transnistria"
+        "Disputed territories",
+        "Large populations",
+        "Strong economies",
+        "Ancient histories"
       ],
       "answer_explanations": [
-        "Correct. The article lists England as a constituent country of the United Kingdom.",
-        "Incorrect. Hong Kong is mentioned as a dependent territory treated as a separate country of origin in trade.",
-        "Incorrect. Taiwan is mentioned as a state with limited recognition.",
-        "Incorrect. Transnistria is mentioned as a breakaway state with no recognition."
+        "Correct. The article states: 'These countries often have disputed territories and have only partial recognition.'",
+        "Incorrect. The article does not mention large populations in this context.",
+        "Incorrect. The article does not mention strong economies in this context.",
+        "Incorrect. The article does not mention ancient histories in this context."
       ]
     },
     {
       "id": 9,
-      "question": "What does the constitutive theory of statehood require?",
+      "question": "Which of the following is mentioned as an example of a non-political area referred to as a 'country'?",
       "options": [
-        "Recognition by at least one other country",
-        "A permanent population",
-        "A defined territory",
-        "Membership in the United Nations"
+        "The West Country in England",
+        "The Midwest in the United States",
+        "The Highlands in Scotland",
+        "The Outback in Australia"
       ],
       "answer_explanations": [
-        "Correct. The article says, 'According to the constitutive theory, a state is a legal entity of international law if, and only if, it is recognised as sovereign by at least one other country.'",
-        "Incorrect. This is a requirement of the declarative theory, not the constitutive theory.",
-        "Incorrect. This is a requirement of the declarative theory, not the constitutive theory.",
-        "Incorrect. The constitutive theory does not require UN membership."
+        "Correct. The article states: 'such as the West Country in England'.",
+        "Incorrect. The article does not mention the Midwest.",
+        "Incorrect. The article does not mention the Highlands.",
+        "Incorrect. The article does not mention the Outback."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what is the difference between a country's long name and short name?",
+      "question": "According to The Economist in 2010, what happens when trying to find a clear definition of a country?",
       "options": [
-        "The long name is used in formal contexts and often describes the form of government",
-        "The long name is always the same as the short name",
-        "The short name changes more often",
-        "The short name is used only in informal contexts"
+        "One soon runs into a thicket of exceptions and anomalies",
+        "One finds a simple and clear answer",
+        "One must consult a dictionary",
+        "One must ask the United Nations"
       ],
       "answer_explanations": [
-        "Correct. The article states, 'The long name is typically used in formal contexts and often describes the country's form of government.'",
-        "Incorrect. The article says for certain states they are identical, but not always.",
-        "Incorrect. The article says the long name can change more often when the government changes.",
-        "Incorrect. The article says the short name is the common name, but does not limit it to informal contexts."
+        "Correct. The article quotes: 'any attempt to find a clear definition of a country soon runs into a thicket of exceptions and anomalies.'",
+        "Incorrect. The quote says the oppositeâthat it is not simple or clear.",
+        "Incorrect. The quote does not mention dictionaries.",
+        "Incorrect. The quote does not mention the United Nations."
       ]
     }
   ]

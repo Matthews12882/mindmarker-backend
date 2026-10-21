@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does medicine encompass according to the article?",
+      "question": "What is medicine the science and practice of?",
       "options": [
-        "A variety of health care practices which evolved to maintain and restore health through the prevention and treatment of illness and infection",
-        "Only pharmaceuticals and surgery",
-        "Only traditional and folk medicine",
-        "Only religious and philosophical beliefs"
+        "Caring for patients",
+        "Building hospitals",
+        "Studying plants",
+        "Inventing machines"
       ],
       "answer_explanations": [
-        "Correct. The article states that medicine encompasses a variety of health care practices which evolved to maintain and restore health through the prevention and treatment of illness and infection.",
-        "Incorrect. The article lists pharmaceuticals and surgery as examples, but medicine encompasses much more than only these two.",
-        "Incorrect. Traditional and folk medicine are mentioned as prescientific forms, but they are not the only forms of medicine.",
-        "Incorrect. Religious and philosophical beliefs are mentioned as historical connections, but medicine is not limited to them."
+        "Correct. The article states that medicine is 'the science and practice of caring for patients'.",
+        "Incorrect. The article does not mention building hospitals as the definition of medicine.",
+        "Incorrect. Studying plants is not mentioned as the definition of medicine.",
+        "Incorrect. Inventing machines is not mentioned as the definition of medicine."
       ]
     },
     {
       "id": 2,
-      "question": "From which language is the word 'medicine' derived?",
+      "question": "Which of the following is NOT listed as something medicine manages?",
       "options": [
-        "Latin",
-        "Greek",
-        "French",
-        "German"
+        "Transportation",
+        "Diagnosis",
+        "Prognosis",
+        "Prevention"
       ],
       "answer_explanations": [
-        "Correct. The etymology section states that the word 'medicine' is derived from Latin 'medicus', meaning 'a physician'.",
-        "Incorrect. The article does not state that 'medicine' is derived from Greek.",
-        "Incorrect. The article does not state that 'medicine' is derived from French.",
-        "Incorrect. The article does not state that 'medicine' is derived from German."
+        "Correct. The article lists diagnosis, prognosis, prevention, treatment, and palliation, but not transportation.",
+        "Incorrect. Diagnosis is listed as something medicine manages.",
+        "Incorrect. Prognosis is listed as something medicine manages.",
+        "Incorrect. Prevention is listed as something medicine manages."
       ]
     },
     {
       "id": 3,
-      "question": "What are the four actions that are the basis of physical examination?",
+      "question": "What does medicine promote?",
       "options": [
-        "Inspection, palpation, percussion, and auscultation",
-        "Diagnosis, prognosis, treatment, and prevention",
-        "History, interview, examination, and documentation",
-        "Sight, hearing, touch, and smell"
+        "Health",
+        "Wealth",
+        "Entertainment",
+        "Technology"
       ],
       "answer_explanations": [
-        "Correct. The article lists inspection, palpation, percussion, and auscultation as the four actions that are the basis of physical examination.",
-        "Incorrect. Diagnosis, prognosis, treatment, and prevention are aspects of medicine, not the four actions of physical examination.",
-        "Incorrect. These are parts of the medical encounter process, not the four actions of physical examination.",
-        "Incorrect. These are senses used by the healthcare provider, not the four named actions of physical examination."
+        "Correct. The article says medicine is about 'promoting their health'.",
+        "Incorrect. Wealth is not mentioned as something medicine promotes.",
+        "Incorrect. Entertainment is not mentioned as something medicine promotes.",
+        "Incorrect. Technology is not mentioned as something medicine promotes."
       ]
     },
     {
       "id": 4,
-      "question": "What does the term 'chief complaint' refer to in a medical encounter?",
+      "question": "What does contemporary medicine apply to diagnose, treat, and prevent injury and disease?",
       "options": [
-        "The reason for the current medical visit",
-        "The patient's family history of diseases",
-        "The list of medications the patient takes",
-        "The chronological order of symptoms"
+        "Biomedical sciences",
+        "Astrology",
+        "Alchemy",
+        "Fortune telling"
       ],
       "answer_explanations": [
-        "Correct. The article states that the chief complaint is the reason for the current medical visit.",
-        "Incorrect. Family history is a separate component of the medical interview.",
-        "Incorrect. Medications are a separate component of the medical interview.",
-        "Incorrect. The chronological order of symptoms refers to the history of present illness."
+        "Correct. The article states that contemporary medicine applies biomedical sciences, among other things.",
+        "Incorrect. Astrology is not mentioned as something contemporary medicine applies.",
+        "Incorrect. Alchemy is not mentioned as something contemporary medicine applies.",
+        "Incorrect. Fortune telling is not mentioned as something contemporary medicine applies."
       ]
     },
     {
       "id": 5,
-      "question": "What is an example of a basic diagnostic medical device mentioned in the article?",
+      "question": "Which of these is mentioned as a way medicine treats illness?",
       "options": [
-        "Stethoscope",
-        "MRI machine",
-        "Surgical robot",
-        "X-ray machine"
+        "Surgery",
+        "Cooking",
+        "Farming",
+        "Construction"
       ],
       "answer_explanations": [
-        "Correct. The article mentions stethoscope as an example of a basic diagnostic medical device.",
-        "Incorrect. The article does not mention MRI machine as a basic diagnostic medical device.",
-        "Incorrect. The article does not mention surgical robot as a basic diagnostic medical device.",
-        "Incorrect. The article does not mention X-ray machine as a basic diagnostic medical device."
+        "Correct. The article mentions surgery as a typical treatment method.",
+        "Incorrect. Cooking is not mentioned as a treatment method.",
+        "Incorrect. Farming is not mentioned as a treatment method.",
+        "Incorrect. Construction is not mentioned as a treatment method."
       ]
     },
     {
       "id": 6,
-      "question": "What does the medical record serve as in many jurisdictions?",
+      "question": "Since when has medicine been practiced?",
       "options": [
-        "A legal document",
-        "A research paper",
-        "A billing statement",
-        "A prescription"
+        "Prehistoric times",
+        "The Middle Ages",
+        "The Renaissance",
+        "The Industrial Revolution"
       ],
       "answer_explanations": [
-        "Correct. The article states that the medical record is a legal document in many jurisdictions.",
-        "Incorrect. The article does not describe the medical record as a research paper.",
-        "Incorrect. The article does not describe the medical record as a billing statement.",
-        "Incorrect. The article does not describe the medical record as a prescription."
+        "Correct. The article states that medicine has been practiced since prehistoric times.",
+        "Incorrect. The article does not say medicine began in the Middle Ages.",
+        "Incorrect. The article does not say medicine began in the Renaissance.",
+        "Incorrect. The article does not say medicine began in the Industrial Revolution."
       ]
     },
     {
       "id": 7,
-      "question": "What is quackery according to the article?",
+      "question": "In the past, medicine was frequently connected to what beliefs of local culture?",
       "options": [
-        "Alternative treatments outside of scientific medicine with ethical, safety and efficacy concerns",
-        "A type of traditional medicine",
-        "A branch of modern scientific medicine",
-        "A form of evidence-based medicine"
+        "Religious and philosophical",
+        "Economic and political",
+        "Artistic and musical",
+        "Legal and military"
       ],
       "answer_explanations": [
-        "Correct. The article states that alternative treatments outside of scientific medicine with ethical, safety and efficacy concerns are termed quackery.",
-        "Incorrect. Quackery is not described as a type of traditional medicine.",
-        "Incorrect. Quackery is not a branch of modern scientific medicine.",
-        "Incorrect. Quackery is not a form of evidence-based medicine."
+        "Correct. The article says medicine frequently had connections to the religious and philosophical beliefs of local culture.",
+        "Incorrect. Economic and political beliefs are not mentioned.",
+        "Incorrect. Artistic and musical beliefs are not mentioned.",
+        "Incorrect. Legal and military beliefs are not mentioned."
       ]
     },
     {
       "id": 8,
-      "question": "What does evidence-based medicine emphasize according to the article?",
+      "question": "What did a medicine man apply for healing?",
       "options": [
-        "Applying interventions with sufficient evidence to support benefit or harm",
-        "Using only traditional medicine",
-        "Relying solely on physician intuition",
-        "Avoiding all pharmaceutical drugs"
+        "Herbs and prayers",
+        "Stones and sticks",
+        "Water and fire",
+        "Metal and wood"
       ],
       "answer_explanations": [
-        "Correct. The article discusses evidence-based medicine in the context of medical interventions and whether sufficient evidence supports benefit or harm.",
-        "Incorrect. Evidence-based medicine is not about using only traditional medicine.",
-        "Incorrect. Evidence-based medicine does not rely solely on physician intuition.",
-        "Incorrect. Evidence-based medicine does not advocate avoiding all pharmaceutical drugs."
+        "Correct. The article gives the example that a medicine man would apply herbs and say prayers for healing.",
+        "Incorrect. Stones and sticks are not mentioned.",
+        "Incorrect. Water and fire are not mentioned.",
+        "Incorrect. Metal and wood are not mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "What does the medical decision-making process include?",
+      "question": "In recent centuries, most medicine has become a combination of what?",
       "options": [
-        "Analysis and synthesis of data to come up with a list of possible diagnoses",
-        "Only ordering laboratory tests",
-        "Only prescribing pharmaceutical drugs",
-        "Only performing physical examinations"
+        "Art and science",
+        "Magic and religion",
+        "Trade and commerce",
+        "War and peace"
       ],
       "answer_explanations": [
-        "Correct. The article states that the medical decision-making process includes the analysis and synthesis of all data to come up with a list of possible diagnoses.",
-        "Incorrect. Ordering laboratory tests is only one part of the process, not the entire medical decision-making process.",
-        "Incorrect. Prescribing pharmaceutical drugs is only one possible action, not the entire process.",
-        "Incorrect. Performing physical examinations is only one part of data collection, not the entire decision-making process."
+        "Correct. The article states that most medicine has become a combination of art and science.",
+        "Incorrect. Magic and religion are not mentioned as the combination.",
+        "Incorrect. Trade and commerce are not mentioned.",
+        "Incorrect. War and peace are not mentioned."
       ]
     },
     {
       "id": 10,
-      "question": "What is one way contemporary medicine is conducted according to the article?",
+      "question": "What is the stitching technique for sutures an example of?",
       "options": [
-        "Within health care systems",
-        "Only in hospitals",
-        "Only by physicians",
-        "Only in the Western world"
+        "An art learned through practice",
+        "A science learned through books",
+        "A religious ritual",
+        "A form of quackery"
       ],
       "answer_explanations": [
-        "Correct. The article states that contemporary medicine is, in general, conducted within health care systems.",
-        "Incorrect. Contemporary medicine is not conducted only in hospitals.",
-        "Incorrect. Contemporary medicine involves mid-level practitioners as well as physicians.",
-        "Incorrect. Contemporary medicine is not limited to the Western world."
+        "Correct. The article says that stitching technique for sutures is an art learned through practice.",
+        "Incorrect. It is not described as a science learned through books.",
+        "Incorrect. It is not described as a religious ritual.",
+        "Incorrect. It is not described as a form of quackery."
       ]
     }
   ]

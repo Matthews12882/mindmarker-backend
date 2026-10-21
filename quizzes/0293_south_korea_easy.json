@@ -9,131 +9,67 @@
       "options": [
         "Republic of Korea",
         "Democratic People's Republic of Korea",
-        "Korean Empire",
-        "Great Han Republic"
+        "Korean Republic",
+        "People's Republic of Korea"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'South Korea, officially the Republic of Korea (ROK).'",
-        "Incorrect. The Democratic People's Republic of Korea is the official name of North Korea.",
-        "Incorrect. The Korean Empire was a short-lived state from 1897 to 1910, not the current official name.",
-        "Incorrect. 'Great Han Republic' is a translation of the Korean name Daehan Minguk, but the official English name is Republic of Korea."
+        "Correct. The article states that South Korea is officially the Republic of Korea (ROK).",
+        "Incorrect. The article states that the northern zone became the Democratic People's Republic of Korea, not South Korea.",
+        "Incorrect. The article does not use the name 'Korean Republic' for South Korea.",
+        "Incorrect. The article does not use the name 'People's Republic of Korea' for South Korea."
       ]
     },
     {
       "id": 2,
-      "question": "Which body of water lies to the west of South Korea?",
+      "question": "Which country borders South Korea to the north?",
       "options": [
-        "Yellow Sea",
-        "Sea of Japan",
-        "East China Sea",
-        "Pacific Ocean"
+        "North Korea",
+        "China",
+        "Japan",
+        "Russia"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'with the Yellow Sea to the west.'",
-        "Incorrect. The Sea of Japan is to the east, not the west.",
-        "Incorrect. The East China Sea is not mentioned in the article as bordering South Korea.",
-        "Incorrect. The Pacific Ocean is not directly mentioned as a bordering sea."
+        "Correct. The article states that South Korea borders North Korea to its north along the Korean Demilitarized Zone.",
+        "Incorrect. The article does not mention China as a northern neighbor of South Korea.",
+        "Incorrect. The article mentions the Sea of Japan to the east, but Japan is not a land border.",
+        "Incorrect. The article does not mention Russia as a neighbor of South Korea."
       ]
     },
     {
       "id": 3,
-      "question": "Approximately how many people live in South Korea?",
+      "question": "About how many people live in South Korea?",
       "options": [
-        "About 52 million",
-        "About 100 million",
-        "About 25 million",
-        "About 10 million"
+        "52 million",
+        "50 million",
+        "55 million",
+        "48 million"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'It has a population of about 52 million.'",
-        "Incorrect. The population is about 52 million, not 100 million.",
-        "Incorrect. The population is about 52 million, not 25 million.",
-        "Incorrect. The population is about 52 million, not 10 million."
+        "Correct. The article states that South Korea has a population of about 52 million.",
+        "Incorrect. The article states about 52 million, not 50 million.",
+        "Incorrect. The article states about 52 million, not 55 million.",
+        "Incorrect. The article states about 52 million, not 48 million."
       ]
     },
     {
       "id": 4,
-      "question": "What is the name of the demilitarized zone that separates South Korea from North Korea?",
+      "question": "What is the name of the sea to the west of South Korea?",
       "options": [
-        "Korean Demilitarized Zone",
-        "38th Parallel",
-        "Iron Curtain",
-        "Peace Line"
+        "Yellow Sea",
+        "Sea of Japan",
+        "East China Sea",
+        "South China Sea"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'It borders North Korea to its north along the Korean Demilitarized Zone.'",
-        "Incorrect. The 38th Parallel is a historical reference but not the name of the zone in the article.",
-        "Incorrect. The Iron Curtain is a term for the division of Europe, not Korea.",
-        "Incorrect. 'Peace Line' is not mentioned in the article."
+        "Correct. The article states that the Yellow Sea is to the west.",
+        "Incorrect. The article states that the Sea of Japan is to the east, not the west.",
+        "Incorrect. The article does not mention the East China Sea.",
+        "Incorrect. The article does not mention the South China Sea."
       ]
     },
     {
       "id": 5,
-      "question": "Which dynasty is credited with achieving lasting unification and establishing the basis for Korean identity?",
-      "options": [
-        "Goryeo dynasty",
-        "Joseon dynasty",
-        "Silla dynasty",
-        "Goguryeo dynasty"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'The Goryeo dynasty (918â1392) achieved lasting unification and established the basis for Korean identity.'",
-        "Incorrect. The Joseon dynasty followed Goryeo and is noted for cultural achievements, but the basis for Korean identity was established by Goryeo.",
-        "Incorrect. Silla unified most of the peninsula earlier, but Goryeo achieved lasting unification.",
-        "Incorrect. Goguryeo was one of the Three Kingdoms, not the dynasty that established lasting unification."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "What event ended Japanese rule in Korea?",
-      "options": [
-        "Japan's surrender in World War II",
-        "The Korean War",
-        "The June Democratic Struggle",
-        "The signing of the armistice"
-      ],
-      "answer_explanations": [
-        "Correct. The article says: 'Japanese rule ended following Japan's surrender in World War II.'",
-        "Incorrect. The Korean War occurred after Japanese rule ended.",
-        "Incorrect. The June Democratic Struggle was in 1987, long after Japanese rule.",
-        "Incorrect. The armistice ended the Korean War in 1953, not Japanese rule."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "In what year did the Republic of Korea come into existence?",
-      "options": [
-        "August 1948",
-        "September 1948",
-        "1950",
-        "1953"
-      ],
-      "answer_explanations": [
-        "Correct. The article states: 'the southern zone became the Republic of Korea in August 1948.'",
-        "Incorrect. September 1948 is when the Democratic People's Republic of Korea was established.",
-        "Incorrect. 1950 is the year the Korean War started.",
-        "Incorrect. 1953 is the year the armistice was signed."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "What is the name of the globally influential South Korean pop culture phenomenon mentioned in the article?",
-      "options": [
-        "Korean Wave",
-        "K-pop",
-        "Hallyu",
-        "Korean Renaissance"
-      ],
-      "answer_explanations": [
-        "Correct. The article says: 'the country became renowned for the Korean Wave, its globally influential pop culture.'",
-        "Incorrect. K-pop is a part of the Korean Wave, but the article specifically uses the term 'Korean Wave'.",
-        "Incorrect. 'Hallyu' is the Korean term for Korean Wave, but the article uses 'Korean Wave'.",
-        "Incorrect. 'Korean Renaissance' is not mentioned in the article."
-      ]
-    },
-    {
-      "id": 9,
-      "question": "Which of the following is a major city in South Korea mentioned in the article?",
+      "question": "Which of these is listed as a major city of South Korea?",
       "options": [
         "Busan",
         "Pyongyang",
@@ -141,26 +77,90 @@
         "Beijing"
       ],
       "answer_explanations": [
-        "Correct. The article lists Busan as one of the other major cities.",
-        "Incorrect. Pyongyang is the capital of North Korea, not mentioned as a South Korean city.",
-        "Incorrect. Tokyo is the capital of Japan, not mentioned in the article.",
-        "Incorrect. Beijing is the capital of China, not mentioned in the article."
+        "Correct. The article lists Busan as one of South Korea's major cities.",
+        "Incorrect. Pyongyang is the capital of North Korea, not a major city of South Korea.",
+        "Incorrect. Tokyo is a city in Japan, not in South Korea.",
+        "Incorrect. Beijing is a city in China, not in South Korea."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the name of the zone that separates South Korea and North Korea?",
+      "options": [
+        "Korean Demilitarized Zone",
+        "Korean Border Zone",
+        "Demilitarized Zone",
+        "Korean Peace Zone"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that South Korea borders North Korea along the Korean Demilitarized Zone.",
+        "Incorrect. The article does not use the term 'Korean Border Zone'.",
+        "Incorrect. The article specifies 'Korean Demilitarized Zone', not just 'Demilitarized Zone'.",
+        "Incorrect. The article does not use the term 'Korean Peace Zone'."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In which region of the world is South Korea located?",
+      "options": [
+        "East Asia",
+        "Southeast Asia",
+        "South Asia",
+        "Central Asia"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that South Korea is a country in East Asia.",
+        "Incorrect. The article specifies East Asia, not Southeast Asia.",
+        "Incorrect. The article specifies East Asia, not South Asia.",
+        "Incorrect. The article specifies East Asia, not Central Asia."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the name of the metropolitan area where half of South Korea's population lives?",
+      "options": [
+        "Seoul metropolitan area",
+        "Busan metropolitan area",
+        "Daegu metropolitan area",
+        "Incheon metropolitan area"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that half of the population lives in the Seoul metropolitan area.",
+        "Incorrect. The article does not say that half live in Busan.",
+        "Incorrect. The article does not say that half live in Daegu.",
+        "Incorrect. The article does not say that half live in Incheon."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT mentioned as a major city of South Korea?",
+      "options": [
+        "Gwangju",
+        "Daegu",
+        "Incheon",
+        "Busan"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists Busan, Daegu, and Incheon as major cities, but does not mention Gwangju in the introduction.",
+        "Incorrect. Daegu is mentioned as a major city in the article.",
+        "Incorrect. Incheon is mentioned as a major city in the article.",
+        "Incorrect. Busan is mentioned as a major city in the article."
       ]
     },
     {
       "id": 10,
-      "question": "What type of government does South Korea have under its 1987 constitution?",
+      "question": "What is the rank of the Seoul metropolitan area in terms of population among world metropolitan areas?",
       "options": [
-        "Unitary presidential republic",
-        "Federal parliamentary republic",
-        "Constitutional monarchy",
-        "Communist state"
+        "Ninth",
+        "Tenth",
+        "Eighth",
+        "Seventh"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'it maintains a unitary presidential republic with a popularly elected, unicameral legislature.'",
-        "Incorrect. South Korea is not a federal state; it is unitary.",
-        "Incorrect. South Korea is a republic, not a monarchy.",
-        "Incorrect. South Korea is not a communist state; it is a democratic republic."
+        "Correct. The article states that the Seoul metropolitan area is the world's ninth most populous metropolitan area.",
+        "Incorrect. The article states ninth, not tenth.",
+        "Incorrect. The article states ninth, not eighth.",
+        "Incorrect. The article states ninth, not seventh."
       ]
     }
   ]

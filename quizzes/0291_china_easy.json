@@ -9,158 +9,158 @@
       "options": [
         "People's Republic of China",
         "Republic of China",
-        "Democratic Republic of China",
-        "Federal Republic of China"
+        "Democratic People's Republic of China",
+        "People's Republic of Asia"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'China, officially the People's Republic of China (PRC).'",
-        "Incorrect. The Republic of China refers to the government that retreated to Taiwan after 1949.",
-        "Incorrect. This is not the official name given in the article.",
-        "Incorrect. This is not the official name given in the article."
+        "Correct. The article states: \"China, officially the People's Republic of China (PRC).\"",
+        "Incorrect. The Republic of China (ROC) is mentioned as the government that retreated to Taiwan, not as China's official name.",
+        "Incorrect. This is the official name of North Korea, not China.",
+        "Incorrect. The article does not use this name for China."
       ]
     },
     {
       "id": 2,
-      "question": "Which city is the capital of China?",
+      "question": "In which region of Asia is China located?",
       "options": [
-        "Beijing",
-        "Shanghai",
-        "Chang'an",
-        "Guangzhou"
+        "East Asia",
+        "South Asia",
+        "Central Asia",
+        "Southeast Asia"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'Beijing is the capital.'",
-        "Incorrect. Shanghai is described as 'the most populous city by urban area,' not the capital.",
-        "Incorrect. Chang'an was the capital of the Tang dynasty, but is not the modern capital.",
-        "Incorrect. Guangzhou is not mentioned as the capital."
+        "Correct. The article says China is \"a country in East Asia.\"",
+        "Incorrect. The article specifies East Asia, not South Asia.",
+        "Incorrect. The article specifies East Asia, not Central Asia.",
+        "Incorrect. The article specifies East Asia, not Southeast Asia."
       ]
     },
     {
       "id": 3,
-      "question": "How many province-level divisions does China have?",
+      "question": "How many province-level divisions is China divided into?",
       "options": [
         "33",
-        "55",
-        "60",
-        "22"
+        "23",
+        "50",
+        "55"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'It is divided into 33 province-level divisions.'",
-        "Incorrect. 55 is the number of recognized minorities mentioned later.",
-        "Incorrect. 60 is the number of World Heritage Sites mentioned.",
-        "Incorrect. 22 is not mentioned in the article."
+        "Correct. The article states China \"is divided into 33 province-level divisions.\"",
+        "Incorrect. The article states 33, not 23.",
+        "Incorrect. The article states 33, not 50.",
+        "Incorrect. 55 is the number of recognized minorities mentioned later, not the number of province-level divisions."
       ]
     },
     {
       "id": 4,
-      "question": "Which river is mentioned as a major river in China's geography?",
+      "question": "What is the capital of China?",
       "options": [
-        "Yangtze",
-        "Mekong",
-        "Ganges",
-        "Amazon"
+        "Beijing",
+        "Shanghai",
+        "Hong Kong",
+        "Guangzhou"
       ],
       "answer_explanations": [
-        "Correct. The article lists 'major rivers such as the Yangtze and Yellow River.'",
-        "Incorrect. The Mekong is not mentioned in the article.",
-        "Incorrect. The Ganges is not mentioned in the article.",
-        "Incorrect. The Amazon is not mentioned in the article."
+        "Correct. The article states \"Beijing is the capital.\"",
+        "Incorrect. Shanghai is described as the most populous city by urban area, not the capital.",
+        "Incorrect. Hong Kong is not mentioned as the capital.",
+        "Incorrect. Guangzhou is not mentioned in the article."
       ]
     },
     {
       "id": 5,
-      "question": "What is China's rank by population?",
+      "question": "Which city is the most populous by urban area in China?",
       "options": [
-        "Second-most populous country",
-        "Most populous country",
-        "Third-most populous country",
-        "Fourth-most populous country"
+        "Shanghai",
+        "Beijing",
+        "Shenzhen",
+        "Chongqing"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'It is the world's second-most populous country after India.'",
-        "Incorrect. India is the most populous, not China.",
-        "Incorrect. The article states it is second, not third.",
-        "Incorrect. The article states it is second, not fourth."
+        "Correct. The article states \"Shanghai is the most populous city by urban area.\"",
+        "Incorrect. Beijing is the capital, but Shanghai is the most populous by urban area.",
+        "Incorrect. Shenzhen is not mentioned in the article.",
+        "Incorrect. Chongqing is not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "When was China unified under the Qin dynasty?",
+      "question": "Which two major rivers are mentioned as part of China's geography?",
       "options": [
-        "221 BCE",
-        "1046 BCE",
-        "589 CE",
-        "960 CE"
+        "Yangtze and Yellow River",
+        "Mekong and Ganges",
+        "Xi and Pearl River",
+        "Amur and Indus"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'In 221 BCE, China was unified under the Qin.'",
-        "Incorrect. 1046 BCE is when the Zhou overthrew the Shang.",
-        "Incorrect. 589 CE is when China was reunited under the Sui dynasty.",
-        "Incorrect. 960 CE is when the Song dynasty rose to power."
+        "Correct. The article mentions \"major rivers such as the Yangtze and Yellow River.\"",
+        "Incorrect. These rivers are not mentioned in the article.",
+        "Incorrect. These rivers are not mentioned in the article.",
+        "Incorrect. These rivers are not mentioned in the article."
       ]
     },
     {
       "id": 7,
-      "question": "Which invention is mentioned as being invented during the imperial era?",
+      "question": "What is China's population according to the article?",
       "options": [
-        "Gunpowder",
-        "Steam engine",
-        "Electricity",
-        "Telephone"
+        "Exceeding 1.4 billion",
+        "Exactly 1 billion",
+        "Less than 1 billion",
+        "About 2 billion"
       ],
       "answer_explanations": [
-        "Correct. The article lists 'the invention of gunpowder, paper, printing, and the compass.'",
-        "Incorrect. The steam engine is not mentioned in the article.",
-        "Incorrect. Electricity is not mentioned in the article.",
-        "Incorrect. The telephone is not mentioned in the article."
+        "Correct. The article states China has \"a population exceeding 1.4 billion.\"",
+        "Incorrect. The article says the population exceeds 1.4 billion, not exactly 1 billion.",
+        "Incorrect. The population is stated to exceed 1.4 billion, which is more than 1 billion.",
+        "Incorrect. The article does not state a population of about 2 billion."
       ]
     },
     {
       "id": 8,
-      "question": "What type of state is China?",
+      "question": "How large is China's area?",
       "options": [
-        "Unitary state",
-        "Federal state",
-        "Confederation",
-        "Empire"
+        "9.6 million square kilometers",
+        "3.7 million square kilometers",
+        "14 million square kilometers",
+        "960 thousand square kilometers"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'China is a unitary state with the CCP as its sole ruling party.'",
-        "Incorrect. The article explicitly says it is a unitary state, not federal.",
-        "Incorrect. The article says it is a unitary state, not a confederation.",
-        "Incorrect. The article does not describe modern China as an empire."
+        "Correct. The article states China covers \"9.6 million square kilometers.\"",
+        "Incorrect. 3,700,000 sq mi is the equivalent in square miles, not the area in square kilometers.",
+        "Incorrect. The article does not state this figure.",
+        "Incorrect. The article states 9.6 million, not 960 thousand."
       ]
     },
     {
       "id": 9,
-      "question": "Which religion is mentioned as being introduced to China via the Silk Road?",
+      "question": "What is China's rank by area among countries?",
       "options": [
-        "Buddhism",
-        "Christianity",
-        "Islam",
-        "Hinduism"
+        "Third largest",
+        "Second largest",
+        "Fourth largest",
+        "Largest"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Buddhism was introduced to China via the Silk Road.'",
-        "Incorrect. Christianity is not mentioned in this context.",
-        "Incorrect. Islam is not mentioned in the article.",
-        "Incorrect. Hinduism is mentioned only in the etymology section regarding the word 'CÄ«na.'"
+        "Correct. The article says China is \"the third largest country by area.\"",
+        "Incorrect. The article says third largest, not second.",
+        "Incorrect. The article says third largest, not fourth.",
+        "Incorrect. The article says third largest, not the largest."
       ]
     },
     {
       "id": 10,
-      "question": "What is the dominant ethnicity in China?",
+      "question": "Which country is mentioned as having a larger population than China?",
       "options": [
-        "Han",
-        "Hui",
-        "Mongols",
-        "Zhuang"
+        "India",
+        "United States",
+        "Indonesia",
+        "Russia"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The Han, speakers of Sinitic languages, are China's dominant ethnicity.'",
-        "Incorrect. The Hui are listed as one of the 55 recognized minorities.",
-        "Incorrect. The Mongols are listed as one of the 55 recognized minorities.",
-        "Incorrect. The Zhuang are listed as one of the 55 recognized minorities."
+        "Correct. The article says China is \"the world's second-most populous country after India.\"",
+        "Incorrect. The article names India, not the United States, as having a larger population.",
+        "Incorrect. The article names India, not Indonesia.",
+        "Incorrect. The article names India, not Russia."
       ]
     }
   ]

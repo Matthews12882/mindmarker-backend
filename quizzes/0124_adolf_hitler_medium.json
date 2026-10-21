@@ -5,50 +5,50 @@
   "questions": [
     {
       "id": 1,
-      "question": "What title did Adolf Hitler take in 1934?",
+      "question": "When did Adolf Hitler become dictator of Germany in the Nazi era?",
       "options": [
-        "FÃ¼hrer und Reichskanzler",
-        "ReichsprÃ¤sident",
-        "Reichskanzler",
-        "Oberbefehlshaber"
+        "1933",
+        "1923",
+        "1919",
+        "1939"
       ],
       "answer_explanations": [
-        "Correct. The article states that Hitler took the title of FÃ¼hrer und Reichskanzler in 1934.",
-        "Incorrect. ReichsprÃ¤sident was held by Paul von Hindenburg until his death in 1934, after which Hitler replaced him as head of state.",
-        "Incorrect. Reichskanzler (chancellor) was the title Hitler held starting in 1933, not the new title he took in 1934.",
-        "Incorrect. The article does not mention Oberbefehlshaber as a title Hitler took."
+        "Correct. The article states that Hitler was dictator of Germany in the Nazi era from 1933 until his suicide in 1945.",
+        "Incorrect. 1923 was the year of his failed coup in Munich, not when he became dictator.",
+        "Incorrect. 1919 was the year he joined the German Workers' Party, not when he became dictator.",
+        "Incorrect. 1939 was the year Germany invaded Poland, not when he became dictator."
       ]
     },
     {
       "id": 2,
-      "question": "Which event marked the outbreak of the Second World War according to the article?",
+      "question": "What was the name of the political party that Hitler became the leader of in 1921?",
       "options": [
-        "Germany's invasion of Poland on 1 September 1939",
-        "Germany's invasion of the Soviet Union in June 1941",
-        "Hitler's appointment as chancellor in 1933",
-        "The passage of the Enabling Act of 1933"
+        "The Nazi Party",
+        "The German Workers' Party",
+        "The Reichstag",
+        "The Axis powers"
       ],
       "answer_explanations": [
-        "Correct. The article states that Germany's invasion of Poland on 1 September 1939 under Hitler's leadership marked the outbreak of the Second World War.",
-        "Incorrect. The invasion of the Soviet Union occurred in June 1941, after the war had already begun.",
-        "Incorrect. Hitler's appointment as chancellor in 1933 preceded the outbreak of the war.",
-        "Incorrect. The Enabling Act of 1933 began the transformation of the Weimar Republic into Nazi Germany, not the Second World War."
+        "Correct. The article says that in 1921, Hitler was appointed the leader of the Nazi Party.",
+        "Incorrect. The German Workers' Party (DAP) was the precursor to the Nazi Party, which he joined in 1919, not the party he led in 1921.",
+        "Incorrect. The Reichstag was the German parliament, not a political party.",
+        "Incorrect. The Axis powers were the alliance of countries during World War II, not a political party."
       ]
     },
     {
       "id": 3,
-      "question": "What did Hitler do while imprisoned after the failed 1923 coup?",
+      "question": "What did Hitler do while he was in prison after the failed coup in 1923?",
       "options": [
-        "He dictated the first volume of Mein Kampf",
-        "He wrote the Enabling Act",
-        "He founded the German Workers' Party",
-        "He negotiated the Treaty of Versailles"
+        "He dictated the first volume of his autobiography and political manifesto Mein Kampf.",
+        "He was decorated with the Iron Cross.",
+        "He was appointed as chancellor of Germany.",
+        "He married Eva Braun."
       ],
       "answer_explanations": [
-        "Correct. The article states that while in prison after the failed Beer Hall Putsch, Hitler dictated the first volume of Mein Kampf.",
-        "Incorrect. The Enabling Act was passed by the Reichstag in 1933, not written by Hitler in prison.",
-        "Incorrect. Hitler joined the German Workers' Party in 1919, before the 1923 coup.",
-        "Incorrect. The Treaty of Versailles was a peace treaty after the First World War, not something Hitler negotiated in prison."
+        "Correct. The article states that while in prison, Hitler dictated the first volume of his autobiography and political manifesto Mein Kampf.",
+        "Incorrect. He received the Iron Cross during his service in the German Army in the First World War, not while in prison.",
+        "Incorrect. He was appointed chancellor in 1933, not while in prison in the 1920s.",
+        "Incorrect. He married Eva Braun in 1945, shortly before their suicide, not while in prison."
       ]
     },
     {
@@ -56,111 +56,111 @@
       "question": "Who convinced President Paul von Hindenburg to appoint Hitler as chancellor?",
       "options": [
         "Franz von Papen and other conservative politicians",
-        "The Nazi Party leadership",
-        "The German Army generals",
-        "The Reichstag"
+        "The Nazi Party members in the Reichstag",
+        "The German military leaders",
+        "The Allied forces"
       ],
       "answer_explanations": [
-        "Correct. The article states that former chancellor Franz von Papen and other conservative politicians convinced Hindenburg to appoint Hitler as chancellor on 30 January 1933.",
-        "Incorrect. While the Nazi Party held the most seats, it was von Papen and other conservative politicians who convinced Hindenburg.",
-        "Incorrect. The article does not mention German Army generals convincing Hindenburg.",
-        "Incorrect. The Reichstag passed the Enabling Act but did not appoint Hitler as chancellor."
+        "Correct. The article says that former chancellor Franz von Papen and other conservative politicians convinced President Paul von Hindenburg to appoint Hitler as chancellor.",
+        "Incorrect. The article does not mention that Nazi Party members convinced Hindenburg; it was conservative politicians like von Papen.",
+        "Incorrect. The article does not mention German military leaders as the ones who convinced Hindenburg.",
+        "Incorrect. The Allied forces were Germany's enemies in World War II and would not have convinced Hindenburg to appoint Hitler."
       ]
     },
     {
       "id": 5,
-      "question": "What was one of Hitler's key goals according to the article?",
+      "question": "What was one of Hitler's key goals for the German people?",
       "options": [
-        "Lebensraum for the German people in Eastern Europe",
-        "The abolition of the Nazi Party",
-        "The establishment of a democratic government",
-        "The withdrawal of Germany from European affairs"
+        "Lebensraum, or 'living space', in Eastern Europe",
+        "To restore the Habsburg monarchy",
+        "To make Germany a democracy",
+        "To form an alliance with the Soviet Union"
       ],
       "answer_explanations": [
         "Correct. The article states that one of Hitler's key goals was Lebensraum ('living space') for the German people in Eastern Europe.",
-        "Incorrect. Hitler was the leader of the Nazi Party, not seeking to abolish it.",
-        "Incorrect. Hitler established a totalitarian dictatorship, not a democratic government.",
-        "Incorrect. Hitler pursued an aggressive, expansionist foreign policy, not withdrawal from European affairs."
+        "Incorrect. Hitler despised the Habsburg monarchy and expressed loyalty only to Germany.",
+        "Incorrect. Germany became a totalitarian dictatorship under Hitler, not a democracy.",
+        "Incorrect. Hitler ordered an invasion of the Soviet Union, not an alliance with it."
       ]
     },
     {
       "id": 6,
-      "question": "What happened on 29 April 1945 in the FÃ¼hrerbunker in Berlin?",
+      "question": "What event marked the outbreak of the Second World War?",
       "options": [
-        "Hitler married Eva Braun",
-        "Hitler committed suicide",
-        "Germany surrendered to the Allies",
-        "Hitler declared war on the United States"
+        "Germany's invasion of Poland on 1 September 1939",
+        "The Enabling Act of 1933",
+        "The failed coup in Munich in 1923",
+        "The death of President Hindenburg in 1934"
       ],
       "answer_explanations": [
-        "Correct. The article states that on 29 April 1945, Hitler married Eva Braun in the FÃ¼hrerbunker in Berlin.",
-        "Incorrect. Hitler and Eva Braun committed suicide the next day, on 30 April 1945.",
-        "Incorrect. The article does not state that Germany surrendered on 29 April 1945.",
-        "Incorrect. Hitler declared war on the United States in December 1941, not in 1945."
+        "Correct. The article says that Germany's invasion of Poland on 1 September 1939 under Hitler's leadership marked the outbreak of the Second World War.",
+        "Incorrect. The Enabling Act of 1933 began the transformation of the Weimar Republic into Nazi Germany, not the war.",
+        "Incorrect. The failed coup in Munich was a domestic attempt to seize power, not the start of the war.",
+        "Incorrect. Hindenburg's death allowed Hitler to become head of state, but it did not start the war."
       ]
     },
     {
       "id": 7,
-      "question": "What did the DNA analysis of blood from Hitler's study sofa in 2025 show?",
+      "question": "According to the article, what was the estimated number of Jews killed in the Holocaust?",
       "options": [
-        "Hitler did not have Jewish ancestry through his father",
-        "Hitler had Jewish ancestry through his father",
-        "The blood did not belong to Hitler",
-        "The DNA analysis was inconclusive"
+        "About six million",
+        "About 19.3 million",
+        "About 28.7 million",
+        "About 47 million"
       ],
       "answer_explanations": [
-        "Correct. The article states that the DNA analysis showed Hitler did not have Jewish ancestry through his father.",
-        "Incorrect. The article explicitly states the DNA analysis confirmed Hitler did not have Jewish ancestry through his father.",
-        "Incorrect. The blood was confirmed to be Hitler's by comparing it to that of a male-line relative.",
-        "Incorrect. The DNA analysis produced a clear result confirming Hitler's DNA and disproving Jewish ancestry through his father."
+        "Correct. The article states that Hitler was central to the genocide of about six million Jews in the Holocaust.",
+        "Incorrect. 19.3 million is the estimated number of civilians and prisoners of war deliberately killed by Hitler and the Nazis, not just Jews.",
+        "Incorrect. 28.7 million is the number of soldiers and civilians who died as a result of military action in the European theatre.",
+        "Incorrect. This number is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "What happened to Hitler's school performance after his father's death in 1903?",
+      "question": "What was the name of Hitler's father?",
       "options": [
-        "It deteriorated",
-        "It improved significantly",
-        "It remained unchanged",
-        "He left school immediately"
+        "Alois Hitler",
+        "Johann Georg Hiedler",
+        "Hans Frank",
+        "Leopold Frankenberger"
       ],
       "answer_explanations": [
-        "Correct. The article states that after Alois's sudden death on 3 January 1903, Hitler's performance at school deteriorated.",
-        "Incorrect. His performance deteriorated, not improved, after his father's death.",
-        "Incorrect. The article explicitly states his performance deteriorated.",
-        "Incorrect. He did not leave school immediately; he later enrolled at the Realschule in Steyr in September 1904."
+        "Correct. The article states that Hitler's father was Alois Hitler.",
+        "Incorrect. Johann Georg Hiedler was the man recorded as Alois's father in 1876, but he was not Hitler's father directly.",
+        "Incorrect. Hans Frank was a Nazi official who suggested a claim about Alois's father, not Hitler's father himself.",
+        "Incorrect. Leopold Frankenberger was a claimed possible father of Alois, but historians dismiss this claim."
       ]
     },
     {
       "id": 9,
-      "question": "Why did Hitler leave the Realschule in 1905?",
+      "question": "What did the DNA analysis of blood from Hitler's study confirm?",
       "options": [
-        "He left without any ambitions for further education or clear plans for a career",
-        "He was expelled for poor behavior",
-        "He was accepted into the Academy of Fine Arts Vienna",
-        "His father forced him to work in the customs bureau"
+        "That Hitler did not have Jewish ancestry through his father",
+        "That Hitler was related to Eva Braun",
+        "That Hitler was born in Austria",
+        "That Hitler's father was Jewish"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1905, after passing a repeat of the final exam, Hitler left the school without any ambitions for further education or clear plans for a career.",
-        "Incorrect. The article does not mention expulsion; his behavior and performance had improved at Steyr.",
-        "Incorrect. Hitler was rejected twice by the Academy of Fine Arts Vienna, not accepted.",
-        "Incorrect. Alois wanted Hitler to follow him into the customs bureau, but the article does not say Alois forced him to work there or that this caused him to leave school."
+        "Correct. The article says the DNA analysis showed that Hitler did not have Jewish ancestry through his father.",
+        "Incorrect. The DNA analysis was compared to a male-line relative of Hitler, not to Eva Braun.",
+        "Incorrect. The DNA analysis did not confirm where Hitler was born; that is a known fact from his biography.",
+        "Incorrect. The DNA analysis disproved the claim that Hitler's father was Jewish."
       ]
     },
     {
       "id": 10,
-      "question": "How did Hitler's time in Vienna influence his views?",
+      "question": "Where did Hitler and Eva Braun commit suicide?",
       "options": [
-        "He was first exposed to racist rhetoric and antisemitic sentiment",
-        "He abandoned his German nationalist ideas",
-        "He developed sympathy for Jewish people",
-        "He decided to pursue a career in architecture"
+        "In the FÃ¼hrerbunker in Berlin",
+        "In Braunau am Inn",
+        "In Vienna",
+        "In Munich"
       ],
       "answer_explanations": [
-        "Correct. The article states that in Vienna, Hitler was first exposed to racist rhetoric, and populists exploited the city's prevalent antisemitic sentiment.",
-        "Incorrect. Hitler expressed loyalty to Germany and held German nationalist ideas; he did not abandon them in Vienna.",
-        "Incorrect. The article describes Hitler developing antisemitic views, not sympathy for Jewish people.",
-        "Incorrect. Although Hitler admired architecture, he lacked the academic credentials to apply to the School of Architecture; the article does not say he decided to pursue it as a career."
+        "Correct. The article states that they committed suicide in the FÃ¼hrerbunker ('leader's bunker') in Berlin.",
+        "Incorrect. Braunau am Inn was Hitler's birthplace, not where he died.",
+        "Incorrect. Vienna was where Hitler lived in his early adulthood, not where he died.",
+        "Incorrect. Munich was where he attempted the failed coup, not where he died."
       ]
     }
   ]

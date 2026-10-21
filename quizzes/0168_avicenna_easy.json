@@ -5,55 +5,103 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the Latinized version of the Arabic patronym ibn SÄ«nÄ?",
+      "question": "What is Avicenna's commonly known name in the West?",
       "options": [
         "Avicenna",
         "Ibn Sina",
-        "AbÅ« Ê¿AlÄ« al-á¸¤usayn",
-        "al-BalkhÄ«"
+        "Aristotle",
+        "Scholastic"
       ],
       "answer_explanations": [
-        "Correct. The article states that Avicenna is a Latinized version of the Arabic patronym ibn SÄ«nÄ.",
-        "Incorrect. Ibn Sina is the Arabic patronym itself, not its Latinized version.",
-        "Incorrect. AbÅ« Ê¿AlÄ« al-á¸¤usayn is part of Avicenna's full formal Arabic name, not the Latinized version.",
-        "Incorrect. al-BalkhÄ« is part of Avicenna's full formal Arabic name, not the Latinized version."
+        "Correct. The article states that Ibn Sina is 'commonly known in the West as Avicenna'.",
+        "Incorrect. Ibn Sina is his original name, not the Western common name.",
+        "Incorrect. Aristotle is a different philosopher, not Avicenna's Western name.",
+        "Incorrect. Scholastic refers to a school of thought, not a person's name."
       ]
     },
     {
       "id": 2,
-      "question": "In which century was Avicenna born?",
+      "question": "When did Avicenna die?",
       "options": [
-        "10th century",
-        "9th century",
-        "11th century",
-        "12th century"
+        "22 June 1037",
+        "c. 980",
+        "1650",
+        "22 June 980"
       ],
       "answer_explanations": [
-        "Correct. The article states Avicenna was born c. 980, which falls in the 10th century.",
-        "Incorrect. The article gives his birth as c. 980, not in the 9th century.",
-        "Incorrect. The article gives his birth as c. 980, not in the 11th century.",
-        "Incorrect. The article gives his birth as c. 980, not in the 12th century."
+        "Correct. The article gives his death date as '22 June 1037'.",
+        "Incorrect. c. 980 is his approximate birth year, not his death date.",
+        "Incorrect. 1650 is when The Canon of Medicine remained in use, not his death.",
+        "Incorrect. This date is not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "Which of Avicenna's works became a standard medical text at many medieval European universities?",
+      "question": "What was Avicenna's profession or role?",
       "options": [
-        "The Canon of Medicine",
-        "The Book of Healing",
-        "Danish-nama-yi Ala'i",
-        "Sermons on Divine Unity"
+        "Philosopher and physician",
+        "Astronomer only",
+        "Poet only",
+        "Mathematician only"
       ],
       "answer_explanations": [
-        "Correct. The article states that The Canon of Medicine became a standard medical text at many medieval European universities.",
-        "Incorrect. The Book of Healing is described as a philosophical and scientific encyclopedia, not the standard medical text.",
-        "Incorrect. Danish-nama-yi Ala'i is a philosophical treatise dedicated to Ala al-Dawla, not a standard medical text.",
-        "Incorrect. Sermons on Divine Unity is mentioned in the context of an accusation, not as a standard medical text."
+        "Correct. The article calls him a 'preeminent philosopher and physician'.",
+        "Incorrect. He wrote on astronomy but was not solely an astronomer.",
+        "Incorrect. He wrote poetry but was not only a poet.",
+        "Incorrect. He wrote on mathematics but was not only a mathematician."
       ]
     },
     {
       "id": 4,
-      "question": "Which language did Avicenna write most of his philosophical and scientific works in?",
+      "question": "What is the name of Avicenna's famous medical encyclopedia?",
+      "options": [
+        "The Canon of Medicine",
+        "The Book of Healing",
+        "The Islamic Golden Age",
+        "The Peripatetic School"
+      ],
+      "answer_explanations": [
+        "Correct. The article mentions 'The Canon of Medicine' as a medical encyclopedia.",
+        "Incorrect. The Book of Healing is a philosophical and scientific encyclopedia, not medical.",
+        "Incorrect. This is a historical period, not a book.",
+        "Incorrect. This is a philosophical school, not a book."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "In which courts did Avicenna serve?",
+      "options": [
+        "Iranian rulers",
+        "European kings",
+        "Arab caliphs",
+        "Ottoman sultans"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he served 'in the courts of various Iranian rulers'.",
+        "Incorrect. The article does not mention European courts.",
+        "Incorrect. The article does not mention Arab caliphs.",
+        "Incorrect. The article does not mention Ottoman sultans."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "How many works is Avicenna believed to have written?",
+      "options": [
+        "450",
+        "240",
+        "150",
+        "40"
+      ],
+      "answer_explanations": [
+        "Correct. The article states he is 'believed to have written' 450 works.",
+        "Incorrect. 240 is the number that have survived.",
+        "Incorrect. 150 is the number of surviving philosophy works.",
+        "Incorrect. 40 is the number of surviving medicine works."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In which language did Avicenna write most of his philosophical and scientific works?",
       "options": [
         "Arabic",
         "Persian",
@@ -61,106 +109,58 @@
         "Greek"
       ],
       "answer_explanations": [
-        "Correct. The article states Avicenna wrote most of his philosophical and scientific works in Arabic.",
-        "Incorrect. The article says he wrote several key works in Persian, but most in Arabic.",
-        "Incorrect. The article does not state that he wrote most works in Latin.",
-        "Incorrect. The article does not state that he wrote most works in Greek."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "Approximately how many of Avicenna's works have survived?",
-      "options": [
-        "around 240",
-        "450",
-        "150",
-        "40"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that of the 450 works he is believed to have written, around 240 have survived.",
-        "Incorrect. 450 is the number of works he is believed to have written, not the number that survived.",
-        "Incorrect. 150 is the number of surviving works on philosophy, not the total surviving works.",
-        "Incorrect. 40 is the number of surviving works on medicine, not the total surviving works."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "By what age had Avicenna memorized the entire Quran?",
-      "options": [
-        "10",
-        "17",
-        "18",
-        "21"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that by the age of 10, Avicenna had memorized the entire Quran.",
-        "Incorrect. The article states he memorized the Quran by age 10, not 17.",
-        "Incorrect. The article states he memorized the Quran by age 10, not 18.",
-        "Incorrect. The article states he memorized the Quran by age 10, not 21."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "At what age was Avicenna made a physician of Nuh II?",
-      "options": [
-        "17",
-        "10",
-        "18",
-        "21"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that at the age of 17, Avicenna was made a physician of Nuh II.",
-        "Incorrect. The article states he memorized the Quran by age 10, not that he became a physician at that age.",
-        "Incorrect. The article states he was well-educated in Greek sciences by age 18, not that he became a physician at that age.",
-        "Incorrect. The article mentions age 21 in relation to his father's death, not becoming a physician."
+        "Correct. The article says he wrote 'most of his philosophical and scientific works in Arabic'.",
+        "Incorrect. He wrote some key works in Persian, but not most.",
+        "Incorrect. Latin is not mentioned as a language he wrote in.",
+        "Incorrect. Greek is not mentioned as a language he wrote in."
       ]
     },
     {
       "id": 8,
-      "question": "Which school of Islamic law did Avicenna follow?",
+      "question": "What is Avicenna often described as?",
       "options": [
-        "Hanafi Sunni",
-        "Isma'ilism",
-        "Maliki",
-        "Shafi'i"
+        "The father of early modern medicine",
+        "The father of astronomy",
+        "The father of poetry",
+        "The father of logic"
       ],
       "answer_explanations": [
-        "Correct. The article states Avicenna was a Hanafi Sunni, the same school followed by the Samanids.",
-        "Incorrect. The article states his father and brother converted to Isma'ilism, but Avicenna himself did not follow the faith.",
-        "Incorrect. The article does not mention the Maliki school in relation to Avicenna.",
-        "Incorrect. The article does not mention the Shafi'i school in relation to Avicenna."
+        "Correct. The article says he is 'often described as the father of early modern medicine'.",
+        "Incorrect. The article does not call him the father of astronomy.",
+        "Incorrect. The article does not call him the father of poetry.",
+        "Incorrect. The article does not call him the father of logic."
       ]
     },
     {
       "id": 9,
-      "question": "In which city did Avicenna serve as physician at the court of Majd al-Dawla?",
+      "question": "Which philosophical school was Avicenna's philosophy derived from?",
       "options": [
-        "Ray",
-        "Gurganj",
-        "Hamadan",
-        "Isfahan"
+        "Peripatetic school",
+        "Scholasticism",
+        "Islamic theology",
+        "Empiricism"
       ],
       "answer_explanations": [
-        "Correct. The article states that in c. 1014, Avicenna went to the city of Ray, where he entered into the service of the Buyid amir Majd al-Dawla and served as the physician at the court.",
-        "Incorrect. Gurganj is where Avicenna served under the Ma'munids, not Majd al-Dawla.",
-        "Incorrect. Hamadan is where Avicenna later served under Shams al-Dawla, not Majd al-Dawla.",
-        "Incorrect. Isfahan is where Avicenna served under Ala al-Dawla, not Majd al-Dawla."
+        "Correct. The article says his philosophy was 'of the Peripatetic school derived from Aristotelianism'.",
+        "Incorrect. Scholasticism is a medieval European thought influenced by him, not his school.",
+        "Incorrect. Islamic theology is a subject he wrote on, not his philosophical school.",
+        "Incorrect. Empiricism is not mentioned as his philosophical school."
       ]
     },
     {
       "id": 10,
-      "question": "How long was Avicenna imprisoned in the fortress of Fardajan?",
+      "question": "What does Avicenna's unique methodological approach combine?",
       "options": [
-        "four months",
-        "one month",
-        "six months",
-        "one year"
+        "Empirical observation, philosophical reasoning, and logical analysis",
+        "Astronomy, alchemy, and poetry",
+        "Medicine, mathematics, and physics",
+        "Geography, geology, and psychology"
       ],
       "answer_explanations": [
-        "Correct. The article states Avicenna was imprisoned for four months until Ala al-Dawla captured Hamadan.",
-        "Incorrect. The article states he was imprisoned for four months, not one month.",
-        "Incorrect. The article states he was imprisoned for four months, not six months.",
-        "Incorrect. The article states he was imprisoned for four months, not one year."
+        "Correct. The article says he combines 'empirical observation, philosophical reasoning, and logical analysis'.",
+        "Incorrect. These are subjects he wrote on, not his methodological approach.",
+        "Incorrect. These are subjects he wrote on, not his methodological approach.",
+        "Incorrect. These are subjects he wrote on, not his methodological approach."
       ]
     }
   ]

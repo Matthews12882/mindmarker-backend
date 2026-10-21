@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following best describes Antarctica's climate classification?",
+      "question": "What is the average thickness of the Antarctic ice sheet?",
       "options": [
-        "A polar desert",
-        "A tropical rainforest",
-        "A temperate grassland",
-        "A humid subtropical region"
+        "1.9 km (1.2 mi)",
+        "2.5 km (1.6 mi)",
+        "0.5 km (0.3 mi)",
+        "4.0 km (2.5 mi)"
       ],
       "answer_explanations": [
-        "Correct. The article states that Antarctica is mainly a polar desert.",
-        "Incorrect. The article does not classify Antarctica as a tropical rainforest.",
-        "Incorrect. The article does not describe Antarctica as a temperate grassland.",
-        "Incorrect. The article does not describe Antarctica as a humid subtropical region."
+        "Correct. The article states that 'Most of Antarctica is covered by the Antarctic ice sheet, with an average thickness of 1.9 km (1.2 mi).'",
+        "Incorrect. The article specifies the average thickness as 1.9 km (1.2 mi), not 2.5 km.",
+        "Incorrect. The article specifies the average thickness as 1.9 km (1.2 mi), not 0.5 km.",
+        "Incorrect. The article specifies the average thickness as 1.9 km (1.2 mi), not 4.0 km."
       ]
     },
     {
       "id": 2,
-      "question": "What does the article say about the average thickness of the Antarctic ice sheet?",
+      "question": "Which of the following is NOT listed as a native animal species of Antarctica?",
       "options": [
-        "It averages 1.9 km in thickness.",
-        "It averages 0.5 km in thickness.",
-        "It averages 5 km in thickness.",
-        "It averages 10 km in thickness."
+        "Polar bears",
+        "Mites",
+        "Penguins",
+        "Seals"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Antarctic ice sheet averages 1.9 km (1.2 mi) in thickness.",
-        "Incorrect. The article does not state that the ice sheet averages 0.5 km in thickness.",
-        "Incorrect. The article does not state that the ice sheet averages 5 km in thickness.",
-        "Incorrect. The article does not state that the ice sheet averages 10 km in thickness."
+        "Correct. The article lists 'mites, nematodes, penguins, seals and tardigrades' as native species. Polar bears are not mentioned and are native to the Arctic, not Antarctica.",
+        "Incorrect. Mites are explicitly listed as native species in the article.",
+        "Incorrect. Penguins are explicitly listed as native species in the article.",
+        "Incorrect. Seals are explicitly listed as native species in the article."
       ]
     },
     {
       "id": 3,
-      "question": "Which activity is prohibited in Antarctica under the terms of the Antarctic Treaty System?",
+      "question": "Who was the first to reach the geographic South Pole, and in what year?",
       "options": [
-        "Mining",
-        "Tourism",
-        "Fishing",
-        "Research"
+        "Roald Amundsen, in 1911",
+        "Fabian Gottlieb von Bellingshausen, in 1820",
+        "Douglas Mawson, in 1909",
+        "Matthew Flinders, in 1824"
       ],
       "answer_explanations": [
-        "Correct. The article states that mining is prohibited under the terms of the Antarctic Treaty System.",
-        "Incorrect. The article lists tourism as one of the main human activities in and around Antarctica.",
-        "Incorrect. The article lists fishing as one of the main human activities in and around Antarctica.",
-        "Incorrect. The article lists research as one of the main human activities in and around Antarctica."
+        "Correct. The article states that 'the geographic South Pole was first reached in 1911 by Norwegian explorer Roald Amundsen.'",
+        "Incorrect. Bellingshausen led an expedition in 1820 that saw the ice shelves, but he did not reach the South Pole.",
+        "Incorrect. Mawson was part of the team that first reached the magnetic South Pole in 1909, not the geographic South Pole.",
+        "Incorrect. Flinders was an explorer who doubted the existence of a continent south of Australia, but he did not reach the South Pole."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is true about Lake Vostok?",
+      "question": "According to the Antarctic Treaty System, which of the following activities is prohibited in Antarctica?",
       "options": [
-        "It is the largest subglacial lake globally.",
-        "It is located above the continental ice sheet.",
-        "Its water is replaced every 100 years.",
-        "It is a freshwater lake only."
+        "Nuclear explosions",
+        "Tourism",
+        "Fishing",
+        "Scientific research"
       ],
       "answer_explanations": [
-        "Correct. The article states that Lake Vostok is the largest subglacial lake globally.",
-        "Incorrect. The article states that Lake Vostok lies beneath Russia's Vostok Station at the base of the continental ice sheet.",
-        "Incorrect. The article states that scientists estimate its water is replaced every 13,000 years, not every 100 years.",
-        "Incorrect. The article states that Antarctica has both saline and freshwater lakes, without specifying Lake Vostok as freshwater only."
+        "Correct. The article says 'military activity, mining, nuclear explosions, and nuclear waste disposal are all prohibited in Antarctica.'",
+        "Incorrect. The article states that 'Tourism, fishing and research are the main human activities in and around Antarctica.'",
+        "Incorrect. The article states that 'Tourism, fishing and research are the main human activities in and around Antarctica.'",
+        "Incorrect. The article states that 'Tourism, fishing and research are the main human activities in and around Antarctica.'"
       ]
     },
     {
       "id": 5,
-      "question": "Which explorer first reached the geographic South Pole?",
+      "question": "What does the name 'Antarctica' mean, according to the etymology section?",
       "options": [
-        "Roald Amundsen",
-        "Douglas Mawson",
-        "Fabian Gottlieb von Bellingshausen",
-        "Matthew Flinders"
+        "Opposite to the Arctic",
+        "Land of ice",
+        "Southern land",
+        "Cold continent"
       ],
       "answer_explanations": [
-        "Correct. The article states that the geographic South Pole was first reached in 1911 by Norwegian explorer Roald Amundsen.",
-        "Incorrect. The article identifies Douglas Mawson as one of the first to reach the magnetic South Pole in 1909, not the geographic South Pole.",
-        "Incorrect. The article states that Fabian Gottlieb von Bellingshausen led an expedition that probably first saw the ice shelves in 1820.",
-        "Incorrect. The article mentions Matthew Flinders in the etymology section regarding the name Terra Australis, not as reaching the South Pole."
+        "Correct. The article explains that the name comes from the word 'antarctic', meaning 'opposite to the Arctic'.",
+        "Incorrect. The article does not define the name as 'Land of ice'.",
+        "Incorrect. The article does not define the name as 'Southern land'.",
+        "Incorrect. The article does not define the name as 'Cold continent'."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article say about the population of Antarctica?",
+      "question": "Which is the longest river in Antarctica?",
       "options": [
-        "It is Earth's least-populated continent.",
-        "It has a permanent population of over one million.",
-        "It is the most densely populated continent.",
-        "It has no human inhabitants at any time."
+        "Onyx River",
+        "Victoria River",
+        "Ross River",
+        "Erebus River"
       ],
       "answer_explanations": [
-        "Correct. The article describes Antarctica as Earth's southernmost and least-populated continent.",
-        "Incorrect. The article states that about 5,000 people reside at research stations in summer and around 1,000 in winter, not over one million.",
-        "Incorrect. The article describes Antarctica as the least-populated continent, not the most densely populated.",
-        "Incorrect. The article notes that thousands of people reside at research stations seasonally."
+        "Correct. The article states that 'Rivers exist in Antarctica; the longest is the Onyx River.'",
+        "Incorrect. The article names the Onyx River as the longest, not the Victoria River.",
+        "Incorrect. The article names the Onyx River as the longest, not the Ross River.",
+        "Incorrect. The article names the Onyx River as the longest, not the Erebus River."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is the highest peak in Antarctica?",
+      "question": "What is the highest peak in Antarctica?",
       "options": [
         "Vinson Massif",
         "Mount Erebus",
         "Dome Argus",
-        "Transantarctic Mountains"
+        "Mount Kirkpatrick"
       ],
       "answer_explanations": [
-        "Correct. The article states that Vinson Massif is the highest peak in Antarctica at 4,892 m.",
-        "Incorrect. The article describes Mount Erebus as the world's southernmost active volcano, not the highest peak.",
-        "Incorrect. The article describes Dome Argus as the highest Antarctic ice feature, not the highest peak.",
-        "Incorrect. The article describes the Transantarctic Mountains as a mountain range dividing West and East Antarctica, not as the highest peak."
+        "Correct. The article states that 'Vinson Massif, in the Ellsworth Mountains, is the highest peak in Antarctica at 4,892 m (16,050 ft).'",
+        "Incorrect. Mount Erebus is described as the world's southernmost active volcano, not the highest peak.",
+        "Incorrect. Dome Argus is described as the highest Antarctic ice feature, not the highest peak.",
+        "Incorrect. The article does not mention Mount Kirkpatrick as the highest peak."
       ]
     },
     {
       "id": 8,
-      "question": "What effect does the melting of the West Antarctic ice sheet have according to the article?",
+      "question": "During the Paleozoic era, what type of climate did Antarctica have?",
       "options": [
-        "It causes the most uncertainty in century-scale projections of sea level rise.",
-        "It increases the continent's average elevation.",
-        "It strengthens the Southern Ocean overturning circulation.",
-        "It reduces pollution in the Southern Ocean."
+        "It was partly in the tropics and later at high temperate latitudes",
+        "It was always covered in thick ice",
+        "It was a hot desert",
+        "It had a tropical rainforest climate"
       ],
       "answer_explanations": [
-        "Correct. The article states that the melting of the potentially unstable West Antarctic ice sheet causes the most uncertainty in century-scale projections of sea level rise.",
-        "Incorrect. The article does not state that melting increases the continent's average elevation.",
-        "Incorrect. The article states that melting affects the Southern Ocean overturning circulation, potentially leading to significant impacts, not strengthening it.",
-        "Incorrect. The article lists pollution as a human activity affecting Antarctica, not something reduced by ice sheet melting."
+        "Correct. The article says 'From the Cambrian to the Devonian, Antarctica drifted to from being situated in the tropics to being situated at high temperate latitudes'.",
+        "Incorrect. The article mentions that Antarctica became glaciated only later, during the Late Paleozoic icehouse.",
+        "Incorrect. The article does not describe Antarctica as a hot desert during the Paleozoic.",
+        "Incorrect. The article does not describe a tropical rainforest climate for the entire Paleozoic."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following best describes the origin of the name Antarctica?",
+      "question": "Which supercontinent did Antarctica belong to before it broke apart?",
       "options": [
-        "It comes from Greek roots meaning 'opposite to the north'.",
-        "It was named after the explorer Roald Amundsen.",
-        "It derives from a word meaning 'land of ice'.",
-        "It was first used by the Russian expedition of 1820."
+        "Gondwana",
+        "Pangaea",
+        "Laurasia",
+        "Rodinia"
       ],
       "answer_explanations": [
-        "Correct. The article explains that the name comes from Greek anti- and arktikos, meaning 'opposite to the north'.",
-        "Incorrect. The article does not state that the name was named after Roald Amundsen.",
-        "Incorrect. The article does not state that the name derives from a word meaning 'land of ice'.",
-        "Incorrect. The article attributes the first use of the name Antarctica to the Scottish cartographer John George Bartholomew in the 1890s."
+        "Correct. The article states that 'From the end of the Neoproterozoic era to the Cretaceous, Antarctica was part of the supercontinent Gondwana.'",
+        "Incorrect. The article specifically names Gondwana, not Pangaea.",
+        "Incorrect. The article specifically names Gondwana, not Laurasia.",
+        "Incorrect. The article specifically names Gondwana, not Rodinia."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what was Antarctica's climate like for a large proportion of the Phanerozoic?",
+      "question": "What is the world's southernmost active volcano, according to the article?",
       "options": [
-        "Relatively temperate",
-        "Consistently frozen",
-        "Extremely arid",
-        "Uniformly tropical"
+        "Mount Erebus",
+        "Vinson Massif",
+        "Mount Sidley",
+        "Mount Siple"
       ],
       "answer_explanations": [
-        "Correct. The article states that for a large proportion of the Phanerozoic, Antarctica had a relatively temperate climate.",
-        "Incorrect. The article states that Antarctica had a relatively temperate climate for much of the Phanerozoic, not that it was consistently frozen.",
-        "Incorrect. The article describes Antarctica as a polar desert today, but states it had a relatively temperate climate for much of the Phanerozoic.",
-        "Incorrect. The article states the climate was relatively temperate, not uniformly tropical."
+        "Correct. The article states that 'Mount Erebus on Ross Island is the world's southernmost active volcano and erupts around 10 times each day.'",
+        "Incorrect. Vinson Massif is the highest peak, not the southernmost active volcano.",
+        "Incorrect. The article does not mention Mount Sidley as the southernmost active volcano.",
+        "Incorrect. The article does not mention Mount Siple as the southernmost active volcano."
       ]
     }
   ]

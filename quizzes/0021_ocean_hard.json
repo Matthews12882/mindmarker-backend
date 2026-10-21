@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which ocean is described as the \"huge reservoir of heat\" for Earth's energy budget?",
+      "question": "What does the article imply about the relationship between the ocean's role in photosynthesis and the origin of Earth's atmospheric oxygen?",
       "options": [
-        "The ocean",
-        "The Pacific Ocean",
-        "The Atlantic Ocean",
-        "The Indian Ocean"
+        "The ocean is credited with originating photosynthesis, which in turn produced Earth's atmospheric oxygen, and it still contributes half of the current oxygen supply.",
+        "The ocean's role in photosynthesis is limited to the photic zone, but atmospheric oxygen predates the ocean's existence.",
+        "Photosynthesis in the ocean only began after Earth's atmospheric oxygen was already present, making the ocean a secondary contributor.",
+        "The ocean's photosynthetic activity is a recent development, unrelated to the historical rise of atmospheric oxygen."
       ],
       "answer_explanations": [
-        "Correct. The article states that the ocean acts as a huge reservoir of heat for Earth's energy budget.",
-        "Incorrect. While the Pacific Ocean is the largest, the article specifically credits the ocean as the heat reservoir.",
-        "Incorrect. The Atlantic Ocean is not described as the primary heat reservoir.",
-        "Incorrect. The Indian Ocean is not described as the primary heat reservoir."
+        "Correct. The article states the ocean 'originated photosynthesis and therefore Earth's atmospheric oxygen, and still supplies half of it,' implying a direct causal link from oceanic photosynthesis to atmospheric oxygen, with a continuing significant contribution.",
+        "Incorrect. The article explicitly credits the ocean with originating photosynthesis and atmospheric oxygen, not the reverse, and does not suggest atmospheric oxygen predated the ocean.",
+        "Incorrect. The article indicates the ocean originated photosynthesis, which then led to atmospheric oxygen, not that oxygen came first.",
+        "Incorrect. The article states the ocean still supplies half of atmospheric oxygen, indicating its photosynthetic role is ongoing and historically foundational, not recent or unrelated."
       ]
     },
     {
       "id": 2,
-      "question": "What is the depth at which light intensity is only 1% of the surface value, defining the lower limit of the photic zone?",
+      "question": "Based on the article, what is the most significant implication of the ocean's role as a 'huge reservoir of heat' for Earth's energy budget?",
       "options": [
-        "200 meters",
-        "500 meters",
-        "1,000 meters",
-        "2,000 meters"
+        "It means the ocean can absorb and store large amounts of heat, thereby influencing global climate and weather patterns.",
+        "It implies the ocean's heat content is irrelevant to atmospheric conditions.",
+        "It suggests the ocean's heat storage is confined to the tropics, with no effect elsewhere.",
+        "It indicates the ocean's heat reservoir is only important for deep-sea life, not for surface climate."
       ],
       "answer_explanations": [
-        "Correct. The article defines the photic zone's lower limit as approximately 200 m in the open ocean where light intensity is 1% of the surface value.",
-        "Incorrect. 500 meters is deeper than the described limit.",
-        "Incorrect. 1,000 meters is deeper than the described limit.",
-        "Incorrect. 2,000 meters is deeper than the described limit."
+        "Correct. The article says the ocean acts as a 'huge reservoir of heat' for Earth's energy budget, 'forming the basis for climate and weather patterns worldwide,' implying its heat storage capacity is a primary driver of global climate.",
+        "Incorrect. The article explicitly links the ocean's heat reservoir to the energy budget and global climate, not to irrelevance.",
+        "Incorrect. The article describes the ocean's heat reservoir as affecting 'climate and weather patterns worldwide,' not just tropical regions.",
+        "Incorrect. The article connects the heat reservoir to the global energy budget and climate, not just to deep-sea life."
       ]
     },
     {
       "id": 3,
-      "question": "Which vertical zone is characterized by being cold and dark, and lies below the photic zone?",
+      "question": "How does the article's description of the photic zone explain why it is the most biodiverse part of the ocean?",
       "options": [
-        "The mesopelagic zone",
-        "The epipelagic zone",
-        "The abyssopelagic zone",
-        "The bathypelagic zone"
+        "Because it is the only zone where photosynthesis can occur, producing the organic matter that forms the base of the ocean's food supply, thus sustaining most of the ecosystem.",
+        "Because it is the deepest zone, where pressure and darkness create unique conditions for diverse life.",
+        "Because it is the coldest zone, where species have adapted to extreme temperatures.",
+        "Because it is the zone with the least sunlight, allowing for specialized organisms that don't need light."
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the deeper ocean is cold and dark, and these zones are called mesopelagic and aphotic zones, with mesopelagic being one of them.",
-        "Incorrect. The epipelagic zone is the same as the photic zone, which is illuminated.",
-        "Incorrect. The abyssopelagic zone is deeper than mesopelagic but the article specifically names mesopelagic as part of the cold, dark deeper ocean.",
-        "Incorrect. The bathypelagic zone is also deeper but the article specifically names mesopelagic as part of the cold, dark deeper ocean."
+        "Correct. The article states the photic zone is where photosynthesis occurs, making it 'the source of the food supply that sustains most of the ocean ecosystem,' which directly explains its high biodiversity.",
+        "Incorrect. The photic zone is at the surface, not the deepest zone; deeper zones are described as cold and dark, not the photic zone.",
+        "Incorrect. The photic zone is defined by sunlight, not cold temperatures; deep ocean zones are cold.",
+        "Incorrect. The photic zone is defined by having sufficient light for photosynthesis, not by having the least sunlight."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following gases is NOT listed as a dissolved gas in ocean water?",
+      "question": "What conclusion can be drawn from the article's explanation of deep ocean temperatures and the factors that cause ocean currents?",
       "options": [
-        "Oxygen",
-        "Carbon dioxide",
-        "Nitrogen",
-        "Helium"
+        "The deep ocean's uniformly cold temperatures are maintained by constant circulation driven by forces like temperature and salinity differences, which also distribute heat and matter globally.",
+        "Deep ocean temperatures vary widely, and this variation is the sole cause of surface currents.",
+        "Ocean currents are caused only by wind and waves, with no influence from temperature or salinity.",
+        "The deep ocean's temperature is independent of circulation, and currents only affect surface waters."
       ],
       "answer_explanations": [
-        "Correct. The article lists oxygen, carbon dioxide, and nitrogen as dissolved gases, not helium.",
-        "Incorrect. Oxygen is listed as a dissolved gas.",
-        "Incorrect. Carbon dioxide is listed as a dissolved gas.",
-        "Incorrect. Nitrogen is listed as a dissolved gas."
+        "Correct. The article notes deep ocean temperatures are consistently between -2Â°C and 5Â°C, and that 'constant circulation of water' creates currents caused by 'temperature and salinity differences,' among other forces, which transport heat and matter, implying circulation maintains these cold conditions and drives global distribution.",
+        "Incorrect. The article states deep ocean temperatures are in a narrow range, not widely varying, and currents are caused by multiple factors, not just temperature variation.",
+        "Incorrect. The article lists temperature and salinity differences, atmospheric circulation, and the Coriolis effect as causes, not just wind and waves.",
+        "Incorrect. The article says currents transport water 'from the surface into the deep ocean,' indicating they affect deep waters, not just surface waters."
       ]
     },
     {
       "id": 5,
-      "question": "What term describes the process by which the ocean's surface absorbs CO2, leading to a drop in pH?",
+      "question": "What does the article imply about the relationship between rising atmospheric CO2 and ocean acidification?",
       "options": [
-        "Ocean acidification",
-        "Sea level rise",
-        "Thermal stratification",
-        "Upwelling"
+        "Higher atmospheric CO2 leads to increased absorption by the ocean, which causes a drop in pH, i.e., ocean acidification.",
+        "Ocean acidification is caused by a decrease in atmospheric CO2, which reduces the ocean's ability to buffer.",
+        "Rising CO2 in the atmosphere has no effect on ocean chemistry.",
+        "Ocean acidification is solely caused by natural volcanic emissions, not human-induced CO2."
       ],
       "answer_explanations": [
-        "Correct. The article states that as oceans absorb CO2, a higher concentration leads to ocean acidification (a drop in pH value).",
-        "Incorrect. Sea level rise is a separate effect of climate change.",
-        "Incorrect. Thermal stratification refers to layering of water by temperature.",
-        "Incorrect. Upwelling is the process of deep water rising to the surface."
+        "Correct. The article states that as the ocean absorbs CO2 from the atmosphere, 'a higher concentration leads to ocean acidification (a drop in pH value),' directly linking rising atmospheric CO2 to increased absorption and acidification.",
+        "Incorrect. The article links higher atmospheric CO2 to acidification, not a decrease in CO2.",
+        "Incorrect. The article explicitly states that the ocean absorbs CO2 and that higher concentrations lead to acidification.",
+        "Incorrect. The article attributes rising CO2 to 'fossil fuel combustion' and does not mention volcanic emissions as the cause."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following is identified as a major ocean current?",
+      "question": "Based on the article, what is the key reason the concept of the 'World Ocean' is critical in oceanography?",
       "options": [
-        "The Gulf Stream",
-        "The Amazon River",
-        "The Mississippi River",
-        "The Nile River"
+        "It emphasizes the global, interconnected nature of the ocean with relatively unrestricted exchange between its components, which is essential for understanding oceanographic processes.",
+        "It refers only to the five named oceans as separate entities with no interaction.",
+        "It is a historical term from medieval Europe that has no modern scientific relevance.",
+        "It describes only the surface waters, ignoring the deep ocean."
       ],
       "answer_explanations": [
-        "Correct. The article lists the Gulf Stream as one of the major ocean currents.",
-        "Incorrect. The Amazon River is a river, not an ocean current.",
-        "Incorrect. The Mississippi River is a river, not an ocean current.",
-        "Incorrect. The Nile River is a river, not an ocean current."
+        "Correct. The article states the concept of 'a continuous body of water with relatively unrestricted exchange between its components is critical in oceanography,' highlighting its importance for understanding the ocean as a unified system.",
+        "Incorrect. The article defines the World Ocean as a continuous, interconnected body, not as separate entities.",
+        "Incorrect. The article notes the contemporary term was coined in the early 20th century and is used in modern oceanography, not just a historical term.",
+        "Incorrect. The article describes the World Ocean as the 'global ocean' covering most of Earth, not limited to surface waters."
       ]
     },
     {
       "id": 7,
-      "question": "Which term refers to the zone where photosynthesis can occur?",
+      "question": "What does the article's discussion of the origin of water suggest about the early Earth's oceans and their conditions?",
       "options": [
-        "The photic zone",
-        "The aphotic zone",
-        "The abyssal zone",
-        "The hadal zone"
+        "The early oceans may have been hotter and appeared green due to high iron content, and they formed after Earth's surface cooled enough for water vapor to condense.",
+        "The early oceans were colder than today, with no evidence of liquid water until recent geological periods.",
+        "The early oceans formed before Earth's surface cooled, directly from magma oceans.",
+        "The early oceans had the same temperature and color as modern oceans, with no significant changes."
       ],
       "answer_explanations": [
-        "Correct. The article defines the photic zone as the zone where photosynthesis can occur.",
-        "Incorrect. The aphotic zone is below the photic zone and lacks sufficient light for photosynthesis.",
-        "Incorrect. The abyssal zone is deeper and dark.",
-        "Incorrect. The hadal zone is the deepest trench region."
+        "Correct. The article states that after Earth's surface cooled, water vapor condensed to form the first oceans, and 'the early oceans might have been significantly hotter than today and appeared green due to high iron content.'",
+        "Incorrect. The article suggests early oceans were hotter, not colder, and provides evidence of liquid water 3.8 billion years ago.",
+        "Incorrect. The article says oceans formed after the surface cooled, not directly from magma oceans.",
+        "Incorrect. The article explicitly notes early oceans were hotter and green, differing from today's oceans."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following best describes the concept of the World Ocean?",
+      "question": "What implication can be drawn from the article's comparison of sea levels during the last ice age and the last warm spell?",
       "options": [
-        "A continuous body of salt water covering most of Earth's surface",
-        "A collection of separate seas with no connection",
-        "A freshwater lake system",
-        "A man-made reservoir"
+        "Sea levels have varied significantly with climate, being about 122 meters lower during the last ice age and about 5.5 meters higher during the last warm spell, indicating a strong link between global temperature and sea level.",
+        "Sea levels have remained constant throughout Earth's history, with no major fluctuations.",
+        "The last ice age had higher sea levels than today, while the last warm spell had lower sea levels.",
+        "Sea level changes are solely caused by local land movements, not by global climate changes."
       ],
       "answer_explanations": [
-        "Correct. The article describes the World Ocean as the global, interconnected body of salt water, sometimes referred to as the global ocean or great ocean.",
-        "Incorrect. The World Ocean is interconnected, not separate seas.",
-        "Incorrect. It is salt water, not freshwater.",
-        "Incorrect. It is a natural ocean, not a man-made reservoir."
+        "Correct. The article states that during the last ice age, oceans were about 122 m lower, and during the last warm spell, they were about 5.5 m higher, implying that climate-driven ice melt and formation directly affect sea levels.",
+        "Incorrect. The article provides specific examples of significant sea level variations, not constancy.",
+        "Incorrect. The article states the ice age had lower sea levels and the warm spell had higher sea levels, the opposite of this option.",
+        "Incorrect. The article attributes sea level changes to global ice caps and glaciers, not local land movements."
       ]
     },
     {
       "id": 9,
-      "question": "What is the approximate surface temperature of the ocean in the tropics?",
+      "question": "What does the article's description of the ocean's horizontal and vertical zones imply about the impact of human activity?",
       "options": [
-        "Over 30Â°C (86Â°F)",
-        "Below 0Â°C (32Â°F)",
-        "Around 10Â°C (50Â°F)",
-        "Around 20Â°C (68Â°F)"
+        "Human activity is mostly coastal, with high negative impacts on marine life, and the continental shelf and coastal waters are most affected, implying that human influence is concentrated in shallow, nearshore areas.",
+        "Human activity is evenly distributed across all ocean zones, with no particular concentration.",
+        "Human activity primarily affects the deep pelagic zones, far from coastlines.",
+        "Human activity has no negative impacts on marine life, as the ocean is too vast to be affected."
       ],
       "answer_explanations": [
-        "Correct. The article states that in the tropics, surface temperatures can rise to over 30Â°C (86Â°F).",
-        "Incorrect. Below 0Â°C occurs near the poles, not the tropics.",
-        "Incorrect. Around 10Â°C is cooler than tropical surface temperatures.",
-        "Incorrect. Around 20Â°C is cooler than tropical surface temperatures."
+        "Correct. The article states 'Human activity is mostly coastal, with high negative impacts on marine life,' and later notes 'The continental shelf and coastal waters are most affected by human activity,' implying a concentration of impact in shallow, nearshore regions.",
+        "Incorrect. The article explicitly says human activity is mostly coastal, not evenly distributed.",
+        "Incorrect. The article says human activity is mostly coastal, not focused on deep pelagic zones.",
+        "Incorrect. The article lists 'marine pollution, overfishing, and the effects of climate change' as threats, indicating significant negative impacts."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is a major environmental threat to the ocean mentioned in the article?",
+      "question": "Based on the article's etymology and historical context, what can be inferred about the evolution of the concept of the ocean?",
       "options": [
-        "Marine pollution",
-        "Volcanic activity",
-        "Solar radiation",
-        "Meteor impacts"
+        "The concept evolved from a mythological river encircling the world in classical antiquity to a scientifically defined, interconnected global body of water in the 20th century.",
+        "The concept has remained unchanged since ancient times, with no scientific refinement.",
+        "The term 'ocean' was first used in the early 20th century, with no earlier mythological or historical roots.",
+        "The ancient Greeks and Romans already had a precise scientific understanding of the ocean as a global, interconnected system."
       ],
       "answer_explanations": [
-        "Correct. The article lists marine pollution as one of the environmental threats.",
-        "Incorrect. Volcanic activity is not listed as a major threat.",
-        "Incorrect. Solar radiation is not listed as a major threat.",
-        "Incorrect. Meteor impacts are not listed as a major threat."
+        "Correct. The article traces the word 'ocean' to the mythological figure Oceanus, believed to be a river encircling the world, and then notes the contemporary term 'World Ocean' was coined in the early 20th century to refer to the continuous ocean, showing an evolution from myth to science.",
+        "Incorrect. The article shows a clear evolution from mythological to scientific understanding, not constancy.",
+        "Incorrect. The article states the word comes from classical antiquity, not the 20th century.",
+        "Incorrect. The article says the ancient Greeks and Romans believed Oceanus was a divine river, not a scientific concept."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the defining structural difference between prokaryotic and eukaryotic cells?",
+      "question": "What is the cell described as in the article?",
       "options": [
-        "Prokaryotic cells lack a membrane-bound nucleus, whereas eukaryotic cells have one.",
-        "Prokaryotic cells are always multicellular, whereas eukaryotic cells are always single-celled.",
-        "Prokaryotic cells contain mitochondria, whereas eukaryotic cells do not.",
-        "Prokaryotic cells have linear chromosomes, whereas eukaryotic cells have circular chromosomes."
+        "The basic structural and functional unit of all forms of life",
+        "The largest unit in all living organisms",
+        "A structure found only in animals",
+        "A type of microorganism"
       ],
       "answer_explanations": [
-        "Correct. The article states that prokaryotes lack a membrane-bound nucleus and have a nucleoid instead, while eukaryotic cells have a nucleus enclosed in the nuclear membrane.",
-        "Incorrect. The article states that prokaryotes are single-celled, while eukaryotes can be single-celled or multicellular.",
-        "Incorrect. Mitochondria are described as membrane-bound organelles found in eukaryotic cells, not prokaryotic cells.",
-        "Incorrect. The table indicates that Archaea and Bacteria have circular chromosomes, while Eukaryota have multiple linear chromosomes."
+        "Correct. The article states, \"The **cell** is the basic structural and functional unit of all [forms of life] or [organisms].\"",
+        "Incorrect. The article describes the cell as the basic unit, not the largest unit.",
+        "Incorrect. The article says cells are the basic unit of all forms of life, not just animals.",
+        "Incorrect. The article defines a cell as a structural unit of organisms, not as a type of microorganism itself."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following best describes the composition of a typical biological cell?",
+      "question": "According to the article, which two groups are all organisms divided into?",
       "options": [
-        "A semipermeable cell membrane enclosing cytoplasm that contains genetic material.",
-        "A rigid cell wall enclosing a nucleus and mitochondria.",
-        "A proteinaceous shell surrounding a nucleoid region only.",
-        "A gelatinous capsule containing chloroplasts and ribosomes."
+        "Prokaryotes and eukaryotes",
+        "Plants and animals",
+        "Bacteria and archaea",
+        "Single-celled and multicellular"
       ],
       "answer_explanations": [
-        "Correct. The article states that a biological cell basically consists of a semipermeable cell membrane enclosing cytoplasm that contains genetic material.",
-        "Incorrect. While some cells have cell walls, the basic definition given is a cell membrane enclosing cytoplasm, not a wall enclosing a nucleus and mitochondria.",
-        "Incorrect. A nucleoid region is specific to prokaryotes and is not surrounded by a proteinaceous shell as the basic cell definition.",
-        "Incorrect. Chloroplasts are found only in plant cells, and a gelatinous capsule is an optional bacterial layer, not part of the basic cell definition."
+        "Correct. The article states, \"All organisms are grouped into [prokaryotes] and [eukaryotes].\"",
+        "Incorrect. The article groups all organisms into prokaryotes and eukaryotes, not plants and animals.",
+        "Incorrect. Bacteria and archaea are types of prokaryotes, not the main groups of all organisms.",
+        "Incorrect. While organisms can be single-celled or multicellular, the main grouping mentioned is prokaryotes and eukaryotes."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following organisms are classified as multicellular eukaryotes?",
+      "question": "What do prokaryotic cells lack that eukaryotic cells have?",
       "options": [
-        "Animals, plants, some fungi, and some algae.",
-        "Bacteria and archaea only.",
-        "All protists and yeasts.",
-        "Only animals and plants."
+        "A membrane-bound nucleus",
+        "A cell membrane",
+        "Cytoplasm",
+        "Genetic material"
       ],
       "answer_explanations": [
-        "Correct. The article lists animals, plants, some species of fungi, and some species of algae as multicellular eukaryotes.",
-        "Incorrect. Bacteria and archaea are prokaryotes, not eukaryotes.",
-        "Incorrect. The article describes single-celled eukaryotes as including most protists and some fungi such as yeasts, not multicellular ones.",
-        "Incorrect. The article also includes some fungi and some algae as multicellular eukaryotes, not only animals and plants."
+        "Correct. The article mentions, \"Prokaryotes lack a [membrane-bound] [nucleus]... In eukaryotic cells, the nucleus is enclosed in the [nuclear membrane].\"",
+        "Incorrect. Both prokaryotic and eukaryotic cells have a cell membrane.",
+        "Incorrect. Both types of cells contain cytoplasm.",
+        "Incorrect. Both types of cells contain genetic material."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what is the role of mitochondria in eukaryotic cells?",
+      "question": "Who discovered cells in 1665?",
       "options": [
-        "They provide energy for cell functions.",
-        "They create sugars by photosynthesis.",
-        "They store genetic material in a nucleoid region.",
-        "They synthesize proteins using formylmethionine."
+        "Robert Hooke",
+        "Matthias Jakob Schleiden",
+        "Theodor Schwann",
+        "Antonie van Leeuwenhoek"
       ],
       "answer_explanations": [
-        "Correct. The article states that mitochondria provide energy for cell functions.",
-        "Incorrect. Chloroplasts, not mitochondria, create sugars by photosynthesis in plants.",
-        "Incorrect. The nucleoid region is found in prokaryotes, not in mitochondria.",
-        "Incorrect. Formylmethionine is associated with protein synthesis initiation in Bacteria, not mitochondria."
+        "Correct. The article states, \"Cells were discovered by [Robert Hooke] in 1665.\"",
+        "Incorrect. Matthias Jakob Schleiden contributed to cell theory in 1838, but did not discover cells.",
+        "Incorrect. Theodor Schwann contributed to cell theory in 1839, but did not discover cells.",
+        "Incorrect. The article does not mention Antonie van Leeuwenhoek in relation to the discovery of cells."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is true about somatic cells in animals and plants?",
+      "question": "What is the main component of a bacterial cell wall?",
       "options": [
-        "They are diploid cells that make up the body and exclude gametes.",
-        "They are haploid cells that function as gametes.",
-        "They are found only in prokaryotic organisms.",
-        "They lack genetic material and cannot replicate."
+        "Peptidoglycan",
+        "Ether-linked lipids",
+        "Cellulose",
+        "Glycoprotein"
       ],
       "answer_explanations": [
-        "Correct. The article states that diploid cells making up the body of an animal or plant are known as somatic cells, which excludes haploid gametes.",
-        "Incorrect. Gametes are haploid and are explicitly excluded from somatic cells.",
-        "Incorrect. Somatic cells are part of multicellular eukaryotes such as animals and plants, not prokaryotes.",
-        "Incorrect. Somatic cells are diploid body cells and contain genetic material; the article notes most cells are capable of replication."
+        "Correct. The article states, \"The cell wall consists of [peptidoglycan] and acts as an additional barrier against exterior forces.\"",
+        "Incorrect. Ether-linked lipids are a feature of archaeal cell membranes, not the main component of bacterial cell walls.",
+        "Incorrect. The article does not mention cellulose as a component of bacterial cell walls.",
+        "Incorrect. Glycoprotein is listed as a component of archaeal cell walls, not bacterial cell walls."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article say about the size of most prokaryotes?",
+      "question": "What is the name of the unique membrane-bound organelle found in magnetotactic bacteria?",
       "options": [
-        "Most range from 0.1 to 5.0 micrometers in diameter.",
-        "Most are visible to the naked eye at 1 centimeter in length.",
-        "Most are 2 to 100 times larger than eukaryotic cells.",
-        "Most exceed 5.0 micrometers in diameter."
+        "Magnetosome",
+        "Anammoxosome",
+        "Carboxysome",
+        "Nucleoid"
       ],
       "answer_explanations": [
-        "Correct. The article states that most prokaryotes range from 0.1 to 5.0 Î¼m in diameter.",
-        "Incorrect. Only the largest known bacterium, Thiomargarita magnifica, is visible to the naked eye; most prokaryotes are microscopic.",
-        "Incorrect. The article states eukaryotic cells can be 2 to 100 times larger than typical prokaryotic cells, not the reverse.",
-        "Incorrect. The article gives the typical range as 0.1 to 5.0 Î¼m, not exceeding 5.0 Î¼m."
+        "Correct. The article mentions, \"A unique membrane-bound [prokaryotic organelle], the [magnetosome] has been discovered in [magnetotactic bacteria].\"",
+        "Incorrect. The anammoxosome is found in anammox bacteria, not specifically magnetotactic bacteria.",
+        "Incorrect. Carboxysomes are protein-based microcompartments, not membrane-bound organelles.",
+        "Incorrect. The nucleoid is the region containing the DNA, not a membrane-bound organelle."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is a unique membrane-bound prokaryotic organelle mentioned in the article?",
+      "question": "What is a unique form of metabolism found in archaea?",
       "options": [
-        "Magnetosome.",
-        "Ribosome.",
-        "Nucleus.",
-        "Chloroplast."
+        "Methanogenesis",
+        "Photosynthesis",
+        "Diazotrophy",
+        "Fermentation"
       ],
       "answer_explanations": [
-        "Correct. The article describes the magnetosome as a unique membrane-bound prokaryotic organelle discovered in magnetotactic bacteria.",
-        "Incorrect. Ribosomes are described as membrane-less organelles present in both prokaryotes and eukaryotes.",
-        "Incorrect. The nucleus is a membrane-bound organelle found in eukaryotes; prokaryotes lack a nucleus.",
-        "Incorrect. Chloroplasts are membrane-bound organelles found in plant cells, which are eukaryotic."
+        "Correct. The article states, \"A unique form of metabolism in the archaean is [methanogenesis].\"",
+        "Incorrect. Photosynthesis is listed as a metabolism for bacteria and eukaryotes, but not as unique to archaea.",
+        "Incorrect. Diazotrophy is listed for bacteria and archaea, but not as unique to archaea.",
+        "Incorrect. Fermentation is listed for bacteria and eukaryotes, but not as unique to archaea."
       ]
     },
     {
       "id": 8,
-      "question": "Which statement accurately describes archaeal cell membranes based on the article?",
+      "question": "Which of the following is NOT a type of cell-surface appendage mentioned for bacteria?",
       "options": [
-        "They consist of ether-linked lipids.",
-        "They consist of ester-linked lipids.",
-        "They are identical to bacterial cell membranes.",
-        "They lack a plasma membrane entirely."
+        "Mitochondria",
+        "Flagella",
+        "Pili",
+        "Fimbriae"
       ],
       "answer_explanations": [
-        "Correct. The article states that the cell membranes of archaea are unique, consisting of ether-linked lipids.",
-        "Incorrect. Ester-linked lipids are found in Bacteria and Eukaryota, not Archaea, according to the table.",
-        "Incorrect. The article highlights unique features of archaeal membranes, such as ether-linked lipids, distinguishing them from bacteria.",
-        "Incorrect. Archaea are enclosed in a cell envelope consisting of a plasma membrane and a cell wall, with rare exceptions such as Thermoplasma."
+        "Correct. Mitochondria are membrane-bound organelles that provide energy, not cell-surface appendages. The article mentions flagella, pili, and fimbriae as cell-surface appendages.",
+        "Incorrect. The article states, \"[Cell-surface appendages] can include [flagella], and [pili].\"",
+        "Incorrect. The article states, \"[Cell-surface appendages] can include [flagella], and [pili].\"",
+        "Incorrect. The article mentions, \"[Fimbriae] are short attachment pili.\""
       ]
     },
     {
       "id": 9,
-      "question": "What does cell theory state about the origin of cells?",
+      "question": "What is the approximate diameter range of most prokaryotes?",
       "options": [
-        "All cells come from pre-existing cells.",
-        "Cells arise spontaneously from nonliving matter.",
-        "Only eukaryotic cells come from pre-existing cells.",
-        "Cells originate from viruses."
+        "0.1 to 5.0 Î¼m",
+        "10 to 100 Î¼m",
+        "1 to 2 cm",
+        "0.01 to 0.05 Î¼m"
       ],
       "answer_explanations": [
-        "Correct. The article states that cell theory includes the principle that all cells come from pre-existing cells.",
-        "Incorrect. The article does not support spontaneous generation; cell theory states cells come from pre-existing cells.",
-        "Incorrect. Cell theory applies to all organisms, not only eukaryotes.",
-        "Incorrect. The article does not mention viruses as the origin of cells."
+        "Correct. The article states, \"Most prokaryotes are the smallest of all organisms, ranging from 0.1 to 5.0 Î¼m in diameter.\"",
+        "Incorrect. This range is more typical of eukaryotic cells, which can be 2 to 100 times larger in diameter than prokaryotes.",
+        "Incorrect. This is the size of the largest known bacterium, Thiomargarita magnifica, not most prokaryotes.",
+        "Incorrect. This range is smaller than the typical size of prokaryotes mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following best describes the difference in protein synthesis initiation between Archaea and Bacteria?",
+      "question": "According to the article, what is the function of the cell wall in bacteria?",
       "options": [
-        "Archaea use methionine, while Bacteria use formylmethionine.",
-        "Archaea use formylmethionine, while Bacteria use methionine.",
-        "Both Archaea and Bacteria use methionine.",
-        "Both Archaea and Bacteria use formylmethionine."
+        "To protect the cell mechanically and chemically from its environment",
+        "To provide energy for cell functions",
+        "To create sugars by photosynthesis",
+        "To store genetic material"
       ],
       "answer_explanations": [
-        "Correct. The table shows that protein synthesis initiation uses methionine in Archaea and formylmethionine in Bacteria.",
-        "Incorrect. This reverses the amino acids listed in the table for Archaea and Bacteria.",
-        "Incorrect. The table lists different initiation amino acids for Archaea and Bacteria.",
-        "Incorrect. The table assigns formylmethionine only to Bacteria, not to both groups."
+        "Correct. The article states, \"The cell wall acts to protect the cell mechanically and chemically from its environment, and is an additional layer of protection to the cell membrane.\"",
+        "Incorrect. Providing energy is a function of mitochondria, not the cell wall.",
+        "Incorrect. Creating sugars by photosynthesis is a function of chloroplasts, not the cell wall.",
+        "Incorrect. Storing genetic material is a function of the nucleoid or nucleus, not the cell wall."
       ]
     }
   ]

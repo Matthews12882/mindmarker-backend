@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What years did Nelson Mandela serve as President of South Africa?",
+      "question": "When was Nelson Mandela born?",
       "options": [
-        "1994 to 1999",
-        "1990 to 1994",
-        "1991 to 1997",
-        "1998 to 1999"
+        "18 July 1918",
+        "5 December 2013",
+        "18 July 1917",
+        "5 December 1994"
       ],
       "answer_explanations": [
-        "Correct. The article states Mandela served as President of South Africa from 1994 to 1999.",
-        "Incorrect. The article does not say he served from 1990 to 1994; he was released from prison in 1990.",
-        "Incorrect. The article states he served as President of the African National Congress from 1991 to 1997, not as President of South Africa.",
-        "Incorrect. The article states he served as Secretary-General of the Non-Aligned Movement from 1998 to 1999, not as President of South Africa."
+        "Correct. The article states Nelson Mandela was born on 18 July 1918.",
+        "Incorrect. 5 December 2013 is the date of his death, not his birth.",
+        "Incorrect. The article gives 18 July 1918 as his birth date, not 1917.",
+        "Incorrect. 5 December 1994 is not mentioned as his birth date; he was born on 18 July 1918."
       ]
     },
     {
       "id": 2,
-      "question": "What was Nelson Mandela's role in South Africa's government?",
+      "question": "What position did Nelson Mandela hold from 1994 to 1999?",
       "options": [
-        "the country's first black head of state",
-        "the country's first white head of state",
-        "a provincial governor",
-        "a prime minister"
+        "President of South Africa",
+        "Secretary-General of the Non-Aligned Movement",
+        "President of the African National Congress Youth League",
+        "Prime Minister of South Africa"
       ],
       "answer_explanations": [
-        "Correct. The article describes Mandela as the country's first black head of state.",
-        "Incorrect. The article identifies Mandela as the first black head of state, not the first white head of state.",
-        "Incorrect. The article does not describe Mandela as a provincial governor.",
-        "Incorrect. The article describes Mandela as President, not prime minister."
+        "Correct. The article says he served as President of South Africa from 1994 to 1999.",
+        "Incorrect. He was Secretary-General of the Non-Aligned Movement from 1998 to 1999, not from 1994 to 1999.",
+        "Incorrect. He co-founded the Youth League in 1944, but did not serve as President of South Africa in that role.",
+        "Incorrect. The article does not mention him as Prime Minister; he was President of South Africa."
       ]
     },
     {
       "id": 3,
-      "question": "What political party did Nelson Mandela lead from 1991 to 1997?",
-      "options": [
-        "African National Congress",
-        "National Party",
-        "South African Communist Party",
-        "Non-Aligned Movement"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Mandela served as President of the African National Congress (ANC) party from 1991 to 1997.",
-        "Incorrect. The article identifies the National Party as the white-only government that established apartheid, not the party Mandela led.",
-        "Incorrect. The article says Mandela secretly joined the South African Communist Party, but he led the ANC from 1991 to 1997.",
-        "Incorrect. The article states Mandela served as Secretary-General of the Non-Aligned Movement from 1998 to 1999, not as its leader from 1991 to 1997."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "How many years did Nelson Mandela serve in prison?",
-      "options": [
-        "27 years",
-        "10 years",
-        "15 years",
-        "30 years"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Mandela served 27 years in prison.",
-        "Incorrect. The article states Mandela served 27 years in prison, not 10 years.",
-        "Incorrect. The article states Mandela served 27 years in prison, not 15 years.",
-        "Incorrect. The article states Mandela served 27 years in prison, not 30 years."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "Who released Nelson Mandela from prison in 1990?",
-      "options": [
-        "President F. W. de Klerk",
-        "President Thabo Mbeki",
-        "Chief Jongintaba Dalindyebo",
-        "Oliver Tambo"
-      ],
-      "answer_explanations": [
-        "Correct. The article states President F. W. de Klerk released Mandela in 1990.",
-        "Incorrect. The article states Thabo Mbeki succeeded Mandela as president in 1999, not that he released Mandela.",
-        "Incorrect. The article describes Chief Jongintaba Dalindyebo as Mandela's guardian during childhood, not as the president who released him.",
-        "Incorrect. The article describes Oliver Tambo as a close friend and comrade, not as the president who released Mandela."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "What did Mandela's government focus on dismantling?",
-      "options": [
-        "the legacy of apartheid",
-        "the legacy of colonialism",
-        "the legacy of communism",
-        "the legacy of capitalism"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Mandela's government focused on dismantling the legacy of apartheid.",
-        "Incorrect. The article does not say Mandela's government focused on dismantling the legacy of colonialism.",
-        "Incorrect. The article does not say Mandela's government focused on dismantling the legacy of communism.",
-        "Incorrect. The article does not say Mandela's government focused on dismantling the legacy of capitalism."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "In which village was Nelson Mandela born?",
-      "options": [
-        "Mvezo",
-        "Qunu",
-        "Johannesburg",
-        "Alice"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Mandela was born in the village of Mvezo.",
-        "Incorrect. The article states Mandela grew up in Qunu, but was born in Mvezo.",
-        "Incorrect. The article states Mandela worked as a lawyer in Johannesburg, but was born in Mvezo.",
-        "Incorrect. The article mentions Alice as the location of the University of Fort Hare, not as Mandela's birthplace."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "What English name was Nelson Mandela given by his teacher?",
+      "question": "What was Nelson Mandela's first name?",
       "options": [
         "Nelson",
         "Rolihlahla",
         "Madiba",
-        "Dalibunga"
+        "Thabo"
       ],
       "answer_explanations": [
-        "Correct. The article states Mandela's teacher, Miss Mdingane, gave him the English name Nelson.",
-        "Incorrect. The article states Rolihlahla was Mandela's given forename, a Xhosa term meaning 'troublemaker'.",
-        "Incorrect. The article states Madiba is Mandela's Xhosa clan name, not the English name given by his teacher.",
-        "Incorrect. The article states Dalibunga was a name given to Mandela after his circumcision ritual, not by his teacher."
+        "Correct. The article's title and first sentence call him Nelson Mandela, with Nelson as his first name.",
+        "Incorrect. Rolihlahla is his middle name, not his first name.",
+        "Incorrect. Madiba is his Xhosa clan name, mentioned later in the lead, but his first name is Nelson.",
+        "Incorrect. Thabo Mbeki was his deputy, not his first name."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which political party did Nelson Mandela lead as President?",
+      "options": [
+        "African National Congress (ANC)",
+        "National Party",
+        "South African Communist Party (SACP)",
+        "Transvaal Branch"
+      ],
+      "answer_explanations": [
+        "Correct. The article states he served as President of the African National Congress (ANC) party from 1991 to 1997.",
+        "Incorrect. The National Party established apartheid; Mandela led the ANC, not the National Party.",
+        "Incorrect. He secretly joined the SACP, but he was President of the ANC, not the SACP.",
+        "Incorrect. Transvaal Branch is a branch of the ANC, not a separate party he led as President."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Where was Nelson Mandela born?",
+      "options": [
+        "Mvezo",
+        "Johannesburg",
+        "Robben Island",
+        "Fort Hare"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Mandela was born in Mvezo.",
+        "Incorrect. Johannesburg is where he worked as a lawyer, not his birthplace.",
+        "Incorrect. Robben Island is where he was imprisoned, not his birthplace.",
+        "Incorrect. Fort Hare is where he studied law, not his birthplace."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "In what year did Nelson Mandela join the ANC?",
+      "options": [
+        "1943",
+        "1944",
+        "1952",
+        "1961"
+      ],
+      "answer_explanations": [
+        "Correct. The article states he joined the ANC in 1943.",
+        "Incorrect. 1944 is the year he co-founded the Youth League, not when he joined the ANC.",
+        "Incorrect. 1952 is when he was involved in the Defiance Campaign, not when he joined the ANC.",
+        "Incorrect. 1961 is when he co-founded Umkhonto we Sizwe, not when he joined the ANC."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What did Nelson Mandela study at the University of Fort Hare and the University of the Witwatersrand?",
+      "options": [
+        "Law",
+        "Medicine",
+        "Engineering",
+        "Economics"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he studied law at both universities.",
+        "Incorrect. The article does not mention him studying medicine.",
+        "Incorrect. The article does not mention him studying engineering.",
+        "Incorrect. The article does not mention him studying economics."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How many years did Nelson Mandela serve in prison?",
+      "options": [
+        "27 years",
+        "25 years",
+        "30 years",
+        "10 years"
+      ],
+      "answer_explanations": [
+        "Correct. The article states Mandela served 27 years in prison.",
+        "Incorrect. The article gives 27 years, not 25.",
+        "Incorrect. The article gives 27 years, not 30.",
+        "Incorrect. The article gives 27 years, not 10."
       ]
     },
     {
       "id": 9,
-      "question": "What did Nelson Mandela decline after his first presidential term?",
+      "question": "Who released Nelson Mandela from prison in 1990?",
       "options": [
-        "a second presidential term",
-        "the Nobel Peace Prize",
-        "a seat in parliament",
-        "the ANC presidency"
+        "President F. W. de Klerk",
+        "Thabo Mbeki",
+        "The National Party",
+        "The ANC"
       ],
       "answer_explanations": [
-        "Correct. The article states Mandela declined a second presidential term.",
-        "Incorrect. The article states Mandela received the Nobel Peace Prize, not that he declined it.",
-        "Incorrect. The article does not mention Mandela declining a seat in parliament.",
-        "Incorrect. The article states Mandela served as President of the ANC from 1991 to 1997, not that he declined the ANC presidency."
+        "Correct. The article says President F. W. de Klerk released him in 1990.",
+        "Incorrect. Thabo Mbeki was his deputy and later successor, not the one who released him.",
+        "Incorrect. The National Party established apartheid, but it was President de Klerk who released Mandela.",
+        "Incorrect. The ANC was his party, but the release was by President de Klerk."
       ]
     },
     {
       "id": 10,
-      "question": "Who succeeded Nelson Mandela as president in 1999?",
+      "question": "What did Nelson Mandela receive more than 250 of?",
       "options": [
-        "Thabo Mbeki",
-        "F. W. de Klerk",
-        "Oliver Tambo",
-        "Walter Sisulu"
+        "Honours",
+        "Prison sentences",
+        "Presidential terms",
+        "University degrees"
       ],
       "answer_explanations": [
-        "Correct. The article states Mandela was succeeded by his deputy, Thabo Mbeki, in 1999.",
-        "Incorrect. The article states F. W. de Klerk released Mandela in 1990, not that he succeeded Mandela in 1999.",
-        "Incorrect. The article describes Oliver Tambo as a close friend and comrade, not as Mandela's successor.",
-        "Incorrect. The article describes Walter Sisulu as an ANC activist who helped Mandela, not as his successor."
+        "Correct. The article says he received more than 250 honours, including the Nobel Peace Prize.",
+        "Incorrect. He had prison sentences, but the article says he received more than 250 honours.",
+        "Incorrect. He served one presidential term, not more than 250.",
+        "Incorrect. The article does not mention university degrees as something he received more than 250 of."
       ]
     }
   ]

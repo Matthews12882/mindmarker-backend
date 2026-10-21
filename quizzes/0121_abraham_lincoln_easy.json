@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Abraham Lincoln's position number among U.S. presidents?",
+      "question": "Who was the 16th president of the United States?",
       "options": [
-        "16th president",
-        "15th president",
-        "17th president",
-        "14th president"
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "Andrew Johnson"
       ],
       "answer_explanations": [
-        "Correct. The article states that Abraham Lincoln was the 16th president of the United States.",
-        "Incorrect. The article does not identify Lincoln as the 15th president.",
-        "Incorrect. The article does not identify Lincoln as the 17th president.",
-        "Incorrect. The article does not identify Lincoln as the 14th president."
+        "Correct. The article states: 'Abraham Lincoln ... was the 16th president of the United States.'",
+        "Incorrect. George Washington was the first president, not the 16th.",
+        "Incorrect. Thomas Jefferson was the third president, not the 16th.",
+        "Incorrect. Andrew Johnson was the 17th president, not the 16th."
       ]
     },
     {
       "id": 2,
-      "question": "In what state was Abraham Lincoln born?",
+      "question": "In what year was Abraham Lincoln born?",
       "options": [
-        "Kentucky",
-        "Indiana",
-        "Illinois",
-        "Virginia"
+        "1809",
+        "1865",
+        "1861",
+        "1854"
       ],
       "answer_explanations": [
-        "Correct. The article states Lincoln was born in a one-room log cabin in Kentucky.",
-        "Incorrect. Lincoln moved to Indiana later, but was not born there.",
-        "Incorrect. Lincoln lived in Illinois as an adult, but was not born there.",
-        "Incorrect. Virginia is mentioned in connection with his grandfather's move, not Lincoln's birth."
+        "Correct. The article states: 'Abraham Lincoln (February 12, 1809 â April 15, 1865)'. So he was born in 1809.",
+        "Incorrect. 1865 is the year he died, not the year he was born.",
+        "Incorrect. 1861 is the year he became president, not the year he was born.",
+        "Incorrect. 1854 is the year of the KansasâNebraska Act, not his birth year."
       ]
     },
     {
       "id": 3,
-      "question": "Which political party did Abraham Lincoln belong to when he won the presidency?",
+      "question": "What was Abraham Lincoln's role during the American Civil War?",
       "options": [
-        "Republican Party",
-        "Whig Party",
-        "Democratic Party",
-        "Federalist Party"
+        "He led the United States through it",
+        "He fought as a soldier in it",
+        "He was a journalist covering it",
+        "He was a foreign diplomat during it"
       ],
       "answer_explanations": [
-        "Correct. The article states Lincoln won the 1860 presidential election, becoming the first Republican president.",
-        "Incorrect. Lincoln was earlier a Whig Party supporter, but won the presidency as a Republican.",
-        "Incorrect. The article does not identify Lincoln as a Democrat.",
-        "Incorrect. The article does not identify Lincoln as a Federalist."
+        "Correct. The article states: 'He led the United States through the American Civil War.'",
+        "Incorrect. The article does not say Lincoln fought as a soldier.",
+        "Incorrect. The article does not say Lincoln was a journalist.",
+        "Incorrect. The article does not say Lincoln was a foreign diplomat."
       ]
     },
     {
       "id": 4,
-      "question": "Who fatally shot Abraham Lincoln?",
+      "question": "Where was Abraham Lincoln born?",
       "options": [
-        "John Wilkes Booth",
-        "Stephen A. Douglas",
-        "Roger Taney",
-        "Thomas Lincoln"
+        "In a one-room log cabin in Kentucky",
+        "In a large mansion in Illinois",
+        "In a farmhouse in Virginia",
+        "In a city apartment in New York"
       ],
       "answer_explanations": [
-        "Correct. The article states Lincoln was fatally shot by John Wilkes Booth at Ford's Theatre.",
-        "Incorrect. Stephen A. Douglas debated Lincoln in the 1858 Senate campaign but did not shoot him.",
-        "Incorrect. Roger Taney was Chief Justice involved in Ex parte Merryman, not Lincoln's assassin.",
-        "Incorrect. Thomas Lincoln was Abraham Lincoln's father."
+        "Correct. The article states: 'Born in a one-room log cabin in Kentucky'.",
+        "Incorrect. The article says he was born in a log cabin, not a mansion, and in Kentucky, not Illinois.",
+        "Incorrect. The article says he was born in Kentucky, not Virginia.",
+        "Incorrect. The article says he was born in a log cabin in Kentucky, not a city apartment in New York."
       ]
     },
     {
       "id": 5,
-      "question": "On what date did Lincoln issue the Emancipation Proclamation?",
+      "question": "What profession did Abraham Lincoln become?",
       "options": [
-        "January 1, 1863",
-        "November 19, 1863",
-        "April 14, 1865",
-        "November 4, 1842"
+        "A lawyer",
+        "A doctor",
+        "A teacher",
+        "A farmer"
       ],
       "answer_explanations": [
-        "Correct. The article states that on January 1, 1863, Lincoln issued the Emancipation Proclamation.",
-        "Incorrect. November 19, 1863 is the date of the Gettysburg Address.",
-        "Incorrect. April 14, 1865 is the date Lincoln was shot.",
-        "Incorrect. November 4, 1842 is the date Lincoln married Mary Todd."
+        "Correct. The article states: 'He was self-educated and became a lawyer'.",
+        "Incorrect. The article does not say Lincoln became a doctor.",
+        "Incorrect. The article does not say Lincoln became a teacher.",
+        "Incorrect. The article does not say Lincoln became a farmer."
       ]
     },
     {
       "id": 6,
-      "question": "Where was Lincoln shot?",
+      "question": "What political party was Abraham Lincoln a leader of?",
       "options": [
-        "Ford's Theatre",
-        "The White House",
-        "Fort Sumter",
-        "Appomattox Court House"
+        "The Republican Party",
+        "The Democratic Party",
+        "The Whig Party",
+        "The Federalist Party"
       ],
       "answer_explanations": [
-        "Correct. The article states Lincoln was fatally shot at Ford's Theatre in Washington, D.C.",
-        "Incorrect. The White House is where Willie Lincoln died, not where Lincoln was shot.",
-        "Incorrect. Fort Sumter is where Confederate forces attacked, starting the Civil War.",
-        "Incorrect. Appomattox is where the Confederate surrender occurred."
+        "Correct. The article states: 'he became a leader of the new Republican Party'.",
+        "Incorrect. The article does not say Lincoln was a leader of the Democratic Party.",
+        "Incorrect. The article does not say Lincoln was a leader of the Whig Party.",
+        "Incorrect. The article does not say Lincoln was a leader of the Federalist Party."
       ]
     },
     {
       "id": 7,
-      "question": "How many sons did Lincoln and Mary Todd have?",
+      "question": "What event started the American Civil War?",
       "options": [
-        "Four",
-        "Three",
-        "Five",
-        "Two"
+        "Confederate forces attacked Fort Sumter",
+        "Lincoln was elected president",
+        "The Emancipation Proclamation was issued",
+        "The KansasâNebraska Act was passed"
       ],
       "answer_explanations": [
-        "Correct. The article states they had four sons: Robert, Edward, William, and Thomas.",
-        "Incorrect. The article lists four sons, not three.",
-        "Incorrect. The article lists four sons, not five.",
-        "Incorrect. The article lists four sons, not two."
+        "Correct. The article states: 'Confederate forces attacked Fort Sumter, starting the Civil War.'",
+        "Incorrect. Lincoln's election prompted secession, but the attack on Fort Sumter started the war.",
+        "Incorrect. The Emancipation Proclamation was issued during the war, not at its start.",
+        "Incorrect. The KansasâNebraska Act was passed before the war and did not start it."
       ]
     },
     {
       "id": 8,
-      "question": "Which of Lincoln's sons was the only one to live to maturity?",
+      "question": "What did the Emancipation Proclamation declare?",
       "options": [
-        "Robert Todd Lincoln",
-        "Edward Baker Lincoln",
-        "William Wallace Lincoln",
-        "Thomas Lincoln"
+        "Slaves in states 'in rebellion' were free",
+        "All slaves in the United States were free",
+        "Slavery would be allowed in new territories",
+        "The Confederacy was recognized as independent"
       ],
       "answer_explanations": [
-        "Correct. The article states Robert Todd Lincoln was the only child to live to maturity.",
-        "Incorrect. Edward Baker Lincoln died in 1850.",
-        "Incorrect. William Wallace Lincoln died in 1862.",
-        "Incorrect. Thomas 'Tad' Lincoln died in 1871 at age 18."
+        "Correct. The article states: 'he issued the Emancipation Proclamation, which declared the slaves in the states \"in rebellion\" to be free.'",
+        "Incorrect. The proclamation only applied to states in rebellion, not all slaves.",
+        "Incorrect. The proclamation did not allow slavery; it freed slaves in rebellious states.",
+        "Incorrect. The proclamation did not recognize the Confederacy."
       ]
     },
     {
       "id": 9,
-      "question": "What was Lincoln's formal schooling like?",
+      "question": "Who assassinated Abraham Lincoln?",
       "options": [
-        "Less than 12 months total by age 15",
-        "Several years at a university",
-        "A full education in Kentucky schools",
-        "Law school at Harvard"
+        "John Wilkes Booth",
+        "Stephen A. Douglas",
+        "Roger Taney",
+        "Jefferson Davis"
       ],
       "answer_explanations": [
-        "Correct. The article states Lincoln attended school only sporadically, for a total of less than 12 months by age 15.",
-        "Incorrect. The article does not mention Lincoln attending university.",
-        "Incorrect. The article says his Kentucky schooling was brief and he likely did not learn to write.",
-        "Incorrect. Lincoln read law on his own and did not attend law school."
+        "Correct. The article states: 'Lincoln was fatally shot by John Wilkes Booth'.",
+        "Incorrect. Stephen A. Douglas was Lincoln's debate opponent, not his assassin.",
+        "Incorrect. Roger Taney was the Chief Justice, not the assassin.",
+        "Incorrect. Jefferson Davis was the Confederate president, not the assassin."
       ]
     },
     {
       "id": 10,
-      "question": "What did Lincoln do to become a lawyer?",
+      "question": "Where was Abraham Lincoln assassinated?",
       "options": [
-        "Read law on his own",
-        "Studied in an established attorney's office",
-        "Attended law school",
-        "Apprenticed with a judge"
+        "At Ford's Theatre in Washington, D.C.",
+        "At the White House in Washington, D.C.",
+        "At the Capitol in Richmond, Virginia",
+        "At a farm in Kentucky"
       ],
       "answer_explanations": [
-        "Correct. The article states Lincoln read law on his own, borrowing legal texts, and later said he 'studied with nobody.'",
-        "Incorrect. The article explicitly says he did not study in the office of an established attorney.",
-        "Incorrect. The article does not mention Lincoln attending law school.",
-        "Incorrect. The article does not mention Lincoln apprenticing with a judge."
+        "Correct. The article states: 'Lincoln was fatally shot by John Wilkes Booth at Ford's Theatre in Washington, D.C.'",
+        "Incorrect. The article says the assassination occurred at Ford's Theatre, not the White House.",
+        "Incorrect. The article says it occurred in Washington, D.C., not Richmond.",
+        "Incorrect. The article says it occurred at Ford's Theatre, not a farm in Kentucky."
       ]
     }
   ]

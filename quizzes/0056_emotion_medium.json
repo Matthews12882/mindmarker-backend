@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what did David Hume claim about reason and passion?",
+      "question": "What are emotions according to the article?",
       "options": [
-        "Reason is and ought to be the slave of the passions",
-        "Reason can oppose passion in the direction of the will",
-        "Reason alone can be a motive to any action of the will",
-        "Reason and passion are entirely independent"
+        "Physical and mental states brought on by neurophysiological and neuropsychological changes",
+        "Only mental states that are completely separate from the body",
+        "Purely social constructs with no physical basis",
+        "A type of personality trait that is fixed at birth"
       ],
       "answer_explanations": [
-        "Correct. Hume wrote that 'The reason is, and ought to be, the slave of the passions, and can never pretend to any other office than to serve and obey them'.",
-        "Incorrect. Hume argued the opposite: reason can never oppose passion in the direction of the will.",
-        "Incorrect. Hume stated that reason alone can never be a motive to any action of the will.",
-        "Incorrect. Hume described reason as serving and obeying passion, not as independent."
+        "Correct. The article states that emotions are 'physical and mental states brought on by neurophysiological and neuropsychological changes'.",
+        "Incorrect. The article explicitly says emotions are both physical and mental states, not only mental.",
+        "Incorrect. The article describes emotions as having physical and mental components, not as purely social constructs.",
+        "Incorrect. The article links emotions to neurophysiological changes and subjective experiences, not to fixed personality traits."
       ]
     },
     {
       "id": 2,
-      "question": "Which six emotions did Ekman's facial-expression research examine as basic emotions?",
+      "question": "Which of the following is NOT mentioned as a field contributing to research on emotion?",
       "options": [
-        "Anger, disgust, fear, happiness, sadness, and surprise",
-        "Anger, fear, joy, love, sadness, and surprise",
-        "Anger, disgust, fear, happiness, sadness, and contempt",
-        "Joy, sadness, anger, fear, trust, and anticipation"
+        "Astronomy",
+        "Psychology",
+        "Medicine",
+        "Computer science"
       ],
       "answer_explanations": [
-        "Correct. The article states Ekman examined six basic emotions: anger, disgust, fear, happiness, sadness, and surprise.",
-        "Incorrect. The article lists disgust rather than joy or love among Ekman's six basic emotions.",
-        "Incorrect. The article lists surprise rather than contempt among Ekman's six basic emotions.",
-        "Incorrect. Trust versus disgust and anticipation are part of Plutchik's wheel, not Ekman's six basic emotions."
+        "Correct. The article lists psychology, medicine, history, sociology of emotions, computer science, and philosophy as contributing fields. Astronomy is not mentioned.",
+        "Incorrect. Psychology is explicitly listed as a contributing field.",
+        "Incorrect. Medicine is explicitly listed as a contributing field.",
+        "Incorrect. Computer science is explicitly listed as a contributing field."
       ]
     },
     {
       "id": 3,
-      "question": "What did Peggy Thoits describe as components of emotions?",
+      "question": "According to the article, who theorized about the evolutionary origin of emotion?",
       "options": [
-        "Physiological components, cultural or emotional labels, expressive body actions, and appraisal of situations",
-        "Subjective experience, cognitive processes, expressive behavior, psychophysiological changes, and instrumental behavior",
-        "Cognitive appraisal, bodily symptoms, action tendencies, expression, and feelings",
-        "Physiological changes, subjective experience, and instrumental behavior"
+        "Charles Darwin",
+        "William James",
+        "Ãtienne Dolet",
+        "David Hume"
       ],
       "answer_explanations": [
-        "Correct. The article states Peggy Thoits described emotions as involving physiological components, cultural or emotional labels, expressive body actions, and the appraisal of situations and contexts.",
-        "Incorrect. This broader list describes emotion components generally in the article, not Thoits's specific description.",
-        "Incorrect. These five elements belong to Scherer's Component Process Model, not Thoits's description.",
-        "Incorrect. This is too narrow and omits labels, expressive actions, and appraisal mentioned for Thoits."
+        "Correct. The article states that 'Theorizing about the evolutionary origin and possible purpose of emotion dates back to Charles Darwin'.",
+        "Incorrect. William James is mentioned in the context of identifying emotion with subjective experience, not evolutionary origin.",
+        "Incorrect. Ãtienne Dolet coined the word 'emotion' in French, not the evolutionary theory.",
+        "Incorrect. David Hume proposed that actions are motivated by passions, but the article credits Darwin with the evolutionary theorizing."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, how are moods differentiated from emotions?",
+      "question": "What does the article say about the scientific consensus on a definition of emotion?",
       "options": [
-        "Moods are enduring affective states considered less intense than emotions and lacking a contextual stimulus",
-        "Moods are more intense than emotions and always tied to a specific stimulus",
-        "Moods are identical to emotions but last for shorter periods",
-        "Moods are predispositions to action in response to a specific stimulus"
+        "There is no scientific consensus on a definition",
+        "There is a single, universally accepted definition",
+        "The definition is agreed upon only by psychologists",
+        "The definition is based solely on physiological activity"
       ],
       "answer_explanations": [
-        "Correct. The differentiation section states moods are enduring affective states considered less intense than emotions and appearing to lack a contextual stimulus.",
-        "Incorrect. The article says moods are less intense than emotions, not more intense.",
-        "Incorrect. The article distinguishes moods from emotions rather than treating them as identical.",
-        "Incorrect. Predispositions to action in response to a specific stimulus describes emotions, not moods."
+        "Correct. The article explicitly states 'There is no scientific consensus on a definition'.",
+        "Incorrect. The article says the opposite, that there is no consensus.",
+        "Incorrect. The article does not say the definition is agreed upon by any single group.",
+        "Incorrect. The article mentions a mechanistic definition but says there is no overall consensus."
       ]
     },
     {
       "id": 5,
-      "question": "What does the article say about the scientific definition of emotion?",
+      "question": "According to the article, what did David Hume argue about reason and passion?",
       "options": [
-        "There is no scientific consensus on a definition",
-        "Scientists universally agree on a single definition",
-        "Emotion is defined solely as a subjective experience",
-        "Emotion is defined exclusively as physiological activity"
+        "Reason is the slave of the passions",
+        "Passion is the slave of reason",
+        "Reason and passion are completely independent",
+        "Passion can never influence action"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states, 'There is no scientific consensus on a definition.'",
-        "Incorrect. The article says the opposite: there is no scientific consensus.",
-        "Incorrect. While subjective experience is one component, the article does not define emotion solely this way.",
-        "Incorrect. The article describes emotion as involving multiple components, not exclusively physiological activity."
+        "Correct. The article quotes Hume: 'The reason is, and ought to be, the slave of the passions'.",
+        "Incorrect. Hume argued the opposite, that reason serves passion.",
+        "Incorrect. Hume argued that reason cannot oppose passion and is subject to it.",
+        "Incorrect. Hume proposed that actions are motivated by 'fears, desires, and passions', so passion does influence action."
       ]
     },
     {
       "id": 6,
-      "question": "According to Scherer's Component Process Model, which element provides an evaluation of events and objects?",
+      "question": "What is alexithymia, as mentioned in the article?",
       "options": [
-        "Cognitive appraisal",
-        "Bodily symptoms",
-        "Action tendencies",
-        "Feelings"
+        "An inability to express or perceive emotion",
+        "A type of basic emotion",
+        "A method for measuring emotions",
+        "A theory about the origin of emotions"
       ],
       "answer_explanations": [
-        "Correct. The article states cognitive appraisal provides an evaluation of events and objects.",
-        "Incorrect. Bodily symptoms are described as the physiological component of emotional experience.",
-        "Incorrect. Action tendencies are described as a motivational component for preparing and directing motor responses.",
-        "Incorrect. Feelings are described as the subjective experience of emotional state once it has occurred."
+        "Correct. The article states that 'an inability to express or perceive emotion is sometimes referred to as alexithymia'.",
+        "Incorrect. Alexithymia is a condition, not a basic emotion.",
+        "Incorrect. Alexithymia is not a method for measuring emotions.",
+        "Incorrect. Alexithymia is not a theory about the origin of emotions."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the word 'emotion' before the 1830s?",
+      "question": "According to Scherer's Component Process Model, which of the following is one of the five crucial elements of emotion?",
       "options": [
-        "No one felt emotions before about 1830; they felt other things such as passions and moral sentiments",
-        "The word emotion was universally used in academic discussion before 1830",
-        "The modern concept of emotion first emerged in English in the 1500s",
-        "People before 1830 understood emotions exactly as we do today"
+        "Bodily symptoms",
+        "Social status",
+        "Cultural background",
+        "Economic condition"
       ],
       "answer_explanations": [
-        "Correct. The article quotes: 'No one felt emotions before about 1830. Instead they felt other things â 'passions', 'accidents of the soul', 'moral sentiments'...'",
-        "Incorrect. The article says the term was introduced into academic discussion as a catch-all term, not that it was universally used before 1830.",
-        "Incorrect. The article says the modern concept emerged around the 1830s, not the 1500s.",
-        "Incorrect. The article states people explained these experiences very differently from how we understand emotions today."
+        "Correct. The article lists 'Bodily symptoms' as one of the five elements in Scherer's Component Process Model.",
+        "Incorrect. Social status is not listed as a component of emotion in the CPM.",
+        "Incorrect. Cultural background is not listed as a component of emotion in the CPM.",
+        "Incorrect. Economic condition is not listed as a component of emotion in the CPM."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is included in the broader category of 'affective states' according to the article?",
+      "question": "How does the article differentiate moods from emotions?",
       "options": [
-        "Pleasure, pain, motivational states, moods, dispositions, and traits",
-        "Only basic emotions such as anger and sadness",
-        "Only cognitive appraisals and bodily symptoms",
-        "Only emotional episodes and emotional dispositions"
+        "Moods are enduring affective states that are less intense and lack a contextual stimulus",
+        "Moods are more intense than emotions and always have a clear trigger",
+        "Moods are the same as emotions",
+        "Moods are only related to positive feelings"
       ],
       "answer_explanations": [
-        "Correct. The article states affective states can include emotion-related phenomena such as pleasure and pain, motivational states, moods, dispositions and traits.",
-        "Incorrect. The article presents affective states as a broader category that includes more than just basic emotions.",
-        "Incorrect. Cognitive appraisals and bodily symptoms are components of emotion, not the full list of affective states.",
-        "Incorrect. Emotional episodes and dispositions are discussed separately, while affective states encompass a wider range."
+        "Correct. The article states that moods are 'enduring affective states that are considered less intense than emotions and appear to lack a contextual stimulus'.",
+        "Incorrect. The article says moods are less intense than emotions, not more intense.",
+        "Incorrect. The article clearly differentiates moods from emotions.",
+        "Incorrect. The article does not limit moods to positive feelings."
       ]
     },
     {
       "id": 9,
-      "question": "What did Robert Plutchik develop to suggest eight primary emotions grouped on a positive or negative basis?",
+      "question": "According to Paul Ekman's research, which of the following is one of the six basic emotions he examined?",
       "options": [
-        "The wheel of emotions",
-        "The component process model",
-        "Basic emotions theory",
-        "Core-SELF"
+        "Disgust",
+        "Awe",
+        "Contentment",
+        "Pride"
       ],
       "answer_explanations": [
-        "Correct. The article states Plutchik developed the 'wheel of emotions', suggesting eight primary emotions grouped on a positive or negative basis.",
-        "Incorrect. The component process model is associated with Scherer, not Plutchik.",
-        "Incorrect. Basic emotions theory is associated with Paul Ekman, not Plutchik's wheel.",
-        "Incorrect. Core-SELF is associated with Jaak Panksepp, not Plutchik."
+        "Correct. The article states that Ekman's research examined six basic emotions: anger, disgust, fear, happiness, sadness, and surprise.",
+        "Incorrect. Awe was added later by other researchers, not part of Ekman's original six.",
+        "Incorrect. Contentment was added later by other researchers, not part of Ekman's original six.",
+        "Incorrect. Pride was added later by other researchers, not part of Ekman's original six."
       ]
     },
     {
       "id": 10,
-      "question": "What does current research into emotions in clinical and well-being contexts predominantly focus on?",
+      "question": "What did Robert Plutchik develop to describe emotions?",
       "options": [
-        "Emotion dynamics in daily life, including intensity, variability, instability, inertia, and differentiation",
-        "The etymology of emotion words across languages",
-        "The evolutionary origin of emotion in non-human animals",
-        "Historical philosophical theories of emotion from Aristotle to Hobbes"
+        "The 'wheel of emotions'",
+        "A list of seven primary affective systems",
+        "A method of factor analysis",
+        "A theory of alexithymia"
       ],
       "answer_explanations": [
-        "Correct. The article states most research in clinical and well-being contexts focuses on emotion dynamics in daily life, predominantly intensity and variability, instability, inertia, and differentiation.",
-        "Incorrect. Etymology is discussed in a separate section, not as the focus of clinical and well-being research.",
-        "Incorrect. Evolutionary origins are mentioned historically, not as the current clinical and well-being focus.",
-        "Incorrect. Historical theories are covered in the History section, not current clinical research."
+        "Correct. The article states that Robert Plutchik developed the 'wheel of emotions'.",
+        "Incorrect. The seven primary affective systems are attributed to Jaak Panksepp, not Plutchik.",
+        "Incorrect. Factor analysis is mentioned as a method used by psychologists, but not as something Plutchik developed.",
+        "Incorrect. Alexithymia is a separate concept, not developed by Plutchik."
       ]
     }
   ]

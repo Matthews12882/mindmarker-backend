@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What two properties must matter have according to the article?",
+      "question": "What is matter defined as in physical science?",
       "options": [
-        "mass and volume",
-        "mass and energy",
-        "volume and temperature",
-        "energy and pressure"
+        "Anything that has mass and occupies space by having volume",
+        "Anything that has energy and can be seen",
+        "Anything that has weight and color",
+        "Anything that is solid and visible"
       ],
       "answer_explanations": [
-        "Correct. The article states that matter is anything that has mass and occupies space by having volume.",
-        "Incorrect. The article does not say matter must have mass and energy; energy phenomena such as light and heat are explicitly excluded from matter.",
-        "Incorrect. Volume is required, but temperature is not listed as a defining property of matter.",
-        "Incorrect. Neither energy nor pressure is listed as a defining property of matter in the article."
+        "Correct. The article states that matter is 'anything that has mass and occupies space by having volume'.",
+        "Incorrect. The article does not define matter by energy or visibility.",
+        "Incorrect. The article does not mention weight or color as defining properties of matter.",
+        "Incorrect. Matter is not limited to solid and visible things; it includes liquids and gases too."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is explicitly excluded from matter according to the article?",
+      "question": "What are everyday objects ultimately composed of?",
       "options": [
-        "photons",
-        "atoms",
-        "electrons",
-        "protons"
+        "Atoms",
+        "Photons",
+        "Light",
+        "Heat"
       ],
       "answer_explanations": [
-        "Correct. The article states that matter does not include massless particles such as photons.",
-        "Incorrect. Atoms are included in matter according to the article.",
-        "Incorrect. Electrons are subatomic particles that are part of atoms and are included in matter.",
-        "Incorrect. Protons are subatomic particles found in atomic nuclei and are included in matter."
+        "Correct. The article says 'All everyday objects that can be touched are ultimately composed of atoms'.",
+        "Incorrect. Photons are massless particles, not the building blocks of everyday objects.",
+        "Incorrect. Light is an energy phenomenon, not a component of matter.",
+        "Incorrect. Heat is an energy phenomenon, not a component of matter."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is listed as a classical everyday phase of matter?",
+      "question": "Which of the following is NOT considered matter according to the article?",
       "options": [
-        "gas",
-        "plasma",
-        "BoseâEinstein condensate",
-        "quarkâgluon plasma"
+        "Light",
+        "Atoms",
+        "Water",
+        "Steam"
       ],
       "answer_explanations": [
-        "Correct. The article lists solid, liquid, and gas as classical everyday phases of matter.",
-        "Incorrect. Plasma is listed as another possible state, not as a classical everyday phase.",
-        "Incorrect. BoseâEinstein condensates are listed as other possible states, not classical everyday phases.",
-        "Incorrect. Quarkâgluon plasma is listed as another possible state, not a classical everyday phase."
+        "Correct. The article says matter does not include 'massless particles such as photons, or other energy phenomena or waves such as light or heat'.",
+        "Incorrect. Atoms are matter as stated in the article.",
+        "Incorrect. Water is a state of matter (liquid).",
+        "Incorrect. Steam is a state of matter (gas)."
       ]
     },
     {
       "id": 4,
-      "question": "What are atoms made up of, according to the article?",
+      "question": "What are the three classical everyday states of matter mentioned?",
       "options": [
-        "interacting subatomic particles",
-        "only protons and neutrons",
-        "only electrons and photons",
-        "only quarks and leptons"
+        "Solid, liquid, and gas",
+        "Solid, liquid, and plasma",
+        "Liquid, gas, and plasma",
+        "Solid, gas, and Bose-Einstein condensate"
       ],
       "answer_explanations": [
-        "Correct. The article states that everyday objects are composed of atoms, which are made up of interacting subatomic particles.",
-        "Incorrect. The article does not say atoms are made up of only protons and neutrons; electrons are also mentioned as orbiting the nucleus.",
-        "Incorrect. Photons are massless particles and are not described as components of atoms.",
-        "Incorrect. While protons and neutrons are made of quarks and electrons are leptons, the article's general statement describes atoms as made of interacting subatomic particles, not only quarks and leptons."
+        "Correct. The article lists 'solid, liquid, and gas' as classical everyday phases.",
+        "Incorrect. Plasma is mentioned as another possible state, not one of the classical everyday ones.",
+        "Incorrect. Plasma is not listed among the classical everyday states.",
+        "Incorrect. Bose-Einstein condensate is mentioned as another possible state, not a classical everyday one."
       ]
     },
     {
       "id": 5,
-      "question": "Which ancient philosophers proposed the particulate theory of matter, according to the article?",
+      "question": "What example is given for water existing in different states?",
       "options": [
-        "Kaá¹Äda, Leucippus, and Democritus",
-        "Aristotle and Plato",
-        "Newton and Einstein",
-        "Bohr and Heisenberg"
+        "Ice, liquid water, and steam",
+        "Ice, snow, and hail",
+        "Rain, snow, and fog",
+        "Water vapor, ice, and dew"
       ],
       "answer_explanations": [
-        "Correct. The article names the Indian philosopher Kaá¹Äda and the pre-Socratic Greek philosophers Leucippus and Democritus as early proposers of the particulate theory of matter.",
-        "Incorrect. Aristotle and Plato are not mentioned in the article as proposers of the particulate theory of matter.",
-        "Incorrect. Newton and Einstein are not mentioned in the article in connection with the particulate theory of matter.",
-        "Incorrect. Bohr and Heisenberg are not mentioned in the article as early philosophers of the particulate theory of matter."
+        "Correct. The article says 'water exists as ice, liquid water, and gaseous steam'.",
+        "Incorrect. Snow and hail are not mentioned in the article.",
+        "Incorrect. Rain, snow, and fog are not mentioned in the article.",
+        "Incorrect. Water vapor and dew are not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "In chemistry, what is a substance defined as?",
+      "question": "Which of the following is listed as a possible state of matter beyond the classical ones?",
       "options": [
-        "a unique form of matter with constant chemical composition and characteristic properties",
-        "anything that has mass and volume",
-        "a mixture of two or more chemical substances",
-        "a massless particle such as a photon"
+        "Plasma",
+        "Ice",
+        "Water",
+        "Steam"
       ],
       "answer_explanations": [
-        "Correct. The article states that in chemistry, a substance is a unique form of matter with constant chemical composition and characteristic properties.",
-        "Incorrect. Having mass and volume is the general definition of matter, not the chemistry-specific definition of a substance.",
-        "Incorrect. A mixture is formed when two or more substances are combined without reacting; it is not the definition of a single substance.",
-        "Incorrect. Photons are massless particles explicitly excluded from matter, not chemical substances."
+        "Correct. The article mentions plasma as one of the 'other states' that are possible.",
+        "Incorrect. Ice is a solid state of water, a classical phase.",
+        "Incorrect. Water is a liquid state, a classical phase.",
+        "Incorrect. Steam is a gaseous state, a classical phase."
       ]
     },
     {
       "id": 7,
-      "question": "What is the constant atomic ratio of hydrogen to oxygen in every molecule of pure water?",
+      "question": "What do atoms consist of according to the usual description?",
       "options": [
-        "2:1",
-        "1:2",
-        "1:1",
-        "2:2"
+        "A nucleus of protons and neutrons, and orbiting electrons",
+        "A nucleus of electrons and photons, and orbiting protons",
+        "A nucleus of neutrons and light, and orbiting electrons",
+        "A nucleus of protons and electrons, and orbiting neutrons"
       ],
       "answer_explanations": [
-        "Correct. The article states that the atomic ratio of hydrogen to oxygen is always 2:1 in every molecule of water.",
-        "Incorrect. The article specifies a 2:1 ratio of hydrogen to oxygen, not 1:2.",
-        "Incorrect. The article specifies a 2:1 ratio, not 1:1.",
-        "Incorrect. The article specifies a 2:1 ratio, not 2:2."
+        "Correct. The article says atoms can be imagined as 'a nucleus consisting of subatomic particles, protons and neutrons and a surrounding cloud of orbiting electrons'.",
+        "Incorrect. Photons are not part of the atomic nucleus.",
+        "Incorrect. Light is not part of the atomic nucleus.",
+        "Incorrect. Neutrons orbit the nucleus, not the other way around."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is given as an example of a chemical substance?",
+      "question": "Why is the usual picture of atoms only somewhat correct?",
       "options": [
-        "table salt (NaCl)",
-        "light",
-        "heat",
-        "photons"
+        "Because subatomic particles have quantum nature and act like waves as well as particles",
+        "Because atoms are too small to be seen",
+        "Because atoms are made of smaller particles",
+        "Because atoms are always moving"
       ],
       "answer_explanations": [
-        "Correct. The article lists table salt (NaCl) as a notable chemical substance.",
-        "Incorrect. Light is described as an energy phenomenon or wave, not a chemical substance.",
-        "Incorrect. Heat is described as an energy phenomenon, not a chemical substance.",
-        "Incorrect. Photons are massless particles excluded from matter, not chemical substances."
+        "Correct. The article states that 'subatomic particles and their properties are governed by their quantum nature, which means they do not act as everyday objects appear to act â they can act like waves as well as particles'.",
+        "Incorrect. The article does not mention visibility as a reason.",
+        "Incorrect. The article does not mention smaller particles as the reason.",
+        "Incorrect. The article does not mention movement as the reason."
       ]
     },
     {
       "id": 9,
-      "question": "According to the protons, neutrons, and electrons definition, what is matter made up of?",
+      "question": "What creates the property of matter appearing to take up space?",
       "options": [
-        "positively charged protons, neutral neutrons, and negatively charged electrons",
-        "only quarks and leptons",
-        "only atoms and molecules",
-        "massless particles and energy waves"
+        "The exclusion principle and other fundamental interactions force some particles to keep a distance from others",
+        "Atoms are solid and hard",
+        "Electrons are large and occupy space",
+        "Protons and neutrons are tightly packed"
       ],
       "answer_explanations": [
-        "Correct. The article states that under this definition, matter is made up of positively charged protons, neutral neutrons, and negatively charged electrons.",
-        "Incorrect. Quarks and leptons are part of a different, more elementary definition of ordinary matter.",
-        "Incorrect. This definition goes beyond atoms and molecules to include substances made from protons, neutrons, and electrons that are not simply atoms or molecules.",
-        "Incorrect. Massless particles and energy waves are explicitly excluded from matter."
+        "Correct. The article says that due to the exclusion principle and other fundamental interactions, some particles are effectively forced to keep a distance, which creates the property of matter appearing to take up space.",
+        "Incorrect. The article does not describe atoms as solid and hard.",
+        "Incorrect. The article does not say electrons are large.",
+        "Incorrect. The article does not mention tight packing of protons and neutrons."
       ]
     },
     {
       "id": 10,
-      "question": "Which particles are W and Z bosons not made of, according to the article?",
+      "question": "Which ancient philosophers are mentioned as proposing the particulate theory of matter?",
       "options": [
-        "quarks or leptons",
-        "protons or neutrons",
-        "electrons or photons",
-        "atoms or molecules"
+        "Kaá¹Äda, Leucippus, and Democritus",
+        "Socrates, Plato, and Aristotle",
+        "Pythagoras, Heraclitus, and Parmenides",
+        "Epicurus, Zeno, and Euclid"
       ],
       "answer_explanations": [
-        "Correct. The article states that W and Z bosons are not made of quarks or leptons and so are not ordinary matter.",
-        "Incorrect. The article does not state that W and Z bosons are not made of protons or neutrons in this context.",
-        "Incorrect. The article does not state that W and Z bosons are not made of electrons or photons in this context.",
-        "Incorrect. The article does not state that W and Z bosons are not made of atoms or molecules in this context."
+        "Correct. The article mentions the Indian philosopher Kaá¹Äda and the Greek philosophers Leucippus and Democritus.",
+        "Incorrect. These philosophers are not mentioned in the article.",
+        "Incorrect. These philosophers are not mentioned in the article.",
+        "Incorrect. These philosophers are not mentioned in the article."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is William Shakespeare widely regarded as?",
+      "question": "What was William Shakespeare's profession?",
       "options": [
-        "the greatest writer in the English language",
-        "the greatest painter in England",
-        "the greatest composer in Europe",
-        "the greatest philosopher in history"
+        "Playwright, poet and actor",
+        "Painter and sculptor",
+        "Musician and composer",
+        "Scientist and inventor"
       ],
       "answer_explanations": [
-        "Correct. The article states he is 'widely regarded as the greatest writer in the English language'.",
-        "Incorrect. The article does not describe Shakespeare as a painter.",
-        "Incorrect. The article does not describe Shakespeare as a composer.",
-        "Incorrect. The article does not describe Shakespeare as a philosopher."
+        "Correct. The article states that Shakespeare was 'an English playwright, poet and actor'.",
+        "Incorrect. The article does not mention painting or sculpting as Shakespeare's professions.",
+        "Incorrect. The article does not mention music or composing as Shakespeare's professions.",
+        "Incorrect. The article does not mention science or inventing as Shakespeare's professions."
       ]
     },
     {
       "id": 2,
-      "question": "Where was William Shakespeare born and raised?",
+      "question": "When was William Shakespeare born?",
       "options": [
-        "Stratford-upon-Avon",
-        "London",
-        "Oxford",
-        "Cambridge"
+        "c. 23 April 1564",
+        "c. 23 April 1616",
+        "c. 23 April 1550",
+        "c. 23 April 1600"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Shakespeare was born and raised in Stratford-upon-Avon, Warwickshire.'",
-        "Incorrect. London is where he worked, not where he was born and raised.",
-        "Incorrect. Oxford is not mentioned as his birthplace.",
-        "Incorrect. Cambridge is not mentioned as his birthplace."
+        "Correct. The article gives his birth date as 'c. 23 April 1564'.",
+        "Incorrect. 23 April 1616 is the date of his death, not his birth.",
+        "Incorrect. The article does not give 1550 as his birth year.",
+        "Incorrect. The article does not give 1600 as his birth year."
       ]
     },
     {
       "id": 3,
-      "question": "Whom did Shakespeare marry at the age of 18?",
+      "question": "How many sonnets did Shakespeare write?",
       "options": [
-        "Anne Hathaway",
-        "Mary Arden",
-        "Susanna Hall",
-        "Judith Quiney"
+        "154",
+        "39",
+        "3",
+        "36"
       ],
       "answer_explanations": [
-        "Correct. The article states 'At the age of 18, he married Anne Hathaway.'",
-        "Incorrect. Mary Arden was Shakespeare's mother, not his wife.",
-        "Incorrect. Susanna Hall was Shakespeare's daughter.",
-        "Incorrect. Judith Quiney was Shakespeare's daughter."
+        "Correct. The article mentions '154 sonnets' among his works.",
+        "Incorrect. 39 refers to the number of plays, not sonnets.",
+        "Incorrect. 3 refers to the number of long narrative poems, not sonnets.",
+        "Incorrect. 36 is the number of plays in the First Folio, not sonnets."
       ]
     },
     {
       "id": 4,
-      "question": "How many children did Shakespeare have with Anne Hathaway?",
+      "question": "Where was Shakespeare born and raised?",
       "options": [
-        "three",
-        "two",
-        "four",
-        "five"
+        "Stratford-upon-Avon, Warwickshire",
+        "London, England",
+        "Avon, England",
+        "Stratford, London"
       ],
       "answer_explanations": [
-        "Correct. The article states he had 'three children: Susanna, and twins Hamnet and Judith.'",
-        "Incorrect. The article states three children, not two.",
-        "Incorrect. The article states three children, not four.",
-        "Incorrect. The article states three children, not five."
+        "Correct. The article states he was 'born and raised in Stratford-upon-Avon, Warwickshire'.",
+        "Incorrect. London is where he later had a career, not where he was born and raised.",
+        "Incorrect. Avon is part of the name 'Stratford-upon-Avon', but the full location includes Warwickshire.",
+        "Incorrect. The article does not mention 'Stratford, London'."
       ]
     },
     {
       "id": 5,
-      "question": "What was the name of Shakespeare's playing company in London?",
+      "question": "Who did Shakespeare marry at age 18?",
       "options": [
-        "Lord Chamberlain's Men",
-        "King's Players",
-        "Globe Company",
-        "Blackfriars Actors"
+        "Anne Hathaway",
+        "Susanna Hall",
+        "Judith Quiney",
+        "Ben Jonson"
       ],
       "answer_explanations": [
-        "Correct. The article states he was part-owner of 'a playing company called the Lord Chamberlain's Men'.",
-        "Incorrect. The King's Men was the later name after King James I ascended, not the original name.",
-        "Incorrect. The Globe was a theatre, not the name of the playing company.",
-        "Incorrect. Blackfriars was an indoor theatre, not the name of the playing company."
+        "Correct. The article says he married 'Anne Hathaway'.",
+        "Incorrect. Susanna was his daughter, not his wife.",
+        "Incorrect. Judith was his daughter, not his wife.",
+        "Incorrect. Ben Jonson was a fellow playwright, not his wife."
       ]
     },
     {
       "id": 6,
-      "question": "What did John Heminges and Henry Condell publish in 1623?",
+      "question": "How many children did Shakespeare have?",
       "options": [
-        "the First Folio",
-        "a quarto edition",
-        "a sonnet collection",
-        "a biography"
+        "Three",
+        "Two",
+        "Four",
+        "One"
       ],
       "answer_explanations": [
-        "Correct. The article states they 'published a more definitive text known as the First Folio'.",
-        "Incorrect. Quartos were published earlier, beginning in 1594, not by Heminges and Condell in 1623.",
-        "Incorrect. The sonnets were already published; the 1623 publication was the First Folio of plays.",
-        "Incorrect. The article does not say they published a biography."
+        "Correct. The article says he had 'three children: Susanna, and twins Hamnet and Judith'.",
+        "Incorrect. He had three children, not two.",
+        "Incorrect. He had three children, not four.",
+        "Incorrect. He had three children, not one."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is one of Shakespeare's tragedies mentioned in the article?",
+      "question": "What was the name of the playing company Shakespeare part-owned?",
       "options": [
-        "Hamlet",
-        "The Winter's Tale",
-        "The Tempest",
-        "As You Like It"
+        "The Lord Chamberlain's Men",
+        "The King's Players",
+        "The Globe Company",
+        "The Avon Players"
       ],
       "answer_explanations": [
-        "Correct. The article lists Hamlet among Shakespeare's tragedies.",
-        "Incorrect. The Winter's Tale is described as a tragicomedy or romance.",
-        "Incorrect. The Tempest is described as a tragicomedy or romance.",
-        "Incorrect. As You Like It is not classified as a tragedy in the article."
+        "Correct. The article mentions the company 'called the Lord Chamberlain's Men'.",
+        "Incorrect. The article does not mention 'The King's Players'.",
+        "Incorrect. The article does not mention 'The Globe Company'.",
+        "Incorrect. The article does not mention 'The Avon Players'."
       ]
     },
     {
       "id": 8,
-      "question": "What is Shakespeare often called?",
+      "question": "At what age did Shakespeare retire to Stratford?",
       "options": [
-        "the Bard of Avon",
-        "the Swan of Avon",
-        "the Poet of London",
-        "the Master of Stratford"
+        "49",
+        "52",
+        "45",
+        "60"
       ],
       "answer_explanations": [
-        "Correct. The article states he is often called 'the Bard of Avon' or simply 'the Bard'.",
-        "Incorrect. The article does not call him the Swan of Avon.",
-        "Incorrect. The article does not call him the Poet of London.",
-        "Incorrect. The article does not call him the Master of Stratford."
+        "Correct. The article says 'At age 49 (around 1613) he appears to have retired to Stratford'.",
+        "Incorrect. The article states age 49, not 52.",
+        "Incorrect. The article states age 49, not 45.",
+        "Incorrect. The article states age 49, not 60."
       ]
     },
     {
       "id": 9,
-      "question": "How many plays are included in the First Folio?",
+      "question": "What is Shakespeare often called?",
       "options": [
-        "36",
-        "39",
-        "154",
-        "3"
+        "England's national poet and the Bard of Avon",
+        "The greatest scientist",
+        "The king of England",
+        "The father of music"
       ],
       "answer_explanations": [
-        "Correct. The article states the First Folio 'includes 36 of his plays'.",
-        "Incorrect. 39 is the approximate total number of extant plays including collaborations, not the number in the First Folio.",
-        "Incorrect. 154 is the number of sonnets, not plays in the First Folio.",
-        "Incorrect. 3 is the number of long narrative poems, not plays in the First Folio."
+        "Correct. The article says he is 'often called England's national poet and the \"Bard of Avon\"'.",
+        "Incorrect. The article does not describe him as a scientist.",
+        "Incorrect. The article does not say he was a king.",
+        "Incorrect. The article does not describe him as the father of music."
       ]
     },
     {
       "id": 10,
-      "question": "What epithet did Ben Jonson use for Shakespeare in the First Folio preface?",
+      "question": "How many long narrative poems did Shakespeare write?",
       "options": [
-        "not of an age, but for all time",
-        "the greatest writer in the English language",
-        "the Bard of Avon",
-        "England's national poet"
+        "3",
+        "154",
+        "39",
+        "36"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Jonson's poem hailing Shakespeare with 'not of an age, but for all time'.",
-        "Incorrect. 'The greatest writer in the English language' is how the article describes Shakespeare, not Jonson's epithet.",
-        "Incorrect. 'The Bard of Avon' is a nickname for Shakespeare, not Jonson's epithet.",
-        "Incorrect. 'England's national poet' is a description of Shakespeare, not Jonson's epithet."
+        "Correct. The article mentions '3 long narrative poems'.",
+        "Incorrect. 154 is the number of sonnets, not narrative poems.",
+        "Incorrect. 39 is the number of plays, not narrative poems.",
+        "Incorrect. 36 is the number of plays in the First Folio, not narrative poems."
       ]
     }
   ]

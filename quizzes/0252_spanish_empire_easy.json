@@ -5,55 +5,87 @@
   "questions": [
     {
       "id": 1,
-      "question": "What years did the Spanish Empire exist according to the article?",
+      "question": "What years did the Spanish Empire exist?",
       "options": [
         "1492 to 1976",
         "1492 to 1898",
-        "1500 to 1900",
-        "1492 to 1640"
+        "1580 to 1640",
+        "1700 to 1825"
       ],
       "answer_explanations": [
-        "Correct. The article states the Spanish Empire existed between 1492 and 1976.",
-        "Incorrect. The article gives 1976 as the end year, not 1898.",
-        "Incorrect. The article does not state the empire existed from 1500 to 1900.",
-        "Incorrect. 1640 is when Portugal regained independence, not the end of the Spanish Empire."
+        "Correct. The article states that the Spanish Empire existed between 1492 and 1976.",
+        "Incorrect. The article states the empire existed between 1492 and 1976, not 1898.",
+        "Incorrect. The article mentions 1580 to 1640 as the period of the Iberian Union, not the empire's existence.",
+        "Incorrect. The article does not give 1700 to 1825 as the empire's existence; it gives 1492 to 1976."
       ]
     },
     {
       "id": 2,
-      "question": "What nickname was the Spanish Empire known by?",
+      "question": "What is the Spanish Empire sometimes called?",
       "options": [
-        "the empire on which the sun never sets",
-        "the Catholic Monarchy",
-        "the Hispanic Monarchy",
-        "the largest empire in history"
+        "Hispanic Monarchy or Catholic Monarchy",
+        "The Sun Never Sets Empire",
+        "The Global Empire",
+        "The Colonial Empire"
       ],
       "answer_explanations": [
-        "Correct. The article says the empire became known as \"the empire on which the sun never sets\".",
-        "Incorrect. \"Catholic Monarchy\" is listed as an alternative name, not the nickname.",
-        "Incorrect. \"Hispanic Monarchy\" is listed as an alternative name, not the nickname.",
-        "Incorrect. The article calls it one of the largest empires, but not by that nickname."
+        "Correct. The article says the Spanish Empire is sometimes referred to as the Hispanic Monarchy or the Catholic Monarchy.",
+        "Incorrect. The article says it became known as 'the empire on which the sun never sets', but that is not the name given in the first sentence.",
+        "Incorrect. The article does not call it the Global Empire.",
+        "Incorrect. The article does not call it the Colonial Empire."
       ]
     },
     {
       "id": 3,
-      "question": "In what year did Christopher Columbus arrive?",
+      "question": "Which other empire did the Spanish Empire usher in the Age of Discovery with?",
       "options": [
-        "1492",
-        "1493",
-        "1494",
-        "1580"
+        "Portuguese Empire",
+        "British Empire",
+        "Dutch Empire",
+        "French Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states the empire began with the 1492 arrival of Christopher Columbus.",
-        "Incorrect. 1493 is when the first major settlement occurred, not Columbus's arrival.",
-        "Incorrect. 1494 is the year of the Treaty of Tordesillas.",
-        "Incorrect. 1580 is when Spain began conquering Portugal during the War of the Portuguese Succession."
+        "Correct. The article states that in conjunction with the Portuguese Empire, it ushered in the European Age of Discovery.",
+        "Incorrect. The article names the Portuguese Empire, not the British Empire.",
+        "Incorrect. The article names the Portuguese Empire, not the Dutch Empire.",
+        "Incorrect. The article names the Portuguese Empire, not the French Empire."
       ]
     },
     {
       "id": 4,
-      "question": "What was the greatest extent of the Spanish Empire in square kilometres?",
+      "question": "Which regions did the Spanish Empire control?",
+      "options": [
+        "The Americas, Africa, islands in Asia and Oceania, and parts of Europe",
+        "Only the Americas and Europe",
+        "Only the Caribbean and South America",
+        "Only Asia and Oceania"
+      ],
+      "answer_explanations": [
+        "Correct. The article says it controlled vast portions of the Americas, Africa, various islands in Asia and Oceania, as well as territory in other parts of Europe.",
+        "Incorrect. The article lists more regions than just the Americas and Europe.",
+        "Incorrect. The article lists more regions than just the Caribbean and South America.",
+        "Incorrect. The article lists more regions than just Asia and Oceania."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What was the Spanish Empire known as because of its global reach?",
+      "options": [
+        "The empire on which the sun never sets",
+        "The empire of the New World",
+        "The empire of gold and silver",
+        "The empire of the Indies"
+      ],
+      "answer_explanations": [
+        "Correct. The article says it became known as 'the empire on which the sun never sets'.",
+        "Incorrect. The article does not use that phrase.",
+        "Incorrect. The article does not use that phrase.",
+        "Incorrect. The article does not use that phrase."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "At its greatest extent, how large was the Spanish Empire?",
       "options": [
         "13.7 million square kilometres",
         "5.3 million square kilometres",
@@ -61,15 +93,47 @@
         "5.3 million square miles"
       ],
       "answer_explanations": [
-        "Correct. The article states the empire covered 13.7 million square kilometres at its greatest extent.",
-        "Incorrect. 5.3 million square kilometres is not mentioned; 5.3 million square miles is the equivalent conversion.",
-        "Incorrect. 13.7 million square miles is not stated; the figure in square miles is 5.3 million.",
-        "Incorrect. 5.3 million square miles is the equivalent in square miles, not square kilometres."
+        "Correct. The article states it covered 13.7 million square kilometres (5.3 million square miles).",
+        "Incorrect. 5.3 million is the square miles, not the square kilometres.",
+        "Incorrect. The article gives 13.7 million square kilometres, not square miles.",
+        "Incorrect. The article gives 5.3 million square miles, but the question asks for the size in square kilometres; 13.7 million is the correct figure."
       ]
     },
     {
-      "id": 5,
-      "question": "Which country was the only serious threat to Spanish hegemony in the New World at the beginning?",
+      "id": 7,
+      "question": "When did the Spanish Empire begin expanding?",
+      "options": [
+        "With the 1492 arrival of Christopher Columbus",
+        "With the conquest of Portugal in 1580",
+        "With the crowning of Philip V in 1700",
+        "With the MagellanâElcano circumnavigation"
+      ],
+      "answer_explanations": [
+        "Correct. The article says beginning with the 1492 arrival of Christopher Columbus, the empire would expand.",
+        "Incorrect. The article mentions 1580 as the conquest of Portugal, not the beginning of expansion.",
+        "Incorrect. The article mentions 1700 as the start of Philip V's reign, not the beginning of expansion.",
+        "Incorrect. The article mentions the MagellanâElcano circumnavigation as laying the foundation for the Pacific empire, not the beginning of expansion."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which areas did the Spanish Empire expand into after 1492?",
+      "options": [
+        "Caribbean Islands, half of South America, most of Central America, and much of North America",
+        "Only the Caribbean Islands and South America",
+        "Only Central America and North America",
+        "Only South America and Central America"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists the Caribbean Islands, half of South America, most of Central America, and much of North America.",
+        "Incorrect. The article includes more areas than just the Caribbean and South America.",
+        "Incorrect. The article includes more areas than just Central and North America.",
+        "Incorrect. The article includes more areas than just South and Central America."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Who was the only serious threat to Spanish hegemony in the New World in the beginning?",
       "options": [
         "Portugal",
         "England",
@@ -77,90 +141,26 @@
         "The Netherlands"
       ],
       "answer_explanations": [
-        "Correct. The article says Portugal was the only serious threat to Spanish hegemony in the New World at the beginning.",
-        "Incorrect. England is mentioned later as taking small Caribbean islands, not as the initial threat.",
-        "Incorrect. France is mentioned later as taking small Caribbean islands, not as the initial threat.",
-        "Incorrect. The Dutch are mentioned later as taking small Caribbean islands, not as the initial threat."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "During what years did Spain conquer Portugal and the Azores Islands?",
-      "options": [
-        "1580 to 1582",
-        "1580 to 1640",
-        "1475 to 1479",
-        "1700 to 1701"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Spain conquered Portugal and the Azores Islands from 1580 to 1582 during the War of the Portuguese Succession.",
-        "Incorrect. 1580 to 1640 is the duration of the Iberian Union, not the conquest period.",
-        "Incorrect. 1475 to 1479 refers to the War of the Castilian Succession.",
-        "Incorrect. 1700 is when Philip V became king, not a conquest period."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "What was the forced union between the Spanish and Portuguese crowns called?",
-      "options": [
-        "the Iberian Union",
-        "the Catholic Monarchy",
-        "the Hispanic Monarchy",
-        "the Casa de ContrataciÃ³n"
-      ],
-      "answer_explanations": [
-        "Correct. The article calls the forced union between the two crowns the Iberian Union.",
-        "Incorrect. The Catholic Monarchy is an alternative name for the Spanish Empire.",
-        "Incorrect. The Hispanic Monarchy is an alternative name for the Spanish Empire.",
-        "Incorrect. The Casa de ContrataciÃ³n was a government body for the empire in the New World."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "Which mines enriched the Spanish crown with gold and silver?",
-      "options": [
-        "Zacatecas, Guanajuato, and PotosÃ­",
-        "Ceuta and Madeira",
-        "Gran Canaria and Tenerife",
-        "Guinea and Azores"
-      ],
-      "answer_explanations": [
-        "Correct. The article mentions gold and silver from the mines in Zacatecas and Guanajuato in Mexico and PotosÃ­ in Bolivia.",
-        "Incorrect. Ceuta and Madeira are locations related to Portuguese expansion, not Spanish mines.",
-        "Incorrect. Gran Canaria and Tenerife are Canary Islands, not mines.",
-        "Incorrect. Guinea and Azores are not mentioned as sources of gold and silver mines."
-      ]
-    },
-    {
-      "id": 9,
-      "question": "What title did Pope Alexander VI give Ferdinand and Isabella?",
-      "options": [
-        "the Catholic Monarchs",
-        "the Habsburg monarchs",
-        "the Bourbon monarchs",
-        "the Catholic Monarchy"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Pope Alexander VI gave them the title of the Catholic Monarchs.",
-        "Incorrect. The Habsburgs were a later dynasty, not a title given by the pope.",
-        "Incorrect. The Bourbons were a later dynasty, not a title given by the pope.",
-        "Incorrect. The Catholic Monarchy is an alternative name for the empire, not the title given to the couple."
+        "Correct. The article says Portugal was the only serious threat to Spanish hegemony in the New World.",
+        "Incorrect. The article names Portugal, not England.",
+        "Incorrect. The article names Portugal, not France.",
+        "Incorrect. The article names Portugal, not the Netherlands."
       ]
     },
     {
       "id": 10,
-      "question": "By the mid-1820s, what had Spain lost?",
+      "question": "What happened as a result of Spain conquering Portugal from 1580 to 1582?",
       "options": [
-        "its territories in Mexico, Central America, and South America",
-        "Cuba, Puerto Rico, the Philippine Islands, and Guam",
-        "Portugal and the Azores Islands",
-        "the Canary Islands"
+        "The establishment of the Iberian Union",
+        "The start of the Age of Discovery",
+        "The loss of Cuba",
+        "The crowning of Philip V"
       ],
       "answer_explanations": [
-        "Correct. The article states that by the mid-1820s, Spain had lost its territories in Mexico, Central America, and South America.",
-        "Incorrect. Cuba, Puerto Rico, the Philippines, and Guam were lost by late 1898, not the mid-1820s.",
-        "Incorrect. Spain conquered Portugal and the Azores; it did not lose them by the 1820s.",
-        "Incorrect. The Canary Islands were conquered by Spain, not lost by the 1820s."
+        "Correct. The article says the conquest resulted in the establishment of the Iberian Union.",
+        "Incorrect. The Age of Discovery began earlier, with Columbus's arrival.",
+        "Incorrect. The loss of Cuba happened much later, in 1898.",
+        "Incorrect. Philip V became king in 1700, not as a result of the conquest."
       ]
     }
   ]

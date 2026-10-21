@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Immanuel Kant's nationality?",
+      "question": "What was Immanuel Kant's original first name?",
       "options": [
-        "German",
-        "French",
-        "British",
-        "Scottish"
+        "Emanuel",
+        "Immanuel",
+        "Karl",
+        "Friedrich"
       ],
       "answer_explanations": [
-        "Correct. The article states that Immanuel Kant was a German philosopher.",
-        "Incorrect. The article identifies Kant as German, not French.",
-        "Incorrect. The article identifies Kant as German, not British.",
-        "Incorrect. Although Kant believed his family was of Scottish descent, the article identifies Kant himself as German."
+        "Correct. The article states he was born 'Emanuel Kant'.",
+        "Incorrect. The article says his name was 'Emanuel', not 'Immanuel'.",
+        "Incorrect. The article does not mention 'Karl' as his first name.",
+        "Incorrect. The article does not mention 'Friedrich' as his first name."
       ]
     },
     {
       "id": 2,
-      "question": "In which city was Immanuel Kant born?",
+      "question": "When was Immanuel Kant born?",
       "options": [
-        "KÃ¶nigsberg",
-        "Berlin",
-        "Vienna",
-        "Paris"
+        "22 April 1724",
+        "12 February 1804",
+        "22 April 1804",
+        "12 February 1724"
       ],
       "answer_explanations": [
-        "Correct. The article states that Kant was born in KÃ¶nigsberg in the Kingdom of Prussia.",
-        "Incorrect. The article does not state that Kant was born in Berlin.",
-        "Incorrect. The article does not state that Kant was born in Vienna.",
-        "Incorrect. The article does not state that Kant was born in Paris."
+        "Correct. The article gives his birth date as 22 April 1724.",
+        "Incorrect. 12 February 1804 is his death date, not his birth date.",
+        "Incorrect. The article does not list this as his birth date.",
+        "Incorrect. The article does not list this as his birth date."
       ]
     },
     {
       "id": 3,
-      "question": "In what year was Immanuel Kant born?",
+      "question": "Where was Immanuel Kant born?",
       "options": [
-        "1724",
-        "1781",
-        "1740",
-        "1804"
+        "KÃ¶nigsberg",
+        "Berlin",
+        "Hamburg",
+        "Munich"
       ],
       "answer_explanations": [
-        "Correct. The article states that Immanuel Kant was born on 22 April 1724.",
-        "Incorrect. 1781 is the publication year of the Critique of Pure Reason, not Kant's birth year.",
-        "Incorrect. 1740 is the year Kant enrolled at the University of KÃ¶nigsberg, not his birth year.",
-        "Incorrect. 1804 is the year of Kant's death, not his birth year."
+        "Correct. The article says he was born in KÃ¶nigsberg in the Kingdom of Prussia.",
+        "Incorrect. The article does not mention Berlin as his birthplace.",
+        "Incorrect. The article does not mention Hamburg as his birthplace.",
+        "Incorrect. The article does not mention Munich as his birthplace."
       ]
     },
     {
       "id": 4,
-      "question": "Which work did Kant publish in 1781?",
+      "question": "What was Immanuel Kant's nationality?",
       "options": [
-        "Critique of Pure Reason",
-        "Universal Natural History and Theory of the Heavens",
-        "Observations on the Feeling of the Beautiful and Sublime",
-        "Thoughts on the True Estimation of Living Forces"
+        "German",
+        "French",
+        "English",
+        "Russian"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Critique of Pure Reason was published in 1781/1787.",
-        "Incorrect. The article states that Universal Natural History and Theory of the Heavens was published in 1755.",
-        "Incorrect. The article states that Observations on the Feeling of the Beautiful and Sublime was written in the early 1760s.",
-        "Incorrect. The article states that Thoughts on the True Estimation of Living Forces was published in 1749."
+        "Correct. The article describes him as a German philosopher.",
+        "Incorrect. The article says he was German, not French.",
+        "Incorrect. The article says he was German, not English.",
+        "Incorrect. The article says he was German, not Russian."
       ]
     },
     {
       "id": 5,
-      "question": "What does Kant's doctrine of transcendental idealism claim about space and time?",
+      "question": "Which intellectual movement is Kant considered a central thinker of?",
       "options": [
-        "They are mere forms of intuition that structure all experience",
-        "They are objective realities independent of the mind",
-        "They are properties of things in themselves",
-        "They are illusions created by sensory perception"
+        "The Enlightenment",
+        "The Renaissance",
+        "The Reformation",
+        "The Romanticism"
       ],
       "answer_explanations": [
-        "Correct. The article states that transcendental idealism is the doctrine that space and time are mere forms of intuition that structure all experience.",
-        "Incorrect. The article says we have knowledge only of appearances, not that space and time are objective realities independent of the mind.",
-        "Incorrect. The article distinguishes appearances from things in themselves and does not say space and time are properties of things in themselves.",
-        "Incorrect. The article does not describe space and time as illusions created by sensory perception."
+        "Correct. The article states he is considered one of the central thinkers of the Enlightenment.",
+        "Incorrect. The article does not mention the Renaissance.",
+        "Incorrect. The article does not mention the Reformation.",
+        "Incorrect. The article does not mention Romanticism."
       ]
     },
     {
       "id": 6,
-      "question": "What does Kant believe is the source of morality?",
+      "question": "Which of the following is NOT listed as a field of Kant's works?",
       "options": [
-        "Reason",
-        "Emotion",
-        "Divine command",
-        "Social custom"
+        "Astronomy",
+        "Epistemology",
+        "Metaphysics",
+        "Ethics"
       ],
       "answer_explanations": [
-        "Correct. The article states that Kant believed reason is the source of morality.",
-        "Incorrect. The article does not identify emotion as the source of morality.",
-        "Incorrect. The article does not identify divine command as the source of morality.",
-        "Incorrect. The article does not identify social custom as the source of morality."
+        "Correct. The article lists epistemology, metaphysics, logic, ethics, aesthetics, political theory, and philosophy of religion, but not astronomy.",
+        "Incorrect. Epistemology is listed in the article.",
+        "Incorrect. Metaphysics is listed in the article.",
+        "Incorrect. Ethics is listed in the article."
       ]
     },
     {
       "id": 7,
-      "question": "What did Kant hope could be secured through an international federation of republican states?",
+      "question": "What is the title of Kant's work mentioned in the article?",
       "options": [
-        "Perpetual peace",
-        "Economic prosperity",
-        "Military dominance",
-        "Religious unity"
+        "Critique of Pure Reason",
+        "Critique of Practical Reason",
+        "Critique of Judgment",
+        "Groundwork of the Metaphysics of Morals"
       ],
       "answer_explanations": [
-        "Correct. The article states that Kant hoped perpetual peace could be secured through an international federation of republican states.",
-        "Incorrect. The article does not mention economic prosperity in this context.",
-        "Incorrect. The article does not mention military dominance in this context.",
-        "Incorrect. The article does not mention religious unity in this context."
+        "Correct. The article mentions the 'Critique of Pure Reason' (1781/1787).",
+        "Incorrect. The article does not mention this title.",
+        "Incorrect. The article does not mention this title.",
+        "Incorrect. The article does not mention this title."
       ]
     },
     {
       "id": 8,
-      "question": "What was Kant's baptismal name?",
+      "question": "According to the article, what are space and time in Kant's philosophy?",
       "options": [
-        "Emanuel",
-        "Immanuel",
-        "Johann",
-        "Georg"
+        "Forms of intuition",
+        "Things in themselves",
+        "Categories of understanding",
+        "Objects of experience"
       ],
       "answer_explanations": [
-        "Correct. The article states that Kant was baptized as Emanuel.",
-        "Incorrect. The article states that Kant changed the spelling of his name to Immanuel after learning Hebrew, but he was baptized as Emanuel.",
-        "Incorrect. Johann was his father's name, not Kant's baptismal name.",
-        "Incorrect. Georg was part of his father's name, not Kant's baptismal name."
+        "Correct. The article says space and time are 'forms of intuition' that structure all experience.",
+        "Incorrect. The article says we have knowledge only of appearances, not things in themselves.",
+        "Incorrect. The article mentions categories of the understanding, but space and time are forms of intuition.",
+        "Incorrect. The article says objects of experience conform to forms of intuition, not that space and time are objects."
       ]
     },
     {
       "id": 9,
-      "question": "Which university did Kant attend starting in 1740?",
+      "question": "What does Kant believe is the source of morality?",
       "options": [
-        "University of KÃ¶nigsberg",
-        "University of Berlin",
-        "University of Leipzig",
-        "University of Wittenberg"
+        "Reason",
+        "Faith",
+        "Emotion",
+        "Tradition"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1740, aged 16, Kant enrolled at the University of KÃ¶nigsberg.",
-        "Incorrect. The article does not state that Kant attended the University of Berlin.",
-        "Incorrect. The article does not state that Kant attended the University of Leipzig.",
-        "Incorrect. The article does not state that Kant attended the University of Wittenberg."
+        "Correct. The article states 'Kant believed that reason is the source of morality'.",
+        "Incorrect. The article does not say faith is the source of morality.",
+        "Incorrect. The article does not say emotion is the source of morality.",
+        "Incorrect. The article does not say tradition is the source of morality."
       ]
     },
     {
       "id": 10,
-      "question": "In what year was Kant appointed Full Professor of Logic and Metaphysics at the University of KÃ¶nigsberg?",
+      "question": "How did Kant hope perpetual peace could be secured?",
       "options": [
-        "1770",
-        "1755",
-        "1781",
-        "1762"
+        "Through an international federation of republican states",
+        "Through a single world government",
+        "Through military conquest",
+        "Through religious unity"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1770, Kant was appointed Full Professor of Logic and Metaphysics at the University of KÃ¶nigsberg.",
-        "Incorrect. 1755 is the year Kant received a license to lecture, not his appointment as Full Professor.",
-        "Incorrect. 1781 is the publication year of the Critique of Pure Reason, not his professorial appointment.",
-        "Incorrect. 1762 is the year The False Subtlety of the Four Syllogistic Figures was published, not his appointment year."
+        "Correct. The article says Kant hoped that perpetual peace could be secured through an international federation of republican states and international cooperation.",
+        "Incorrect. The article does not mention a single world government.",
+        "Incorrect. The article does not mention military conquest.",
+        "Incorrect. The article does not mention religious unity as the means."
       ]
     }
   ]

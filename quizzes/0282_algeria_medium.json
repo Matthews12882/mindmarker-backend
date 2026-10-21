@@ -7,160 +7,160 @@
       "id": 1,
       "question": "What is the official name of Algeria?",
       "options": [
-        "People's Democratic Republic of Algeria",
-        "Democratic Republic of Algeria",
-        "People's Republic of Algeria",
-        "Algerian Democratic Republic"
+        "The People's Democratic Republic of Algeria",
+        "The Republic of Algiers",
+        "The Democratic Arab Republic of Algeria",
+        "The People's Republic of the Maghreb"
       ],
       "answer_explanations": [
-        "Correct. The article states the official name is the 'People's Democratic Republic of Algeria'.",
-        "Incorrect. The official name includes 'People's Democratic Republic', not just 'Democratic Republic'.",
-        "Incorrect. The official name includes 'Democratic', not just 'People's Republic'.",
-        "Incorrect. The official name is 'People's Democratic Republic of Algeria', not 'Algerian Democratic Republic'."
+        "Correct. The article states that Algeria is officially the 'People's Democratic Republic of Algeria'.",
+        "Incorrect. The article does not use this name; it refers to the official name as the People's Democratic Republic of Algeria.",
+        "Incorrect. The article does not use this name; it refers to the official name as the People's Democratic Republic of Algeria.",
+        "Incorrect. The article does not use this name; it refers to the official name as the People's Democratic Republic of Algeria."
       ]
     },
     {
       "id": 2,
-      "question": "Which body of water borders Algeria to the north?",
+      "question": "Which sea borders Algeria to the north?",
       "options": [
-        "Mediterranean Sea",
-        "Atlantic Ocean",
-        "Red Sea",
-        "Indian Ocean"
+        "The Mediterranean Sea",
+        "The Red Sea",
+        "The Black Sea",
+        "The Atlantic Ocean"
       ],
       "answer_explanations": [
         "Correct. The article says Algeria is bordered 'to the north by the Mediterranean Sea'.",
-        "Incorrect. The Atlantic Ocean is not mentioned as a border of Algeria.",
-        "Incorrect. The Red Sea is not mentioned as a border of Algeria.",
-        "Incorrect. The Indian Ocean is not mentioned as a border of Algeria."
+        "Incorrect. The article mentions the Mediterranean Sea, not the Red Sea, as the northern border.",
+        "Incorrect. The article mentions the Mediterranean Sea, not the Black Sea, as the northern border.",
+        "Incorrect. The article mentions the Mediterranean Sea, not the Atlantic Ocean, as the northern border."
       ]
     },
     {
       "id": 3,
-      "question": "What is the largest company in Africa, according to the article?",
+      "question": "According to the article, what is the capital and largest city of Algeria?",
       "options": [
-        "Sonatrach",
-        "Sonangol",
-        "Saudi Aramco",
-        "TotalEnergies"
+        "Algiers",
+        "Oran",
+        "Constantine",
+        "Annaba"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Sonatrach, the national oil company, is the largest company in Africa'.",
-        "Incorrect. Sonangol is not mentioned in the article.",
-        "Incorrect. Saudi Aramco is not mentioned in the article.",
-        "Incorrect. TotalEnergies is not mentioned in the article."
+        "Correct. The article states that 'Its capital and largest city is Algiers'.",
+        "Incorrect. The article names Algiers as the capital and largest city, not Oran.",
+        "Incorrect. The article names Algiers as the capital and largest city, not Constantine.",
+        "Incorrect. The article names Algiers as the capital and largest city, not Annaba."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is NOT a language with official status in Algeria?",
+      "question": "Which two languages are the official languages of Algeria?",
       "options": [
-        "French",
-        "Arabic",
-        "Amazigh",
-        "None of the above"
+        "Arabic and Amazigh",
+        "Arabic and French",
+        "French and Amazigh",
+        "Arabic and English"
       ],
       "answer_explanations": [
-        "Correct. The article says French 'has no official status' in Algeria.",
-        "Incorrect. Arabic is listed as an official language.",
-        "Incorrect. Amazigh is listed as an official language.",
-        "Incorrect. The question asks for the language without official status, which is French."
+        "Correct. The article states that 'Its official languages are Arabic and Amazigh'.",
+        "Incorrect. While French is used, the article specifies that it 'has no official status', so it is not an official language.",
+        "Incorrect. The article specifies Arabic and Amazigh as the official languages, not French and Amazigh.",
+        "Incorrect. The article specifies Arabic and Amazigh as the official languages, not Arabic and English."
       ]
     },
     {
       "id": 5,
-      "question": "What event in 1945 catalyzed resistance leading to the Algerian War?",
+      "question": "What is the dominant religion in Algeria, practiced by 99% of the population?",
       "options": [
-        "SÃ©tif and Guelma massacre",
-        "Invasion of Algiers",
-        "Mokrani Revolt",
-        "Battle of Zama"
+        "Sunni Islam",
+        "Christianity",
+        "Judaism",
+        "Hinduism"
       ],
       "answer_explanations": [
-        "Correct. The article states 'The SÃ©tif and Guelma massacre in 1945 catalysed local resistance that culminated in the outbreak of the Algerian War in 1954'.",
-        "Incorrect. The invasion of Algiers occurred in 1830, not 1945.",
-        "Incorrect. The Mokrani Revolt occurred in the 19th century, not 1945.",
-        "Incorrect. The Battle of Zama occurred in 202 BC, not 1945."
+        "Correct. The article states that 'Sunni Islam is the official religion and practiced by 99% of the population'.",
+        "Incorrect. The article identifies Sunni Islam, not Christianity, as the dominant religion.",
+        "Incorrect. The article identifies Sunni Islam, not Judaism, as the dominant religion.",
+        "Incorrect. The article identifies Sunni Islam, not Hinduism, as the dominant religion."
       ]
     },
     {
       "id": 6,
-      "question": "What does the name 'Algiers' ultimately derive from?",
+      "question": "What type of republic is Algeria according to the article?",
       "options": [
-        "The Arabic word for 'the islands'",
-        "The name of a Berber tribe",
-        "The Ottoman Turkish word for 'the country'",
-        "The French word for 'the city'"
+        "A semi-presidential republic",
+        "A presidential republic",
+        "A parliamentary republic",
+        "A federal republic"
       ],
       "answer_explanations": [
-        "Correct. The article explains that the name 'Algiers' comes from the Arabic 'al-JazÄÊ¾ir', meaning 'the islands'.",
-        "Incorrect. While the full name referred to a Berber tribe, the ultimate derivation is from 'the islands'.",
-        "Incorrect. The Ottoman Turkish term is not the ultimate derivation.",
-        "Incorrect. The French word is not the ultimate derivation."
+        "Correct. The article states that 'Algeria is a semi-presidential republic'.",
+        "Incorrect. The article specifically describes Algeria as a semi-presidential republic, not a presidential one.",
+        "Incorrect. The article specifically describes Algeria as a semi-presidential republic, not a parliamentary one.",
+        "Incorrect. The article specifically describes Algeria as a semi-presidential republic, not a federal one."
       ]
     },
     {
       "id": 7,
-      "question": "Which ancient Berber kingdom unified territories after the Battle of Zama?",
+      "question": "Which national oil company is mentioned as the largest company in Africa?",
       "options": [
-        "Kingdom of Numidia",
-        "Kingdom of Mauretania",
-        "Carthaginian Empire",
-        "Masaesyli Kingdom"
+        "Sonatrach",
+        "Saudi Aramco",
+        "QatarEnergy",
+        "BP"
       ],
       "answer_explanations": [
-        "Correct. The article states that after the Battle of Zama, Masinissa unified territories into the 'Kingdom of Numidia'.",
-        "Incorrect. Mauretania was a later client kingdom, not the one unified after Zama.",
-        "Incorrect. Carthage was defeated at Zama, not unified afterward.",
-        "Incorrect. The Masaesyli were one of the rival kingdoms defeated by Masinissa."
+        "Correct. The article states that 'Sonatrach, the national oil company, is the largest company in Africa'.",
+        "Incorrect. The article names Sonatrach as the largest company in Africa, not Saudi Aramco.",
+        "Incorrect. The article names Sonatrach as the largest company in Africa, not QatarEnergy.",
+        "Incorrect. The article names Sonatrach as the largest company in Africa, not BP."
       ]
     },
     {
       "id": 8,
-      "question": "What is the approximate age of the oldest stone artifacts found at Ain Boucherit?",
+      "question": "From which city does the name 'Algeria' ultimately derive?",
       "options": [
-        "~1.9 million years",
-        "~1.8 million years",
-        "~2.4 million years",
-        "~43,000 years"
+        "Algiers",
+        "Oran",
+        "Constantine",
+        "Tlemcen"
       ],
       "answer_explanations": [
-        "Correct. The article says stone artifacts at Ain Boucherit 'are estimated to be ~1.9 million years old'.",
-        "Incorrect. ~1.8 million years refers to artifacts from Ain Hanech, not Ain Boucherit.",
-        "Incorrect. ~2.4 million years is mentioned as an even older possibility, but the main estimate is ~1.9 million.",
-        "Incorrect. ~43,000 years refers to Neanderthal tool styles, not the oldest artifacts."
+        "Correct. The article states that 'The name Algeria ultimately derives from the city of Algiers'.",
+        "Incorrect. The article says the name derives from Algiers, not Oran.",
+        "Incorrect. The article says the name derives from Algiers, not Constantine.",
+        "Incorrect. The article says the name derives from Algiers, not Tlemcen."
       ]
     },
     {
       "id": 9,
-      "question": "Which Roman emperor was born in Caesarea (modern Cherchell, Algeria)?",
+      "question": "What does the Arabic name for Algiers, 'al-JazÄÊ¾ir', mean?",
       "options": [
-        "Macrinus",
-        "Caligula",
-        "Augustus",
-        "Caracalla"
+        "The islands",
+        "The mountains",
+        "The desert",
+        "The coast"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Emperor Macrinus was born in Caesarea (modern Cherchell, Algeria) around 165 AD'.",
-        "Incorrect. Caligula is mentioned as executing Ptolemy, not as being born in Algeria.",
-        "Incorrect. Augustus is mentioned as installing Juba II, not as being born in Algeria.",
-        "Incorrect. Caracalla is mentioned as being assassinated by Macrinus, not as being born in Algeria."
+        "Correct. The article states that 'al-JazÄÊ¾ir' means 'the islands'.",
+        "Incorrect. The article says the name means 'the islands', not 'the mountains'.",
+        "Incorrect. The article says the name means 'the islands', not 'the desert'.",
+        "Incorrect. The article says the name means 'the islands', not 'the coast'."
       ]
     },
     {
       "id": 10,
-      "question": "What is the official religion of Algeria, practiced by 99% of the population?",
+      "question": "According to the article, which desert dominates most of Algeria's territory?",
       "options": [
-        "Sunni Islam",
-        "Shia Islam",
-        "Christianity",
-        "Judaism"
+        "The Sahara",
+        "The Kalahari",
+        "The Gobi",
+        "The Arabian"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Sunni Islam is the official religion and practiced by 99% of the population'.",
-        "Incorrect. Shia Islam is not mentioned as the official religion.",
-        "Incorrect. Christianity is not mentioned as the official religion.",
-        "Incorrect. Judaism is not mentioned as the official religion."
+        "Correct. The article states that 'the Sahara desert dominating most of the territory'.",
+        "Incorrect. The article mentions the Sahara, not the Kalahari, as the dominant desert.",
+        "Incorrect. The article mentions the Sahara, not the Gobi, as the dominant desert.",
+        "Incorrect. The article mentions the Sahara, not the Arabian, as the dominant desert."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What year was Adolf Hitler born?",
+      "question": "Where was Adolf Hitler born?",
       "options": [
-        "1889",
-        "1890",
-        "1891",
-        "1892"
+        "Braunau am Inn in Austria-Hungary",
+        "Berlin in Germany",
+        "Munich in Germany",
+        "Vienna in Austria"
       ],
       "answer_explanations": [
-        "Correct. The article states that Adolf Hitler was born on 20 April 1889.",
-        "Incorrect. The article does not give 1890 as Hitler's birth year.",
-        "Incorrect. The article does not give 1891 as Hitler's birth year.",
-        "Incorrect. The article does not give 1892 as Hitler's birth year."
+        "Correct. The article states: 'Hitler was born in Braunau am Inn in Austria-Hungary.'",
+        "Incorrect. The article does not say Hitler was born in Berlin; it says he was born in Braunau am Inn.",
+        "Incorrect. The article does not say Hitler was born in Munich; it says he was born in Braunau am Inn.",
+        "Incorrect. The article does not say Hitler was born in Vienna; it says he was born in Braunau am Inn."
       ]
     },
     {
       "id": 2,
-      "question": "In what year did Hitler become chancellor of Germany?",
+      "question": "In which year did Hitler become dictator of Germany in the Nazi era?",
       "options": [
         "1933",
-        "1932",
         "1934",
-        "1935"
+        "1939",
+        "1945"
       ],
       "answer_explanations": [
-        "Correct. The article states that Hitler became chancellor of Germany in 1933.",
-        "Incorrect. The article states Hitler became chancellor in 1933, not 1932.",
-        "Incorrect. The article states Hitler became chancellor in 1933, not 1934.",
-        "Incorrect. The article states Hitler became chancellor in 1933, not 1935."
+        "Correct. The article states: 'he was dictator of Germany in the Nazi era from 1933 until his suicide in 1945.'",
+        "Incorrect. The article states Hitler became dictator in 1933, not 1934.",
+        "Incorrect. The article states Hitler became dictator in 1933, not 1939.",
+        "Incorrect. The article states Hitler became dictator in 1933, not 1945."
       ]
     },
     {
       "id": 3,
-      "question": "What event on 1 September 1939 marked the outbreak of the Second World War?",
+      "question": "What title did Hitler take in 1934?",
       "options": [
-        "Germany's invasion of Poland",
-        "Germany's invasion of France",
-        "Germany's invasion of the Soviet Union",
-        "Germany's declaration of war on the United States"
+        "FÃ¼hrer und Reichskanzler",
+        "Chancellor of Germany",
+        "President of Germany",
+        "Leader of the Nazi Party"
       ],
       "answer_explanations": [
-        "Correct. The article states that Germany's invasion of Poland on 1 September 1939 marked the outbreak of the Second World War.",
-        "Incorrect. The article identifies the invasion of Poland, not France, as the event marking the war's outbreak.",
-        "Incorrect. The article identifies the invasion of Poland, not the Soviet Union, as the event marking the war's outbreak.",
-        "Incorrect. The article identifies the invasion of Poland, not the declaration of war on the United States, as the event marking the war's outbreak."
+        "Correct. The article states: 'taking the title of FÃ¼hrer und Reichskanzler in 1934.'",
+        "Incorrect. The article says he became chancellor in 1933, but the title he took in 1934 was FÃ¼hrer und Reichskanzler.",
+        "Incorrect. The article does not say he took the title of President; it says he took the title of FÃ¼hrer und Reichskanzler.",
+        "Incorrect. The article says he became leader of the Nazi Party earlier, but the title he took in 1934 was FÃ¼hrer und Reichskanzler."
       ]
     },
     {
       "id": 4,
-      "question": "Where was Adolf Hitler born?",
+      "question": "What event on 1 September 1939 marked the outbreak of the Second World War?",
       "options": [
-        "Braunau am Inn",
-        "Berlin",
-        "Munich",
-        "Vienna"
+        "Germany's invasion of Poland",
+        "Germany's invasion of the Soviet Union",
+        "Germany's declaration of war on the United States",
+        "The annexation of Austria"
       ],
       "answer_explanations": [
-        "Correct. The article states Hitler was born in Braunau am Inn in Austria-Hungary.",
-        "Incorrect. The article states Hitler was born in Braunau am Inn, not Berlin.",
-        "Incorrect. The article states Hitler was born in Braunau am Inn, not Munich.",
-        "Incorrect. The article states Hitler was born in Braunau am Inn, not Vienna."
+        "Correct. The article states: 'Germany's invasion of Poland on 1 September 1939 under his leadership marked the outbreak of the Second World War.'",
+        "Incorrect. The article does not say the invasion of the Soviet Union marked the outbreak; it says the invasion of Poland did.",
+        "Incorrect. The article does not say the declaration of war on the United States marked the outbreak; it says the invasion of Poland did.",
+        "Incorrect. The article does not mention the annexation of Austria in this context; it says the invasion of Poland marked the outbreak."
       ]
     },
     {
       "id": 5,
-      "question": "How did Adolf Hitler die?",
+      "question": "How many Jews were killed in the Holocaust according to the article?",
       "options": [
-        "He committed suicide",
-        "He was executed",
-        "He died of illness",
-        "He was killed in battle"
+        "About six million",
+        "About five million",
+        "About seven million",
+        "About ten million"
       ],
       "answer_explanations": [
-        "Correct. The article states that Hitler committed suicide on 30 April 1945.",
-        "Incorrect. The article states Hitler committed suicide, not that he was executed.",
-        "Incorrect. The article states Hitler committed suicide, not that he died of illness.",
-        "Incorrect. The article states Hitler committed suicide, not that he was killed in battle."
+        "Correct. The article states: 'the genocide of about six million Jews in the Holocaust.'",
+        "Incorrect. The article says about six million, not five million.",
+        "Incorrect. The article says about six million, not seven million.",
+        "Incorrect. The article says about six million, not ten million."
       ]
     },
     {
       "id": 6,
-      "question": "What title did Hitler take in 1934?",
+      "question": "In which year did Hitler move to Germany?",
       "options": [
-        "FÃ¼hrer und Reichskanzler",
-        "ReichsprÃ¤sident",
-        "Reichskanzler",
-        "FÃ¼hrer"
+        "1913",
+        "1919",
+        "1921",
+        "1923"
       ],
       "answer_explanations": [
-        "Correct. The article states that Hitler took the title of FÃ¼hrer und Reichskanzler in 1934.",
-        "Incorrect. The article states Hitler took the title FÃ¼hrer und Reichskanzler, not ReichsprÃ¤sident.",
-        "Incorrect. The article states Hitler took the title FÃ¼hrer und Reichskanzler, not Reichskanzler.",
-        "Incorrect. The article states Hitler took the title FÃ¼hrer und Reichskanzler, not FÃ¼hrer alone."
+        "Correct. The article states: 'moved to Germany in 1913.'",
+        "Incorrect. The article says he moved to Germany in 1913, not 1919.",
+        "Incorrect. The article says he moved to Germany in 1913, not 1921.",
+        "Incorrect. The article says he moved to Germany in 1913, not 1923."
       ]
     },
     {
       "id": 7,
-      "question": "What did Hitler do while imprisoned after the failed 1923 coup?",
+      "question": "What did Hitler receive during his service in the German Army in the First World War?",
       "options": [
-        "He dictated the first volume of Mein Kampf",
-        "He wrote a letter to Hindenburg",
-        "He organized the Nazi Party",
-        "He planned the invasion of Poland"
+        "The Iron Cross",
+        "The Medal of Honor",
+        "The Victoria Cross",
+        "The Purple Heart"
       ],
       "answer_explanations": [
-        "Correct. The article states that while in prison, Hitler dictated the first volume of his autobiography and political manifesto Mein Kampf.",
-        "Incorrect. The article does not mention Hitler writing a letter to Hindenburg while imprisoned.",
-        "Incorrect. The article states Hitler dictated Mein Kampf while imprisoned, not that he organized the Nazi Party.",
-        "Incorrect. The article states Hitler dictated Mein Kampf while imprisoned, not that he planned the invasion of Poland."
+        "Correct. The article states: 'receiving the Iron Cross.'",
+        "Incorrect. The article says he received the Iron Cross, not the Medal of Honor.",
+        "Incorrect. The article says he received the Iron Cross, not the Victoria Cross.",
+        "Incorrect. The article says he received the Iron Cross, not the Purple Heart."
       ]
     },
     {
       "id": 8,
-      "question": "Whom did Hitler marry on 29 April 1945?",
+      "question": "What was the name of the party that Hitler joined in 1919?",
       "options": [
-        "Eva Braun",
-        "Klara PÃ¶lzl",
-        "Paula Hitler",
-        "Angela Hitler"
+        "German Workers' Party (DAP)",
+        "Nazi Party",
+        "Social Democratic Party",
+        "Communist Party"
       ],
       "answer_explanations": [
-        "Correct. The article states that Hitler married his longtime partner Eva Braun on 29 April 1945.",
-        "Incorrect. Klara PÃ¶lzl was Hitler's mother, not his wife.",
-        "Incorrect. Paula Hitler was Hitler's sister, not his wife.",
-        "Incorrect. Angela Hitler was Hitler's half-sister, not his wife."
+        "Correct. The article states: 'In 1919, he joined the German Workers' Party (DAP), the precursor of the Nazi Party.'",
+        "Incorrect. The article says he joined the German Workers' Party, which was the precursor to the Nazi Party, not the Nazi Party itself.",
+        "Incorrect. The article does not mention the Social Democratic Party; it says he joined the German Workers' Party.",
+        "Incorrect. The article does not mention the Communist Party; it says he joined the German Workers' Party."
       ]
     },
     {
       "id": 9,
-      "question": "What medal did Hitler receive for his service in the German Army during the First World War?",
+      "question": "What was the title of Hitler's autobiography and political manifesto?",
       "options": [
-        "Iron Cross",
-        "Pour le MÃ©rite",
-        "Knight's Cross",
-        "War Merit Cross"
+        "Mein Kampf",
+        "Der FÃ¼hrer",
+        "Lebensraum",
+        "Mein Leben"
       ],
       "answer_explanations": [
-        "Correct. The article states that Hitler received the Iron Cross during his service in the German Army in the First World War.",
-        "Incorrect. The article states Hitler received the Iron Cross, not the Pour le MÃ©rite.",
-        "Incorrect. The article states Hitler received the Iron Cross, not the Knight's Cross.",
-        "Incorrect. The article states Hitler received the Iron Cross, not the War Merit Cross."
+        "Correct. The article states: 'he dictated the first volume of his autobiography and political manifesto Mein Kampf ('my struggle').'",
+        "Incorrect. The article does not say his autobiography was titled Der FÃ¼hrer; it says it was Mein Kampf.",
+        "Incorrect. The article does not say his autobiography was titled Lebensraum; it says it was Mein Kampf.",
+        "Incorrect. The article does not say his autobiography was titled Mein Leben; it says it was Mein Kampf."
       ]
     },
     {
       "id": 10,
-      "question": "In what year did Hitler join the German Workers' Party (DAP)?",
+      "question": "What did Hitler frequently denounce as being part of an international Jewish conspiracy?",
       "options": [
-        "1919",
-        "1918",
-        "1920",
-        "1921"
+        "Communism",
+        "Capitalism",
+        "Socialism",
+        "Democracy"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1919, Hitler joined the German Workers' Party (DAP).",
-        "Incorrect. The article states Hitler joined the DAP in 1919, not 1918.",
-        "Incorrect. The article states Hitler joined the DAP in 1919, not 1920.",
-        "Incorrect. The article states Hitler joined the DAP in 1919, not 1921."
+        "Correct. The article states: 'He frequently denounced communism as being part of an international Jewish conspiracy.'",
+        "Incorrect. The article says he denounced communism, not capitalism.",
+        "Incorrect. The article says he denounced communism, not socialism.",
+        "Incorrect. The article says he denounced communism, not democracy."
       ]
     }
   ]

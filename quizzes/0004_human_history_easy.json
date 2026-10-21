@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Where did modern humans evolve according to the article?",
+      "question": "Where did modern humans evolve around 300,000 years ago?",
       "options": [
         "Africa",
-        "Europe",
         "Asia",
+        "Europe",
         "Australia"
       ],
       "answer_explanations": [
-        "Correct. The article states that modern humans evolved in Africa around 300,000 years ago.",
-        "Incorrect. The article does not say modern humans evolved in Europe.",
-        "Incorrect. The article does not say modern humans evolved in Asia.",
-        "Incorrect. The article does not say modern humans evolved in Australia."
+        "Correct. The article states: 'Modern humans evolved in Africa around 300,000 years ago'.",
+        "Incorrect. The article specifies Africa, not Asia.",
+        "Incorrect. The article specifies Africa, not Europe.",
+        "Incorrect. The article specifies Africa, not Australia."
       ]
     },
     {
       "id": 2,
-      "question": "What lifestyle did early modern humans initially live as?",
+      "question": "How long ago did modern humans evolve?",
       "options": [
-        "Hunter-gatherers",
-        "Farmers",
-        "Nomadic herders",
-        "Sedentary agriculturalists"
+        "Around 300,000 years ago",
+        "Around 12,000 years ago",
+        "Around 500,000 years ago",
+        "Around 1,000,000 years ago"
       ],
       "answer_explanations": [
-        "Correct. The article says modern humans initially lived as hunter-gatherers.",
-        "Incorrect. Farming came later with the Neolithic Revolution, not initially.",
-        "Incorrect. Nomadic animal herding developed later, not as the initial lifestyle.",
-        "Incorrect. Sedentism as farmers came after the Neolithic Revolution, not initially."
+        "Correct. The article says 'Modern humans evolved in Africa around 300,000 years ago'.",
+        "Incorrect. 12,000 years ago is when the Last Ice Age ended, not when modern humans evolved.",
+        "Incorrect. The article states 300,000 years ago, not 500,000.",
+        "Incorrect. The article states 300,000 years ago, not 1,000,000."
       ]
     },
     {
       "id": 3,
-      "question": "By the end of which period had humans spread to every continent except Antarctica?",
+      "question": "Initially, how did modern humans live?",
       "options": [
-        "The Last Ice Age",
-        "The Neolithic Revolution",
-        "The Bronze Age",
-        "The Axial Age"
+        "As hunter-gatherers",
+        "As farmers in permanent settlements",
+        "As nomadic herders",
+        "As city dwellers"
       ],
       "answer_explanations": [
-        "Correct. The article states humans spread to every continent except Antarctica by the end of the Last Ice Age, 12,000 years ago.",
-        "Incorrect. The Neolithic Revolution came after the Last Ice Age.",
-        "Incorrect. The Bronze Age is much later than the Last Ice Age.",
-        "Incorrect. The Axial Age is much later than the Last Ice Age."
+        "Correct. The article states they 'initially lived as hunter-gatherers'.",
+        "Incorrect. Farming in permanent settlements came later with the Neolithic Revolution.",
+        "Incorrect. The article specifically mentions hunter-gatherers, not herders.",
+        "Incorrect. The article specifically mentions hunter-gatherers, not city dwellers."
       ]
     },
     {
       "id": 4,
-      "question": "What did the Neolithic Revolution in West Asia include?",
+      "question": "During which period did humans migrate out of Africa?",
       "options": [
-        "The first systematic husbandry of plants and animals",
-        "The invention of writing",
-        "The rise of Islam",
-        "The Industrial Revolution"
+        "During the Last Ice Age",
+        "During the Neolithic Revolution",
+        "During the Bronze Age",
+        "During the Industrial Revolution"
       ],
       "answer_explanations": [
-        "Correct. The article says the Neolithic Revolution included the first systematic husbandry of plants and animals.",
-        "Incorrect. Writing came later as societies grew more complex, not as part of the Neolithic Revolution in West Asia.",
-        "Incorrect. Islam rose during the post-classical period, not the Neolithic Revolution.",
-        "Incorrect. The Industrial Revolution occurred much later, starting around 1800 CE."
+        "Correct. The article states: 'They migrated out of Africa during the Last Ice Age'.",
+        "Incorrect. The Neolithic Revolution happened after the migration, not during it.",
+        "Incorrect. The Bronze Age is mentioned later in the article, not in relation to this migration.",
+        "Incorrect. The Industrial Revolution occurred much later, in the 18th century."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is listed as an early civilization in the article?",
+      "question": "By the end of the Last Ice Age, humans had spread to every continent except which one?",
       "options": [
-        "Mesopotamia",
-        "Greece",
-        "Rome",
-        "Carthage"
+        "Antarctica",
+        "Australia",
+        "South America",
+        "Asia"
       ],
       "answer_explanations": [
-        "Correct. The article lists Mesopotamia as one of the early civilizations.",
-        "Incorrect. Greece is not listed among the early civilizations in the article.",
-        "Incorrect. Rome is not listed among the early civilizations in the article.",
-        "Incorrect. Carthage is not listed among the early civilizations in the article."
+        "Correct. The article says they spread to 'every continent except Antarctica'.",
+        "Incorrect. Australia is not mentioned as an exception.",
+        "Incorrect. South America is not mentioned as an exception.",
+        "Incorrect. Asia is not mentioned as an exception."
       ]
     },
     {
       "id": 6,
-      "question": "Which belief system originated during the late Bronze Age according to the article?",
+      "question": "When did the Last Ice Age end?",
       "options": [
-        "Hinduism",
-        "Buddhism",
-        "Christianity",
-        "Islam"
+        "12,000 years ago",
+        "300,000 years ago",
+        "4,000 years ago",
+        "500 years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states Hinduism originated during the late Bronze Age.",
-        "Incorrect. Buddhism is listed as part of the Axial Age, not the late Bronze Age.",
-        "Incorrect. Christianity began later as an offshoot of Judaism.",
-        "Incorrect. Islam rose during the post-classical period, not the late Bronze Age."
+        "Correct. The article states humans spread to every continent except Antarctica 'by its end, 12,000 years ago'.",
+        "Incorrect. 300,000 years ago is when modern humans evolved.",
+        "Incorrect. 4,000 years ago is not mentioned in the article.",
+        "Incorrect. 500 years ago is not mentioned in the article."
       ]
     },
     {
       "id": 7,
-      "question": "What time range does the article give for the post-classical period?",
+      "question": "What did the Neolithic Revolution include?",
       "options": [
-        "About 500 to 1500 CE",
-        "300 to 1000 CE",
-        "1000 to 1500 CE",
-        "500 to 1000 CE"
+        "The first systematic husbandry of plants and animals",
+        "The invention of writing",
+        "The rise of the first empires",
+        "The development of gunpowder"
       ],
       "answer_explanations": [
-        "Correct. The article states the post-classical period was from about 500 to 1500 CE.",
-        "Incorrect. The article does not give 300 to 1000 CE as the range.",
-        "Incorrect. The article does not give 1000 to 1500 CE as the range.",
-        "Incorrect. The article does not give 500 to 1000 CE as the range."
+        "Correct. The article states the Neolithic Revolution 'included the first systematic husbandry of plants and animals'.",
+        "Incorrect. Writing is mentioned later as a result of growing complexity, not as part of the Neolithic Revolution.",
+        "Incorrect. Empires emerged later, after early civilizations.",
+        "Incorrect. Gunpowder was invented in the post-classical period."
       ]
     },
     {
       "id": 8,
-      "question": "Which two inventions from the post-classical period are mentioned as greatly affecting later history?",
+      "question": "Where did the Neolithic Revolution take place?",
       "options": [
-        "Gunpowder and the printing press",
-        "The steam engine and the telegraph",
-        "The compass and paper",
-        "The telescope and the microscope"
+        "In West Asia",
+        "In Egypt",
+        "In China",
+        "In Peru"
       ],
       "answer_explanations": [
-        "Correct. The article says the invention of gunpowder and the printing press greatly affected later history.",
-        "Incorrect. The steam engine and telegraph are not mentioned in this context.",
-        "Incorrect. The compass and paper are not mentioned as the two inventions.",
-        "Incorrect. The telescope and microscope are not mentioned in this context."
+        "Correct. The article says 'the Neolithic Revolution in West Asia'.",
+        "Incorrect. Egypt is mentioned later as a place where early civilizations emerged.",
+        "Incorrect. China is mentioned later as a place where early civilizations emerged.",
+        "Incorrect. Peru is mentioned later as a place where early civilizations emerged."
       ]
     },
     {
       "id": 9,
-      "question": "What time range does the article give for the early modern period?",
+      "question": "What did the growing complexity of human societies necessitate?",
       "options": [
-        "Approximately 1500 to 1800 CE",
-        "1000 to 1500 CE",
-        "1800 to 1900 CE",
-        "500 to 1000 CE"
+        "Systems of accounting and writing",
+        "The invention of the printing press",
+        "The exploration of new continents",
+        "The development of gunpowder"
       ],
       "answer_explanations": [
-        "Correct. The article states the early modern period was from approximately 1500 to 1800 CE.",
-        "Incorrect. The article does not give 1000 to 1500 CE for the early modern period.",
-        "Incorrect. The article says the modern period starts around 1800 CE, not the early modern period.",
-        "Incorrect. The article does not give 500 to 1000 CE for the early modern period."
+        "Correct. The article states: 'The growing complexity of human societies necessitated systems of accounting and writing'.",
+        "Incorrect. The printing press was invented much later, in the post-classical period.",
+        "Incorrect. Exploration of new continents happened in the early modern period.",
+        "Incorrect. Gunpowder was invented in the post-classical period."
       ]
     },
     {
       "id": 10,
-      "question": "What period started around 1800 CE according to the article?",
+      "question": "According to the article, what is the record of humankind from prehistory to the present called?",
       "options": [
-        "The modern period",
-        "The early modern period",
-        "The post-classical period",
-        "The ancient period"
+        "Human history",
+        "Ancient history",
+        "World war",
+        "Globalization"
       ],
       "answer_explanations": [
-        "Correct. The article states the modern period started around 1800 CE.",
-        "Incorrect. The early modern period was from approximately 1500 to 1800 CE.",
-        "Incorrect. The post-classical period was from about 500 to 1500 CE.",
-        "Incorrect. The ancient period began in the 4th millennium BCE."
+        "Correct. The article begins: 'Human history, or world history, is the record of humankind from prehistory to the present'.",
+        "Incorrect. Ancient history is a specific period, not the overall record.",
+        "Incorrect. World war is a later event, not the record of humankind.",
+        "Incorrect. Globalization is a process mentioned later, not the record of humankind."
       ]
     }
   ]

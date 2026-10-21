@@ -5,6 +5,22 @@
   "questions": [
     {
       "id": 1,
+      "question": "What is a continent generally identified by?",
+      "options": [
+        "Convention rather than any strict criteria",
+        "A strict set of geological rules",
+        "The number of islands nearby",
+        "Its size in square kilometers"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that continents are generally identified by convention rather than any strict criteria.",
+        "Incorrect. The article says 'rather than any strict criteria', so strict rules are not used.",
+        "Incorrect. The number of nearby islands is not mentioned as the identifying factor.",
+        "Incorrect. Size is not the identifying factor mentioned in the article."
+      ]
+    },
+    {
+      "id": 2,
       "question": "How many continents do most English-speaking countries recognize?",
       "options": [
         "Seven",
@@ -13,15 +29,15 @@
         "Six"
       ],
       "answer_explanations": [
-        "Correct. The article states that most English-speaking countries recognize seven continents.",
-        "Incorrect. Four continents is mentioned as one possible variation, but not the number recognized by most English-speaking countries.",
-        "Incorrect. Five continents is not the number recognized by most English-speaking countries according to the article.",
-        "Incorrect. Six continents is mentioned as a model used in some regions, but not by most English-speaking countries."
+        "Correct. The article says 'Most English-speaking countries recognize seven continents.'",
+        "Incorrect. Four is mentioned as a possible lower number, but not what most English-speaking countries recognize.",
+        "Incorrect. Five is not mentioned in the article.",
+        "Incorrect. Six is not mentioned in the article."
       ]
     },
     {
-      "id": 2,
-      "question": "Which continent is listed as the largest in area in the seven-continent model?",
+      "id": 3,
+      "question": "Which continent is the largest by area?",
       "options": [
         "Asia",
         "Africa",
@@ -29,138 +45,122 @@
         "Europe"
       ],
       "answer_explanations": [
-        "Correct. The article lists Asia first among the seven continents in order from largest to smallest in area.",
-        "Incorrect. Africa is listed second, not first, in the order from largest to smallest.",
-        "Incorrect. North America is listed third, not first, in the order from largest to smallest.",
-        "Incorrect. Europe is listed sixth, not first, in the order from largest to smallest."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Which two continents are joined by the Isthmus of Suez?",
-      "options": [
-        "Africa and Asia",
-        "North America and South America",
-        "Europe and Asia",
-        "Australia and Antarctica"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Africa and Asia are joined by the Isthmus of Suez.",
-        "Incorrect. North America and South America are joined by the Isthmus of Panama, not the Isthmus of Suez.",
-        "Incorrect. Europe and Asia form Eurasia, but they are not joined by the Isthmus of Suez.",
-        "Incorrect. Australia and Antarctica are not joined by the Isthmus of Suez."
+        "Correct. The article lists the seven continents 'in order from largest to smallest' and Asia is first.",
+        "Incorrect. Africa is second in the list, not the largest.",
+        "Incorrect. North America is third in the list, not the largest.",
+        "Incorrect. Europe is sixth in the list, not the largest."
       ]
     },
     {
       "id": 4,
-      "question": "Which two continents are joined by the Isthmus of Panama?",
+      "question": "Which of the following is listed as the smallest of the seven continents?",
       "options": [
-        "North America and South America",
-        "Africa and Asia",
-        "Europe and Asia",
-        "Australia and Antarctica"
+        "Australia",
+        "Antarctica",
+        "Europe",
+        "South America"
       ],
       "answer_explanations": [
-        "Correct. The article states that North America and South America are joined by the Isthmus of Panama.",
-        "Incorrect. Africa and Asia are joined by the Isthmus of Suez, not the Isthmus of Panama.",
-        "Incorrect. Europe and Asia are not joined by the Isthmus of Panama.",
-        "Incorrect. Australia and Antarctica are not joined by the Isthmus of Panama."
+        "Correct. The article lists the seven continents from largest to smallest, and Australia is last.",
+        "Incorrect. Antarctica is fifth in the list, not the smallest.",
+        "Incorrect. Europe is sixth in the list, not the smallest.",
+        "Incorrect. South America is fourth in the list, not the smallest."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the seven most globally recognized continents are completely separated from other continents by the ocean?",
+      "question": "What is the name for the combined landmass of Asia and Europe?",
       "options": [
-        "Antarctica and Australia",
-        "Africa and Asia",
-        "North America and South America",
-        "Europe and Asia"
+        "Eurasia",
+        "Afro-Eurasia",
+        "Americas",
+        "Oceania"
       ],
       "answer_explanations": [
-        "Correct. The article states that of the seven most globally recognized continents, only Antarctica and Australia are completely separated from other continents by the ocean.",
-        "Incorrect. Africa and Asia are joined by the Isthmus of Suez.",
-        "Incorrect. North America and South America are joined by the Isthmus of Panama.",
-        "Incorrect. Europe and Asia are part of the continuous landmass of Eurasia."
+        "Correct. The article gives 'merging Asia and Europe into Eurasia' as an example.",
+        "Incorrect. Afro-Eurasia is the merging of Africa, Asia, and Europe, not just Asia and Europe.",
+        "Incorrect. Americas is the merging of North and South America.",
+        "Incorrect. Oceania is a geographical region, not the name for Asia and Europe combined."
       ]
     },
     {
       "id": 6,
-      "question": "Which continent is deemed the smallest continent according to the article?",
+      "question": "What is the name for the combined landmass of North America and South America?",
       "options": [
-        "Australia",
-        "Greenland",
-        "Europe",
-        "Antarctica"
+        "The Americas",
+        "Eurasia",
+        "Afro-Eurasia",
+        "Oceania"
       ],
       "answer_explanations": [
-        "Correct. The article states that Australia, at 7,617,930 square kilometres, is deemed the smallest continent.",
-        "Incorrect. Greenland is considered the world's largest island, not the smallest continent.",
-        "Incorrect. Europe is not identified as the smallest continent in the article.",
-        "Incorrect. Antarctica is not identified as the smallest continent in the article."
+        "Correct. The article mentions 'merging North America and South America into the Americas'.",
+        "Incorrect. Eurasia is the merging of Asia and Europe.",
+        "Incorrect. Afro-Eurasia is the merging of Africa, Asia, and Europe.",
+        "Incorrect. Oceania is a geographical region, not the merging of the Americas."
       ]
     },
     {
       "id": 7,
-      "question": "Which supercontinent did the current continents form from breaking up, according to the idea of continental drift?",
+      "question": "What is the name for the combined landmass of Africa, Asia, and Europe?",
       "options": [
-        "Pangaea",
-        "Eurasia",
         "Afro-Eurasia",
-        "Gondwana"
+        "Eurasia",
+        "Americas",
+        "Oceania"
       ],
       "answer_explanations": [
-        "Correct. The article states that continental drift postulates that the current continents formed from the breaking up of a supercontinent called Pangaea.",
-        "Incorrect. Eurasia is a landmass combining Europe and Asia, not the supercontinent mentioned.",
-        "Incorrect. Afro-Eurasia is a combined landmass, not the supercontinent Pangaea.",
-        "Incorrect. Gondwana is not mentioned in the article as the supercontinent from which current continents formed."
+        "Correct. The article mentions 'merging Africa, Asia, and Europe into Africa-Eurasia'.",
+        "Incorrect. Eurasia is only Asia and Europe.",
+        "Incorrect. Americas is North and South America.",
+        "Incorrect. Oceania is a geographical region, not the merging of Africa, Asia, and Europe."
       ]
     },
     {
       "id": 8,
-      "question": "Which model of continents is taught in most English-speaking countries including Australia, Canada, the United Kingdom, and the United States?",
+      "question": "What is the name of the geographical region formed by grouping most Pacific island countries and territories with Australia?",
       "options": [
-        "Seven-continent model",
-        "Six-continent combined-America model",
-        "Six-continent combined-Eurasia model",
-        "Four-continent model"
+        "Oceania",
+        "Eurasia",
+        "Afro-Eurasia",
+        "Americas"
       ],
       "answer_explanations": [
-        "Correct. The article states that the seven-continent model is taught in most English-speaking countries including Australia, Canada, the United Kingdom, and the United States.",
-        "Incorrect. The six-continent combined-America model is taught in Greece and many Romance-speaking countries, not most English-speaking countries.",
-        "Incorrect. The six-continent combined-Eurasia model is mostly used in Russia and some parts of Eastern Europe.",
-        "Incorrect. The four-continent model is not described as being taught in most English-speaking countries."
+        "Correct. The article says most Pacific island countries and territories are grouped with Australia to form the geographical region of Oceania.",
+        "Incorrect. Eurasia is the merging of Asia and Europe, not related to Pacific islands.",
+        "Incorrect. Afro-Eurasia is the merging of Africa, Asia, and Europe.",
+        "Incorrect. Americas is the merging of North and South America."
       ]
     },
     {
       "id": 9,
-      "question": "Which continent is defined as a great quantity of land not separated by any sea from the rest of the world, according to Peter Heylin's 17th century writing?",
+      "question": "What is the term for the supercontinent that broke up to form the current continents?",
       "options": [
-        "Europe, Asia, Africa",
-        "North America",
-        "Australia",
-        "Antarctica"
+        "Pangaea",
+        "Eurasia",
+        "Gondwana",
+        "Rodinia"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Peter Heylin writing that 'A Continent is a great quantity of Land, not separated by any Sea from the rest of the World, as the whole Continent of Europe, Asia, Africa.'",
-        "Incorrect. North America is not mentioned in Peter Heylin's definition in the article.",
-        "Incorrect. Australia is not mentioned in Peter Heylin's definition in the article.",
-        "Incorrect. Antarctica is not mentioned in Peter Heylin's definition in the article."
+        "Correct. The article mentions the supercontinent Pangaea.",
+        "Incorrect. Eurasia is a current landmass, not a supercontinent.",
+        "Incorrect. Gondwana is not mentioned in the article.",
+        "Incorrect. Rodinia is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "Which continent is excluded from the five rings of the Olympic flag?",
+      "question": "According to the article, what is the range in the number of continents due to varying definitions?",
       "options": [
-        "Antarctica",
-        "Asia",
-        "Europe",
-        "Africa"
+        "Up to seven or as few as four",
+        "Always seven",
+        "Always four",
+        "Up to ten or as few as two"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Olympic flag's five rings represent the five inhabited continents of the combined-America model but exclude the uninhabited Antarctica.",
-        "Incorrect. Asia is one of the inhabited continents represented by the Olympic rings.",
-        "Incorrect. Europe is one of the inhabited continents represented by the Olympic rings.",
-        "Incorrect. Africa is one of the inhabited continents represented by the Olympic rings."
+        "Correct. The article states 'the number of continents varies, up to seven or as few as four'.",
+        "Incorrect. The article says the number varies, not that it is always seven.",
+        "Incorrect. The article says the number varies, not that it is always four.",
+        "Incorrect. The article gives a range of seven to four, not ten to two."
       ]
     }
   ]

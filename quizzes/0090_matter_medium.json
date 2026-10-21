@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following best describes how matter is defined in physical science according to the article?",
+      "question": "What is matter defined as in physical science?",
       "options": [
         "Anything that has mass and occupies space by having volume",
-        "Anything that is visible to the naked eye",
-        "Anything that is composed of energy waves",
-        "Anything that can be measured in kilograms"
+        "Anything that has energy and can move",
+        "Anything that can be seen with the naked eye",
+        "Anything that has weight and color"
       ],
       "answer_explanations": [
-        "Correct. The article states that matter is anything that has mass and occupies space by having volume.",
-        "Incorrect. Visibility is not part of the article's definition of matter.",
-        "Incorrect. The article explicitly excludes energy phenomena such as light and heat from matter.",
-        "Incorrect. Being measurable in kilograms is not the definition given in the article."
+        "Correct. The article states, 'matter is anything that has mass and occupies space by having volume'.",
+        "Incorrect. The article does not define matter as having energy and the ability to move.",
+        "Incorrect. Visibility is not part of the definition of matter.",
+        "Incorrect. Weight and color are not the defining characteristics of matter."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, which of the following is NOT included in matter?",
+      "question": "Which of the following is NOT considered matter according to the article?",
       "options": [
-        "Photons",
-        "Atoms",
-        "Composite particles that act as if they have rest mass and volume",
-        "Particles that act as if they have rest mass and volume"
+        "Light",
+        "Water",
+        "Air",
+        "A rock"
       ],
       "answer_explanations": [
-        "Correct. The article states that matter does not include massless particles such as photons.",
-        "Incorrect. Atoms are included in matter according to the article.",
-        "Incorrect. Composite particles that act as if they have rest mass and volume are included in matter.",
-        "Incorrect. Particles that act as if they have rest mass and volume are included in matter."
+        "Correct. The article states that matter does not include 'massless particles such as photons, or other energy phenomena or waves such as light or heat'.",
+        "Incorrect. Water is a form of matter, existing in states like ice, liquid water, and steam.",
+        "Incorrect. Air is a gas, which is a state of matter.",
+        "Incorrect. A rock is a solid, which is a state of matter."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is listed in the article as a state of matter beyond solid, liquid, and gas?",
+      "question": "What are the three classical everyday states of matter mentioned in the article?",
       "options": [
-        "Plasma",
-        "Crystal",
-        "Vapor",
-        "Aerosol"
+        "Solid, liquid, and gas",
+        "Solid, liquid, and plasma",
+        "Liquid, gas, and plasma",
+        "Solid, gas, and Bose-Einstein condensate"
       ],
       "answer_explanations": [
-        "Correct. The article lists plasma as one of the other possible states of matter.",
-        "Incorrect. Crystal is not listed as a state of matter in the article.",
-        "Incorrect. Vapor is not listed as a distinct state of matter in the article.",
-        "Incorrect. Aerosol is not listed as a state of matter in the article."
+        "Correct. The article lists 'classical everyday phases such as solid, liquid, and gas'.",
+        "Incorrect. Plasma is mentioned but not as a classical everyday state.",
+        "Incorrect. Plasma is mentioned but not as a classical everyday state.",
+        "Incorrect. Bose-Einstein condensate is mentioned but not as a classical everyday state."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, why does matter appear to take up space under everyday conditions?",
+      "question": "According to the article, what are atoms usually imagined to consist of?",
       "options": [
-        "Because fermions are forced to keep a distance from other particles due to the exclusion principle and fundamental interactions",
-        "Because atoms have well-defined sizes and positions",
-        "Because subatomic particles behave like everyday objects",
-        "Because electrons orbit the nucleus in fixed paths"
+        "A nucleus of protons and neutrons, with orbiting electrons",
+        "A nucleus of only protons, with orbiting neutrons",
+        "A nucleus of electrons, with orbiting protons and neutrons",
+        "A solid sphere with no internal structure"
       ],
       "answer_explanations": [
-        "Correct. The article states that fermions are effectively forced to keep a distance from other particles, creating the property of matter taking up space.",
-        "Incorrect. The article says subatomic particles do not have well-defined sizes or positions.",
-        "Incorrect. The article states that subatomic particles do not act like everyday objects appear to act.",
-        "Incorrect. The article describes electrons as a surrounding cloud and notes quantum behavior, not fixed orbital paths."
+        "Correct. The article says, 'atoms can be imagined as a nucleus consisting of subatomic particles, protons and neutrons and a surrounding cloud of orbiting electrons'.",
+        "Incorrect. Neutrons are in the nucleus, not orbiting.",
+        "Incorrect. Electrons are not in the nucleus; they orbit it.",
+        "Incorrect. Atoms are not described as solid spheres; they have a nucleus and electrons."
       ]
     },
     {
       "id": 5,
-      "question": "Which ancient philosophers are mentioned in the article as early proposers of the particulate theory of matter?",
+      "question": "What does the article say about subatomic particles and their properties?",
       "options": [
-        "Kaá¹Äda, Leucippus, and Democritus",
-        "Aristotle, Plato, and Socrates",
-        "Confucius and Laozi",
-        "Newton and Einstein"
+        "They are governed by their quantum nature and can act like waves as well as particles",
+        "They behave exactly like everyday objects",
+        "They have well-defined sizes and positions",
+        "They are not affected by quantum mechanics"
       ],
       "answer_explanations": [
-        "Correct. The article names Kaá¹Äda, Leucippus, and Democritus as early philosophers who proposed the particulate theory of matter.",
-        "Incorrect. Aristotle, Plato, and Socrates are not mentioned in this context in the article.",
-        "Incorrect. Confucius and Laozi are not mentioned in the article.",
-        "Incorrect. Newton and Einstein are not mentioned as early proposers of the particulate theory."
+        "Correct. The article states, 'subatomic particles and their properties are governed by their quantum nature... they can act like waves as well as particles, and they do not have well-defined sizes or positions'.",
+        "Incorrect. The article says they do not act as everyday objects appear to act.",
+        "Incorrect. The article says they do not have well-defined sizes or positions.",
+        "Incorrect. The article says they are governed by quantum nature."
       ]
     },
     {
       "id": 6,
-      "question": "How does the article distinguish mass from matter?",
+      "question": "Who were some early philosophers who proposed the particulate theory of matter?",
       "options": [
-        "Mass is a well-defined extensive property of matter, while matter is a general term describing any physical substance",
-        "Mass and matter are identical concepts with no distinction",
-        "Matter is a property of mass, not the other way around",
-        "Mass is a substance, while matter is a property of substances"
+        "Kaá¹Äda, Leucippus, and Democritus",
+        "Socrates, Plato, and Aristotle",
+        "Newton, Einstein, and Bohr",
+        "Galileo, Kepler, and Copernicus"
       ],
       "answer_explanations": [
-        "Correct. The article states that mass is not a substance but a well-defined extensive property of matter, while matter is a general term describing any physical substance.",
-        "Incorrect. The article explicitly distinguishes mass from matter.",
-        "Incorrect. The article states the opposite: mass is a property of matter.",
-        "Incorrect. The article states that mass is not a substance."
+        "Correct. The article mentions 'the Indian philosopher Kaá¹Äda... and the pre-Socratic Greek philosophers Leucippus... and Democritus'.",
+        "Incorrect. These philosophers are not mentioned in the article.",
+        "Incorrect. These are modern scientists, not early philosophers.",
+        "Incorrect. These are astronomers, not early philosophers of matter."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is a chemical substance?",
+      "question": "What is the difference between matter and mass according to the article?",
       "options": [
-        "A unique form of matter with constant chemical composition and characteristic properties",
-        "Any mixture of two or more substances",
-        "A substance that can only exist in the solid state",
-        "A form of energy rather than matter"
+        "Matter is a general term for physical substance, while mass is a property of matter",
+        "Matter is a property, while mass is a substance",
+        "They are exactly the same thing",
+        "Mass is a general term, while matter is a property"
       ],
       "answer_explanations": [
-        "Correct. The article defines a chemical substance as a unique form of matter with constant chemical composition and characteristic properties.",
-        "Incorrect. A mixture is formed when substances are combined without reacting, but it is not itself a chemical substance as defined in the article.",
-        "Incorrect. The article states chemical substances can exist in solids, liquids, gases, or plasma.",
-        "Incorrect. The article describes chemical substances as forms of matter, not energy."
+        "Correct. The article says, 'Matter is a general term describing any physical substance... By contrast, mass is not a substance but a well-defined, extensive property of matter'.",
+        "Incorrect. The article says the opposite.",
+        "Incorrect. The article distinguishes them.",
+        "Incorrect. The article says matter is the substance and mass is the property."
       ]
     },
     {
       "id": 8,
-      "question": "According to the quarkâlepton definition in the article, what does ordinary matter consist of?",
+      "question": "What is a chemical substance according to the article?",
       "options": [
-        "Quarks and leptons",
-        "Photons and gluons",
-        "W and Z bosons",
-        "Antiquarks and antileptons only"
+        "A unique form of matter with constant chemical composition and characteristic properties",
+        "Any mixture of different elements",
+        "Anything that can be seen",
+        "A substance that cannot change state"
       ],
       "answer_explanations": [
-        "Correct. The article states that ordinary matter is composed of quarks and leptons.",
-        "Incorrect. Photons and gluons are force carriers, not the constituents of ordinary matter per the quarkâlepton definition.",
-        "Incorrect. W and Z bosons are force carriers and are not made of quarks or leptons.",
-        "Incorrect. Antiquarks and antileptons are associated with antimatter, not ordinary matter."
+        "Correct. The article states, 'a substance is a unique form of matter with constant chemical composition and characteristic properties'.",
+        "Incorrect. A mixture is not a pure chemical substance.",
+        "Incorrect. Visibility is not the definition.",
+        "Incorrect. Substances can change state, as the article explains."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what contributes most of the mass of everyday objects?",
+      "question": "What is the example of a chemical substance given in the article?",
       "options": [
-        "The binding energy of quarks within protons and neutrons",
-        "The sum of the masses of the three quarks in a nucleon",
-        "The mass of electrons alone",
-        "The volume occupied by atoms"
+        "Pure water (H2O)",
+        "Air",
+        "A rock",
+        "Light"
       ],
       "answer_explanations": [
-        "Correct. The article states that most of the mass of everyday objects comes from the interaction energy of its elementary components, specifically the binding energy of quarks within protons and neutrons.",
-        "Incorrect. The article says the sum of the three quarks in a nucleon is only about 12.5 MeV/cÂ², far less than the nucleon's mass.",
-        "Incorrect. The article does not identify electron mass as the primary contributor to everyday mass.",
-        "Incorrect. Volume is not identified as the source of most mass in everyday objects."
+        "Correct. The article says, 'Pure water is an example of a chemical substance, with a constant composition of two hydrogen atoms bonded to a single oxygen atom'.",
+        "Incorrect. Air is a mixture, not a single chemical substance.",
+        "Incorrect. A rock is not a single chemical substance.",
+        "Incorrect. Light is not matter."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following particles are included in the first generation of matter particles according to the Standard Model as described in the article?",
+      "question": "According to the quark-lepton definition, what is ordinary matter composed of?",
       "options": [
-        "Up quark, down quark, electron, and electron neutrino",
-        "Charm quark, strange quark, muon, and muon neutrino",
-        "Top quark, bottom quark, tau, and tau neutrino",
-        "Photon, gluon, W boson, and Z boson"
+        "Quarks and leptons",
+        "Only protons and neutrons",
+        "Only electrons",
+        "Photons and gluons"
       ],
       "answer_explanations": [
-        "Correct. The article lists the first generation as the up and down quarks, the electron, and the electron neutrino.",
-        "Incorrect. These are the second-generation particles according to the article.",
-        "Incorrect. These are the third-generation particles according to the article.",
-        "Incorrect. These are force carriers (bosons), not matter particles in the first generation."
+        "Correct. The article states, 'ordinary matter is everything that is composed of quarks and leptons'.",
+        "Incorrect. Protons and neutrons are made of quarks, but this is not the full definition.",
+        "Incorrect. Electrons are leptons, but matter also includes quarks.",
+        "Incorrect. Photons are massless and not matter; gluons are force carriers, not matter."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "A new alloy is developed that conducts electricity at absolute zero due to delocalized states at the Fermi energy. Based on the article, how should this material be classified?",
+      "question": "Why does the article suggest that the definition of a metal as a substance with electrons available at the Fermi level is more fundamental than merely listing observable properties?",
       "options": [
-        "As a metal",
-        "As a nonmetallic material",
-        "As a semiconductor",
-        "As an ionic compound"
+        "Because it explains why metals are lustrous, conductive, ductile, and malleable as consequences of a single underlying electronic condition",
+        "Because it is the only definition that applies to elemental metals, excluding alloys and compounds",
+        "Because it was the first definition ever proposed for metals, historically replacing all others",
+        "Because it is based solely on macroscopic properties like density and hardness, which are easier to measure"
       ],
       "answer_explanations": [
-        "Correct. The article states that a metal conducts electricity at absolute zero as a consequence of delocalized states at the Fermi energy.",
-        "Incorrect. Nonmetallic materials do not have electrons available at the Fermi level, unlike this alloy.",
-        "Incorrect. Semiconductors have an energy gap between filled and empty electron states, unlike the delocalized states described.",
-        "Incorrect. Ionic compounds have larger Burgers vectors and higher dislocation energy, which differs from the metallic behavior described."
+        "Correct. The article states that the properties of luster, electrical and thermal conductivity are 'all associated with having electrons available at the Fermi level,' implying that this electronic condition underlies and explains those observable traits.",
+        "Incorrect. The article explicitly includes alloys (e.g., stainless steel) and molecular compounds (e.g., polymeric sulfur nitride) as metals, so the definition is not limited to elemental metals.",
+        "Incorrect. The article does not claim historical precedence for this definition; it presents it as a scientific explanation, not a historical first.",
+        "Incorrect. The definition is based on electronic structure (Fermi level), not on macroscopic properties like density or hardness, which are not used in the definition."
       ]
     },
     {
       "id": 2,
-      "question": "An engineer must choose between a metal and an ionic compound like table salt for a component that will undergo repeated plastic deformation. Which material property described in the article favors the metal?",
+      "question": "What does the article imply about the relationship between the Fermi level and electrical conductivity in metals versus semiconductors?",
       "options": [
-        "Lower energy needed to produce a dislocation due to small Burgers vectors",
-        "Higher energy needed to move a dislocation",
-        "Larger Burgers vectors in the crystal lattice",
-        "Directional bonding that resists deformation"
+        "Metals have unoccupied states at the Fermi level, allowing electrons to move under an electric field, whereas semiconductors have an energy gap that prevents such movement without sufficient energy",
+        "Semiconductors have more unoccupied states at the Fermi level than metals, making them better conductors",
+        "Both metals and semiconductors have identical electronic structures, but metals are better conductors because they are denser",
+        "The Fermi level is irrelevant to conductivity; it is only about thermal properties"
       ],
       "answer_explanations": [
-        "Correct. The article states that metals have small Burgers vectors, meaning the energy needed to produce a dislocation is small, unlike ionic compounds.",
-        "Incorrect. The article says the energy to move a dislocation is far higher in ionic compounds, not metals.",
-        "Incorrect. The article states that Burgers vectors are much larger in ionic compounds like table salt, not in metals.",
-        "Incorrect. The article describes metallic bonding as nondirectional, which contributes to ductility."
+        "Correct. The article explains that in metals, empty delocalized states are available at energies near the highest occupied levels, so electrons can shift to higher-momentum states when a voltage is applied. In contrast, semiconductors have an energy gap between the valence and conduction bands, and a small electric field is insufficient to excite electrons across this gap.",
+        "Incorrect. The article states the opposite: semiconductors have an energy gap that makes them poor conductors, whereas metals have available states at the Fermi level.",
+        "Incorrect. The article does not attribute conductivity differences to density; it focuses on electronic structure and the presence of an energy gap.",
+        "Incorrect. The article directly links the Fermi level to electrical conductivity, as seen in the explanation of how electrons shift to higher-momentum states."
       ]
     },
     {
       "id": 3,
-      "question": "If a material's electrical conductivity increases when heated between â175 and +125 Â°C and undergoes a phase change near 100 Â°C, which element from the article exhibits this behavior?",
+      "question": "Based on the article, why might plutonium's electrical conductivity increasing with heating be considered anomalous, and what does this imply about simple models of metallic conduction?",
       "options": [
-        "Plutonium",
-        "Silver",
-        "Manganese",
-        "Boron"
+        "It contradicts the general trend that conductivity decreases with heating, indicating that simple models fail to capture complex relativistic and spin interactions in some transuranic elements",
+        "It is a typical behavior for all metals, so it is not anomalous at all",
+        "It suggests that plutonium is not actually a metal because its conductivity increases",
+        "It implies that the WiedemannâFranz law is universally violated for all metals"
       ],
       "answer_explanations": [
-        "Correct. The article states that plutonium's electrical conductivity increases when heated in that temperature range, with a phase change near 100 Â°C.",
-        "Incorrect. Silver is cited as having the highest conductivity among elemental metals, not this anomalous heating behavior.",
-        "Incorrect. Manganese is cited at the low end of elemental metal conductivity, not for increasing conductivity with heat.",
-        "Incorrect. Boron is a semiconducting metalloid with much lower conductivity, not described as having this phase-change behavior."
+        "Correct. The article states that typically, electrical conductivity of metals decreases with heating because increased thermal motion hinders electron flow. Plutonium is an exception, and its behavior, along with similar phenomena in other transuranic elements, is attributed to 'more complex relativistic and spin interactions which are not captured in simple models.'",
+        "Incorrect. The article explicitly notes that plutonium is an exception, not typical, as most metals show decreased conductivity with heating.",
+        "Incorrect. Plutonium is still considered a metal; the anomaly is in its conductivity trend, not its metallic nature.",
+        "Incorrect. The article does not say the WiedemannâFranz law is universally violated; it only highlights plutonium's anomalous conductivity behavior."
       ]
     },
     {
       "id": 4,
-      "question": "A researcher observes that a metal oxide reacts with both acids and bases. According to the article, what term describes such an oxide?",
+      "question": "How does the article's discussion of gold leaf transmitting green light illustrate a consequence of metallic electronic structure?",
       "options": [
-        "Amphoteric",
-        "Basic",
-        "Strictly acidic",
-        "Passivation"
+        "It shows that the freely moving electrons in metals reflect light, but very thin sheets can transmit certain wavelengths due to the interaction of electrons with light",
+        "It proves that gold is not a metal because it is not opaque",
+        "It indicates that all metals are transparent when thin enough, which contradicts the definition of metals",
+        "It suggests that the color of metals is unrelated to their electron behavior"
       ],
       "answer_explanations": [
-        "Correct. The article states that oxides of less electropositive metals such as BeO, Al2O3, and PbO can display both basic and acidic properties and are termed amphoteric.",
-        "Incorrect. Basic oxides are not described as reacting with both acids and bases.",
-        "Incorrect. Strictly acidic oxides are associated with very high oxidation states like CrO3, not dual behavior.",
-        "Incorrect. A passivation layer acts as a diffusion barrier and is not the term for an oxide reacting with both acids and bases."
+        "Correct. The article states that sheets of metal thicker than a few micrometres appear opaque, but gold leaf transmits green light, and this is due to the freely moving electrons which reflect light. This demonstrates that the electronic structure affects optical properties, including transmission in very thin layers.",
+        "Incorrect. Gold is a metal; its thinness allows light transmission, but it does not negate its metallic properties.",
+        "Incorrect. The article only mentions gold leaf as an example; it does not claim all metals are transparent when thin.",
+        "Incorrect. The article explicitly links the reflection and transmission of light to the freely moving electrons, so color and optical behavior are related to electron behavior."
       ]
     },
     {
       "id": 5,
-      "question": "A materials scientist is comparing a metal and a semiconductor such as silicon. According to the article, why can the metal conduct electricity under a small electric field while the semiconductor generally cannot?",
+      "question": "What conclusion can be drawn from the article's comparison of Burgers vectors in metals versus ionic compounds like table salt?",
       "options": [
-        "The metal has empty delocalized electron states available at energies near the highest occupied levels",
-        "The metal has a large energy gap between valence and conduction bands",
-        "The semiconductor has delocalized states at the Fermi level",
-        "The metal's electrons are all at the same momentum"
+        "The smaller Burgers vectors in metals make dislocation motion easier, contributing to their ductility, whereas larger vectors in ionic compounds make them more brittle",
+        "Ionic compounds are more ductile than metals because they have larger Burgers vectors",
+        "Burgers vectors are irrelevant to mechanical properties like ductility",
+        "Metals are brittle because their Burgers vectors are too small to allow deformation"
       ],
       "answer_explanations": [
-        "Correct. The article explains that metals have empty delocalized electron states available near the highest occupied levels, allowing electrons to shift under an electric field.",
-        "Incorrect. The article attributes the energy gap to semiconductors and nonmetals, not metals.",
-        "Incorrect. The article states that semiconductors have an energy gap, not delocalized states at the Fermi level.",
-        "Incorrect. The article says electrons in a material have different momenta that average to zero, not that they are all the same."
+        "Correct. The article explains that in metals, the Burgers vectors are fairly small due to close-packed arrangements, so the energy needed to produce a dislocation is small, allowing plastic deformation. In contrast, in ionic compounds like table salt, Burgers vectors are much larger, and the energy to move a dislocation is far higher, implying greater brittleness.",
+        "Incorrect. The article suggests the opposite: larger Burgers vectors make dislocation motion harder, so ionic compounds are less ductile.",
+        "Incorrect. The article directly relates Burgers vectors to the ease of dislocation motion and ductility.",
+        "Incorrect. The article states that metals are typically malleable and ductile, and small Burgers vectors facilitate that, not brittleness."
       ]
     },
     {
       "id": 6,
-      "question": "A manufacturer needs a lightweight structural metal with a density close to 2.7 g/cmÂ³. According to the article, which metal fits this description?",
+      "question": "Why does the article mention that some 6d transition metals are expected to be denser than osmium, but their isotopes are too unstable for bulk production? What does this imply about the practical limits of density in metals?",
       "options": [
-        "Aluminium",
-        "Iron",
-        "Copper",
-        "Osmium"
+        "It implies that theoretical predictions may suggest higher densities, but the instability of these elements prevents their use in practical applications, so osmium remains the densest usable metal",
+        "It implies that density is not an important property for metals",
+        "It implies that all superheavy elements are stable enough for bulk use",
+        "It implies that osmium is not actually the densest metal, and the article is incorrect"
       ],
       "answer_explanations": [
-        "Correct. The article lists aluminium's density as 2.7 g/cmÂ³ among light metals of commercial importance.",
-        "Incorrect. The article gives iron's density as 7.9 g/cmÂ³.",
-        "Incorrect. The article gives copper's density as 8.9 g/cmÂ³.",
-        "Incorrect. The article identifies osmium as the most dense at 22.59 g/cmÂ³."
+        "Correct. The article states that some 6d transition metals are expected to be denser than osmium, but their known isotopes are too unstable for bulk production to be possible. This indicates that while theoretical predictions exist, practical limitations prevent their use, so osmium remains the densest metal that can be produced in bulk.",
+        "Incorrect. The article discusses density as a significant property, showing variation among metals, so it is important.",
+        "Incorrect. The article says the isotopes are too unstable for bulk production, implying they are not stable enough.",
+        "Incorrect. The article acknowledges osmium as the most dense among known metals, with the caveat about theoretical heavier elements, so it is not incorrect."
       ]
     },
     {
       "id": 7,
-      "question": "A company wants to use a metal in high-rise building construction because of its strength and resilience. According to the article, which of the following is also listed as a common use of metals?",
+      "question": "What does the article's treatment of titanium nitride as a metal suggest about the classification of compounds as metals?",
       "options": [
-        "Railroad tracks",
-        "Wooden furniture",
-        "Ceramic insulators",
-        "Plastic packaging"
+        "It suggests that metallic character is defined by electronic structure (delocalized states at the Fermi level) rather than by elemental composition alone",
+        "It suggests that only pure elements can be metals, and compounds like titanium nitride are not metals",
+        "It suggests that compounds are always nonmetallic regardless of their conductivity",
+        "It suggests that titanium nitride is a metal only because it contains titanium, a metal element"
       ],
       "answer_explanations": [
-        "Correct. The article lists railroad tracks among the frequent uses of metals due to their strength and resilience.",
-        "Incorrect. The article classifies wood as a nonmetallic material, not a use of metals.",
-        "Incorrect. The article classifies ceramics as nonmetallic materials.",
-        "Incorrect. The article does not list plastic packaging as a use of metals."
+        "Correct. The article states that titanium nitride has delocalized states at the Fermi level, and thus it is a metal by the same definition, even though it is a compound. This shows that metallic character is based on electronic structure, not just elemental composition.",
+        "Incorrect. The article explicitly includes compounds like titanium nitride as metals, so it is not limited to pure elements.",
+        "Incorrect. The article says that conducting ceramics and polymers can be metals, so compounds can be metallic.",
+        "Incorrect. The article does not base the classification on the presence of titanium; it focuses on the delocalized states at the Fermi level."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, which statement accurately describes the relationship between metallic bonding and ductility?",
+      "question": "How does the article's explanation of the WiedemannâFranz law relate to the idea that electrons are responsible for both electrical and thermal conductivity in metals?",
       "options": [
-        "The nondirectional nature of metallic bonding contributes to ductility by allowing dislocation motion",
-        "Metallic bonding is highly directional, which prevents dislocation motion",
-        "Ductility arises from large Burgers vectors that require high energy to move",
-        "Metals cleave easily under stress because of their bonding"
+        "It shows that the ratio of thermal to electrical conductivity is proportional to temperature, implying that the same electron transport mechanism underlies both properties",
+        "It shows that thermal conductivity is independent of electrical conductivity, contradicting the role of electrons",
+        "It shows that the law only applies to nonmetals, not metals",
+        "It shows that electrons are not involved in thermal conductivity, only in electrical conductivity"
       ],
       "answer_explanations": [
-        "Correct. The article states that the nondirectional nature of metallic bonding contributes to ductility, with low Peierls stress allowing dislocation motion.",
-        "Incorrect. The article describes metallic bonding as nondirectional, not highly directional.",
-        "Incorrect. The article says metals have small Burgers vectors and low energy to produce dislocations, unlike ionic compounds.",
-        "Incorrect. The article states metals deform under stress without cleaving."
+        "Correct. The article states that the WiedemannâFranz law says the ratio between thermal and electrical conductivities is proportional to temperature with a roughly constant proportionality for all metals. This implies a common mechanismâconduction electronsâfor both properties, as the article also notes that heat is transported mainly by conduction electrons.",
+        "Incorrect. The law links thermal and electrical conductivities, not independence.",
+        "Incorrect. The law is stated for many metals, not nonmetals.",
+        "Incorrect. The article explicitly says heat is transported mainly by conduction electrons, so electrons are involved in thermal conductivity."
       ]
     },
     {
       "id": 9,
-      "question": "A physicist is studying a plasma. According to the article, how does a plasma compare to elemental metals in terms of electrical conduction?",
+      "question": "What can be inferred from the article's statement that some elements like astatine, francium, and those from fermium onwards are shown in gray because they are extremely radioactive and have never been produced in bulk, but theoretical evidence suggests they should be metals except for oganesson?",
       "options": [
-        "A plasma is a metallic conductor and its charged particles share many properties with electrons in elemental metals",
-        "A plasma is not a conductor under normal conditions",
-        "A plasma has an energy gap that prevents conduction",
-        "A plasma conducts heat but not electricity"
+        "The classification of these elements as metals is based on theoretical predictions, not empirical observation, and oganesson is predicted to be a semiconductor, showing that even theoretical predictions can vary",
+        "These elements are definitely nonmetals because they are radioactive",
+        "The article is uncertain about all these elements, but oganesson is definitely a metal",
+        "The gray color indicates that these elements are not metals, contradicting theoretical evidence"
       ],
       "answer_explanations": [
-        "Correct. The article states that a plasma is a metallic conductor and its charged particles have many properties in common with electrons in elemental metals.",
-        "Incorrect. The article says no gases are metallic conductors under normal conditions, but a plasma is an exception.",
-        "Incorrect. The article attributes energy gaps to semiconductors and nonmetals, not plasmas.",
-        "Incorrect. The article explicitly describes a plasma as a metallic conductor of electricity."
+        "Correct. The article says these elements are shown in gray because they are extremely radioactive and never produced in bulk, but theoretical and experimental evidence suggests they should be metals, except for oganesson, which DFT calculations indicate would be a semiconductor. This shows that classification relies on theoretical predictions, and not all follow the same trend.",
+        "Incorrect. Radioactivity does not preclude metallic character; the article suggests they should be metals.",
+        "Incorrect. The article says oganesson is predicted to be a semiconductor, not a metal.",
+        "Incorrect. The gray color is due to lack of bulk production, not a statement about metallic nature; the article says they should be metals."
       ]
     },
     {
       "id": 10,
-      "question": "According to the WiedemannâFranz law as described in the article, what is true about the ratio between thermal and electrical conductivities in many metals?",
+      "question": "Why does the article's discussion of passivation layers in metal oxides, such as the difference between potassium burning in seconds and iron rusting over years, illustrate the importance of chemical properties in practical applications?",
       "options": [
-        "It is proportional to temperature",
-        "It is inversely proportional to temperature",
-        "It is constant regardless of temperature",
-        "It applies only to semiconductors"
+        "It shows that the formation of a protective oxide layer can significantly slow corrosion, which is crucial for the durability of metals in structures and tools",
+        "It shows that all metals react with oxygen at the same rate, so passivation is irrelevant",
+        "It shows that potassium is more useful than iron because it reacts faster",
+        "It shows that the chemical reactivity of metals is only of academic interest and has no practical consequences"
       ],
       "answer_explanations": [
-        "Correct. The article states that the WiedemannâFranz law says the ratio between thermal and electrical conductivities is proportional to temperature.",
-        "Incorrect. The article describes direct proportionality to temperature, not inverse proportionality.",
-        "Incorrect. The article states the ratio is proportional to temperature, not constant.",
-        "Incorrect. The article applies the law to many metals, not semiconductors."
+        "Correct. The article explains that the timescale of oxidation depends on whether the native oxide forms a passivation layer that acts as a diffusion barrier. This is practically important because metals like iron can be used over years due to slower rusting, while potassium burns quickly, making it unsuitable for structural use.",
+        "Incorrect. The article explicitly notes different timescales, so reaction rates vary.",
+        "Incorrect. The article does not suggest potassium is more useful; its rapid reaction is a disadvantage for many applications.",
+        "Incorrect. The article's discussion of passivation has clear practical implications for material durability and selection."
       ]
     }
   ]

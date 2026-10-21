@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does literary criticism primarily concern itself with?",
+      "question": "According to the article, what is the broadest definition of literature?",
       "options": [
-        "The literary merit or intellectual significance of specific texts",
-        "The study of books and other texts as artifacts or traditions",
-        "The history of printing and digital distribution of written works",
-        "The classification of literature into canonical and popular genres"
+        "Any collection of written work",
+        "Only novels, plays, and poems",
+        "Only works considered high art",
+        "Only digital writing"
       ],
       "answer_explanations": [
-        "Correct. The article states that literary criticism 'is concerned with the literary merit or intellectual significance of specific texts.'",
-        "Incorrect. The study of books and texts as artifacts or traditions is encompassed by textual criticism or the history of the book, not literary criticism.",
-        "Incorrect. Print technology and digital distribution are discussed separately and are not the focus of literary criticism.",
-        "Incorrect. Canonical and popular genres are discussed under definitions of literature, not literary criticism."
+        "Correct. The article states, 'Literature is any collection of written work.'",
+        "Incorrect. The article says novels, plays, and poems are an example of a narrower definition, not the broadest one.",
+        "Incorrect. The article mentions this as a value judgment definition, not the broadest one.",
+        "Incorrect. The article says literature includes both print and digital writing."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as a non-fiction genre that can be included within literature?",
+      "question": "What does the article say about the term 'literature' in Western Europe before the 18th century?",
       "options": [
-        "Biography",
-        "Novel",
-        "Poem",
-        "Play"
+        "It denoted all books and writing",
+        "It only referred to poetry",
+        "It only referred to oral stories",
+        "It only referred to sacred texts"
       ],
       "answer_explanations": [
-        "Correct. The article lists biography among non-fiction genres such as diaries, memoirs, letters, and essays that can be included within literature.",
-        "Incorrect. Novels are mentioned as part of the narrow definition of literature as an art form, not as non-fiction genres.",
-        "Incorrect. Poems are mentioned as part of the narrow definition of literature as an art form, not as non-fiction genres.",
-        "Incorrect. Plays are mentioned as part of the narrow definition of literature as an art form, not as non-fiction genres."
+        "Correct. The article states, 'In Western Europe, prior to the 18th century, literature denoted all books and writing.'",
+        "Incorrect. The article does not say literature was limited to poetry before the 18th century.",
+        "Incorrect. The article says the term has been applied to spoken or sung texts, but not that it was the only meaning before the 18th century.",
+        "Incorrect. The article does not mention this as the pre-18th-century meaning."
       ]
     },
     {
       "id": 3,
-      "question": "What does the term 'literature' etymologically derive from?",
+      "question": "From which language does the word 'literature' etymologically derive?",
       "options": [
-        "Latin literatura/litteratura, meaning 'learning, writing, grammar'",
-        "Greek poiesis, meaning 'making'",
-        "French lettre, meaning 'letter'",
-        "Old English bÅc, meaning 'book'"
+        "Latin",
+        "Greek",
+        "Sanskrit",
+        "Chinese"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Etymologically, the term derives from Latin literatura/litteratura, \"learning, writing, grammar,\" originally \"writing formed with letters,\" from litera/littera, \"letter.\"'",
-        "Incorrect. The article does not mention Greek poiesis as the origin of the term literature.",
-        "Incorrect. The article traces the term to Latin, not French.",
-        "Incorrect. The article does not mention Old English bÅc as the origin of the term literature."
+        "Correct. The article says, 'Etymologically, the term derives from Latin literatura/litteratura.'",
+        "Incorrect. The article does not mention Greek as the origin of the word.",
+        "Incorrect. The article does not mention Sanskrit as the origin of the word.",
+        "Incorrect. The article does not mention Chinese as the origin of the word."
       ]
     },
     {
       "id": 4,
-      "question": "What evidence supports the Gunditjmara people's oral histories of volcanic eruptions?",
+      "question": "What is one example of oral literature mentioned in the article?",
       "options": [
-        "New evidence showing Budj Bim and Tower Hill volcanoes erupted between 34,000 and 40,000 years ago",
-        "An axe found underneath volcanic ash in 1947",
-        "Written records from early European settlers",
-        "Archaeological findings of Gunditjmara settlements near the volcanoes"
+        "Australian Aboriginal oral traditions",
+        "Ancient Egyptian funerary texts",
+        "Sumerian clay tablets",
+        "The Zuo Zhuan"
       ],
       "answer_explanations": [
-        "Correct. The article states that new evidence showed both volcanoes erupted between 34,000 and 40,000 years ago, which 'could be interpreted as evidence for the oral histories of the Gunditjmara people'.",
-        "Incorrect. The axe found underneath volcanic ash in 1947 proved humans inhabited the region before Tower Hill's eruption, but it is not the evidence cited for the Gunditjmara oral histories.",
-        "Incorrect. The article does not mention written records from early European settlers.",
-        "Incorrect. The article does not mention archaeological findings of Gunditjmara settlements near the volcanoes as evidence."
+        "Correct. The article discusses 'Australian Aboriginal culture' and its oral traditions and oral histories.",
+        "Incorrect. Ancient Egyptian funerary texts are mentioned as written literature, not oral literature.",
+        "Incorrect. Sumerian clay tablets are mentioned as written literature, not oral literature.",
+        "Incorrect. The Zuo Zhuan is mentioned as a written narrative history of ancient China."
       ]
     },
     {
       "id": 5,
-      "question": "Which ancient literature is considered among the world's oldest literatures?",
+      "question": "According to the article, what was the earliest poetry believed to be used for?",
       "options": [
-        "Ancient Egyptian literature and Sumerian literature",
-        "Ancient Greek literature and Mycenaean literature",
-        "Ancient Chinese literature and Sanskrit literature",
-        "Ancient Indian literature and Japanese literature"
+        "Remembering history, genealogy, and law",
+        "Entertaining royal courts",
+        "Recording trade transactions",
+        "Teaching scientific inquiry"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Ancient Egyptian literature, along with Sumerian literature, are considered the world's oldest literatures.'",
-        "Incorrect. The article states that no real literature has been discovered in Mycenaean writings, and does not classify Greek literature as among the oldest.",
-        "Incorrect. While ancient Chinese and Sanskrit literature are discussed, they are not identified as the world's oldest literatures.",
-        "Incorrect. Japanese literature is not mentioned in the article."
+        "Correct. The article states, 'The earliest poetry is believed to have been recited or sung, employed as a way of remembering history, genealogy, and law.'",
+        "Incorrect. The article does not say this was the purpose of the earliest poetry.",
+        "Incorrect. The article mentions trade transactions as a reason for writing, not for early poetry.",
+        "Incorrect. The article does not mention this as a purpose of the earliest poetry."
       ]
     },
     {
       "id": 6,
-      "question": "What role did oratory play in Western education from ancient Greece to the late 19th century?",
+      "question": "What did the study published in February 2020 show about the Budj Bim and Tower Hill volcanoes?",
       "options": [
-        "It played a central role in training orators, lawyers, counselors, historians, statesmen, and poets",
-        "It was considered a form of entertainment rather than a literary art",
-        "It was primarily used for religious instruction",
-        "It was replaced by written literature by the 18th century"
+        "They erupted between 34,000 and 40,000 years ago",
+        "They erupted in the 20th century",
+        "They are still active today",
+        "They never erupted"
       ],
       "answer_explanations": [
-        "Correct. The article states that from ancient Greece to the late 19th century, rhetoric played a central role in Western education in training orators, lawyers, counselors, historians, statesmen, and poets.",
-        "Incorrect. The article describes oratory as 'a literary art,' not merely entertainment.",
-        "Incorrect. The article does not state that oratory was primarily used for religious instruction.",
-        "Incorrect. The article states oratory remained significant through the late 19th century, not that it was replaced by the 18th century."
+        "Correct. The article states, 'new evidence showed that both Budj Bim and Tower Hill volcanoes erupted between 34,000 and 40,000 years ago.'",
+        "Incorrect. The article gives a much earlier time period for the eruptions.",
+        "Incorrect. The article does not say the volcanoes are still active.",
+        "Incorrect. The article clearly states the volcanoes did erupt."
       ]
     },
     {
       "id": 7,
-      "question": "What is the value judgment definition of literature?",
+      "question": "Which of the following is mentioned in the article as a primary genre of ancient Egyptian literature?",
       "options": [
-        "It consists solely of high quality writing that forms part of the belles-lettres tradition",
-        "It includes all books and writing regardless of quality",
-        "It refers only to printed works and excludes digital writing",
-        "It applies only to fictional works such as novels, plays, and poems"
+        "Didactic texts",
+        "Science fiction",
+        "Mystery novels",
+        "Romance novels"
       ],
       "answer_explanations": [
-        "Correct. The article states that a value judgment definition 'considers it as consisting solely of high quality writing that forms part of the belles-lettres (\"fine writing\") tradition.'",
-        "Incorrect. This describes the broader pre-18th century Western European definition, not the value judgment definition.",
-        "Incorrect. The article explicitly states literature includes both print and digital writing.",
-        "Incorrect. The value judgment definition is about quality and the belles-lettres tradition, not limited to fiction."
+        "Correct. The article states, 'The primary genres of the literature of ancient Egyptâdidactic texts, hymns and prayers, and talesâwere written almost entirely in verse.'",
+        "Incorrect. Science fiction is not mentioned as an ancient Egyptian genre.",
+        "Incorrect. Mystery novels are not mentioned as an ancient Egyptian genre.",
+        "Incorrect. Romance novels are not mentioned as an ancient Egyptian genre."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about early Buddhist texts?",
+      "question": "What is the Shijing or Book of Songs?",
       "options": [
-        "They are generally believed to be of oral tradition",
-        "They were first written down in the 4th century AD",
-        "They were composed entirely in written form",
-        "They were transcribed from Greek oral traditions"
+        "A collection of songs collected by the Chinese aristocracy as poems",
+        "A Sanskrit epic",
+        "An ancient Egyptian funerary text",
+        "A Greek tragedy"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The early Buddhist texts are also generally believed to be of oral tradition.'",
-        "Incorrect. The article mentions redaction progressing down to the 4th century AD for Indian epics like the Ramcharitmanas, not the first writing down of Buddhist texts.",
-        "Incorrect. The article states early Buddhist texts are generally believed to be of oral tradition, not composed entirely in written form.",
-        "Incorrect. The article does not mention Greek oral traditions in connection with early Buddhist texts."
+        "Correct. The article mentions 'the Shijing or Book of Songs (1046âc. 600 BC)' as songs collected by the Chinese aristocracy as poems.",
+        "Incorrect. The Shijing is Chinese, not Sanskrit.",
+        "Incorrect. The Shijing is Chinese, not Egyptian.",
+        "Incorrect. The Shijing is Chinese, not Greek."
       ]
     },
     {
       "id": 9,
-      "question": "How did Inuit parents use storytelling to deter children from wandering too close to the water's edge?",
+      "question": "According to the article, what did the earliest known Greek writings on Linear B tablets contain?",
       "options": [
-        "By telling a story about a sea monster with a pouch for children within its reach",
-        "By yelling at the children directly",
-        "By physically preventing the children from approaching the water",
-        "By teaching the children swimming skills"
+        "Prosaic records largely concerned with trade",
+        "Epic poems about gods",
+        "Philosophical dialogues",
+        "Dramatic plays"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'For example, rather than yelling, Inuit parents might deter their children from wandering too close to the water's edge by telling a story about a sea monster with a pouch for children within its reach.'",
-        "Incorrect. The article explicitly says Inuit parents might do this 'rather than yelling'.",
-        "Incorrect. The article does not mention physical prevention as the method used.",
-        "Incorrect. The article does not mention teaching swimming skills in this context."
+        "Correct. The article states, 'These documents contain prosaic records largely concerned with trade (lists, inventories, receipts, etc.); no real literature has been discovered.'",
+        "Incorrect. The article says no real literature has been discovered on these tablets.",
+        "Incorrect. The article says no real literature has been discovered on these tablets.",
+        "Incorrect. The article says no real literature has been discovered on these tablets."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about the earliest poetry?",
+      "question": "What does the article say about the Vedic texts according to Jack Goody?",
       "options": [
-        "It is believed to have been recited or sung as a way of remembering history, genealogy, and law",
-        "It was first written down in ancient Mesopotamia",
-        "It was developed by the Chinese aristocracy as the Shijing",
-        "It was exclusively part of the belles-lettres tradition"
+        "They likely involved both a written and oral tradition",
+        "They were composed entirely in writing",
+        "They were transmitted only orally",
+        "They were written in Linear B"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The earliest poetry is believed to have been recited or sung, employed as a way of remembering history, genealogy, and law.'",
-        "Incorrect. The article does not state that the earliest poetry was first written down in ancient Mesopotamia.",
-        "Incorrect. The Shijing is mentioned as a notable collection of songs, not as the earliest poetry.",
-        "Incorrect. The belles-lettres tradition is discussed under the value judgment definition, not in connection with the earliest poetry."
+        "Correct. The article states, 'According to Goody, the Vedic texts likely involved both a written and oral tradition, calling it a \"parallel products of a literate society\".'",
+        "Incorrect. Goody is quoted as saying they involved both written and oral traditions.",
+        "Incorrect. Goody is quoted as saying they involved both written and oral traditions.",
+        "Incorrect. Linear B is associated with Mycenaean Greek writings, not Vedic texts."
       ]
     }
   ]

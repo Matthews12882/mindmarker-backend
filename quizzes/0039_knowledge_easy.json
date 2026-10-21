@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What are the three main types of knowledge mentioned in the article?",
+      "question": "What is knowledge described as in the article?",
       "options": [
-        "Descriptive, acquaintance, and procedural knowledge",
-        "Theoretical, practical, and empirical knowledge",
-        "Propositional, declarative, and intuitive knowledge",
-        "Cognitive, social, and collective knowledge"
+        "An awareness of facts, a familiarity with individuals and situations, or a practical skill",
+        "A type of opinion that is always true",
+        "A guess that is based on intuition",
+        "A belief that is never justified"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Knowledge is an awareness of facts (descriptive knowledge), a familiarity with individuals and situations (knowledge by acquaintance), or a practical skill (procedural knowledge).\"",
-        "Incorrect. The article does not group knowledge into theoretical, practical, and empirical categories; it focuses on descriptive, acquaintance, and procedural.",
-        "Incorrect. While descriptive knowledge is also called propositional or declarative, the article does not list those three as the primary types.",
-        "Incorrect. Cognitive, social, and collective knowledge are discussed later but are not the three main types originally defined."
+        "Correct. The article states that knowledge is 'an awareness of facts, a familiarity with individuals and situations, or a practical skill'.",
+        "Incorrect. The article does not describe knowledge as an opinion; it distinguishes knowledge from opinion.",
+        "Incorrect. The article does not describe knowledge as a guess; it says it is distinct from guesswork.",
+        "Incorrect. The article mentions justification as part of knowledge, not that it is never justified."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, which source is the main source of empirical knowledge?",
+      "question": "What is descriptive knowledge also called?",
       "options": [
-        "Perception",
-        "Memory",
-        "Rational intuition",
-        "Testimony"
+        "Propositional knowledge",
+        "Procedural knowledge",
+        "Knowledge by acquaintance",
+        "Empirical knowledge"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"The main source of empirical knowledge is perception, which involves the usage of the senses to learn about the external world.\"",
-        "Incorrect. Memory is listed as a source but not the main source of empirical knowledge.",
-        "Incorrect. Rational intuition is another source but not the primary source for empirical knowledge.",
-        "Incorrect. Testimony is a source of knowledge but not the main source of empirical knowledge."
+        "Correct. The article says 'Descriptive knowledge, also called propositional knowledge'.",
+        "Incorrect. Procedural knowledge is a different type of knowledge mentioned in the article.",
+        "Incorrect. Knowledge by acquaintance is a different type of knowledge mentioned in the article.",
+        "Incorrect. Empirical knowledge is not the same as descriptive knowledge in the article."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say is the main discipline investigating knowledge?",
+      "question": "According to the article, descriptive knowledge is often characterized as what?",
       "options": [
-        "Epistemology",
-        "Philosophy",
-        "Psychology",
-        "Sociology"
+        "True belief that is distinct from opinion or guesswork by virtue of justification",
+        "A false belief that is justified",
+        "An opinion that is widely accepted",
+        "A guess that is proven correct"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"The main discipline investigating knowledge is epistemology, which studies what people know, how they come to know it, and what it means to know something.\"",
-        "Incorrect. While philosophy is broader, epistemology is the specific discipline.",
-        "Incorrect. Psychology is not identified as the main discipline.",
-        "Incorrect. Sociology examines knowledge but is not the main discipline."
+        "Correct. The article states that descriptive knowledge is 'true belief that is distinct from opinion or guesswork by virtue of justification'.",
+        "Incorrect. The article says it is true belief, not false belief.",
+        "Incorrect. The article distinguishes it from opinion, not equates it with opinion.",
+        "Incorrect. The article distinguishes it from guesswork."
       ]
     },
     {
       "id": 4,
-      "question": "Which definition of knowledge is described as justified true belief in the article?",
+      "question": "What is the main source of empirical knowledge according to the article?",
       "options": [
-        "The analysis of knowledge definition",
-        "The ordinary language definition",
-        "The pragmatic definition",
-        "The coherentist definition"
+        "Perception",
+        "Memory",
+        "Introspection",
+        "Testimony"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"An often-discussed definition characterizes knowledge as justified true belief.\" This is part of the analysis of knowledge.",
-        "Incorrect. Ordinary language focuses on how the term is used, not specifically justified true belief.",
-        "Incorrect. Pragmatism focuses on inquiry and practice, not justified true belief.",
-        "Incorrect. Coherentism is about coherence among mental states, not the justified true belief definition."
+        "Correct. The article says 'The main source of empirical knowledge is perception'.",
+        "Incorrect. Memory is listed as another source, not the main source of empirical knowledge.",
+        "Incorrect. Introspection is listed as a source for internal mental states, not the main source of empirical knowledge.",
+        "Incorrect. Testimony is listed as another source, not the main source of empirical knowledge."
       ]
     },
     {
       "id": 5,
-      "question": "What is the Gettier problem primarily concerned with?",
+      "question": "What does introspection allow people to learn about?",
       "options": [
-        "Showing that justified true belief is insufficient for knowledge",
-        "Proving that knowledge does not require justification",
-        "Demonstrating that knowledge is always empirical",
-        "Explaining why knowledge is impossible"
+        "Their internal mental states and processes",
+        "The external world",
+        "Other people's thoughts",
+        "Future events"
       ],
       "answer_explanations": [
-        "Correct. The article explains that Gettier cases are counterexamples that show justified true beliefs can fail to be knowledge due to epistemic luck.",
-        "Incorrect. Gettier cases do not argue that justification is unnecessary; they show that justified true belief may still not be knowledge.",
-        "Incorrect. Gettier cases are not about empirical vs. a priori knowledge.",
-        "Incorrect. Gettier cases do not argue that knowledge is impossible."
+        "Correct. The article says 'Introspection allows people to learn about their internal mental states and processes'.",
+        "Incorrect. Perception is for learning about the external world, not introspection.",
+        "Incorrect. The article does not say introspection is about other people's thoughts.",
+        "Incorrect. The article does not mention future events in relation to introspection."
       ]
     },
     {
       "id": 6,
-      "question": "Which ancient Greek term for knowledge refers to unchanging theoretical knowledge?",
+      "question": "According to foundationalism, what is true about some sources of knowledge?",
       "options": [
-        "EpistÄmÄ",
-        "TechnÄ",
-        "MÄtis",
-        "GnÅsis"
+        "They are basic and can justify beliefs without depending on other mental states",
+        "They require coherence among all mental states",
+        "They need an infinite chain of beliefs",
+        "They are not reliable"
       ],
       "answer_explanations": [
-        "Correct. The article lists the four Greek terms: \"epistÄmÄ (unchanging theoretical knowledge), technÄ (expert technical knowledge), mÄtis (strategic knowledge), and gnÅsis (personal intellectual knowledge).\"",
-        "Incorrect. TechnÄ refers to expert technical knowledge, not unchanging theoretical knowledge.",
-        "Incorrect. MÄtis refers to strategic knowledge.",
-        "Incorrect. GnÅsis refers to personal intellectual knowledge."
+        "Correct. The article says 'According to foundationalism, some of these sources are basic in that they can justify beliefs, without depending on other mental states'.",
+        "Incorrect. This is the view of coherentists, not foundationalists.",
+        "Incorrect. This is the view of infinitism, not foundationalism.",
+        "Incorrect. The article does not say that foundationalism views sources as unreliable."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the relationship between knowledge and intelligence?",
+      "question": "What do coherentists contend is necessary for knowledge?",
       "options": [
-        "Knowledge is about information and skills one already possesses, while intelligence is about the ability to acquire, process, and apply information.",
-        "Knowledge and intelligence are identical concepts.",
-        "Intelligence is a subset of knowledge.",
-        "Knowledge is irrelevant to intelligence."
+        "A sufficient degree of coherence among all the mental states of the believer",
+        "An infinite chain of beliefs",
+        "A basic source that depends on nothing else",
+        "A single justified belief"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Knowledge is closely related to intelligence, but intelligence is more about the ability to acquire, process, and apply information, while knowledge concerns information and skills that a person already possesses.\"",
-        "Incorrect. The article distinguishes them, not equates them.",
-        "Incorrect. Intelligence is not a subset of knowledge.",
-        "Incorrect. Knowledge is relevant to intelligence."
+        "Correct. The article says coherentists 'contend that a sufficient degree of coherence among all the mental states of the believer is necessary for knowledge'.",
+        "Incorrect. This is the view of infinitism, not coherentism.",
+        "Incorrect. This is the view of foundationalism, not coherentism.",
+        "Incorrect. The article does not say coherentists require a single justified belief."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is NOT listed as a source of knowledge in the article?",
+      "question": "According to infinitism, what is needed for knowledge?",
       "options": [
-        "Dreaming",
-        "Memory",
-        "Inference",
-        "Testimony"
+        "An infinite chain of beliefs",
+        "A basic source of justification",
+        "Coherence among mental states",
+        "Perception"
       ],
       "answer_explanations": [
-        "Correct. The article lists perception, introspection, memory, rational intuition, inference, and testimony as sources. Dreaming is not mentioned.",
-        "Incorrect. Memory is listed as a source.",
-        "Incorrect. Inference is listed as a source.",
-        "Incorrect. Testimony is listed as a source."
+        "Correct. The article says 'According to infinitism, an infinite chain of beliefs is needed'.",
+        "Incorrect. This is the view of foundationalism, not infinitism.",
+        "Incorrect. This is the view of coherentism, not infinitism.",
+        "Incorrect. Perception is a source of empirical knowledge, not what infinitism requires."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is the primary method used by the sciences to acquire knowledge?",
+      "question": "What is the main discipline investigating knowledge?",
       "options": [
-        "The scientific method",
-        "Intuition",
-        "Authority",
-        "Rhetoric"
+        "Epistemology",
+        "Sociology",
+        "Anthropology",
+        "History"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"Knowledge is relevant to many fields like the sciences, which aim to acquire knowledge using the scientific method based on repeatable experimentation, observation, and measurement.\"",
-        "Incorrect. Intuition is not the primary method.",
-        "Incorrect. Authority is not the primary method.",
-        "Incorrect. Rhetoric is not the primary method."
+        "Correct. The article says 'The main discipline investigating knowledge is epistemology'.",
+        "Incorrect. Sociology is mentioned as studying knowledge but not as the main discipline.",
+        "Incorrect. Anthropology is mentioned as studying knowledge but not as the main discipline.",
+        "Incorrect. History is mentioned as studying knowledge but not as the main discipline."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article suggest about the definition of knowledge?",
+      "question": "What does philosophical skepticism question according to the article?",
       "options": [
-        "There is still very little consensus in the academic discourse as to which definition is correct.",
-        "There is a universally accepted definition of knowledge.",
-        "Knowledge is defined solely as true belief.",
-        "Knowledge is defined solely as justified belief."
+        "The possibility of knowledge",
+        "The value of perception",
+        "The existence of the external world",
+        "The role of memory"
       ],
       "answer_explanations": [
-        "Correct. The article concludes: \"There is still very little consensus in the academic discourse as to which of the proposed modifications or reconceptualizations is correct, and there are various alternative definitions of knowledge.\"",
-        "Incorrect. The article emphasizes lack of consensus.",
-        "Incorrect. The article notes that true belief alone is insufficient.",
-        "Incorrect. The article notes that justification alone is insufficient."
+        "Correct. The article says philosophical skepticism 'questions the possibility of knowledge'.",
+        "Incorrect. The article does not say skepticism questions the value of perception.",
+        "Incorrect. The article does not say skepticism questions the existence of the external world.",
+        "Incorrect. The article does not say skepticism questions the role of memory."
       ]
     }
   ]

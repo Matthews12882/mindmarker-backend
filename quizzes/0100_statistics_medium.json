@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does random sampling assure according to the article?",
+      "question": "What is the discipline of statistics primarily concerned with?",
       "options": [
-        "that inferences and conclusions can reasonably extend from the sample to the population as a whole",
-        "that every member of the target population is included in the data collection",
-        "that experimental manipulation is unnecessary for valid results",
-        "that descriptive statistics will always match inferential statistics"
+        "The collection, organization, analysis, interpretation, and presentation of data",
+        "The study of political systems and governments",
+        "The creation of mathematical theories without practical application",
+        "The design of physical experiments in a laboratory"
       ],
       "answer_explanations": [
-        "Correct. The article states that random sampling assures that inferences and conclusions can reasonably extend from the sample to the population as a whole.",
-        "Incorrect. Collecting data from every member of the target population describes census data, not random sampling.",
-        "Incorrect. The article does not state that random sampling makes experimental manipulation unnecessary.",
-        "Incorrect. The article does not claim that random sampling ensures descriptive and inferential statistics will match."
+        "Correct. The article states that statistics is 'the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data'.",
+        "Incorrect. The article mentions the word's origin related to 'state' but defines statistics as dealing with data, not political systems.",
+        "Incorrect. The article describes statistics as dealing with data and its application to scientific, industrial, or social problems.",
+        "Incorrect. While statistics involves experiments, the discipline itself is defined by its focus on data handling, not just physical experiments."
       ]
     },
     {
       "id": 2,
-      "question": "What is the key difference between an experimental study and an observational study?",
+      "question": "According to the article, what are the two main statistical methods used in data analysis?",
       "options": [
-        "an experimental study involves manipulating the system, while an observational study does not",
-        "an observational study uses only qualitative data, while an experimental study uses only quantitative data",
-        "an experimental study is always conducted in a laboratory, while an observational study is always conducted in the field",
-        "an observational study requires a control group, while an experimental study does not"
+        "Descriptive statistics and inferential statistics",
+        "Experimental studies and observational studies",
+        "Probability theory and mathematical statistics",
+        "Sampling and censusing"
       ],
       "answer_explanations": [
-        "Correct. The article states that an experimental study involves taking measurements, manipulating the system, and taking additional measurements, whereas an observational study does not involve experimental manipulation.",
-        "Incorrect. The article does not state that observational studies use only qualitative data or that experimental studies use only quantitative data.",
-        "Incorrect. The article does not specify that experimental studies are always conducted in laboratories or observational studies in the field.",
-        "Incorrect. The article does not state that observational studies require a control group while experimental studies do not."
+        "Correct. The article says, 'Two main statistical methods are used in data analysis: descriptive statistics... and inferential statistics...'.",
+        "Incorrect. These are types of causal statistical studies, not the two main methods of data analysis.",
+        "Incorrect. These are related fields, but the article specifically names descriptive and inferential statistics as the two main methods.",
+        "Incorrect. These are data collection techniques, not the two main methods of data analysis."
       ]
     },
     {
       "id": 3,
-      "question": "What are the two main statistical methods used in data analysis?",
+      "question": "What does descriptive statistics primarily do?",
       "options": [
-        "descriptive statistics and inferential statistics",
-        "central tendency and dispersion",
-        "random sampling and census collection",
-        "experimental studies and observational studies"
+        "It summarizes data from a sample using indexes such as the mean or standard deviation",
+        "It draws conclusions from data that are subject to random variation",
+        "It plans the design of surveys and experiments",
+        "It tests the relationship between two statistical data sets"
       ],
       "answer_explanations": [
-        "Correct. The article identifies descriptive statistics and inferential statistics as the two main statistical methods used in data analysis.",
-        "Incorrect. Central tendency and dispersion are properties of a distribution that descriptive statistics summarize, not the two main methods of data analysis.",
-        "Incorrect. Random sampling and census collection are data collection approaches, not the two main statistical methods.",
-        "Incorrect. Experimental studies and observational studies are types of causal statistical studies, not the two main methods of data analysis."
+        "Correct. The article states that descriptive statistics 'summarize data from a sample using indexes such as the mean or standard deviation'.",
+        "Incorrect. This describes inferential statistics, which draws conclusions from data subject to random variation.",
+        "Incorrect. This is part of the overall planning of data collection, not a description of descriptive statistics.",
+        "Incorrect. This is part of a standard statistical procedure involving hypothesis testing, not the primary function of descriptive statistics."
       ]
     },
     {
       "id": 4,
-      "question": "What does dispersion characterize in a distribution?",
+      "question": "What is the main difference between an experimental study and an observational study?",
       "options": [
-        "the extent to which members of the distribution depart from its center and each other",
-        "the central or typical value of the distribution",
-        "the random variation in observational errors",
-        "the relationship between two statistical data sets"
+        "An experimental study involves manipulating the system, while an observational study does not",
+        "An experimental study only uses surveys, while an observational study uses measurements",
+        "An experimental study is always conducted in a lab, while an observational study is always in the field",
+        "An experimental study focuses on causality, while an observational study focuses on description"
       ],
       "answer_explanations": [
-        "Correct. The article states that dispersion characterizes the extent to which members of the distribution depart from its center and each other.",
-        "Incorrect. The central or typical value of the distribution is described by central tendency, not dispersion.",
-        "Incorrect. Random variation in observational errors relates to inferential statistics, not the definition of dispersion.",
-        "Incorrect. The relationship between two statistical data sets is tested through statistical hypothesis testing, not dispersion."
+        "Correct. The article explains that an experimental study involves 'manipulating the system', while an observational study 'does not involve experimental manipulation'.",
+        "Incorrect. Both types of studies involve measurements and data collection; the key difference is manipulation.",
+        "Incorrect. The article does not specify that experimental studies are only in labs or observational studies only in the field.",
+        "Incorrect. Both types of studies can investigate causality; the difference is in how the study is conducted."
       ]
     },
     {
       "id": 5,
-      "question": "What is a Type I error in statistical hypothesis testing?",
+      "question": "According to the article, what is the Hawthorne effect?",
       "options": [
-        "rejecting the null hypothesis when it is in fact true",
-        "failing to reject the null hypothesis when it is in fact false",
-        "accepting the alternative hypothesis without sufficient evidence",
-        "using a sample that is not representative of the population"
+        "The finding that an outcome changed due to observation itself",
+        "The increase in productivity due to increased illumination",
+        "The lack of a control group in an experiment",
+        "The error in experimental procedures"
       ],
       "answer_explanations": [
-        "Correct. The article defines a Type I error as rejecting the null hypothesis when it is in fact true, giving a false positive.",
-        "Incorrect. Failing to reject the null hypothesis when it is in fact false is defined as a Type II error.",
-        "Incorrect. The article does not define Type I error as accepting the alternative hypothesis without sufficient evidence.",
-        "Incorrect. Using a non-representative sample is a sampling problem, not the definition of a Type I error."
+        "Correct. The article defines the Hawthorne effect as 'finding that an outcome... changed due to observation itself'.",
+        "Incorrect. The article notes that productivity improved, but the effect refers to the change being due to observation, not the lighting change.",
+        "Incorrect. This was a criticism of the study, but it is not what the Hawthorne effect refers to.",
+        "Incorrect. The study was criticized for errors, but the Hawthorne effect is specifically about the impact of observation."
       ]
     },
     {
       "id": 6,
-      "question": "How does the article describe the relationship between probability and statistics?",
+      "question": "In the context of hypothesis testing, what is a Type I error?",
       "options": [
-        "probability deduces answers from a general theory, while statistics induces statements about a population based on a data set",
-        "probability and statistics are identical and interchangeable subjects",
-        "statistics deduces answers from a general theory, while probability induces statements from a data set",
-        "probability is a branch of statistics, while statistics is a branch of probability"
+        "Rejecting the null hypothesis when it is in fact true, giving a false positive",
+        "Failing to reject the null hypothesis when it is in fact false, giving a false negative",
+        "Obtaining a sample size that is too small",
+        "Specifying an inadequate null hypothesis"
       ],
       "answer_explanations": [
-        "Correct. The article states that probability deduces answers to specific situations from a general theory of probability, while statistics induces statements about a population based on a data set.",
-        "Incorrect. The article explicitly states that probability and statistics are conceptually distinct from one another.",
-        "Incorrect. This reverses the roles described in the article; probability deduces and statistics induces.",
-        "Incorrect. The article does not describe either field as a branch of the other."
+        "Correct. The article defines Type I errors as when the 'null hypothesis is rejected when it is in fact true, giving a false positive'.",
+        "Incorrect. This describes a Type II error, which is a false negative.",
+        "Incorrect. This is a problem associated with the framework, but it is not a Type I error.",
+        "Incorrect. This is another problem associated with the framework, but it is not a Type I error."
       ]
     },
     {
       "id": 7,
-      "question": "What is the Hawthorne effect?",
+      "question": "What are the two basic forms of error recognized when working from a null hypothesis?",
       "options": [
-        "an outcome changes due to observation itself",
-        "productivity increases when lighting is improved",
-        "workers perform better when they are part of a control group",
-        "experimental manipulation always improves measured outcomes"
+        "Type I errors and Type II errors",
+        "Random errors and systematic errors",
+        "Measurement errors and sampling errors",
+        "Blunders and biases"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Hawthorne effect refers to the finding that an outcome changed due to observation itself.",
-        "Incorrect. While productivity improved in the Hawthorne study, the article explains this was due to observation, not the lighting change itself.",
-        "Incorrect. The article criticizes the Hawthorne study for lacking a control group, so this is not the Hawthorne effect.",
-        "Incorrect. The article does not claim that experimental manipulation always improves outcomes."
+        "Correct. The article states, 'two basic forms of error are recognized: Type I errors... and Type II errors...'.",
+        "Incorrect. These are types of errors in statistical measurement processes, not specifically related to the null hypothesis framework.",
+        "Incorrect. These are general errors in measurement, not the two basic forms of error in hypothesis testing.",
+        "Incorrect. These are examples of other types of errors, but not the two basic forms of error from a null hypothesis."
       ]
     },
     {
       "id": 8,
-      "question": "What are nominal measurements characterized by?",
+      "question": "According to the article, what is the origin of the word 'statistics'?",
       "options": [
-        "they do not have meaningful rank order among values",
-        "they have a meaningful zero value and defined distances between measurements",
-        "they have meaningful distances between measurements but an arbitrary zero",
-        "they have imprecise differences between consecutive values but a meaningful order"
+        "It ultimately comes from the Latin word Status, meaning 'situation' or 'condition' in society",
+        "It was coined by John Sinclair in the 1790s",
+        "It is derived from the German word for 'state'",
+        "It was invented by Gottfried Achenwall in 1770"
       ],
       "answer_explanations": [
-        "Correct. The article states that nominal measurements do not have meaningful rank order among values.",
-        "Incorrect. A meaningful zero value and defined distances describe ratio measurements.",
-        "Incorrect. Meaningful distances with an arbitrary zero describe interval measurements.",
-        "Incorrect. Imprecise differences with a meaningful order describe ordinal measurements."
+        "Correct. The article states, 'The word statistics ultimately comes from the Latin word Status, meaning situation or condition in society'.",
+        "Incorrect. John Sinclair's works gave the term its modern meaning in the 1790s, but the word's origin is from Latin.",
+        "Incorrect. The German word 'statistik' was coined later, but the ultimate origin is the Latin word 'Status'.",
+        "Incorrect. Achenwall coined the German word 'statistik', but the ultimate origin is the Latin word 'Status'."
       ]
     },
     {
       "id": 9,
-      "question": "What is one reason the Hawthorne study is heavily criticized today?",
+      "question": "What are the four levels of measurement defined by Stanley Smith Stevens?",
       "options": [
-        "it lacked a control group and blindness",
-        "it used only observational methods without manipulation",
-        "it did not measure productivity before and after the change",
-        "it focused on illumination rather than worker behavior"
+        "Nominal, ordinal, interval, and ratio",
+        "Qualitative, quantitative, discrete, and continuous",
+        "Central tendency, dispersion, mean, and standard deviation",
+        "Descriptive, inferential, experimental, and observational"
       ],
       "answer_explanations": [
-        "Correct. The article states the Hawthorne study is criticized for errors in experimental procedures, specifically the lack of a control group and blindness.",
-        "Incorrect. The Hawthorne study was an experimental study that involved modifying illumination, so it did use manipulation.",
-        "Incorrect. The article states the researchers first measured productivity and then checked if changes affected it.",
-        "Incorrect. The article does not criticize the study for focusing on illumination rather than worker behavior."
+        "Correct. The article states that Stevens 'defined nominal, ordinal, interval, and ratio scales'.",
+        "Incorrect. These are types of data, not the levels of measurement defined by Stevens.",
+        "Incorrect. These are properties of a distribution or statistical indexes, not levels of measurement.",
+        "Incorrect. These are statistical methods and study types, not levels of measurement."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about the validity of statistical methods?",
+      "question": "What is the main difference between probability theory and statistical inference, as described in the article?",
       "options": [
-        "a statistical method is valid only if the system or population satisfies the assumptions of the method",
-        "statistical methods are valid regardless of the population under consideration",
-        "only experimental studies produce valid statistical results",
-        "validity depends solely on having a large sample size"
+        "Probability theory deduces probabilities for samples from known population parameters, while statistical inference inductively infers from samples to the population",
+        "Probability theory is a branch of mathematics, while statistical inference is not",
+        "Probability theory deals with random events, while statistical inference deals with non-random events",
+        "Probability theory is used for experiments, while statistical inference is used for observational studies"
       ],
       "answer_explanations": [
-        "Correct. The article states that the use of any statistical method is valid only if the system or population under consideration satisfies the assumptions of the method.",
-        "Incorrect. The article explicitly conditions validity on the population satisfying the method's assumptions.",
-        "Incorrect. The article does not state that only experimental studies produce valid results.",
-        "Incorrect. While sample size is mentioned as a problem in hypothesis testing, the article does not state that validity depends solely on sample size."
+        "Correct. The article explains that probability theory 'starts with the given parameters of a total population to deduce probabilities that pertain to samples', while statistical inference moves 'inductively inferring from samples to the parameters of a larger or total population'.",
+        "Incorrect. Both are related to mathematics; the difference described is in their direction of reasoning.",
+        "Incorrect. Both deal with random phenomena; the difference is in their starting point and direction of inference.",
+        "Incorrect. Both can be applied to different types of studies; the key difference is in their logical direction."
       ]
     }
   ]

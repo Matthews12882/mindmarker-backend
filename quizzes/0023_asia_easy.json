@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Asia's rank among the world's continents by land area and population?",
+      "question": "What is Asia's rank among the world's continents by land area?",
       "options": [
-        "It is the largest continent by both land area and population.",
-        "It is the second largest continent by land area and population.",
-        "It is the third largest continent by land area and population.",
-        "It is the smallest continent by land area and population."
+        "Largest",
+        "Second largest",
+        "Third largest",
+        "Smallest"
       ],
       "answer_explanations": [
-        "Correct. The article states Asia is the largest continent in the world by both land area and population.",
-        "Incorrect. The article does not rank Asia second; it calls it the largest.",
-        "Incorrect. The article does not rank Asia third; it calls it the largest.",
-        "Incorrect. The article calls Asia the largest, not the smallest."
+        "Correct. The article states that Asia is 'the largest continent in the world by both land area and population.'",
+        "Incorrect. The article says Asia is the largest, not the second largest.",
+        "Incorrect. The article says Asia is the largest, not the third largest.",
+        "Incorrect. The article says Asia is the largest, not the smallest."
       ]
     },
     {
       "id": 2,
-      "question": "What percentage of Earth's total land area does Asia cover?",
+      "question": "Approximately how much of Earth's total land area does Asia cover?",
       "options": [
         "About 30%",
-        "About 20%",
-        "About 40%",
-        "About 50%"
+        "About 8%",
+        "About 59%",
+        "About 44%"
       ],
       "answer_explanations": [
-        "Correct. The article states Asia covers about 30% of Earth's total land area.",
-        "Incorrect. The article specifies about 30%, not 20%.",
-        "Incorrect. The article specifies about 30%, not 40%.",
-        "Incorrect. The article specifies about 30%, not 50%."
+        "Correct. The article says Asia covers 'about 30% of Earth's total land area.'",
+        "Incorrect. 8% is the percentage of Earth's total surface area, not land area.",
+        "Incorrect. 59% refers to Asia's share of the world's population, not land area.",
+        "Incorrect. 44 million is the number of square kilometres, not a percentage of land area."
       ]
     },
     {
       "id": 3,
-      "question": "What percentage of the world's population did Asia's estimated 4.8 billion people constitute in 2025?",
+      "question": "How many people were estimated to live in Asia in 2025?",
       "options": [
-        "Approximately 59%",
-        "Approximately 49%",
-        "Approximately 39%",
-        "Approximately 69%"
+        "4.8 billion",
+        "44 million",
+        "59 billion",
+        "8 billion"
       ],
       "answer_explanations": [
-        "Correct. The article states Asia's 4.8 billion people in 2025 constituted approximately 59% of the world's population.",
-        "Incorrect. The article gives approximately 59%, not 49%.",
-        "Incorrect. The article gives approximately 59%, not 39%.",
-        "Incorrect. The article gives approximately 59%, not 69%."
+        "Correct. The article states 'Its estimated 4.8 billion people in 2025.'",
+        "Incorrect. 44 million is the area in square kilometres, not the population.",
+        "Incorrect. 59% is the percentage of world population, not the population number.",
+        "Incorrect. 8% is the percentage of Earth's surface area, not the population."
       ]
     },
     {
       "id": 4,
-      "question": "Which oceans bound Asia on the east, south, and north?",
+      "question": "Which ocean borders Asia on the east?",
       "options": [
-        "Pacific Ocean, Indian Ocean, and Arctic Ocean",
-        "Atlantic Ocean, Indian Ocean, and Arctic Ocean",
-        "Pacific Ocean, Atlantic Ocean, and Arctic Ocean",
-        "Pacific Ocean, Indian Ocean, and Southern Ocean"
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Atlantic Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean.",
-        "Incorrect. The article names the Pacific, not the Atlantic, to the east.",
-        "Incorrect. The article names the Pacific to the east, not the Atlantic.",
-        "Incorrect. The article names the Arctic Ocean to the north, not the Southern Ocean."
+        "Correct. The article says Asia is 'bounded on the east by the Pacific Ocean.'",
+        "Incorrect. The Indian Ocean is on the south, not the east.",
+        "Incorrect. The Arctic Ocean is on the north, not the east.",
+        "Incorrect. The Atlantic Ocean is not mentioned as a boundary of Asia."
       ]
     },
     {
       "id": 5,
-      "question": "Which waterway separates Asia from Africa according to the article?",
+      "question": "Which ocean lies to the south of Asia?",
       "options": [
-        "The Suez Canal",
-        "The Panama Canal",
-        "The Strait of Gibraltar",
-        "The Turkish Straits"
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean",
+        "Atlantic Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states a commonly accepted division places Asia east of the Suez Canal, which separates it from Africa.",
-        "Incorrect. The Panama Canal is not mentioned as separating Asia from Africa.",
-        "Incorrect. The Strait of Gibraltar is not mentioned as separating Asia from Africa.",
-        "Incorrect. The Turkish Straits are mentioned in relation to Europe, not Africa."
+        "Correct. The article states Asia is 'bounded on the south by the Indian Ocean.'",
+        "Incorrect. The Pacific Ocean is to the east, not the south.",
+        "Incorrect. The Arctic Ocean is to the north, not the south.",
+        "Incorrect. The Atlantic Ocean is not mentioned as a boundary of Asia."
       ]
     },
     {
       "id": 6,
-      "question": "Which religions does the article list as having Asia as their birthplace?",
+      "question": "What is the border between Asia and Europe described as?",
       "options": [
-        "Islam, Judaism, Christianity, Hinduism, and Buddhism",
-        "Islam, Judaism, Christianity, Hinduism, and Shinto",
-        "Islam, Judaism, Christianity, Hinduism, and Taoism",
-        "Islam, Judaism, Christianity, Hinduism, and Sikhism"
+        "A historical and cultural construct",
+        "A clear physical boundary",
+        "A natural mountain range",
+        "A straight line on a map"
       ],
       "answer_explanations": [
-        "Correct. The article states Asia was the birthplace of most of the world's mainstream religions, including Islam, Judaism, Christianity, Hinduism, and Buddhism.",
-        "Incorrect. Shinto is not listed in the article's enumeration.",
-        "Incorrect. Taoism is not listed in the article's enumeration.",
-        "Incorrect. Sikhism is not listed in the article's enumeration."
+        "Correct. The article says 'The border of Asia with Europe is a historical and cultural construct.'",
+        "Incorrect. The article says there is no clear physical or geographical separation.",
+        "Incorrect. The article says there is no clear physical separation, so it is not a natural boundary.",
+        "Incorrect. The article does not describe the border as a straight line."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the border between Asia and Europe?",
+      "question": "Which canal separates Asia from Africa?",
       "options": [
-        "It is a historical and cultural construct with no clear physical or geographical separation.",
-        "It is marked by a clear mountain range running the entire length.",
-        "It follows only the Suez Canal and the Red Sea.",
-        "It is defined solely by the Ural River and the Caspian Sea."
+        "Suez Canal",
+        "Panama Canal",
+        "Turkish Straits",
+        "Straits of Malacca"
       ],
       "answer_explanations": [
-        "Correct. The article states the border of Asia with Europe is a historical and cultural construct, as there is no clear physical or geographical separation between them.",
-        "Incorrect. The article explicitly says there is no clear physical separation.",
-        "Incorrect. The Suez Canal and Red Sea relate to the AsiaâAfrica boundary, not AsiaâEurope.",
-        "Incorrect. The article mentions multiple features and calls the boundary arbitrary, not solely defined by those two."
+        "Correct. The article mentions 'the Suez Canal, which separates it from Africa.'",
+        "Incorrect. The Panama Canal is not mentioned in the article.",
+        "Incorrect. The Turkish Straits separate Asia from Europe, not Africa.",
+        "Incorrect. The Straits of Malacca is a sea route, not a canal separating Asia from Africa."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about Asia's cultural makeup?",
+      "question": "Which two countries traded places as the largest economies in the world from 1 to 1800 CE?",
       "options": [
-        "Various independent cultures coexist rather than sharing a single culture.",
-        "All Asian cultures share a single unified culture.",
-        "Asian culture is identical to European culture.",
-        "Asia has no distinct cultures of its own."
+        "China and India",
+        "Japan and Korea",
+        "Russia and Turkey",
+        "Indonesia and Pakistan"
       ],
       "answer_explanations": [
-        "Correct. The article states Asia is a region where various independent cultures coexist rather than sharing a single culture.",
-        "Incorrect. The article explicitly says Asia does not share a single culture.",
-        "Incorrect. The article contrasts Asia with Europe and does not say their cultures are identical.",
-        "Incorrect. The article describes Asia as having various independent cultures."
+        "Correct. The article states 'China and India traded places as the largest economies in the world from 1 to 1800 CE.'",
+        "Incorrect. Japan and Korea are not mentioned in this context.",
+        "Incorrect. Russia and Turkey are not mentioned as the largest economies.",
+        "Incorrect. Indonesia and Pakistan are not mentioned in this context."
       ]
     },
     {
       "id": 9,
-      "question": "Which ancient peoples used the term 'Asia' in reference to Anatolia and the Achaemenid Empire, in contrast to Greece and Egypt?",
+      "question": "What was the main eastâwest trading route in the Asian hinterlands?",
       "options": [
-        "The Greeks, specifically Herodotus",
-        "The Romans",
-        "The Egyptians",
-        "The Hittites"
+        "The Silk Road",
+        "The Suez Canal",
+        "The Straits of Malacca",
+        "The Ural River"
       ],
       "answer_explanations": [
-        "Correct. The article states Herodotus used the term in reference to Anatolia and the territory of the Achaemenid Empire, in contrast to Greece and Egypt.",
-        "Incorrect. The Romans later adopted the term for a province, but Herodotus is the ancient user described.",
-        "Incorrect. Egypt is mentioned as a contrast, not as the user of the term.",
-        "Incorrect. The Hittite records mention Assuwa, not the use of 'Asia' as described for Herodotus."
+        "Correct. The article says 'The Silk Road became the main eastâwest trading route in the Asian hinterlands.'",
+        "Incorrect. The Suez Canal separates Asia from Africa, not a trading route in the hinterlands.",
+        "Incorrect. The Straits of Malacca was a major sea route, not the main hinterland route.",
+        "Incorrect. The Ural River is part of the border with Europe, not a trading route."
       ]
     },
     {
       "id": 10,
-      "question": "What separates the landmasses of Asia and North America?",
+      "question": "Which of the following religions is mentioned as having been born in Asia?",
       "options": [
-        "The Bering Strait and Bering Sea",
-        "The Strait of Malacca and the South China Sea",
-        "The Turkish Straits and the Ural Mountains",
-        "The Suez Canal and the Red Sea"
+        "Buddhism",
+        "Christianity",
+        "Islam",
+        "All of the above"
       ],
       "answer_explanations": [
-        "Correct. The article states the Bering Strait and Bering Sea separate the landmasses of Asia and North America.",
-        "Incorrect. The Strait of Malacca is described as a major sea route in Asia, not a boundary with North America.",
-        "Incorrect. The Turkish Straits and Ural Mountains relate to the AsiaâEurope boundary.",
-        "Incorrect. The Suez Canal and Red Sea relate to the AsiaâAfrica boundary."
+        "Correct. The article lists Islam, Judaism, Christianity, Hinduism, and Buddhism as having been born in Asia, so all are correct.",
+        "Incorrect. Christianity is mentioned, but the correct answer includes all listed religions.",
+        "Incorrect. Islam is mentioned, but the correct answer includes all listed religions.",
+        "Incorrect. The article mentions all these religions, so 'All of the above' is the correct choice."
       ]
     }
   ]

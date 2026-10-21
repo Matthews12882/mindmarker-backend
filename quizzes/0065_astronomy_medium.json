@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, how does astronomy differ from astrology?",
+      "question": "What is astronomy?",
       "options": [
-        "Astronomy is supported by physics while astrology is not",
-        "Astronomy studies only planets while astrology studies all celestial objects",
-        "Astronomy is a modern science while astrology is ancient",
-        "Astronomy uses telescopes while astrology uses the naked eye"
+        "A natural science that studies celestial objects and phenomena in the cosmos",
+        "A belief system that claims human affairs are linked to the positions of stars",
+        "A branch of mathematics that calculates the orbits of planets",
+        "A historical study of ancient calendars and timekeeping"
       ],
       "answer_explanations": [
-        "Correct. The article states that astronomy and astrology share a common origin but became distinct, 'astronomy being supported by physics while astrology is not.'",
-        "Incorrect. The article lists many objects of interest in astronomy beyond planets, including stars, nebulae, galaxies, and comets.",
-        "Incorrect. The article describes astronomy as one of the oldest natural sciences, not a modern science.",
-        "Incorrect. The article does not claim that astrology relies on the naked eye or that telescope use distinguishes astronomy from astrology."
+        "Correct. The article states that 'Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos.'",
+        "Incorrect. The article describes astrology as the belief system that claims human affairs are correlated with the positions of celestial objects, not astronomy.",
+        "Incorrect. While astronomy uses mathematics, it is not itself a branch of mathematics; it is a natural science.",
+        "Incorrect. Astronomy is broader than the study of ancient calendars; it studies celestial objects and phenomena."
       ]
     },
     {
       "id": 2,
-      "question": "What did Hipparchus calculate and invent according to the article?",
+      "question": "Which of the following is listed as an object of interest in astronomy?",
       "options": [
-        "The size and distance of the Moon and the earliest known astronomical devices such as the astrolabe",
-        "The size and distance of the Sun and the reflecting telescope",
-        "The saros cycle of lunar eclipses and the Antikythera mechanism",
-        "The precession of the equinoxes and the first astronomical clock"
+        "Nebulae",
+        "Ocean currents",
+        "Volcanoes",
+        "Weather systems"
       ],
       "answer_explanations": [
-        "Correct. The article states that Hipparchus 'calculated the size and distance of the Moon and invented the earliest known astronomical devices such as the astrolabe.'",
-        "Incorrect. The reflecting telescope was developed by Isaac Newton, not Hipparchus.",
-        "Incorrect. The Babylonians discovered the saros cycle, and the Antikythera mechanism is described as a separate early analog computer.",
-        "Incorrect. While Hipparchus observed precession, the first astronomical clock is attributed to Richard of Wallingford in medieval Europe."
+        "Correct. The article lists 'nebulae' among objects of interest, along with planets, moons, stars, galaxies, meteoroids, asteroids, and comets.",
+        "Incorrect. Ocean currents are not mentioned as objects of interest in astronomy.",
+        "Incorrect. Volcanoes are not listed as astronomical objects of interest.",
+        "Incorrect. Weather systems are not mentioned as objects of interest in astronomy."
       ]
     },
     {
       "id": 3,
-      "question": "What role do amateur astronomers play in astronomy according to the article?",
+      "question": "What is cosmology?",
       "options": [
-        "They play an active role, especially in discovering and observing transient events",
-        "They are limited to making calendars and astrometry",
-        "They primarily operate professional observatories",
-        "They focus exclusively on astrophysics research"
+        "The branch of astronomy that studies the universe as a whole",
+        "The study of the Earth's atmosphere",
+        "The belief that the Earth is the center of the universe",
+        "The study of the motion of planets around the Sun"
       ],
       "answer_explanations": [
-        "Correct. The article states that astronomy is 'one of the few sciences in which amateurs play an active role,' especially for 'the discovery and observation of transient events.'",
-        "Incorrect. Astrometry and calendar-making are described as past disciplines of astronomy, not limitations on amateurs.",
-        "Incorrect. The article does not say amateurs primarily operate professional observatories.",
-        "Incorrect. The article does not associate amateur astronomers exclusively with astrophysics."
+        "Correct. The article states that 'Cosmology is the branch of astronomy that studies the universe as a whole.'",
+        "Incorrect. The study of the Earth's atmosphere is not cosmology; astronomy studies things beyond Earth's atmosphere.",
+        "Incorrect. The belief that the Earth is the center of the universe is the geocentric model, not cosmology.",
+        "Incorrect. The study of planetary motion is part of celestial mechanics, not cosmology."
       ]
     },
     {
       "id": 4,
-      "question": "What did Claudius Ptolemy's geocentric model propose?",
+      "question": "Which ancient civilization is mentioned as having made methodical observations of the night sky?",
       "options": [
-        "The Earth was the center of the Universe with the Sun, Moon, and stars rotating around it",
-        "The Earth and planets rotated around the Sun",
-        "The Earth rotates on its own axis",
-        "The Sun's apogee was mobile, not fixed"
+        "The Egyptians",
+        "The Romans",
+        "The Vikings",
+        "The Persians"
       ],
       "answer_explanations": [
-        "Correct. The article states that in the Ptolemaic system, 'the Earth was believed to be the center of the Universe with the Sun, the Moon and the stars rotating around it.'",
-        "Incorrect. The Earth and planets rotating around the Sun describes Aristarchus's heliocentric model, not Ptolemy's geocentric model.",
-        "Incorrect. Heracleides Ponticus was the first to propose that the Earth rotates on its own axis.",
-        "Incorrect. Al-Biruni observed that the Sun's apogee was mobile, contrary to Ptolemy."
+        "Correct. The article lists the Egyptians among early civilizations that made methodical observations of the night sky, along with Babylonians, Greeks, Indians, Chinese, Maya, and others.",
+        "Incorrect. The Romans are not listed among the early civilizations that made methodical night sky observations.",
+        "Incorrect. The Vikings are not mentioned in this context.",
+        "Incorrect. The Persians are not listed among the early civilizations that made methodical observations."
       ]
     },
     {
       "id": 5,
-      "question": "What did Galileo observe around 1610 that supported the heliocentric model?",
+      "question": "What is the role of amateur astronomers according to the article?",
       "options": [
-        "Phases on the planet Venus similar to those of the Moon",
-        "The planet Uranus",
-        "The composition of the Milky Way as numerous stars",
-        "Stellar parallax"
+        "They play an active role, especially in discovering and observing transient events",
+        "They are not allowed to contribute to astronomy",
+        "They only study ancient calendars",
+        "They are mainly involved in building telescopes"
       ],
       "answer_explanations": [
-        "Correct. The article states that by 1610, Galileo 'observed phases on the planet Venus similar to those of the Moon, supporting the heliocentric model.'",
-        "Incorrect. William Herschel discovered Uranus in 1781.",
-        "Incorrect. Galileo discovered that the Milky Way was composed of numerous stars, but this is not cited in the article as supporting the heliocentric model.",
-        "Incorrect. Friedrich Bessel developed stellar parallax in 1838."
+        "Correct. The article states that 'Astronomy is one of the few sciences in which amateurs play an active role. This is especially true for the discovery and observation of transient events.'",
+        "Incorrect. The article says amateurs do play an active role, so they are allowed to contribute.",
+        "Incorrect. Amateur astronomers are involved in discovery and observation, not just studying ancient calendars.",
+        "Incorrect. The article does not say amateurs mainly build telescopes; it says they help with discoveries like finding new comets."
       ]
     },
     {
       "id": 6,
-      "question": "What did Isaac Newton contribute to astronomy according to the article?",
+      "question": "What does the word 'astronomy' mean according to its Greek roots?",
       "options": [
-        "He explained the motions of the planets through celestial dynamics and the law of gravitation",
-        "He invented the telescope around 1608",
-        "He discovered that the Milky Way was composed of numerous stars",
-        "He catalogued over 3000 stars as Britain's first Astronomer Royal"
+        "Study of celestial objects",
+        "Study of the Earth",
+        "Study of the oceans",
+        "Study of human affairs"
       ],
       "answer_explanations": [
-        "Correct. The article states that Newton, 'with his invention of celestial dynamics and his law of gravitation, who finally explained the motions of the planets.'",
-        "Incorrect. The telescope was invented around 1608, not by Newton.",
-        "Incorrect. Galileo discovered that the Milky Way was composed of numerous stars.",
-        "Incorrect. John Flamsteed was Britain's first Astronomer Royal and catalogued over 3000 stars."
+        "Correct. The article explains that 'Astronomy' comes from Greek words meaning 'star' and 'law' or 'rule', and it means 'study of celestial objects'.",
+        "Incorrect. The Greek roots refer to stars, not the Earth.",
+        "Incorrect. The Greek roots do not relate to oceans.",
+        "Incorrect. The study of human affairs in relation to stars is astrology, not astronomy."
       ]
     },
     {
       "id": 7,
-      "question": "How are the terms 'astronomy' and 'astrophysics' related in modern usage?",
+      "question": "How are 'astronomy' and 'astrophysics' related in modern usage?",
       "options": [
         "They are broadly synonymous and often used interchangeably",
-        "Astronomy refers only to qualitative study while astrophysics refers only to physics-oriented study",
-        "Astronomy studies objects inside Earth's atmosphere while astrophysics studies objects outside it",
-        "Astrophysics is a belief system while astronomy is a natural science"
+        "They are completely different and unrelated fields",
+        "Astrophysics is only about the Moon",
+        "Astronomy is only about planets"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'astronomy' and 'astrophysics' are 'broadly synonymous in modern usage' and 'often used interchangeably.'",
-        "Incorrect. While the article notes that some textbooks use the terms this way, it emphasizes that in modern use they are often interchangeable.",
-        "Incorrect. Astronomy studies objects and matter outside the Earth's atmosphere, not inside it.",
-        "Incorrect. Astrology, not astrophysics, is described as a belief system."
+        "Correct. The article states that '\"Astronomy\" and \"astrophysics\" are broadly synonymous in modern usage' and 'the two terms are often used interchangeably.'",
+        "Incorrect. The article says they are broadly synonymous, not completely different.",
+        "Incorrect. Astrophysics is not limited to the Moon.",
+        "Incorrect. Astronomy is not limited to planets; it studies many celestial objects."
       ]
     },
     {
       "id": 8,
-      "question": "What did Abd al-Rahman al-Sufi describe in 964?",
+      "question": "What did the Babylonians discover about lunar eclipses?",
       "options": [
-        "The Andromeda Galaxy in his Book of Fixed Stars",
-        "The SN 1006 supernova",
-        "The mobile apogee of the Sun",
-        "Arabic names for individual stars"
+        "They recurred in a cycle of 223 synodic months",
+        "They are caused by the Earth's shadow",
+        "They happen every year",
+        "They are caused by the Moon's rotation"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 964, Abd al-Rahman al-Sufi described the Andromeda Galaxy in his Book of Fixed Stars.",
-        "Incorrect. The SN 1006 supernova was observed by Ali ibn Ridwan and Chinese astronomers in 1006.",
-        "Incorrect. Al-Biruni observed that the Sun's apogee was mobile.",
-        "Incorrect. Arabic astronomers introduced many Arabic star names, but this is not attributed specifically to al-Sufi in 964."
+        "Correct. The article states that 'The Babylonians discovered that lunar eclipses recurred in the saros cycle of 223 synodic months.'",
+        "Incorrect. The article does not mention the cause of lunar eclipses in this context.",
+        "Incorrect. The article mentions a specific cycle of 223 synodic months, not yearly occurrence.",
+        "Incorrect. The article does not attribute lunar eclipses to the Moon's rotation."
       ]
     },
     {
       "id": 9,
-      "question": "What was a key early development in Babylonian astronomy?",
+      "question": "Who proposed a heliocentric model of the Solar System in the 3rd century BC?",
       "options": [
-        "The beginning of mathematical and scientific astronomy",
-        "The invention of the telescope",
-        "The proposal of a heliocentric model",
-        "The construction of Stonehenge"
+        "Aristarchus of Samos",
+        "Claudius Ptolemy",
+        "Nicolaus Copernicus",
+        "Isaac Newton"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'a key early development was the beginning of mathematical and scientific astronomy among the Babylonians.'",
-        "Incorrect. The telescope was invented around 1608, long after the Babylonian period.",
-        "Incorrect. Aristarchus of Samos proposed a heliocentric model in the 3rd century BC, not the Babylonians.",
-        "Incorrect. Stonehenge is mentioned as evidence of pre-historic astronomical interest, not as a Babylonian development."
+        "Correct. The article states that 'Aristarchus of Samos... proposed a model of the Solar System where the Earth and planets rotated around the Sun, now called the heliocentric model.'",
+        "Incorrect. Claudius Ptolemy is associated with the geocentric model, not heliocentrism.",
+        "Incorrect. Nicolaus Copernicus proposed a heliocentric model during the Renaissance, not in the 3rd century BC.",
+        "Incorrect. Isaac Newton explained planetary motions with gravity, but he did not propose the heliocentric model in the 3rd century BC."
       ]
     },
     {
       "id": 10,
-      "question": "What did the Antikythera mechanism do?",
+      "question": "What was the Antikythera mechanism?",
       "options": [
-        "It calculated the location of the Sun, Moon, and planets for a given date",
-        "It measured angles between planets and other astronomical bodies",
-        "It calculated lunar, solar, and planetary longitudes",
-        "It discovered the planet Uranus"
+        "An early analog computer designed to calculate the location of the Sun, Moon, and planets",
+        "A type of telescope invented in the 17th century",
+        "A calendar used by the ancient Egyptians",
+        "A star catalog created by Hipparchus"
       ],
       "answer_explanations": [
         "Correct. The article describes the Antikythera mechanism as 'an early analog computer designed to calculate the location of the Sun, Moon, and planets for a given date.'",
-        "Incorrect. Richard of Wallingford's Rectangulus allowed for the measurement of angles between planets.",
-        "Incorrect. Richard of Wallingford's equatorium called the Albion could be used for calculating lunar, solar, and planetary longitudes.",
-        "Incorrect. William Herschel discovered Uranus in 1781."
+        "Incorrect. The Antikythera mechanism was from around 150â80 BC, not a 17th-century telescope.",
+        "Incorrect. It was not a calendar; it was a computing device for astronomical positions.",
+        "Incorrect. Hipparchus created a star catalog, but the Antikythera mechanism is a separate artifact."
       ]
     }
   ]

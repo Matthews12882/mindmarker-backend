@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Socrates's occupation or primary role?",
+      "question": "Who was Socrates?",
       "options": [
-        "ancient Greek philosopher",
-        "Athenian politician",
-        "Spartan general",
-        "Roman historian"
+        "An ancient Greek philosopher",
+        "A Roman emperor",
+        "An Egyptian priest",
+        "A Persian king"
       ],
       "answer_explanations": [
-        "Correct. The article states that Socrates was an ancient Greek philosopher from Classical Athens.",
-        "Incorrect. The article does not describe Socrates as an Athenian politician.",
-        "Incorrect. The article does not describe Socrates as a Spartan general.",
-        "Incorrect. The article does not describe Socrates as a Roman historian."
+        "Correct. The article states that Socrates was 'an ancient Greek philosopher'.",
+        "Incorrect. The article identifies Socrates as a philosopher, not a Roman emperor.",
+        "Incorrect. The article identifies Socrates as Greek, not Egyptian.",
+        "Incorrect. The article identifies Socrates as Greek, not Persian."
       ]
     },
     {
       "id": 2,
-      "question": "In what year was Socrates sentenced to death?",
+      "question": "When was Socrates born?",
       "options": [
-        "399 BC",
-        "470 BC",
-        "404 BC",
-        "399 AD"
+        "c. 470 BC",
+        "c. 399 BC",
+        "c. 500 BC",
+        "c. 450 BC"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 399 BC, Socrates was accused and after a trial was sentenced to death.",
-        "Incorrect. 470 BC is approximately Socrates's birth year, not the year of his death sentence.",
-        "Incorrect. 404 BC is mentioned in connection with the Thirty Tyrants, not Socrates's trial.",
-        "Incorrect. The article uses BC dates, not AD dates, for Socrates's lifetime."
+        "Correct. The article gives his birth as 'c. 470 â 399 BC'.",
+        "Incorrect. 399 BC is the year of his death, not his birth.",
+        "Incorrect. The article does not mention this date.",
+        "Incorrect. The article does not mention this date."
       ]
     },
     {
       "id": 3,
-      "question": "How was Socrates put to death?",
+      "question": "What was Socrates accused of in 399 BC?",
       "options": [
-        "by drinking poison (hemlock)",
-        "by beheading",
-        "by drowning",
-        "by starvation"
+        "Impiety and corrupting the youth",
+        "Stealing from the temple",
+        "Treason against Athens",
+        "Murder of a citizen"
       ],
       "answer_explanations": [
-        "Correct. The article states he was put to death by administration of poison and later specifies he died after drinking hemlock.",
-        "Incorrect. The article does not mention beheading as the method of execution.",
-        "Incorrect. The article does not mention drowning as the method of execution.",
-        "Incorrect. The article does not mention starvation as the method of execution."
+        "Correct. The article says he was 'accused of impiety and corrupting the youth'.",
+        "Incorrect. The article does not mention theft.",
+        "Incorrect. The article does not mention treason.",
+        "Incorrect. The article does not mention murder."
       ]
     },
     {
       "id": 4,
-      "question": "Who were the two main classical writers through whom Socrates is known?",
+      "question": "How was Socrates put to death?",
       "options": [
-        "Plato and Xenophon",
-        "Aristotle and Aristophanes",
-        "Homer and Hesiod",
-        "Cicero and Seneca"
+        "By administration of poison",
+        "By crucifixion",
+        "By stoning",
+        "By beheading"
       ],
       "answer_explanations": [
-        "Correct. The article states Socrates is known mainly through the posthumous accounts of classical writers, particularly his students Plato and Xenophon.",
-        "Incorrect. Aristotle and Aristophanes are mentioned as sources, but not as the two main classical writers.",
-        "Incorrect. Homer and Hesiod are not mentioned in the article as sources on Socrates.",
-        "Incorrect. Cicero and Seneca are not mentioned in the article as sources on Socrates."
+        "Correct. The article states he 'was put to death by administration of poison'.",
+        "Incorrect. The article does not mention crucifixion.",
+        "Incorrect. The article does not mention stoning.",
+        "Incorrect. The article does not mention beheading."
       ]
     },
     {
       "id": 5,
-      "question": "What literary form do Plato's and Xenophon's accounts of Socrates primarily use?",
+      "question": "Who was Socrates' student mentioned in the introduction?",
       "options": [
-        "dialogues",
-        "epic poems",
-        "historical treatises",
-        "letters"
+        "Plato",
+        "Aristotle",
+        "Xenophanes",
+        "Heraclitus"
       ],
       "answer_explanations": [
-        "Correct. The article states these accounts are written as dialogues in which Socrates and his interlocutors examine a subject through question and answer.",
-        "Incorrect. The article does not describe the accounts as epic poems.",
-        "Incorrect. The article does not describe the accounts as historical treatises.",
-        "Incorrect. The article does not describe the accounts as letters."
+        "Correct. The article says Socrates was 'a major inspiration on his student Plato'.",
+        "Incorrect. Aristotle is not mentioned in the introduction.",
+        "Incorrect. Xenophanes is not mentioned in the introduction.",
+        "Incorrect. Heraclitus is not mentioned in the introduction."
       ]
     },
     {
       "id": 6,
-      "question": "What is the name given to the difficulty of reconstructing Socrates's true philosophy due to contradictory accounts?",
+      "question": "What literary genre did the accounts of Socrates give rise to?",
       "options": [
-        "the Socratic problem",
-        "the Platonic problem",
-        "the Athenian problem",
-        "the Socratic paradox"
+        "Socratic dialogue",
+        "Epic poetry",
+        "Tragedy",
+        "Comedy"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly names this situation the Socratic problem.",
-        "Incorrect. The article does not use the term the Platonic problem.",
-        "Incorrect. The article does not use the term the Athenian problem.",
-        "Incorrect. The article does not use the term the Socratic paradox."
+        "Correct. The article says they 'gave rise to the Socratic dialogue literary genre'.",
+        "Incorrect. The article does not mention epic poetry.",
+        "Incorrect. The article does not mention tragedy.",
+        "Incorrect. The article does not mention comedy."
       ]
     },
     {
       "id": 7,
-      "question": "What were the charges against Socrates at his trial?",
+      "question": "What is the situation called when contradictory accounts make reconstruction of Socrates' philosophy nearly impossible?",
       "options": [
-        "impiety and corrupting the youth",
-        "treason and theft",
-        "murder and bribery",
-        "sedition and tax evasion"
+        "The Socratic problem",
+        "The Socratic paradox",
+        "The Socratic irony",
+        "The Socratic method"
       ],
       "answer_explanations": [
-        "Correct. The article states Socrates was accused of impiety and corrupting the youth.",
-        "Incorrect. The article does not mention treason and theft as charges.",
-        "Incorrect. The article does not mention murder and bribery as charges.",
-        "Incorrect. The article does not mention sedition and tax evasion as charges."
+        "Correct. The article calls this 'the Socratic problem'.",
+        "Incorrect. The article does not use this term.",
+        "Incorrect. Socratic irony is a different concept mentioned later.",
+        "Incorrect. The Socratic method is a different concept."
       ]
     },
     {
       "id": 8,
-      "question": "What did Socrates frequently proclaim about himself?",
+      "question": "Did Socrates author any texts?",
       "options": [
-        "his ignorance",
-        "his wisdom",
-        "his wealth",
-        "his piety"
+        "No, he authored no texts",
+        "Yes, many dialogues",
+        "Yes, a few letters",
+        "Yes, a single book"
       ],
       "answer_explanations": [
-        "Correct. The article states Socrates frequently proclaims his ignorance, saying he is only sure that he does not know.",
-        "Incorrect. The article emphasizes Socrates's professed ignorance rather than wisdom.",
-        "Incorrect. The article does not say Socrates proclaimed his wealth.",
-        "Incorrect. The article does not say Socrates proclaimed his piety; he was accused of impiety."
+        "Correct. The article states 'Socrates authored no texts'.",
+        "Incorrect. The article says he authored no texts.",
+        "Incorrect. The article says he authored no texts.",
+        "Incorrect. The article says he authored no texts."
       ]
     },
     {
       "id": 9,
-      "question": "What did Socrates refuse when his allies offered to help him after sentencing?",
+      "question": "What did Socrates refuse from his allies?",
       "options": [
-        "to escape from prison",
-        "to pay a fine",
-        "to propose an alternative penalty",
-        "to speak in his own defense"
+        "Offers to help him escape",
+        "Offers to bribe the jury",
+        "Offers to write his defense",
+        "Offers to hide him"
       ],
       "answer_explanations": [
-        "Correct. The article states he refused offers from allies to help him escape.",
-        "Incorrect. The article does not say he refused to pay a fine.",
-        "Incorrect. The article says he proposed his own penalty, not that he refused to do so.",
-        "Incorrect. The article says he defended himself at trial, not that he refused to speak."
+        "Correct. The article says he refused 'offers from allies to help him escape'.",
+        "Incorrect. The article does not mention bribery.",
+        "Incorrect. The article does not mention writing a defense.",
+        "Incorrect. The article does not mention hiding."
       ]
     },
     {
       "id": 10,
-      "question": "Who was Socrates's student that largely founded the tradition of Western philosophy?",
+      "question": "How long did the trial of Socrates last?",
       "options": [
-        "Plato",
-        "Aristotle",
-        "Xenophon",
-        "Aristophanes"
+        "A day",
+        "A week",
+        "A month",
+        "A year"
       ],
       "answer_explanations": [
-        "Correct. The article states Socrates was a major inspiration on his student Plato, who largely founded the tradition of Western philosophy.",
-        "Incorrect. Aristotle was Plato's pupil, not Socrates's student in the direct sense described here.",
-        "Incorrect. Xenophon was a student of Socrates but is not described as founding Western philosophy.",
-        "Incorrect. Aristophanes was a comic dramatist and contemporary, not described as founding Western philosophy."
+        "Correct. The article says 'a trial that lasted a day'.",
+        "Incorrect. The article says it lasted a day.",
+        "Incorrect. The article says it lasted a day.",
+        "Incorrect. The article says it lasted a day."
       ]
     }
   ]

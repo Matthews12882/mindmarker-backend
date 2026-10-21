@@ -5,23 +5,23 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, how does general relativity describe time in relation to space?",
+      "question": "What is time often referred to as?",
       "options": [
-        "Time is inextricable from space within the concept of spacetime.",
-        "Time exists completely independently of space.",
-        "Time is only relevant at human-scale measurements.",
-        "Time moves backward in relation to space."
+        "The fourth dimension",
+        "The second dimension",
+        "The fifth dimension",
+        "The third dimension"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"Modern physics understands time to be inextricable from space within the concept of spacetime described by general relativity.\"",
-        "Incorrect. The article explicitly says time is inextricable from space, not independent of it.",
-        "Incorrect. Human-scale measurements are discussed separately and do not describe general relativity's view of time and space.",
-        "Incorrect. The article describes time as progressing from past to future, not moving backward."
+        "Correct. The article states, 'Time is often referred to as the fourth dimension and the temporal dimension, in addition to the three spatial dimensions.'",
+        "Incorrect. The article refers to time as the fourth dimension, not the second.",
+        "Incorrect. The article refers to time as the fourth dimension, not the fifth.",
+        "Incorrect. The article refers to time as the fourth dimension, not the third."
       ]
     },
     {
       "id": 2,
-      "question": "What does the article identify as the SI base unit of time?",
+      "question": "According to the article, what is the SI base unit of time?",
       "options": [
         "The second",
         "The minute",
@@ -29,138 +29,138 @@
         "The day"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"The SI base unit of time is the second.\"",
-        "Incorrect. The article identifies the second, not the minute, as the SI base unit.",
-        "Incorrect. The hour is not identified as the SI base unit of time.",
-        "Incorrect. The day is a human-scale measurement, not the SI base unit."
+        "Correct. The article states, 'The SI base unit of time is the second, which is defined by measuring the electronic transition frequency of caesium atoms.'",
+        "Incorrect. The article identifies the second, not the minute, as the SI base unit of time.",
+        "Incorrect. The article identifies the second, not the hour, as the SI base unit of time.",
+        "Incorrect. The article identifies the second, not the day, as the SI base unit of time."
       ]
     },
     {
       "id": 3,
-      "question": "What correction did Pope Gregory XIII introduce in 1582?",
+      "question": "What are the two main forms of temporal measurement mentioned in the article?",
       "options": [
-        "The Gregorian calendar",
-        "The Julian calendar",
-        "The French Republican Calendar",
-        "The Maya calendar"
+        "A calendar and a clock",
+        "A sundial and an hourglass",
+        "A water clock and an atomic clock",
+        "A pendulum and a bell"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"Pope Gregory XIII introduced a correction in 1582; the Gregorian calendar was only slowly adopted...\".",
-        "Incorrect. The Julian calendar was introduced by Julius Caesar in 45 BC, not by Pope Gregory XIII.",
-        "Incorrect. The French Republican Calendar was invented during the French Revolution, not in 1582.",
-        "Incorrect. The Maya calendar originated in ancient Mesoamerican civilization, not from Pope Gregory XIII."
+        "Correct. The article says, 'Methods of temporal measurement, or chronometry, generally take two forms. The first is a calendar... The second is a clock...'",
+        "Incorrect. Sundials and hourglasses are examples of devices, but the article names calendar and clock as the two main forms.",
+        "Incorrect. Water clocks and atomic clocks are specific devices, but the article names calendar and clock as the two main forms.",
+        "Incorrect. Pendulums and bells are parts of or used in timekeeping devices, but the article names calendar and clock as the two main forms."
       ]
     },
     {
       "id": 4,
-      "question": "Which device did Chinese inventors and engineers create in the 11th century?",
+      "question": "What did Pope Gregory XIII introduce in 1582?",
       "options": [
-        "The first mechanical clocks driven by an escapement mechanism",
-        "The first atomic clock",
-        "The first sundial",
-        "The first water clock"
+        "A correction to the calendar, known as the Gregorian calendar",
+        "The first mechanical clock",
+        "The French Republican Calendar",
+        "The Julian calendar"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"In the 11th century, Chinese inventors and engineers invented the first mechanical clocks driven by an escapement mechanism.\"",
-        "Incorrect. Atomic clocks are modern devices and not attributed to 11th-century Chinese inventors.",
-        "Incorrect. Sundials are credited to Egyptians and date much earlier.",
-        "Incorrect. Water clocks existed in ancient Egypt and Greece long before the 11th century."
+        "Correct. The article states, 'Pope Gregory XIII introduced a correction in 1582; the Gregorian calendar was only slowly adopted by different nations over a period of centuries, but it is now by far the most commonly used calendar around the world.'",
+        "Incorrect. The article credits Chinese inventors in the 11th century with the first mechanical clocks, not Pope Gregory XIII.",
+        "Incorrect. The French Republican Calendar was created during the French Revolution, not by Pope Gregory XIII.",
+        "Incorrect. The Julian calendar was a reform by Julius Caesar in 45 BC, not by Pope Gregory XIII."
       ]
     },
     {
       "id": 5,
-      "question": "What does the article say about the French Republican Calendar's time divisions?",
+      "question": "What is the study of timekeeping devices called?",
       "options": [
-        "Its days consisted of ten hours of a hundred minutes of a hundred seconds.",
-        "Its days consisted of 24 hours of 60 minutes of 60 seconds.",
-        "Its days consisted of 12 hours of 100 minutes each.",
-        "Its days were based on lunar cycles rather than solar cycles."
+        "Horology",
+        "Chronometry",
+        "Astronomy",
+        "Physics"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"The French Republican Calendar's days consisted of ten hours of a hundred minutes of a hundred seconds.\"",
-        "Incorrect. The 24-hour, 60-minute, 60-second system is the conventional system, not the French Republican Calendar.",
-        "Incorrect. The article does not describe a 12-hour, 100-minute division for this calendar.",
-        "Incorrect. The article describes its decimal time divisions, not a lunar-based system."
+        "Correct. The article states, 'The study of these devices is called horology.'",
+        "Incorrect. Chronometry is the method of temporal measurement, not the study of the devices themselves.",
+        "Incorrect. Astronomy is the study of celestial objects, not specifically timekeeping devices.",
+        "Incorrect. Physics is a broader science; the article specifically names horology for the study of timekeeping devices."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article say about time dilation?",
+      "question": "According to the article, what did the ancient Egyptians use that operated on a duodecimal system?",
       "options": [
-        "Time can be dilated by velocity and matter to pass faster or slower for an external observer.",
-        "Time dilation only occurs at speeds slower than light.",
-        "Time dilation has no measurable effect under any conditions.",
-        "Time dilation makes time pass at the same rate for all observers."
+        "Their sundials",
+        "Their water clocks",
+        "Their calendars",
+        "Their mechanical clocks"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"Time can therefore be dilated by velocity and matter to pass faster or slower for an external observer.\"",
-        "Incorrect. The article mentions relativistic speeds as an extreme condition where dilation is not negligible.",
-        "Incorrect. The article says dilation is negligible outside extreme conditions, not that it has no measurable effect at all.",
-        "Incorrect. The article describes time passing faster or slower for different observers, not at the same rate."
+        "Correct. The article states, 'The idea to separate the day into smaller parts is credited to Egyptians because of their sundials, which operated on a duodecimal system.'",
+        "Incorrect. The article specifically mentions Egyptian sundials, not water clocks, as operating on a duodecimal system.",
+        "Incorrect. The article specifically mentions Egyptian sundials, not calendars, as operating on a duodecimal system.",
+        "Incorrect. The article credits Chinese inventors with the first mechanical clocks, not the Egyptians."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is the problem of time in physics?",
+      "question": "What is the most accurate type of timekeeping device mentioned in the article?",
       "options": [
-        "Reconciling general relativity and quantum mechanics",
-        "Defining the second using caesium atoms",
-        "Measuring time with calendars rather than clocks",
-        "Determining the exact date of the Big Bang"
+        "Atomic clocks",
+        "Water clocks",
+        "Pendulum clocks",
+        "Sundials"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"The problem of time consists of reconciling these two theories,\" referring to general relativity and quantum mechanics.",
-        "Incorrect. Defining the second using caesium atoms is a measurement standard, not the problem of time.",
-        "Incorrect. Calendars and clocks are measurement tools, not the problem of time.",
-        "Incorrect. The Big Bang's date is mentioned as when measurable time began, not as the problem of time."
+        "Correct. The article states, 'The most accurate timekeeping devices are atomic clocks, which are accurate to seconds in many millions of years, and are used to calibrate other clocks and timekeeping instruments.'",
+        "Incorrect. Water clocks were the most precise in the ancient world, but atomic clocks are the most accurate overall.",
+        "Incorrect. Pendulum clocks were a great advance, but atomic clocks are more accurate.",
+        "Incorrect. Sundials are ancient devices and are not as accurate as atomic clocks."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about the nature of time in quantum mechanics compared to general relativity?",
+      "question": "What did the French Republican Calendar use for its days?",
       "options": [
-        "Time is treated as a universal and absolute parameter in quantum mechanics.",
-        "Time is treated as relative and flexible in quantum mechanics.",
-        "Time does not exist in quantum mechanics.",
-        "Time flows backward in quantum mechanics."
+        "Ten hours of a hundred minutes of a hundred seconds",
+        "Twelve hours of sixty minutes of sixty seconds",
+        "Twenty-four hours of sixty minutes",
+        "Eight hours of a hundred minutes"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"In quantum mechanics, time is treated as a universal and absolute parameter, differing from general relativity's notion of independent clocks.\"",
-        "Incorrect. The article contrasts quantum mechanics' absolute treatment with general relativity's relative notion.",
-        "Incorrect. The article does not say time does not exist in quantum mechanics.",
-        "Incorrect. The article does not mention time flowing backward in quantum mechanics."
+        "Correct. The article states, 'The French Republican Calendar's days consisted of ten hours of a hundred minutes of a hundred seconds, which marked a deviation from the base 12 (duodecimal) system used in many other devices by many cultures.'",
+        "Incorrect. This describes a common duodecimal system, not the French Republican Calendar's decimal system.",
+        "Incorrect. This describes a standard day, not the French Republican Calendar's system.",
+        "Incorrect. The article specifically states the French Republican Calendar used ten hours, not eight."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article identify as one of the seven fundamental physical quantities in the SI system?",
+      "question": "Who is credited with inventing the first mechanical clocks driven by an escapement mechanism?",
       "options": [
-        "Time",
-        "Temperature",
-        "Mass",
-        "Electric current"
+        "Chinese inventors and engineers in the 11th century",
+        "Galileo Galilei",
+        "Christiaan Huygens",
+        "Ctesibius"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"Time is one of the seven fundamental physical quantities in both the International System of Units (SI)...\".",
-        "Incorrect. While temperature is an SI base quantity, the article specifically identifies time in this context.",
-        "Incorrect. Mass is not mentioned as one of the seven fundamental quantities in the article.",
-        "Incorrect. Electric current is not mentioned as one of the seven fundamental quantities in the article."
+        "Correct. The article states, 'In the 11th century, Chinese inventors and engineers invented the first mechanical clocks driven by an escapement mechanism.'",
+        "Incorrect. Galileo Galilei made advances in accurate time-keeping, but the article credits Chinese inventors with the first mechanical clocks.",
+        "Incorrect. Christiaan Huygens invented pendulum-driven clocks, but the article credits Chinese inventors with the first mechanical clocks.",
+        "Incorrect. Ctesibius revised Plato's water clock design, but the article credits Chinese inventors with the first mechanical clocks."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about the definition of time in physics?",
+      "question": "What is the 'problem of time' in physics, as described in the article?",
       "options": [
-        "It is operationally defined as \"what a clock reads.\"",
-        "It is defined as the essence of existence.",
-        "It is defined solely by the phases of the moon.",
-        "It is defined as the fourth spatial dimension."
+        "Reconciling general relativity and quantum mechanics",
+        "Defining time without circularity",
+        "Measuring time accurately",
+        "Creating a universal calendar"
       ],
       "answer_explanations": [
-        "Correct. The article states that \"time in physics is operationally defined as 'what a clock reads'\" to avoid circularity.",
-        "Incorrect. The article says this operational definition does not address the essence of time.",
-        "Incorrect. The phases of the moon are mentioned as a traditional definition, not the physics definition.",
-        "Incorrect. The article calls time the fourth dimension but not the fourth spatial dimension."
+        "Correct. The article states, 'The problem of time consists of reconciling these two theories' (general relativity and quantum mechanics).",
+        "Incorrect. Defining time without circularity is a challenge mentioned, but the 'problem of time' specifically refers to reconciling the two physics theories.",
+        "Incorrect. Measuring time accurately is a practical concern, but the 'problem of time' is a theoretical physics issue.",
+        "Incorrect. Creating a universal calendar is not the 'problem of time' as described in the article."
       ]
     }
   ]

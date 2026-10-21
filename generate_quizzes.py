@@ -69,6 +69,33 @@ DIFFICULTIES = ("easy", "medium", "hard")
 REQUIRED_QUESTIONS = 10
 OPTIONS_PER_QUESTION = 4
 
+# Difficulty definitions, appended to the user prompt per quiz so the model is
+# told exactly what each level means (the prompt file's summary is the fallback).
+#   easy   — only the article's intro (lead section before the first heading).
+#   medium — the whole article, but kept simple and plainly worded.
+#   hard   — no recall; the reader must interpret the facts.
+DIFFICULTY_GUIDANCE = {
+    "easy": (
+        "Difficulty: EASY. Base every question only on the article's "
+        "introduction — the lead section before the first heading. Ask for "
+        "literal recall of facts stated there (who, what, where, how many), in "
+        "simple, direct language. Do not use material from the later sections."
+    ),
+    "medium": (
+        "Difficulty: MEDIUM. Draw questions from the whole article, including "
+        "its later sections, but keep them simple: cover the main ideas and "
+        "clearly stated facts in plain, everyday language. Do not set puzzles, "
+        "scenarios, or questions that require interpreting or applying ideas."
+    ),
+    "hard": (
+        "Difficulty: HARD. Do not ask for facts to be recalled. Ask the reader "
+        "to interpret facts drawn from the whole article: what they mean, why "
+        "they matter, what they imply, how ideas relate, compare or conflict, "
+        "and what conclusions follow. Every question must still be answerable "
+        "from the article text."
+    ),
+}
+
 DEFAULT_ARTICLES = "articles"
 DEFAULT_QUIZZES = "quizzes"
 DEFAULT_PROMPT = "quizzes/quiz_prompt.md"
@@ -161,6 +188,18 @@ def strip_front_matter(text: str) -> str:
     return text
 
 
+def intro_from_body(body: str) -> str:
+    """Return the lead section: everything before the first '##' heading.
+
+    Used for easy quizzes so they only draw on the article's introduction.
+    """
+    lines = body.splitlines()
+    for index, line in enumerate(lines):
+        if line.startswith("## "):
+            return "\n".join(lines[:index]).strip()
+    return body.strip()
+
+
 def slug_from_file(filename: str) -> str:
     """'0001_the_arts.md' -> 'the_arts' (keeps quiz names in step with articles)."""
     stem = Path(filename).stem
@@ -206,13 +245,27 @@ def load_prompt(path: Path) -> tuple[str, str]:
     return match.group(1).strip(), match.group(2).strip()
 
 
+def body_for_difficulty(body: str, difficulty: str) -> str:
+    """Restrict the article text to what a difficulty is allowed to draw on.
+
+    easy quizzes see only the intro; medium and hard see the whole article.
+    """
+    if difficulty == "easy":
+        return intro_from_body(body)
+    return body
+
+
 def render_user(template: str, article: dict, difficulty: str,
                 body: str) -> str:
-    return (template
+    text = (template
             .replace("{{ARTICLE_ID}}", article["id"])
             .replace("{{ARTICLE_TITLE}}", article["title"])
             .replace("{{DIFFICULTY}}", difficulty)
             .replace("{{ARTICLE_TEXT}}", body))
+    guidance = DIFFICULTY_GUIDANCE.get(difficulty)
+    if guidance:
+        text += "\n\n" + guidance
+    return text
 
 
 # ---------------------------------------------------------------------------
@@ -737,7 +790,8 @@ def main() -> int:
 
         for difficulty in missing:
             out_path = quizzes_dir / quiz_filename(article["id"], slug, difficulty)
-            user = render_user(user_template, article, difficulty, body)
+            user = render_user(user_template, article, difficulty,
+                               body_for_difficulty(body, difficulty))
             quiz = None
             note = ""
             reason = ""

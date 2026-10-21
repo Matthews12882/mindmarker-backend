@@ -5,6 +5,54 @@
   "questions": [
     {
       "id": 1,
+      "question": "What is the official name of Kenya?",
+      "options": [
+        "Republic of Kenya",
+        "Republic of East Africa",
+        "Kenya Republic",
+        "United Republic of Kenya"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"Kenya, officially the Republic of Kenya.\"",
+        "Incorrect. The article does not mention 'Republic of East Africa'.",
+        "Incorrect. The article does not mention 'Kenya Republic'.",
+        "Incorrect. The article does not mention 'United Republic of Kenya'."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "In which region is Kenya located?",
+      "options": [
+        "East Africa",
+        "West Africa",
+        "North Africa",
+        "Southern Africa"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Kenya is \"a country located in East Africa.\"",
+        "Incorrect. The article specifies East Africa, not West Africa.",
+        "Incorrect. The article specifies East Africa, not North Africa.",
+        "Incorrect. The article specifies East Africa, not Southern Africa."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the estimated population of Kenya as of mid-2026?",
+      "options": [
+        "More than 54.2 million",
+        "More than 42.5 million",
+        "More than 45.2 million",
+        "More than 52.4 million"
+      ],
+      "answer_explanations": [
+        "Correct. The article states: \"With an estimated population of more than 54.2 million as of mid-2026.\"",
+        "Incorrect. The article gives a figure of more than 54.2 million, not 42.5 million.",
+        "Incorrect. The article gives a figure of more than 54.2 million, not 45.2 million.",
+        "Incorrect. The article gives a figure of more than 54.2 million, not 52.4 million."
+      ]
+    },
+    {
+      "id": 4,
       "question": "What is the capital and largest city of Kenya?",
       "options": [
         "Nairobi",
@@ -13,154 +61,106 @@
         "Nakuru"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Kenya's capital and largest city is Nairobi.'",
-        "Incorrect. Mombasa is the second-largest and oldest city, not the capital.",
-        "Incorrect. Kisumu is mentioned as another major city, but not the capital.",
-        "Incorrect. Nakuru is listed among other major cities, but not the capital."
-      ]
-    },
-    {
-      "id": 2,
-      "question": "Which ocean borders Kenya to the southeast?",
-      "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
-      ],
-      "answer_explanations": [
-        "Correct. The article says Kenya is bordered by 'the Indian Ocean to the southeast.'",
-        "Incorrect. The Atlantic Ocean is not mentioned as a border for Kenya.",
-        "Incorrect. The Pacific Ocean is not mentioned as a border for Kenya.",
-        "Incorrect. The Arctic Ocean is not mentioned as a border for Kenya."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "What is the name of the mountain after which Kenya is named?",
-      "options": [
-        "Mount Kenya",
-        "Mount Kilimanjaro",
-        "Mount Everest",
-        "Mount Elgon"
-      ],
-      "answer_explanations": [
-        "Correct. The article says 'The Republic of Kenya is named after Mount Kenya.'",
-        "Incorrect. Mount Kilimanjaro is in Tanzania, not the source of Kenya's name.",
-        "Incorrect. Mount Everest is in Asia, not related to Kenya.",
-        "Incorrect. Mount Elgon is a different mountain, not the namesake."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "In what year did Kenya gain independence?",
-      "options": [
-        "1963",
-        "1952",
-        "1920",
-        "1895"
-      ],
-      "answer_explanations": [
-        "Correct. The article mentions 'the declaration of Kenya's independence in 1963.'",
-        "Incorrect. 1952 is when the Mau Mau revolution began, not independence.",
-        "Incorrect. 1920 is when the Kenya Colony began.",
-        "Incorrect. 1895 is when the East Africa Protectorate was established."
+        "Correct. The article states: \"Kenya's capital and largest city is Nairobi.\"",
+        "Incorrect. Mombasa is described as the second-largest and oldest city, not the capital.",
+        "Incorrect. Kisumu is listed as another major city, not the capital.",
+        "Incorrect. Nakuru is listed as another major city, not the capital."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is a traditional cash crop of Kenya?",
+      "question": "Which country borders Kenya to the north?",
       "options": [
-        "Tea",
-        "Wheat",
-        "Rice",
-        "Cotton"
+        "Ethiopia",
+        "South Sudan",
+        "Somalia",
+        "Tanzania"
       ],
       "answer_explanations": [
-        "Correct. The article says 'tea and coffee are the sector's traditional cash crops.'",
-        "Incorrect. Wheat is not mentioned as a traditional cash crop.",
-        "Incorrect. Rice is not mentioned as a traditional cash crop.",
-        "Incorrect. Cotton is not mentioned as a traditional cash crop."
+        "Correct. The article says Kenya is bordered \"by South Sudan to the northwest, Ethiopia to the north, Somalia to the east.\"",
+        "Incorrect. South Sudan is to the northwest, not the north.",
+        "Incorrect. Somalia is to the east, not the north.",
+        "Incorrect. Tanzania is to the southwest, not the north."
       ]
     },
     {
       "id": 6,
-      "question": "Which lake borders Kenya to the west?",
+      "question": "Which of these is a port city located on Mombasa Island?",
       "options": [
-        "Lake Victoria",
-        "Lake Turkana",
-        "Lake Tanganyika",
-        "Lake Malawi"
+        "Mombasa",
+        "Nairobi",
+        "Eldoret",
+        "Kisumu"
       ],
       "answer_explanations": [
-        "Correct. The article states Kenya is bordered by 'Lake Victoria and Uganda to the west.'",
-        "Incorrect. Lake Turkana is in Kenya, but not a western border.",
-        "Incorrect. Lake Tanganyika is further south, not bordering Kenya.",
-        "Incorrect. Lake Malawi is in the south, not bordering Kenya."
+        "Correct. The article states: \"The second-largest and oldest city is Mombasa, a port city located on Mombasa Island.\"",
+        "Incorrect. Nairobi is the capital, not a port city on Mombasa Island.",
+        "Incorrect. Eldoret is listed as another major city, not a port city on Mombasa Island.",
+        "Incorrect. Kisumu is listed as another major city, not a port city on Mombasa Island."
       ]
     },
     {
       "id": 7,
-      "question": "What type of government does Kenya have?",
+      "question": "Which desert is mentioned in the article as being in Kenya?",
       "options": [
-        "Presidential representative democratic republic",
-        "Parliamentary monarchy",
-        "Absolute monarchy",
-        "Communist state"
+        "Chalbi Desert",
+        "Sahara Desert",
+        "Kalahari Desert",
+        "Namib Desert"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Kenya is a presidential representative democratic republic.'",
-        "Incorrect. Kenya is not a monarchy.",
-        "Incorrect. Kenya is not an absolute monarchy.",
-        "Incorrect. Kenya is not a communist state."
+        "Correct. The article mentions \"absolute deserts (such as the Chalbi Desert and Nyiri Desert).\"",
+        "Incorrect. The Sahara Desert is not mentioned in the article.",
+        "Incorrect. The Kalahari Desert is not mentioned in the article.",
+        "Incorrect. The Namib Desert is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "Which explorer recorded the name 'Kenia' for Mount Kenya?",
+      "question": "What is the largest economic sector in Kenya?",
       "options": [
-        "Johann Ludwig Krapf",
-        "Vasco da Gama",
-        "Zheng He",
-        "Richard Leakey"
+        "Agriculture",
+        "Tourism",
+        "Service industry",
+        "Manufacturing"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The earliest recorded version of the modern name was written by German explorer Johann Ludwig Krapf.'",
-        "Incorrect. Vasco da Gama visited Malindi but did not record the name Kenia.",
-        "Incorrect. Zheng He visited the coast but is not credited with the name.",
-        "Incorrect. Richard Leakey is a paleoanthropologist, not the explorer who named the mountain."
+        "Correct. The article states: \"Agriculture is the country's largest economic sector.\"",
+        "Incorrect. Tourism is part of the service industry, which is a major driver but not the largest sector.",
+        "Incorrect. The service industry is a major driver but not the largest sector.",
+        "Incorrect. Manufacturing is not mentioned as the largest sector."
       ]
     },
     {
       "id": 9,
-      "question": "What is the estimated population of Kenya as of mid-2026?",
+      "question": "Which of the following is a traditional cash crop in Kenya?",
       "options": [
-        "More than 54.2 million",
-        "Less than 30 million",
-        "About 40 million",
-        "Exactly 60 million"
+        "Tea",
+        "Cotton",
+        "Cocoa",
+        "Rubber"
       ],
       "answer_explanations": [
-        "Correct. The article says 'With an estimated population of more than 54.2 million as of mid-2026.'",
-        "Incorrect. The population is stated as more than 54.2 million, not less than 30 million.",
-        "Incorrect. The population is more than 54.2 million, not about 40 million.",
-        "Incorrect. The population is more than 54.2 million, not exactly 60 million."
+        "Correct. The article states: \"tea and coffee are the sector's traditional cash crops.\"",
+        "Incorrect. Cotton is not mentioned as a traditional cash crop.",
+        "Incorrect. Cocoa is not mentioned as a traditional cash crop.",
+        "Incorrect. Rubber is not mentioned as a traditional cash crop."
       ]
     },
     {
       "id": 10,
-      "question": "Which country borders Kenya to the north?",
+      "question": "Which trade bloc is Kenya a member of?",
       "options": [
-        "Ethiopia",
-        "Somalia",
-        "South Sudan",
-        "Uganda"
+        "East African Community",
+        "European Union",
+        "African Union",
+        "Arab League"
       ],
       "answer_explanations": [
-        "Correct. The article says Kenya is bordered by 'Ethiopia to the north.'",
-        "Incorrect. Somalia is to the east, not north.",
-        "Incorrect. South Sudan is to the northwest, not directly north.",
-        "Incorrect. Uganda is to the west, not north."
+        "Correct. The article states: \"Kenya is a member of the East African Community trade bloc.\"",
+        "Incorrect. The European Union is mentioned as an export market, not as a trade bloc Kenya belongs to.",
+        "Incorrect. The African Union is not mentioned in the article.",
+        "Incorrect. The Arab League is not mentioned in the article."
       ]
     }
   ]

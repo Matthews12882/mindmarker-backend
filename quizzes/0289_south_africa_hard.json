@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "A researcher discovers a new hominin fossil in a cave system in Gauteng. Based on the article, which of the following is the most likely location for this find?",
+      "question": "Why does the article describe South Africa as a 'middle power' with 'significant regional influence'?",
       "options": [
-        "Sterkfontein",
-        "Great Fish River",
-        "Dzata",
-        "K2"
+        "Because it hosts the Pan-African Parliament and is a member of BRICS+, the African Union, SADC, SACU, the Commonwealth, and the G20, indicating its diplomatic and economic weight.",
+        "Because it has the largest economy in Africa and the highest Gini coefficient, showing its economic dominance over the continent.",
+        "Because it is the southernmost country in Africa and controls key maritime trade routes between the Atlantic and Indian Oceans.",
+        "Because it has the most UNESCO World Heritage Sites in Africa, tied with Ethiopia, which gives it cultural leadership."
       ],
       "answer_explanations": [
-        "Correct. The article states that the Cradle of Humankind in Gauteng includes Sterkfontein, 'one of the richest sites for hominin fossils in the world.'",
-        "Incorrect. The Great Fish River is mentioned as the area reached by the Xhosa people, not as a hominin fossil site.",
-        "Incorrect. Dzata is described as the capital of the Venda Kingdom, not a location for hominin fossils.",
-        "Incorrect. K2 is mentioned as a settlement whose elite moved to Mapungubwe Hill, not as a hominin fossil site."
+        "Correct. The article states South Africa is 'Recognised as a middle power in international affairs' and 'maintains significant regional influence', and then lists its memberships in BRICS+, the African Union (hosting the Pan-African Parliament), SADC, SACU, the Commonwealth, and the G20, which substantiate that influence.",
+        "Incorrect. While the article notes South Africa has the largest economy in Africa, the high Gini coefficient is a measure of inequality, not a source of regional influence or middle-power status.",
+        "Incorrect. The article mentions its southernmost location and coastline, but these geographic facts are not cited as the reason for its middle-power status or regional influence.",
+        "Incorrect. The article notes South Africa is tied with Ethiopia for the most UNESCO World Heritage Sites, but this is presented as a separate fact and not as the basis for its middle-power or regional influence."
       ]
     },
     {
       "id": 2,
-      "question": "If a historian argues that the collapse of Mapungubwe was directly caused by a shift in trade routes, which piece of evidence from the article best supports this claim?",
+      "question": "What does the article imply about the relationship between the Bantu expansion and the Khoisan peoples?",
       "options": [
-        "Trade routes shifted north from the Limpopo to the Zambezi, precipitating the rise of Great Zimbabwe.",
-        "The hill was abandoned and Mapungubwe's population scattered.",
-        "Rainmaking was crucial to the development of sacral kingship.",
-        "The elite of K2 moved to settle the flat-topped summit of Mapungubwe Hill."
+        "The Bantu expansion largely displaced or absorbed the Khoisan peoples, who were earlier inhabitants of Southern Africa.",
+        "The Bantu expansion was a peaceful migration that allowed the Khoisan peoples to maintain their distinct territories.",
+        "The Khoisan peoples migrated from West Africa and displaced the Bantu-speaking peoples.",
+        "The Bantu expansion occurred before the Khoisan peoples arrived in Southern Africa."
       ],
       "answer_explanations": [
-        "Correct. The article directly states that 'trade routes shifted north from the Limpopo to the Zambezi, precipitating the rise of Great Zimbabwe' as the events around Mapungubwe's collapse are unknown, but this shift is presented as a key factor.",
-        "Incorrect. This describes the outcome of the collapse, not a cause related to trade routes.",
-        "Incorrect. This describes a cultural practice at Mapungubwe, not a cause of its collapse.",
-        "Incorrect. This describes the founding of Mapungubwe, not its collapse."
+        "Correct. The article states that the Khoisan peoples 'were largely displaced or absorbed by the Bantu expansion which took place between 1,500 and 2,000 years ago', directly implying a dominant and assimilative relationship.",
+        "Incorrect. The article explicitly states the Khoisan were 'displaced or absorbed', not that they maintained distinct territories.",
+        "Incorrect. The article states that Bantu-speaking peoples migrated from West Africa, and the Khoisan were the earlier inhabitants, not the other way around.",
+        "Incorrect. The article indicates the Khoisan were descendants of an early dispersal of modern humans to Southern Africa before 150,000 years ago, while the Bantu expansion took place only 1,500 to 2,000 years ago, so the Khoisan arrived first."
       ]
     },
     {
       "id": 3,
-      "question": "An urban planner is tasked with designing a new administrative district for a country. Based on South Africa's model, which city should be the seat of the legislative branch?",
+      "question": "How does the article suggest the fall of the Kingdom of Mapungubwe relates to the rise of Great Zimbabwe?",
       "options": [
-        "Cape Town",
-        "Pretoria",
-        "Bloemfontein",
-        "Johannesburg"
+        "The collapse of Mapungubwe around 1300 led to trade routes shifting north to the Zambezi, which precipitated the rise of Great Zimbabwe.",
+        "Great Zimbabwe conquered Mapungubwe and absorbed its population, leading to its collapse.",
+        "The rise of Great Zimbabwe caused trade routes to shift south, which weakened Mapungubwe and caused its collapse.",
+        "The two kingdoms were independent and their rise and fall were unrelated events."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Cape Town, as the seat of Parliament, is the legislative capital.'",
-        "Incorrect. Pretoria is described as the 'administrative capital,' not the legislative capital.",
-        "Incorrect. Bloemfontein is 'regarded as the judicial capital,' not the legislative capital.",
-        "Incorrect. Johannesburg is described as the 'largest and most populous city,' not a capital."
+        "Correct. The article states that after Mapungubwe's collapse, 'trade routes shifted north from the Limpopo to the Zambezi, precipitating the rise of Great Zimbabwe', directly linking the two events.",
+        "Incorrect. The article does not mention a conquest of Mapungubwe by Great Zimbabwe; it describes a shift in trade routes after Mapungubwe's collapse.",
+        "Incorrect. The article states trade routes shifted north after Mapungubwe's collapse, not that they shifted south due to Great Zimbabwe's rise.",
+        "Incorrect. The article explicitly links the two events through the shift in trade routes, so they are not presented as unrelated."
       ]
     },
     {
       "id": 4,
-      "question": "A sociologist is studying the origins of the Venda language and identity. According to the article, which combination of groups contributed to its formation?",
+      "question": "What does the article's description of the 'Cape Qualified Franchise' being 'eroded' imply about the political status of black South Africans before 1994?",
       "options": [
-        "Early Shona inhabitants, late-comer Shona, and Sotho-speakers",
-        "Khoisan and Bantu-speaking peoples",
-        "Dutch and British colonists",
-        "Xhosa and Zulu peoples"
+        "Black South Africans had some voting rights in the Cape, but these were gradually taken away, leaving the vast majority without suffrage until 1994.",
+        "Black South Africans never had any voting rights in the Cape and only gained them in 1994.",
+        "The Cape Qualified Franchise was a system that excluded all non-white people from voting from its inception.",
+        "The erosion of the franchise was a quick process that happened shortly after the Union of South Africa was formed."
       ],
       "answer_explanations": [
-        "Correct. The article notes that 'interactions between early Shona inhabitants (possible from Mapungubwe), late-comer Shona and Sotho-speakers between the 15th and 17th centuries culminated in the formation of the Venda language and identity.'",
-        "Incorrect. Khoisan and Bantu-speaking peoples are mentioned as earlier inhabitants, not specifically in relation to the Venda language.",
-        "Incorrect. Dutch and British colonists are mentioned in the context of European settlement, not the formation of the Venda language.",
-        "Incorrect. Xhosa and Zulu peoples are mentioned separately; the Xhosa are the southernmost Bantu group, and the Zulu Kingdom formed later."
+        "Correct. The article mentions the 'multi-racial Cape Qualified Franchise' and that it 'was gradually eroded', implying it initially included non-white voters, and that the vast majority of black South Africans were 'not enfranchised until 1994'.",
+        "Incorrect. The article describes the franchise as 'multi-racial', implying black South Africans did have some voting rights in the Cape, which were then eroded.",
+        "Incorrect. The term 'eroded' implies a process of reduction from a more inclusive state, not that it was exclusionary from the start.",
+        "Incorrect. The article says it was 'gradually eroded', implying a slow process, not a quick one."
       ]
     },
     {
       "id": 5,
-      "question": "An economist is comparing post-apartheid South Africa to other developing nations. Which statistic from the article would best illustrate the challenge of economic inequality?",
+      "question": "Why does the article call South Africa a 'rainbow nation'?",
       "options": [
-        "South Africa has the highest Gini coefficient of 0.67.",
-        "About 32% of the population was unemployed as of 2024.",
-        "Some 56% lived below the poverty line in 2014.",
-        "South Africa has the largest economy in Africa by nominal GDP."
+        "To describe its diversity of cultures, languages, and religions, especially in the wake of apartheid.",
+        "To highlight its status as a biodiversity hotspot with unique biomes and plant and animal life.",
+        "To refer to the variety of its nine provinces and their different landscapes.",
+        "To emphasize the many colors of its national flag."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Having the highest Gini coefficient of 0.67, South Africa is considered one of the most economically unequal countries in the world,' directly addressing inequality.",
-        "Incorrect. This statistic addresses unemployment, which is related but not a direct measure of inequality.",
-        "Incorrect. This statistic addresses poverty, which is related but not a direct measure of inequality.",
-        "Incorrect. This statistic addresses economic size, not inequality."
+        "Correct. The article states South Africa 'has been called the \"rainbow nation\", especially in the wake of apartheid, to describe its diversity' of cultures, languages, and religions.",
+        "Incorrect. While the article mentions South Africa is a biodiversity hotspot, this is a separate fact and not the reason for the 'rainbow nation' term.",
+        "Incorrect. The article does not connect the 'rainbow nation' term to the provinces or landscapes.",
+        "Incorrect. The article does not mention the national flag in this context."
       ]
     },
     {
       "id": 6,
-      "question": "A political scientist is analyzing the international influence of middle powers. Which of the following organizations, of which South Africa is a member, would be most relevant to a study of global economic governance?",
+      "question": "What does the article's mention of the 'Mineral Revolution' imply about the period following the Battle of Blaauwberg?",
       "options": [
-        "G20",
-        "African Union",
-        "SADC",
-        "SACU"
+        "The discovery of minerals led to a shift towards industrialisation and urbanisation, changing the region's economy and society.",
+        "The British occupation immediately led to a peaceful and prosperous era with no major economic changes.",
+        "The 'Mineral Revolution' was a political movement that led to the formation of the Zulu Kingdom.",
+        "The 'Mineral Revolution' was a cultural event that celebrated the region's diverse heritage."
       ],
       "answer_explanations": [
-        "Correct. The G20 is a forum for international economic cooperation, and the article lists South Africa as a member of the G20, making it most relevant to global economic governance.",
-        "Incorrect. The African Union is a continental political and economic union, but the G20 is more directly focused on global economic governance.",
-        "Incorrect. SADC is a regional economic community, not a global economic governance body.",
-        "Incorrect. SACU is a customs union, not a global economic governance body."
+        "Correct. The article states that after further colonisation, the 'Mineral Revolution saw a shift towards industrialisation and urbanisation', implying a major economic and social transformation.",
+        "Incorrect. The article does not describe a peaceful era; it mentions the Mineral Revolution as a period of significant change.",
+        "Incorrect. The Zulu Kingdom was formed during the Mfecane, a period of upheaval, not the Mineral Revolution.",
+        "Incorrect. The article describes the Mineral Revolution as an economic shift, not a cultural event."
       ]
     },
     {
       "id": 7,
-      "question": "A linguist is tracing the origins of the colloquial term 'Mzansi.' Based on the article, from which language is this term derived?",
+      "question": "How does the article's statement about the 'Mfecane' relate to the later formation of the Zulu Kingdom?",
       "options": [
-        "Xhosa",
-        "Afrikaans",
-        "Dutch",
-        "Northern Sotho"
+        "The Mfecane, a period of significant upheaval, led to the formation of various African kingdoms, including the Zulu Kingdom.",
+        "The Mfecane was a direct result of the Zulu Kingdom's rise to power.",
+        "The Mfecane was a period of peace that allowed the Zulu Kingdom to flourish.",
+        "The Mfecane was a political movement that opposed the formation of African kingdoms."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Mzansi, derived from the Xhosa noun uMzantsi meaning \"south\", is a colloquial name for South Africa.'",
-        "Incorrect. Afrikaans is mentioned as the language for the formal name 'Republiek van Suid-Afrika,' not for 'Mzansi.'",
-        "Incorrect. Dutch is mentioned in the context of the historical name 'Unie van Zuid-Afrika,' not for 'Mzansi.'",
-        "Incorrect. Northern Sotho is mentioned as the group that created stone ruins, not as the source of 'Mzansi.'"
+        "Correct. The article states 'The Mfecane, a period of significant upheaval, led to the formation of various African kingdoms, including the Zulu Kingdom', directly linking the upheaval to the Zulu Kingdom's creation.",
+        "Incorrect. The article states the Mfecane led to the formation of the Zulu Kingdom, not that the Zulu Kingdom caused the Mfecane.",
+        "Incorrect. The article describes the Mfecane as a period of 'significant upheaval', not peace.",
+        "Incorrect. The article says the Mfecane led to the formation of kingdoms, not that it opposed them."
       ]
     },
     {
       "id": 8,
-      "question": "An archaeologist is studying the transition from the K2 settlement to Mapungubwe. What does the article suggest was crucial to the development of the political structure at Mapungubwe?",
+      "question": "What is the significance of the article's statement that South Africa is 'tied with Ethiopia for the most UNESCO World Heritage Sites in Africa'?",
       "options": [
-        "Rainmaking",
-        "Indian Ocean trade",
-        "Ironworking",
-        "Pastoralism"
+        "It highlights South Africa's cultural and natural heritage as being of global importance, on par with another major African nation.",
+        "It proves that South Africa has a better heritage preservation record than all other African countries.",
+        "It indicates that South Africa's economy is dependent on tourism from these sites.",
+        "It shows that South Africa has more world heritage sites than any other country in the world."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Rainmaking was crucial to the development of sacral kingship' at Mapungubwe.",
-        "Incorrect. Indian Ocean trade is mentioned as a source of wealth for Mapungubwe, but not as crucial to the development of its political structure.",
-        "Incorrect. Ironworking is mentioned in the context of Bantu settlements, but not specifically for Mapungubwe's political structure.",
-        "Incorrect. Pastoralism is mentioned in the context of the Khoikhoi, not Mapungubwe."
+        "Correct. The article presents this fact as a point of distinction, implying that South Africa's heritage is globally significant and comparable to that of Ethiopia, another prominent African country.",
+        "Incorrect. The article only states a tie with Ethiopia, not that South Africa has a better record than all others.",
+        "Incorrect. The article does not discuss tourism or the economic impact of these sites.",
+        "Incorrect. The article specifies 'in Africa', not globally."
       ]
     },
     {
       "id": 9,
-      "question": "A demographer is comparing population data. According to the article, South Africa is the 24th-most populated country in the world. Which of the following best describes its ranking in Africa?",
+      "question": "What does the article's description of the 'pre-colonial period' suggest about the nature of societies in South Africa before European settlement?",
       "options": [
-        "Sixth-most populated country in Africa",
-        "Most populated country in Africa",
-        "24th-most populated country in Africa",
-        "Sixth-most populated country in the world"
+        "They were complex and varied, including hunter-gatherers, pastoralists, iron-working agriculturists, and large kingdoms with trade connections.",
+        "They were mostly simple hunter-gatherer societies with no internal organization or trade.",
+        "They were all part of a single, unified empire that controlled the entire region.",
+        "They were primarily nomadic and did not establish permanent settlements or states."
       ],
       "answer_explanations": [
-        "Correct. The article states that South Africa is 'the sixth-most populated country in Africa.'",
-        "Incorrect. The article does not claim it is the most populated in Africa.",
-        "Incorrect. The 24th ranking is for the world, not Africa.",
-        "Incorrect. The sixth ranking is for Africa, not the world."
+        "Correct. The article describes the San and Khoikhoi as hunter-gatherers and pastoralists, Bantu-speakers as iron-using agriculturists and herdsmen, and mentions the Kingdom of Mapungubwe with a population of 5,000 and involvement in Indian Ocean trade, showing complexity and variety.",
+        "Incorrect. The article also describes pastoralists, iron-using agriculturists, and complex kingdoms, not just simple hunter-gatherers.",
+        "Incorrect. The article describes multiple distinct groups and kingdoms, not a single unified empire.",
+        "Incorrect. The article mentions permanent settlements and states, such as the Mapungubwe Kingdom and the Venda Kingdom."
       ]
     },
     {
       "id": 10,
-      "question": "A historian is examining the timeline of European colonization in South Africa. Based on the article, which event directly led to British occupation of the Cape Colony?",
+      "question": "How does the article's mention of the 'Taung Child' and the 'Cradle of Humankind' support its claim that South Africa contains 'some of the oldest archaeological and human-fossil sites in the world'?",
       "options": [
-        "The Battle of Blaauwberg in 1806",
-        "The invasion in 1795",
-        "The Second Boer War",
-        "The 1961 referendum"
+        "It provides specific examples of significant hominin fossils and a UNESCO World Heritage Site, demonstrating the region's deep history of human evolution.",
+        "It shows that South Africa has more fossils than any other country, proving its unique status.",
+        "It indicates that the Taung Child is the oldest human fossil ever found anywhere.",
+        "It proves that modern humans originated exclusively in South Africa."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'its invasion in 1795, and the Battle of Blaauwberg in 1806 led to British occupation.' The Battle of Blaauwberg is the specific event that led to occupation.",
-        "Incorrect. The invasion in 1795 is mentioned as a precursor, but the article states that both the invasion and the battle led to occupation, with the battle being the decisive event.",
-        "Incorrect. The Second Boer War is mentioned in the context of the formation of the Union of South Africa, not the initial British occupation.",
-        "Incorrect. The 1961 referendum is mentioned in the context of South Africa becoming a republic, not British occupation."
+        "Correct. The article cites the 'Taung Child' as 'the first hominin fossil discovered in Africa' and the 'Cradle of Humankind' as a UNESCO World Heritage Site with 'extensive fossil remains', which are concrete examples that substantiate the claim about the age and importance of these sites.",
+        "Incorrect. The article does not claim South Africa has more fossils than any other country; it says it has 'some of the oldest' sites.",
+        "Incorrect. The article says the Taung Child was the first hominin fossil discovered in Africa, not that it is the oldest human fossil ever found.",
+        "Incorrect. The article mentions various hominid species and modern humans, but does not claim they originated exclusively in South Africa."
       ]
     }
   ]

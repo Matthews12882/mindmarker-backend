@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which layer of Earth's atmosphere is most directly responsible for protecting the surface from meteoroids and ultraviolet solar radiation?",
+      "question": "Why does the article state that the thermosphere's high temperature 'is not very meaningful' in the usual sense?",
       "options": [
-        "The troposphere",
-        "The stratosphere",
-        "The mesosphere",
-        "The thermosphere"
+        "Because the gas molecules are so far apart that the kinetic energy per molecule is high but the density is too low to transfer significant heat to a human or a thermometer.",
+        "Because the thermosphere is actually colder than the mesosphere despite the high readings from satellites.",
+        "Because the temperature is measured in kelvin, not Celsius, so the numbers are misleading.",
+        "Because the thermosphere is completely cloudless and free of water vapor, so temperature cannot be defined."
       ],
       "answer_explanations": [
-        "Correct. The troposphere is the lowest layer and contains most of the atmosphere's mass, providing the bulk of protection from meteoroids and UV radiation.",
-        "Incorrect. While the stratosphere contains the ozone layer that absorbs UV, it is not the primary barrier against meteoroids.",
-        "Incorrect. The mesosphere is higher and does not primarily shield the surface from meteoroids or UV.",
-        "Incorrect. The thermosphere is much higher and does not significantly protect the surface from meteoroids or UV."
+        "Correct. The article explains that the thermosphere's temperature can rise to 1500 Â°C, but 'the gas molecules are so far apart that its temperature in the usual sense is not very meaningful' and 'it would not feel hot to a human in direct contact, because its density is too low to conduct a significant amount of energy'.",
+        "Incorrect. The article does not state that the thermosphere is colder than the mesosphere; it says temperature increases with height in the thermosphere.",
+        "Incorrect. The article does not mention the unit of measurement as the reason; it focuses on the low density and large distances between molecules.",
+        "Incorrect. The absence of water vapor is a separate fact about the thermosphere, not the reason why its temperature is not meaningful in the usual sense."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, which gas constitutes the largest proportion of dry air by mole fraction?",
+      "question": "What does the existence of the 'missing xenon problem' imply about the current understanding of Earth's atmospheric composition?",
       "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Argon",
-        "Carbon dioxide"
+        "That the measured concentration of xenon is far lower than expected based on comparisons with other noble gases, and no single explanation has yet been confirmed.",
+        "That xenon is not a noble gas and therefore behaves differently from neon, helium, and krypton.",
+        "That xenon is produced by radioactive decay in the mantle, making its atmospheric abundance higher than expected.",
+        "That the atmosphere's xenon was all lost during the primordial accretion phase and is now absent."
       ],
       "answer_explanations": [
-        "Correct. The article states that dry air contains 78.08% nitrogen by mole fraction, making it the largest component.",
-        "Incorrect. Oxygen is the second most abundant at about 20.95%.",
-        "Incorrect. Argon is much less abundant at about 0.93%.",
-        "Incorrect. Carbon dioxide is only about 0.04%."
+        "Correct. The article states that 'the concentration of Xe in the atmosphere is much lower than the other noble gases, a geological mystery known as the missing xenon problem' and lists several unconfirmed proposals, implying that the discrepancy is unexplained.",
+        "Incorrect. The article explicitly lists xenon among the noble gases present in the atmosphere.",
+        "Incorrect. The article does not mention radioactive production of xenon; it discusses possible sinks like XeâFe oxides in the mantle or core.",
+        "Incorrect. The article says the concentration is 'much lower' than expected, not that it is absent, and it suggests possible storage in Earth's interior rather than complete loss."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following best describes the \"missing xenon problem\" as mentioned in the article?",
+      "question": "Why does the article describe the exosphere as a layer where particles 'no longer behaves like a gas'?",
       "options": [
-        "The concentration of xenon in the atmosphere is much lower than other noble gases.",
-        "Xenon is absent from the atmosphere entirely.",
-        "Xenon is found only in the exosphere.",
-        "Xenon is more abundant than helium in the atmosphere."
+        "Because the atoms and molecules are so far apart that they travel hundreds of kilometres without colliding, so the collective behavior of a gas is lost.",
+        "Because the exosphere is composed entirely of hydrogen, which is too light to behave as a gas.",
+        "Because the exosphere is dominated by the solar wind, which sweeps away any gas-like properties.",
+        "Because the exosphere has a temperature of zero, preventing gas behavior."
       ],
       "answer_explanations": [
-        "Correct. The article describes the missing xenon problem as the unusually low concentration of xenon compared to other noble gases.",
-        "Incorrect. Xenon is present but at lower levels than expected.",
-        "Incorrect. The exosphere contains some xenon but the problem refers to overall atmospheric levels.",
-        "Incorrect. Helium is also low, but xenon is notably lower than expected."
+        "Correct. The article states that in the exosphere, 'the atoms and molecules are so far apart that they can travel hundreds of kilometres without colliding with one another. Thus, the exosphere no longer behaves like a gas'.",
+        "Incorrect. The exosphere contains hydrogen, helium, carbon dioxide, and nascent oxygen, not only hydrogen.",
+        "Incorrect. The solar wind is mentioned as a boundary, not as the reason for the non-gas behavior.",
+        "Incorrect. The article does not state a zero temperature for the exosphere; the non-gas behavior is due to the lack of collisions."
       ]
     },
     {
       "id": 4,
-      "question": "What is the primary reason that the temperature in the thermosphere can reach very high values despite the low density of air?",
+      "question": "What conclusion can be drawn from the article's statement that air suitable for photosynthesis and respiration is found only within the troposphere?",
       "options": [
-        "Absorption of ionizing UV and X-ray radiation from the Sun",
-        "High concentration of greenhouse gases",
-        "Convection from lower layers",
-        "Radioactive decay of elements in the atmosphere"
+        "That the composition and pressure of air in higher layers are not adequate for these biological processes, even though the overall atmosphere contains oxygen and carbon dioxide.",
+        "That the troposphere is the only layer that contains oxygen and carbon dioxide.",
+        "That plants and animals cannot survive above 12 km because of the cold temperatures.",
+        "That the stratosphere is too thin to support life."
       ],
       "answer_explanations": [
-        "Correct. The article explains that the temperature increase in the thermosphere is caused by absorption of ionizing UV and X-ray emission from the Sun.",
-        "Incorrect. Greenhouse gases are not the primary heating mechanism in the thermosphere.",
-        "Incorrect. Convection is minimal due to low density.",
-        "Incorrect. Radioactive decay is not a significant heat source in this layer."
+        "Correct. The article says 'Air suitable for use in photosynthesis by terrestrial plants and respiration of terrestrial animals is found within the troposphere', implying that the specific conditions (composition, pressure, etc.) in higher layers are not suitable, even though those gases exist there.",
+        "Incorrect. The article does not claim that oxygen and carbon dioxide are absent in higher layers; it only says the air is not suitable for these processes.",
+        "Incorrect. The article does not mention temperature as the reason; it focuses on the air itself.",
+        "Incorrect. The article does not discuss the stratosphere's thickness in relation to life support."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following statements about the exosphere is supported by the article?",
+      "question": "How does the article's description of the thermosphere's density relate to the fact that the International Space Station orbits there?",
       "options": [
-        "It is composed mainly of hydrogen and helium, with very low densities.",
-        "It contains the majority of Earth's water vapor.",
-        "It is the layer where weather phenomena such as clouds form.",
-        "It is the densest layer of the atmosphere."
+        "The extremely low density means there is negligible drag, allowing the ISS to orbit without significant atmospheric resistance, but the layer still contains enough particles to cause some drag over time.",
+        "The high density in the thermosphere provides the necessary lift for the ISS to stay in orbit.",
+        "The thermosphere is completely empty, so the ISS orbits in a vacuum with no interactions.",
+        "The thermosphere's temperature of 1500 Â°C would melt the ISS if it were not for the low density."
       ],
       "answer_explanations": [
-        "Correct. The article states that the exosphere is mainly composed of extremely low densities of hydrogen, with limited amounts of helium, carbon dioxide, and nascent oxygen.",
-        "Incorrect. Water vapor is concentrated in the troposphere, not the exosphere.",
-        "Incorrect. Clouds form in the troposphere, not the exosphere.",
-        "Incorrect. The exosphere is the outermost and least dense layer."
+        "Correct. The article states that in the thermosphere 'the air is so rarefied that an individual molecule travels an average of 1 kilometre between collisions' and that the ISS orbits there, implying that the density is low enough to allow long-term orbiting without immediate catastrophic drag, though the layer is not a perfect vacuum.",
+        "Incorrect. The thermosphere is extremely rarefied, not dense; lift is not provided by atmospheric density for orbital mechanics.",
+        "Incorrect. The article says the thermosphere contains molecules, albeit far apart, and it is not completely empty.",
+        "Incorrect. The article explicitly notes that despite the high temperature, it would not feel hot to a human because of low density, so the ISS is not melted."
       ]
     },
     {
       "id": 6,
-      "question": "In the context of atmospheric composition, what does the article indicate about the average molecular weight of dry air?",
+      "question": "What does the article's mention of the KÃ¡rmÃ¡n line at 100 km as a 'conventional definition' imply about the boundary between atmosphere and space?",
       "options": [
-        "It is about 28.946 g/mol.",
-        "It is about 32 g/mol.",
-        "It is about 20 g/mol.",
-        "It is about 44 g/mol."
+        "That the boundary is not physically sharp but is a human-made convention for practical purposes, as the atmosphere gradually thins with altitude.",
+        "That the KÃ¡rmÃ¡n line is the exact altitude where all atmospheric gases cease to exist.",
+        "That the KÃ¡rmÃ¡n line is the same as the exobase, where atmospheric escape begins.",
+        "That the KÃ¡rmÃ¡n line is determined by the temperature profile, not by composition."
       ],
       "answer_explanations": [
-        "Correct. The article states that the average molecular weight of dry air is about 28.946 or 28.964 g/mol.",
-        "Incorrect. 32 g/mol is closer to the molecular weight of oxygen, not the average of dry air.",
-        "Incorrect. 20 g/mol is too low for the mixture of gases.",
-        "Incorrect. 44 g/mol is the molecular weight of carbon dioxide, not the average."
+        "Correct. The article says 'The atmosphere becomes thinner with increasing altitude, with no definite boundary between the atmosphere and outer space. The KÃ¡rmÃ¡n line at 100 km is often used as a conventional definition' â implying it is a practical choice, not a physical discontinuity.",
+        "Incorrect. The article states there is no definite boundary and that the atmosphere thins gradually, so gases do not cease at 100 km.",
+        "Incorrect. The exobase is the top of the thermosphere, which varies from 500 to 1000 km, not the KÃ¡rmÃ¡n line.",
+        "Incorrect. The KÃ¡rmÃ¡n line is a definition for the edge of space, not based on temperature; temperature layers are a separate classification."
       ]
     },
     {
       "id": 7,
-      "question": "Which layer of the atmosphere is described as containing the International Space Station?",
+      "question": "Why does the article state that the relative concentrations of gases remain the same up to about 100 km, but then change in the heterosphere?",
       "options": [
-        "The thermosphere",
-        "The mesosphere",
-        "The stratosphere",
-        "The exosphere"
+        "Because turbulent mixing dominates below 100 km, while above that, molecular diffusion becomes dominant, causing lighter gases to become relatively more abundant with altitude.",
+        "Because the temperature increases above 100 km, causing gases to separate by weight.",
+        "Because the pressure is too low above 100 km for any gas to exist, so only the lightest remain.",
+        "Because the solar wind pushes heavier gases downward, leaving only light gases above 100 km."
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the International Space Station orbits in the thermosphere, between 370 and 460 km above Earth's surface.",
-        "Incorrect. The ISS is not in the mesosphere.",
-        "Incorrect. The stratosphere is lower and does not host the ISS.",
-        "Incorrect. The exosphere is above the thermosphere and does not contain the ISS."
+        "Correct. The article explains that 'Up to an altitude of around 100 km, atmospheric turbulence mixes the component gases so that their relative concentrations remain the same' and that in the transition zone from 80 to 120 km, 'turbulent mixing gradually yields to molecular diffusion', which 'forms the heterosphere where the relative concentration of lighter gases increases with altitude'.",
+        "Incorrect. The article does not attribute the change to temperature; it attributes it to the shift from turbulent mixing to molecular diffusion.",
+        "Incorrect. The article does not say gases cease to exist above 100 km; it says the relative concentrations change.",
+        "Incorrect. The article does not mention the solar wind as the cause of the heterosphere; it is a result of diffusion."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, which of the following processes contributed to changes in Earth's primordial atmosphere?",
+      "question": "What does the article's statement that the exosphere's upper limit is sometimes considered to be about 190,000 km, 'about halfway to the Moon', imply about the extent of Earth's atmosphere?",
       "options": [
-        "Volcanism, outgassing, impact events, weathering, and evolution of life",
-        "Only solar radiation",
-        "Only human activity",
-        "Only volcanic eruptions"
+        "That the atmosphere, though extremely tenuous, can extend far beyond the KÃ¡rmÃ¡n line and even approach the Moon's orbit, depending on the definition used.",
+        "That the atmosphere ends exactly at the KÃ¡rmÃ¡n line and the 190,000 km figure is a mistake.",
+        "That the exosphere is only 10,000 km thick, and the 190,000 km figure refers to the Moon's atmosphere.",
+        "That the exosphere contains the Moon within its boundaries, making the Moon part of Earth's atmosphere."
       ],
       "answer_explanations": [
-        "Correct. The article lists several factors that changed Earth's primordial atmosphere, including volcanism, outgassing, impact events, weathering, and evolution of life.",
-        "Incorrect. Solar radiation alone did not drive the major changes.",
-        "Incorrect. Human activity is a recent factor, not primordial.",
-        "Incorrect. While volcanism is important, other processes also contributed."
+        "Correct. The article states that 'Various authorities consider it to end at about 10,000 kilometres or about 190,000 kilometres â about halfway to the Moon', implying that the exosphere's outer boundary is not fixed and can be defined very far out, even approaching lunar distance.",
+        "Incorrect. The article clearly presents the 190,000 km figure as a valid definition, not a mistake.",
+        "Incorrect. The article gives 10,000 km as one possible end, but also 190,000 km; it does not say the exosphere is only 10,000 km thick.",
+        "Incorrect. The article does not say the Moon is inside the atmosphere; it says the boundary could be halfway to the Moon, but the Moon itself is not mentioned as being within."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article state about the distribution of atmospheric mass with altitude?",
+      "question": "Why does the article mention that the total ppm in the composition table 'adds up to more than 1 million' and attributes this to 'experimental error'?",
       "options": [
-        "Three-quarters of the atmosphere's mass lies within about 11 km of the surface.",
-        "Most of the atmosphere's mass is above 100 km.",
-        "Atmospheric mass is evenly distributed up to 50 km.",
-        "The atmosphere's mass is primarily in the exosphere."
+        "To indicate that the measurements of individual gas concentrations are not perfectly precise and that the sum exceeding 1,000,000 ppm is a sign of minor measurement inaccuracies, not a physical impossibility.",
+        "To show that the atmosphere contains more gas than it actually does, proving that the ideal gas law is incorrect.",
+        "To suggest that the table is unreliable and should be disregarded entirely.",
+        "To explain that water vapor was included in the dry air total, causing the excess."
       ],
       "answer_explanations": [
-        "Correct. The article notes that the atmosphere has a mass of about 5.15Ã10^18 kg, three-quarters of which is within about 11 km of the surface.",
-        "Incorrect. The majority of mass is indeed near the surface, not above 100 km.",
-        "Incorrect. Mass is not evenly distributed; it decreases with altitude.",
-        "Incorrect. The exosphere contains very little mass."
+        "Correct. The article states 'The total ppm above adds up to more than 1 million (currently 83.43 above it) due to experimental error', implying that the excess is a known measurement artifact and does not invalidate the overall composition.",
+        "Incorrect. The article does not claim the atmosphere has more gas than possible; it explicitly attributes the excess to experimental error.",
+        "Incorrect. The article does not dismiss the table; it provides a note explaining the small discrepancy.",
+        "Incorrect. The table is for dry air, and water vapor is listed separately; the excess is not due to water vapor inclusion."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following best describes the role of the ozone layer as implied by the article?",
+      "question": "What can be inferred from the article's statement that the average molecular weight of dry air 'is decreased when the air is humid'?",
       "options": [
-        "It absorbs ultraviolet solar radiation, protecting life on Earth.",
-        "It reflects radio waves for communication.",
-        "It generates weather patterns in the troposphere.",
-        "It traps heat as a greenhouse gas."
+        "That water vapor molecules are lighter than the average dry air molecule, so replacing some dry air molecules with water vapor lowers the overall average molecular weight.",
+        "That humid air contains more nitrogen and oxygen, which are heavier than water vapor.",
+        "That water vapor increases the total mass of air, making the average molecular weight higher.",
+        "That humidity causes the air to become denser, increasing the molecular weight."
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the atmosphere shields the surface from ultraviolet solar radiation, which is primarily absorbed by the ozone layer in the stratosphere.",
-        "Incorrect. The ozone layer does not primarily reflect radio waves.",
-        "Incorrect. Weather patterns are driven by other atmospheric processes.",
-        "Incorrect. Ozone is not a major greenhouse gas in this context."
+        "Correct. The article states the average molecular weight of dry air is about 28.946 g/mol and that 'This is decreased when the air is humid', which implies that water vapor (molecular weight 18 g/mol) is lighter than the average dry air molecule, so its presence lowers the average.",
+        "Incorrect. Humid air has a higher proportion of water vapor, not more nitrogen or oxygen; the article does not support this.",
+        "Incorrect. Water vapor is lighter than the average dry air molecule, so it lowers the average molecular weight, not increases it.",
+        "Incorrect. Humidity decreases density (since water vapor is lighter), and the article explicitly says the molecular weight is decreased, not increased."
       ]
     }
   ]

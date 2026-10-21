@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the geographical location of Southeast Asia?",
+      "question": "What is Southeast Asia a geographical subregion of?",
       "options": [
-        "South of China, east of the Indian subcontinent, and northwest of mainland Australia",
-        "North of China, west of the Indian subcontinent, and southeast of mainland Australia",
-        "East of China, south of the Indian subcontinent, and northeast of mainland Australia",
-        "West of China, north of the Indian subcontinent, and southwest of mainland Australia"
+        "Asia",
+        "Africa",
+        "Europe",
+        "Oceania"
       ],
       "answer_explanations": [
-        "Correct. The article states that Southeast Asia is 'situated south of China, east of the Indian subcontinent, and northwest of mainland Australia'.",
-        "Incorrect. The article says it is south of China, not north.",
-        "Incorrect. The article says it is east of the Indian subcontinent, not south.",
-        "Incorrect. The article says it is northwest of mainland Australia, not southwest."
+        "Correct. The article states that 'Southeast Asia is the geographical south-eastern subregion of Asia'.",
+        "Incorrect. The article identifies Southeast Asia as a subregion of Asia, not Africa.",
+        "Incorrect. The article identifies Southeast Asia as a subregion of Asia, not Europe.",
+        "Incorrect. The article mentions Oceania as a neighboring region, but Southeast Asia is a subregion of Asia."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is NOT a country in Mainland Southeast Asia according to the article?",
+      "question": "Which ocean is to the east of Southeast Asia?",
       "options": [
-        "Indonesia",
-        "Cambodia",
-        "Laos",
-        "Myanmar"
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Southern Ocean"
       ],
       "answer_explanations": [
-        "Correct. Indonesia is listed under Maritime Southeast Asia, not Mainland Southeast Asia. The article lists Cambodia, Laos, Myanmar, Peninsular Malaysia, Thailand, and Vietnam as Mainland Southeast Asia.",
-        "Incorrect. Cambodia is explicitly listed as part of Mainland Southeast Asia.",
-        "Incorrect. Laos is explicitly listed as part of Mainland Southeast Asia.",
-        "Incorrect. Myanmar is explicitly listed as part of Mainland Southeast Asia."
+        "Correct. The article says Southeast Asia is bordered 'to the east by Oceania and the Pacific Ocean'.",
+        "Incorrect. The Atlantic Ocean is not mentioned as a border of Southeast Asia.",
+        "Incorrect. The Arctic Ocean is not mentioned as a border of Southeast Asia.",
+        "Incorrect. The Southern Ocean is not mentioned as a border of Southeast Asia."
       ]
     },
     {
       "id": 3,
-      "question": "How many countries in Southeast Asia are members of ASEAN?",
+      "question": "Which subregion of Asia lies partly within the Southern Hemisphere?",
       "options": [
-        "Eleven",
-        "Ten",
-        "Twelve",
-        "Nine"
+        "Maritime Southeast Asia",
+        "East Asia",
+        "South Asia",
+        "Central Asia"
       ],
       "answer_explanations": [
-        "Correct. The article says 'All eleven countries of Southeast Asia are members of the Association of Southeast Asian Nations (ASEAN).'",
-        "Incorrect. The article states eleven, not ten.",
-        "Incorrect. The article states eleven, not twelve.",
-        "Incorrect. The article states eleven, not nine."
+        "Correct. The article states that 'Maritime Southeast Asia is the only other subregion of Asia that lies partly within the Southern Hemisphere'.",
+        "Incorrect. The article does not say East Asia lies partly in the Southern Hemisphere.",
+        "Incorrect. The article does not say South Asia lies partly in the Southern Hemisphere.",
+        "Incorrect. The article does not say Central Asia lies partly in the Southern Hemisphere."
       ]
     },
     {
       "id": 4,
-      "question": "Which two seismic belts meet in Indonesia?",
+      "question": "Which parts of Southeast Asia are located south of the Equator?",
       "options": [
-        "The Alpide belt and the Pacific Ring of Fire",
-        "The Sunda plate and the Australian plate",
-        "The Himalayan belt and the Pacific Ring of Fire",
-        "The Alpide belt and the Sunda plate"
+        "Timor-Leste and the southern portion of Indonesia",
+        "Myanmar and northern Thailand",
+        "Northern Laos and northern Vietnam",
+        "Mainland Southeast Asia"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Both seismic belts meet in Indonesia' and identifies them as the Alpide belt and the Pacific Ring of Fire.",
-        "Incorrect. These are plates, not seismic belts.",
-        "Incorrect. The Himalayan belt is not mentioned; the article refers to the Alpide belt.",
-        "Incorrect. The Sunda plate is a tectonic plate, not a seismic belt."
+        "Correct. The article says 'Timor-Leste and the southern portion of Indonesia are the parts of Southeast Asia that are located south of the Equator'.",
+        "Incorrect. The article does not say Myanmar and northern Thailand are south of the Equator.",
+        "Incorrect. The article does not say northern Laos and northern Vietnam are south of the Equator.",
+        "Incorrect. The article states that 'Mainland Southeast Asia is entirely in the Northern Hemisphere'."
       ]
     },
     {
       "id": 5,
-      "question": "What was the term 'Indochina' originally used to refer to?",
+      "question": "What is the main geological plate of the Southeast Asian region?",
       "options": [
-        "The mainland section of Southeast Asia",
-        "The maritime section of Southeast Asia",
-        "The entire region of Southeast Asia",
-        "The former French colonies in Southeast Asia"
+        "Sunda plate",
+        "Pacific plate",
+        "Indian plate",
+        "Eurasian plate"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The mainland section of Southeast Asia was referred to as Indochina by European geographers'.",
-        "Incorrect. The maritime section is called the Malay Archipelago or Insulindia.",
-        "Incorrect. Indochina referred specifically to the mainland section, not the entire region.",
-        "Incorrect. This was a later, more restricted usage, but originally it referred to the whole mainland section."
+        "Correct. The article states that 'The Sunda plate is the main plate of the region'.",
+        "Incorrect. The Pacific plate is not identified as the main plate of the region.",
+        "Incorrect. The Indian plate is not identified as the main plate of the region.",
+        "Incorrect. The Eurasian plate is not identified as the main plate of the region."
       ]
     },
     {
       "id": 6,
-      "question": "Which country joined ASEAN most recently, in 2025?",
+      "question": "Which countries are part of the Pacific Ring of Fire according to the article?",
       "options": [
-        "Timor-Leste",
-        "Papua New Guinea",
-        "Brunei",
-        "Cambodia"
+        "The Philippines and Indonesia",
+        "Myanmar and Thailand",
+        "Laos and Vietnam",
+        "Peninsular Malaysia"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Timor-Leste is the latest country to join this association (2025).'",
-        "Incorrect. Papua New Guinea is an observer, not a member.",
-        "Incorrect. Brunei joined earlier.",
-        "Incorrect. Cambodia joined earlier."
+        "Correct. The article mentions 'the islands of the Philippines and Indonesia as well as Timor-Leste are part of the Pacific Ring of Fire'.",
+        "Incorrect. The article does not list Myanmar and Thailand as part of the Ring of Fire.",
+        "Incorrect. The article does not list Laos and Vietnam as part of the Ring of Fire.",
+        "Incorrect. The article does not list Peninsular Malaysia as part of the Ring of Fire."
       ]
     },
     {
       "id": 7,
-      "question": "What is the approximate total population of Southeast Asia?",
+      "question": "How much of Asia's total land area does Southeast Asia cover?",
       "options": [
-        "About 676 million",
-        "About 500 million",
-        "About 800 million",
-        "About 1 billion"
+        "9.80%",
+        "8%",
+        "3%",
+        "8.5%"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Its total population is about 676 million'.",
-        "Incorrect. The article states about 676 million, not 500 million.",
-        "Incorrect. The article states about 676 million, not 800 million.",
-        "Incorrect. The article states about 676 million, not 1 billion."
+        "Correct. The article states that Southeast Asia 'covers about 4,500,000 km2... which is 9.80% of Asia'.",
+        "Incorrect. 8% is the percentage of Eurasia, not Asia.",
+        "Incorrect. 3% is the percentage of Earth's total land area, not Asia.",
+        "Incorrect. 8.5% is the percentage of the world's population, not Asia's land area."
       ]
     },
     {
       "id": 8,
-      "question": "Which part of Southeast Asia lies entirely in the Northern Hemisphere?",
+      "question": "What is the approximate total population of Southeast Asia?",
       "options": [
-        "Mainland Southeast Asia",
-        "Maritime Southeast Asia",
-        "Indonesia",
-        "Timor-Leste"
+        "676 million",
+        "450 million",
+        "1.7 billion",
+        "500 million"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Mainland Southeast Asia is entirely in the Northern Hemisphere.'",
-        "Incorrect. Maritime Southeast Asia lies partly in the Southern Hemisphere.",
-        "Incorrect. The southern portion of Indonesia is south of the Equator.",
-        "Incorrect. Timor-Leste is located south of the Equator."
+        "Correct. The article states 'Its total population is about 676 million'.",
+        "Incorrect. 450 million is not mentioned as the population.",
+        "Incorrect. 1.7 billion is not mentioned as the population.",
+        "Incorrect. 500 million is not mentioned as the population."
       ]
     },
     {
       "id": 9,
-      "question": "Who first used the term 'Southeast Asia' in 1839?",
+      "question": "Which regional organisation are the eleven countries in Southeast Asia members of?",
       "options": [
-        "Howard Malcolm",
-        "European geographers",
-        "The Allies during World War II",
-        "Chinese sources"
+        "Association of Southeast Asian Nations (ASEAN)",
+        "United Nations",
+        "European Union",
+        "World Trade Organization"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The term \"Southeast Asia\" was first used in 1839 by American pastor Howard Malcolm'.",
-        "Incorrect. European geographers used the term 'Indochina'.",
-        "Incorrect. The Allies popularised the term during WWII, but did not first use it.",
-        "Incorrect. Chinese sources referred to the region as Nanyang."
+        "Correct. The article says 'The eleven countries in the region are members of the Association of Southeast Asian Nations (ASEAN)'.",
+        "Incorrect. The article does not mention the United Nations as the regional organisation.",
+        "Incorrect. The article does not mention the European Union as the regional organisation.",
+        "Incorrect. The article does not mention the World Trade Organization as the regional organisation."
       ]
     },
     {
       "id": 10,
-      "question": "What is the main tectonic plate of the Southeast Asia region?",
+      "question": "Which empire briefly occupied several Southeast Asian countries during World War II?",
       "options": [
-        "The Sunda plate",
-        "The Australian plate",
-        "The Pacific plate",
-        "The Eurasian plate"
+        "Empire of Japan",
+        "British Empire",
+        "French Empire",
+        "Dutch Empire"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The Sunda plate is the main plate of the region'.",
-        "Incorrect. The Australian plate is mentioned in relation to Christmas Island and Cocos Islands, not as the main plate.",
-        "Incorrect. The Pacific plate is not described as the main plate of the region.",
-        "Incorrect. The Eurasian plate is not mentioned in the article."
+        "Correct. The article states 'Several Southeast Asian countries were also briefly occupied by the Empire of Japan during World War II'.",
+        "Incorrect. The article does not mention the British Empire occupying them during World War II.",
+        "Incorrect. The article does not mention the French Empire occupying them during World War II.",
+        "Incorrect. The article does not mention the Dutch Empire occupying them during World War II."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, how does the public-private law distinction differ between civil law and common law jurisdictions?",
+      "question": "What is law?",
       "options": [
-        "The distinction is stronger in civil law countries and less pronounced in common law jurisdictions.",
-        "The distinction is stronger in common law countries and less pronounced in civil law jurisdictions.",
-        "The distinction is equally strong in both civil law and common law jurisdictions.",
-        "The distinction exists only in civil law jurisdictions."
+        "A set of rules created and enforced by governmental or societal institutions",
+        "A collection of moral guidelines only",
+        "A system of punishments for criminals",
+        "A type of government"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'This distinction is stronger in civil law countries... by contrast, the public-private law divide is less pronounced in common law jurisdictions.'",
-        "Incorrect. The article states the opposite: the distinction is stronger in civil law countries, not common law countries.",
-        "Incorrect. The article explicitly says the distinction varies in strength between the two systems rather than being equal.",
-        "Incorrect. The article indicates the distinction exists in both systems, just with different degrees of strength."
+        "Correct. The article states that law is 'a set of rules that are created and enforced by governmental or societal institutions to regulate behavior'.",
+        "Incorrect. The article does not describe law as only moral guidelines; it emphasizes enforcement by institutions.",
+        "Incorrect. The article does not limit law to punishments for criminals; it regulates behavior broadly.",
+        "Incorrect. Law is not a type of government; it is a set of rules."
       ]
     },
     {
       "id": 2,
-      "question": "According to Rousseau's view quoted in the article, what does law consider?",
+      "question": "Who can make state-enforced laws according to the article?",
       "options": [
-        "Subjects en masse and actions in the abstract, never a particular person or action.",
-        "Specific individuals and their particular actions.",
-        "Only the will of the prince or sovereign.",
-        "The economic interests of the state above all else."
+        "A legislature, the executive, or judges' decisions",
+        "Only the president",
+        "Only judges",
+        "Only the military"
       ],
       "answer_explanations": [
-        "Correct. The quote from Rousseau states that law 'considers subjects en masse and actions in the abstract, and never a particular person or action.'",
-        "Incorrect. Rousseau explicitly says law never considers a particular person or action.",
-        "Incorrect. While Rousseau mentions the prince, he does not say law considers only the prince's will.",
-        "Incorrect. The quoted passage does not mention economic interests of the state."
+        "Correct. The article says state-enforced laws can be made by a legislature, by the executive through decrees and regulations, or by judges' decisions.",
+        "Incorrect. The article mentions the executive but not exclusively the president.",
+        "Incorrect. Judges' decisions are one source, but not the only one.",
+        "Incorrect. The military is not mentioned as a law-making body."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what did H. L. A. Hart argue about law?",
+      "question": "What are the two main domains into which the scope of law is divided?",
       "options": [
-        "Law is a system of rules divided into primary rules of conduct and secondary rules administered by officials.",
-        "Law is the command of a sovereign backed by the threat of a sanction.",
-        "Law is an interpretive concept to achieve justice.",
-        "Law is an authority to mediate people's interests."
+        "Public law and private law",
+        "Civil law and criminal law",
+        "National law and international law",
+        "Written law and unwritten law"
       ],
       "answer_explanations": [
-        "Correct. The article states that Hart 'argued law is a system of rules, divided into primary (rules of conduct) and secondary ones (rules addressed to officials to administer primary rules).'",
-        "Incorrect. This is John Austin's view, not Hart's, as stated in the article.",
-        "Incorrect. This is Ronald Dworkin's view, described in the article as law being an 'interpretive concept' to achieve justice.",
-        "Incorrect. This is Joseph Raz's view, described in the article as law being an 'authority' to mediate people's interests."
+        "Correct. The article states that the scope of law can be divided into two domains: public law and private law.",
+        "Incorrect. Civil law and criminal law are examples within the domains, not the main division.",
+        "Incorrect. The article does not mention national and international law as the main division.",
+        "Incorrect. The article does not classify law as written or unwritten in this context."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, how can state-enforced laws be made?",
+      "question": "What does public law concern?",
       "options": [
-        "By a legislature resulting in statutes, by the executive through decrees and regulations, or by judges' decisions forming precedent.",
-        "Only by a legislature through the passage of statutes.",
-        "Only by judges through the creation of binding precedent.",
-        "Only by the executive through decrees and regulations."
+        "Government and society, including constitutional, administrative, and criminal law",
+        "Disputes between private parties",
+        "Contracts and property",
+        "Commercial transactions"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'State-enforced laws can be made by a legislature, resulting in statutes; by the executive through decrees and regulations; or by judges' decisions, which form precedent in common law jurisdictions.'",
-        "Incorrect. The article lists multiple ways laws can be made, not only by a legislature.",
-        "Incorrect. The article lists multiple ways laws can be made, not only by judges.",
-        "Incorrect. The article lists multiple ways laws can be made, not only by the executive."
+        "Correct. The article says public law concerns government and society, including constitutional law, administrative law, and criminal law.",
+        "Incorrect. Disputes between private parties are part of private law, not public law.",
+        "Incorrect. Contracts and property are examples of private law.",
+        "Incorrect. Commercial law is part of private law."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what does normative jurisprudence ask?",
+      "question": "What does private law deal with?",
       "options": [
-        "'What should law be?'",
-        "'What is law?'",
-        "'How should laws be enforced?'",
-        "'Who should make laws?'"
+        "Legal disputes between parties in areas such as contracts, property, torts, delicts, and commercial law",
+        "Government and society",
+        "Criminal offenses",
+        "Constitutional issues"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Normative jurisprudence asks \"what should law be?\", while analytic jurisprudence asks \"what is law?\"'",
-        "Incorrect. The article states that analytic jurisprudence, not normative jurisprudence, asks 'what is law?'.",
-        "Incorrect. The article does not state that normative jurisprudence asks how laws should be enforced.",
-        "Incorrect. The article does not state that normative jurisprudence asks who should make laws."
+        "Correct. The article states that private law deals with legal disputes between parties in areas such as contracts, property, torts, delicts, and commercial law.",
+        "Incorrect. Government and society are part of public law.",
+        "Incorrect. Criminal law is part of public law.",
+        "Incorrect. Constitutional law is part of public law."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what is the Law Merchant?",
+      "question": "What is the origin of the word 'law' according to the article?",
       "options": [
-        "A Europe-wide system established so merchants could trade under common standards of practice rather than many splintered local laws.",
-        "A code of law developed by ancient Roman jurists.",
-        "A religious legal system used in some religious communities and states.",
-        "A system of administrative courts in civil law countries."
+        "It comes from the Old Norse word 'lÇ«g'",
+        "It comes from the Latin word 'lex'",
+        "It comes from the Greek word 'nomos'",
+        "It comes from the French word 'loi'"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'A Europe-wide Law Merchant was established so that merchants could trade under common standards of practice rather than the many splintered facets of local laws.'",
-        "Incorrect. The article describes Roman law as developed by professional jurists, not the Law Merchant.",
-        "Incorrect. The article discusses religious law separately from the Law Merchant.",
-        "Incorrect. The article discusses administrative courts separately from the Law Merchant."
+        "Correct. The article says that the word 'law' comes from the Old Norse word 'lÇ«g'.",
+        "Incorrect. The article does not mention Latin as the origin.",
+        "Incorrect. The article does not mention Greek as the origin.",
+        "Incorrect. The article does not mention French as the origin."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what did Hans Kelsen believe about law and morality?",
+      "question": "What is the philosophy of law commonly known as?",
       "options": [
-        "Law is separate from morality but endowed with normativity, meaning we ought to obey it.",
-        "Law is entirely identical to morality and cannot be separated from it.",
-        "Law should be based solely on moral principles without any positive rules.",
-        "Law and morality are the same thing, both expressing the general will."
+        "Jurisprudence",
+        "Ethics",
+        "Metaphysics",
+        "Sociology"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Kelsen believed that although law is separate from morality, it is endowed with \"normativity\", meaning we ought to obey it.'",
-        "Incorrect. The article states Kelsen believed law is separate from morality, not identical to it.",
-        "Incorrect. The article describes Kelsen as a positivist who believed law is separate from morality.",
-        "Incorrect. The article does not attribute this view to Kelsen; the general will is associated with Rousseau."
+        "Correct. The article states that the philosophy of law is commonly known as jurisprudence.",
+        "Incorrect. Ethics is a branch of philosophy but not the term for philosophy of law.",
+        "Incorrect. Metaphysics is a branch of philosophy but not the term for philosophy of law.",
+        "Incorrect. Sociology is a separate field, though it studies law as a social phenomenon."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what does private law deal with?",
+      "question": "According to John Austin, what is law?",
       "options": [
-        "Legal disputes between parties in areas such as contracts, property, torts, delicts, and commercial law.",
-        "Government and society, including constitutional law, administrative law, and criminal law.",
-        "The relationship between the state and its citizens in criminal matters only.",
-        "The creation of statutes by legislatures and decrees by the executive."
+        "The command of a sovereign, backed by the threat of a sanction",
+        "A system of rules",
+        "An interpretive concept to achieve justice",
+        "An authority to mediate people's interests"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'private law deals with legal disputes between parties in areas such as contracts, property, torts, delicts and commercial law.'",
-        "Incorrect. The article states that public law, not private law, concerns government and society including constitutional, administrative, and criminal law.",
-        "Incorrect. The article does not limit private law to criminal matters between state and citizens.",
-        "Incorrect. The article describes statute and decree creation as methods of lawmaking, not as the subject matter of private law."
+        "Correct. The article states that John Austin said law was 'the command of a sovereign, backed by the threat of a sanction'.",
+        "Incorrect. This is H. L. A. Hart's definition.",
+        "Incorrect. This is Ronald Dworkin's description.",
+        "Incorrect. This is Joseph Raz's argument."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what did John Austin say law was?",
+      "question": "Who argued that law is a 'system of rules' in 'The Concept of Law'?",
       "options": [
-        "'The command of a sovereign, backed by the threat of a sanction.'",
-        "A 'system of rules'.",
-        "An 'interpretive concept' to achieve justice.",
-        "An 'authority' to mediate people's interests."
+        "H. L. A. Hart",
+        "John Austin",
+        "Ronald Dworkin",
+        "Joseph Raz"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'John Austin said law was \"the command of a sovereign, backed by the threat of a sanction\".'",
-        "Incorrect. The article attributes 'system of rules' to H. L. A. Hart, not John Austin.",
-        "Incorrect. The article attributes 'interpretive concept' to Ronald Dworkin, not John Austin.",
-        "Incorrect. The article attributes 'authority' to Joseph Raz, not John Austin."
+        "Correct. The article says that H. L. A. Hart argued that law is a 'system of rules' in 'The Concept of Law'.",
+        "Incorrect. Austin defined law as commands of a sovereign.",
+        "Incorrect. Dworkin described law as an interpretive concept.",
+        "Incorrect. Raz argued law is an authority."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, how did ancient Athens handle the concept of law?",
+      "question": "What did the first law code, formulated by Ur-Nammu, consist of?",
       "options": [
-        "Athens had no legal science or single word for 'law', relying instead on divine law, human decree, and custom.",
-        "Athens had a comprehensive written legal code similar to the Code of Hammurabi.",
-        "Athens relied exclusively on divine law with no human decree or custom.",
-        "Athens developed the first system of civil law with a separate system of administrative courts."
+        "Casuistic statements ('if â¦ then ...')",
+        "Moral imperatives",
+        "Divine laws",
+        "Commercial regulations"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Athens had no legal science or single word for \"law\", relying instead on the three-way distinction between divine law (thÃ©mis), human decree (nÃ³mos), and custom (dÃ­kÄ).'",
-        "Incorrect. The article does not state that Athens had a comprehensive written legal code like the Code of Hammurabi.",
-        "Incorrect. The article states Athens relied on three concepts, not exclusively on divine law.",
-        "Incorrect. The article does not describe Athens as developing a civil law system with administrative courts."
+        "Correct. The article states that Ur-Nammu's law code consisted of casuistic statements ('if â¦ then ...').",
+        "Incorrect. Moral imperatives are associated with the Old Testament.",
+        "Incorrect. Divine law is a concept in Greek thought, not the content of Ur-Nammu's code.",
+        "Incorrect. Commercial regulations are part of the Law Merchant, not Ur-Nammu's code."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "On what date was Galileo Galilei born?",
+      "question": "Where was Galileo Galilei born?",
       "options": [
-        "15 February 1564",
-        "8 January 1642",
-        "15 January 1605",
-        "30 November 1609"
+        "Pisa",
+        "Florence",
+        "Rome",
+        "Venice"
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo was born on 15 February 1564.",
-        "Incorrect. 8 January 1642 is Galileo's death date, not his birth date.",
-        "Incorrect. 15 January 1605 is the date of Ottavio Brenzoni's letter to Galileo.",
-        "Incorrect. 30 November 1609 is when Galileo aimed his telescope at the Moon."
+        "Correct. The article states that Galileo was born in Pisa, then part of the Duchy of Florence.",
+        "Incorrect. Florence was the name of the duchy, not his birthplace.",
+        "Incorrect. Rome is not mentioned as his birthplace.",
+        "Incorrect. Venice is not mentioned as his birthplace."
       ]
     },
     {
       "id": 2,
-      "question": "In which city was Galileo born?",
+      "question": "Which of the following is NOT listed as a title for Galileo?",
       "options": [
-        "Pisa",
-        "Florence",
-        "Venice",
-        "Padua"
+        "Chemist",
+        "Astronomer",
+        "Physicist",
+        "Engineer"
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo was born in Pisa, then part of the Duchy of Florence.",
-        "Incorrect. Florence is where Galileo's family moved when he was eight, not his birthplace.",
-        "Incorrect. Venice is mentioned in connection with Galileo demonstrating his telescope, not his birth.",
-        "Incorrect. Padua is where Galileo taught at the university, not where he was born."
+        "Correct. The article calls him an astronomer, physicist, engineer, and polymath, but not a chemist.",
+        "Incorrect. The article identifies him as an astronomer.",
+        "Incorrect. The article identifies him as a physicist.",
+        "Incorrect. The article identifies him as an engineer."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is one of the titles Galileo has been called the father of?",
+      "question": "What did Galileo build an early version of?",
       "options": [
-        "observational astronomy",
-        "modern medicine",
-        "ancient philosophy",
-        "religious studies"
+        "Microscope",
+        "Telescope",
+        "Thermoscope",
+        "Compass"
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo has been called the father of observational astronomy.",
-        "Incorrect. The article does not call Galileo the father of modern medicine.",
-        "Incorrect. The article does not call Galileo the father of ancient philosophy.",
-        "Incorrect. The article does not call Galileo the father of religious studies."
+        "Correct. The article says he built an early microscope.",
+        "Incorrect. He improved a telescope, but the article says he built an early microscope.",
+        "Incorrect. He was an early developer of the thermoscope, not the one he built an early version of.",
+        "Incorrect. He invented military compasses, but the question asks about an early version of something."
       ]
     },
     {
       "id": 4,
-      "question": "What did Galileo discover orbiting Jupiter in January 1610?",
+      "question": "Which of the following did Galileo observe with his improved telescope?",
       "options": [
-        "four largest moons",
-        "a ring system",
-        "a new star",
-        "a comet"
+        "Phases of Venus",
+        "Rings of Uranus",
+        "Moons of Mars",
+        "Comet Halley"
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo concluded the four objects he observed were orbiting Jupiter.",
-        "Incorrect. The article attributes Saturn's rings to Galileo's observations, not Jupiter's.",
-        "Incorrect. The article does not mention Galileo discovering a new star near Jupiter.",
-        "Incorrect. The article does not mention Galileo discovering a comet near Jupiter."
+        "Correct. The article lists the phases of Venus among his telescopic observations.",
+        "Incorrect. Uranus's rings are not mentioned in the article.",
+        "Incorrect. Mars's moons are not mentioned in the article.",
+        "Incorrect. Halley's comet is not mentioned in the article."
       ]
     },
     {
       "id": 5,
-      "question": "What did Galileo conclude about the supernovae he observed in 1604?",
+      "question": "What did Galileo study?",
       "options": [
-        "they were distant stars",
-        "they were nearby planets",
-        "they were atmospheric phenomena",
-        "they were comets"
+        "Gravity and free fall",
+        "Magnetism and electricity",
+        "Sound and light",
+        "Chemistry and biology"
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo concluded the new stars were distant stars because they displayed no detectable diurnal parallax.",
-        "Incorrect. The article says Galileo concluded they were distant stars, not nearby planets.",
-        "Incorrect. The article does not describe the supernovae as atmospheric phenomena.",
-        "Incorrect. The article does not describe the supernovae as comets."
+        "Correct. The article says he studied gravity and free fall.",
+        "Incorrect. Magnetism and electricity are not mentioned.",
+        "Incorrect. Sound and light are not mentioned.",
+        "Incorrect. Chemistry and biology are not mentioned."
       ]
     },
     {
       "id": 6,
-      "question": "What punishment was Galileo sentenced to after his trial by the Inquisition?",
+      "question": "What did Galileo describe the properties of?",
       "options": [
-        "house arrest",
-        "execution",
-        "exile",
-        "imprisonment in a dungeon"
+        "The pendulum",
+        "The lever",
+        "The wheel",
+        "The pulley"
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo spent the rest of his life under house arrest.",
-        "Incorrect. The article does not state Galileo was executed.",
-        "Incorrect. The article does not state Galileo was exiled.",
-        "Incorrect. The article specifies house arrest, not imprisonment in a dungeon."
+        "Correct. The article says he described the properties of the pendulum.",
+        "Incorrect. The lever is not mentioned.",
+        "Incorrect. The wheel is not mentioned.",
+        "Incorrect. The pulley is not mentioned."
       ]
     },
     {
       "id": 7,
-      "question": "What was the title of Galileo's 1632 work defending his views?",
+      "question": "What did Galileo invent?",
       "options": [
-        "Dialogue Concerning the Two Chief World Systems",
-        "Discourses and Mathematical Demonstrations Relating to Two New Sciences",
-        "Sidereus Nuncius",
-        "On the Shape, Location, and Size of Dante's Inferno"
+        "Military compasses",
+        "The steam engine",
+        "The printing press",
+        "The electric battery"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Galileo's 1632 work as Dialogue Concerning the Two Chief World Systems.",
-        "Incorrect. Discourses and Mathematical Demonstrations Relating to Two New Sciences was written in 1638 during house arrest.",
-        "Incorrect. Sidereus Nuncius was published in March 1610, not 1632.",
-        "Incorrect. On the Shape, Location, and Size of Dante's Inferno was presented in 1588, not 1632."
+        "Correct. The article says he was the inventor of various military compasses.",
+        "Incorrect. The steam engine is not mentioned.",
+        "Incorrect. The printing press is not mentioned.",
+        "Incorrect. The electric battery is not mentioned."
       ]
     },
     {
       "id": 8,
-      "question": "How many children did Galileo father out of wedlock with Marina Gamba?",
+      "question": "What did Galileo observe on the Moon?",
       "options": [
-        "three",
-        "two",
-        "four",
-        "five"
+        "Craters",
+        "Seas",
+        "Mountains",
+        "Valleys"
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo fathered three children out of wedlock with Marina Gamba.",
-        "Incorrect. The article states three children, not two.",
-        "Incorrect. The article states three children, not four.",
-        "Incorrect. The article states three children, not five."
+        "Correct. The article lists lunar craters among his observations.",
+        "Incorrect. Lunar seas are not mentioned.",
+        "Incorrect. Lunar mountains are not mentioned.",
+        "Incorrect. Lunar valleys are not mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "What did Galileo create that was a forerunner of the thermometer?",
+      "question": "What did Galileo observe on the Sun?",
       "options": [
-        "thermoscope",
-        "hydrostatic balance",
-        "military compass",
-        "microscope"
+        "Sunspots",
+        "Solar flares",
+        "Corona",
+        "Prominences"
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo created a thermoscope, a forerunner of the thermometer.",
-        "Incorrect. The hydrostatic balance was a separate invention Galileo published about in 1586.",
-        "Incorrect. Military compasses were invented by Galileo but are not forerunners of the thermometer.",
-        "Incorrect. Galileo built an early microscope, but it is not a forerunner of the thermometer."
+        "Correct. The article lists sunspots among his observations.",
+        "Incorrect. Solar flares are not mentioned.",
+        "Incorrect. The corona is not mentioned.",
+        "Incorrect. Prominences are not mentioned."
       ]
     },
     {
       "id": 10,
-      "question": "Which university did Galileo enroll in at his father's urging in 1580?",
+      "question": "How many largest satellites of Jupiter did Galileo observe?",
       "options": [
-        "University of Pisa",
-        "University of Padua",
-        "Vallombrosa Abbey",
-        "University of Florence"
+        "Four",
+        "Three",
+        "Five",
+        "Six"
       ],
       "answer_explanations": [
-        "Correct. The article states Galileo enrolled in 1580 at the University of Pisa for a medical degree.",
-        "Incorrect. Galileo moved to the University of Padua in 1592, not 1580.",
-        "Incorrect. Vallombrosa Abbey is where Galileo was educated from 1575 to 1578, not a university he enrolled in at 1580.",
-        "Incorrect. The article does not mention a University of Florence in this context."
+        "Correct. The article says he observed the four largest satellites of Jupiter.",
+        "Incorrect. Three is not the number mentioned.",
+        "Incorrect. Five is not the number mentioned.",
+        "Incorrect. Six is not the number mentioned."
       ]
     }
   ]

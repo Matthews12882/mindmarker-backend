@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the official English name of the country as of 1989?",
+      "question": "What is the official full name of Myanmar?",
       "options": [
-        "Myanmar",
-        "Burma",
-        "Republic of the Union of Burma",
-        "Union of Myanmar"
+        "Republic of the Union of Myanmar",
+        "Union of Burma",
+        "Republic of Burma",
+        "Democratic Republic of Myanmar"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1989 the military government officially changed the English name from Burma to Myanmar.",
-        "Incorrect. Burma was the official English name until 1989, but it was changed to Myanmar.",
-        "Incorrect. The official full name is 'Republic of the Union of Myanmar', not 'Republic of the Union of Burma'.",
-        "Incorrect. The official full name is 'Republic of the Union of Myanmar', not 'Union of Myanmar'."
+        "Correct. The article states, \"The country's official full name is 'Republic of the Union of Myanmar'.\"",
+        "Incorrect. The article says countries that do not recognize the official name use \"Union of Burma\" instead, but that is not the official full name.",
+        "Incorrect. The article does not use this name; it refers to the official name as \"Republic of the Union of Myanmar.\"",
+        "Incorrect. The article does not use this name; it refers to the official name as \"Republic of the Union of Myanmar.\""
       ]
     },
     {
       "id": 2,
-      "question": "Which body of water borders Myanmar to the south and southwest?",
+      "question": "Which city is the capital of Myanmar?",
       "options": [
-        "Andaman Sea and Bay of Bengal",
-        "South China Sea",
-        "Indian Ocean",
-        "Gulf of Thailand"
+        "Naypyidaw",
+        "Yangon",
+        "Mandalay",
+        "Bagan"
       ],
       "answer_explanations": [
-        "Correct. The article says Myanmar is bordered by 'the Andaman Sea and the Bay of Bengal to the south and southwest'.",
-        "Incorrect. The South China Sea is not mentioned as a border of Myanmar.",
-        "Incorrect. While the Andaman Sea and Bay of Bengal are part of the Indian Ocean, the article specifically names the Andaman Sea and Bay of Bengal.",
-        "Incorrect. The Gulf of Thailand is not listed as a border of Myanmar."
+        "Correct. The article states, \"The country's capital city is Naypyidaw.\"",
+        "Incorrect. The article says Yangon is the largest city, not the capital.",
+        "Incorrect. Mandalay is mentioned in the history section but is not identified as the capital.",
+        "Incorrect. Bagan is mentioned as a historical settlement, not the capital."
       ]
     },
     {
       "id": 3,
-      "question": "What was the first kingdom to unify the Irrawaddy valley?",
+      "question": "In which year did Myanmar declare independence?",
       "options": [
-        "Pagan Kingdom",
-        "Taungoo dynasty",
-        "Konbaung dynasty",
-        "Pyu city-states"
+        "1948",
+        "1989",
+        "1962",
+        "2011"
       ],
       "answer_explanations": [
-        "Correct. The article states that Anawrahta founded the Pagan Kingdom, 'the first ever unification of the Irrawaddy valley and its periphery'.",
-        "Incorrect. The Taungoo dynasty reunified the country in the 16th century, but it was not the first unification.",
-        "Incorrect. The Konbaung dynasty ruled in the early 19th century, long after the first unification.",
-        "Incorrect. The Pyu city-states were early city-states but did not unify the entire Irrawaddy valley."
+        "Correct. The article states, \"In 1948, Myanmar declared independence.\"",
+        "Incorrect. 1989 is mentioned as the year the military government changed the English name from Burma to Myanmar, not independence.",
+        "Incorrect. 1962 is mentioned as the year of a coup d'Ã©tat, not independence.",
+        "Incorrect. 2011 is mentioned as the year the junta was dissolved, not independence."
       ]
     },
     {
       "id": 4,
-      "question": "Which event in 1988 led to a transition to a multi-party system?",
+      "question": "What event in 1988 led to a transition to a multi-party system?",
       "options": [
-        "8888 Uprising",
-        "1962 coup d'Ã©tat",
-        "2010 general election",
-        "2021 coup d'Ã©tat"
+        "The 8888 Uprising",
+        "The 1962 coup d'Ã©tat",
+        "The 2021 coup d'Ã©tat",
+        "The 2010 general election"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The 8888 Uprising in 1988 resulted in a transition to a multi-party system two years later'.",
-        "Incorrect. The 1962 coup d'Ã©tat resulted in a military dictatorship, not a multi-party system.",
-        "Incorrect. The 2010 general election led to the dissolution of the junta, but the transition to a multi-party system was a result of the 8888 Uprising.",
-        "Incorrect. The 2021 coup d'Ã©tat reversed democratic progress, not led to a multi-party system."
+        "Correct. The article states, \"The 8888 Uprising in 1988 resulted in a transition to a multi-party system two years later.\"",
+        "Incorrect. The 1962 coup resulted in a military dictatorship, not a multi-party system.",
+        "Incorrect. The 2021 coup led to widespread protests and civil war, not a multi-party system.",
+        "Incorrect. The 2010 general election is mentioned as occurring after the uprising and leading to the junta's dissolution, but the uprising itself caused the transition."
       ]
     },
     {
       "id": 5,
-      "question": "Which international organization uses 'Myanmar' as the country's name?",
+      "question": "Which organization uses 'Myanmar' as the country's name?",
       "options": [
-        "United Nations",
-        "United States State Department",
-        "French-language media",
-        "Spanish-language media"
+        "The United Nations",
+        "The United States State Department",
+        "The government of the United Kingdom",
+        "The government of France"
       ],
       "answer_explanations": [
-        "Correct. The article states 'The United Nations uses Myanmar'.",
-        "Incorrect. The US State Department's website lists the country as 'Burma (Myanmar)', not exclusively Myanmar.",
-        "Incorrect. French-language media use 'Birmanie', not Myanmar.",
-        "Incorrect. Spanish-language media use a name deriving from Burma, not Myanmar."
+        "Correct. The article states, \"The United Nations uses Myanmar.\"",
+        "Incorrect. The article says official US foreign policy retains 'Burma' as the name.",
+        "Incorrect. The article does not state the UK's usage; it lists several countries that use Myanmar, but the UK is not mentioned.",
+        "Incorrect. The article says French-language media use 'Birmanie', not Myanmar."
       ]
     },
     {
       "id": 6,
-      "question": "What is the etymology of the names 'Myanmar' and 'Burma'?",
+      "question": "What is one of the natural resources Myanmar is rich in?",
       "options": [
-        "They derive from the Burmese ethnonym Mranma or Mramma",
-        "They derive from the Sanskrit word for 'land of Brahma'",
-        "They derive from the Pali word for 'strong'",
-        "They derive from the Mon word for 'people'"
+        "Jade",
+        "Diamonds",
+        "Coal",
+        "Silver"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Both names derive from the earlier Burmese Mranma or Mramma, an ethnonym for the majority Burman ethnic group'.",
-        "Incorrect. While popularly thought to derive from Sanskrit Brahma Desha, the article states this is not certain and the primary derivation is from Mranma/Mramma.",
-        "Incorrect. Pali is mentioned as a language in the region, but not as the source of the names.",
-        "Incorrect. Mon is mentioned as a language in the region, but not as the source of the names."
+        "Correct. The article lists \"jade\" among the natural resources Myanmar is rich in.",
+        "Incorrect. Diamonds are not mentioned in the article's list of natural resources.",
+        "Incorrect. Coal is not mentioned in the article's list of natural resources.",
+        "Incorrect. Silver is not mentioned in the article's list of natural resources."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is NOT listed as a natural resource of Myanmar?",
+      "question": "According to the article, how many refugees and asylum seekers are there from Myanmar?",
       "options": [
-        "Diamonds",
-        "Jade",
-        "Natural gas",
-        "Teak"
+        "Over 1.3 million",
+        "Over 3.5 million",
+        "Over 55 million",
+        "Over 750,000"
       ],
       "answer_explanations": [
-        "Correct. The article lists jade, gems, oil, natural gas, teak, and high solar power potential, but does not mention diamonds.",
-        "Incorrect. Jade is explicitly listed as a natural resource.",
-        "Incorrect. Natural gas is explicitly listed as a natural resource.",
-        "Incorrect. Teak is explicitly listed as a natural resource."
+        "Correct. The article states, \"there are over 1.3 million refugees and asylum seekers.\"",
+        "Incorrect. The article says over 3.5 million people are displaced internally, which is a different figure.",
+        "Incorrect. 55 million is the country's population, not the number of refugees.",
+        "Incorrect. 750,000 is mentioned in the prehistory section as a time period, not a refugee count."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what was the main cause of the Pagan Kingdom's fall?",
+      "question": "What was the name of the kingdom founded by Anawrahta in the 1050sâ1060s?",
       "options": [
-        "Mongol invasions",
-        "Internal rebellion",
-        "Economic collapse",
-        "Climate change"
+        "The Pagan Kingdom",
+        "The Taungoo dynasty",
+        "The Konbaung dynasty",
+        "The Pyu city-states"
       ],
       "answer_explanations": [
-        "Correct. The article states 'The Pagan Kingdom fell to Mongol invasions'.",
-        "Incorrect. Internal rebellion is not mentioned as the cause of the fall.",
-        "Incorrect. Economic collapse is not mentioned as the cause of the fall.",
-        "Incorrect. Climate change is not mentioned as the cause of the fall."
+        "Correct. The article states, \"Anawrahta founded the Pagan Kingdom.\"",
+        "Incorrect. The Taungoo dynasty is mentioned as reunifying the country in the 16th century, not as founded by Anawrahta.",
+        "Incorrect. The Konbaung dynasty ruled in the early 19th century, not founded by Anawrahta.",
+        "Incorrect. The Pyu city-states existed earlier, around the 2nd century BCE, and were not founded by Anawrahta."
       ]
     },
     {
       "id": 9,
-      "question": "What is the current status of Myanmar according to the UN?",
+      "question": "What happened after the 2020 general election?",
       "options": [
-        "One of the least developed countries",
-        "A newly industrialized country",
-        "A developed country",
-        "A middle-income country"
+        "The Tatmadaw seized power in a coup d'Ã©tat",
+        "The National League for Democracy won a clear majority",
+        "The military junta was officially dissolved",
+        "Aung San Suu Kyi was released from prison"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Myanmar continues to be classified as one of the least developed countries in the world'.",
-        "Incorrect. The article does not describe Myanmar as newly industrialized.",
-        "Incorrect. The article does not describe Myanmar as developed.",
-        "Incorrect. The article does not describe Myanmar as middle-income."
+        "Correct. The article states, \"Following the 2020 general election... the Tatmadaw again seized power in the 2021 coup d'Ã©tat.\"",
+        "Incorrect. The NLD won a clear majority in the 2020 election, but the article says the Tatmadaw then seized power, so this is not the main outcome described.",
+        "Incorrect. The junta was dissolved in 2011, not after the 2020 election.",
+        "Incorrect. Aung San Suu Kyi was released after the 2010 election, not the 2020 one."
       ]
     },
     {
       "id": 10,
-      "question": "Which dynasty ruled Myanmar in the early 19th century and briefly controlled Assam and Manipur?",
+      "question": "According to the article, what is one reason some countries continue to use 'Burma'?",
       "options": [
-        "Konbaung dynasty",
-        "Taungoo dynasty",
-        "Pagan dynasty",
-        "Pyu dynasty"
+        "They do not recognise the legitimacy of the military government",
+        "They prefer the name from the colonial period",
+        "They find 'Myanmar' too difficult to pronounce",
+        "They follow the naming convention of the United Nations"
       ],
       "answer_explanations": [
-        "Correct. The article says 'The early 19th-century Konbaung dynasty ruled over an area that included modern Myanmar and briefly controlled Assam, the Lushai Hills, and Manipur'.",
-        "Incorrect. The Taungoo dynasty ruled in the 16th century, not the early 19th century.",
-        "Incorrect. The Pagan dynasty ruled from the 11th to 13th centuries, not the early 19th century.",
-        "Incorrect. The Pyu were early city-states, not a dynasty ruling in the early 19th century."
+        "Correct. The article states, \"Many political and ethnic opposition groups and countries continue to use Burma because they do not recognise the legitimacy or authority of the military government.\"",
+        "Incorrect. The article does not give this as a reason; it links the use of Burma to non-recognition of the military government.",
+        "Incorrect. The article discusses pronunciation but does not say countries avoid 'Myanmar' for that reason.",
+        "Incorrect. The article says the UN uses 'Myanmar', so this would be a reason to use 'Myanmar', not 'Burma'."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What percentage of Earth's surface does land make up?",
+      "question": "What is another name for land?",
       "options": [
-        "approximately 29%",
-        "approximately 71%",
-        "approximately 50%",
-        "approximately 10%"
+        "Dry land",
+        "Ocean",
+        "Sky",
+        "Water"
       ],
       "answer_explanations": [
-        "Correct. The article states that land makes up approximately 29% of Earth's surface.",
-        "Incorrect. The article does not state that land makes up approximately 71% of Earth's surface.",
-        "Incorrect. The article does not state that land makes up approximately 50% of Earth's surface.",
-        "Incorrect. The article does not state that land makes up approximately 10% of Earth's surface."
+        "Correct. The article states that land is also known as 'dry land'.",
+        "Incorrect. The ocean is a body of water, not land.",
+        "Incorrect. Sky is not mentioned as a name for land.",
+        "Incorrect. Water is not a name for land."
       ]
     },
     {
       "id": 2,
-      "question": "What is regolith?",
+      "question": "What percentage of Earth's surface does land make up?",
       "options": [
-        "a layer of rock, soil, and minerals that forms the outer part of the crust",
-        "a type of ocean current",
-        "a form of atmospheric gas",
-        "a layer of ice covering glaciers"
+        "Approximately 29%",
+        "Approximately 50%",
+        "Approximately 71%",
+        "Approximately 10%"
       ],
       "answer_explanations": [
-        "Correct. The article describes regolith as a layer of rock, soil, and minerals that forms the outer part of the crust.",
-        "Incorrect. The article does not describe regolith as a type of ocean current.",
-        "Incorrect. The article does not describe regolith as a form of atmospheric gas.",
-        "Incorrect. The article does not describe regolith as a layer of ice covering glaciers."
+        "Correct. The article says land makes up approximately 29% of Earth's surface.",
+        "Incorrect. 50% is not mentioned.",
+        "Incorrect. 71% is not mentioned.",
+        "Incorrect. 10% is not mentioned."
       ]
     },
     {
       "id": 3,
-      "question": "What fraction of land is covered in trees?",
+      "question": "What does land include?",
       "options": [
-        "one-third",
-        "one-half",
-        "one-quarter",
-        "one-tenth"
+        "All continents and islands",
+        "Only mountains",
+        "Only deserts",
+        "Only oceans"
       ],
       "answer_explanations": [
-        "Correct. The article states that one-third of land is covered in trees.",
-        "Incorrect. The article does not state that one-half of land is covered in trees.",
-        "Incorrect. The article does not state that one-quarter of land is covered in trees.",
-        "Incorrect. The article states that roughly one-tenth of land is covered in glacier ice, not trees."
+        "Correct. The article states that land includes all continents and islands.",
+        "Incorrect. Mountains are not the only thing included.",
+        "Incorrect. Deserts are not the only thing included.",
+        "Incorrect. Oceans are not land."
       ]
     },
     {
       "id": 4,
-      "question": "What is the boundary between land and sea called?",
+      "question": "What is the layer of rock, soil, and minerals that covers Earth's land surface?",
       "options": [
-        "shoreline",
-        "horizon",
-        "coastline",
-        "continental shelf"
+        "Regolith",
+        "Crust",
+        "Mantle",
+        "Core"
       ],
       "answer_explanations": [
-        "Correct. The article states that the boundary between land and sea is called the shoreline.",
-        "Incorrect. The article does not define the horizon as the boundary between land and sea.",
-        "Incorrect. The article does not use the term coastline to refer to the boundary between land and sea.",
-        "Incorrect. The article does not mention the continental shelf as the boundary between land and sea."
+        "Correct. The article says Earth's land surface is almost entirely covered by regolith, a layer of rock, soil, and minerals.",
+        "Incorrect. The crust is mentioned as the outer part, but regolith is the layer covering it.",
+        "Incorrect. Mantle is not mentioned.",
+        "Incorrect. Core is not mentioned."
       ]
     },
     {
       "id": 5,
-      "question": "From which language is the word 'land' derived?",
+      "question": "Which of these cycles is land involved in?",
       "options": [
-        "Old English",
-        "Latin",
-        "French",
-        "Greek"
+        "Carbon cycle",
+        "Rock cycle",
+        "Tidal cycle",
+        "Lunar cycle"
       ],
       "answer_explanations": [
-        "Correct. The article states that the word land is derived from Old English.",
-        "Incorrect. The article does not state that the word land is derived from Latin.",
-        "Incorrect. The article does not state that the word land is derived from French.",
-        "Incorrect. The article does not state that the word land is derived from Greek."
+        "Correct. The article mentions the carbon cycle as one of the cycles land is involved in.",
+        "Incorrect. Rock cycle is not mentioned.",
+        "Incorrect. Tidal cycle is not mentioned.",
+        "Incorrect. Lunar cycle is not mentioned."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following is one of the four major continuous landmasses on Earth?",
+      "question": "What fraction of land is covered in trees?",
       "options": [
-        "AfricaâEurasia",
-        "Greenland",
-        "Madagascar",
-        "Iceland"
+        "One-third",
+        "One-half",
+        "One-tenth",
+        "Two-thirds"
       ],
       "answer_explanations": [
-        "Correct. The article lists AfricaâEurasia as one of the four major continuous landmasses on Earth.",
-        "Incorrect. The article does not list Greenland as one of the four major continuous landmasses.",
-        "Incorrect. The article does not list Madagascar as one of the four major continuous landmasses.",
-        "Incorrect. The article does not list Iceland as one of the four major continuous landmasses."
+        "Correct. The article states that one-third of land is covered in trees.",
+        "Incorrect. One-half is not mentioned.",
+        "Incorrect. One-tenth is mentioned for glacier ice, not trees.",
+        "Incorrect. Two-thirds is not mentioned."
       ]
     },
     {
       "id": 7,
-      "question": "What is the mean height of land above sea level?",
+      "question": "What fraction of land is used for agriculture?",
       "options": [
-        "about 797 metres",
-        "about 418 metres",
-        "about 8,848 metres",
-        "about 2,615 metres"
+        "Another third",
+        "One-tenth",
+        "One-half",
+        "One-fourth"
       ],
       "answer_explanations": [
-        "Correct. The article states that the mean height of land above sea level is about 797 metres.",
-        "Incorrect. The article states that â418 metres is the low point at the Dead Sea, not the mean height.",
-        "Incorrect. The article states that 8,848 metres is the maximum altitude at Mount Everest, not the mean height.",
-        "Incorrect. The article states that 2,615 feet is the mean height in feet, not metres."
+        "Correct. The article says another third is used for agriculture.",
+        "Incorrect. One-tenth is mentioned for glacier ice.",
+        "Incorrect. One-half is not mentioned.",
+        "Incorrect. One-fourth is not mentioned."
       ]
     },
     {
       "id": 8,
-      "question": "What does relief refer to?",
+      "question": "What fraction of land is covered in glacier ice?",
       "options": [
-        "the difference in elevation within a landscape",
-        "the vertical distance from an object to Earth's surface",
-        "the vertical distance between an object and sea level",
-        "the change in elevation between two points of terrain"
+        "Roughly one-tenth",
+        "Roughly one-third",
+        "Roughly one-half",
+        "Roughly one-fifth"
       ],
       "answer_explanations": [
-        "Correct. The article states that relief refers to the difference in elevation within a landscape.",
-        "Incorrect. The article defines altitude as the vertical distance from an object to Earth's surface, not relief.",
-        "Incorrect. The article defines elevation as the vertical distance between an object and sea level, not relief.",
-        "Incorrect. The article states that the change in elevation between two points is called a slope or gradient, not relief."
+        "Correct. The article states roughly one-tenth is covered in glacier ice.",
+        "Incorrect. One-third is mentioned for trees and agriculture.",
+        "Incorrect. One-half is not mentioned.",
+        "Incorrect. One-fifth is not mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "Which process constantly reshapes Earth's surface over geological time?",
+      "question": "What does the remainder of land consist of?",
       "options": [
-        "erosion and tectonics",
-        "photosynthesis",
-        "urbanization",
-        "desalination"
+        "Desert, savannah, and prairie",
+        "Only desert",
+        "Only savannah",
+        "Only prairie"
       ],
       "answer_explanations": [
-        "Correct. The article lists erosion and tectonics among the processes that constantly reshape Earth's surface over geological time.",
-        "Incorrect. The article does not mention photosynthesis as a process that reshapes Earth's surface.",
-        "Incorrect. The article does not mention urbanization as a process that reshapes Earth's surface over geological time.",
-        "Incorrect. The article does not mention desalination as a process that reshapes Earth's surface."
+        "Correct. The article says the remainder consists of desert, savannah, and prairie.",
+        "Incorrect. It is not only desert.",
+        "Incorrect. It is not only savannah.",
+        "Incorrect. It is not only prairie."
       ]
     },
     {
       "id": 10,
-      "question": "What is geomorphology?",
+      "question": "Which of the following is NOT a type of landform mentioned in the introduction?",
       "options": [
-        "the study of the natural processes that shape land's surface, creating landforms",
-        "the study of minerals",
-        "the study of soils",
-        "the study of rocks"
+        "Ocean",
+        "Mountains",
+        "Deserts",
+        "Plains"
       ],
       "answer_explanations": [
-        "Correct. The article defines geomorphology as the study of the natural processes that shape land's surface, creating landforms.",
-        "Incorrect. The article defines mineralogy as the study of minerals, not geomorphology.",
-        "Incorrect. The article defines soil science as the study of soils, not geomorphology.",
-        "Incorrect. The article defines petrology as the study of rocks, not geomorphology."
+        "Correct. The article lists mountains, deserts, plains, plateaus, and glaciers as landforms; ocean is not a landform.",
+        "Incorrect. Mountains are mentioned as a landform.",
+        "Incorrect. Deserts are mentioned as a landform.",
+        "Incorrect. Plains are mentioned as a landform."
       ]
     }
   ]

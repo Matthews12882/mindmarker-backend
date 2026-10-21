@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what did medical historians draw from other humanities fields to better understand?",
+      "question": "What is the history of medicine?",
       "options": [
-        "The institutions, practices, people, professions, and social systems that have shaped medicine",
-        "The chemical composition of ancient medicinal plants",
-        "The genetic evolution of disease-causing pathogens",
-        "The architectural design of early hospitals"
+        "It is the study and documentation of the evolution of medical treatments, practices, and knowledge over time.",
+        "It is a field that only focuses on modern medical practices.",
+        "It is the study of medicine in a single ancient civilization.",
+        "It is a branch of biology that studies the human body."
       ],
       "answer_explanations": [
-        "Correct. The article states that medical historians draw from fields including economics, health sciences, sociology, and politics to better understand the institutions, practices, people, professions, and social systems that have shaped medicine.",
-        "Incorrect. The article does not mention medical historians studying the chemical composition of ancient medicinal plants.",
-        "Incorrect. The article does not link humanities fields to the genetic evolution of pathogens.",
-        "Incorrect. The article does not mention architectural design of hospitals as a focus of medical historians."
+        "Correct. The article states, 'The history of medicine is the study and documentation of the evolution of medical treatments, practices, and knowledge over time.'",
+        "Incorrect. The article describes it as a study that spans from prehistory to the modern day, not just modern practices.",
+        "Incorrect. The article mentions it covers medical practices across many human societies, not just one civilization.",
+        "Incorrect. The article describes it as a multidisciplinary field, drawing from humanities and health sciences, not just a branch of biology."
       ]
     },
     {
       "id": 2,
-      "question": "What replaced humorism as the explanation for the cause of disease?",
+      "question": "According to the article, what was gradually replaced by the germ theory of disease?",
       "options": [
-        "The germ theory of disease",
-        "The theory of spontaneous generation",
-        "The miasma theory",
-        "The theory of vitalism"
+        "Humorism",
+        "The use of antibiotics",
+        "The invention of the microscope",
+        "Public health measures"
       ],
       "answer_explanations": [
-        "Correct. The article states that humorism was gradually replaced by the germ theory of disease, leading to effective treatments and cures for many infectious diseases.",
-        "Incorrect. The article does not mention spontaneous generation as replacing humorism.",
-        "Incorrect. The article does not mention miasma theory in this context.",
-        "Incorrect. The article does not mention vitalism as replacing humorism."
+        "Correct. The article states, 'Prior to the 19th century, humorism (also known as humoralism) was thought to explain the cause of disease but it was gradually replaced by the germ theory of disease.'",
+        "Incorrect. Antibiotics were a new biological treatment developed in the mid-20th century, not a theory that was replaced.",
+        "Incorrect. The microscope was an invention, not a theory that was replaced by the germ theory.",
+        "Incorrect. Public health measures were developed, not replaced, by the germ theory."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following best describes prehistoric medicine according to the article?",
+      "question": "What is the time period covered by prehistoric medicine?",
       "options": [
-        "Studies and exploration of early healing practices before written records existed",
-        "A standardized medical system used by all early human societies",
-        "A branch of medicine focused exclusively on surgical techniques",
-        "A written record of medical knowledge from ancient civilizations"
+        "From the first use of stone tools to the beginning of writing systems",
+        "From the beginning of writing systems to the end of the classical era",
+        "From the 19th century to the modern day",
+        "From the Renaissance to the 20th century"
       ],
       "answer_explanations": [
-        "Correct. The article states that prehistoric medicine is focused on understanding the use of medicinal plants, healing practices, illnesses, and wellness of humans before written records existed.",
-        "Incorrect. The article emphasizes that prehistoric medicine was highly contextual and ununiform, not standardized across societies.",
-        "Incorrect. The article does not describe prehistoric medicine as focused exclusively on surgical techniques.",
-        "Incorrect. Prehistoric medicine specifically predates written records, so it cannot be a written record."
+        "Correct. The article states, 'This period extends across the first use of stone tools by early humans c. 3.3 million years ago to the beginning of writing systems and subsequent recorded history c. 5000 years ago.'",
+        "Incorrect. This describes the period of ancient history, not prehistoric medicine.",
+        "Incorrect. This is a much later period, not prehistoric times.",
+        "Incorrect. This is a much later period, not prehistoric times."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say about Ãtzi the Iceman's carried items?",
+      "question": "What did Ãtzi the Iceman carry, according to archaeologist Patrick Hunt?",
       "options": [
-        "He carried a deliberate prehistoric medical kit to treat his numerous documented ailments",
-        "He carried only spiritual objects with no medical purpose",
-        "He carried a written medical text describing treatments",
-        "He carried modern pharmaceuticals"
+        "A deliberate 'prehistoric medical kit'",
+        "A collection of ancient Egyptian papyri",
+        "A set of cuneiform clay tablets",
+        "A microscope and other Renaissance tools"
       ],
       "answer_explanations": [
-        "Correct. The article states that Ãtzi carried a deliberate \"prehistoric medical kit\" to treat his numerous documented ailments, including birch polypore fungus, poppy seeds, sloe berries, and sphagnum moss.",
-        "Incorrect. The article describes the items as having specific medical uses, not merely spiritual purposes.",
-        "Incorrect. The article does not mention Ãtzi carrying a written medical text.",
-        "Incorrect. The items described are prehistoric natural substances, not modern pharmaceuticals."
+        "Correct. The article states, 'Ãtzi carried a deliberate \"prehistoric medical kit\" to treat his numerous documented ailments.'",
+        "Incorrect. Ãtzi lived in prehistoric times, long before ancient Egypt, and the article does not mention him carrying papyri.",
+        "Incorrect. Cuneiform clay tablets are associated with Mesopotamian civilizations, not with Ãtzi.",
+        "Incorrect. The microscope was invented during the Renaissance, thousands of years after Ãtzi lived."
       ]
     },
     {
       "id": 5,
-      "question": "Which professionals administered and carried out medical practices in ancient Sumer?",
+      "question": "Which of the following was part of Ãtzi's medical kit?",
       "options": [
-        "BÃ¢rÃ» (seers), Ã¢s[h]ipu (exorcists), and asÃ» (physician-priests)",
-        "Only priests trained in temple schools",
-        "Military surgeons and battlefield medics",
-        "Apprentices trained by traveling physicians"
+        "Birch polypore fungus",
+        "Penicillin",
+        "A stethoscope",
+        "A vaccination needle"
       ],
       "answer_explanations": [
-        "Correct. The article states that Sumerian medical practices were administered and carried out by highly defined professionals including bÃ¢rÃ» (seers), Ã¢s[h]ipu (exorcists), and asÃ» (physician-priests).",
-        "Incorrect. The article lists three distinct professional types, not only priests.",
-        "Incorrect. The article does not mention military surgeons in the context of Sumerian medicine.",
-        "Incorrect. The article does not mention apprentices or traveling physicians in Sumer."
+        "Correct. The article mentions 'Piptoporus betulinus (birch polypore fungus)' as part of his kit.",
+        "Incorrect. Penicillin is a modern antibiotic, not something found in a prehistoric kit.",
+        "Incorrect. A stethoscope is a modern medical instrument, not a prehistoric item.",
+        "Incorrect. Vaccination needles are a modern medical tool, not part of a prehistoric kit."
       ]
     },
     {
       "id": 6,
-      "question": "What is the oldest surviving medical text of any kind mentioned in the article?",
+      "question": "In ancient Mesopotamian medicine, who were the *asÃ»*?",
       "options": [
-        "The Kahun Gynaecological Papyrus",
-        "The Edwin Smith Papyrus",
-        "The Ebers Papyrus",
-        "The Diagnostic Handbook"
+        "Physician-priests",
+        "Seers",
+        "Exorcists",
+        "Chief scholars"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Kahun Gynaecological Papyrus, dating to 1800 BCE, is the oldest surviving medical text of any kind.",
-        "Incorrect. The Edwin Smith Papyrus is described as written c. 1600 BCE and regarded as a copy of earlier works, not the oldest surviving medical text.",
-        "Incorrect. The Ebers Papyrus is noted as the oldest written text mentioning enemas, not the oldest surviving medical text overall.",
-        "Incorrect. The Diagnostic Handbook is a Babylonian text from the 11th century BCE, much later than the Kahun Gynaecological Papyrus."
+        "Correct. The article states these professionals included '*bÃ¢rÃ»* (seers), *Ã¢shipu* (exorcists), and *asÃ»* (physician-priests).'",
+        "Incorrect. The article identifies *bÃ¢rÃ»* as seers, not *asÃ»*.",
+        "Incorrect. The article identifies *Ã¢shipu* as exorcists, not *asÃ»*.",
+        "Incorrect. The article mentions *ummÃ¢nÅ«* as chief scholars, not *asÃ»*."
       ]
     },
     {
       "id": 7,
-      "question": "According to Herodotus as described in the article, how was Egyptian medicine specialized?",
+      "question": "According to the article, what did the *Diagnostic Handbook* focus on?",
       "options": [
-        "Each physician was a healer of one disease and no more",
-        "Physicians treated only members of the royal family",
-        "Physicians specialized exclusively in spiritual healing",
-        "Each physician treated all diseases but only for one social class"
+        "Diagnosis, prognosis, physical examination, and remedies",
+        "The invention of the microscope",
+        "The development of antibiotics",
+        "The establishment of public health systems"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Herodotus: \"the practice of medicine is so specialized among them that each physician is a healer of one disease and no more.\"",
-        "Incorrect. The article does not mention physicians treating only royalty.",
-        "Incorrect. The article notes Egyptian medicine dealt with the supernatural but also developed practical anatomy and diagnostics; Herodotus's quote concerns disease-specific specialization.",
-        "Incorrect. The article does not mention specialization by social class."
+        "Correct. The article states, 'This medical treatise devoted great attention to the practice of diagnosis, prognosis, physical examination, and remedies.'",
+        "Incorrect. The microscope was invented during the Renaissance, much later than the *Diagnostic Handbook*.",
+        "Incorrect. Antibiotics were developed in the mid-20th century, not in ancient Babylon.",
+        "Incorrect. Public health systems were developed especially in the 19th century, not in ancient Babylon."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about the Edwin Smith Papyrus?",
+      "question": "Which papyrus is described as an ancient textbook on surgery?",
       "options": [
-        "It is an ancient textbook on surgery almost completely devoid of magical thinking",
-        "It primarily contains magical spells and incantations",
-        "It was written by Imhotep in 3000 BCE",
-        "It focuses exclusively on women's medical complaints"
+        "The Edwin Smith Papyrus",
+        "The Kahun Gynaecological Papyrus",
+        "The Ebers Papyrus",
+        "The London Medical Papyrus"
       ],
       "answer_explanations": [
-        "Correct. The article describes the Edwin Smith Papyrus as an ancient textbook on surgery almost completely devoid of magical thinking.",
-        "Incorrect. The article explicitly states it is almost completely devoid of magical thinking.",
-        "Incorrect. The article says Imhotep is sometimes credited as the original author, but the papyrus itself was written c. 1600 BCE, not 3000 BCE.",
-        "Incorrect. The Kahun Gynaecological Papyrus treats women's complaints, not the Edwin Smith Papyrus."
+        "Correct. The article states, 'It is an ancient textbook on surgery almost completely devoid of magical thinking' in reference to the Edwin Smith Papyrus.",
+        "Incorrect. The Kahun Gynaecological Papyrus treats women's complaints, including conception.",
+        "Incorrect. The Ebers Papyrus is mentioned as the oldest text mentioning enemas.",
+        "Incorrect. The London Medical Papyrus is listed among surviving documents but not described as a surgery textbook."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article identify as a significant example of sophisticated prehistoric self-medication?",
+      "question": "Who is credited as the earliest known physician in ancient Egypt?",
       "options": [
-        "Ãtzi the Iceman carrying a prehistoric medical kit",
-        "Neanderthals performing surgery with stone tools",
-        "The use of written prescriptions in prehistoric societies",
-        "The establishment of Houses of Life in prehistoric Egypt"
+        "Hesy-Ra",
+        "Imhotep",
+        "Peseshet",
+        "Herodotus"
       ],
       "answer_explanations": [
-        "Correct. The article presents Ãtzi the Iceman as a significant example of sophisticated prehistoric self-medication, noting he carried a deliberate prehistoric medical kit.",
-        "Incorrect. The article mentions evidence of healing practices within Neanderthals but does not describe them performing surgery with stone tools.",
-        "Incorrect. Prehistoric medicine predates written records, so written prescriptions are not discussed.",
-        "Incorrect. Houses of Life were established in ancient Egypt, not prehistoric societies."
+        "Correct. The article states, 'The earliest known physician is also credited to ancient Egypt: Hesy-Ra, \"Chief of Dentists and Physicians\" for King Djoser.'",
+        "Incorrect. Imhotep is sometimes credited as the founder of ancient Egyptian medicine, but not as the earliest known physician.",
+        "Incorrect. Peseshet is credited as the earliest known woman physician, not the earliest physician overall.",
+        "Incorrect. Herodotus was a Greek historian who described Egyptian medicine, not a physician himself."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following best describes the relationship between nature, religion, and humans in ancient medicine according to the article?",
+      "question": "What is the Kahun Gynaecological Papyrus noted for?",
       "options": [
-        "Ancient medicine connected nature, religion, and humans within ideas of circulating fluids and energy",
-        "Ancient medicine rejected religious explanations in favor of purely naturalistic ones",
-        "Ancient medicine focused exclusively on surgical interventions",
-        "Ancient medicine treated nature and religion as entirely separate domains"
+        "Being the oldest surviving medical text of any kind",
+        "Being the first text to describe antibiotics",
+        "Being a textbook on surgery",
+        "Being the first text to mention enemas"
       ],
       "answer_explanations": [
-        "Correct. The article states that ancient medicine presented healing theories connecting nature, religion, and humans within ideas of circulating fluids and energy.",
-        "Incorrect. The article describes ancient medicine as a hybrid of naturalistic and supernatural belief systems, not a rejection of religion.",
-        "Incorrect. The article does not describe ancient medicine as focused exclusively on surgery.",
-        "Incorrect. The article explicitly connects nature and religion rather than treating them as separate."
+        "Correct. The article states, 'Dating to 1800 BCE, it is the oldest surviving medical text of any kind.'",
+        "Incorrect. Antibiotics were developed in the mid-20th century, long after this papyrus was written.",
+        "Incorrect. The Edwin Smith Papyrus is described as a textbook on surgery, not the Kahun Gynaecological Papyrus.",
+        "Incorrect. The Ebers Papyrus is the oldest written text mentioning enemas, not the Kahun Gynaecological Papyrus."
       ]
     }
   ]

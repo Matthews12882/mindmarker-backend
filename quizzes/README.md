@@ -72,14 +72,16 @@ These never vary between files:
 
 Difficulty is about the *kind of thinking*, not how obscure the fact is.
 
-- **easy** — literal recall of clearly stated facts. One fact, findable near a
-  heading or in a lead sentence.
-- **medium** — **comprehension**: meaning, paraphrase, relationships,
-  comparisons, and "what does the article suggest/mean".
-- **hard** — **application and analysis** (per partner feedback): place the
-  reader in a new scenario and ask them to apply the article's concepts, infer
-  consequences, or compare/contrast ideas. **Do not** make hard questions merely
-  vague or trivia about minor details/dates.
+- **easy** — drawn **only from the article's intro** (the lead section before
+  the first heading): literal recall of facts stated there.
+- **medium** — drawn from the **whole article**, but kept **simple**: main
+  ideas and clearly stated facts in plain language.
+- **hard** — **interpretation of facts**: what they mean, why they matter,
+  what they imply, and how ideas relate, compare or conflict. Not simple recall.
+
+These are enforced per quiz: `../generate_quizzes.py` clips the article text to
+the intro for **easy** and appends the matching requirements to the model's
+user message for each level (see `DIFFICULTY_GUIDANCE`).
 
 ## Generation
 

@@ -5,23 +5,39 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following best describes Leonardo da Vinciâs early education?",
+      "question": "What was Leonardo da Vinci's full name?",
       "options": [
-        "He received a basic and informal education in writing, reading, and mathematics, possibly because his artistic talents were recognized early.",
-        "He attended a formal university in Florence to study law, following his father's wishes.",
-        "He was educated exclusively in art by his father, a notary, with no other subjects.",
-        "He was largely self-taught, having no formal schooling due to his illegitimate birth."
+        "Leonardo di ser Piero da Vinci",
+        "Leonardo da Vinci",
+        "Ser Piero da Vinci",
+        "Leonardo di Antonio da Vinci"
       ],
       "answer_explanations": [
-        "Correct. The article states that Leonardo only received a basic and informal education in (vernacular) writing, reading, and mathematics, possibly because his artistic talents were recognized early, so his family decided to focus their attention there.",
-        "Incorrect. The article does not mention Leonardo attending a university; it notes his basic informal education.",
-        "Incorrect. The article says his education was basic and informal, not exclusively art by his father.",
-        "Incorrect. While his birth was illegitimate, the article mentions he did receive some education, not that he was largely self-taught."
+        "Correct. The article states his proper name as 'Leonardo di ser Piero da Vinci'.",
+        "Incorrect. 'Leonardo da Vinci' is the common short form, not his full name.",
+        "Incorrect. Ser Piero da Vinci was his father's name.",
+        "Incorrect. Antonio da Vinci was his grandfather's name."
       ]
     },
     {
       "id": 2,
-      "question": "Which work is described in the article as the world's most famous painting?",
+      "question": "In which country did Leonardo spend his last three years?",
+      "options": [
+        "France",
+        "Italy",
+        "Hungary",
+        "Spain"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he spent his last three years in France upon the invitation of Francis I.",
+        "Incorrect. Italy was his home country, but he died in France.",
+        "Incorrect. He travelled to Hungary in 1485, but did not die there.",
+        "Incorrect. Spain is not mentioned as a place he lived."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which painting by Leonardo is considered the world's most famous?",
       "options": [
         "Mona Lisa",
         "The Last Supper",
@@ -29,138 +45,122 @@
         "Salvator Mundi"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states that the *Mona Lisa* is regarded as the world's most famous painting.",
-        "Incorrect. The article describes *The Last Supper* as the most reproduced religious painting, not the world's most famous painting.",
-        "Incorrect. *Vitruvian Man* is described as a cultural icon, not the world's most famous painting.",
-        "Incorrect. *Salvator Mundi* is noted for its auction price, not as the world's most famous painting."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "According to the article, which of Leonardoâs inventions entered the world of manufacturing unheralded?",
-      "options": [
-        "An automated bobbin winder and a machine for testing the tensile strength of wire.",
-        "A type of armoured fighting vehicle.",
-        "Concentrated solar power technology.",
-        "A ratio machine that could be used in an adding machine."
-      ],
-      "answer_explanations": [
-        "Correct. The article mentions that some of his smaller inventions, however, entered the world of manufacturing unheralded, such as an automated bobbin winder and a machine for testing the tensile strength of wire.",
-        "Incorrect. The armoured fighting vehicle is listed among his conceptual designs, but not noted as having entered manufacturing.",
-        "Incorrect. Concentrated solar power is described as a conceptual design, not as having entered manufacturing.",
-        "Incorrect. The ratio machine for an adding machine is also a conceptual design, not noted as having entered manufacturing."
+        "Correct. The article states 'The Mona Lisa is regarded as the world's most famous painting.'",
+        "Incorrect. The Last Supper is described as the most reproduced religious painting, not the most famous.",
+        "Incorrect. Vitruvian Man is a drawing, not a painting, and is called a cultural icon.",
+        "Incorrect. Salvator Mundi is noted for its record auction price, not as the most famous painting."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say about Leonardoâs early memory of a kite?",
+      "question": "What was the profession of Leonardo's father, Piero?",
       "options": [
-        "He recalled as an infant when a kite came to his cradle and opened his mouth with its tail.",
-        "He remembered flying a kite in the fields of Vinci as a child.",
-        "He wrote that a kite attacked his familyâs home, prompting him to draw it.",
-        "He described a kite as a symbol of his curiosity about flight."
+        "A legal notary",
+        "A painter",
+        "A sculptor",
+        "A doctor"
       ],
       "answer_explanations": [
-        "Correct. The article states that Leonardo recorded his earliest memory, now in the Codex Atlanticus, while writing on the flight of birds, recalling as an infant when a kite came to his cradle and opened his mouth with its tail.",
-        "Incorrect. The article does not mention him flying a kite in fields; it describes a specific anecdote about a kite at his cradle.",
-        "Incorrect. The anecdote is about a kite at his cradle, not an attack on his familyâs home.",
-        "Incorrect. The kite memory is a specific event, not a symbolic description."
+        "Correct. The article describes Piero da Vinci as 'a Florentine legal notary'.",
+        "Incorrect. Leonardo was a painter, but his father was not.",
+        "Incorrect. Leonardo was a sculptor, but his father was not.",
+        "Incorrect. The article does not mention his father being a doctor."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is NOT listed as a field in which Leonardo made substantial discoveries?",
+      "question": "In which city did Leonardo train in the workshop of Andrea del Verrocchio?",
       "options": [
-        "Anatomy",
-        "Optics",
-        "Astronomy",
-        "Tribology"
+        "Florence",
+        "Milan",
+        "Rome",
+        "Vinci"
       ],
       "answer_explanations": [
-        "Correct. The article lists anatomy, hydrodynamics, geology, optics, and tribology as fields of substantial discoveries, but does not mention astronomy among them.",
-        "Incorrect. The article explicitly mentions anatomy as a field of substantial discoveries.",
-        "Incorrect. The article does not list astronomy among his substantial discoveries.",
-        "Incorrect. The article explicitly mentions tribology as a field of substantial discoveries."
+        "Correct. The article says he became a studio boy in the workshop of Verrocchio in Florence.",
+        "Incorrect. Milan is where he later worked for Ludovico Sforza.",
+        "Incorrect. Rome is where he worked briefly later in his career.",
+        "Incorrect. Vinci is the town near where he was born."
       ]
     },
     {
       "id": 6,
-      "question": "What event marked Leonardoâs move to France, according to the article?",
+      "question": "What is the name of Leonardo's famous drawing of a man with proportions based on the human body?",
       "options": [
-        "He was invited by Francis I and spent his last three years there.",
-        "He fled Milan after its fall to the French army.",
-        "He was exiled by the Medici family.",
-        "He accepted a position as a court painter for Charles VIII."
+        "Vitruvian Man",
+        "Mona Lisa",
+        "The Last Supper",
+        "The Baptism of Christ"
       ],
       "answer_explanations": [
-        "Correct. The article states that upon the invitation of Francis I, he spent his last three years in France, where he died in 1519.",
-        "Incorrect. The article does not describe a flight from Milan; it notes his later years were in France by invitation.",
-        "Incorrect. There is no mention of exile by the Medici family.",
-        "Incorrect. The article does not mention a position for Charles VIII."
+        "Correct. The article mentions his 'Vitruvian Man' drawing as a cultural icon.",
+        "Incorrect. Mona Lisa is a painting, not a drawing.",
+        "Incorrect. The Last Supper is a painting, not a drawing.",
+        "Incorrect. The Baptism of Christ is a painting by Verrocchio and Leonardo."
       ]
     },
     {
       "id": 7,
-      "question": "Which of Leonardoâs works is described as the most reproduced religious painting of all time?",
+      "question": "What was the record price for which 'Salvator Mundi' was sold at auction in 2017?",
       "options": [
-        "The Last Supper",
-        "The Baptism of Christ",
-        "Adoration of the Magi",
-        "Virgin of the Rocks"
+        "US$450.3 million",
+        "US$100 million",
+        "US$250 million",
+        "US$1 billion"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly describes *The Last Supper* as the most reproduced religious painting of all time.",
-        "Incorrect. *The Baptism of Christ* is mentioned as a collaboration, not as the most reproduced religious painting.",
-        "Incorrect. *Adoration of the Magi* is noted as a commission but not as the most reproduced religious painting.",
-        "Incorrect. *Virgin of the Rocks* is mentioned as a commission, not as the most reproduced religious painting."
+        "Correct. The article states it was sold for US$450.3 million.",
+        "Incorrect. This is not the price mentioned in the article.",
+        "Incorrect. This is not the price mentioned in the article.",
+        "Incorrect. This is not the price mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about Leonardoâs relationship with his fatherâs workshop after qualifying as a master?",
+      "question": "Which of these subjects did Leonardo make drawings and notes about in his notebooks?",
       "options": [
-        "He continued to collaborate and live with Verrocchio despite having his own workshop.",
-        "He immediately left Verrocchioâs studio to start his own independent career.",
-        "He never worked with Verrocchio again after becoming a master.",
-        "He took over Verrocchioâs workshop entirely."
+        "Anatomy, astronomy, and botany",
+        "History, law, and politics",
+        "Music, poetry, and drama",
+        "Economics, trade, and navigation"
       ],
       "answer_explanations": [
-        "Correct. The article states that even after his father set him up in his own workshop, his attachment to Verrocchio was such that he continued to collaborate and live with him.",
-        "Incorrect. The article indicates he continued to collaborate with Verrocchio, not that he left immediately.",
-        "Incorrect. The article mentions ongoing collaboration.",
-        "Incorrect. The article does not say he took over Verrocchioâs workshop entirely."
+        "Correct. The article lists anatomy, astronomy, and botany among the subjects in his notebooks.",
+        "Incorrect. These subjects are not mentioned in the article.",
+        "Incorrect. These subjects are not mentioned in the article.",
+        "Incorrect. These subjects are not mentioned in the article."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following is mentioned as a reason Leonardoâs early childhood is largely unknown?",
+      "question": "Who invited Leonardo to spend his last years in France?",
       "options": [
-        "Much is shrouded in myth, partially because of his biography in the frequently apocryphal Lives of the Most Excellent Painters, Sculptors, and Architects.",
-        "He left no written records of his early life.",
-        "His family deliberately concealed details about his upbringing.",
-        "Historical documents from Vinci were destroyed in a fire."
+        "Francis I",
+        "Ludovico Sforza",
+        "Lorenzo de' Medici",
+        "Andrea del Verrocchio"
       ],
       "answer_explanations": [
-        "Correct. The article says very little is known about Leonardo's childhood and much is shrouded in myth, partially because of his biography in the frequently apocryphal Lives of the Most Excellent Painters, Sculptors, and Architects.",
-        "Incorrect. The article does not state he left no written records; it attributes the mystery to myth and the biography.",
-        "Incorrect. The article does not mention deliberate concealment by his family.",
-        "Incorrect. The article does not mention destroyed documents."
+        "Correct. The article says he went to France 'Upon the invitation of Francis I'.",
+        "Incorrect. Ludovico Sforza was his patron in Milan.",
+        "Incorrect. Lorenzo de' Medici sent him as an ambassador to Milan.",
+        "Incorrect. Andrea del Verrocchio was his master in Florence."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article indicate about Leonardoâs influence on subsequent science?",
+      "question": "What did Leonardo conceptualise that was related to flight?",
       "options": [
-        "His findings had little to no direct influence on subsequent science because he did not publish them.",
-        "He was widely recognized as a scientist during his lifetime.",
-        "His anatomical studies were foundational for modern medicine.",
-        "His engineering designs were implemented across Europe."
+        "Flying machines",
+        "A submarine",
+        "A steam engine",
+        "A telescope"
       ],
       "answer_explanations": [
-        "Correct. The article states that he did not publish his findings and they had little to no direct influence on subsequent science.",
-        "Incorrect. The article does not claim he was widely recognized as a scientist during his lifetime.",
-        "Incorrect. The article does not state his anatomical studies were foundational for modern medicine.",
-        "Incorrect. The article notes that relatively few of his designs were constructed or feasible during his lifetime."
+        "Correct. The article says he 'conceptualised flying machines'.",
+        "Incorrect. A submarine is not mentioned in the article.",
+        "Incorrect. A steam engine is not mentioned in the article.",
+        "Incorrect. A telescope is not mentioned in the article."
       ]
     }
   ]

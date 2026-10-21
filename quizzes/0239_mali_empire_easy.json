@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
+      "question": "In which region of Africa was the Mali Empire located?",
+      "options": [
+        "West Africa",
+        "East Africa",
+        "North Africa",
+        "Southern Africa"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that the Mali Empire was an empire in West Africa.",
+        "Incorrect. The article specifies West Africa, not East Africa.",
+        "Incorrect. The article specifies West Africa, not North Africa.",
+        "Incorrect. The article specifies West Africa, not Southern Africa."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "From approximately which year to which year did the Mali Empire exist?",
+      "options": [
+        "c. 1235 to 1610",
+        "c. 1200 to 1500",
+        "c. 1300 to 1700",
+        "c. 1250 to 1600"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Mali Empire was from c. 1235 to 1610.",
+        "Incorrect. The article gives the dates as c. 1235 to 1610, not c. 1200 to 1500.",
+        "Incorrect. The article gives the dates as c. 1235 to 1610, not c. 1300 to 1700.",
+        "Incorrect. The article gives the dates as c. 1235 to 1610, not c. 1250 to 1600."
+      ]
+    },
+    {
+      "id": 3,
       "question": "Who founded the Mali Empire?",
       "options": [
         "Sundiata Keita",
         "Mansa Musa",
         "Soumaoro KantÃ©",
-        "Sakura"
+        "Ibn Battuta"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Mali Empire was founded by Sundiata Keita.",
-        "Incorrect. Mansa Musa was a later ruler known for his wealth and pilgrimage, not the founder.",
-        "Incorrect. Soumaoro KantÃ© was the king of the Sosso Empire whom Sundiata defeated.",
-        "Incorrect. Sakura was a former slave who seized power after Sundiata's death, not the founder."
-      ]
-    },
-    {
-      "id": 2,
-      "question": "What title was used for the kings or emperors of Mali after Sundiata Keita's death?",
-      "options": [
-        "mansa",
-        "sultan",
-        "emperor",
-        "faama"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that following Sundiata Keita's death, the kings or emperors of Mali were referred to by the title mansa.",
-        "Incorrect. The article does not use the title sultan for Mali's rulers.",
-        "Incorrect. While they were emperors, the specific title used was mansa.",
-        "Incorrect. Faama refers to a different type of ruler mentioned in the pre-imperial period, not the title for Mali's kings."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "In approximately what year did the conquest of Sosso mark the emergence of Mali as a major power?",
-      "options": [
-        "c. 1235",
-        "c. 1214",
-        "c. 1255",
-        "c. 1312"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the conquest of Sosso in c. 1235 marked the emergence of Mali as a major power.",
-        "Incorrect. c. 1214 is the approximate birth year of Sundiata Keita.",
-        "Incorrect. c. 1255 is the approximate year of Sundiata Keita's death.",
-        "Incorrect. c. 1312 is when Mansa Musa took the throne."
+        "Correct. The article says the empire was founded by Sundiata Keita.",
+        "Incorrect. Mansa Musa was a renowned monarch, but the founder was Sundiata Keita.",
+        "Incorrect. Soumaoro KantÃ© was the king of the Sosso Empire, not the founder of Mali.",
+        "Incorrect. Ibn Battuta was a visitor to Mali, not its founder."
       ]
     },
     {
       "id": 4,
-      "question": "Which famous ruler made a pilgrimage to Mecca from 1324 to 1326?",
+      "question": "Which monarch of Mali was especially renowned for his wealth?",
       "options": [
         "Mansa Musa",
         "Sundiata Keita",
-        "Suleyman",
-        "Sakura"
+        "Sakura",
+        "Maghan I"
       ],
       "answer_explanations": [
-        "Correct. The article states that Mansa Musa made a famous pilgrimage to Mecca from 1324 to 1326.",
-        "Incorrect. Sundiata Keita founded the empire but did not make this pilgrimage.",
-        "Incorrect. Suleyman ruled later and his reign marked the end of Mali's Golden Age.",
-        "Incorrect. Sakura was a former slave who seized power, not the ruler who made this pilgrimage."
+        "Correct. The article says the empire became renowned for the wealth of its monarchs, especially Mansa Musa.",
+        "Incorrect. Sundiata Keita was the founder, but Mansa Musa is the one especially noted for wealth.",
+        "Incorrect. Sakura was a former slave who carried out a coup, not noted for wealth.",
+        "Incorrect. Maghan I succeeded Mansa Musa but is not noted for wealth in the introduction."
       ]
     },
     {
       "id": 5,
-      "question": "Which traveler visited Mali during Suleyman's 19-year reign?",
+      "question": "At its peak, what was the Mali Empire the largest of in West Africa?",
       "options": [
-        "Ibn Battuta",
-        "Ibn Khaldun",
-        "Leo Africanus",
-        "Alvise Cadamosto"
+        "Empire",
+        "Kingdom",
+        "City",
+        "Trade route"
       ],
       "answer_explanations": [
-        "Correct. The article states that it was during Suleyman's 19-year reign that Ibn Battuta visited Mali.",
-        "Incorrect. Ibn Khaldun was a historian who wrote about Mali but did not visit during Suleyman's reign.",
-        "Incorrect. Leo Africanus visited at the beginning of the 16th century, much later than Suleyman.",
-        "Incorrect. Alvise Cadamosto was a Venetian explorer who confirmed Mali's influence in the 15th century."
+        "Correct. The article states that at its peak, Mali was the largest empire in West Africa.",
+        "Incorrect. The article says empire, not kingdom.",
+        "Incorrect. The article says empire, not city.",
+        "Incorrect. The article says empire, not trade route."
       ]
     },
     {
       "id": 6,
-      "question": "What event marked the end of Mali's Golden Age?",
+      "question": "The Mali Empire began as a small kingdom of which people?",
       "options": [
-        "Suleyman's death",
-        "Mansa Musa's death",
-        "Sundiata Keita's death",
-        "Sakura's coup"
+        "Mandinka",
+        "Sosso",
+        "Songhai",
+        "Venetian"
       ],
       "answer_explanations": [
-        "Correct. The article states that Suleyman's death marked the end of Mali's Golden Age and the beginning of a slow decline.",
-        "Incorrect. Mansa Musa's death did not mark the end of the Golden Age; Suleyman's reign continued it.",
-        "Incorrect. Sundiata Keita's death marked the beginning of the mansa title era, not the end of the Golden Age.",
-        "Incorrect. Sakura's coup occurred earlier and did not end the Golden Age."
+        "Correct. The article says the empire began as a small Mandinka kingdom.",
+        "Incorrect. The Sosso were a different empire, not the founders of Mali.",
+        "Incorrect. The Songhai were a later neighboring state, not the original kingdom.",
+        "Incorrect. Venetians were explorers, not the original people of Mali."
       ]
     },
     {
       "id": 7,
-      "question": "In what year did the Mali Empire end according to the article?",
+      "question": "Near which river did the Mali Empire begin?",
       "options": [
-        "1610",
-        "1235",
-        "1312",
-        "1599"
+        "Niger River",
+        "Gambia River",
+        "Nile River",
+        "Congo River"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Mali Empire existed from c. 1235 to 1610.",
-        "Incorrect. 1235 is when the empire emerged as a major power, not when it ended.",
-        "Incorrect. 1312 is when Mansa Musa took the throne.",
-        "Incorrect. 1599 was the year of the Battle of Djenne, after which the empire rapidly disintegrated but did not immediately end."
+        "Correct. The article says the kingdom was at the upper reaches of the Niger River.",
+        "Incorrect. The Gambia River is mentioned later in the article, not in the introduction.",
+        "Incorrect. The Nile River is not mentioned in the introduction.",
+        "Incorrect. The Congo River is not mentioned in the introduction."
       ]
     },
     {
       "id": 8,
-      "question": "Where did the Keitas retreat to after the empire disintegrated?",
+      "question": "What title were the kings or emperors of Mali referred to by after Sundiata Keita's death?",
       "options": [
-        "Kangaba",
-        "Timbuktu",
-        "Niani",
-        "Gao"
+        "mansa",
+        "emperor",
+        "king",
+        "sultan"
       ],
       "answer_explanations": [
-        "Correct. The article states that after the empire rapidly disintegrated, the Keitas retreated to the town of Kangaba.",
-        "Incorrect. Timbuktu was a scholarly city annexed by Mansa Musa, not where the Keitas retreated.",
-        "Incorrect. Niani was associated with Sundiata's father, not the retreat location after disintegration.",
-        "Incorrect. Gao was a city Musa took control of, not the Keitas' retreat."
+        "Correct. The article states that after Sundiata Keita's death, the rulers were referred to by the title mansa.",
+        "Incorrect. The article specifically uses the title mansa, not emperor.",
+        "Incorrect. The article specifically uses the title mansa, not king.",
+        "Incorrect. The article specifically uses the title mansa, not sultan."
       ]
     },
     {
       "id": 9,
-      "question": "Which empire invaded Mali's capital in 1544/45 but failed to conquer it?",
+      "question": "Which explorer visited Mali during Suleyman's reign?",
       "options": [
-        "Songhai Empire",
-        "Moroccan Empire",
-        "Ghana Empire",
-        "Sosso Empire"
+        "Ibn Battuta",
+        "Alvise Cadamosto",
+        "Leo Africanus",
+        "Christopher Columbus"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1544/45, the Songhai invaded the capital but were unsuccessful in conquering the empire.",
-        "Incorrect. The Moroccan invasion affected the Songhai Empire in 1593, not Mali's capital in 1544/45.",
-        "Incorrect. The Ghana Empire declined before Mali rose and did not invade in 1544/45.",
-        "Incorrect. The Sosso Empire was conquered by Sundiata around 1235."
+        "Correct. The article states that it was during Suleyman's reign that Ibn Battuta visited Mali.",
+        "Incorrect. Alvise Cadamosto is mentioned later in the article, not in the introduction.",
+        "Incorrect. Leo Africanus is mentioned later in the article, not in the introduction.",
+        "Incorrect. Christopher Columbus is not mentioned in the article."
       ]
     },
     {
       "id": 10,
-      "question": "Which battle in 1599 ended Mali's hopes of taking advantage of Songhai's collapse?",
+      "question": "What marked the end of Mali's Golden Age?",
       "options": [
-        "Battle of Djenne",
-        "Battle of Kirina",
-        "Battle of Takedda",
-        "Battle of Macina"
+        "Suleyman's death",
+        "The conquest of Sosso",
+        "Mansa Musa's pilgrimage",
+        "The Moroccan invasion"
       ],
       "answer_explanations": [
-        "Correct. The article states that a disastrous defeat outside Djenne in 1599 ended Mali's hopes.",
-        "Incorrect. The Battle of Kirina in c. 1235 marked Mali's emergence, not its decline in 1599.",
-        "Incorrect. Takedda is mentioned in relation to a war in the 1370s, not the 1599 battle.",
-        "Incorrect. Macina is mentioned in relation to Mossi raids, not the 1599 battle."
+        "Correct. The article says Suleyman's death marked the end of Mali's Golden Age.",
+        "Incorrect. The conquest of Sosso marked the emergence of Mali as a major power, not the end of the Golden Age.",
+        "Incorrect. Mansa Musa's pilgrimage is mentioned earlier, not as the end of the Golden Age.",
+        "Incorrect. The Moroccan invasion is mentioned later in the article, not in the introduction."
       ]
     }
   ]

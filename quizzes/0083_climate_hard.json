@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what is the standard averaging period used to define climate normals?",
+      "question": "Why does the WMO use a 30-year period for climate normals, according to the article?",
       "options": [
-        "30 years",
-        "10 years",
-        "50 years",
-        "100 years"
+        "Because it is long enough to filter out interannual variations like El NiÃ±o but short enough to show longer trends",
+        "Because it is the only period that matches the Earth's orbital cycles",
+        "Because it was arbitrarily chosen in 1934 and never revised",
+        "Because it is the shortest period that can capture all weather extremes"
       ],
       "answer_explanations": [
-        "Correct. The article states that a climate normal is defined as the arithmetic average of a climate element over a 30-year period.",
-        "Incorrect. The article does not mention 10 years as the standard averaging period for climate normals.",
-        "Incorrect. The article does not mention 50 years as the standard averaging period for climate normals.",
-        "Incorrect. The article does not mention 100 years as the standard averaging period for climate normals."
+        "Correct. The article states that a 30-year period is used as it is long enough to filter out any interannual variation or anomalies such as El NiÃ±oâSouthern Oscillation, but also short enough to be able to show longer climatic trends.",
+        "Incorrect. The article does not mention Earth's orbital cycles as a reason for the 30-year period.",
+        "Incorrect. The article says the WMO updated the normals in 1982, so the period is not arbitrary or unrevised.",
+        "Incorrect. The article does not say the 30-year period captures all weather extremes; it says it filters out interannual variations."
       ]
     },
     {
       "id": 2,
-      "question": "Based on the article, what would be the expected ecological response to a 3 Â°C change in mean annual temperature?",
+      "question": "What does the article imply about the relationship between climate classification schemes and natural climate transitions?",
       "options": [
-        "Species moving upwards in elevation or towards the poles in latitude",
-        "Species remaining stationary within their current ranges",
-        "Species shifting only towards the equator",
-        "Species shifting only downwards in elevation"
+        "Classification schemes impose sharp boundaries that do not reflect the gradual transitions seen in nature",
+        "Classification schemes perfectly mirror the gradual transitions of climate properties",
+        "Classification schemes are only useful for genetic methods, not empiric ones",
+        "Classification schemes are based on the same criteria as the WMO climate normals"
       ],
       "answer_explanations": [
-        "Correct. The article quotes Lesley Ann Hughes stating that species are expected to move upwards in elevation or towards the poles in latitude in response to shifting climate zones.",
-        "Incorrect. The article does not suggest species would remain stationary; it describes movement in response to shifting climate zones.",
-        "Incorrect. The article describes movement towards the poles, not towards the equator.",
-        "Incorrect. The article describes movement upwards in elevation, not downwards."
+        "Correct. The article states that a common shortcoming of these classification schemes is that they produce distinct boundaries between the zones they define, rather than the gradual transition of climate properties more common in nature.",
+        "Incorrect. The article explicitly says the schemes produce distinct boundaries, not gradual transitions.",
+        "Incorrect. The article describes both genetic and empiric methods and does not say the schemes are only useful for one type.",
+        "Incorrect. The article does not link classification schemes to WMO climate normals; they serve different purposes."
       ]
     },
     {
       "id": 3,
-      "question": "If a researcher wanted to study biological diversity and the effects of climate change on it using a classification system that incorporates evapotranspiration, which system described in the article would be most appropriate?",
+      "question": "How does the article suggest that the definition of 'climate change' has evolved over time?",
       "options": [
-        "The Thornthwaite system",
-        "The KÃ¶ppen climate classification",
-        "The Bergeron classification",
-        "The Spatial Synoptic Classification system"
+        "It has shifted from meaning natural variability to implying long-term, human-caused change",
+        "It has always meant the same thing since the 1960s",
+        "It now refers only to changes caused by volcanic activity",
+        "It has become less precise and now includes all weather variations"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Thornthwaite system incorporates evapotranspiration along with temperature and precipitation information and is used in studying biological diversity and how climate change affects it.",
-        "Incorrect. The article describes the KÃ¶ppen classification as the most widely used scheme but does not say it incorporates evapotranspiration for studying biological diversity.",
-        "Incorrect. The article states the Bergeron system focuses on the origin of air masses, not evapotranspiration.",
-        "Incorrect. The article states the Spatial Synoptic Classification system focuses on the origin of air masses, not evapotranspiration."
+        "Correct. The article explains that while the term 'climate change' now implies change that is both long-term and of human causation, in the 1960s it was used for what we now describe as climate variability, i.e., climatic inconsistencies and anomalies.",
+        "Incorrect. The article explicitly states that the definitions have shifted over the years.",
+        "Incorrect. The article does not limit climate change to volcanic activity; it mentions human activities as a cause.",
+        "Incorrect. The article indicates the term has become more specific, not less precise."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what is a key difference between genetic and empiric climate classification methods?",
+      "question": "What does the article imply about the use of proxy variables in paleoclimatology?",
       "options": [
-        "Genetic methods focus on the causes of climate, while empiric methods focus on the effects of climate",
-        "Genetic methods focus on the effects of climate, while empiric methods focus on the causes of climate",
-        "Genetic methods use only temperature data, while empiric methods use only precipitation data",
-        "Genetic methods are older than empiric methods"
+        "They are necessary because direct observations of ancient climates are largely unavailable",
+        "They are used only for the modern climate record",
+        "They are less reliable than direct measurements from the 19th century",
+        "They are only derived from biotic evidence such as tree rings"
       ],
       "answer_explanations": [
-        "Correct. The article states that modern climate classification methods can be broadly divided into genetic methods, which focus on the causes of climate, and empiric methods, which focus on the effects of climate.",
-        "Incorrect. The article states the opposite: genetic methods focus on causes, not effects.",
-        "Incorrect. The article does not restrict genetic methods to temperature data or empiric methods to precipitation data.",
-        "Incorrect. The article does not compare the historical age of genetic and empiric methods."
+        "Correct. The article states that since very few direct observations of climate were available before the 19th century, paleoclimates are inferred from proxy variables, which include both non-biotic and biotic evidence.",
+        "Incorrect. Proxy variables are used for ancient climates, not the modern record, which relies on instruments.",
+        "Incorrect. The article does not compare the reliability of proxies to direct measurements.",
+        "Incorrect. The article lists non-biotic evidence (sediments, ice cores) as well as biotic evidence (tree rings, coral)."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, what is one reason the 30-year period is used for climate normals?",
+      "question": "Why does the article mention the example of a 3Â°C temperature change corresponding to a shift in isotherms?",
       "options": [
-        "It is long enough to filter out interannual variation or anomalies such as El NiÃ±oâSouthern Oscillation",
-        "It matches the length of a typical human generation",
-        "It corresponds to the duration of a single ice age",
-        "It is the shortest period that captures daily weather fluctuations"
+        "To illustrate how species may need to move in response to shifting climate zones",
+        "To prove that global warming is caused by human activities",
+        "To show that temperature changes are uniform across all regions",
+        "To explain the difference between weather and climate"
       ],
       "answer_explanations": [
-        "Correct. The article states that a 30-year period is used because it is long enough to filter out any interannual variation or anomalies such as El NiÃ±oâSouthern Oscillation, but also short enough to show longer climatic trends.",
-        "Incorrect. The article does not mention human generations as a reason for the 30-year period.",
-        "Incorrect. The article does not link the 30-year period to the duration of an ice age.",
-        "Incorrect. The article describes the 30-year period as filtering out short-term variation, not capturing daily weather fluctuations."
+        "Correct. The article uses this example to show that species are expected to move upwards in elevation or towards the poles in latitude in response to shifting climate zones, as part of the redistributions of biota due to global warming.",
+        "Incorrect. The example is about species movement, not about the cause of global warming.",
+        "Incorrect. The example shows a shift in isotherms, implying regional variation, not uniformity.",
+        "Incorrect. The example is in the context of climate change and biota redistribution, not the weather-climate distinction."
       ]
     },
     {
       "id": 6,
-      "question": "Based on the article, what can be inferred about the relationship between greenhouse gas concentrations and global temperature?",
+      "question": "What does the article suggest about the factors that determine climate in terms of their timescales?",
       "options": [
-        "Increases in greenhouse gases can increase the global temperature and produce an interglacial period",
-        "Increases in greenhouse gases always lead to glacial periods",
-        "Greenhouse gas concentrations have no effect on global temperature",
-        "Greenhouse gases only affect regional, not global, temperature"
+        "Some factors change over millions of years while others are more dynamic and change on shorter timescales",
+        "All factors change at the same rate over millions of years",
+        "Only latitude and altitude are important, and they change rapidly",
+        "Ocean currents are the only dynamic factors, and they change over millions of years"
       ],
       "answer_explanations": [
-        "Correct. The article states that increases in greenhouse gases, such as by volcanic activity, can increase the global temperature and produce an interglacial period.",
-        "Incorrect. The article associates increases in greenhouse gases with warming and interglacial periods, not glacial periods.",
-        "Incorrect. The article explicitly states that greenhouse gases determine the amount of solar energy retained by the planet, affecting global temperature.",
-        "Incorrect. The article discusses greenhouse gases in terms of global warming or global cooling, indicating a global effect."
+        "Correct. The article distinguishes between nearly constant variables (latitude, altitude, etc.) that change over millions of years and more dynamic determinants like thermohaline circulation and vegetation coverage that affect climate on regional or shorter scales.",
+        "Incorrect. The article explicitly states that some variables change only over millions of years while others are more dynamic.",
+        "Incorrect. The article lists many factors, not just latitude and altitude, and says they change slowly.",
+        "Incorrect. The article mentions ocean currents as dynamic but does not say they change over millions of years; it says they redistribute heat on a regional scale."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is a common shortcoming of climate classification schemes?",
+      "question": "How does the article explain the role of greenhouse gases in climate change?",
       "options": [
-        "They produce distinct boundaries between zones rather than gradual transitions",
-        "They are too complex to be used by scientists",
-        "They ignore temperature and precipitation entirely",
-        "They only apply to tropical regions"
+        "They determine the amount of solar energy retained by the planet, leading to warming or cooling",
+        "They are the only cause of past ice ages",
+        "They have no effect on global temperatures",
+        "They are primarily produced by natural processes and not by human activities"
       ],
       "answer_explanations": [
-        "Correct. The article states that a common shortcoming of these classification schemes is that they produce distinct boundaries between the zones they define, rather than the gradual transition of climate properties more common in nature.",
-        "Incorrect. The article does not describe the schemes as too complex to use.",
-        "Incorrect. The article states that temperature and precipitation are commonly used variables in classification.",
-        "Incorrect. The article does not limit the schemes to tropical regions."
+        "Correct. The article states that alterations in the quantity of atmospheric greenhouse gases determines the amount of solar energy retained by the planet, leading to global warming or global cooling.",
+        "Incorrect. The article lists several suggested causes of ice ages, including continental positions, orbital variations, solar output, and volcanism, not just greenhouse gases.",
+        "Incorrect. The article clearly links greenhouse gases to temperature changes.",
+        "Incorrect. The article mentions human activities as a source of greenhouse gas emissions, e.g., in the context of climate change."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what does paleoclimatology use to determine the past state of the climate?",
+      "question": "What does the article imply about the relationship between climate variability and climate change?",
       "options": [
-        "Proxy variables such as ice sheets, tree rings, sediments, pollen, coral, and rocks",
-        "Direct thermometer readings from the 18th century",
-        "Satellite data from the 1960s",
-        "Modern weather instruments only"
+        "Climate variability includes random and periodic variations, while climate change is long-term and often human-caused",
+        "Climate variability is the same as climate change and the terms are interchangeable",
+        "Climate variability only occurs on short timescales and is always random",
+        "Climate change is a type of climate variability that occurs only in the modern era"
       ],
       "answer_explanations": [
-        "Correct. The article states that paleoclimatology uses evidence with different time scales from ice sheets, tree rings, sediments, pollen, coral, and rocks to determine the past state of the climate, and that paleoclimates are inferred from proxy variables.",
-        "Incorrect. The article notes that very few direct observations were available before the 19th century, so paleoclimatology does not rely on 18th-century thermometer readings.",
-        "Incorrect. Satellite data from the 1960s are part of the modern climate record, not paleoclimatology.",
-        "Incorrect. Modern weather instruments are used for the modern climate record, while paleoclimatology relies on proxy evidence."
+        "Correct. The article defines climate variability as variations on all spatial and temporal scales beyond individual weather events, including random and periodic modes, while climate change is described as variation over time scales from decades to millions of years, with recent usage implying human causation.",
+        "Incorrect. The article notes that the terms have shifted in meaning and are not interchangeable; climate variability is used for non-human caused variations in some contexts.",
+        "Incorrect. The article says variability includes periodic variability and occurs on all spatial and temporal scales, not just short and random.",
+        "Incorrect. Climate change can be natural or human-caused and occurs over long timescales, not only in the modern era."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, how did the meaning of 'climate change' shift between the 1960s and recent usage?",
+      "question": "Why does the article mention the EU's Copernicus Climate Change Service data?",
       "options": [
-        "In the 1960s it referred to climate variability, while recent usage often implies long-term, human-caused change",
-        "In the 1960s it referred only to human-caused change, while recent usage refers to natural variability",
-        "It has always meant exactly the same thing",
-        "In the 1960s it referred to daily weather, while recent usage refers to century-scale averages"
+        "To provide recent evidence that global average air temperature has passed 1.5Â°C of warming",
+        "To show that climate change is only a European concern",
+        "To illustrate the use of proxy variables in modern climate records",
+        "To compare the accuracy of satellite and ground-based measurements"
       ],
       "answer_explanations": [
-        "Correct. The article states that while the term climate change now implies change that is both long-term and of human causation, in the 1960s the word climate change was used for what we now describe as climate variability.",
-        "Incorrect. The article states the opposite: in the 1960s it referred to variability, not human-caused change.",
-        "Incorrect. The article explicitly describes a shift in meaning over time.",
-        "Incorrect. The article does not equate 1960s usage of climate change with daily weather."
+        "Correct. The article states that according to the EU's Copernicus Climate Change Service, average global air temperature has passed 1.5Â°C of warming for the period from February 2023 to January 2024.",
+        "Incorrect. The data is about global temperature, not limited to Europe.",
+        "Incorrect. The data is from modern measurements, not proxy variables.",
+        "Incorrect. The article does not discuss the accuracy of different measurement methods in that context."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what is one dynamic determinant of climate mentioned in the text?",
+      "question": "What conclusion can be drawn from the article's description of the modern climate record?",
       "options": [
-        "Thermohaline circulation of the ocean",
-        "The fixed latitude of a location",
-        "The unchanging proportion of land to water",
-        "The permanent position of continents"
+        "The record is more comprehensive in populated and affluent areas, but satellites have expanded coverage globally since the 1960s",
+        "The record is complete and unbiased across all regions since the 19th century",
+        "The record relies solely on satellite data, making it accurate for all periods",
+        "The record is only available for the Arctic and oceans"
       ],
       "answer_explanations": [
-        "Correct. The article describes thermohaline circulation of the ocean as a dynamic climate determinant that leads to warming of the northern Atlantic Ocean.",
-        "Incorrect. The article describes latitude as a nearly constant variable that changes only over millions of years, not a dynamic determinant.",
-        "Incorrect. The article describes the proportion of land to water as a nearly constant variable, not a dynamic one.",
-        "Incorrect. The article describes the positions of continents as changing over millions of years, not as a dynamic determinant."
+        "Correct. The article states that long-term modern climate records skew towards population centres and affluent countries, but since the 1960s, satellites allow records to be gathered on a global scale, including areas with little human presence.",
+        "Incorrect. The article notes that records skew towards certain areas, implying they are not complete or unbiased.",
+        "Incorrect. The article mentions weather instruments like thermometers and barometers, not just satellites, and notes changes in instruments over time.",
+        "Incorrect. The article says satellites allow records in areas like the Arctic and oceans, but it does not say the record is limited to those areas."
       ]
     }
   ]

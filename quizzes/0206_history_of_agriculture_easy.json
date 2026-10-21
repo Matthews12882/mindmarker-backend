@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, when did the development of agriculture occur?",
+      "question": "According to the introduction, how many separate regions of the Old and New World were involved as independent centers of origin for agriculture?",
       "options": [
-        "about 12,000 years ago",
-        "about 10,000 years ago",
-        "about 15,000 years ago",
-        "about 8,000 years ago"
+        "At least eleven",
+        "Exactly ten",
+        "At least five",
+        "Exactly twelve"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The development of agriculture about 12,000 years ago changed the way humans lived.'",
-        "Incorrect. The article does not mention 10,000 years ago as the time agriculture developed.",
-        "Incorrect. The article does not mention 15,000 years ago as the time agriculture developed.",
-        "Incorrect. The article does not mention 8,000 years ago as the time agriculture developed."
+        "Correct. The text states: 'At least eleven separate regions of the Old and New World were involved as independent centers of origin.'",
+        "Incorrect. The text says 'at least eleven', not exactly ten.",
+        "Incorrect. The text says 'at least eleven', not at least five.",
+        "Incorrect. The text says 'at least eleven', not exactly twelve."
       ]
     },
     {
       "id": 2,
-      "question": "Which of the following is listed as one of the eight Neolithic founder crops cultivated in the Levant by around 9500 BC?",
+      "question": "About how many years ago did the development of agriculture change the way humans lived?",
       "options": [
-        "emmer wheat",
-        "rice",
-        "maize",
-        "sorghum"
+        "12,000 years ago",
+        "10,000 years ago",
+        "15,000 years ago",
+        "8,000 years ago"
       ],
       "answer_explanations": [
-        "Correct. The article lists emmer wheat among the eight Neolithic founder crops cultivated in the Levant by around 9500 BC.",
-        "Incorrect. Rice was domesticated in China by 6200 BC, not listed as one of the eight Neolithic founder crops in the Levant.",
-        "Incorrect. Maize was domesticated in Mesoamerica about 7000 BC, not listed as one of the eight Neolithic founder crops in the Levant.",
-        "Incorrect. Sorghum was domesticated in sub-Saharan Africa by 3000 BC, not listed as one of the eight Neolithic founder crops in the Levant."
+        "Correct. The text states: 'The development of agriculture about 12,000 years ago changed the way humans lived.'",
+        "Incorrect. The text says about 12,000 years ago, not 10,000.",
+        "Incorrect. The text says about 12,000 years ago, not 15,000.",
+        "Incorrect. The text says about 12,000 years ago, not 8,000."
       ]
     },
     {
       "id": 3,
-      "question": "Where were pigs domesticated according to the article?",
+      "question": "What lifestyle did humans switch from when they began farming?",
       "options": [
-        "Mesopotamia",
-        "China",
-        "Mesoamerica",
-        "West Africa"
+        "Nomadic hunter-gatherer lifestyles",
+        "Permanent settlements and farming",
+        "Industrial lifestyles",
+        "Pastoral nomadic lifestyles"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Pigs were domesticated in Mesopotamia around 11,000 years ago.'",
-        "Incorrect. The article associates rice domestication with China, not pig domestication.",
-        "Incorrect. The article associates maize domestication with Mesoamerica, not pig domestication.",
-        "Incorrect. The article associates African rice domestication with West Africa, not pig domestication."
+        "Correct. The text says: 'They switched from nomadic hunter-gatherer lifestyles to permanent settlements and farming.'",
+        "Incorrect. Permanent settlements and farming is what they switched to, not from.",
+        "Incorrect. The text does not mention industrial lifestyles.",
+        "Incorrect. The text says nomadic hunter-gatherer, not pastoral nomadic."
       ]
     },
     {
       "id": 4,
-      "question": "From which animal were cattle domesticated according to the article?",
+      "question": "From how long ago were wild grains collected and eaten?",
       "options": [
-        "wild aurochs",
-        "wild boar",
-        "guinea pigs",
-        "guineafowl"
+        "At least 104,000 years ago",
+        "At least 12,000 years ago",
+        "At least 21,000 years ago",
+        "At least 9,500 years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Cattle were domesticated from the wild aurochs in the areas of modern Turkey and India around 8500 BC.'",
-        "Incorrect. Wild boar were domesticated about 10,500 years ago, but they are not the animal from which cattle were domesticated.",
-        "Incorrect. Guinea pigs were domesticated in the Andes, not the animal from which cattle were domesticated.",
-        "Incorrect. Guineafowl were domesticated in West Africa, not the animal from which cattle were domesticated."
+        "Correct. The text states: 'Wild grains were collected and eaten from at least 104,000 years ago.'",
+        "Incorrect. The text says at least 104,000 years ago, not 12,000.",
+        "Incorrect. The text says at least 104,000 years ago, not 21,000 (that is the date for earliest cultivation).",
+        "Incorrect. The text says at least 104,000 years ago, not 9,500 (that is the date for Neolithic founder crops)."
       ]
     },
     {
       "id": 5,
-      "question": "Which crop was domesticated in the Amazon Basin no later than 7000 BC according to the article?",
+      "question": "What is the earliest evidence of small-scale cultivation of edible grasses, and from around when?",
       "options": [
-        "cassava",
-        "potato",
-        "maize",
-        "cotton"
+        "Ohalo II people on the shores of the Sea of Galilee, around 21,000 BC",
+        "Neolithic founder crops in the Levant, around 9500 BC",
+        "Rice in China, around 6200 BC",
+        "Pigs in Mesopotamia, around 11,000 years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Cassava was domesticated in the Amazon Basin no later than 7000 BC.'",
-        "Incorrect. The potato was domesticated in the Andes between 8000 BC and 5000 BC, not in the Amazon Basin.",
-        "Incorrect. Maize was domesticated in Mesoamerica about 7000 BC, not in the Amazon Basin.",
-        "Incorrect. Cotton was domesticated in Peru by 4200 BC, not in the Amazon Basin."
+        "Correct. The text states: 'The earliest evidence of small-scale cultivation of edible grasses is from around 21,000 BC with the Ohalo II people on the shores of the Sea of Galilee.'",
+        "Incorrect. The Neolithic founder crops are from around 9500 BC, but they are not the earliest evidence of small-scale cultivation.",
+        "Incorrect. Rice in China is later, around 6200 BC.",
+        "Incorrect. Pigs are animals, not edible grasses, and the date is about 11,000 years ago."
       ]
     },
     {
       "id": 6,
-      "question": "In which region was sorghum domesticated by 3000 BC according to the article?",
+      "question": "By around 9500 BC, which eight Neolithic founder crops were cultivated in the Levant?",
       "options": [
-        "the Sahel region of Africa",
-        "the Levant",
-        "Mesoamerica",
-        "the Amazon Basin"
+        "Emmer wheat, einkorn wheat, hulled barley, peas, lentils, bitter vetch, chickpeas, and flax",
+        "Wheat, barley, rice, maize, beans, squash, potatoes, and tomatoes",
+        "Sorghum, pearl millet, yams, cowpeas, teff, finger millet, noog, and coffee",
+        "Sugarcane, bananas, mung beans, soybeans, azuki beans, cassava, cotton, and coca"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'In sub-Saharan Africa, sorghum was domesticated in the Sahel region of Africa by 3000 BC.'",
-        "Incorrect. The Levant is associated with Neolithic founder crops, not sorghum domestication by 3000 BC.",
-        "Incorrect. Mesoamerica is associated with maize domestication, not sorghum domestication by 3000 BC.",
-        "Incorrect. The Amazon Basin is associated with cassava domestication, not sorghum domestication by 3000 BC."
+        "Correct. The text lists exactly these eight: 'emmer wheat, einkorn wheat, hulled barley, peas, lentils, bitter vetch, chickpeas, and flax'.",
+        "Incorrect. This list includes crops from the Americas and later domestications, not the Neolithic founder crops.",
+        "Incorrect. These are African crops, not the Levantine founder crops.",
+        "Incorrect. These are crops from New Guinea, China, and the Americas, not the founder crops."
       ]
     },
     {
       "id": 7,
-      "question": "Which animal was domesticated in West Africa according to the article?",
+      "question": "In which country was rice domesticated by 6200 BC?",
       "options": [
-        "helmeted guineafowl",
-        "llama",
-        "alpaca",
-        "camel"
+        "China",
+        "India",
+        "Egypt",
+        "West Africa"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The helmeted guineafowl was domesticated in West Africa.'",
-        "Incorrect. Llamas were domesticated in the Andes of South America, not West Africa.",
-        "Incorrect. Alpacas were domesticated in the Andes of South America, not West Africa.",
-        "Incorrect. Camels were domesticated late, perhaps around 3000 BC, but the article does not place their domestication in West Africa."
+        "Correct. The text states: 'Rice was domesticated in China by 6200 BC with earliest known cultivation from 5700 BC.'",
+        "Incorrect. The text does not say rice was domesticated in India.",
+        "Incorrect. The text does not say rice was domesticated in Egypt.",
+        "Incorrect. The text says rice was independently domesticated in West Africa, but that was later, cultivated by 1000 BC."
       ]
     },
     {
       "id": 8,
-      "question": "What did the development of agriculture about 12,000 years ago cause humans to switch from?",
+      "question": "What animals were domesticated in Mesopotamia around 11,000 years ago?",
       "options": [
-        "nomadic hunter-gatherer lifestyles",
-        "permanent settlements",
-        "industrial farming",
-        "urban living"
+        "Pigs, followed by sheep",
+        "Cattle, followed by camels",
+        "Horses, followed by goats",
+        "Chickens, followed by ducks"
       ],
       "answer_explanations": [
-        "Correct. The article states that humans 'switched from nomadic hunter-gatherer lifestyles to permanent settlements and farming.'",
-        "Incorrect. Permanent settlements were what humans switched to, not from.",
-        "Incorrect. Industrial farming is not mentioned as a lifestyle humans switched from.",
-        "Incorrect. Urban living is not mentioned as a lifestyle humans switched from."
+        "Correct. The text states: 'Pigs were domesticated in Mesopotamia around 11,000 years ago, followed by sheep.'",
+        "Incorrect. Cattle were domesticated in Turkey and India, and camels later, around 3000 BC.",
+        "Incorrect. The text does not mention horses or goats in this context.",
+        "Incorrect. The text does not mention chickens or ducks."
       ]
     },
     {
       "id": 9,
-      "question": "When was rice domesticated in China according to the article?",
+      "question": "From which wild animal were cattle domesticated?",
       "options": [
-        "by 6200 BC",
-        "by 9500 BC",
-        "by 3000 BC",
-        "by 1000 BC"
+        "Aurochs",
+        "Bison",
+        "Buffalo",
+        "Yak"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Rice was domesticated in China by 6200 BC with earliest known cultivation from 5700 BC.'",
-        "Incorrect. 9500 BC is associated with the cultivation of Neolithic founder crops in the Levant, not rice domestication in China.",
-        "Incorrect. 3000 BC is associated with sorghum domestication in the Sahel, not rice domestication in China.",
-        "Incorrect. 1000 BC is associated with African rice cultivation in West Africa, not rice domestication in China."
+        "Correct. The text states: 'Cattle were domesticated from the wild aurochs in the areas of modern Turkey and India around 8500 BC.'",
+        "Incorrect. The text says aurochs, not bison.",
+        "Incorrect. The text says aurochs, not buffalo.",
+        "Incorrect. The text says aurochs, not yak."
       ]
     },
     {
       "id": 10,
-      "question": "Which crops were domesticated in the Andes of South America between 8000 BC and 5000 BC according to the article?",
+      "question": "Around when were camels domesticated?",
       "options": [
-        "potato",
-        "rice",
-        "wheat",
-        "sorghum"
+        "Perhaps around 3000 BC",
+        "Around 8500 BC",
+        "Around 6200 BC",
+        "Around 11,000 years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'In the Andes of South America, the potato was domesticated between 8000 BC and 5000 BC.'",
-        "Incorrect. Rice was domesticated in China by 6200 BC, not in the Andes between 8000 BC and 5000 BC.",
-        "Incorrect. Wheat was one of the Neolithic founder crops cultivated in the Levant, not domesticated in the Andes between 8000 BC and 5000 BC.",
-        "Incorrect. Sorghum was domesticated in the Sahel region of Africa by 3000 BC, not in the Andes between 8000 BC and 5000 BC."
+        "Correct. The text states: 'Camels were domesticated late, perhaps around 3000 BC.'",
+        "Incorrect. 8500 BC is when cattle were domesticated.",
+        "Incorrect. 6200 BC is when rice was domesticated in China.",
+        "Incorrect. 11,000 years ago is when pigs were domesticated in Mesopotamia."
       ]
     }
   ]

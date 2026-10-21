@@ -5,55 +5,151 @@
   "questions": [
     {
       "id": 1,
-      "question": "Who was Genghis Khan born as?",
+      "question": "What was Genghis Khan's birth name?",
       "options": [
         "TemÃ¼jin",
+        "Chinggis",
         "Yesugei",
-        "Jamukha",
         "Ãgedei"
       ],
       "answer_explanations": [
         "Correct. The article states that Genghis Khan was born TemÃ¼jin.",
-        "Incorrect. Yesugei was Genghis Khan's father, not his birth name.",
-        "Incorrect. Jamukha was a steppe leader who allied with TemÃ¼jin, not his birth name.",
-        "Incorrect. Ãgedei was Genghis Khan's third son and heir, not his birth name."
+        "Incorrect. Chinggis is another name for Genghis Khan, not his birth name.",
+        "Incorrect. Yesugei was his father, not his birth name.",
+        "Incorrect. Ãgedei was his son and heir, not his birth name."
       ]
     },
     {
       "id": 2,
-      "question": "In what year did TemÃ¼jin formally adopt the title Genghis Khan?",
+      "question": "What was Genghis Khan the founder and first khan of?",
       "options": [
-        "1206",
-        "1187",
-        "1203",
-        "1227"
+        "The Mongol Empire",
+        "The Jin dynasty",
+        "The Khwarazmian Empire",
+        "The Western Xia"
       ],
       "answer_explanations": [
-        "Correct. The article states that TemÃ¼jin formally adopted the title Genghis Khan at an assembly in 1206.",
-        "Incorrect. 1187 is when TemÃ¼jin was badly defeated at the Battle of Dalan Baljut.",
-        "Incorrect. 1203 is when Toghrul launched a surprise attack on TemÃ¼jin.",
-        "Incorrect. 1227 is the year Genghis Khan died."
+        "Correct. The article says he was the founder and first khan of the Mongol Empire.",
+        "Incorrect. The Jin dynasty was a state he campaigned against, not one he founded.",
+        "Incorrect. The Khwarazmian Empire was invaded by him, not founded by him.",
+        "Incorrect. Western Xia was a neighboring state he raided, not one he founded."
       ]
     },
     {
       "id": 3,
-      "question": "Who was Genghis Khan's father?",
+      "question": "What did Genghis Khan spend most of his life doing?",
       "options": [
-        "Yesugei",
-        "Toghrul",
-        "Jebe",
-        "Ãgedei"
+        "Uniting the Mongol tribes",
+        "Writing a book",
+        "Building a city",
+        "Exploring the ocean"
       ],
       "answer_explanations": [
-        "Correct. The article identifies Yesugei as Genghis Khan's father, a Mongol chieftain of the Borjigin clan.",
-        "Incorrect. Toghrul was a prominent steppe leader who allied with TemÃ¼jin, not his father.",
-        "Incorrect. Jebe was Genghis Khan's general, not his father.",
-        "Incorrect. Ãgedei was Genghis Khan's third son, not his father."
+        "Correct. The article states he spent most of his life uniting the Mongol tribes.",
+        "Incorrect. There is no mention of him writing a book.",
+        "Incorrect. Building a city is not mentioned in the article.",
+        "Incorrect. Exploring the ocean is not mentioned in the article."
       ]
     },
     {
       "id": 4,
-      "question": "In what year did Genghis Khan die?",
+      "question": "Which regions did Genghis Khan conquer in his military campaigns?",
+      "options": [
+        "Large parts of China and Central Asia",
+        "Europe and Africa",
+        "India and Southeast Asia",
+        "The Americas and Australia"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he conquered large parts of China and Central Asia.",
+        "Incorrect. Europe and Africa are not mentioned as conquered regions.",
+        "Incorrect. India and Southeast Asia are not mentioned.",
+        "Incorrect. The Americas and Australia are not mentioned."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Who was Genghis Khan's father?",
+      "options": [
+        "Yesugei",
+        "Jamukha",
+        "Toghrul",
+        "Jebe"
+      ],
+      "answer_explanations": [
+        "Correct. The article names Yesugei as his father.",
+        "Incorrect. Jamukha was a steppe leader and later rival, not his father.",
+        "Incorrect. Toghrul was a steppe leader, not his father.",
+        "Incorrect. Jebe was a general, not his father."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What happened to Genghis Khan's family when he was eight?",
+      "options": [
+        "His father died and his family was abandoned by its tribe",
+        "They moved to a big city",
+        "They became rich",
+        "They were captured by enemies"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that when TemÃ¼jin was eight, his father died and his family was abandoned by its tribe.",
+        "Incorrect. Moving to a big city is not mentioned.",
+        "Incorrect. The article says the family was reduced to near-poverty, not that they became rich.",
+        "Incorrect. Being captured by enemies is not mentioned."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Who was Genghis Khan's newlywed wife who was kidnapped by raiders?",
+      "options": [
+        "BÃ¶rte",
+        "HÃ¶'elÃ¼n",
+        "Behter",
+        "Subutai"
+      ],
+      "answer_explanations": [
+        "Correct. The article says they worked together to retrieve TemÃ¼jin's newlywed wife BÃ¶rte.",
+        "Incorrect. HÃ¶'elÃ¼n was his mother.",
+        "Incorrect. Behter was his half-brother.",
+        "Incorrect. Subutai was a general, not his wife."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What happened to Genghis Khan's relationship with Jamukha as his reputation grew?",
+      "options": [
+        "It deteriorated into open warfare",
+        "It became stronger",
+        "They became business partners",
+        "They stopped talking but stayed friends"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that as his reputation grew, his relationship with Jamukha deteriorated into open warfare.",
+        "Incorrect. The article says the oppositeâit deteriorated.",
+        "Incorrect. There is no mention of business partnership.",
+        "Incorrect. The article says it became open warfare, not just a loss of friendship."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "In which year did Genghis Khan formally adopt the title 'Genghis Khan'?",
+      "options": [
+        "1206",
+        "1187",
+        "1196",
+        "1227"
+      ],
+      "answer_explanations": [
+        "Correct. The article states he formally adopted the title at an assembly in 1206.",
+        "Incorrect. 1187 is mentioned as the year of a defeat, not the adoption of the title.",
+        "Incorrect. 1196 is when he reemerged, not when he adopted the title.",
+        "Incorrect. 1227 is the year of his death, not the adoption of the title."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "In which year did Genghis Khan die?",
       "options": [
         "1227",
         "1206",
@@ -61,106 +157,10 @@
         "1229"
       ],
       "answer_explanations": [
-        "Correct. The article states that Genghis died in 1227 while subduing the rebellious Western Xia.",
-        "Incorrect. 1206 is when TemÃ¼jin formally adopted the title Genghis Khan.",
-        "Incorrect. 1215 is when the Jin capital Zhongdu was captured.",
-        "Incorrect. 1229 is when Ãgedei acceded to the throne."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What did Genghis Khan transform the Mongols' tribal structure into?",
-      "options": [
-        "an integrated meritocracy",
-        "a feudal hierarchy",
-        "a theocracy",
-        "a military dictatorship"
-      ],
-      "answer_explanations": [
-        "Correct. The article states he transformed the Mongols' tribal structure into an integrated meritocracy dedicated to the service of the ruling family.",
-        "Incorrect. The article does not describe the structure as a feudal hierarchy.",
-        "Incorrect. The article does not describe the structure as a theocracy.",
-        "Incorrect. The article does not describe the structure as a military dictatorship."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "Which empire did Genghis Khan found?",
-      "options": [
-        "the Mongol Empire",
-        "the Jin dynasty",
-        "the Khwarazmian Empire",
-        "the Yuan dynasty"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Genghis Khan was the founder and first khan of the Mongol Empire.",
-        "Incorrect. The Jin dynasty was a neighboring power that Genghis Khan campaigned against.",
-        "Incorrect. The Khwarazmian Empire was invaded by Genghis Khan, not founded by him.",
-        "Incorrect. The Yuan dynasty was established by Genghis Khan's grandson Kublai Khan in 1271."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "Who was Genghis Khan's third son and heir?",
-      "options": [
-        "Ãgedei",
-        "Jebe",
-        "Subutai",
-        "Kublai Khan"
-      ],
-      "answer_explanations": [
-        "Correct. The article identifies Ãgedei as Genghis Khan's third son and heir who acceded to the throne in 1229.",
-        "Incorrect. Jebe was Genghis Khan's general, not his son.",
-        "Incorrect. Subutai was Jebe's colleague who led an expedition, not Genghis Khan's son.",
-        "Incorrect. Kublai Khan was Genghis Khan's grandson, not his son."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "What happened to TemÃ¼jin's family when he was eight years old?",
-      "options": [
-        "his father died and his family was abandoned by its tribe",
-        "his family became wealthy",
-        "his family moved to China",
-        "his family was captured by raiders"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that when TemÃ¼jin was eight, his father died and his family was abandoned by its tribe.",
-        "Incorrect. The article says the family was reduced to near-poverty, not that they became wealthy.",
-        "Incorrect. The article does not mention the family moving to China when TemÃ¼jin was eight.",
-        "Incorrect. The article says his wife BÃ¶rte was kidnapped by raiders later, not that his family was captured when he was eight."
-      ]
-    },
-    {
-      "id": 9,
-      "question": "Which state did Genghis Khan's general Jebe annex in 1218?",
-      "options": [
-        "Qara Khitai",
-        "Western Xia",
-        "Khwarazmian Empire",
-        "Jin dynasty"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Genghis's general Jebe annexed the Central Asian state of Qara Khitai in 1218.",
-        "Incorrect. Western Xia was raided in 1209 and agreed to Mongol terms the following year.",
-        "Incorrect. The Khwarazmian Empire was invaded by Genghis Khan in 1219, not annexed by Jebe in 1218.",
-        "Incorrect. The Jin dynasty was the target of a campaign that ended in 1215 with the capture of Zhongdu."
-      ]
-    },
-    {
-      "id": 10,
-      "question": "What title did Kublai Khan bestow upon his grandfather Genghis Khan when he established the Yuan dynasty?",
-      "options": [
-        "Taizu",
-        "Shengwu Huangdi",
-        "Fatian Qiyun Shengwu Huangdi",
-        "Genghis Khan"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that when Kublai Khan established the Yuan dynasty in 1271, he bestowed the temple name Taizu upon his grandfather.",
-        "Incorrect. Shengwu Huangdi was the posthumous name bestowed, not the temple name.",
-        "Incorrect. Fatian Qiyun Shengwu Huangdi was a later expanded title by KÃ¼lÃ¼g Khan, not the title bestowed by Kublai Khan when establishing the Yuan dynasty.",
-        "Incorrect. Genghis Khan was the title TemÃ¼jin adopted in 1206, not a title bestowed by Kublai Khan."
+        "Correct. The article states he died in 1227.",
+        "Incorrect. 1206 is when he adopted the title, not when he died.",
+        "Incorrect. 1215 is when the Jin capital was captured, not his death.",
+        "Incorrect. 1229 is when his son acceded to the throne, not his death."
       ]
     }
   ]

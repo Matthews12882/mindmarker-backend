@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following energy units is defined as one joule per second?",
+      "question": "What is the unit of measurement for energy in the International System of Units (SI)?",
       "options": [
-        "watt",
         "joule",
-        "kilowatt-hour",
+        "watt",
+        "newton",
         "erg"
       ],
       "answer_explanations": [
-        "Correct. The article states that the SI unit of power, defined as energy per unit of time, is the watt, which is one joule per second.",
-        "Incorrect. The joule is the SI unit of energy, not energy per unit of time.",
-        "Incorrect. A kilowatt-hour is equal to 3.6 million joules, not one joule per second.",
-        "Incorrect. The erg is the CGS energy unit, not defined as one joule per second."
+        "Correct. The article states: 'The unit of measurement for energy in the International System of Units (SI) is the joule (J).'",
+        "Incorrect. The watt is the SI unit of power, defined as energy per unit of time, not the unit of energy itself.",
+        "Incorrect. The newton is the SI unit of force, not energy.",
+        "Incorrect. The erg is the CGS energy unit, not the SI unit."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what does the law of conservation of energy state about an isolated system?",
+      "question": "According to the law of conservation of energy, what happens to the total energy of an isolated system?",
       "options": [
-        "the total energy remains constant",
-        "the total energy increases over time",
-        "the total energy decreases over time",
-        "the total energy is always zero"
+        "It remains constant, although it can be converted in form.",
+        "It gradually decreases over time.",
+        "It increases when work is done.",
+        "It is always converted to heat."
       ],
       "answer_explanations": [
-        "Correct. The article states that the law of conservation of energy states that the total energy of an isolated system remains constant.",
-        "Incorrect. The article does not say total energy increases; it says it remains constant.",
-        "Incorrect. The article does not say total energy decreases; it says it remains constant.",
-        "Incorrect. The article does not say total energy is always zero; it says it remains constant."
+        "Correct. The article says: 'the law of conservation of energy states that the total energy of an isolated system remains constant, although it can be converted in form.'",
+        "Incorrect. The law states the total energy remains constant, not that it decreases.",
+        "Incorrect. The law states the total energy remains constant; it does not increase when work is done.",
+        "Incorrect. The law says energy can be converted in form, but it does not say it is always converted to heat."
       ]
     },
     {
       "id": 3,
-      "question": "According to the table of energy types, what kind of energy is described as kinetic energy due to the rotation of an object?",
+      "question": "Which of the following is listed as a form of energy in the article?",
       "options": [
-        "Rotational energy",
-        "Thermal energy",
-        "Mechanical energy",
-        "Radiant energy"
+        "chemical energy",
+        "gravitational force",
+        "electric charge",
+        "magnetic field"
       ],
       "answer_explanations": [
-        "Correct. The table lists rotational energy as kinetic energy due to the rotation of an object.",
-        "Incorrect. Thermal energy is described as kinetic energy of microscopic motion of particles, not rotation of an object.",
-        "Incorrect. Mechanical energy is described as the sum of macroscopic translational and rotational kinetic and potential energies, not solely rotation.",
-        "Incorrect. Radiant energy is described as potential energy stored in fields of waves propagated by electromagnetic radiation."
+        "Correct. The article lists 'chemical energy' as a form of energy, describing it as 'potential energy due to chemical bonds'.",
+        "Incorrect. Gravitational force is a force, not a form of energy, though energy can be stored in gravitational fields.",
+        "Incorrect. Electric charge is a property of matter, not a form of energy listed in the article.",
+        "Incorrect. A magnetic field is a field, not a form of energy itself, though energy can be stored in magnetic fields."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what did Albert Einstein's 1905 theory of special relativity show about rest mass?",
+      "question": "What primarily drives the Earth's climate and ecosystems processes, according to the article?",
       "options": [
-        "rest mass corresponds to an equivalent amount of rest energy",
-        "rest mass cannot be converted to any form of energy",
-        "rest mass is the only form of energy that contributes to total mass",
-        "rest mass is conserved independently of total energy"
+        "radiant energy from the Sun",
+        "chemical energy from fossil fuels",
+        "kinetic energy of the wind",
+        "thermal energy from the Earth's core"
       ],
       "answer_explanations": [
-        "Correct. The article states that Einstein's theory showed rest mass corresponds to an equivalent amount of rest energy.",
-        "Incorrect. The article says rest mass can be converted to or from equivalent amounts of non-material forms of energy.",
-        "Incorrect. The article states all forms of energy contribute to total mass and total energy, not just rest mass.",
-        "Incorrect. The article says rest mass is not conserved when converted, unlike total mass or total energy."
+        "Correct. The article states: 'The Earth's climate and ecosystems processes are driven primarily by radiant energy from the Sun.'",
+        "Incorrect. The article specifically mentions radiant energy from the Sun, not chemical energy from fossil fuels.",
+        "Incorrect. The article specifically mentions radiant energy from the Sun, not kinetic energy of the wind.",
+        "Incorrect. The article specifically mentions radiant energy from the Sun, not thermal energy from the Earth's core."
       ]
     },
     {
       "id": 5,
-      "question": "According to the article, which of the following is listed as a form of energy stored by an object due to its position in a field?",
+      "question": "What is kinetic energy determined by?",
       "options": [
-        "potential energy",
-        "kinetic energy",
-        "radiant energy",
-        "rest energy"
+        "the movement of an object or its components",
+        "the position of an object in a field",
+        "the chemical bonds of a substance",
+        "the rest mass of an object"
       ],
       "answer_explanations": [
-        "Correct. The article lists potential energy as energy stored by an object, for instance due to its position in a field.",
-        "Incorrect. Kinetic energy is energy of a moving object, not stored due to position.",
-        "Incorrect. Radiant energy is carried by electromagnetic radiation, not stored due to position in a field.",
-        "Incorrect. Rest energy is associated with an object's rest mass, not its position in a field."
+        "Correct. The article states: 'Kinetic energy is determined by the movement of an object â or the composite motion of the object's components.'",
+        "Incorrect. The position of an object in a field is related to potential energy, not kinetic energy.",
+        "Incorrect. Chemical bonds are related to chemical potential energy, not kinetic energy.",
+        "Incorrect. Rest mass is related to rest energy, not kinetic energy."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what did Thomas Young possibly do in 1807?",
+      "question": "Which type of energy is described as 'potential energy due to the deformation of a material'?",
       "options": [
-        "use the term 'energy' instead of vis viva in its modern sense",
-        "coin the term 'potential energy'",
-        "describe kinetic energy in its modern sense",
-        "postulate the law of conservation of energy"
+        "elastic energy",
+        "nuclear energy",
+        "thermal energy",
+        "radiant energy"
       ],
       "answer_explanations": [
-        "Correct. The article states Thomas Young was possibly the first to use the term 'energy' instead of vis viva in its modern sense in 1807.",
-        "Incorrect. William Rankine coined the term 'potential energy' in 1853, not Thomas Young.",
-        "Incorrect. Gustave-Gaspard Coriolis described kinetic energy in 1829, not Thomas Young.",
-        "Incorrect. The law of conservation of energy was first postulated in the early 19th century, but not specifically attributed to Thomas Young in 1807."
+        "Correct. The table in the article describes elastic energy as 'potential energy due to the deformation of a material (or its container) exhibiting a restorative force as it returns to its original shape'.",
+        "Incorrect. Nuclear energy is described as 'potential energy that binds nucleons to form the atomic nucleus'.",
+        "Incorrect. Thermal energy is described as 'kinetic energy of the microscopic motion of particles'.",
+        "Incorrect. Radiant energy is described as 'potential energy stored in the fields of waves propagated by electromagnetic radiation'."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what drives the Earth's climate and ecosystems processes primarily?",
+      "question": "Who was possibly the first to use the term 'energy' in its modern sense, in 1807?",
       "options": [
-        "radiant energy from the Sun",
-        "geothermal energy from the Earth's core",
-        "chemical energy from fossil fuels",
-        "nuclear energy from atomic reactions"
+        "Thomas Young",
+        "Aristotle",
+        "Gottfried Leibniz",
+        "James Prescott Joule"
       ],
       "answer_explanations": [
-        "Correct. The article states the Earth's climate and ecosystems processes are driven primarily by radiant energy from the Sun.",
-        "Incorrect. The article does not mention geothermal energy as the primary driver.",
-        "Incorrect. The article does not mention chemical energy from fossil fuels as the primary driver.",
-        "Incorrect. The article does not mention nuclear energy as the primary driver."
+        "Correct. The article states: 'In 1807, Thomas Young was possibly the first to use the term \"energy\" instead of vis viva, in its modern sense.'",
+        "Incorrect. Aristotle used the word 'energeia' in the 4th century BC, but as a qualitative philosophical concept, not in the modern sense.",
+        "Incorrect. Gottfried Leibniz proposed the idea of 'vis viva' in the late 17th century, not the modern term 'energy'.",
+        "Incorrect. James Prescott Joule discovered the link between mechanical work and heat in 1845, later than Thomas Young."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what is the SI unit of measurement for energy?",
+      "question": "What did Albert Einstein's 1905 theory of special relativity show about rest mass?",
       "options": [
-        "joule",
-        "watt",
-        "erg",
-        "foot-pound"
+        "It corresponds to an equivalent amount of rest energy.",
+        "It can never be converted to other forms of energy.",
+        "It is always conserved in all reactions.",
+        "It is the same as total mass."
       ],
       "answer_explanations": [
-        "Correct. The article states the unit of measurement for energy in the SI is the joule (J).",
-        "Incorrect. The watt is the SI unit of power, not energy.",
-        "Incorrect. The erg is the CGS energy unit, not the SI unit.",
-        "Incorrect. The foot-pound is the imperial and US customary unit, not the SI unit."
+        "Correct. The article states: 'Albert Einstein's 1905 theory of special relativity showed that rest mass corresponds to an equivalent amount of rest energy.'",
+        "Incorrect. The article says rest mass can be converted to or from equivalent amounts of other forms of energy.",
+        "Incorrect. The article says 'rest mass is not conserved' when it is converted to other forms of energy.",
+        "Incorrect. The article distinguishes rest mass from total mass, noting that all forms of energy contribute to total mass."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, how does mechanical energy relate to kinetic and potential energy?",
+      "question": "What is the SI unit of power, defined as energy per unit of time?",
       "options": [
-        "it is the sum of translational and rotational kinetic and potential energies within a system",
-        "it is solely potential energy due to position in a field",
-        "it is solely kinetic energy of a moving object",
-        "it is energy carried by electromagnetic radiation"
+        "watt",
+        "joule",
+        "newton",
+        "erg"
       ],
       "answer_explanations": [
-        "Correct. The article states mechanical energy refers to the sum of translational and rotational kinetic and potential energy within a system.",
-        "Incorrect. Mechanical energy includes both kinetic and potential components, not solely potential energy.",
-        "Incorrect. Mechanical energy includes both kinetic and potential components, not solely kinetic energy.",
-        "Incorrect. Energy carried by electromagnetic radiation is radiant energy, not mechanical energy."
+        "Correct. The article states: 'The SI unit of power, defined as energy per unit of time, is the watt, which is one joule per second.'",
+        "Incorrect. The joule is the SI unit of energy, not power.",
+        "Incorrect. The newton is the SI unit of force, not power.",
+        "Incorrect. The erg is the CGS energy unit, not the SI unit of power."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what did Noether's theorem establish about the conservation of energy?",
+      "question": "According to the article, what is a kilowatt-hour (kWh) equal to?",
       "options": [
-        "it is a consequence of the laws of physics not changing over time",
-        "it applies only to isolated systems in classical mechanics",
-        "it was first postulated by William Thomson in the 19th century",
-        "it does not hold at any level in quantum mechanics"
+        "3.6 million joules",
+        "1,000 joules",
+        "3,600 joules",
+        "1 million joules"
       ],
       "answer_explanations": [
-        "Correct. The article states that according to Noether's theorem, the conservation of energy is a consequence of the fact that the laws of physics do not change over time.",
-        "Incorrect. The article does not say Noether's theorem limits conservation of energy to isolated systems in classical mechanics.",
-        "Incorrect. The article attributes formalization of thermodynamics to William Thomson, not the postulation of conservation of energy via Noether's theorem.",
-        "Incorrect. The article says conservation of energy does not hold at the local level during wave function collapse but holds statistically on average, and holds in the many-worlds interpretation."
+        "Correct. The article states: 'a kilowatt-hour (kWh), which can be realized as the energy delivered by one kilowatt of power for an hour, is equal to 3.6 million joules.'",
+        "Incorrect. 1,000 joules is not the correct value for a kilowatt-hour.",
+        "Incorrect. 3,600 joules is not the correct value for a kilowatt-hour.",
+        "Incorrect. 1 million joules is not the correct value for a kilowatt-hour."
       ]
     }
   ]

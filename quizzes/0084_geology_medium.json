@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following best describes what geology is concerned with, according to the article?",
+      "question": "What is the main focus of geology?",
       "options": [
-        "The Earth and other astronomical bodies, the rocks they are composed of, and the processes by which they change over time",
-        "Only the chemical composition of minerals found on Earth",
-        "The study of weather patterns and atmospheric conditions exclusively",
-        "The biological classification of fossils and ancient life forms"
+        "The Earth and other astronomical bodies, their rocks, and how they change over time",
+        "Only the study of the Earth's atmosphere",
+        "The study of the oceans and their currents",
+        "The study of living organisms and their evolution"
       ],
       "answer_explanations": [
-        "Correct. The article states that geology is concerned with the Earth and other astronomical bodies, the rocks of which they are composed, and the processes by which they change over time.",
-        "Incorrect. Geology covers far more than just mineral chemistry; it includes rocks, astronomical bodies, and processes of change.",
-        "Incorrect. Weather and atmospheric conditions are not described as the focus of geology in the article.",
-        "Incorrect. While paleontology is mentioned as a tool, geology is not defined as the biological classification of fossils."
+        "Correct. The article states that geology is 'concerned with the Earth and other astronomical bodies, the rocks of which they are composed, and the processes by which they change over time.'",
+        "Incorrect. The article focuses on the Earth and other astronomical bodies, not just the atmosphere.",
+        "Incorrect. The article does not limit geology to the study of oceans; it includes the whole Earth and other bodies.",
+        "Incorrect. The article mentions the evolutionary history of life as one aspect, but the main focus is on the Earth and its rocks."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what does geochemistry determine about rocks?",
+      "question": "According to the article, what do geologists study to get insight into the history of rock formation?",
       "options": [
-        "Their absolute ages",
-        "Their relative ages",
-        "Their color and luster",
-        "Their magnetic properties"
+        "The mineralogical composition of rocks",
+        "The color of the sky",
+        "The behavior of ocean waves",
+        "The movement of tectonic plates only"
       ],
       "answer_explanations": [
-        "Correct. The article states that geochemistry determines the absolute ages of rocks.",
-        "Incorrect. The article states that geology determines relative ages, while geochemistry determines absolute ages.",
-        "Incorrect. Color and luster are mineral identification tests, not what geochemistry determines.",
-        "Incorrect. Magnetism is listed as a mineral test, not a function of geochemistry."
+        "Correct. The article says, 'Geologists study the mineralogical composition of rocks in order to get insight into their history of formation.'",
+        "Incorrect. The article does not mention studying the sky as a method for understanding rock history.",
+        "Incorrect. The article does not discuss ocean waves in this context.",
+        "Incorrect. While plate tectonics is a topic, the article specifically mentions mineralogical composition for rock history."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is listed in the article as a practical application of geology?",
+      "question": "What are the three major types of rock mentioned in the article?",
       "options": [
-        "Evaluating water resources",
-        "Designing computer software",
-        "Manufacturing pharmaceutical drugs",
-        "Studying deep-sea marine biology"
+        "Igneous, sedimentary, and metamorphic",
+        "Hard, soft, and brittle",
+        "Volcanic, oceanic, and continental",
+        "Old, young, and middle-aged"
       ],
       "answer_explanations": [
-        "Correct. The article lists evaluating water resources among the practical applications of geology.",
-        "Incorrect. Designing computer software is not mentioned as a practical application of geology.",
-        "Incorrect. Manufacturing pharmaceutical drugs is not mentioned in the article.",
-        "Incorrect. Deep-sea marine biology is not listed as a practical application of geology."
+        "Correct. The article states, 'There are three major types of rock: igneous, sedimentary, and metamorphic.'",
+        "Incorrect. These are not the types of rock listed in the article.",
+        "Incorrect. These are not the categories of rock types described in the article.",
+        "Incorrect. The article does not classify rocks by age in this way."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article state about amorphous substances that resemble minerals?",
+      "question": "What is the 'streak' test for minerals?",
       "options": [
-        "They are sometimes referred to as mineraloids",
-        "They are always classified as true minerals",
-        "They cannot be studied by geologists",
-        "They are exclusively of extraterrestrial origin"
+        "Scratching the sample on a porcelain plate to see the color of the streak",
+        "Dripping hydrochloric acid on the mineral to test for fizzing",
+        "Using a magnet to test for magnetism",
+        "Tasting the mineral to see if it is salty"
       ],
       "answer_explanations": [
-        "Correct. The article states that amorphous substances that resemble a mineral are sometimes referred to as mineraloids.",
-        "Incorrect. The article notes exceptions and does not say they are always classified as true minerals.",
-        "Incorrect. Geologists study a wide variety of materials, and there is no exclusion of amorphous substances.",
-        "Incorrect. The article does not state that amorphous substances are exclusively extraterrestrial."
+        "Correct. The article says, 'Streak: Performed by scratching the sample on a porcelain plate. The color of the streak can help identify the mineral.'",
+        "Incorrect. This describes the effervescence test, not the streak test.",
+        "Incorrect. This describes the magnetism test, not the streak test.",
+        "Incorrect. This describes the taste test, not the streak test."
       ]
     },
     {
       "id": 5,
-      "question": "Which property of a mineral is tested by scratching the sample on a porcelain plate?",
+      "question": "What is the rock cycle?",
       "options": [
-        "Streak",
-        "Hardness",
-        "Luster",
-        "Specific gravity"
+        "The process that illustrates the relationships among igneous, sedimentary, and metamorphic rocks",
+        "The movement of tectonic plates",
+        "The formation of mountains",
+        "The study of fossils"
       ],
       "answer_explanations": [
-        "Correct. The article states that streak is performed by scratching the sample on a porcelain plate.",
-        "Incorrect. Hardness is described as resistance to scratching or indentation, not the porcelain plate test.",
-        "Incorrect. Luster refers to the quality of light reflected from the surface.",
-        "Incorrect. Specific gravity is the weight of a specific volume of a mineral."
+        "Correct. The article states, 'The rock cycle illustrates the relationships among them (see diagram).'",
+        "Incorrect. Plate tectonics is a separate concept from the rock cycle.",
+        "Incorrect. Mountain formation is not the definition of the rock cycle.",
+        "Incorrect. The study of fossils is paleontology, not the rock cycle."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, how are sedimentary rocks formed?",
+      "question": "What is the theory of plate tectonics based on?",
       "options": [
-        "Rocks are weathered and eroded, then redeposited and lithified into sedimentary rock",
-        "Magma or lava solidifies or crystallizes",
-        "Heat and pressure change the mineral content of existing rocks",
-        "Minerals precipitate directly from seawater without any prior rock material"
+        "The movement of the lithosphere over the convecting mantle",
+        "The idea that the Earth is flat",
+        "The belief that continents have never moved",
+        "The study of ocean currents"
       ],
       "answer_explanations": [
-        "Correct. The article states that rocks can be weathered and eroded, then redeposited and lithified into a sedimentary rock.",
-        "Incorrect. Solidification or crystallization from magma or lava forms igneous rock.",
-        "Incorrect. Heat and pressure changing mineral content forms metamorphic rock.",
-        "Incorrect. The article does not describe sedimentary rocks forming directly from seawater without prior rock material."
+        "Correct. The article says, 'The power of the theory of plate tectonics lies in its ability to combine all of these observations into a single theory of how the lithosphere moves over the convecting mantle.'",
+        "Incorrect. The article describes a spherical Earth with moving plates, not a flat one.",
+        "Incorrect. The article discusses continental drift, which means continents have moved.",
+        "Incorrect. Ocean currents are not the basis of plate tectonics."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is one of the four main categories of sedimentary rocks mentioned in the article?",
+      "question": "What did early advances in seismology show about the Earth's core?",
       "options": [
-        "Carbonate",
-        "Granite",
-        "Basalt",
-        "Gneiss"
+        "There is a liquid outer core and a dense solid inner core",
+        "The core is made entirely of ice",
+        "The core is hollow",
+        "The core is made of gas"
       ],
       "answer_explanations": [
-        "Correct. The article lists carbonate as one of the four main categories of sedimentary rocks.",
-        "Incorrect. Granite is an igneous rock, not a sedimentary category listed in the article.",
-        "Incorrect. Basalt is an igneous rock, not a sedimentary category listed in the article.",
-        "Incorrect. Gneiss is a metamorphic rock, not a sedimentary category listed in the article."
+        "Correct. The article states, 'Early advances in this field showed the existence of a liquid outer core (where shear waves were not able to propagate) and a dense solid inner core.'",
+        "Incorrect. The article does not say the core is made of ice.",
+        "Incorrect. The article describes a solid inner core, not a hollow one.",
+        "Incorrect. The article describes a liquid and solid core, not a gaseous one."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about the relationship between plate movement and mantle convection?",
+      "question": "What is the geological time scale bracketed by at its earliest point?",
       "options": [
-        "Oceanic parts of plates and adjoining mantle convection currents always move in the same direction",
-        "Plates move independently of mantle convection with no coupling",
-        "Mantle convection only occurs beneath continental plates, not oceanic ones",
-        "Plate movement causes mantle convection to reverse direction"
+        "The dates of the first Solar System material at 4.567 Ga",
+        "The extinction of the dinosaurs",
+        "The rise of mammals",
+        "The beginning of the Holocene epoch"
       ],
       "answer_explanations": [
-        "Correct. The article states that oceanic parts of plates and adjoining mantle convection currents always move in the same direction.",
-        "Incorrect. The article describes an intimate coupling between plate movement and mantle convection.",
-        "Incorrect. The article does not limit mantle convection to continental plates.",
-        "Incorrect. The article does not state that plate movement reverses mantle convection."
+        "Correct. The article says, 'It is bracketed at the earliest by the dates of the first Solar System material at 4.567 Ga.'",
+        "Incorrect. The extinction of the dinosaurs is not the earliest point on the geological time scale.",
+        "Incorrect. The rise of mammals is not the earliest point.",
+        "Incorrect. The Holocene epoch is at the later end of the scale, not the earliest."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what did early seismological advances reveal about Earth's core?",
+      "question": "What happened around 250 million years ago according to the article?",
       "options": [
-        "A liquid outer core and a dense solid inner core",
-        "A completely solid core throughout",
-        "A completely liquid core throughout",
-        "No core at all, only a uniform mantle"
+        "The Permian-Triassic extinction, where 90% of all land animals died",
+        "The formation of the Earth",
+        "The start of photosynthesis",
+        "The Cambrian explosion"
       ],
       "answer_explanations": [
-        "Correct. The article states that early advances showed a liquid outer core and a dense solid inner core.",
-        "Incorrect. The article describes the outer core as liquid and the inner core as solid, not completely solid.",
-        "Incorrect. The article describes the outer core as liquid and the inner core as solid, not completely liquid.",
-        "Incorrect. The article clearly describes both an outer core and an inner core."
+        "Correct. The article states, '250 Ma: Permian-Triassic extinction â 90% of all land animals die.'",
+        "Incorrect. The formation of the Earth occurred at 4.54 Ga, not 250 Ma.",
+        "Incorrect. Photosynthesis started around 3.5 Ga, not 250 Ma.",
+        "Incorrect. The Cambrian explosion occurred at 541 Ma, not 250 Ma."
       ]
     },
     {
       "id": 10,
-      "question": "Based on the article's geological time scale, which event marks the beginning of the Hadean eon?",
+      "question": "What is the name of the supercontinent that existed from 300 to 180 million years ago?",
       "options": [
-        "The formation of the Earth at 4.54 Ga",
-        "The Cambrian explosion at 541 Ma",
-        "The formation of Pangaea at 300â180 Ma",
-        "The first vertebrate land animals at c. 380 Ma"
+        "Pangaea",
+        "Rodinia",
+        "Pannotia",
+        "Columbia"
       ],
       "answer_explanations": [
-        "Correct. The article states that the formation of the Earth at 4.54 Ga is the beginning of the Hadean eon.",
-        "Incorrect. The Cambrian explosion occurred much later, at 541 Ma.",
-        "Incorrect. Pangaea existed from 300â180 Ma, far after the Hadean eon began.",
-        "Incorrect. First vertebrate land animals appeared at c. 380 Ma, much later than the Hadean eon."
+        "Correct. The article says, '300â180 Ma: Pangaea supercontinent.'",
+        "Incorrect. Rodinia existed from 1,100 to 750 Ma, not 300-180 Ma.",
+        "Incorrect. Pannotia existed from 650 to 540 Ma, not 300-180 Ma.",
+        "Incorrect. Columbia existed from 1.8 to 1.5 Ga, not 300-180 Ma."
       ]
     }
   ]

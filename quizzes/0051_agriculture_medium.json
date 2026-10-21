@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What major development allowed humans to live in cities?",
+      "question": "What is agriculture?",
       "options": [
-        "The creation of food surpluses through farming",
-        "The invention of the plow",
-        "The domestication of large mammals",
-        "The development of irrigation systems"
+        "The practice of cultivating the soil, planting, raising, and harvesting crops and livestock",
+        "The practice of hunting and gathering wild plants and animals",
+        "The practice of building cities and roads",
+        "The practice of fishing in oceans and rivers"
       ],
       "answer_explanations": [
-        "Correct. Food surpluses from farming enabled people to live in cities.",
-        "Incorrect. While the plow improved farming, it was the surpluses that allowed urban living.",
-        "Incorrect. Domestication helped but surpluses were key.",
-        "Incorrect. Irrigation helped production but surpluses were the decisive factor."
+        "Correct. The article states: 'Agriculture is the practice of cultivating the soil, planting, raising, and harvesting both food and non-food crops, as well as livestock production.'",
+        "Incorrect. Hunting and gathering is the opposite of agriculture, which involves cultivation and domestication.",
+        "Incorrect. Building cities and roads is not part of the definition of agriculture.",
+        "Incorrect. Fishing is not mentioned as part of the core definition of agriculture."
       ]
     },
     {
       "id": 2,
-      "question": "Which animal was domesticated in Mesopotamia between 13,000 and 11,000 years ago?",
+      "question": "According to the article, when did humans begin planting grains?",
       "options": [
-        "Sheep",
-        "Cattle",
-        "Pigs",
-        "Goats"
+        "Around 11,500 years ago",
+        "At least 105,000 years ago",
+        "Around 10,000 years ago",
+        "Around 5,000 years ago"
       ],
       "answer_explanations": [
-        "Correct. The text states sheep were domesticated in Mesopotamia in that timeframe.",
-        "Incorrect. Cattle domestication occurred later in Turkey and Pakistan.",
-        "Incorrect. Pig domestication occurred later in Eurasia.",
-        "Incorrect. Goats were also domesticated but the text specifically mentions sheep."
+        "Correct. The article says: 'nascent farmers only began planting them around 11,500 years ago.'",
+        "Incorrect. That is when humans started gathering grains, not planting them.",
+        "Incorrect. That is when sheep, goats, pigs, and cattle were domesticated, not when grains were first planted.",
+        "Incorrect. This date is not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what percentage of the world's food is produced by small farms?",
+      "question": "What percentage of the world's food is produced by small farms (one hectare or smaller) as of 2021?",
       "options": [
         "About one-third",
-        "About one-half",
+        "About half",
         "About two-thirds",
-        "About three-quarters"
+        "About one-quarter"
       ],
       "answer_explanations": [
-        "Correct. The article says small farms produce about one-third of the world's food.",
-        "Incorrect. The article does not state half; it specifies one-third.",
-        "Incorrect. The article does not support two-thirds.",
-        "Incorrect. The article does not support three-quarters."
+        "Correct. The article states: 'small farms, of which the vast majority are one hectare (about 2.5 acres) or smaller, produce about one-third of the world's food.'",
+        "Incorrect. The article does not say half.",
+        "Incorrect. The article does not say two-thirds.",
+        "Incorrect. The article does not say one-quarter."
       ]
     },
     {
       "id": 4,
-      "question": "Which region is noted for independently domesticating rice?",
+      "question": "Which of the following is NOT listed as a major agricultural product group?",
       "options": [
-        "Southern China (Pearl River area)",
-        "Northern India",
-        "The Fertile Crescent",
-        "The Andes"
+        "Plastics",
+        "Foods",
+        "Fibers",
+        "Fuels"
       ],
       "answer_explanations": [
-        "Correct. The article mentions rice domestication in southern China on the Pearl River.",
-        "Incorrect. Rice domestication is not noted for northern India in the text.",
-        "Incorrect. The Fertile Crescent is associated with wheat and barley, not rice.",
-        "Incorrect. The Andes domesticated potatoes, not rice."
+        "Correct. The article lists foods, fibers, fuels, and raw materials as major product groups, but plastics are not mentioned.",
+        "Incorrect. Foods are listed as a major agricultural product group.",
+        "Incorrect. Fibers are listed as a major agricultural product group.",
+        "Incorrect. Fuels are listed as a major agricultural product group."
       ]
     },
     {
       "id": 5,
-      "question": "What is the primary environmental impact of industrial agriculture mentioned in the article?",
+      "question": "What is the origin of the word 'agriculture'?",
       "options": [
-        "Ecological and environmental damage",
-        "Increased food prices",
-        "Reduced rural employment",
-        "Higher urban migration"
+        "It is a late Middle English adaptation of Latin agricultÅ«ra",
+        "It is an ancient Greek word meaning 'farming'",
+        "It is a Chinese word meaning 'field work'",
+        "It is a Sanskrit word meaning 'earth cultivation'"
       ],
       "answer_explanations": [
-        "Correct. The article states industrial agriculture contributed to ecological and environmental damage.",
-        "Incorrect. The article does not mention food price effects.",
-        "Incorrect. The article does not focus on employment changes.",
-        "Incorrect. The article does not discuss urban migration."
+        "Correct. The article states: 'The word agriculture is a late Middle English adaptation of Latin agricultÅ«ra, from ager \"field\" and cultÅ«ra \"cultivation\" or \"growing\".'",
+        "Incorrect. The article does not mention Greek origins.",
+        "Incorrect. The article does not mention Chinese origins.",
+        "Incorrect. The article does not mention Sanskrit origins."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following is listed as a major agricultural product group?",
+      "question": "Which animal was domesticated in the Eurasian Steppes around 3500 BC?",
       "options": [
-        "Foods",
-        "Metals",
-        "Electronics",
-        "Minerals"
+        "The horse",
+        "The sheep",
+        "The pig",
+        "The cow"
       ],
       "answer_explanations": [
-        "Correct. The article lists foods as a major agricultural product group.",
-        "Incorrect. Metals are not listed.",
-        "Incorrect. Electronics are not listed.",
-        "Incorrect. Minerals are not listed."
+        "Correct. The article states: 'The horse was domesticated in the Eurasian Steppes around 3500 BC.'",
+        "Incorrect. Sheep were domesticated in Mesopotamia, not the Eurasian Steppes.",
+        "Incorrect. Pigs were domesticated in Eurasia, but not specifically in the Steppes at that date.",
+        "Incorrect. Cattle were domesticated in modern Turkey and Pakistan, not the Steppes."
       ]
     },
     {
       "id": 7,
-      "question": "What term describes the practice of cultivating useful plants?",
+      "question": "In ancient Egypt, farming relied on which river's seasonal flooding?",
       "options": [
-        "Plant agriculture",
-        "Animal husbandry",
-        "Horticulture",
-        "Forestry"
+        "The Nile River",
+        "The Tigris River",
+        "The Euphrates River",
+        "The Indus River"
       ],
       "answer_explanations": [
-        "Correct. The article defines plant agriculture as cultivation of useful plants.",
-        "Incorrect. Animal husbandry concerns animals.",
-        "Incorrect. Horticulture is a subset but not the term used for all plants.",
-        "Incorrect. Forestry is about trees."
+        "Correct. The article states: 'Ancient Egyptian agriculture relied on the Nile River and its seasonal flooding.'",
+        "Incorrect. The Tigris and Euphrates were used by the Sumerians, not the Egyptians.",
+        "Incorrect. The Euphrates was used by the Sumerians, not the Egyptians.",
+        "Incorrect. The Indus River is associated with the Indus Valley civilization, not Egypt."
       ]
     },
     {
       "id": 8,
-      "question": "Which ancient civilization used chinampas for agriculture?",
+      "question": "What was the 'Three Sisters' system of companion planting in North America?",
       "options": [
-        "The Aztecs",
-        "The Egyptians",
-        "The Greeks",
-        "The Romans"
+        "Winter squash, maize, and climbing beans",
+        "Wheat, barley, and oats",
+        "Rice, soy, and azuki beans",
+        "Potatoes, tomatoes, and tobacco"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the Aztecs developed chinampas.",
-        "Incorrect. The Egyptians used the Nile's flooding.",
-        "Incorrect. The Greeks used wheat and olives.",
-        "Incorrect. The Romans also used wheat and olives."
+        "Correct. The article states: 'The three crops were winter squash, maize, and climbing beans.'",
+        "Incorrect. These are cereals grown in the Old World, not the Three Sisters.",
+        "Incorrect. These are Asian crops, not the Three Sisters.",
+        "Incorrect. These are crops from the Andes, not the Three Sisters."
       ]
     },
     {
       "id": 9,
-      "question": "What percentage of the world's food is lost before reaching the retail level?",
+      "question": "What is one environmental issue mentioned in the article that is caused by modern agriculture?",
       "options": [
-        "Around 14%",
-        "Around 25%",
-        "Around 35%",
-        "Around 45%"
+        "Contributions to climate change",
+        "Increased biodiversity",
+        "Improved soil health",
+        "Reduced deforestation"
       ],
       "answer_explanations": [
-        "Correct. The article states about 14% of the world's food is lost before retail.",
-        "Incorrect. The article does not mention 25%.",
-        "Incorrect. The article does not mention 35%.",
-        "Incorrect. The article does not mention 45%."
+        "Correct. The article lists 'contributions to climate change' as one of the environmental issues caused by agriculture.",
+        "Incorrect. The article says agriculture causes biodiversity loss, not increased biodiversity.",
+        "Incorrect. The article mentions soil degradation, not improved soil health.",
+        "Incorrect. The article mentions deforestation as an issue, not reduced deforestation."
       ]
     },
     {
       "id": 10,
-      "question": "Which species besides humans are mentioned as having cultivated crops?",
+      "question": "According to the article, which civilization developed chinampas, or artificial islands, for farming?",
       "options": [
-        "Ants",
-        "Elephants",
-        "Giraffes",
-        "Kangaroos"
+        "The Aztecs",
+        "The Mayas",
+        "The Sumerians",
+        "The Egyptians"
       ],
       "answer_explanations": [
-        "Correct. The article notes some ants have been cultivating crops for up to 60 million years.",
-        "Incorrect. Elephants are not mentioned.",
-        "Incorrect. Giraffes are not mentioned.",
-        "Incorrect. Kangaroos are not mentioned."
+        "Correct. The article states: 'The Aztecs developed irrigation systems, formed terraced hillsides, fertilized their soil, and developed chinampas or artificial islands.'",
+        "Incorrect. The Mayas used canal and raised field systems, but chinampas are attributed to the Aztecs.",
+        "Incorrect. The Sumerians used canal irrigation but not chinampas.",
+        "Incorrect. The Egyptians relied on the Nile flooding, not chinampas."
       ]
     }
   ]

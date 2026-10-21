@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which ancient Greek mathematician is considered the 'father of geometry'?",
+      "question": "What is Euclid chiefly known for?",
       "options": [
-        "Euclid",
-        "Archimedes",
-        "Apollonius of Perga",
-        "Thales"
+        "His treatise called the Elements",
+        "His work on optics",
+        "His study of conic sections",
+        "His role as a logician"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euclid is considered the \"father of geometry\".",
-        "Incorrect. Archimedes is a great mathematician but not called the father of geometry.",
-        "Incorrect. Apollonius of Perga is also a great mathematician but not the father of geometry.",
-        "Incorrect. Thales contributed to geometry but Euclid is specifically called the father."
+        "Correct. The article states that he is chiefly known for the *Elements* treatise, which established the foundations of geometry.",
+        "Incorrect. While Euclid wrote a work on optics, the article says he is chiefly known for the *Elements*.",
+        "Incorrect. Euclid wrote works on conic sections, but the article says his chief fame comes from the *Elements*.",
+        "Incorrect. Euclid was a logician, but the article says he is chiefly known for the *Elements* treatise."
       ]
     },
     {
       "id": 2,
-      "question": "What is the name of Euclid's most famous treatise that established the foundations of geometry?",
+      "question": "According to the article, where did Euclid likely spend his career?",
       "options": [
-        "Elements",
-        "Optics",
-        "Data",
-        "Phaenomena"
+        "Alexandria",
+        "Athens",
+        "Damascus",
+        "Gela, Sicily"
       ],
       "answer_explanations": [
-        "Correct. The article describes the *Elements* as Euclid's treatise that established geometry foundations.",
-        "Incorrect. *Optics* is another work but not the primary geometry treatise.",
-        "Incorrect. *Data* is a lesser-known work.",
-        "Incorrect. *Phaenomena* is also a separate work."
+        "Correct. The article says it is now generally accepted that he spent his career in Alexandria.",
+        "Incorrect. Athens is mentioned as where the Platonic Academy was, but the article says Euclid likely spent his career in Alexandria.",
+        "Incorrect. Damascus is mentioned in a fanciful biography from medieval Arabic sources, not as his likely career location.",
+        "Incorrect. Gela, Sicily, appears as a birthplace confusion with Euclid of Megara, not as where Euclid worked."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following works is NOT listed as one of Euclid's extant treatises?",
+      "question": "Who is Euclid sometimes confused with?",
       "options": [
-        "Elements",
-        "Optics",
-        "Data",
-        "Catoptrics"
+        "Euclid of Megara",
+        "Eudoxus of Cnidus",
+        "Archimedes",
+        "Apollonius of Perga"
       ],
       "answer_explanations": [
-        "Correct. The article says Euclid's authorship of *Catoptrics* has been questioned, and it is not among the four mostly extant treatises.",
-        "Incorrect. *Elements* is definitely extant.",
-        "Incorrect. *Optics* is listed as extant.",
-        "Incorrect. *Data* is listed as extant."
+        "Correct. The article says Euclid is often referred to as 'Euclid of Alexandria' to differentiate him from the earlier philosopher Euclid of Megara, with whom he was historically conflated.",
+        "Incorrect. Eudoxus was an earlier mathematician whose theories Euclid synthesized, but the confusion mentioned is with Euclid of Megara.",
+        "Incorrect. Archimedes is a later mathematician, not the one Euclid is confused with.",
+        "Incorrect. Apollonius is a later mathematician, not the one Euclid is confused with."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, where did Euclid most likely spend his career?",
+      "question": "What did Euclid reply when Ptolemy asked if there was a quicker path to learning geometry?",
       "options": [
-        "Alexandria",
-        "Athens",
-        "Syracuse",
-        "Perga"
+        "There is no royal road to geometry",
+        "Geometry is the queen of sciences",
+        "Let no one ignorant of geometry enter",
+        "I have nothing to declare"
       ],
       "answer_explanations": [
-        "Correct. The article says it is generally accepted that he spent his career in Alexandria.",
-        "Incorrect. While he may have studied in Athens, his career is placed in Alexandria.",
-        "Incorrect. Syracuse is associated with Archimedes, not Euclid.",
-        "Incorrect. Apollonius was from Perga, not Euclid."
+        "Correct. The article recounts Proclus' story that Euclid replied 'there is no royal road to geometry'.",
+        "Incorrect. This is a famous saying about mathematics but is not the reply Euclid gave in the article's anecdote.",
+        "Incorrect. This phrase is associated with Plato's Academy, not with Euclid's reply to Ptolemy.",
+        "Incorrect. This is not mentioned in the article; Euclid's reply was 'there is no royal road to geometry'."
       ]
     },
     {
       "id": 5,
-      "question": "Which earlier Greek mathematicians are mentioned as influences on Euclid's work?",
+      "question": "How many books does the Elements contain?",
       "options": [
-        "Eudoxus, Hippocrates of Chios, Thales, and Theaetetus",
-        "Aristotle, Plato, Socrates, and Pythagoras",
-        "Archimedes, Apollonius, and Ptolemy",
-        "Eratosthenes, Aristarchus, and Hypatia"
+        "Thirteen",
+        "Ten",
+        "Five",
+        "Twenty"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly lists these four mathematicians as earlier influences.",
-        "Incorrect. While Plato and Aristotle are mentioned, they are not listed as direct influences on Euclid's geometry.",
-        "Incorrect. Archimedes and Apollonius are later contemporaries.",
-        "Incorrect. These figures are not mentioned as influences."
+        "Correct. The article states that Euclid is best known for his thirteen-book treatise, the *Elements*.",
+        "Incorrect. Ten is the number of assumptions (five postulates and five common notions) in Book 1, not the number of books in the *Elements*.",
+        "Incorrect. Five is the number of postulates in Book 1, not the total number of books.",
+        "Incorrect. The article explicitly says the *Elements* is a thirteen-book treatise."
       ]
     },
     {
       "id": 6,
-      "question": "What does the article say about the authenticity of medieval Arabic sources concerning Euclid?",
+      "question": "According to the article, what are the three main topics of the Elements?",
       "options": [
-        "They are considered completely unverifiable and of dubious authenticity.",
-        "They are considered reliable historical records.",
-        "They are considered to be the primary source for Euclid's biography.",
-        "They are considered to be later forgeries with no historical value."
+        "Plane geometry, basic number theory, and solid geometry",
+        "Algebra, trigonometry, and calculus",
+        "Optics, perspective, and conic sections",
+        "Definitions, postulates, and common notions"
       ],
       "answer_explanations": [
-        "Correct. The article states that medieval Arabic sources give vast information but are completely unverifiable and most scholars consider them of dubious authenticity.",
-        "Incorrect. The article says they are unverifiable, not reliable.",
-        "Incorrect. The article does not claim they are primary sources.",
-        "Incorrect. While they are dubious, the article does not label them as forgeries with no value."
+        "Correct. The article says the *Elements* is traditionally divided into three topics: plane geometry (books 1â6), basic number theory (books 7â10), and solid geometry (books 11â13).",
+        "Incorrect. These are modern mathematical fields not mentioned as the topics of the *Elements*.",
+        "Incorrect. These are subjects Euclid wrote about separately, but they are not the three main topics of the *Elements*.",
+        "Incorrect. These are types of statements within the *Elements*, not the three main topics."
       ]
     },
     {
       "id": 7,
-      "question": "Which anecdote about Euclid is mentioned as questionable in the article?",
+      "question": "What does the article say about the origin of much of the content in the Elements?",
       "options": [
-        "The story of Ptolemy asking Euclid if there is a quicker path to learning geometry",
-        "The story of Euclid teaching Alexander the Great",
-        "The story of Euclid discovering the Pythagorean theorem",
-        "The story of Euclid building the Great Library"
+        "Much of it originates from earlier mathematicians",
+        "It was entirely invented by Euclid",
+        "It was copied from Archimedes",
+        "It was written by medieval Islamic scholars"
       ],
       "answer_explanations": [
-        "Correct. The article mentions Proclus' story about Ptolemy asking Euclid about a quicker path to geometry as questionable.",
-        "Incorrect. There is no such anecdote in the article.",
-        "Incorrect. The Pythagorean theorem predates Euclid.",
-        "Incorrect. There is no such story about the Great Library."
+        "Correct. The article states that much of its content originates from earlier mathematicians, including Eudoxus, Hippocrates of Chios, Thales and Theaetetus.",
+        "Incorrect. The article says much of the content comes from earlier mathematicians, not that Euclid invented it all.",
+        "Incorrect. Archimedes came after Euclid and used the *Elements*, not the other way around.",
+        "Incorrect. Medieval Islamic scholars wrote a fanciful biography of Euclid, but they did not write the *Elements*."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about Euclid's authorship of *On Divisions of Figures* and *Catoptrics*?",
+      "question": "Which of the following is listed as one of Euclid's postulates in the article?",
       "options": [
-        "His authorship has been questioned.",
-        "He definitely wrote both works.",
-        "He wrote *On Divisions of Figures* but not *Catoptrics*.",
-        "He wrote *Catoptrics* but not *On Divisions of Figures*."
+        "That all right angles are equal to one another",
+        "That the whole is greater than the part",
+        "Things which are equal to the same thing are also equal to one another",
+        "If equals be added to equals, the wholes are equal"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly says Euclid's authorship of *On Divisions of Figures* and *Catoptrics* has been questioned.",
-        "Incorrect. The article does not state he definitely wrote them.",
-        "Incorrect. The article does not separate the two works.",
-        "Incorrect. Same as above."
+        "Correct. The article's table lists 'That all right angles are equal to one another' as postulate number 4.",
+        "Incorrect. This is listed as common notion number 5, not as a postulate.",
+        "Incorrect. This is listed as common notion number 1, not as a postulate.",
+        "Incorrect. This is listed as common notion number 2, not as a postulate."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following is NOT listed as one of Euclid's works?",
+      "question": "According to the article, what is the earliest original reference to Euclid?",
       "options": [
-        "Optics",
-        "Data",
-        "Phaenomena",
-        "Metaphysics"
+        "In Apollonius' prefatory letter to the Conics",
+        "In Proclus' Commentary on the First Book of Euclid's Elements",
+        "In Pappus' Collection",
+        "In a papyrus fragment from Oxyrhynchus"
       ],
       "answer_explanations": [
-        "Correct. *Metaphysics* is not listed as one of Euclid's works; it is a work by Aristotle.",
-        "Incorrect. *Optics* is listed as a Euclid work.",
-        "Incorrect. *Data* is listed.",
-        "Incorrect. *Phaenomena* is listed."
+        "Correct. The article says the earliest original reference to Euclid is in Apollonius' prefatory letter to the *Conics*.",
+        "Incorrect. Proclus wrote in the 5th century AD, much later than Apollonius' letter.",
+        "Incorrect. Pappus wrote in the early 4th century AD, also later than Apollonius' letter.",
+        "Incorrect. The papyrus fragments contain material from the *Elements* but are not a reference to Euclid by name."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what is the significance of Euclid's *Elements* in the history of mathematics?",
+      "question": "What does the article say about the authorship of On Divisions of Figures and Catoptrics?",
       "options": [
-        "It established the foundations of geometry that largely dominated the field until the early 19th century.",
-        "It introduced the concept of zero to Greek mathematics.",
-        "It was the first book to describe the laws of planetary motion.",
-        "It was primarily a philosophical treatise on ethics."
+        "It has been questioned",
+        "It is definitely Euclid's",
+        "It is definitely not Euclid's",
+        "It is unknown if they exist"
       ],
       "answer_explanations": [
-        "Correct. The article states that the *Elements* established foundations of geometry that dominated until the early 19th century.",
-        "Incorrect. The concept of zero is not discussed in relation to Euclid.",
-        "Incorrect. Planetary motion is not covered in the *Elements*.",
-        "Incorrect. The *Elements* is a mathematical work, not an ethical treatise."
+        "Correct. The article states that Euclid's authorship of *On Divisions of Figures* and *Catoptrics* has been questioned.",
+        "Incorrect. The article says authorship has been questioned, not that it is definitely his.",
+        "Incorrect. The article does not say authorship is definitely not his, only that it has been questioned.",
+        "Incorrect. The article mentions these works as existing but with questioned authorship."
       ]
     }
   ]

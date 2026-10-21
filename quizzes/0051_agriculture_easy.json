@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is agriculture defined as in the article?",
+      "question": "What is agriculture the practice of?",
       "options": [
-        "The practice of cultivating the soil, planting, raising, and harvesting both food and non-food crops, as well as livestock production",
-        "The practice of building cities and roads",
-        "The study of weather patterns and climate",
-        "The process of manufacturing industrial goods"
+        "Cultivating the soil, planting, raising, and harvesting crops and livestock",
+        "Building cities and roads",
+        "Fishing in the ocean",
+        "Mining for minerals"
       ],
       "answer_explanations": [
-        "Correct. The article states agriculture is the practice of cultivating the soil, planting, raising, and harvesting both food and non-food crops, as well as livestock production.",
-        "Incorrect. The article does not define agriculture as building cities and roads.",
-        "Incorrect. The article does not define agriculture as the study of weather patterns and climate.",
-        "Incorrect. The article does not define agriculture as manufacturing industrial goods."
+        "Correct. The article states that agriculture is 'the practice of cultivating the soil, planting, raising, and harvesting both food and non-food crops, as well as livestock production.'",
+        "Incorrect. The article does not mention building cities or roads as part of agriculture.",
+        "Incorrect. Fishing is not mentioned as part of the definition of agriculture in the article.",
+        "Incorrect. Mining is not mentioned as part of agriculture in the article."
       ]
     },
     {
       "id": 2,
-      "question": "Which animals were domesticated around 10,000 years ago according to the article?",
+      "question": "Which of the following is included in broader definitions of agriculture?",
       "options": [
-        "Sheep, goats, pigs, and cattle",
-        "Horses, chickens, and dogs",
-        "Camels, llamas, and elephants",
-        "Rabbits, ducks, and turkeys"
+        "Forestry and aquaculture",
+        "Mining and manufacturing",
+        "Construction and transportation",
+        "Banking and finance"
       ],
       "answer_explanations": [
-        "Correct. The article states that sheep, goats, pigs, and cattle were domesticated around 10,000 years ago.",
-        "Incorrect. The article does not list horses, chickens, and dogs as domesticated around 10,000 years ago.",
-        "Incorrect. The article does not list camels, llamas, and elephants as domesticated around 10,000 years ago.",
-        "Incorrect. The article does not list rabbits, ducks, and turkeys as domesticated around 10,000 years ago."
+        "Correct. The article says 'Broader definitions also include forestry and aquaculture.'",
+        "Incorrect. Mining and manufacturing are not mentioned as part of broader definitions of agriculture.",
+        "Incorrect. Construction and transportation are not mentioned in the article.",
+        "Incorrect. Banking and finance are not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "What proportion of the world's food do small farms produce as of 2021?",
+      "question": "What was a key factor in the rise of sedentary human civilization?",
       "options": [
-        "About one-third",
-        "About one-half",
-        "About two-thirds",
-        "About one-quarter"
+        "Agriculture",
+        "Industrialization",
+        "Globalization",
+        "Urbanization"
       ],
       "answer_explanations": [
-        "Correct. The article states small farms produce about one-third of the world's food as of 2021.",
-        "Incorrect. The article does not state small farms produce about one-half of the world's food.",
-        "Incorrect. The article does not state small farms produce about two-thirds of the world's food.",
-        "Incorrect. The article does not state small farms produce about one-quarter of the world's food."
+        "Correct. The article states 'Agriculture was a key factor in the rise of sedentary human civilization.'",
+        "Incorrect. Industrialization is not mentioned as a key factor in the rise of sedentary human civilization.",
+        "Incorrect. Globalization is not mentioned in this context.",
+        "Incorrect. Urbanization is a result, not the key factor mentioned."
       ]
     },
     {
       "id": 4,
+      "question": "How long ago did nascent farmers begin planting grains?",
+      "options": [
+        "Around 11,500 years ago",
+        "Around 105,000 years ago",
+        "Around 10,000 years ago",
+        "Around 20,000 years ago"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'nascent farmers only began planting them around 11,500 years ago.'",
+        "Incorrect. 105,000 years ago is when humans started gathering grains, not planting them.",
+        "Incorrect. 10,000 years ago is when sheep, goats, pigs, and cattle were domesticated, not when planting began.",
+        "Incorrect. 20,000 years ago is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which animals were domesticated around 10,000 years ago?",
+      "options": [
+        "Sheep, goats, pigs, and cattle",
+        "Horses, donkeys, and camels",
+        "Chickens, ducks, and geese",
+        "Dogs, cats, and rabbits"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'Sheep, goats, pigs, and cattle were domesticated around 10,000 years ago.'",
+        "Incorrect. Horses, donkeys, and camels are not mentioned in the article.",
+        "Incorrect. Chickens, ducks, and geese are not mentioned in the article.",
+        "Incorrect. Dogs, cats, and rabbits are not mentioned in the article."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "In how many regions of the world were plants independently cultivated?",
+      "options": [
+        "At least 11",
+        "At least 5",
+        "At least 20",
+        "At least 50"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'Plants were independently cultivated in at least 11 regions of the world.'",
+        "Incorrect. The article does not say 5 regions.",
+        "Incorrect. The article does not say 20 regions.",
+        "Incorrect. The article does not say 50 regions."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What came to dominate agricultural output in the 20th century?",
+      "options": [
+        "Industrial agriculture based on large-scale monocultures",
+        "Small-scale organic farming",
+        "Subsistence farming",
+        "Urban gardening"
+      ],
+      "answer_explanations": [
+        "Correct. The article states 'In the 20th century, industrial agriculture based on large-scale monocultures came to dominate agricultural output.'",
+        "Incorrect. Small-scale organic farming is not mentioned as dominating in the 20th century.",
+        "Incorrect. Subsistence farming is not mentioned in this context.",
+        "Incorrect. Urban gardening is not mentioned in the article."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "As of 2021, small farms produce about what fraction of the world's food?",
+      "options": [
+        "One-third",
+        "One-half",
+        "Two-thirds",
+        "One-quarter"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'small farms... produce about one-third of the world's food.'",
+        "Incorrect. The article does not say one-half.",
+        "Incorrect. The article does not say two-thirds.",
+        "Incorrect. The article does not say one-quarter."
+      ]
+    },
+    {
+      "id": 9,
       "question": "What percentage of all farms globally are greater than 50 hectares?",
       "options": [
         "1%",
         "5%",
         "10%",
-        "20%"
+        "25%"
       ],
       "answer_explanations": [
-        "Correct. The article states only 1% of all farms globally are greater than 50 hectares.",
-        "Incorrect. The article does not state 5% of all farms globally are greater than 50 hectares.",
-        "Incorrect. The article does not state 10% of all farms globally are greater than 50 hectares.",
-        "Incorrect. The article does not state 20% of all farms globally are greater than 50 hectares."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "Which of the following is listed as a food class in the article?",
-      "options": [
-        "Cereals",
-        "Metals",
-        "Plastics",
-        "Chemicals"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists cereals among food classes, which include grains, vegetables, fruits, cooking oils, meat, milk, eggs, and fungi.",
-        "Incorrect. Metals are not listed as a food class in the article.",
-        "Incorrect. Plastics are not listed as a food class in the article.",
-        "Incorrect. Chemicals are not listed as a food class in the article."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "How much global agricultural production amounts to in terms of food?",
-      "options": [
-        "Approximately 11 billion tonnes",
-        "Approximately 1 billion tonnes",
-        "Approximately 100 billion tonnes",
-        "Approximately 11 million tonnes"
-      ],
-      "answer_explanations": [
-        "Correct. The article states global agricultural production amounts to approximately 11 billion tonnes of food.",
-        "Incorrect. The article does not state approximately 1 billion tonnes of food.",
-        "Incorrect. The article does not state approximately 100 billion tonnes of food.",
-        "Incorrect. The article does not state approximately 11 million tonnes of food."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "Which environmental issue is mentioned in the article as being connected to agriculture?",
-      "options": [
-        "Deforestation",
-        "Ozone layer depletion",
-        "Nuclear waste",
-        "Light pollution"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists deforestation among environmental issues connected to agriculture.",
-        "Incorrect. The article does not mention ozone layer depletion as an agricultural environmental issue.",
-        "Incorrect. The article does not mention nuclear waste as an agricultural environmental issue.",
-        "Incorrect. The article does not mention light pollution as an agricultural environmental issue."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "What does the word agriculture derive from in Latin?",
-      "options": [
-        "Ager and cultura",
-        "Terra and grow",
-        "Field and harvest",
-        "Soil and plant"
-      ],
-      "answer_explanations": [
-        "Correct. The article states agriculture is a late Middle English adaptation of Latin agricultÅ«ra, from ager 'field' and cultura 'cultivation' or 'growing'.",
-        "Incorrect. The article does not state the word derives from terra and grow.",
-        "Incorrect. The article does not state the word derives from field and harvest.",
-        "Incorrect. The article does not state the word derives from soil and plant."
-      ]
-    },
-    {
-      "id": 9,
-      "question": "Which species besides humans have been cultivating crops for up to 60 million years?",
-      "options": [
-        "Some ants, termites, and beetles",
-        "Birds and bees",
-        "Dolphins and whales",
-        "Monkeys and apes"
-      ],
-      "answer_explanations": [
-        "Correct. The article states other species such as some ants, termites, and beetles have been cultivating crops for up to 60 million years.",
-        "Incorrect. The article does not mention birds and bees cultivating crops for up to 60 million years.",
-        "Incorrect. The article does not mention dolphins and whales cultivating crops.",
-        "Incorrect. The article does not mention monkeys and apes cultivating crops for up to 60 million years."
+        "Correct. The article states 'only 1% of all farms globally are greater than 50 hectares.'",
+        "Incorrect. The article does not say 5%.",
+        "Incorrect. The article does not say 10%.",
+        "Incorrect. The article does not say 25%."
       ]
     },
     {
       "id": 10,
-      "question": "In which region was rice domesticated between 11,500 and 6200 BC?",
+      "question": "Which of the following is NOT listed as a major agricultural product group?",
       "options": [
-        "China",
-        "Egypt",
-        "India",
-        "Mexico"
+        "Electronics",
+        "Foods",
+        "Fibers",
+        "Fuels"
       ],
       "answer_explanations": [
-        "Correct. The article states rice was domesticated in China between 11,500 and 6200 BC.",
-        "Incorrect. The article does not state rice was domesticated in Egypt between 11,500 and 6200 BC.",
-        "Incorrect. The article does not state rice was domesticated in India between 11,500 and 6200 BC.",
-        "Incorrect. The article does not state rice was domesticated in Mexico between 11,500 and 6200 BC."
+        "Correct. The article lists foods, fibers, fuels, and raw materials as major product groups; electronics is not mentioned.",
+        "Incorrect. Foods are listed as a major agricultural product group.",
+        "Incorrect. Fibers are listed as a major agricultural product group.",
+        "Incorrect. Fuels are listed as a major agricultural product group."
       ]
     }
   ]

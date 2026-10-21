@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following best describes how Euler's relationship with Johann Bernoulli shaped his mathematical development?",
+      "question": "Why is Euler's introduction of the notation f(x) for a function considered a significant contribution to mathematics?",
       "options": [
-        "Bernoulli refused private lessons but advised Euler to work through difficult books independently and offered Saturday access to discuss difficulties.",
-        "Bernoulli provided regular private lessons and personally guided Euler through every mathematical topic.",
-        "Bernoulli discouraged Euler from studying advanced texts and urged him to focus on theology instead.",
-        "Bernoulli refused to help Euler at all, forcing him to learn mathematics entirely on his own."
+        "It provided a concise and standardized way to represent the value of a function, which is fundamental to modern mathematical notation and communication.",
+        "It was the first time anyone had used letters to represent mathematical quantities, replacing numbers entirely.",
+        "It allowed for the calculation of the circumference of a circle using only the diameter.",
+        "It was a necessary prerequisite for the development of the Seven Bridges of KÃ¶nigsberg problem."
       ],
       "answer_explanations": [
-        "Correct. Euler's autobiography states that Bernoulli refused private lessons due to his busy schedule but advised Euler to work through difficult books diligently and offered free access every Saturday afternoon to comment on collected difficulties.",
-        "Incorrect. The article explicitly says Bernoulli refused private lessons because of his busy schedule, so he did not provide regular private tutoring.",
-        "Incorrect. The article indicates Bernoulli encouraged Euler's mathematical studies and helped him gain his father's consent to become a mathematician rather than a pastor.",
-        "Incorrect. Bernoulli did help Euler by offering Saturday access to discuss difficulties and commenting on his collected objections."
+        "Correct. The article states Euler introduced the notation f(x) for the value of a function, and that he introduced much of modern mathematical terminology and notation. This implies a standardized, concise representation was a key part of his legacy.",
+        "Incorrect. The article does not say Euler was the first to use letters for quantities; it says he introduced specific notations like f(x), Ï, and i, which implies letters were already in use.",
+        "Incorrect. The notation f(x) is for functions, not for the ratio of a circle's circumference to its diameter, which is denoted by Ï.",
+        "Incorrect. The Seven Bridges problem is credited to Euler's development of graph theory, not directly to his function notation."
       ]
     },
     {
       "id": 2,
-      "question": "What does the article imply about Euler's standing at Frederick II's court in Berlin?",
+      "question": "What does Euler's reformulation of Newton's laws of motion into new laws for rigid bodies imply about his approach to physics?",
       "options": [
-        "Frederick II found Euler unsophisticated and ill-informed on matters beyond mathematics, despite Euler's contributions to the academy's prestige.",
-        "Frederick II regarded Euler as the most sophisticated intellectual at his court and appointed him president of the Berlin Academy.",
-        "Frederick II dismissed Euler from the Berlin Academy because Euler was too focused on religious matters.",
-        "Frederick II and Euler were close friends who frequently debated philosophy and religion."
+        "He sought to generalize and extend existing physical theories to cover more complex scenarios, such as the motion of solid objects that can rotate and deform.",
+        "He was primarily interested in disproving Newton's work and replacing it with his own completely different system.",
+        "He focused only on the motion of fluids and ignored the motion of solid objects.",
+        "He believed that the laws of motion applied only to point masses and not to any physical object."
       ],
       "answer_explanations": [
-        "Correct. The article states that despite Euler's contributions to the academy's prestige, Frederick II named himself president and found Euler unsophisticated and ill-informed on matters beyond numbers and figures.",
-        "Incorrect. The article says Frederick II named himself president of the academy, not Euler, and viewed Euler as unsophisticated.",
-        "Incorrect. The article does not say Frederick II dismissed Euler; Euler left Berlin in 1766 and returned to Saint Petersburg.",
-        "Incorrect. The article portrays Euler as the polar opposite of Voltaire and not a skilled debater, with no indication of a close friendship with Frederick II."
+        "Correct. The article says Euler reformulated Newton's laws 'to better explain the motion of rigid bodies.' This shows he was building upon and extending Newton's work to a more general class of physical systems.",
+        "Incorrect. The article says he 'reformulated' Newton's laws, which implies a modification or extension, not a complete rejection or replacement.",
+        "Incorrect. The article mentions his work on fluid dynamics separately, but also explicitly mentions his work on rigid bodies and elastic deformations.",
+        "Incorrect. The article states he reformulated the laws to explain rigid bodies, which are extended objects, not point masses."
       ]
     },
     {
       "id": 3,
-      "question": "If a researcher wanted to demonstrate Euler's ability to communicate science to a general audience, which work cited in the article would serve as the best evidence?",
+      "question": "How did Euler's relationship with Johann Bernoulli at the University of Basel shape his early career, according to the article?",
       "options": [
-        "Letters of Euler on different Subjects in Natural Philosophy Addressed to a German Princess",
-        "Mechanica",
-        "Introductio in analysin infinitorum",
-        "Institutiones calculi differentialis"
+        "Bernoulli provided crucial mentorship and guidance, which helped Euler develop his mathematical skills and ultimately led him to pursue mathematics over theology.",
+        "Bernoulli refused to teach Euler, forcing him to rely solely on his father's instruction and private tutors.",
+        "Bernoulli was a rival who competed with Euler for the same academic positions, causing Euler to leave Basel.",
+        "Bernoulli's main influence was to encourage Euler to focus on theology rather than mathematics."
       ],
       "answer_explanations": [
-        "Correct. The article states this work contained Euler's exposition on physics and mathematics for a German princess, was translated into multiple languages, became more widely read than his mathematical works, and testifies to his ability to communicate scientific matters to a lay audience.",
-        "Incorrect. Mechanica is described as Euler's two-volume work reformulating Newton's laws of motion to explain rigid bodies, not as a work for a lay audience.",
-        "Incorrect. Introductio in analysin infinitorum is described as Euler's text on functions, a technical mathematical work rather than popular science writing.",
-        "Incorrect. Institutiones calculi differentialis is described as a text on differential calculus, a technical work rather than one aimed at a general audience."
+        "Correct. The article describes how Bernoulli gave Euler advice to work through difficult books and offered Saturday meetings to resolve difficulties. It also states that 'Euler, backed by Bernoulli, obtained his father's consent to become a mathematician instead of a pastor.'",
+        "Incorrect. The article says Bernoulli refused private lessons due to his schedule, but he still provided 'far more salutary advice' and free access on Saturdays, which is a form of mentorship.",
+        "Incorrect. The article does not mention any rivalry; instead, it describes a supportive relationship where Bernoulli helped Euler.",
+        "Incorrect. The article explicitly states Bernoulli's backing helped Euler get his father's consent to become a mathematician, not a pastor."
       ]
     },
     {
       "id": 4,
-      "question": "Which inference about Euler's career is best supported by the article's description of his time at the Saint Petersburg Academy?",
+      "question": "What does Euler's experience with the Paris Academy prize competition suggest about his standing among his contemporaries?",
       "options": [
-        "Political changes in Russia significantly affected working conditions and funding for foreign scholars at the academy.",
-        "Euler left Saint Petersburg primarily because he disliked the climate and found Russian colleagues unwelcoming.",
-        "The Saint Petersburg Academy was exclusively for Russian nationals and barred all foreign scholars.",
-        "Euler's position at the academy was secure and unaffected by changes in Russian leadership."
+        "He was a highly competitive and successful scholar, winning 12 out of 15 competitions he entered, which indicates he was among the top minds of his time.",
+        "He was a mediocre scientist who rarely succeeded in such prestigious contests, winning only once.",
+        "He was primarily a naval architect, as his first entry on ship masts was his most famous work.",
+        "He avoided such competitions because he preferred to work in isolation without external validation."
       ],
       "answer_explanations": [
-        "Correct. The article describes how the Russian conservative nobility cut funding for Euler and his colleagues and restricted foreign students after Peter II's ascension, while conditions improved under Anna of Russia.",
-        "Incorrect. Euler moved to Berlin after Empress Anna died and Frederick II agreed to match his salary; while he cited a milder climate for his eyesight, the article also notes concern about continuing turmoil in Russia.",
-        "Incorrect. The article explicitly says the academy was made especially attractive to foreign scholars like Euler, so it was not exclusively for Russian nationals.",
-        "Incorrect. The article shows Euler's funding and position fluctuated with political changes, including cuts under the conservative nobility and improvements under Anna of Russia."
+        "Correct. The article states Euler entered the competition 15 times and won 12 of them, a record that clearly demonstrates his exceptional ability and success in a highly competitive forum.",
+        "Incorrect. Winning 12 out of 15 is a very high success rate, not a sign of mediocrity. The article also notes he took second place in his first attempt.",
+        "Incorrect. The article mentions his entry on ship masts, but it does not say this was his most famous work. His fame comes from his many contributions across mathematics and physics.",
+        "Incorrect. The article explicitly states he entered the competition 15 times, which shows he actively sought this kind of external validation."
       ]
     },
     {
       "id": 5,
-      "question": "Based on the article, which statement best characterizes Euler's role in the history of mathematical notation?",
+      "question": "Why did Euler's move from Saint Petersburg to Berlin in 1741 occur, and what does this reveal about the conditions he faced?",
       "options": [
-        "Euler introduced or popularized several foundational notations still used today, including f(x), Ï, i, Î£, Î, and e.",
-        "Euler invented all mathematical notation from scratch, replacing every system that existed before him.",
-        "Euler avoided using symbolic notation and preferred to express mathematics entirely in words.",
-        "Euler's notations were limited to geometry and had no influence on calculus or number theory."
+        "He left due to political turmoil in Russia and was recruited by Frederick the Great, but he also used his eyesight as a reason, indicating a combination of professional and personal motivations.",
+        "He was forced to leave because the Russian academy expelled him for his religious beliefs.",
+        "He left because he was offered a much higher salary in Berlin than he could ever earn in Russia.",
+        "He left because he was unhappy with the lack of scientific collaboration in Saint Petersburg."
       ],
       "answer_explanations": [
-        "Correct. The article states Euler popularized Ï for the circle ratio, first used f(x) for functions, used i for the imaginary unit, Î£ for summations, Î for finite differences, and gave the current definition of e.",
-        "Incorrect. The article does not claim Euler invented all mathematical notation or replaced every prior system; it lists specific notations he introduced or popularized.",
-        "Incorrect. The article emphasizes Euler's introduction of modern mathematical terminology and notation, contrary to the claim that he avoided symbolic notation.",
-        "Incorrect. The article links Euler's notations to analysis, calculus, and number theory (e, f(x), i, Î£), not solely to geometry."
+        "Correct. The article says Euler was 'concerned about the continuing turmoil in Russia' and that Frederick II offered him a post. It also states he 'requested permission to leave for Berlin, arguing he was in need of a milder climate for his eyesight.'",
+        "Incorrect. The article does not mention expulsion; instead, it says the Russian academy gave its consent for him to leave and even continued to pay him a pension.",
+        "Incorrect. The article states Frederick II agreed to pay him 1600 ecus, 'the same as Euler earned in Russia,' so it was not a higher salary.",
+        "Incorrect. The article describes his close collaboration with Daniel Bernoulli in Saint Petersburg, so lack of collaboration was not the reason for his departure."
       ]
     },
     {
       "id": 6,
-      "question": "Which conclusion about Euler's intellectual breadth is most strongly supported by the article?",
+      "question": "What does the popularity of Euler's 'Letters to a German Princess' imply about his abilities beyond pure research?",
       "options": [
-        "Euler's work spanned mathematics, physics, astronomy, engineering, music theory, and geography, making him a polymath.",
-        "Euler focused almost exclusively on pure mathematics and had little interest in applied sciences.",
-        "Euler's contributions were limited to theoretical mathematics and had no practical engineering applications.",
-        "Euler was primarily a musician who occasionally wrote about mathematics."
+        "He was an effective communicator who could explain complex scientific and mathematical ideas to a general audience, a skill that was rare among dedicated scientists.",
+        "He was primarily a writer of fiction and philosophy, and his scientific work was secondary.",
+        "He wrote the letters only for the princess and never intended them for a wider audience.",
+        "The letters were popular because they contained his most advanced mathematical proofs, which scholars eagerly sought."
       ],
       "answer_explanations": [
-        "Correct. The article's opening paragraph describes Euler as a polymath active as a mathematician, physicist, astronomer, logician, geographer, music theorist, and engineer, with contributions to mechanics, fluid dynamics, optics, astronomy, and music theory.",
-        "Incorrect. The article highlights Euler's applied mathematics and engineering work, including ship navigation, optics for microscopes and telescopes, and beam bending.",
-        "Incorrect. The article explicitly describes Euler's contributions to applied mathematics and engineering, contradicting the claim that his work had no practical applications.",
-        "Incorrect. While Euler contributed to music theory, the article presents him primarily as a mathematician and scientist, not as a musician who occasionally wrote about mathematics."
+        "Correct. The article states the Letters 'became more widely read than any of his mathematical works' and that its popularity 'testifies to Euler's ability to communicate scientific matters effectively to a lay audience, a rare ability for a dedicated research scientist.'",
+        "Incorrect. The article describes the Letters as containing 'exposition on various subjects pertaining to physics and mathematics,' not fiction or philosophy, and his scientific work is the primary focus of the article.",
+        "Incorrect. The article says the Letters were 'compiled into a volume' and 'translated into multiple languages, published across Europe and in the United States,' which shows they were intended for a broad readership.",
+        "Incorrect. The article says the Letters were for a 'lay audience' and were more popular than his mathematical works, implying they were not advanced technical proofs."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article suggest about the relationship between Euler's religious beliefs and his social outlook?",
+      "question": "How did Euler's personality and beliefs contrast with those of Voltaire, and what was the consequence of this contrast at Frederick's court?",
       "options": [
-        "Euler was devoutly religious, never questioned the existing social order or conventional beliefs, and was unsophisticated in non-mathematical matters.",
-        "Euler was an outspoken critic of religion and conventional social beliefs.",
-        "Euler's religious beliefs caused him to refuse all positions at academies sponsored by monarchs.",
-        "Euler concealed his religious beliefs to avoid conflict with Frederick II's court."
+        "Euler was simple, religious, and conventional, while Voltaire was a sophisticated and critical intellectual; this contrast made Euler appear unsophisticated to the king, who favored Voltaire.",
+        "Euler and Voltaire were close friends who shared the same views on religion and society, and they worked together at the court.",
+        "Euler was a skilled debater who often challenged Voltaire's ideas, and the king admired him for this.",
+        "Euler's devoutness made him more popular with the king than Voltaire, who was seen as a heretic."
       ],
       "answer_explanations": [
-        "Correct. The article states Euler was a simple, devoutly religious man who never questioned the existing social order or conventional beliefs, and Frederick II found him unsophisticated and ill-informed on matters beyond numbers and figures.",
-        "Incorrect. The article describes Euler as devoutly religious and accepting of conventional beliefs, not as a critic of them.",
-        "Incorrect. The article shows Euler accepted positions at both the Saint Petersburg Academy and the Berlin Academy, so he did not refuse academy posts.",
-        "Incorrect. The article indicates Euler's religious beliefs were known and part of his personality, as revealed in his Letters to a German Princess, not concealed."
+        "Correct. The article states Euler was 'a simple, devoutly religious man who never questioned the existing social order' and was 'the polar opposite of Voltaire,' who had 'a high place of prestige at Frederick's court.' It also says Frederick found Euler 'unsophisticated and ill-informed on matters beyond numbers and figures.'",
+        "Incorrect. The article explicitly calls them 'polar opposites,' not close friends with shared views.",
+        "Incorrect. The article says Euler 'was not a skilled debater,' which is the opposite of being a skilled one who challenged others.",
+        "Incorrect. The article says Voltaire had a 'high place of prestige' at the court, while Euler was seen as unsophisticated, implying the opposite of what this option states."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following best explains why Euler's solution to the Seven Bridges of KÃ¶nigsberg problem is historically significant?",
+      "question": "What does Euler's work on the Seven Bridges of KÃ¶nigsberg and the Euler characteristic of a polyhedron have in common?",
       "options": [
-        "It marked the first development of graph theory and is considered the first practical application of topology.",
-        "It proved that all polyhedra satisfy the Euler characteristic formula V + F â E = 2.",
-        "It introduced the notation f(x) and established the modern definition of a function.",
-        "It solved the Basel problem and determined the sum of the reciprocals of the squares."
+        "Both are foundational problems in topology and graph theory that deal with the properties of shapes and connections that are preserved under continuous deformation.",
+        "Both are primarily about calculating the area and volume of geometric objects using calculus.",
+        "Both are examples of Euler's work in number theory, specifically on prime numbers and divisibility.",
+        "Both were problems that Euler solved using the partial differential equations he formulated for fluid dynamics."
       ],
       "answer_explanations": [
-        "Correct. The article states Euler developed graph theory partly as a solution to the Seven Bridges of KÃ¶nigsberg problem, which is also considered the first practical application of topology.",
-        "Incorrect. The Euler characteristic for polyhedra is a separate discovery mentioned in the article, not the significance of the KÃ¶nigsberg bridges solution.",
-        "Incorrect. The notation f(x) and the modern definition of a function are separate contributions discussed elsewhere in the article.",
-        "Incorrect. The Basel problem is mentioned as a separate problem Euler solved, not as the significance of the KÃ¶nigsberg bridges work."
+        "Correct. The article says Euler developed graph theory 'partly as a solution for the problem of the Seven Bridges of KÃ¶nigsberg, which is also considered the first practical application of topology.' It also says the Euler characteristic (V - E + F = 2) is for a polyhedron. Both are about structural properties, which are central to topology and graph theory.",
+        "Incorrect. The article does not connect these problems to area or volume calculations. The Euler characteristic is about vertices, edges, and faces, not measurements of area or volume.",
+        "Incorrect. The article mentions Euler's work in number theory, like the Basel problem, but the Seven Bridges and the polyhedron formula are presented as separate contributions in graph theory and topology.",
+        "Incorrect. The article mentions Euler's partial differential equations for inviscid fluid flow, but there is no connection made between these and the Seven Bridges or the polyhedron formula."
       ]
     },
     {
       "id": 9,
-      "question": "If a modern engineering team were designing a bridge and needed to account for the bending of beams under load, which Euler contribution described in the article would be most directly relevant?",
+      "question": "What can be inferred from the fact that Euler's 'Opera Omnia' contains 866 publications?",
       "options": [
-        "EulerâBernoulli beam theory and his studies of beam bending and column critical loads",
-        "Euler's laws of motion for rigid bodies",
-        "Euler's number e and the natural logarithm",
-        "Euler's notation for summations using capital sigma"
+        "He was an exceptionally prolific scholar whose output was so vast that it required a large collection to contain, indicating his immense impact on mathematics and science.",
+        "He published most of his work only after his death, and the collection was assembled by later scholars.",
+        "He wrote primarily in a single language, which limited the spread of his ideas.",
+        "He focused on a narrow range of topics, but wrote about them in extreme detail."
       ],
       "answer_explanations": [
-        "Correct. The article explicitly mentions Euler's studies of beam bending and column critical loads, as well as EulerâBernoulli beam theory for elastic deformations of solid objects.",
-        "Incorrect. Euler's laws of motion concern rigid body motion, not specifically beam bending under load.",
-        "Incorrect. Euler's number e relates to natural logarithms and analysis, not structural beam design.",
-        "Incorrect. Summation notation is a mathematical convenience, not an engineering theory for beam bending."
+        "Correct. The article calls Euler 'arguably the most prolific contributor in the history of mathematics and science' and states his 866 publications were collected in the 'Opera Omnia.' This directly supports the inference of immense productivity and impact.",
+        "Incorrect. The article does not say his work was published posthumously; it says his publications and correspondence were collected, implying they were published during his lifetime.",
+        "Incorrect. The article does not discuss the language of his publications. It does mention he mastered Russian and lived in different countries, which suggests he may have written in multiple languages.",
+        "Incorrect. The article lists contributions to many fields, including graph theory, number theory, complex analysis, calculus, mechanics, fluid dynamics, optics, and music theory, which shows a wide range of topics, not a narrow one."
       ]
     },
     {
       "id": 10,
-      "question": "Which inference about Euler's productivity is best supported by the article?",
+      "question": "How did the political environment in Saint Petersburg affect Euler's early career there, and how did he respond?",
       "options": [
-        "Euler's 866 publications and extensive correspondence make him arguably the most prolific contributor in the history of mathematics and science.",
-        "Euler published only a handful of works during his lifetime, most of which were collected after his death.",
-        "Euler's productivity declined sharply after he moved to Berlin, where he wrote very little.",
-        "Euler's correspondence was limited to a few letters with Johann Bernoulli."
+        "The conservative nobility cut funding and restricted access for foreigners, but Euler adapted by taking on additional work and continued to rise through the ranks when conditions improved.",
+        "The political environment had no effect on Euler's work, as the academy was fully insulated from political changes.",
+        "Euler immediately left Saint Petersburg when the nobility gained power, refusing to work under such conditions.",
+        "Euler became a vocal political opponent of the nobility and was eventually expelled from Russia for his activism."
       ],
       "answer_explanations": [
-        "Correct. The article states Euler is regarded as arguably the most prolific contributor in the history of mathematics and science, citing his 866 publications and collected correspondence.",
-        "Incorrect. The article explicitly mentions 866 publications, contradicting the claim that he published only a handful of works.",
-        "Incorrect. The article notes Euler wrote several hundred articles during his 25 years in Berlin, indicating sustained productivity, not a sharp decline.",
-        "Incorrect. The article describes lengthy correspondences with Schumacher (over 300 letters) and Gerhard Friedrich MÃ¼ller, not just a few letters with Bernoulli."
+        "Correct. The article states the nobility 'cut funding for Euler and his colleagues and prevented the entrance of foreign and non-aristocratic students.' It also says Euler 'mastered Russian, settled into life' and 'took on an additional job as a medic in the Russian Navy.' Later, 'conditions improved slightly' and he 'swiftly rose through the ranks' to become a professor of physics.",
+        "Incorrect. The article explicitly describes how the political changes affected the academy's funding and access, which would have impacted Euler.",
+        "Incorrect. The article says Euler arrived in 1727 and stayed until 1741, and during that time he was promoted, which shows he did not immediately leave.",
+        "Incorrect. The article does not mention any political activism or expulsion. It describes him as a devout man who 'never questioned the existing social order,' and he left later for Berlin for other reasons."
       ]
     }
   ]

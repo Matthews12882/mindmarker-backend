@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "If a research team discovers a new subglacial lake in Antarctica and wants to estimate how often its water is replaced, which known lake's replacement cycle would serve as the best model?",
+      "question": "Given the article's description of Antarctica's ice sheet and its potential to melt, what is the most significant global implication of its instability?",
       "options": [
-        "Lake Vostok",
-        "Lake Bonney",
-        "Lake Ellsworth",
-        "Lake Whillans"
+        "A substantial rise in global sea levels would occur, threatening coastal regions worldwide.",
+        "The continent would become the largest source of freshwater for the world's population.",
+        "The Southern Ocean would become significantly warmer and more productive for fisheries.",
+        "The geographic South Pole would shift its position due to the redistribution of ice mass."
       ],
       "answer_explanations": [
-        "Correct. The article states that Lake Vostok's water is replaced by the slow melting and freezing of ice caps every 13,000 years, providing a known replacement cycle for subglacial lakes.",
-        "Incorrect. Lake Bonney is a surface lake in the McMurdo Dry Valleys, not a subglacial lake, and its water replacement cycle is not discussed in the article.",
-        "Incorrect. Lake Ellsworth is a subglacial lake, but the article does not provide information about its water replacement cycle.",
-        "Incorrect. Lake Whillans is a subglacial lake, but the article does not provide information about its water replacement cycle."
+        "Correct. The article states that about 70% of the world's freshwater reserves are frozen in Antarctica, and if melted, it would raise global sea levels by almost 60 metres (200 ft), directly threatening coastal regions.",
+        "Incorrect. The article mentions the melting of the ice sheet as a risk for sea level rise, not as a source of freshwater for the world's population.",
+        "Incorrect. While the article notes that melting affects the Southern Ocean overturning circulation and could impact its productivity, it does not state that it would make the ocean warmer or more productive for fisheries.",
+        "Incorrect. The article does not suggest that the geographic South Pole would shift due to melting ice; it focuses on sea level rise and ocean circulation impacts."
       ]
     },
     {
       "id": 2,
-      "question": "A geologist finds a fossil of a large woody tree in a sedimentary layer in Antarctica. Based on the article, during which period did such trees first colonize the continent?",
+      "question": "Based on the article, what does the historical usage of the name 'Terra Australis' reveal about early European geographical concepts?",
       "options": [
-        "Late Devonian",
-        "Cambrian",
-        "Carboniferous",
-        "Permian"
+        "It shows a persistent belief in a large southern continent to balance the northern landmasses, a concept that predated actual discovery.",
+        "It proves that Europeans had accurate knowledge of Antarctica's location and size since classical antiquity.",
+        "It indicates that the name was always intended to refer specifically to the continent we now call Australia.",
+        "It demonstrates that the concept of a southern continent was abandoned after the discovery of Australia."
       ],
       "answer_explanations": [
-        "Correct. The article mentions that during the Late Devonian, Antarctica was colonized by the progymnosperm Archaeopteris, one of the first large woody trees.",
-        "Incorrect. The Cambrian period had a mild climate in Gondwana, but there is no mention of large woody trees colonizing Antarctica at that time.",
-        "Incorrect. During the Carboniferous, Antarctica became glaciated, but the colonization by large woody trees occurred earlier in the Late Devonian.",
-        "Incorrect. The Permian saw glossopterids dominating, but large woody trees like Archaeopteris first appeared in the Late Devonian."
+        "Correct. The article explains that the idea of a 'Terra Australis'âa vast continent in the far south to balance the northern landsâhad existed as an intellectual concept since classical antiquity, long before Antarctica was sighted.",
+        "Incorrect. The article describes it as a hypothetical landmass, not one with accurately known location or size; it was an intellectual concept, not a proven geographical fact.",
+        "Incorrect. The article notes that the name was used for hypothetical southern landmasses and was later advocated for Australia, but it was not always intended for Australia.",
+        "Incorrect. The article states that the assertion of such a land lasted until the discovery of Australia, but the concept itself was not abandoned; it evolved into the name 'Antarctica'."
       ]
     },
     {
       "id": 3,
-      "question": "If a volcanic eruption under the Antarctic ice sheet were to increase significantly, which of the following would be the most direct threat according to the article?",
+      "question": "How does the article's description of Antarctica's past climate and its current state illustrate a significant contrast?",
       "options": [
-        "Destabilization of the ice sheet",
-        "Increased tourism in the region",
-        "Formation of new islands",
-        "Changes in the Southern Ocean overturning circulation"
+        "It highlights that Antarctica was once temperate and forested, but is now a cold, dry polar desert.",
+        "It shows that Antarctica has always been the coldest and driest continent on Earth.",
+        "It proves that the continent's climate has remained relatively stable for millions of years.",
+        "It indicates that the only significant climate change occurred during the last ice age."
       ],
       "answer_explanations": [
-        "Correct. The article states that volcanoes under the ice could pose a risk to the ice sheet if activity levels were to rise, directly threatening its stability.",
-        "Incorrect. The article does not suggest that increased volcanic activity would directly lead to more tourism.",
-        "Incorrect. While volcanic islands exist around Antarctica, the article does not indicate that increased subglacial volcanic activity would directly form new islands.",
-        "Incorrect. Changes in the Southern Ocean overturning circulation are linked to melting of the West Antarctic ice sheet, not directly to increased volcanic activity under the ice."
+        "Correct. The article states that for a large proportion of the Phanerozoic, Antarctica had a relatively temperate climate and was covered in forests, whereas now it is, on average, the coldest, driest, and windiest continent and mainly a polar desert.",
+        "Incorrect. This contradicts the article's evidence of a temperate, forested past, which implies it was not always the coldest and driest.",
+        "Incorrect. The article describes major shifts from a mild climate to glaciation and from temperate forests to a polar desert, indicating significant climate instability over geological time.",
+        "Incorrect. The article mentions glaciation beginning in the Late Paleozoic and a later cooling, but it does not limit significant changes to the last ice age; it describes changes over hundreds of millions of years."
       ]
     },
     {
       "id": 4,
-      "question": "A cartographer in the 1890s wants to use the most recently adopted name for the southern continent. Which name should they use?",
+      "question": "What does the article's explanation of the name 'Antarctica' suggest about the origin of the term?",
       "options": [
-        "Antarctica",
-        "Terra Australis",
-        "Ultima",
-        "Antipodea"
+        "It is derived from Greek and Latin words meaning 'opposite to the Arctic' or 'opposite to the north'.",
+        "It was first coined by the Scottish cartographer John George Bartholomew in the 1890s.",
+        "It originates from the Old French term 'pole antartike' which was used in the 13th century.",
+        "It was adopted from the name 'Terra Australis' after the discovery of Australia."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Antarctica was adopted in the 1890s', making it the most recently adopted name at that time.",
-        "Incorrect. Terra Australis was an earlier hypothetical name that became unavailable after Australia was renamed in 1824.",
-        "Incorrect. Ultima was a suggested poetic replacement but was not adopted; Antarctica was chosen instead.",
-        "Incorrect. Antipodea was another suggested poetic replacement but was not adopted; Antarctica was chosen instead."
+        "Correct. The article states the name originates from the word 'antarctic', which comes from Middle French and Latin, with the Latin 'antarcticus' meaning 'opposite to the north', and is derived from Greek roots.",
+        "Incorrect. While the article says the first use of the name 'Antarctica' is attributed to Bartholomew in the 1890s, it explains the term's origin is much older, from Greek and Latin.",
+        "Incorrect. The article mentions 'pole antartike' as an Old French term, but this is a step in the etymological chain, not the origin of the name 'Antarctica'.",
+        "Incorrect. The article explains that 'Terra Australis' was a different name for hypothetical southern lands, and 'Antarctica' was adopted later, not directly derived from it."
       ]
     },
     {
       "id": 5,
-      "question": "A scientist is studying the impact of melting ice on global sea levels. According to the article, which ice sheet's melting causes the most uncertainty in century-scale sea level rise projections?",
+      "question": "Considering the article's description of the Antarctic Treaty System, what is its primary purpose regarding human activities?",
       "options": [
-        "West Antarctic ice sheet",
-        "East Antarctic ice sheet",
-        "Antarctic ice sheet",
-        "Ross Ice Shelf"
+        "To prohibit military activity, mining, nuclear explosions, and nuclear waste disposal while allowing research, tourism, and fishing.",
+        "To establish a permanent international government for the continent with representatives from all 29 countries.",
+        "To completely ban all human presence and activities on the continent to preserve its pristine environment.",
+        "To regulate the territorial claims of the 29 countries and divide the continent among them."
       ],
       "answer_explanations": [
-        "Correct. The article explicitly states that 'the melting of the potentially unstable West Antarctic ice sheet causes the most uncertainty in century-scale projections of sea level rise'.",
-        "Incorrect. The East Antarctic ice sheet is mentioned but not specifically linked to uncertainty in sea level rise projections in the article.",
-        "Incorrect. The Antarctic ice sheet as a whole is discussed, but the West Antarctic ice sheet is singled out for causing the most uncertainty.",
-        "Incorrect. The Ross Ice Shelf is an ice shelf, not an ice sheet, and is not mentioned in the context of sea level rise uncertainty."
+        "Correct. The article states that according to the terms of the treaty, military activity, mining, nuclear explosions, and nuclear waste disposal are prohibited, while tourism, fishing, and research are the main human activities.",
+        "Incorrect. The article mentions governance by 29 countries as parties to the treaty but does not describe the establishment of a permanent international government.",
+        "Incorrect. The article notes that tourism, fishing, and research are the main human activities, implying they are not banned.",
+        "Incorrect. The article mentions territorial claims but does not state that the treaty's purpose is to divide the continent among the parties."
       ]
     },
     {
       "id": 6,
-      "question": "A team of explorers wants to follow the route of the first confirmed landing on Antarctica. Which nationality's expedition should they replicate?",
+      "question": "What can be inferred from the article about the relationship between the West Antarctic ice sheet and global climate projections?",
       "options": [
-        "Norwegian",
-        "Russian",
-        "British",
-        "French"
+        "Its potential melting is a major source of uncertainty in century-scale sea level rise projections.",
+        "Its melting would have no significant impact on the Southern Hemisphere's climate.",
+        "Its stability is well understood and is not a concern for future sea level changes.",
+        "Its melting would primarily affect the Arctic region rather than the Southern Hemisphere."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'the first confirmed landing was by a Norwegian team in 1895'.",
-        "Incorrect. A Russian expedition led by Bellingshausen and Lazarev first saw the ice shelves in 1820, but did not land.",
-        "Incorrect. British explorers reached the magnetic South Pole in 1909, but the first confirmed landing was Norwegian.",
-        "Incorrect. French expeditions explored the region after the Russian sighting, but the first confirmed landing was Norwegian."
+        "Correct. The article states that the melting of the potentially unstable West Antarctic ice sheet causes the most uncertainty in century-scale projections of sea level rise.",
+        "Incorrect. The article says the melting affects the Southern Ocean overturning circulation, which can lead to significant impacts on Southern Hemisphere climate and productivity.",
+        "Incorrect. The article describes the ice sheet as 'potentially unstable', implying it is a concern and not well understood.",
+        "Incorrect. The article specifically links its melting to impacts on the Southern Hemisphere climate and Southern Ocean, not the Arctic."
       ]
     },
     {
       "id": 7,
-      "question": "If a researcher wants to study the longest river in Antarctica, which river should they visit?",
+      "question": "Based on the article, how does the geological history of Antarctica, particularly its past as part of Gondwana, relate to its current state?",
       "options": [
-        "Onyx River",
-        "Alph River",
-        "Taylor Valley River",
-        "Mackay River"
+        "The breakup of Gondwana led to the formation of the Transantarctic Mountains, which now divide East and West Antarctica.",
+        "The continent's temperate past is irrelevant to its current icy condition, which is solely due to its polar location.",
+        "The presence of coal deposits from the Permian period indicates that Antarctica was once located near the equator.",
+        "The volcanic activity on the continent is a recent phenomenon with no connection to its geological past."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'the longest is the Onyx River' among rivers in Antarctica.",
-        "Incorrect. The Alph River is not mentioned in the article as the longest river in Antarctica.",
-        "Incorrect. The Taylor Valley River is not mentioned in the article as the longest river in Antarctica.",
-        "Incorrect. The Mackay River is not mentioned in the article as the longest river in Antarctica."
+        "Correct. The article states that modern Antarctica was formed as Gondwana gradually broke apart, and the Transantarctic Mountains divide West and East Antarctica, implying a connection between the breakup and current geography.",
+        "Incorrect. The article's description of a temperate, forested past and subsequent glaciation suggests a complex history involving both location and climate change, not just current polar location.",
+        "Incorrect. The article mentions coal deposits from the Permian but does not say this indicates a near-equatorial location; it says the climate was milder and the land was dominated by glossopterids.",
+        "Incorrect. The article notes that most islands are volcanic and very young, but it does not state that volcanic activity is a recent phenomenon unrelated to geological history."
       ]
     },
     {
       "id": 8,
-      "question": "A biologist is studying the effects of climate change on Antarctic wildlife. Based on the article, which of the following native species would they most likely encounter in a coastal region during summer?",
+      "question": "What does the article's description of the coastline composition and the presence of subglacial lakes suggest about the dynamic nature of Antarctica's ice?",
       "options": [
-        "Penguins",
-        "Polar bears",
-        "Arctic foxes",
-        "Reindeer"
+        "The ice is not a static, permanent feature but is actively flowing, melting, and refreezing.",
+        "The ice sheet is completely stable and has been unchanged for millions of years.",
+        "The coastline is primarily made of solid rock, indicating the ice has retreated significantly.",
+        "Subglacial lakes are isolated and have no interaction with the ice above them."
       ],
       "answer_explanations": [
-        "Correct. The article lists penguins as native species of animals in Antarctica, and coastal regions can reach temperatures over 10Â°C in summer, making them habitable.",
-        "Incorrect. Polar bears are native to the Arctic, not Antarctica, and are not mentioned in the article.",
-        "Incorrect. Arctic foxes are native to the Arctic, not Antarctica, and are not mentioned in the article.",
-        "Incorrect. Reindeer are native to the Arctic and subarctic regions, not Antarctica, and are not mentioned in the article."
+        "Correct. The article describes ice shelves, ice streams, and ice walls, and notes that subglacial lakes have water replaced by the slow melting and freezing of ice caps, indicating dynamic processes.",
+        "Incorrect. The article's descriptions of ice streams, melting at lake edges, and water replacement in subglacial lakes indicate the ice is dynamic, not static.",
+        "Incorrect. The article states that only 5% of the coast is exposed rock, with the majority being floating ice or ice walls, indicating extensive ice cover.",
+        "Incorrect. The article explains that water in Lake Vostok is replaced by the slow melting and freezing of ice caps, showing interaction between the lake and the ice."
       ]
     },
     {
       "id": 9,
-      "question": "A policy maker is reviewing the Antarctic Treaty System. Which of the following activities is explicitly prohibited under the treaty according to the article?",
+      "question": "How does the article's account of early exploration and naming conventions reflect the evolution of human understanding of Antarctica?",
       "options": [
-        "Nuclear explosions",
-        "Tourism",
-        "Fishing",
-        "Scientific research"
+        "It shows a progression from hypothetical concepts to gradual discovery and eventual formal naming.",
+        "It indicates that the continent was fully mapped and understood by the early 19th century.",
+        "It proves that the name 'Antarctica' was used consistently from classical antiquity onward.",
+        "It suggests that exploration was a purely scientific endeavor with no national or personal rivalries."
       ],
       "answer_explanations": [
-        "Correct. The article states that 'nuclear explosions... are all prohibited in Antarctica' under the Antarctic Treaty System.",
-        "Incorrect. Tourism is listed as one of the main human activities in and around Antarctica, not prohibited.",
-        "Incorrect. Fishing is listed as one of the main human activities in and around Antarctica, not prohibited.",
-        "Incorrect. Scientific research is a main human activity in Antarctica, and research stations are inhabited, not prohibited."
+        "Correct. The article traces the idea from a hypothetical 'Terra Australis' to sightings in 1820, first landing in 1895, reaching the South Pole in 1911, and formal adoption of the name in the 1890s, showing a clear progression.",
+        "Incorrect. The article describes a gradual process of exploration and naming that extended into the 20th century, implying that understanding was incomplete for a long time.",
+        "Incorrect. The article explains that the name 'Antarctica' was adopted in the 1890s, with earlier names like 'Terra Australis' and various phrases used before.",
+        "Incorrect. The article mentions rival expeditions by different nations (Russian, French, American, British, Norwegian) and the race to the South Pole, implying competition."
       ]
     },
     {
       "id": 10,
-      "question": "A geologist finds a coal deposit in Antarctica. Based on the article, which plant group is most likely responsible for forming this coal?",
+      "question": "What conclusion can be drawn from the article's statements about the highest peak, active volcano, and ice dome in Antarctica?",
       "options": [
-        "Glossopterids",
-        "Lycopods",
-        "Cordaitales",
-        "Ferns"
+        "The continent has diverse geological features, including both the highest peak and the world's southernmost active volcano.",
+        "Mount Erebus is the highest point in Antarctica, and its eruptions are a major threat to research stations.",
+        "Dome Argus is the highest peak in Antarctica and is known for its relatively mild temperatures.",
+        "The volcanic activity is concentrated only in East Antarctica, while West Antarctica is geologically inactive."
       ],
       "answer_explanations": [
-        "Correct. The article states that glossopterids, most prominently Glossopteris, formed extensive coal deposits in Antarctica during the Permian.",
-        "Incorrect. Lycopods colonized Antarctica during the Devonian, but the article does not link them to coal formation.",
-        "Incorrect. Cordaitales are mentioned as plants found in Antarctica during the Permian, but the article specifically states that glossopterids formed extensive coal deposits.",
-        "Incorrect. Ferns are mentioned as plants found in Antarctica during the Permian, but the article specifically states that glossopterids formed extensive coal deposits."
+        "Correct. The article mentions Vinson Massif as the highest peak at 4,892 m, Mount Erebus as the world's southernmost active volcano, and Dome Argus as the highest ice feature, showing diverse geology.",
+        "Incorrect. The article states Vinson Massif is the highest peak, not Mount Erebus, and does not describe Erebus's eruptions as a major threat to research stations.",
+        "Incorrect. The article states Dome Argus is the highest ice feature, not the highest peak, and describes it as one of the world's coldest and driest places.",
+        "Incorrect. The article mentions volcanoes under the ice and does not restrict volcanic activity to East Antarctica; it notes evidence of a large number of volcanoes under the ice, which could be in both regions."
       ]
     }
   ]

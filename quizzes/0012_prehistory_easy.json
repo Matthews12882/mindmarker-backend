@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does prehistory refer to?",
+      "question": "What is another name for prehistory mentioned in the article?",
       "options": [
-        "The period between the first known use of stone tools by hominins and the beginning of recorded history with the invention of writing systems",
-        "The period between the invention of writing and the modern era",
-        "The period between the fall of the Roman Empire and the Renaissance",
-        "The period between the first use of fire and the development of agriculture"
+        "Pre-literary history",
+        "Ancient history",
+        "Protohistory",
+        "Recorded history"
       ],
       "answer_explanations": [
-        "Correct. The article states that prehistory is the period between the first known use of stone tools by hominins c. 3.3 million years ago and the beginning of recorded history with the invention of writing systems.",
-        "Incorrect. Prehistory ends with the invention of writing, it does not begin with it.",
-        "Incorrect. The article does not define prehistory as the period between the fall of the Roman Empire and the Renaissance.",
-        "Incorrect. The article does not define prehistory as beginning with the first use of fire."
+        "Correct. The article states that prehistory is 'sometimes referred to as pre-literary history'.",
+        "Incorrect. The article does not use 'Ancient history' as another name for prehistory.",
+        "Incorrect. Protohistory is defined as a different period, when a culture is written about by others but has not developed its own writing system.",
+        "Incorrect. Recorded history begins with the invention of writing systems, which is the end of prehistory, not another name for it."
       ]
     },
     {
       "id": 2,
-      "question": "When did the earliest known writing systems appear?",
+      "question": "According to the article, when did the first known use of stone tools by hominins occur?",
       "options": [
-        "c. 5,200 years ago",
         "c. 3.3 million years ago",
+        "c. 5,200 years ago",
         "c. 10,000 years ago",
-        "c. 3100 BCE"
+        "c. 1 million years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states that the earliest known writing systems appeared c. 5,200 years ago.",
-        "Incorrect. c. 3.3 million years ago refers to the first known use of stone tools, not writing systems.",
-        "Incorrect. c. 10,000 years ago is not given in the article as the date for the earliest writing systems.",
-        "Incorrect. 3100 BCE is given as when prehistory ended in Egypt, not when the earliest writing systems appeared globally."
+        "Correct. The article states prehistory is the period between the first known use of stone tools by hominins 'c. 3.3 million years ago' and the beginning of recorded history.",
+        "Incorrect. 5,200 years ago is when the earliest known writing systems appeared, not when stone tools were first used.",
+        "Incorrect. The article does not mention 10,000 years ago.",
+        "Incorrect. The article does not mention 1 million years ago."
       ]
     },
     {
       "id": 3,
-      "question": "What is protohistory?",
+      "question": "When did the earliest known writing systems appear, according to the article?",
       "options": [
-        "The period when a culture is written about by others but has not developed its own writing system",
-        "The period before the first use of stone tools",
-        "The period after the invention of writing systems",
-        "The period when written records are completely absent"
+        "c. 5,200 years ago",
+        "c. 3.3 million years ago",
+        "c. 2,000 years ago",
+        "c. 10,000 years ago"
       ],
       "answer_explanations": [
-        "Correct. The article defines protohistory as the period when a culture is written about by others but has not developed its own writing system.",
-        "Incorrect. The period before the first use of stone tools predates prehistory itself.",
-        "Incorrect. The period after the invention of writing systems is recorded history, not protohistory.",
-        "Incorrect. A period with no written records at all is prehistory, not protohistory."
+        "Correct. The article states 'the earliest known writing systems appeared c. 5,200 years ago'.",
+        "Incorrect. 3.3 million years ago is when stone tools were first used, not when writing appeared.",
+        "Incorrect. The article does not mention 2,000 years ago.",
+        "Incorrect. The article does not mention 10,000 years ago."
       ]
     },
     {
       "id": 4,
-      "question": "What is the main source of information for prehistory?",
+      "question": "What marks the beginning of recorded history, according to the article?",
       "options": [
-        "The archaeological record",
-        "Written historical records",
-        "Oral traditions passed down through generations",
-        "Modern folklore collections"
+        "The invention of writing systems",
+        "The first use of stone tools",
+        "The appearance of folklore",
+        "The rise of nations"
       ],
       "answer_explanations": [
-        "Correct. The article states that the main source of information for prehistory is the archaeological record.",
-        "Incorrect. By definition, there are no written records from human prehistory.",
-        "Incorrect. The article does not identify oral traditions as the main source of information for prehistory.",
-        "Incorrect. Folklore was used at first to understand prehistoric materials, but it is not the main source of information."
+        "Correct. The article says recorded history begins with 'the invention of writing systems'.",
+        "Incorrect. The first use of stone tools marks the beginning of prehistory, not recorded history.",
+        "Incorrect. Folklore is mentioned as a way to understand prehistoric materials, not as the start of recorded history.",
+        "Incorrect. The article does not say nations mark the beginning of recorded history."
       ]
     },
     {
       "id": 5,
-      "question": "Which dating technique is described as the most common in the article?",
+      "question": "What is the period called when a culture is written about by others but has not developed its own writing system?",
       "options": [
-        "Radiocarbon dating",
-        "Dendrochronology",
-        "Thermoluminescence dating",
-        "Potassium-argon dating"
+        "Protohistory",
+        "Prehistory",
+        "Recorded history",
+        "Pre-literary history"
       ],
       "answer_explanations": [
-        "Correct. The article states that the most common dating technique is radiocarbon dating.",
-        "Incorrect. Dendrochronology is not mentioned in the article.",
-        "Incorrect. Thermoluminescence dating is not mentioned in the article.",
-        "Incorrect. Potassium-argon dating is not mentioned in the article."
+        "Correct. The article states this period 'is often known as the protohistory of the culture'.",
+        "Incorrect. Prehistory is the period before any writing about the culture, not when others write about it.",
+        "Incorrect. Recorded history refers to the period after writing systems are invented by the culture itself.",
+        "Incorrect. Pre-literary history is another name for prehistory, not the period described."
       ]
     },
     {
       "id": 6,
-      "question": "What does the three-age system divide human prehistory into?",
+      "question": "How does human prehistory differ from history in terms of what it deals with?",
       "options": [
-        "Stone Age, Bronze Age, and Iron Age",
-        "Palaeolithic, Mesolithic, and Neolithic",
-        "Lower, Middle, and Upper Paleolithic",
-        "Copper Age, Bronze Age, and Iron Age"
+        "It deals with archaeological cultures rather than named nations or individuals",
+        "It deals with named nations rather than archaeological cultures",
+        "It deals with written records rather than material remains",
+        "It deals with individuals rather than cultures"
       ],
       "answer_explanations": [
-        "Correct. The article states that the three-age system is the periodization of human prehistory into Stone Age, Bronze Age, and Iron Age.",
-        "Incorrect. Palaeolithic, Mesolithic, and Neolithic are subdivisions of the Stone Age, not the three-age system itself.",
-        "Incorrect. Lower, Middle, and Upper Paleolithic are subdivisions of the Palaeolithic period.",
-        "Incorrect. The Copper Age is mentioned as a transition period in some areas, but it is not one of the three ages."
+        "Correct. The article says human prehistory 'deals with the activities of archaeological cultures rather than named nations or individuals'.",
+        "Incorrect. This is the opposite of what the article states.",
+        "Incorrect. Prehistory is restricted to material processes, remains, and artefacts, not written records.",
+        "Incorrect. The article says prehistory deals with cultures, not individuals."
       ]
     },
     {
       "id": 7,
-      "question": "How long did the Stone Age last according to the article?",
+      "question": "According to the article, why is prehistory described as 'anonymous'?",
       "options": [
-        "Roughly 3.4 million years",
-        "Roughly 1.3 million years",
-        "Roughly 5,200 years",
-        "Roughly 10,000 years"
+        "Because it is restricted to material processes, remains, and artefacts rather than written records",
+        "Because it deals with named individuals",
+        "Because it has many written records",
+        "Because it is about modern nations"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Stone Age lasted for roughly 3.4 million years.",
-        "Incorrect. 1.3 million years is when European prehistory begins, not the duration of the Stone Age.",
-        "Incorrect. 5,200 years is when the earliest known writing systems appeared.",
-        "Incorrect. 10,000 years is approximately when the Mesolithic period began."
+        "Correct. The article states: 'Restricted to material processes, remains, and artefacts rather than written records, prehistory is anonymous.'",
+        "Incorrect. Prehistory does not deal with named individuals; that is why it is anonymous.",
+        "Incorrect. Prehistory has no written records by definition.",
+        "Incorrect. Prehistory deals with archaeological cultures, not modern nations."
       ]
     },
     {
       "id": 8,
-      "question": "What does 'Palaeolithic' mean?",
+      "question": "What are examples of modern labels used by prehistorians, according to the article?",
       "options": [
-        "Old Stone Age",
-        "New Stone Age",
-        "Middle Stone Age",
-        "Copper Age"
+        "Neanderthal or Iron Age",
+        "Stone Age or Bronze Age",
+        "Ancient Egypt or Rome",
+        "Homo sapiens or Neolithic"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Palaeolithic' means 'Old Stone Age'.",
-        "Incorrect. 'New Stone Age' refers to the Neolithic, not the Palaeolithic.",
-        "Incorrect. 'Middle Stone Age' refers to the Mesolithic, not the Palaeolithic.",
-        "Incorrect. The Copper Age is a separate period, not the meaning of Palaeolithic."
+        "Correct. The article gives 'Neanderthal' or 'Iron Age' as examples of reference terms that prehistorians use.",
+        "Incorrect. The article does not mention 'Stone Age' or 'Bronze Age' in this context.",
+        "Incorrect. The article does not mention 'Ancient Egypt' or 'Rome'.",
+        "Incorrect. The article does not mention 'Homo sapiens' or 'Neolithic'."
       ]
     },
     {
       "id": 9,
-      "question": "When did Early Homo sapiens originate according to the article?",
+      "question": "By definition, what is not available from human prehistory?",
       "options": [
-        "Some 300,000 years ago",
-        "c. 3.3 million years ago",
-        "c. 5,200 years ago",
-        "c. 10,000 BP"
+        "Written records",
+        "Material archaeological evidence",
+        "Human remains",
+        "Anthropological evidence"
       ],
       "answer_explanations": [
-        "Correct. The article states that Early Homo sapiens originated some 300,000 years ago.",
-        "Incorrect. c. 3.3 million years ago is the earliest known use of stone tools.",
-        "Incorrect. c. 5,200 years ago is when the earliest known writing systems appeared.",
-        "Incorrect. c. 10,000 BP is when the Mesolithic period began."
+        "Correct. The article states 'By definition, there are no written records from human prehistory'.",
+        "Incorrect. Material archaeological evidence is a source of knowledge about prehistory, not unavailable.",
+        "Incorrect. Human remains are mentioned as evidence, not unavailable.",
+        "Incorrect. Anthropological evidence is mentioned as a source, not unavailable."
       ]
     },
     {
       "id": 10,
-      "question": "When did prehistory end in Egypt according to the article?",
+      "question": "How were prehistoric materials and human remains at first understood, according to the article?",
       "options": [
-        "Around 3100 BCE",
-        "c. 5,200 years ago",
-        "In the 1870s",
-        "Around 4000 BC"
+        "By the collection of folklore and by analogy with pre-literate societies observed in modern times",
+        "By written records from ancient civilizations",
+        "By studying named individuals",
+        "By using modern writing systems"
       ],
       "answer_explanations": [
-        "Correct. The article states that in Egypt it is generally accepted that prehistory ended around 3100 BCE.",
-        "Incorrect. c. 5,200 years ago is when the earliest known writing systems appeared globally, not specifically when prehistory ended in Egypt.",
-        "Incorrect. The 1870s is when the end of prehistory is set for New Guinea.",
-        "Incorrect. Around 4000 BC is when the Stone Age ended in some regions with the advent of metalworking, not when prehistory ended in Egypt."
+        "Correct. The article states these 'were at first understood by the collection of folklore and by analogy with pre-literate societies observed in modern times'.",
+        "Incorrect. Prehistory has no written records, so this is not how they were understood.",
+        "Incorrect. Prehistory is anonymous, so named individuals are not used.",
+        "Incorrect. Modern writing systems are not mentioned as a method for understanding prehistoric materials."
       ]
     }
   ]

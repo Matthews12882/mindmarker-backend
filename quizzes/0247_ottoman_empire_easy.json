@@ -5,23 +5,55 @@
   "questions": [
     {
       "id": 1,
-      "question": "In what year did Mehmed II conquer Constantinople?",
+      "question": "What was the Ottoman Empire also historically known as?",
       "options": [
-        "1453",
-        "1299",
-        "1402",
-        "1517"
+        "Turkey or the Turkish Empire",
+        "Byzantine Empire",
+        "Persian Empire",
+        "Roman Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states that Mehmed II ended the Byzantine Empire with the conquest of Constantinople in 1453.",
-        "Incorrect. The article says the empire was founded around 1299 by Osman I, not that Constantinople was conquered then.",
-        "Incorrect. The article mentions 1402 as the year of the Battle of Ankara, not the conquest of Constantinople.",
-        "Incorrect. The article associates 1516â1517 with Selim Iâs conquests against the Mamluks, not with Mehmed IIâs capture of Constantinople."
+        "Correct. The article states that the Ottoman Empire was 'also known historically as Turkey or the Turkish Empire'.",
+        "Incorrect. The Byzantine Empire was a different state that the Ottomans conquered.",
+        "Incorrect. The Persian Empire was a different empire, not the Ottoman Empire.",
+        "Incorrect. The Roman Empire was a different ancient state."
       ]
     },
     {
       "id": 2,
-      "question": "Who founded the Ottoman Empire around 1299?",
+      "question": "Which regions did the Ottoman Empire span?",
+      "options": [
+        "Southeastern Europe, West Asia, and North Africa",
+        "Northern Europe, East Asia, and South America",
+        "Western Europe, Central Asia, and Sub-Saharan Africa",
+        "Southern Europe, South Asia, and Australia"
+      ],
+      "answer_explanations": [
+        "Correct. The article says the empire 'spanned much of Southeastern Europe, West Asia, and North Africa'.",
+        "Incorrect. The article does not mention Northern Europe, East Asia, or South America.",
+        "Incorrect. The article does not mention Western Europe, Central Asia, or Sub-Saharan Africa.",
+        "Incorrect. The article does not mention Southern Europe, South Asia, or Australia."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "In which century did the Ottoman Empire emerge?",
+      "options": [
+        "14th century",
+        "15th century",
+        "16th century",
+        "13th century"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the empire existed 'from the 14th century to the early 20th century'.",
+        "Incorrect. The 15th century is when Constantinople was conquered, not when the empire emerged.",
+        "Incorrect. The 16th century is when Suleiman the Magnificent reigned, not when the empire emerged.",
+        "Incorrect. The article says the beylik was founded in c. 1299, but the empire spanned from the 14th century."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who founded the Ottoman Empire?",
       "options": [
         "Osman I",
         "Mehmed II",
@@ -29,138 +61,106 @@
         "Suleiman the Magnificent"
       ],
       "answer_explanations": [
-        "Correct. The article states that Osman I founded the beylik in northwestern Anatolia around 1299.",
-        "Incorrect. Mehmed II is noted for conquering Constantinople in 1453, not for founding the empire.",
-        "Incorrect. Selim I is described as making further conquests that led sultans to adopt the caliph title, not as the founder.",
-        "Incorrect. Suleiman the Magnificent ruled in the 16th century and made the empire a global power, but he did not found it."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Which regions did the Ottoman Empire span according to the article?",
-      "options": [
-        "Southeastern Europe, West Asia, and North Africa",
-        "South America, East Asia, and Australia",
-        "Central Africa, the Caribbean, and Scandinavia",
-        "India, Japan, and the Pacific Islands"
-      ],
-      "answer_explanations": [
-        "Correct. The articleâs opening sentence says the empire spanned much of Southeastern Europe, West Asia, and North Africa.",
-        "Incorrect. The article does not mention South America, East Asia, or Australia as part of the empire.",
-        "Incorrect. Central Africa, the Caribbean, and Scandinavia are not listed among the empireâs territories.",
-        "Incorrect. India, Japan, and the Pacific Islands are not mentioned as regions the empire spanned."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What title did the sultans adopt after Selim Iâs further conquests?",
-      "options": [
-        "caliph",
-        "emperor",
-        "king",
-        "president"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that further conquests by Selim I led the sultans to adopt the title of caliph.",
-        "Incorrect. The article does not say the sultans adopted the title of emperor.",
-        "Incorrect. The article does not mention the title of king in connection with Selim Iâs conquests.",
-        "Incorrect. The title of president is not mentioned in the article."
+        "Correct. The article says the empire was founded by 'the Turkoman tribal leader Osman I'.",
+        "Incorrect. Mehmed II conquered Constantinople but did not found the empire.",
+        "Incorrect. Selim I was a later sultan who adopted the caliph title.",
+        "Incorrect. Suleiman the Magnificent reigned in the 16th century, long after the founding."
       ]
     },
     {
       "id": 5,
-      "question": "What were the confessional communities in the Ottoman Empire called?",
+      "question": "What happened in 1453?",
       "options": [
-        "millets",
-        "beyliks",
-        "sultanates",
-        "provinces"
+        "The Ottomans conquered Constantinople",
+        "The Ottomans adopted the caliph title",
+        "The Ottoman Empire was founded",
+        "Suleiman the Magnificent became sultan"
       ],
       "answer_explanations": [
-        "Correct. The article refers to the empireâs confessional communities as millets.",
-        "Incorrect. Beyliks are described as principalities, not confessional communities.",
-        "Incorrect. Sultanates are not the term used for confessional communities in the article.",
-        "Incorrect. The article does not call confessional communities provinces."
+        "Correct. The article states 'the conquest of Constantinople in 1453 by Mehmed II'.",
+        "Incorrect. The caliph title was adopted after Selim I's conquests, not in 1453.",
+        "Incorrect. The empire emerged in the 14th century, not 1453.",
+        "Incorrect. Suleiman the Magnificent reigned in the 16th century, not 1453."
       ]
     },
     {
       "id": 6,
-      "question": "Which side did the Committee of Union and Progress join in World War I?",
+      "question": "Which sultan conquered Constantinople?",
       "options": [
-        "the Central Powers",
-        "the Allied Powers",
-        "the Axis Powers",
-        "the Triple Entente"
+        "Mehmed II",
+        "Osman I",
+        "Selim I",
+        "Suleiman the Magnificent"
       ],
       "answer_explanations": [
-        "Correct. The article states that the CUP joined World War I on the side of the Central Powers.",
-        "Incorrect. The article identifies the Allied Powers as the victorious side that occupied and partitioned the empire after the war.",
-        "Incorrect. The Axis Powers are not mentioned in the article.",
-        "Incorrect. The Triple Entente is not mentioned in the article."
+        "Correct. The article says 'the conquest of Constantinople in 1453 by Mehmed II'.",
+        "Incorrect. Osman I founded the empire but did not conquer Constantinople.",
+        "Incorrect. Selim I is known for other conquests, not Constantinople.",
+        "Incorrect. Suleiman the Magnificent reigned later."
       ]
     },
     {
       "id": 7,
-      "question": "In what year did the Ottoman sultanate end?",
+      "question": "What title did the Sultans adopt after Selim I's conquests?",
       "options": [
-        "1922",
-        "1453",
-        "1908",
-        "1683"
+        "Caliph",
+        "Emperor",
+        "King",
+        "Shah"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Turkish War of Independence led to the end of the Ottoman sultanate in 1922.",
-        "Incorrect. 1453 is the year of the conquest of Constantinople, not the end of the sultanate.",
-        "Incorrect. 1908 is the year of the Young Turk Revolution, not the abolition of the sultanate.",
-        "Incorrect. 1683 is associated with the Second Siege of Vienna and the beginning of decline, not the end of the sultanate."
+        "Correct. The article says 'Further conquests by Selim I led the Sultans to adopt the title of caliph'.",
+        "Incorrect. The article does not mention the title 'Emperor'.",
+        "Incorrect. The article does not mention the title 'King'.",
+        "Incorrect. The article does not mention the title 'Shah'."
       ]
     },
     {
       "id": 8,
-      "question": "What did Osmanâs name derive from?",
+      "question": "What was the capital of the Ottoman Empire?",
       "options": [
-        "the Arabic name Ê¿UthmÄn",
-        "the Turkish name TÃ¼rk",
-        "the Latin name Romanus",
-        "the Persian name Cyrus"
+        "Constantinople",
+        "Ankara",
+        "Bursa",
+        "Edirne"
       ],
       "answer_explanations": [
-        "Correct. The etymology section says Osmanâs name was the Turkish form of the Arabic name Ê¿UthmÄn.",
-        "Incorrect. The article distinguishes TÃ¼rk as a term for Anatolian peasant and tribal population, not as the source of Osmanâs name.",
-        "Incorrect. RÅ«mÄ«, meaning Roman, is mentioned as a self-identifier, but not as the origin of Osmanâs name.",
-        "Incorrect. The name Cyrus is not mentioned in the article."
+        "Correct. The article states 'With its capital at Constantinople'.",
+        "Incorrect. Ankara is the capital of modern Turkey, not the Ottoman Empire.",
+        "Incorrect. Bursa was an early Ottoman capital but not the one mentioned in the lead.",
+        "Incorrect. Edirne was an Ottoman capital but not the one mentioned in the lead."
       ]
     },
     {
       "id": 9,
-      "question": "What did educated, urban Turkish speakers who were not in the military-administrative class call themselves in the early modern period?",
+      "question": "During whose reign did the Ottoman Empire become a global power?",
       "options": [
-        "RÅ«mÄ«",
-        "OsmanlÄ±",
-        "TÃ¼rk",
-        "Sultan"
+        "Suleiman the Magnificent",
+        "Mehmed II",
+        "Selim I",
+        "Osman I"
       ],
       "answer_explanations": [
-        "Correct. The article says such individuals typically referred to themselves as RÅ«mÄ«, meaning Roman.",
-        "Incorrect. OsmanlÄ± referred to the military-administrative elite, not this group.",
-        "Incorrect. TÃ¼rk was used for Anatolian peasants and was seen as disparaging for urban, educated individuals.",
-        "Incorrect. Sultan is not mentioned as a self-identifier for this group."
+        "Correct. The article says 'During the reign of Suleiman the Magnificent in the 16th century, the Ottoman Empire became a global power'.",
+        "Incorrect. Mehmed II is known for conquering Constantinople, not for making the empire a global power.",
+        "Incorrect. Selim I is known for adopting the caliph title, not for global power.",
+        "Incorrect. Osman I founded the empire but it was not yet a global power."
       ]
     },
     {
       "id": 10,
-      "question": "What happened in 1920â1923 regarding the names used for the Ottoman state?",
+      "question": "What did the Ottoman Empire grant to its many confessional communities?",
       "options": [
-        "Turkey was chosen as the sole official name",
-        "Ottoman Empire became the only accepted name",
-        "Turkish Empire was banned from use",
-        "RÅ«mÄ« was adopted as the official designation"
+        "Varying levels of autonomy",
+        "Full independence",
+        "Equal representation in government",
+        "No rights at all"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Ankara-based Turkish government chose Turkey as the sole official name in 1920â1923.",
-        "Incorrect. The article says the interchangeable names were ended by selecting Turkey alone, not Ottoman Empire.",
-        "Incorrect. The article does not say Turkish Empire was banned.",
-        "Incorrect. RÅ«mÄ« is not mentioned as an official designation adopted in 1920â1923."
+        "Correct. The article says the empire 'granted varying levels of autonomy to its many confessional communities'.",
+        "Incorrect. The article does not say full independence was granted.",
+        "Incorrect. The article does not mention equal representation in government.",
+        "Incorrect. The article says they were granted autonomy, not no rights."
       ]
     }
   ]

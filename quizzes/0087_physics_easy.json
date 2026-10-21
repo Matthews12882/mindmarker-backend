@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is physics defined as in the article?",
+      "question": "What is physics the scientific study of?",
       "options": [
-        "The scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force",
-        "The study of living organisms and their interactions",
-        "The study of chemical reactions and compounds",
-        "The study of numbers, shapes, and patterns"
+        "matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force",
+        "the chemical reactions between substances",
+        "the behavior of living organisms",
+        "the history of ancient civilizations"
       ],
       "answer_explanations": [
-        "Correct. The article defines physics as 'the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force.'",
-        "Incorrect. The article does not define physics as the study of living organisms; that describes biology.",
-        "Incorrect. The article does not define physics as the study of chemical reactions; that describes chemistry.",
-        "Incorrect. The article does not define physics as the study of numbers, shapes, and patterns; that describes mathematics."
+        "Correct. The article states: 'Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force.'",
+        "Incorrect. The article does not describe physics as the study of chemical reactions; that is chemistry.",
+        "Incorrect. The article does not describe physics as the study of living organisms; that is biology.",
+        "Incorrect. The article does not describe physics as the study of history."
       ]
     },
     {
       "id": 2,
       "question": "What is a scientist who specializes in physics called?",
       "options": [
-        "A physicist",
-        "A chemist",
-        "A biologist",
-        "A mathematician"
+        "a physicist",
+        "a chemist",
+        "a biologist",
+        "a mathematician"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'A scientist who specializes in the field of physics is called a physicist.'",
-        "Incorrect. The article does not call a physics specialist a chemist.",
-        "Incorrect. The article does not call a physics specialist a biologist.",
-        "Incorrect. The article does not call a physics specialist a mathematician."
+        "Correct. The article states: 'A scientist who specializes in the field of physics is called a physicist.'",
+        "Incorrect. A chemist specializes in chemistry, not physics.",
+        "Incorrect. A biologist specializes in biology, not physics.",
+        "Incorrect. A mathematician specializes in mathematics, not physics."
       ]
     },
     {
       "id": 3,
-      "question": "What were physics, chemistry, biology, and certain branches of mathematics part of for much of the past two millennia?",
+      "question": "Which of the following is NOT mentioned as a related entity of energy and force in the definition of physics?",
       "options": [
-        "Natural philosophy",
-        "Natural science",
-        "Experimental science",
-        "Modern physics"
+        "light",
+        "matter",
+        "motion",
+        "space and time"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were part of natural philosophy.'",
-        "Incorrect. The article does not say these fields were part of natural science during that period.",
-        "Incorrect. The article does not say these fields were part of experimental science during that period.",
-        "Incorrect. The article does not say these fields were part of modern physics during that period."
+        "Correct. The article does not mention light in the definition; it mentions matter, motion, space and time, energy, and force.",
+        "Incorrect. Matter is explicitly mentioned as part of the study of physics.",
+        "Incorrect. Motion is explicitly mentioned as part of the study of physics.",
+        "Incorrect. Space and time are explicitly mentioned as part of the study of physics."
       ]
     },
     {
       "id": 4,
-      "question": "When did physics, chemistry, biology, and certain branches of mathematics branch into separate research endeavors?",
+      "question": "According to the article, physics is one of the most __________ scientific disciplines.",
       "options": [
-        "During the Scientific Revolution in the 17th century",
-        "During the 19th century",
-        "During the 20th century",
-        "During the Archaic period in Greece"
+        "fundamental",
+        "complex",
+        "applied",
+        "modern"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors.'",
-        "Incorrect. The article does not say these fields branched into separate endeavors during the 19th century.",
-        "Incorrect. The article does not say these fields branched into separate endeavors during the 20th century.",
-        "Incorrect. The article does not say these fields branched into separate endeavors during the Archaic period in Greece."
+        "Correct. The article states: 'It is one of the most fundamental scientific disciplines.'",
+        "Incorrect. The article does not describe physics as the most complex.",
+        "Incorrect. The article does not describe physics as the most applied.",
+        "Incorrect. The article does not describe physics as the most modern."
       ]
     },
     {
       "id": 5,
-      "question": "What does the word 'physics' come from?",
+      "question": "Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were part of what?",
       "options": [
-        "The Latin 'physica' ('study of nature'), borrowed from Greek",
-        "The Arabic 'tabi'iyyat'",
-        "The Sanskrit 'prakriti'",
-        "The Old English 'fysic'"
+        "natural philosophy",
+        "alchemy",
+        "engineering",
+        "metaphysics"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'The word physics comes from the Latin physica ('study of nature'), which itself is a borrowing of (phusiká¸ 'natural science').'",
-        "Incorrect. The article does not mention an Arabic origin for the word physics.",
-        "Incorrect. The article does not mention a Sanskrit origin for the word physics.",
-        "Incorrect. The article does not mention an Old English origin for the word physics."
+        "Correct. The article states: 'Over much of the past two millennia, physics, chemistry, biology, and certain branches of mathematics were part of natural philosophy.'",
+        "Incorrect. Alchemy is not mentioned in the article.",
+        "Incorrect. Engineering is not mentioned in the article.",
+        "Incorrect. Metaphysics is not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "Which ancient civilizations dating before 3000 BCE had predictive knowledge of the motions of the Sun, Moon, and stars?",
+      "question": "During which century did the natural sciences branch into separate research endeavors?",
       "options": [
-        "Sumerians, ancient Egyptians, and the Indus Valley Civilization",
-        "Greeks, Romans, and Persians",
-        "Mayans, Aztecs, and Incas",
-        "Chinese, Japanese, and Koreans"
+        "17th century",
+        "16th century",
+        "18th century",
+        "19th century"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Early civilizations dating before 3000 BCE, such as the Sumerians, ancient Egyptians, and the Indus Valley Civilization, had a predictive knowledge and a basic awareness of the motions of the Sun, Moon, and stars.'",
-        "Incorrect. The article does not mention Greeks, Romans, and Persians in this context.",
-        "Incorrect. The article does not mention Mayans, Aztecs, and Incas in this context.",
-        "Incorrect. The article does not mention Chinese, Japanese, and Koreans in this context."
+        "Correct. The article states: 'during the Scientific Revolution in the 17th century, these natural sciences branched into separate research endeavors.'",
+        "Incorrect. The article specifies the 17th century, not the 16th.",
+        "Incorrect. The article specifies the 17th century, not the 18th.",
+        "Incorrect. The article specifies the 17th century, not the 19th."
       ]
     },
     {
       "id": 7,
-      "question": "According to Asger Aaboe, where can the origins of Western astronomy be found?",
+      "question": "Which of the following is mentioned as an interdisciplinary area of research that physics intersects with?",
       "options": [
-        "Mesopotamia",
-        "Greece",
-        "Egypt",
-        "Rome"
+        "biophysics",
+        "geology",
+        "astronomy",
+        "psychology"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'According to Asger Aaboe, the origins of Western astronomy can be found in Mesopotamia.'",
-        "Incorrect. The article does not say the origins of Western astronomy can be found in Greece according to Aaboe.",
-        "Incorrect. The article does not say the origins of Western astronomy can be found in Egypt according to Aaboe.",
-        "Incorrect. The article does not say the origins of Western astronomy can be found in Rome according to Aaboe."
+        "Correct. The article states: 'Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry.'",
+        "Incorrect. Geology is not mentioned in the article.",
+        "Incorrect. Astronomy is not mentioned in the article.",
+        "Incorrect. Psychology is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "What did pre-Socratic philosophers like Thales proclaim about natural phenomena?",
+      "question": "According to the article, new ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in which disciplines?",
       "options": [
-        "That every event had a natural cause",
-        "That every event had a supernatural cause",
-        "That every event was random",
-        "That every event was predetermined by the gods"
+        "mathematics and philosophy",
+        "history and literature",
+        "art and music",
+        "law and economics"
       ],
       "answer_explanations": [
-        "Correct. The article states that pre-Socratic philosophers like Thales 'rejected non-naturalistic explanations for natural phenomena and proclaimed that every event had a natural cause.'",
-        "Incorrect. The article states they rejected non-naturalistic explanations, not supernatural ones.",
-        "Incorrect. The article does not say they believed events were random.",
-        "Incorrect. The article does not say they believed events were predetermined by the gods."
+        "Correct. The article states: 'New ideas in physics often explain the fundamental mechanisms studied by other sciences and suggest new avenues of research in these and other academic disciplines, such as mathematics and philosophy.'",
+        "Incorrect. History and literature are not mentioned in this context.",
+        "Incorrect. Art and music are not mentioned in this context.",
+        "Incorrect. Law and economics are not mentioned in this context."
       ]
     },
     {
       "id": 9,
-      "question": "How long was Aristotelian physics influential?",
+      "question": "Advances in the understanding of electromagnetism, solid-state physics, and nuclear physics led directly to the development of which technologies?",
       "options": [
-        "For about two millennia",
-        "For about one century",
-        "For about five centuries",
-        "For about one millennium"
+        "television, computers, domestic appliances, and nuclear weapons",
+        "automobiles and airplanes",
+        "telephones and radios",
+        "steam engines and trains"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Aristotelian physics was influential for about two millennia.'",
-        "Incorrect. The article does not say Aristotelian physics was influential for about one century.",
-        "Incorrect. The article does not say Aristotelian physics was influential for about five centuries.",
-        "Incorrect. The article does not say Aristotelian physics was influential for about one millennium."
+        "Correct. The article states: 'advances in the understanding of electromagnetism, solid-state physics, and nuclear physics led directly to the development of technologies that have transformed modern society, such as television, computers, domestic appliances, and nuclear weapons.'",
+        "Incorrect. Automobiles and airplanes are not listed in the article as resulting from these advances.",
+        "Incorrect. Telephones and radios are not listed in the article as resulting from these advances.",
+        "Incorrect. Steam engines and trains are not listed in the article as resulting from these advances."
       ]
     },
     {
       "id": 10,
-      "question": "What did advances in thermodynamics lead to the development of?",
+      "question": "Advances in which field led to the development of industrialization?",
       "options": [
-        "Industrialization",
-        "Television",
-        "Computers",
-        "Calculus"
+        "thermodynamics",
+        "electromagnetism",
+        "nuclear physics",
+        "mechanics"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'advances in thermodynamics led to the development of industrialization.'",
-        "Incorrect. The article associates television with advances in electromagnetism, solid-state physics, and nuclear physics, not thermodynamics.",
-        "Incorrect. The article associates computers with advances in electromagnetism, solid-state physics, and nuclear physics, not thermodynamics.",
-        "Incorrect. The article associates calculus with advances in mechanics, not thermodynamics."
+        "Correct. The article states: 'advances in thermodynamics led to the development of industrialization.'",
+        "Incorrect. Electromagnetism is mentioned in relation to other technologies, not industrialization.",
+        "Incorrect. Nuclear physics is mentioned in relation to other technologies, not industrialization.",
+        "Incorrect. Mechanics is mentioned in relation to calculus, not industrialization."
       ]
     }
   ]

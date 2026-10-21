@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following is listed as a visual art in the article?",
+      "question": "Which of the following is NOT listed as a visual art form in the article's introduction?",
       "options": [
-        "Painting",
         "Music",
-        "Dance",
-        "Theater"
+        "Painting",
+        "Sculpture",
+        "Photography"
       ],
       "answer_explanations": [
-        "Correct. The article explicitly lists painting among the visual arts.",
-        "Incorrect. Music is a performing art, not listed as a visual art.",
-        "Incorrect. Dance is also a performing art, not part of the visual arts.",
-        "Incorrect. Theater is a performing art, not included in the visual arts."
+        "Correct. The article lists painting, sculpture, and photography as visual art forms, but music is not included in that list.",
+        "Incorrect. Painting is explicitly mentioned as a visual art form in the article's introduction.",
+        "Incorrect. Sculpture is explicitly mentioned as a visual art form in the article's introduction.",
+        "Incorrect. Photography is explicitly mentioned as a visual art form in the article's introduction."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, which historical movement emphasized vernacular art forms as much as high forms?",
+      "question": "Before the Arts and Crafts Movement, the term 'artist' was often restricted to someone working in which type of art?",
       "options": [
-        "Arts and Crafts Movement",
-        "Modern Art Movement",
-        "Impressionist Movement",
-        "Surrealist Movement"
+        "Fine arts",
+        "Decorative arts",
+        "Crafts",
+        "Applied arts"
       ],
       "answer_explanations": [
-        "Correct. The article states that artists of the Arts and Crafts Movement valued vernacular art forms as much as high forms.",
-        "Incorrect. The Modern Art Movement is not discussed in this context.",
-        "Incorrect. The Impressionist Movement is not mentioned as emphasizing vernacular art.",
-        "Incorrect. The Surrealist Movement is not referenced in the article."
+        "Correct. The article states that before the Arts and Crafts Movement, the term 'artist' had for some centuries often been restricted to a person working in the fine arts, such as painting, sculpture, or printmaking.",
+        "Incorrect. The article says that decorative arts were not typically included under the term 'artist' before the Arts and Crafts Movement.",
+        "Incorrect. The article says that crafts were not typically included under the term 'artist' before the Arts and Crafts Movement.",
+        "Incorrect. The article says that applied visual arts media were not typically included under the term 'artist' before the Arts and Crafts Movement."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say about the historical status of the term 'artist' before the Arts and Crafts Movement?",
+      "question": "Historically, training in the visual arts began as variations of which system?",
       "options": [
-        "It was restricted to those working in fine arts like painting and sculpture.",
-        "It included craftspeople and applied arts practitioners.",
-        "It was used only for architects.",
-        "It referred exclusively to performers."
+        "Apprentice and workshop systems",
+        "University lecture systems",
+        "Online tutorial systems",
+        "Self-teaching systems"
       ],
       "answer_explanations": [
-        "Correct. The article explains that before the Arts and Crafts Movement, the term 'artist' was often restricted to those working in the fine arts.",
-        "Incorrect. The article says the opposite: craftspeople were not considered artists.",
-        "Incorrect. Architects are not singled out as the sole group.",
-        "Incorrect. Performers are not mentioned in this context."
+        "Correct. The article states that historically, training in the visual arts began as variations of the apprentice and workshop systems, typically over a period of 2 to 6 years.",
+        "Incorrect. The article mentions that formal art academies grew into universities and institutes, but this was a later evolution, not the historical beginning.",
+        "Incorrect. Online tutorial systems are not mentioned in the article as a historical training method.",
+        "Incorrect. Self-teaching systems are not mentioned in the article as the historical beginning of visual arts training."
       ]
     },
     {
       "id": 4,
-      "question": "Which regionâs art education has been de-prioritized or removed from primary curricula in favor of vocational or STEM subjects?",
+      "question": "In which region has art education been de-prioritized or removed from primary curricula in favor of vocational or STEM-focused subjects?",
       "options": [
-        "Sub-Saharan African nations",
+        "Several Sub-Saharan African nations",
         "European nations",
         "North American nations",
-        "Middle Eastern nations"
+        "Asian nations like Singapore"
       ],
       "answer_explanations": [
-        "Correct. The article notes that several Sub-Saharan African nations have de-prioritized art education.",
-        "Incorrect. European nations are not described as having removed art education.",
-        "Incorrect. North American nations are not mentioned in this context.",
-        "Incorrect. The article discusses Middle Eastern education but not as de-prioritized."
+        "Correct. The article states that several Sub-Saharan African nations have seen art education de-prioritized or removed from primary curricula in favor of vocational or STEM-focused subjects.",
+        "Incorrect. The article says that in many European and North American nations, formal art academies grew into universities and institutes, not that art education was removed.",
+        "Incorrect. The article says that in many European and North American nations, formal art academies grew into universities and institutes, not that art education was removed.",
+        "Incorrect. The article says that Singapore has modernized its approach by focusing resources into digital visual arts, not by removing art education."
       ]
     },
     {
       "id": 5,
-      "question": "What are the Four Treasures of the Study in Chinese drawing?",
+      "question": "Which of the following is NOT listed as a dry media used in drawing?",
       "options": [
-        "Brush, ink, inkstone, and paper",
-        "Pencil, eraser, paper, and ruler",
-        "Charcoal, chalk, canvas, and easel",
-        "Paintbrush, oil paints, canvas, and palette"
+        "Watercolor",
+        "Graphite pencils",
+        "Charcoals",
+        "Pastels"
       ],
       "answer_explanations": [
-        "Correct. The article lists the Four Treasures of the Study as brush, ink, inkstone, and paper.",
-        "Incorrect. These items are not referred to as the Four Treasures.",
-        "Incorrect. The listed items are not the Four Treasures.",
-        "Incorrect. The Four Treasures are not paint-related supplies."
+        "Correct. Watercolor is not listed as a dry media; the article lists dry media such as graphite pencils, charcoals, and pastels, among others.",
+        "Incorrect. Graphite pencils are explicitly listed as a dry media in the article.",
+        "Incorrect. Charcoals are explicitly listed as a dry media in the article.",
+        "Incorrect. Pastels are explicitly listed as a dry media in the article."
       ]
     },
     {
       "id": 6,
-      "question": "Which early painting technique used egg yolk, animal glue, or milk as a binder?",
+      "question": "According to the article, drawing on paper increased in the Middle East and Europe in the 14th century with the help of which group?",
       "options": [
-        "Tempera",
-        "Encaustic",
-        "Fresco",
-        "Oil paint"
+        "Islamic traders traveling from China",
+        "European explorers traveling to America",
+        "Greek philosophers traveling from Athens",
+        "Roman soldiers traveling from Italy"
       ],
       "answer_explanations": [
-        "Correct. The article states that tempera uses egg yolk, animal glue, or milk to adhere pigments.",
-        "Incorrect. Encaustic uses hot wax, not egg yolk.",
-        "Incorrect. Fresco involves pigment applied to wet plaster.",
-        "Incorrect. Oil paint uses drying oils as a binder."
+        "Correct. The article states that with the help of Islamic traders traveling from China, drawing on paper increased in the Middle East and Europe in the 14th century.",
+        "Incorrect. The article does not mention European explorers traveling to America as a factor in the increase of drawing on paper.",
+        "Incorrect. The article does not mention Greek philosophers as a factor in the increase of drawing on paper.",
+        "Incorrect. The article does not mention Roman soldiers as a factor in the increase of drawing on paper."
       ]
     },
     {
       "id": 7,
-      "question": "What is the primary difference between Japanese woodblock printing (mokuhanga) and Western woodcut?",
+      "question": "What is the earliest evidence of painting, according to the article?",
       "options": [
-        "Mokuhanga uses water-based inks, while Western woodcut uses oil-based inks.",
-        "Mokuhanga uses oil-based inks, while Western woodcut uses water-based inks.",
-        "Mokuhanga uses metal plates, while Western woodcut uses wood.",
-        "Mokuhanga is always monochromatic, while Western woodcut is colorful."
+        "Natural pigments made from ochre, chalk, and charcoal applied to stone surfaces",
+        "Oil paints on stretched canvas",
+        "Watercolors on paper",
+        "Acrylic paints on wood panels"
       ],
       "answer_explanations": [
-        "Correct. The article explains that mokuhanga uses water-based inks, unlike oil-based inks in Western woodcut.",
-        "Incorrect. The difference is reversed; mokuhanga uses water-based inks.",
-        "Incorrect. Both techniques use wood blocks.",
-        "Incorrect. Mokuhanga can be colorful, not limited to monochrome."
+        "Correct. The article states that the earliest evidence of painting consists of natural pigments made from ochre, chalk, and charcoal applied directly to stone surfaces.",
+        "Incorrect. Oil paints on stretched canvas are a later development, as the article describes the development of oil paint after earlier techniques.",
+        "Incorrect. Watercolors on paper are a later development, as the article describes them in the context of industrialization and synthetics.",
+        "Incorrect. Acrylic paints are a 20th-century development, as the article mentions the development of synthetic acrylic binders in the 20th century."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what type of painting allowed artists to build upon classical techniques with shading and glazing?",
+      "question": "Which of the following is NOT listed as a major technique in printmaking?",
       "options": [
-        "Oil paint",
         "Watercolor",
-        "Gouache",
-        "Acrylic paint"
+        "Woodcut",
+        "Etching",
+        "Lithography"
       ],
       "answer_explanations": [
-        "Correct. The article describes oil paint's slow drying time enabling shading and glazing for chiaroscuro effects.",
-        "Incorrect. Watercolor does not allow the same layering technique as oil paint.",
-        "Incorrect. Gouache is opaque and not noted for chiaroscuro layering.",
-        "Incorrect. Acrylic paint dries quickly and is not highlighted for classical layering."
+        "Correct. Watercolor is a painting medium, not a printmaking technique. The article lists woodcut, etching, and lithography as major printmaking techniques.",
+        "Incorrect. Woodcut is explicitly listed as a major printmaking technique in the article.",
+        "Incorrect. Etching is explicitly listed as a major printmaking technique in the article.",
+        "Incorrect. Lithography is explicitly listed as a major printmaking technique in the article."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following is NOT mentioned as a drawing technique in the article?",
+      "question": "In China, the art of printmaking developed about 1,100 years ago primarily as what?",
       "options": [
-        "Stippling",
-        "Crosshatching",
-        "Pointillism",
-        "Blending"
+        "Illustrations alongside text cut in woodblocks for printing on paper",
+        "Standalone paintings on silk scrolls",
+        "Sculptures carved in stone",
+        "Photographs printed on metal plates"
       ],
       "answer_explanations": [
-        "Correct. The article lists stippling, crosshatching, and blending, but does not mention pointillism.",
-        "Incorrect. Stippling is explicitly listed as a drawing technique.",
-        "Incorrect. Crosshatching is mentioned as a technique.",
-        "Incorrect. Blending is listed as a drawing technique."
+        "Correct. The article states that in China, the art of printmaking developed some 1,100 years ago as illustrations alongside text cut in woodblocks for printing on paper.",
+        "Incorrect. The article does not mention standalone paintings on silk scrolls as the origin of Chinese printmaking.",
+        "Incorrect. The article does not mention sculptures carved in stone as the origin of Chinese printmaking.",
+        "Incorrect. The article does not mention photographs printed on metal plates as the origin of Chinese printmaking."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about the use of digital painting in the late 20th and early 21st centuries?",
+      "question": "What is the main difference between Japanese mokuhanga and Western woodcut, according to the article?",
       "options": [
-        "It allowed artists to manipulate pixels as a medium, bypassing physical pigments.",
-        "It replaced traditional painting entirely.",
-        "It was limited to simple sketches.",
-        "It required expensive physical materials."
+        "Mokuhanga uses water-based inks, while Western woodcut uses oil-based inks",
+        "Mokuhanga uses oil-based inks, while Western woodcut uses water-based inks",
+        "Mokuhanga is printed on fabric, while Western woodcut is printed on paper",
+        "Mokuhanga is done digitally, while Western woodcut is done by hand"
       ],
       "answer_explanations": [
-        "Correct. The article states that digital painting enabled artists to use software to manipulate pixels as a medium, bypassing physical pigments.",
-        "Incorrect. The article does not claim digital painting replaced traditional painting.",
-        "Incorrect. Digital painting is not described as limited to simple sketches.",
-        "Incorrect. The article does not mention expense or physical materials for digital painting."
+        "Correct. The article states that mokuhanga differs greatly in that water-based inks are used, as opposed to Western woodcut, which uses oil-based inks.",
+        "Incorrect. The article states the opposite: mokuhanga uses water-based inks, and Western woodcut uses oil-based inks.",
+        "Incorrect. The article does not mention a difference in printing surfaces between mokuhanga and Western woodcut.",
+        "Incorrect. The article does not mention digital methods in the context of mokuhanga versus Western woodcut."
       ]
     }
   ]

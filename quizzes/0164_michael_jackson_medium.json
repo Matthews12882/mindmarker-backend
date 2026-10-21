@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What nickname is Michael Jackson widely known by according to the article?",
+      "question": "What was Michael Jackson's nickname?",
       "options": [
         "King of Pop",
-        "King of Soul",
+        "King of Rock",
         "Prince of Pop",
-        "King of Rock"
+        "King of Dance"
       ],
       "answer_explanations": [
-        "Correct. The article states he was dubbed the \"King of Pop\".",
-        "Incorrect. The article does not call him the King of Soul.",
+        "Correct. The article states he was dubbed the 'King of Pop'.",
+        "Incorrect. The article does not call him the King of Rock.",
         "Incorrect. The article does not call him the Prince of Pop.",
-        "Incorrect. The article does not call him the King of Rock."
+        "Incorrect. The article does not call him the King of Dance."
       ]
     },
     {
       "id": 2,
-      "question": "Which album became the best-selling album in history according to the article?",
+      "question": "Which album became the best-selling album in history?",
       "options": [
         "Thriller",
+        "Off the Wall",
         "Bad",
-        "Dangerous",
-        "Off the Wall"
+        "Dangerous"
       ],
       "answer_explanations": [
         "Correct. The article says Thriller (1982) became the best-selling album in history.",
-        "Incorrect. Bad is noted for five Billboard Hot 100 number-one singles, not as the best-selling album.",
-        "Incorrect. Dangerous is described as a commercial blockbuster, not the best-selling album.",
-        "Incorrect. Off the Wall marked his rise to solo stardom but is not called the best-selling album."
+        "Incorrect. Off the Wall was a successful album but not the best-selling in history.",
+        "Incorrect. Bad was a successful album but not the best-selling in history.",
+        "Incorrect. Dangerous was a commercial blockbuster but not the best-selling in history."
       ]
     },
     {
       "id": 3,
-      "question": "Which dance move did Michael Jackson's performance of \"Dancing Machine\" on Soul Train help popularize?",
+      "question": "How many children were in the Jackson family?",
       "options": [
-        "the robot",
-        "the moonwalk",
-        "the anti-gravity lean",
-        "breakdancing"
+        "Ten",
+        "Eight",
+        "Nine",
+        "Six"
       ],
       "answer_explanations": [
-        "Correct. The article states his Soul Train performance of \"Dancing Machine\" helped popularize the robot dance.",
-        "Incorrect. The moonwalk is mentioned elsewhere as a street dance move he popularized, but not in connection with \"Dancing Machine\".",
-        "Incorrect. The anti-gravity lean is listed among street dance moves but not tied to that performance.",
-        "Incorrect. Breakdancing is not mentioned in the article."
+        "Correct. The article states Michael was the eighth of ten children in the Jackson family.",
+        "Incorrect. The article says there were ten children, not eight.",
+        "Incorrect. The article says there were ten children, not nine.",
+        "Incorrect. The article says there were ten children, not six."
       ]
     },
     {
       "id": 4,
-      "question": "What was the outcome of Michael Jackson's 2005 trial on child sexual abuse charges?",
+      "question": "What was the name of the group Michael first performed with?",
       "options": [
-        "he was acquitted",
-        "he was convicted",
-        "the case was dismissed",
-        "he settled out of court"
+        "The Jackson 5",
+        "The Jacksons",
+        "The Falcons",
+        "The Temptations"
       ],
       "answer_explanations": [
-        "Correct. The article states he was tried and acquitted in 2005 on other child sexual abuse charges.",
-        "Incorrect. The article says he was acquitted, not convicted.",
-        "Incorrect. The article does not say the case was dismissed.",
-        "Incorrect. Settling out of court refers to the 1993 accusation, not the 2005 trial."
+        "Correct. The article says Michael made his public debut as the lead singer of the Jackson 5.",
+        "Incorrect. The group later renamed themselves the Jacksons, but initially they were the Jackson 5.",
+        "Incorrect. The Falcons was the group Michael's father played guitar for, not Michael's group.",
+        "Incorrect. The Temptations was a group whose song Michael sang at a talent show, not his own group."
       ]
     },
     {
       "id": 5,
-      "question": "How many number-one singles on the Billboard Hot 100 did Michael Jackson score as a solo artist?",
+      "question": "Which dance move did Michael Jackson popularize?",
       "options": [
-        "13",
-        "12",
-        "5",
-        "6"
+        "The moonwalk",
+        "The twist",
+        "The waltz",
+        "The tango"
       ],
       "answer_explanations": [
-        "Correct. The article states he scored 13 number-one singles on the Billboard Hot 100.",
-        "Incorrect. Twelve is not the number given for his solo Billboard Hot 100 number-one singles.",
-        "Incorrect. Five refers to the number of US number-one singles from the album Bad, not his career total.",
-        "Incorrect. Six refers to the number of decades in which he had a US top-ten single, not his number-one singles count."
+        "Correct. The article says he popularized street dance moves such as the moonwalk.",
+        "Incorrect. The twist is not mentioned in the article.",
+        "Incorrect. The waltz is not mentioned in the article.",
+        "Incorrect. The tango is not mentioned in the article."
       ]
     },
     {
       "id": 6,
       "question": "What caused Michael Jackson's death in 2009?",
       "options": [
-        "an overdose of propofol administered by his personal physician",
-        "a heart attack",
-        "a drug overdose unrelated to his physician",
-        "complications from surgery"
+        "An overdose of propofol",
+        "A heart attack",
+        "A car accident",
+        "Pneumonia"
       ],
       "answer_explanations": [
-        "Correct. The article says he died in 2009 from an overdose of propofol administered by his personal physician, Conrad Murray.",
-        "Incorrect. The article attributes his death to a propofol overdose, not a heart attack.",
-        "Incorrect. The article specifies the overdose was of propofol administered by his physician.",
-        "Incorrect. The article does not mention complications from surgery as the cause of death."
+        "Correct. The article states he died from an overdose of propofol administered by his personal physician.",
+        "Incorrect. The article does not mention a heart attack.",
+        "Incorrect. The article does not mention a car accident.",
+        "Incorrect. The article does not mention pneumonia."
       ]
     },
     {
       "id": 7,
-      "question": "Which album was the first to produce five US Billboard Hot 100 number-one singles?",
+      "question": "How many Grammy Awards did Michael Jackson win?",
       "options": [
-        "Bad",
-        "Thriller",
-        "Dangerous",
-        "Off the Wall"
+        "13",
+        "26",
+        "12",
+        "8"
       ],
       "answer_explanations": [
-        "Correct. The article states Bad (1987) was the first album to produce five US Billboard Hot 100 number-one singles.",
-        "Incorrect. Thriller is called the best-selling album in history, not the first with five number-one singles.",
-        "Incorrect. Dangerous is described as a commercial blockbuster, not for this achievement.",
-        "Incorrect. Off the Wall is noted for his rise to solo stardom, not for five number-one singles."
+        "Correct. The article says his accolades include 13 Grammy Awards.",
+        "Incorrect. 26 is the number of American Music Awards he won, not Grammys.",
+        "Incorrect. 12 is the number of World Music Awards he won, not Grammys.",
+        "Incorrect. 8 is the number of MTV Video Music Awards he won, not Grammys."
       ]
     },
     {
       "id": 8,
-      "question": "In which city was Michael Jackson born?",
+      "question": "Which album was Michael Jackson's final album?",
       "options": [
-        "Gary, Indiana",
-        "Los Angeles",
-        "New York City",
-        "Encino, California"
+        "Invincible",
+        "HIStory",
+        "Dangerous",
+        "Bad"
       ],
       "answer_explanations": [
-        "Correct. The article states Michael Joseph Jackson was born on August 29, 1958, in Gary, Indiana.",
-        "Incorrect. The Jackson family relocated to Los Angeles after signing with Motown, but he was not born there.",
-        "Incorrect. Jackson moved to New York City in 1977 for The Wiz, but he was not born there.",
-        "Incorrect. The family moved to a home in Encino, California in 1971, but he was not born there."
+        "Correct. The article says Jackson's final album was Invincible (2001).",
+        "Incorrect. HIStory was released in 1995, before Invincible.",
+        "Incorrect. Dangerous was released in 1991, before Invincible.",
+        "Incorrect. Bad was released in 1987, before Invincible."
       ]
     },
     {
       "id": 9,
-      "question": "What role did Michael Jackson play in the film The Wiz?",
+      "question": "What was the name of the documentary that detailed further child sexual abuse allegations against Jackson?",
       "options": [
-        "the Scarecrow",
-        "the Tin Man",
-        "the Cowardly Lion",
-        "Dorothy"
+        "Leaving Neverland",
+        "This Is It",
+        "Michael",
+        "Xscape"
       ],
       "answer_explanations": [
-        "Correct. The article states Jackson moved to New York City in 1977 to star as the Scarecrow in The Wiz.",
-        "Incorrect. The article does not say he played the Tin Man.",
-        "Incorrect. The article does not say he played the Cowardly Lion.",
-        "Incorrect. The article does not say he played Dorothy; Diana Ross is mentioned as featuring in the film."
+        "Correct. The article says the 2019 documentary Leaving Neverland detailed further child sexual abuse allegations against Jackson.",
+        "Incorrect. This Is It is a documentary about his comeback concerts, not the abuse allegations.",
+        "Incorrect. Michael is a posthumous album, not a documentary about abuse allegations.",
+        "Incorrect. Xscape is a posthumous album, not a documentary about abuse allegations."
       ]
     },
     {
       "id": 10,
-      "question": "How many siblings did Michael Jackson have?",
+      "question": "How many US top-ten singles did Michael Jackson have in six decades?",
       "options": [
-        "nine",
-        "ten",
-        "eight",
-        "seven"
+        "One",
+        "Two",
+        "Three",
+        "Four"
       ],
       "answer_explanations": [
-        "Correct. The article describes him as the eighth of ten children in the Jackson family, meaning he had nine siblings.",
-        "Incorrect. Ten is the total number of children in the family, not the number of siblings.",
-        "Incorrect. Eight is his birth order position, not his sibling count.",
-        "Incorrect. Seven is not supported by the article."
+        "Correct. The article says he is the only artist to have a US top-ten single in six decades.",
+        "Incorrect. The article does not say he had two top-ten singles in six decades.",
+        "Incorrect. The article does not say he had three top-ten singles in six decades.",
+        "Incorrect. The article does not say he had four top-ten singles in six decades."
       ]
     }
   ]

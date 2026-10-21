@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what do most plants use to obtain energy from sunlight?",
+      "question": "What is the scientific name for the kingdom that plants belong to?",
       "options": [
-        "the green pigment chlorophyll in their chloroplasts",
-        "absorbing nutrients from other organisms",
-        "breaking down organic matter in soil",
-        "converting heat from the sun into chemical energy"
+        "Plantae",
+        "Animalia",
+        "Fungi",
+        "Protista"
       ],
       "answer_explanations": [
-        "Correct. The article states that plants obtain their energy from sunlight by using the green pigment chlorophyll in their chloroplasts to produce sugars from carbon dioxide and water.",
-        "Incorrect. While some plants have evolved to be parasitic and take energy from other organisms, this is not how most plants obtain energy.",
-        "Incorrect. The article does not state that most plants break down organic matter in soil to obtain energy.",
-        "Incorrect. The article describes photosynthesis using chlorophyll and chloroplasts, not converting heat into chemical energy."
+        "Correct. The article states that plants constitute the kingdom 'Plantae'.",
+        "Incorrect. Animalia is the kingdom for animals, not plants.",
+        "Incorrect. Fungi are a separate kingdom and are excluded from current definitions of plants.",
+        "Incorrect. Protista is not mentioned as the kingdom for plants."
       ]
     },
     {
       "id": 2,
-      "question": "Which group is excluded from the current definition of plants used in the article?",
+      "question": "How do most plants obtain their energy?",
       "options": [
-        "fungi",
-        "flowering plants",
-        "green algae",
-        "mosses"
+        "By photosynthesis using sunlight and chlorophyll",
+        "By eating other organisms",
+        "By absorbing energy from the soil",
+        "By breathing in oxygen"
       ],
       "answer_explanations": [
-        "Correct. The article states that current definitions exclude fungi and some of the algae.",
-        "Incorrect. Flowering plants are included among the embryophytes or land plants in the clade Viridiplantae.",
-        "Incorrect. Green algae are included in the clade Viridiplantae by the definition used in the article.",
-        "Incorrect. Mosses are listed among the embryophytes or land plants included in the article's definition of plants."
+        "Correct. The article says plants are predominantly photosynthetic, obtaining energy from sunlight using chlorophyll.",
+        "Incorrect. Only some plants have evolved to be parasitic and take energy from other organisms; most use photosynthesis.",
+        "Incorrect. The article does not say plants absorb energy from the soil.",
+        "Incorrect. Breathing in oxygen is not how plants obtain energy."
       ]
     },
     {
       "id": 3,
-      "question": "Which clade includes green algae and land plants such as hornworts, liverworts, mosses, conifers, and flowering plants?",
+      "question": "Approximately how many known species of plants are there?",
       "options": [
-        "Viridiplantae",
-        "Archaeplastida",
-        "Plantae sensu amplo",
-        "Eukaryota"
+        "About 380,000",
+        "About 100,000",
+        "About 500,000",
+        "About 1,000,000"
       ],
       "answer_explanations": [
-        "Correct. The article states that by the definition used in the article, plants form the clade Viridiplantae (green plants), which consists of the green algae and the embryophytes or land plants including hornworts, liverworts, mosses, conifers, and flowering plants.",
-        "Incorrect. Archaeplastida includes Viridiplantae along with red algae and glaucophytes, making it broader than the clade described in the question.",
-        "Incorrect. Plantae sensu amplo refers to old, obsolete definitions that included unrelated groups such as algae, fungi, and bacteria.",
-        "Incorrect. Eukaryota is not mentioned in the article as a clade consisting of green algae and land plants."
+        "Correct. The article states there are about 380,000 known species of plants.",
+        "Incorrect. The article gives a much higher number than 100,000.",
+        "Incorrect. The article gives a lower number than 500,000.",
+        "Incorrect. The article gives a much lower number than 1,000,000."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say about the number of known plant species that produce seeds?",
+      "question": "Which of the following is a basic human food that comes from plants?",
       "options": [
-        "The majority of the approximately 380,000 known plant species produce seeds.",
-        "Only a small minority of known plant species produce seeds.",
-        "All known plant species produce seeds.",
-        "No known plant species produce seeds."
+        "Grain",
+        "Meat",
+        "Cheese",
+        "Eggs"
       ],
       "answer_explanations": [
-        "Correct. The article states there are about 380,000 known species of plants, of which the majority, some 260,000, produce seeds.",
-        "Incorrect. The article states that the majority of known plant species produce seeds, not a small minority.",
-        "Incorrect. The article indicates that only some 260,000 of the approximately 380,000 known plant species produce seeds, not all of them.",
-        "Incorrect. The article explicitly states that some 260,000 known plant species produce seeds."
+        "Correct. The article lists grain, fruit, and vegetables as basic human foods from plants.",
+        "Incorrect. Meat is not a plant product.",
+        "Incorrect. Cheese is not a plant product.",
+        "Incorrect. Eggs are not a plant product."
       ]
     },
     {
       "id": 5,
-      "question": "What role do green plants play in Earth's ecosystems according to the article?",
+      "question": "What is the scientific study of plants called?",
       "options": [
-        "They provide a substantial proportion of the world's molecular oxygen and produce sugars that provide energy for most ecosystems.",
-        "They consume most of the world's molecular oxygen.",
-        "They are primarily responsible for decomposing dead organic matter.",
-        "They have no significant role in Earth's ecosystems."
+        "Botany",
+        "Zoology",
+        "Geology",
+        "Astronomy"
       ],
       "answer_explanations": [
-        "Correct. The article states that green plants provide a substantial proportion of the world's molecular oxygen, and the sugars they produce by photosynthesis provide the energy for most of Earth's ecosystems.",
-        "Incorrect. The article states that green plants provide oxygen, not consume most of it.",
-        "Incorrect. The article does not describe green plants as primarily responsible for decomposing dead organic matter.",
-        "Incorrect. The article emphasizes that green plants play a major role in ecosystems by producing oxygen and energy through photosynthesis."
+        "Correct. The article states that the scientific study of plants is known as botany.",
+        "Incorrect. Zoology is the study of animals.",
+        "Incorrect. Geology is the study of the Earth.",
+        "Incorrect. Astronomy is the study of celestial objects."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following is a human use of plants mentioned in the article?",
+      "question": "In the strictest sense, which plants are included in the group called Embryophyta?",
       "options": [
-        "building materials such as wood",
-        "fuel for internal combustion engines",
-        "generating electricity directly",
-        "manufacturing plastic"
+        "Land plants like liverworts, mosses, and vascular plants",
+        "All green algae",
+        "Red algae and glaucophytes",
+        "Fungi and bacteria"
       ],
       "answer_explanations": [
-        "Correct. The article lists building materials, such as wood, among the many purposes for which people use plants.",
-        "Incorrect. The article does not mention fuel for internal combustion engines as a use of plants.",
-        "Incorrect. The article does not mention generating electricity directly as a use of plants.",
-        "Incorrect. The article does not mention manufacturing plastic as a use of plants."
+        "Correct. The article says Embryophyta, or land plants, include liverworts, hornworts, mosses, and vascular plants.",
+        "Incorrect. Green algae are included in the broader group Viridiplantae, not in the strictest sense Embryophyta.",
+        "Incorrect. Red algae and glaucophytes are in the broad sense Archaeplastida.",
+        "Incorrect. Fungi and bacteria were only in old, obsolete definitions of plants."
       ]
     },
     {
       "id": 7,
-      "question": "What is the scientific study of plants known as?",
+      "question": "What did the ancestors of land plants evolve in?",
       "options": [
-        "botany",
-        "zoology",
-        "ecology",
-        "microbiology"
+        "Water",
+        "Deserts",
+        "Mountains",
+        "Ice"
       ],
       "answer_explanations": [
-        "Correct. The article states that the scientific study of plants is known as botany.",
-        "Incorrect. Zoology is the study of animals, not plants, and is not mentioned in the article as the study of plants.",
-        "Incorrect. Ecology is not identified in the article as the scientific study of plants.",
-        "Incorrect. Microbiology is not identified in the article as the scientific study of plants."
+        "Correct. The article states that the ancestors of land plants evolved in water.",
+        "Incorrect. The article does not say they evolved in deserts.",
+        "Incorrect. The article does not say they evolved in mountains.",
+        "Incorrect. The article does not say they evolved in ice."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article's table of alternative concepts, which grouping represents plants in the strictest sense?",
+      "question": "When did the first land plants appear, according to the article?",
       "options": [
-        "Land plants, also known as Embryophyta",
-        "Green plants, also known as Viridiplantae",
-        "Archaeplastida, also known as Plastida or Primoplantae",
-        "Old definitions of plant (obsolete)"
+        "Around 450 million years ago",
+        "Around 100 million years ago",
+        "Around 1,200 million years ago",
+        "Around 20 million years ago"
       ],
       "answer_explanations": [
-        "Correct. The table describes land plants, also known as Embryophyta, as Plantae sensu strictissimo, meaning plants in the strictest sense.",
-        "Incorrect. Green plants, also known as Viridiplantae, are described as Plantae sensu stricto, or plants in a strict sense, but not the strictest sense.",
-        "Incorrect. Archaeplastida is described as Plantae sensu lato, or plants in a broad sense.",
-        "Incorrect. Old definitions of plant are described as Plantae sensu amplo, or plants in the widest sense, and are marked as obsolete."
+        "Correct. The article says the first land plants appeared in the Ordovician, around 450 million years ago.",
+        "Incorrect. 100 million years ago is much later than the first land plants.",
+        "Incorrect. 1,200 million years ago is when an algal scum formed, but not the first land plants.",
+        "Incorrect. 20 million years ago is far too recent."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article's diversity table, approximately how many living species of ferns, whisk ferns, and horsetails are there?",
+      "question": "Which period saw the development of forests in swampy environments dominated by clubmosses and horsetails?",
       "options": [
-        "11000",
-        "1200",
-        "258650",
-        "160"
+        "Carboniferous",
+        "Jurassic",
+        "Triassic",
+        "Devonian"
       ],
       "answer_explanations": [
-        "Correct. The diversity table lists Polypodiophyta (ferns, whisk ferns & horsetails) with 11000 living species.",
-        "Incorrect. 1200 is the number of living species listed for Lycopodiophyta (clubmosses), not ferns, whisk ferns, and horsetails.",
-        "Incorrect. 258650 is the number of living species listed for Angiospermae (flowering plants).",
-        "Incorrect. 160 is the number of living species listed for Cycadophyta (cycads)."
+        "Correct. The article states the Carboniferous period saw the development of forests in swampy environments dominated by clubmosses and horsetails.",
+        "Incorrect. The Jurassic is when conifers became diverse and dominant.",
+        "Incorrect. The Triassic is when flowering plants may have evolved.",
+        "Incorrect. The Devonian is when early plants had roots and woody stems."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about the timing of the first land plants?",
+      "question": "What did Charles Darwin call the rapid adaptive radiation of flowering plants in the Cretaceous?",
       "options": [
-        "The first land plants appeared around 450 million years ago during the Ordovician.",
-        "The first land plants appeared 1,200 million years ago.",
-        "The first land plants appeared during the Cretaceous period.",
-        "The first land plants appeared during the Jurassic period."
+        "An abominable mystery",
+        "A wonderful surprise",
+        "A great puzzle",
+        "A fantastic event"
       ],
       "answer_explanations": [
-        "Correct. The article states that it was not until the Ordovician, around 450 million years ago, that the first land plants appeared.",
-        "Incorrect. The article states that an algal scum formed on the land 1,200 million years ago, but this was not the first land plants.",
-        "Incorrect. The Cretaceous is mentioned in connection with the adaptive radiation of flowering plants, not the first appearance of land plants.",
-        "Incorrect. The Jurassic is mentioned in connection with conifers becoming dominant, not the first appearance of land plants."
+        "Correct. The article says Darwin called it 'an abominable mystery'.",
+        "Incorrect. The article does not use this phrase.",
+        "Incorrect. The article does not use this phrase.",
+        "Incorrect. The article does not use this phrase."
       ]
     }
   ]

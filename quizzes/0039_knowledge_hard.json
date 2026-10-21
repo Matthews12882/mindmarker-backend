@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "In the barn facade Gettier case, why does the person fail to know they are in front of a real barn?",
+      "question": "The Gettier cases are said to have 'intensified controversies' about justification. What does this imply about the state of epistemology before these cases were formulated?",
       "options": [
-        "Their justification is not relevant to the truth because they could not distinguish the real barn from the facades.",
-        "They lack true belief because the barn is actually a facade.",
-        "They do not believe they are in front of a barn.",
-        "They formed the belief through unreliable introspection rather than perception."
+        "There was wide agreement that propositional knowledge is true belief, but the role and necessity of justification were already being debated, and Gettier cases made these debates more urgent.",
+        "Before Gettier, philosophers universally agreed that justification was unnecessary for knowledge, and the cases were the first to suggest it might be needed.",
+        "The Gettier cases were the first to propose that knowledge is true belief, a claim that was previously unchallenged.",
+        "The Gettier cases demonstrated that justification is the only feature of knowledge that matters, ending all prior debates."
       ],
       "answer_explanations": [
-        "Correct. The article states the person's justified true belief fails to constitute knowledge due to epistemic luck: 'their justification is not relevant to the truth' and they 'would not have been able to tell the difference' between the real barn and facades.",
-        "Incorrect. The belief is true because the person stops in front of the one real barn.",
-        "Incorrect. The person forms the belief that they are in front of a barn, so belief is present.",
-        "Incorrect. The belief is formed through visual perception, not introspection."
+        "Correct. The article states that 'there is wide agreement among philosophers that propositional knowledge is a form of true belief, many controversies focus on justification' and that these controversies 'intensified' after Gettier, implying they existed before.",
+        "Incorrect. The article indicates that justification was already a central point of controversy before Gettier, not that it was universally dismissed.",
+        "Incorrect. The article presents true belief as a widely accepted feature of propositional knowledge that predates Gettier, not something Gettier introduced.",
+        "Incorrect. The article says Gettier cases provoked alternative definitions and that there is 'very little consensus' on which modification is correct, not that they ended debates."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what is the key difference between foundationalism and coherentism regarding sources of knowledge?",
+      "question": "How does the article's description of the barn facade case illustrate the concept of 'epistemic luck'?",
       "options": [
-        "Foundationalism holds some sources can justify beliefs without depending on other mental states, while coherentism requires coherence among all mental states.",
-        "Foundationalism requires an infinite chain of beliefs, while coherentism accepts basic sources.",
-        "Coherentism holds some sources are basic, while foundationalism requires coherence among all mental states.",
-        "Both views agree that an infinite chain of beliefs is necessary for knowledge."
+        "It shows that a belief can be both justified and true, yet fail to be knowledge, because the justification is accidentally connected to the truth.",
+        "It shows that a belief is always knowledge if it is true, regardless of how it was formed.",
+        "It shows that justification is irrelevant to knowledge because the person's belief is true by chance.",
+        "It shows that the person's belief is false because they are in front of a barn facade."
       ],
       "answer_explanations": [
-        "Correct. The article states that according to foundationalism, some sources 'can justify beliefs, without depending on other mental states,' while coherentists 'contend that a sufficient degree of coherence among all the mental states of the believer is necessary for knowledge.'",
-        "Incorrect. Infinitism, not foundationalism, holds that an infinite chain of beliefs is needed.",
-        "Incorrect. This reverses the positions; foundationalism accepts basic sources and coherentism requires coherence.",
-        "Incorrect. Only infinitism claims an infinite chain is needed; foundationalism and coherentism do not."
+        "Correct. The article explains that in the barn case, the belief is justified but its justification is 'not relevant to the truth' and that it is a 'lucky coincidence' the belief is true, which is the essence of epistemic luck.",
+        "Incorrect. The article uses the case to argue that true belief alone is not enough for knowledge, contradicting this option.",
+        "Incorrect. The article says the case shows justification is present but insufficient, not that justification is irrelevant.",
+        "Incorrect. The article states the person is in front of a real barn, so the belief is true, not false."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following best illustrates knowledge-how as described in the article?",
+      "question": "What conclusion can be drawn from the article's comparison of propositional knowledge and knowledge-how in relation to the animal kingdom?",
       "options": [
-        "An ant knows how to walk despite lacking a sufficiently developed mind to represent propositions.",
-        "Knowing that the atomic mass of gold is 196.97 u.",
-        "Being acquainted with the taste of chocolate after eating it.",
-        "Knowing that 2 + 2 = 4 without empirical investigation."
+        "Knowledge-how is more primitive and widespread across species, whereas propositional knowledge is thought to require advanced intellectual capacities.",
+        "Propositional knowledge is more basic because it is shared by all animals, while knowledge-how is unique to humans.",
+        "Both types of knowledge require the same level of cognitive sophistication.",
+        "Animals have propositional knowledge but lack knowledge-how."
       ],
       "answer_explanations": [
-        "Correct. The article uses the ant as an example of knowledge-how: 'an ant knows how to walk even though it presumably lacks a mind sufficiently developed to represent the corresponding proposition.'",
-        "Incorrect. Knowing a factual atomic mass is propositional knowledge, not knowledge-how.",
-        "Incorrect. Becoming acquainted with the taste of chocolate is knowledge by acquaintance, not knowledge-how.",
-        "Incorrect. Knowing that 2 + 2 = 4 is propositional and a priori knowledge, not practical know-how."
+        "Correct. The article states that 'some types of knowledge-how do not require a highly developed mind' and are 'more common in the animal kingdom', while propositional knowledge is 'exclusive to relatively sophisticated creatures, such as humans'.",
+        "Incorrect. The article suggests the opposite: knowledge-how is more basic and widespread, while propositional knowledge is linked to sophisticated minds.",
+        "Incorrect. The article explicitly contrasts the cognitive demands of the two types, with propositional knowledge requiring more.",
+        "Incorrect. The article gives the example of an ant knowing how to walk, indicating animals have knowledge-how, not propositional knowledge."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say about the relationship between knowledge and belief?",
+      "question": "The article mentions that Bertrand Russell introduced knowledge by acquaintance and held it to be 'more basic' than propositional knowledge. What does this imply about the relationship between experience and understanding?",
       "options": [
-        "Knowledge is a form of belief, so one cannot know something without believing it.",
-        "Knowledge can exist without belief, as shown by expressions like 'I do not believe it, I know it.'",
-        "Belief is sufficient for knowledge as long as the belief is true.",
-        "Knowledge and belief are entirely unrelated mental states."
+        "Understanding a proposition depends on having direct experiential familiarity with its components.",
+        "Propositional knowledge can be fully acquired without any direct experience.",
+        "Knowledge by acquaintance is a type of propositional knowledge.",
+        "Understanding a proposition is independent of any form of acquaintance."
       ],
       "answer_explanations": [
-        "Correct. The article states: 'That knowledge is a form of belief implies that one cannot know something if one does not believe it.'",
-        "Incorrect. The article explains such expressions usually emphasize confidence rather than denying that belief is involved.",
-        "Incorrect. True belief alone is not sufficient; justification is also required, and Gettier cases show even justified true belief may not be knowledge.",
-        "Incorrect. The article explicitly characterizes knowledge as a form of belief."
+        "Correct. The article states that Russell holds that 'to understand a proposition, one has to be acquainted with its constituents', implying direct experience is foundational to understanding.",
+        "Incorrect. This contradicts Russell's view as presented, since acquaintance is needed for understanding propositions.",
+        "Incorrect. The article distinguishes knowledge by acquaintance as a non-propositional type of knowledge.",
+        "Incorrect. The article explicitly links understanding to acquaintance, so it is not independent."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is an example of a posteriori knowledge according to the article?",
+      "question": "How does the article's explanation of a priori knowledge, such as 'all bachelors are unmarried', address the role of experience in learning language?",
       "options": [
-        "Seeing that it rains outside.",
-        "Knowing that 2 + 2 = 4.",
-        "Knowing that all bachelors are unmarried.",
-        "Rational insight into mathematical truths."
+        "It is a priori because no sensory experience is needed to confirm the fact, even though experience is needed to learn the meanings of the words.",
+        "It is a posteriori because one must learn the words through experience.",
+        "It is a priori because no experience of any kind is involved in any way.",
+        "It is a posteriori because it requires conscious thought processes."
       ],
       "answer_explanations": [
-        "Correct. The article states: 'by seeing that it rains outside or hearing that the baby is crying, one acquires a posteriori knowledge of these facts.'",
-        "Incorrect. The article identifies mathematical knowledge such as 2 + 2 = 4 as traditionally a priori.",
-        "Incorrect. The article identifies 'all bachelors are unmarried' as a priori knowledge.",
-        "Incorrect. The article excludes rational insight from the relevant experience for a posteriori knowledge."
+        "Correct. The article says that knowing 'all bachelors are unmarried' is a priori because 'no sensory experience is necessary to confirm this fact even though experience was needed to learn the meanings of the words'.",
+        "Incorrect. The article explicitly classifies this as a priori, not a posteriori, despite the role of experience in language learning.",
+        "Incorrect. The article acknowledges that experience is needed to learn word meanings, so not all experience is excluded.",
+        "Incorrect. The article notes that conscious thought may be needed for some a priori knowledge, but this does not make it a posteriori."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what is the primary focus of epistemology?",
+      "question": "What does the article's discussion of the 'analysis of knowledge' approach suggest about how philosophers view the definition of knowledge?",
       "options": [
-        "Studying what people know, how they come to know it, and what it means to know something.",
-        "Investigating how knowledge is stored and communicated in different cultures.",
-        "Examining under what sociohistorical circumstances knowledge arises.",
-        "Determining how knowledge in different fields has developed over history."
+        "Some aim to list conditions that are individually necessary and jointly sufficient, similar to a chemical analysis.",
+        "All philosophers agree that knowledge can be defined by a simple list of conditions.",
+        "The analysis approach is the only method used to define knowledge.",
+        "The analysis approach focuses on the practical usefulness of knowledge rather than its theoretical definition."
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The main discipline investigating knowledge is epistemology, which studies what people know, how they come to know it, and what it means to know something.'",
-        "Incorrect. Studying how knowledge is stored and communicated in different cultures is the focus of the anthropology of knowledge.",
-        "Incorrect. Examining sociohistorical circumstances is the focus of the sociology of knowledge.",
-        "Incorrect. Investigating historical development is the focus of the history of knowledge."
+        "Correct. The article describes the analysis of knowledge as seeking 'conditions that are individually necessary and jointly sufficient', analogous to how chemists analyze a sample.",
+        "Incorrect. The article notes there is disagreement, with some viewing knowledge as a unique state that cannot be analyzed.",
+        "Incorrect. The article mentions other approaches, such as focusing on abstract intuitions or ordinary language.",
+        "Incorrect. The article contrasts this with the pragmatist view that focuses on what works in practice."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following best describes the analysis of knowledge as presented in the article?",
+      "question": "The article states that some everyday expressions like 'I do not believe it, I know it!' seem to violate the principle that knowledge is a form of belief. What is the article's interpretation of such expressions?",
       "options": [
-        "Trying to provide a theoretically precise definition by listing conditions that are individually necessary and jointly sufficient.",
-        "Focusing only on the most salient features to give a practically useful characterization.",
-        "Treating knowledge as a unique state that cannot be analyzed in terms of other phenomena.",
-        "Basing the definition solely on how the term is used in ordinary language."
+        "They are typically used to stress confidence, not to deny that a belief is involved.",
+        "They prove that knowledge can exist without belief.",
+        "They show that the definition of knowledge as justified true belief is wrong.",
+        "They indicate that belief and knowledge are completely unrelated."
       ],
       "answer_explanations": [
-        "Correct. The article defines analysis of knowledge as an approach that 'tries to provide a theoretically precise definition by listing the conditions that are individually necessary and jointly sufficient.'",
-        "Incorrect. Focusing on salient features for practical usefulness is described as a different approach to defining knowledge, not analysis of knowledge.",
-        "Incorrect. Treating knowledge as a unique unanalyzable state is described as a different view, not analysis of knowledge.",
-        "Incorrect. Relying on ordinary language use is mentioned as one basis scholars use, but it is not the definition of analysis of knowledge."
+        "Correct. The article says that 'the point of such expressions is usually to emphasize one's confidence rather than denying that a belief is involved'.",
+        "Incorrect. The article argues that these expressions do not actually deny belief, so they don't prove knowledge without belief.",
+        "Incorrect. The article uses these expressions as apparent violations that are explained away, not as counterexamples to the definition.",
+        "Incorrect. The article maintains that knowledge is a form of belief, so they are closely related."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what is the main controversy surrounding the justified true belief definition of knowledge?",
+      "question": "How does the article's description of foundationalism and coherentism illustrate a fundamental disagreement about the structure of justification?",
       "options": [
-        "Whether justification is needed at all and what counts as adequate justification.",
-        "Whether truth is a necessary feature of knowledge.",
-        "Whether knowledge requires belief at all.",
-        "Whether knowledge can be produced through perception and introspection."
+        "Foundationalism claims some sources justify beliefs without depending on other mental states, while coherentism says coherence among all mental states is necessary.",
+        "Foundationalism and coherentism agree that justification requires an infinite chain of beliefs.",
+        "Coherentism claims that some beliefs are basic, while foundationalism rejects this.",
+        "Both theories agree that justification is not needed for knowledge."
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The main controversy surrounding this definition concerns its third feature: justification,' including questions about how to understand it and whether it is needed.",
-        "Incorrect. The article says truth is 'a widely accepted feature of knowledge.'",
-        "Incorrect. The article states knowledge implies belief: 'one cannot know something if one does not believe it.'",
-        "Incorrect. Perception and introspection are sources of knowledge, not the controversy over justified true belief."
+        "Correct. The article states that foundationalism holds some sources are 'basic in that they can justify beliefs, without depending on other mental states', while coherentists 'reject this claim' and require coherence among all mental states.",
+        "Incorrect. The article attributes the infinite chain view to infinitism, not to foundationalism or coherentism.",
+        "Incorrect. The article says the opposite: foundationalism claims basic beliefs, while coherentism rejects this.",
+        "Incorrect. Both theories are about how justification works, not whether it is needed."
       ]
     },
     {
       "id": 9,
-      "question": "Which of the following scenarios best illustrates epistemic luck in a Gettier case, according to the article?",
+      "question": "The article mentions that knowledge can refer to a characteristic of a group, such as 'group knowledge' or 'social knowledge'. What does this imply about the scope of the concept of knowledge?",
       "options": [
-        "A person forms a justified true belief that is true only by lucky coincidence because the justification does not connect to the truth.",
-        "A person guesses correctly on a coin flip without any justification.",
-        "A person forms a belief based on reliable sensory perception that turns out to be true.",
-        "A person acquires knowledge by acquaintance through direct experiential contact."
+        "Knowledge is not limited to individual mental states but can also be a social or collective phenomenon.",
+        "Knowledge is exclusively an individual state and cannot apply to groups.",
+        "Group knowledge is the same as knowledge by acquaintance.",
+        "Social knowledge is a type of propositional knowledge that is always false."
       ],
       "answer_explanations": [
-        "Correct. The article describes Gettier cases as involving epistemic luck where 'the beliefs are justified but their justification is not relevant to the truth,' making truth a lucky coincidence.",
-        "Incorrect. A lucky guess lacks justification entirely, whereas Gettier cases involve justified true beliefs that fail due to luck.",
-        "Incorrect. Reliable perception producing a true belief is not presented as a Gettier case of epistemic luck.",
-        "Incorrect. Knowledge by acquaintance through direct contact is not a Gettier case."
+        "Correct. The article states that knowledge 'can also refer to a characteristic of a group of people as group knowledge, social knowledge, or collective knowledge' and that some social sciences see it as a 'broad social phenomenon similar to culture'.",
+        "Incorrect. The article explicitly extends knowledge to groups and social phenomena.",
+        "Incorrect. Group knowledge is a distinct concept from knowledge by acquaintance, which is about direct experiential contact.",
+        "Incorrect. The article does not claim social knowledge is false; it just describes it as a type of knowledge."
       ]
     },
     {
       "id": 10,
-      "question": "A researcher designs a study to test whether participants can acquire knowledge of a hidden object's properties without any sensory experience, memory, or introspection, relying solely on rational insight. Based on the article, how would this knowledge be classified if successful?",
+      "question": "What does the article's mention of Plato's solution to the problem of a priori knowledge suggest about the nature of such knowledge?",
       "options": [
-        "A priori knowledge, because it is possible without experience to justify or support the known proposition.",
-        "A posteriori knowledge, because it is acquired through a research experiment.",
-        "Knowledge by acquaintance, because it involves direct experiential contact with the object.",
-        "Procedural knowledge, because it involves a practical skill in conducting research."
+        "It suggests that a priori knowledge is innate and can be accessed through recollection.",
+        "It suggests that a priori knowledge is derived from sensory experience.",
+        "It suggests that a priori knowledge is impossible.",
+        "It suggests that a priori knowledge is based on testimony."
       ],
       "answer_explanations": [
-        "Correct. The article defines a priori knowledge as possible 'without any experience to justify or support the known proposition' and notes rational insight is excluded from relevant experience.",
-        "Incorrect. A posteriori knowledge is based on experience, which the scenario explicitly excludes.",
-        "Incorrect. Knowledge by acquaintance requires direct experiential contact, which the scenario excludes.",
-        "Incorrect. Procedural knowledge is practical know-how, not knowledge gained through rational insight about an object's properties."
+        "Correct. The article says Plato 'argues that the soul already possesses the knowledge and just needs to recollect, or remember, it', implying the knowledge is innate.",
+        "Incorrect. Plato's solution is presented as an alternative to experience-based knowledge, not a form of it.",
+        "Incorrect. Plato's solution is offered as an explanation for how a priori knowledge is possible, not a denial of it.",
+        "Incorrect. The article does not link Plato's view to testimony; it links it to recollection."
       ]
     }
   ]

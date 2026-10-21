@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Antarctica's ranking by size among Earth's continents?",
+      "question": "Which continent is the southernmost and least-populated on Earth?",
       "options": [
-        "Fifth-largest",
-        "Largest",
-        "Second-largest",
-        "Third-largest"
+        "Antarctica",
+        "Europe",
+        "Australia",
+        "South America"
       ],
       "answer_explanations": [
-        "Correct. The article states that Antarctica is the fifth-largest continent.",
-        "Incorrect. The article explicitly ranks Antarctica as fifth-largest, not largest.",
-        "Incorrect. The article identifies Antarctica as fifth-largest, not second-largest.",
-        "Incorrect. The article states Antarctica is fifth-largest, not third-largest."
+        "Correct. The article states that Antarctica is Earth's southernmost and least-populated continent.",
+        "Incorrect. Europe is mentioned as a comparison for size, not as the southernmost continent.",
+        "Incorrect. Australia is not described as the southernmost or least-populated continent in the article.",
+        "Incorrect. South America is not mentioned as the southernmost continent."
       ]
     },
     {
       "id": 2,
-      "question": "What is the area of Antarctica in square kilometres?",
+      "question": "What ocean surrounds Antarctica?",
       "options": [
-        "14,200,000 km2",
-        "14,200 km2",
-        "1,420,000 km2",
-        "142,000,000 km2"
+        "Southern Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states Antarctica has an area of 14,200,000 km2.",
-        "Incorrect. The article gives the area as 14,200,000 km2, not 14,200 km2.",
-        "Incorrect. The article states the area is 14,200,000 km2, not 1,420,000 km2.",
-        "Incorrect. The article lists the area as 14,200,000 km2, not 142,000,000 km2."
+        "Correct. The article says Antarctica is surrounded by the Southern Ocean, also known as the Antarctic Ocean.",
+        "Incorrect. The Atlantic Ocean is not mentioned as surrounding Antarctica.",
+        "Incorrect. The Pacific Ocean is not mentioned as surrounding Antarctica.",
+        "Incorrect. The Indian Ocean is not mentioned as surrounding Antarctica."
       ]
     },
     {
       "id": 3,
-      "question": "What is the average thickness of the Antarctic ice sheet?",
+      "question": "What is the approximate area of Antarctica?",
       "options": [
-        "1.9 km",
-        "1.2 km",
-        "1.9 m",
-        "19 km"
+        "14,200,000 kmÂ²",
+        "5,500,000 kmÂ²",
+        "1,900,000 kmÂ²",
+        "40,000,000 kmÂ²"
       ],
       "answer_explanations": [
-        "Correct. The article states the Antarctic ice sheet has an average thickness of 1.9 km.",
-        "Incorrect. The article gives the average thickness as 1.9 km, not 1.2 km.",
-        "Incorrect. The article states the thickness is 1.9 km, not 1.9 m.",
-        "Incorrect. The article lists the average thickness as 1.9 km, not 19 km."
+        "Correct. The article states Antarctica has an area of 14,200,000 kmÂ² (5,500,000 sq mi).",
+        "Incorrect. 5,500,000 is the area in square miles, not the area in square kilometers.",
+        "Incorrect. 1,900,000 is not the area of Antarctica; it is the average ice thickness in kilometers.",
+        "Incorrect. 40,000,000 is not mentioned as the area of Antarctica."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is true about Antarctica's climate?",
+      "question": "How much larger is Antarctica compared to Europe?",
       "options": [
-        "It is the coldest, driest, and windiest continent on average.",
-        "It is the warmest, wettest, and calmest continent.",
-        "It has moderate temperatures and high rainfall.",
-        "It is the smallest and least elevated continent."
+        "About 40% larger",
+        "About 20% larger",
+        "About 60% larger",
+        "About 10% larger"
       ],
       "answer_explanations": [
-        "Correct. The article states Antarctica is, on average, the coldest, driest, and windiest of the continents.",
-        "Incorrect. The article describes Antarctica as the coldest, driest, and windiest, not the warmest, wettest, and calmest.",
-        "Incorrect. The article describes Antarctica as a polar desert with low precipitation, not moderate temperatures and high rainfall.",
-        "Incorrect. The article states Antarctica has the highest average elevation and is the fifth-largest continent, not the smallest and least elevated."
+        "Correct. The article says Antarctica is about 40% larger than Europe.",
+        "Incorrect. The article does not say 20% larger.",
+        "Incorrect. The article does not say 60% larger.",
+        "Incorrect. The article does not say 10% larger."
       ]
     },
     {
       "id": 5,
-      "question": "What would happen to global sea levels if Antarctica's freshwater reserves melted?",
+      "question": "What is the average thickness of the Antarctic ice sheet?",
       "options": [
-        "They would rise by almost 60 metres.",
-        "They would fall by almost 60 metres.",
-        "They would remain unchanged.",
-        "They would rise by 6 metres."
+        "1.9 km",
+        "1.2 km",
+        "200 m",
+        "60 m"
       ],
       "answer_explanations": [
-        "Correct. The article states that if Antarctica's frozen freshwater reserves melted, global sea levels would rise by almost 60 metres.",
-        "Incorrect. The article says sea levels would rise, not fall, by almost 60 metres.",
-        "Incorrect. The article states melting would raise sea levels by almost 60 metres, not leave them unchanged.",
-        "Incorrect. The article gives the figure as almost 60 metres, not 6 metres."
+        "Correct. The article states the Antarctic ice sheet has an average thickness of 1.9 km (1.2 mi).",
+        "Incorrect. 1.2 km is the thickness in miles, not kilometers.",
+        "Incorrect. 200 m is mentioned as annual precipitation along the coast, not ice thickness.",
+        "Incorrect. 60 m is mentioned as potential sea level rise, not ice thickness."
       ]
     },
     {
       "id": 6,
-      "question": "Which explorer first reached the geographic South Pole?",
+      "question": "What is the lowest measured temperature on Earth, recorded in Antarctica?",
       "options": [
-        "Roald Amundsen",
-        "Douglas Mawson",
-        "Fabian Gottlieb von Bellingshausen",
-        "Matthew Flinders"
+        "-89.2 Â°C",
+        "-128.6 Â°C",
+        "-50 Â°C",
+        "-100 Â°C"
       ],
       "answer_explanations": [
-        "Correct. The article states the geographic South Pole was first reached in 1911 by Norwegian explorer Roald Amundsen.",
-        "Incorrect. The article identifies Douglas Mawson as one of the first to reach the magnetic South Pole, not the geographic South Pole.",
-        "Incorrect. The article says Fabian Gottlieb von Bellingshausen led an expedition that probably first saw ice shelves, not the geographic South Pole.",
-        "Incorrect. The article mentions Matthew Flinders in the etymology section regarding the name Terra Australis, not as reaching the South Pole."
+        "Correct. The article says Antarctica holds the record for the lowest measured temperature on Earth, â89.2 Â°C (â128.6 Â°F).",
+        "Incorrect. -128.6 Â°F is the equivalent in Fahrenheit, not the Celsius value.",
+        "Incorrect. -50 Â°C is not mentioned as the record low.",
+        "Incorrect. -100 Â°C is not mentioned as the record low."
       ]
     },
     {
       "id": 7,
-      "question": "How many countries govern Antarctica under the Antarctic Treaty System?",
+      "question": "What percentage of the world's freshwater reserves are frozen in Antarctica?",
       "options": [
-        "29",
-        "12",
-        "19",
-        "50"
+        "About 70%",
+        "About 50%",
+        "About 90%",
+        "About 30%"
       ],
       "answer_explanations": [
-        "Correct. The article states Antarctica is governed by 29 countries, all parties to the 1959 Antarctic Treaty System.",
-        "Incorrect. The article specifies 29 governing countries, not 12.",
-        "Incorrect. The article states 29 countries govern Antarctica, not 19.",
-        "Incorrect. The article gives the number as 29 countries, not 50."
+        "Correct. The article states about 70% of the world's freshwater reserves are frozen in Antarctica.",
+        "Incorrect. 50% is not mentioned.",
+        "Incorrect. 90% is not mentioned.",
+        "Incorrect. 30% is not mentioned."
       ]
     },
     {
       "id": 8,
-      "question": "Which activities are prohibited in Antarctica under the Antarctic Treaty?",
+      "question": "If all of Antarctica's ice melted, by how much would global sea levels rise?",
       "options": [
-        "Military activity, mining, nuclear explosions, and nuclear waste disposal",
-        "Tourism, fishing, and research",
-        "Scientific exploration and tourism",
-        "Fishing and research only"
+        "Almost 60 metres",
+        "Almost 20 metres",
+        "Almost 100 metres",
+        "Almost 5 metres"
       ],
       "answer_explanations": [
-        "Correct. The article states military activity, mining, nuclear explosions, and nuclear waste disposal are all prohibited in Antarctica.",
-        "Incorrect. The article lists tourism, fishing, and research as the main human activities, not prohibited ones.",
-        "Incorrect. The article does not prohibit scientific exploration and tourism; it lists them as activities.",
-        "Incorrect. The article does not say fishing and research are prohibited; it lists them as main human activities."
+        "Correct. The article says if melted, it would raise global sea levels by almost 60 metres (200 ft).",
+        "Incorrect. 20 metres is not mentioned.",
+        "Incorrect. 100 metres is not mentioned.",
+        "Incorrect. 5 metres is not mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "Approximately how many people reside at Antarctic research stations during the summer months?",
+      "question": "Which of the following animals are native to Antarctica according to the article?",
       "options": [
-        "About 5,000",
-        "About 1,000",
-        "About 50,000",
-        "About 500"
+        "Penguins",
+        "Polar bears",
+        "Kangaroos",
+        "Camels"
       ],
       "answer_explanations": [
-        "Correct. The article states about 5,000 people reside at research stations during the summer months.",
-        "Incorrect. The article says the figure drops to around 1,000 in winter, not summer.",
-        "Incorrect. The article gives the summer figure as about 5,000, not 50,000.",
-        "Incorrect. The article states about 5,000 people reside in summer, not 500."
+        "Correct. The article lists penguins among native species of animals in Antarctica.",
+        "Incorrect. Polar bears are not mentioned as native to Antarctica.",
+        "Incorrect. Kangaroos are not mentioned as native to Antarctica.",
+        "Incorrect. Camels are not mentioned as native to Antarctica."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following are native animal species of Antarctica?",
+      "question": "What type of vegetation is mostly found in Antarctica where vegetation occurs?",
       "options": [
-        "Mites, nematodes, penguins, seals, and tardigrades",
-        "Polar bears, penguins, and seals",
-        "Elephants, penguins, and mites",
-        "Kangaroos, seals, and tardigrades"
+        "Lichen or moss",
+        "Trees or shrubs",
+        "Flowers or ferns",
+        "Grasses or cacti"
       ],
       "answer_explanations": [
-        "Correct. The article lists mites, nematodes, penguins, seals, and tardigrades as native species of animals in Antarctica.",
-        "Incorrect. The article does not list polar bears as native to Antarctica.",
-        "Incorrect. The article does not mention elephants as native to Antarctica.",
-        "Incorrect. The article does not list kangaroos as native to Antarctica."
+        "Correct. The article states that where vegetation occurs, it is mostly in the form of lichen or moss.",
+        "Incorrect. Trees and shrubs are not mentioned as Antarctic vegetation.",
+        "Incorrect. Flowers and ferns are not mentioned as Antarctic vegetation.",
+        "Incorrect. Grasses and cacti are not mentioned as Antarctic vegetation."
       ]
     }
   ]

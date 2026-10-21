@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the origin of the name 'Tanzania'?",
+      "question": "What is the official name of the country commonly known as Tanzania?",
       "options": [
-        "It is a clipped compound of Tanganyika and Zanzibar.",
-        "It is a combination of the Swahili words for 'sail' and 'wilderness'.",
-        "It derives from the Arabic word for 'coast' and the name of a local people.",
-        "It was created by a national newspaper editor."
+        "United Republic of Tanzania",
+        "Republic of Tanganyika",
+        "Federal Republic of Tanzania",
+        "People's Republic of Zanzibar"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The name \"Tanzania\" was created as a clipped compound of the names of the two states that unified to create the country: Tanganyika and Zanzibar in 1964.'",
-        "Incorrect. The phrase 'sail in the wilderness' refers to the etymology of Tanganyika, not Tanzania.",
-        "Incorrect. The derivation from Arabic 'barr' (coast) and 'Zanj' (a local people) explains the name Zanzibar, not Tanzania.",
-        "Incorrect. The article says the name was chosen from a contest run by the national newspaper The Standard, but it was won by Mohammed Iqbal Dar, not created by the editor."
+        "Correct. The article states, \"Tanzania, officially the United Republic of Tanzania.\"",
+        "Incorrect. The article says the official name is the United Republic of Tanzania, not the Republic of Tanganyika.",
+        "Incorrect. The article says the official name is the United Republic of Tanzania, not the Federal Republic of Tanzania.",
+        "Incorrect. The article says the official name is the United Republic of Tanzania, not the People's Republic of Zanzibar."
       ]
     },
     {
       "id": 2,
-      "question": "Which body of water borders Tanzania to the east?",
+      "question": "Which two territories merged in 1964 to form the United Republic of Tanzania?",
       "options": [
-        "Indian Ocean",
-        "Lake Victoria",
-        "Lake Tanganyika",
-        "Lake Malawi"
+        "Tanganyika and Zanzibar",
+        "Kenya and Uganda",
+        "Rwanda and Burundi",
+        "Malawi and Zambia"
       ],
       "answer_explanations": [
-        "Correct. The article lists the Indian Ocean as the eastern border: 'bordered by ... the Indian Ocean to the east.'",
-        "Incorrect. Lake Victoria is to the north and west, not the east.",
-        "Incorrect. Lake Tanganyika is to the west, not the east.",
-        "Incorrect. Lake Malawi is to the south, not the east."
+        "Correct. The article states that \"the two entities merged in 1964 to form the United Republic of Tanzania\" referring to Tanganyika and the Zanzibar Archipelago.",
+        "Incorrect. Kenya and Uganda are neighboring countries, not the territories that merged to form Tanzania.",
+        "Incorrect. Rwanda and Burundi are neighboring countries, not the territories that merged to form Tanzania.",
+        "Incorrect. Malawi and Zambia are neighboring countries, not the territories that merged to form Tanzania."
       ]
     },
     {
       "id": 3,
-      "question": "What is the political status of the Chama Cha Mapinduzi (CCM) in Tanzania?",
+      "question": "What is the national language of Tanzania?",
       "options": [
-        "It has ruled as a de facto one-party state for decades.",
-        "It is one of several parties in a multi-party democracy.",
-        "It is the official opposition party.",
-        "It was dissolved after unification."
-      ],
-      "answer_explanations": [
-        "Correct. The article says: 'For decades, Tanzania has been ruled by the Chama Cha Mapinduzi (CCM) as a de facto one-party state.'",
-        "Incorrect. The article describes CCM as ruling as a de facto one-party state, not as part of a multi-party system.",
-        "Incorrect. CCM is the ruling party, not the opposition.",
-        "Incorrect. CCM is still active and ruling; it was not dissolved."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Which language is used as a medium of instruction in secondary and higher education in Tanzania?",
-      "options": [
-        "English",
         "Swahili",
+        "English",
         "Arabic",
         "French"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'English is used ... as a medium of instruction in secondary and higher education.'",
-        "Incorrect. Swahili is the national language but is not specified as the medium of instruction for secondary and higher education.",
-        "Incorrect. Arabic is widely spoken in Zanzibar but is not the medium of instruction in secondary and higher education.",
-        "Incorrect. French is not mentioned in the article."
+        "Correct. The article states, \"the national language is Swahili.\"",
+        "Incorrect. The article says English is used in foreign trade, diplomacy, and education, but it is not the national language.",
+        "Incorrect. The article says Arabic is widely spoken in Zanzibar, but it is not the national language.",
+        "Incorrect. The article does not mention French as a national language of Tanzania."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which mountain, located in Tanzania, is the highest in Africa?",
+      "options": [
+        "Mount Kilimanjaro",
+        "Mount Kenya",
+        "Mount Everest",
+        "Rwenzori Mountains"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that Mount Kilimanjaro is \"the highest mountain in Africa.\"",
+        "Incorrect. Mount Kenya is in Kenya, not Tanzania, and is not the highest in Africa.",
+        "Incorrect. Mount Everest is in Asia, not Africa.",
+        "Incorrect. The Rwenzori Mountains are in Uganda, not Tanzania, and are not the highest in Africa."
       ]
     },
     {
       "id": 5,
-      "question": "What is the highest mountain in Africa, located in Tanzania?",
+      "question": "Which lake, partly within Tanzania, is the deepest lake in Africa?",
       "options": [
-        "Mount Kilimanjaro",
-        "Mount Kenya",
-        "Mount Stanley",
-        "Mount Meru"
+        "Lake Tanganyika",
+        "Lake Victoria",
+        "Lake Malawi",
+        "Lake Turkana"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'Mount Kilimanjaro, the highest mountain in Africa ... is located' in Tanzania.",
-        "Incorrect. Mount Kenya is in Kenya, not Tanzania.",
-        "Incorrect. Mount Stanley is in Uganda and the Democratic Republic of the Congo.",
-        "Incorrect. Mount Meru is in Tanzania but is not the highest mountain in Africa."
+        "Correct. The article states that Lake Tanganyika is \"the continent's deepest lake.\"",
+        "Incorrect. The article says Lake Victoria is Africa's largest lake, not the deepest.",
+        "Incorrect. The article mentions Lake Malawi but does not say it is the deepest.",
+        "Incorrect. Lake Turkana is in Kenya, not Tanzania, and is not mentioned as the deepest."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following is NOT a neighbor of Tanzania?",
+      "question": "What is the name of the largest marine protected area in Zanzibar?",
       "options": [
-        "Ethiopia",
-        "Uganda",
-        "Kenya",
-        "Mozambique"
+        "Menai Bay Conservation Area",
+        "Serengeti National Park",
+        "Kilwa Kisiwani",
+        "Kizimkazi"
       ],
       "answer_explanations": [
-        "Correct. The article lists Uganda, Kenya, Mozambique, Malawi, Zambia, Rwanda, Burundi, and the Democratic Republic of the Congo as neighbors, but not Ethiopia.",
-        "Incorrect. Uganda is listed as a neighbor to the northwest.",
-        "Incorrect. Kenya is listed as a neighbor to the northeast.",
-        "Incorrect. Mozambique is listed as a neighbor to the south."
+        "Correct. The article states that the \"Menai Bay Conservation Area\" is Zanzibar's largest marine protected area.",
+        "Incorrect. Serengeti National Park is a well-known safari destination, but it is not a marine protected area in Zanzibar.",
+        "Incorrect. Kilwa Kisiwani is a historical city-state, not a marine protected area.",
+        "Incorrect. Kizimkazi is a location with a mosque, not a marine protected area."
       ]
     },
     {
       "id": 7,
-      "question": "What is the largest city and principal port of Tanzania?",
+      "question": "Who won the contest to name the country 'Tanzania'?",
       "options": [
-        "Dar es Salaam",
-        "Dodoma",
-        "Zanzibar City",
-        "Mwanza"
+        "Mohammed Iqbal Dar",
+        "Said bin Sultan",
+        "Tippu Tip",
+        "Ibn Battuta"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Dar es Salaam ... is the country's largest city, principal port, and leading commercial centre.'",
-        "Incorrect. Dodoma is the federal capital but not the largest city or principal port.",
-        "Incorrect. Zanzibar City is on Zanzibar but is not the largest city or principal port of the whole country.",
-        "Incorrect. Mwanza is a city on Lake Victoria but not the largest or principal port."
+        "Correct. The article states that the contest was \"won by Mohammed Iqbal Dar.\"",
+        "Incorrect. Said bin Sultan was an Omani Sultan who moved his capital to Zanzibar, not the contest winner.",
+        "Incorrect. Tippu Tip was a slave trader, not the contest winner.",
+        "Incorrect. Ibn Battuta was a Moroccan traveller, not the contest winner."
       ]
     },
     {
       "id": 8,
-      "question": "Which of the following is a marine protected area in Zanzibar?",
+      "question": "What does the name 'Tanganyika' mean in Swahili?",
       "options": [
-        "Menai Bay Conservation Area",
-        "Serengeti National Park",
-        "Ngorongoro Conservation Area",
-        "Lake Manyara National Park"
+        "sail in the wilderness",
+        "land of the brave",
+        "coast of the east",
+        "mountain of the moon"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The Menai Bay Conservation Area is Zanzibar's largest marine protected area.'",
-        "Incorrect. Serengeti National Park is a terrestrial park in mainland Tanzania.",
-        "Incorrect. Ngorongoro Conservation Area is a terrestrial area in mainland Tanzania.",
-        "Incorrect. Lake Manyara National Park is a terrestrial park in mainland Tanzania."
+        "Correct. The article states that the name derives from Swahili words meaning \"sail in the wilderness.\"",
+        "Incorrect. The article does not give this meaning for Tanganyika.",
+        "Incorrect. The article does not give this meaning for Tanganyika.",
+        "Incorrect. The article does not give this meaning for Tanganyika."
       ]
     },
     {
       "id": 9,
-      "question": "What is the second-highest uninterrupted waterfall in Africa, located in Tanzania?",
+      "question": "Which group of people are considered the indigenous populations of eastern Africa, including Tanzania?",
       "options": [
-        "Kalambo Falls",
-        "Victoria Falls",
-        "Tugela Falls",
-        "Boyoma Falls"
+        "Hadza and Sandawe hunter-gatherers",
+        "Southern Cushitic speakers",
+        "Bantu peoples",
+        "Eastern Nilotic peoples"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'The Kalambo Falls ... is the second-highest uninterrupted waterfall in Africa.'",
-        "Incorrect. Victoria Falls is on the border of Zambia and Zimbabwe, not in Tanzania.",
-        "Incorrect. Tugela Falls is in South Africa.",
-        "Incorrect. Boyoma Falls is in the Democratic Republic of the Congo."
+        "Correct. The article states that \"The indigenous populations of eastern Africa are thought to be the linguistically isolated Hadza and Sandawe hunter-gatherers of Tanzania.\"",
+        "Incorrect. Southern Cushitic speakers migrated into Tanzania, but they are not described as the indigenous populations.",
+        "Incorrect. Bantu peoples migrated from West Africa, so they are not the indigenous populations.",
+        "Incorrect. Eastern Nilotic peoples, like the Maasai, are a more recent migration, not the indigenous populations."
       ]
     },
     {
       "id": 10,
-      "question": "Which ethnic group is mentioned as being among the indigenous populations of eastern Africa?",
+      "question": "Which people invented a type of high-heat blast furnace that allowed them to forge carbon steel?",
       "options": [
-        "Hadza",
-        "Maasai",
-        "Iraqw",
-        "Datoog"
+        "Haya people",
+        "Pare people",
+        "Maasai people",
+        "Iraqw people"
       ],
       "answer_explanations": [
-        "Correct. The article says: 'The indigenous populations of eastern Africa are thought to be the linguistically isolated Hadza and Sandawe hunter-gatherers of Tanzania.'",
-        "Incorrect. The Maasai are described as a more recent migration, not indigenous.",
-        "Incorrect. The Iraqw are descendants of Southern Cushitic speakers who migrated, not indigenous.",
-        "Incorrect. The Datoog are Southern Nilotes who migrated, not indigenous."
+        "Correct. The article states that \"The Haya people on the western shores of Lake Victoria invented a type of high-heat blast furnace.\"",
+        "Incorrect. The article says the Pare people were main producers of iron, but it does not say they invented the blast furnace.",
+        "Incorrect. The Maasai are mentioned as a more recent migration, not as inventors of the blast furnace.",
+        "Incorrect. The Iraqw are descendants of Southern Cushitic speakers, not inventors of the blast furnace."
       ]
     }
   ]

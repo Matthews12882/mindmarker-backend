@@ -5,7 +5,23 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Leo Tolstoy's nationality?",
+      "question": "Who is the article about?",
+      "options": [
+        "Leo Tolstoy",
+        "Mahatma Gandhi",
+        "Virginia Woolf",
+        "Henry George"
+      ],
+      "answer_explanations": [
+        "Correct. The article is about Leo Tolstoy, a Russian writer.",
+        "Incorrect. Mahatma Gandhi is mentioned later in the article as someone influenced by Tolstoy's ideas, but the article is about Tolstoy.",
+        "Incorrect. Virginia Woolf is mentioned later as a critic who praised Tolstoy, but the article is about Tolstoy.",
+        "Incorrect. Henry George is mentioned later in connection with Georgism, but the article is about Tolstoy."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What was Leo Tolstoy's nationality?",
       "options": [
         "Russian",
         "French",
@@ -14,153 +30,137 @@
       ],
       "answer_explanations": [
         "Correct. The article states that Leo Tolstoy was a Russian writer.",
-        "Incorrect. The article identifies Tolstoy as Russian, not French.",
-        "Incorrect. The article identifies Tolstoy as Russian, not German.",
-        "Incorrect. The article identifies Tolstoy as Russian, not English."
-      ]
-    },
-    {
-      "id": 2,
-      "question": "In what year was Leo Tolstoy born?",
-      "options": [
-        "1828",
-        "1812",
-        "1852",
-        "1910"
-      ],
-      "answer_explanations": [
-        "Correct. The article gives Tolstoy's birth date as 9 September 1828.",
-        "Incorrect. 1812 is the year of the Patriotic War mentioned in the article, not Tolstoy's birth year.",
-        "Incorrect. 1852 is the publication year of Childhood, not Tolstoy's birth year.",
-        "Incorrect. 1910 is Tolstoy's death year, not his birth year."
+        "Incorrect. The article identifies him as Russian, not French.",
+        "Incorrect. The article identifies him as Russian, not German.",
+        "Incorrect. The article identifies him as Russian, not English."
       ]
     },
     {
       "id": 3,
-      "question": "Which novel did Leo Tolstoy publish in 1869?",
+      "question": "What is the title of Tolstoy's semi-autobiographical trilogy?",
       "options": [
-        "War and Peace",
-        "Anna Karenina",
-        "Resurrection",
-        "Childhood"
+        "Childhood, Boyhood and Youth",
+        "War and Peace, Anna Karenina and Resurrection",
+        "Sevastopol Sketches",
+        "The Kreutzer Sonata"
       ],
       "answer_explanations": [
-        "Correct. The article lists War and Peace with the year 1869.",
-        "Incorrect. The article dates Anna Karenina to 1878.",
-        "Incorrect. The article dates Resurrection to 1899.",
-        "Incorrect. The article dates Childhood to 1852."
+        "Correct. The article mentions his semi-autobiographical trilogy, Childhood, Boyhood and Youth (1852â1856).",
+        "Incorrect. These are three of his greatest novels, not his semi-autobiographical trilogy.",
+        "Incorrect. Sevastopol Sketches is a separate work based on his experiences in the Crimean War.",
+        "Incorrect. The Kreutzer Sonata is a novella, not part of the trilogy."
       ]
     },
     {
       "id": 4,
-      "question": "Which war did Tolstoy serve in as a young artillery officer?",
+      "question": "Which novel is based on Tolstoy's 'youthful sins'?",
       "options": [
-        "Crimean War",
-        "Russo-Japanese War",
-        "Patriotic War of 1812",
-        "World War I"
+        "Resurrection",
+        "War and Peace",
+        "Anna Karenina",
+        "Childhood"
       ],
       "answer_explanations": [
-        "Correct. The article states that Tolstoy served as a young artillery officer during the Crimean War.",
-        "Incorrect. The Russo-Japanese War is mentioned only in connection with Tolstoy's son Andrei.",
-        "Incorrect. The Patriotic War of 1812 is mentioned as a conflict in which Tolstoy's father was a veteran.",
-        "Incorrect. World War I is not mentioned in the article."
+        "Correct. The article states that Resurrection (1899) is based on his 'youthful sins'.",
+        "Incorrect. War and Peace is not described as being based on his 'youthful sins'.",
+        "Incorrect. Anna Karenina is not described as being based on his 'youthful sins'.",
+        "Incorrect. Childhood is part of his semi-autobiographical trilogy, not based on 'youthful sins'."
       ]
     },
     {
       "id": 5,
-      "question": "Whom did Tolstoy marry on 23 September 1862?",
+      "question": "What genre are War and Peace, Anna Karenina, and Resurrection often cited as pinnacles of?",
       "options": [
-        "Sophia Andreevna Behrs",
-        "Virginia Woolf",
-        "Alexandra Tolstaya",
-        "Sonya Sukhotina-Tolstaya"
+        "Realist fiction",
+        "Science fiction",
+        "Romance fiction",
+        "Mystery fiction"
       ],
       "answer_explanations": [
-        "Correct. The article states that Tolstoy married Sophia Andreevna Behrs on 23 September 1862.",
-        "Incorrect. Virginia Woolf is mentioned as an author who praised Tolstoy, not as his wife.",
-        "Incorrect. Alexandra Tolstaya is mentioned as one of Tolstoy's children.",
-        "Incorrect. Tatyana Sukhotina-Tolstaya is mentioned as one of Tolstoy's daughters."
+        "Correct. The article says these novels are often cited as pinnacles of realist fiction.",
+        "Incorrect. The article does not mention science fiction in this context.",
+        "Incorrect. The article does not mention romance fiction in this context.",
+        "Incorrect. The article does not mention mystery fiction in this context."
       ]
     },
     {
       "id": 6,
-      "question": "How many children did Tolstoy and Sophia have?",
+      "question": "Which war did Tolstoy write about in Sevastopol Sketches?",
       "options": [
-        "13",
-        "5",
-        "8",
-        "12"
+        "The Crimean War",
+        "The Napoleonic Wars",
+        "World War I",
+        "The American Civil War"
       ],
       "answer_explanations": [
-        "Correct. The article states they had 13 children, eight of whom survived childhood.",
-        "Incorrect. Five is the number of children Tolstoy was among in his own family, not the number he had with Sophia.",
-        "Incorrect. Eight is the number who survived childhood, not the total number of children.",
-        "Incorrect. Twelve is not the number given in the article."
+        "Correct. The article says Sevastopol Sketches is based on his experiences in the Crimean War.",
+        "Incorrect. The article does not mention the Napoleonic Wars in connection with Sevastopol Sketches.",
+        "Incorrect. The article does not mention World War I in connection with Sevastopol Sketches.",
+        "Incorrect. The article does not mention the American Civil War in connection with Sevastopol Sketches."
       ]
     },
     {
       "id": 7,
-      "question": "Which non-fiction work outlines Tolstoy's moral crisis and spiritual awakening?",
+      "question": "What did Tolstoy experience in the 1870s?",
       "options": [
-        "Confession",
-        "The Kingdom of God Is Within You",
-        "Resurrection",
-        "A Letter to a Hindu"
+        "A profound moral crisis and spiritual awakening",
+        "A great financial success",
+        "A move to America",
+        "A military promotion"
       ],
       "answer_explanations": [
-        "Correct. The article says Confession (1882) outlines his moral crisis and spiritual awakening.",
-        "Incorrect. The Kingdom of God Is Within You is mentioned as expressing his ideas on nonviolent resistance.",
-        "Incorrect. Resurrection is a novel, not the non-fiction work outlining his crisis.",
-        "Incorrect. A Letter to a Hindu is mentioned in connection with Gandhi, not as outlining Tolstoy's crisis."
+        "Correct. The article states that in the 1870s, Tolstoy experienced a profound moral crisis, followed by a spiritual awakening.",
+        "Incorrect. The article does not mention financial success in the 1870s.",
+        "Incorrect. The article does not mention a move to America.",
+        "Incorrect. The article does not mention a military promotion."
       ]
     },
     {
       "id": 8,
-      "question": "Where was Tolstoy born?",
+      "question": "What did Tolstoy become after his spiritual awakening?",
       "options": [
-        "Yasnaya Polyana",
-        "Moscow",
-        "Tula",
-        "Saint Petersburg"
+        "A Christian anarchist and pacifist",
+        "A political leader",
+        "A scientist",
+        "A businessman"
       ],
       "answer_explanations": [
-        "Correct. The article states Tolstoy was born at Yasnaya Polyana, a family estate.",
-        "Incorrect. Moscow is mentioned as a city near Yasnaya Polyana, not as his birthplace.",
-        "Incorrect. Tula is mentioned as a city near Yasnaya Polyana, not as his birthplace.",
-        "Incorrect. Saint Petersburg is mentioned as a place Tolstoy spent time in, not as his birthplace."
+        "Correct. The article says his interpretation of Jesus's teachings caused him to become a fervent Christian anarchist and pacifist.",
+        "Incorrect. The article does not describe him as a political leader.",
+        "Incorrect. The article does not describe him as a scientist.",
+        "Incorrect. The article does not describe him as a businessman."
       ]
     },
     {
       "id": 9,
-      "question": "Which economic philosophy did Tolstoy become a dedicated advocate of?",
+      "question": "Which economic philosophy did Tolstoy advocate?",
       "options": [
         "Georgism",
-        "Christian anarchism",
-        "Pacifism",
-        "Realism"
+        "Capitalism",
+        "Socialism",
+        "Communism"
       ],
       "answer_explanations": [
-        "Correct. The article states Tolstoy became a dedicated advocate of Georgism, the economic philosophy of Henry George.",
-        "Incorrect. Christian anarchism is described as a belief he adopted, not an economic philosophy.",
-        "Incorrect. Pacifism is described as a stance he adopted, not an economic philosophy.",
-        "Incorrect. Realism is described as a literary style, not an economic philosophy."
+        "Correct. The article states that Tolstoy became a dedicated advocate of Georgism, the economic philosophy of Henry George.",
+        "Incorrect. The article does not mention capitalism in this context.",
+        "Incorrect. The article does not mention socialism in this context.",
+        "Incorrect. The article does not mention communism in this context."
       ]
     },
     {
       "id": 10,
-      "question": "For which prizes was Tolstoy nominated according to the article?",
+      "question": "Who called Tolstoy 'the greatest of all novelists'?",
       "options": [
-        "Nobel Prize in Literature and Nobel Peace Prize",
-        "Nobel Prize in Literature only",
-        "Nobel Peace Prize only",
-        "Pulitzer Prize and Nobel Prize in Literature"
+        "Virginia Woolf",
+        "Gary Saul Morson",
+        "Mahatma Gandhi",
+        "James Bevel"
       ],
       "answer_explanations": [
-        "Correct. The article states he received nominations for the Nobel Prize in Literature every year from 1902 to 1906 and for the Nobel Peace Prize in 1901, 1902, and 1909.",
-        "Incorrect. The article mentions both prizes, not only the Nobel Prize in Literature.",
-        "Incorrect. The article mentions both prizes, not only the Nobel Peace Prize.",
-        "Incorrect. The Pulitzer Prize is not mentioned in the article."
+        "Correct. The article states that Virginia Woolf called Tolstoy 'the greatest of all novelists'.",
+        "Incorrect. Gary Saul Morson referred to War and Peace as the greatest of all novels, not to Tolstoy as the greatest novelist.",
+        "Incorrect. Mahatma Gandhi was influenced by Tolstoy's ideas on nonviolent resistance, but he is not quoted making this statement.",
+        "Incorrect. James Bevel is mentioned as a figure influenced by Tolstoy, but he is not quoted making this statement."
       ]
     }
   ]

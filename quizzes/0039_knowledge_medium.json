@@ -5,119 +5,39 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which three essential features does the justified true belief definition identify for knowledge?",
+      "question": "What is the main discipline that investigates knowledge?",
       "options": [
-        "belief, truth, and justification",
-        "belief, perception, and memory",
-        "truth, justification, and introspection",
-        "justification, inference, and testimony"
+        "Epistemology",
+        "Sociology",
+        "Psychology",
+        "Anthropology"
       ],
       "answer_explanations": [
-        "Correct. The article states that the justified true belief definition identifies three essential features: it is (1) a belief that is (2) true and (3) justified.",
-        "Incorrect. Perception and memory are sources of knowledge, not the three essential features of the justified true belief definition.",
-        "Incorrect. Introspection is a source of knowledge, not one of the three essential features of knowledge as justified true belief.",
-        "Incorrect. Inference and testimony are sources of knowledge, not the three essential features of the justified true belief definition."
+        "Correct. The article states: 'The main discipline investigating knowledge is epistemology, which studies what people know, how they come to know it, and what it means to know something.'",
+        "Incorrect. Sociology is mentioned in the article but it is not the main discipline investigating knowledge; the article says 'The sociology of knowledge examines under what sociohistorical circumstances knowledge arises.'",
+        "Incorrect. Psychology is not mentioned as the main discipline investigating knowledge in the article.",
+        "Incorrect. Anthropology is mentioned in the article but it is not the main discipline investigating knowledge; the article says 'The anthropology of knowledge studies how knowledge is acquired, stored, retrieved, and communicated in different cultures.'"
       ]
     },
     {
       "id": 2,
-      "question": "What does the article say about truth as a feature of knowledge?",
+      "question": "According to the article, what are the three essential features of the justified true belief definition of knowledge?",
       "options": [
-        "One cannot know something false",
-        "One can know something false if it is justified",
-        "Truth is not a necessary feature of knowledge",
-        "Truth depends on the knower's perspective"
+        "Belief, truth, and justification",
+        "Belief, evidence, and memory",
+        "Truth, perception, and reason",
+        "Justification, reliability, and coherence"
       ],
       "answer_explanations": [
-        "Correct. The article states that truth implies that while it may be possible to believe something false, one cannot know something false.",
-        "Incorrect. The article explicitly states that one cannot know something false, even if the belief is justified.",
-        "Incorrect. The article identifies truth as a widely accepted and essential feature of knowledge.",
-        "Incorrect. The article does not say that truth depends on the knower's perspective; it treats truth as an objective feature of knowledge."
+        "Correct. The article says: 'This definition identifies three essential features: it is (1) a belief that is (2) true and (3) justified.'",
+        "Incorrect. Evidence and memory are mentioned as possible bases for justification, but they are not the three essential features of the justified true belief definition.",
+        "Incorrect. Perception and reason are sources of knowledge, not the three essential features of the justified true belief definition.",
+        "Incorrect. Reliability and coherence are alternative theories about justification, not the three essential features of the justified true belief definition."
       ]
     },
     {
       "id": 3,
-      "question": "According to the article, what is the main controversy surrounding the definition of knowledge as justified true belief?",
-      "options": [
-        "The third feature: justification",
-        "The first feature: belief",
-        "The second feature: truth",
-        "The relationship between belief and truth"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that the main controversy surrounding this definition concerns its third feature: justification.",
-        "Incorrect. The article identifies justification, not belief, as the main source of controversy.",
-        "Incorrect. The article identifies justification, not truth, as the main source of controversy.",
-        "Incorrect. The article states that the controversy concerns justification specifically, not the relationship between belief and truth."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "What is a Gettier case intended to show?",
-      "options": [
-        "Justified true beliefs can fail to constitute knowledge",
-        "Justification is not needed for knowledge",
-        "True belief is sufficient for knowledge",
-        "All justified beliefs are knowledge"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Gettier cases purport to present concrete cases of justified true beliefs that fail to constitute knowledge.",
-        "Incorrect. While some philosophers argue this in response to Gettier cases, the cases themselves are intended to show that justified true belief can fail to be knowledge.",
-        "Incorrect. Gettier cases are intended to show that true belief is not sufficient for knowledge.",
-        "Incorrect. Gettier cases are intended to show that not all justified true beliefs constitute knowledge."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What is the difference between propositional knowledge and knowledge by acquaintance?",
-      "options": [
-        "Propositional knowledge involves a relation to a proposition, while knowledge by acquaintance is familiarity based on direct experiential contact",
-        "Propositional knowledge is based on direct experience, while knowledge by acquaintance involves a relation to a proposition",
-        "Propositional knowledge is only about facts, while knowledge by acquaintance is only about skills",
-        "Propositional knowledge requires inference, while knowledge by acquaintance requires testimony"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that propositional knowledge involves a relation to a proposition, while knowledge by acquaintance is familiarity with something that results from direct experiential contact.",
-        "Incorrect. This reverses the definitions given in the article.",
-        "Incorrect. Knowledge by acquaintance is not limited to skills; knowledge-how covers practical skills.",
-        "Incorrect. The article does not state that propositional knowledge requires inference or that knowledge by acquaintance requires testimony."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "According to the article, what is the difference between a priori and a posteriori knowledge?",
-      "options": [
-        "A posteriori knowledge is based on experience, while a priori knowledge is possible without any experience",
-        "A priori knowledge is based on experience, while a posteriori knowledge is possible without any experience",
-        "A priori knowledge is empirical, while a posteriori knowledge is non-empirical",
-        "A posteriori knowledge is only mathematical, while a priori knowledge is only sensory"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that to know something a posteriori means to know it based on experience, while a priori knowledge is possible without any experience to justify or support the known proposition.",
-        "Incorrect. This reverses the definitions given in the article.",
-        "Incorrect. The article states that a posteriori knowledge is empirical knowledge while a priori knowledge is non-empirical knowledge.",
-        "Incorrect. The article gives mathematical knowledge as an example of a priori knowledge, not a posteriori knowledge."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "What does the article say about the capacity for propositional knowledge?",
-      "options": [
-        "It is often held to be exclusive to relatively sophisticated creatures such as humans",
-        "It is common in the animal kingdom",
-        "It does not require advanced intellectual capacities",
-        "It is possessed by all animals that can walk"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that because of the dependence on mental representations, it is often held that the capacity for propositional knowledge is exclusive to relatively sophisticated creatures, such as humans.",
-        "Incorrect. The article states that some types of knowledge-how are more common in the animal kingdom, not propositional knowledge.",
-        "Incorrect. The article states that advanced intellectual capacities are needed to believe a proposition that expresses what the world is like.",
-        "Incorrect. The article uses an ant knowing how to walk as an example of knowledge-how, not propositional knowledge."
-      ]
-    },
-    {
-      "id": 8,
-      "question": "According to the article, what is the main source of empirical knowledge?",
+      "question": "What is the main source of empirical knowledge according to the article?",
       "options": [
         "Perception",
         "Introspection",
@@ -125,42 +45,122 @@
         "Testimony"
       ],
       "answer_explanations": [
-        "Correct. The article states that the main source of empirical knowledge is perception, which involves the usage of the senses to learn about the external world.",
-        "Incorrect. Introspection allows people to learn about their internal mental states, but it is not the main source of empirical knowledge.",
-        "Incorrect. Memory is listed as another source of knowledge, but not the main source of empirical knowledge.",
-        "Incorrect. Testimony is listed as another source of knowledge, but not the main source of empirical knowledge."
+        "Correct. The article states: 'The main source of empirical knowledge is perception, which involves the usage of the senses to learn about the external world.'",
+        "Incorrect. Introspection is mentioned as a source of knowledge but not as the main source of empirical knowledge; the article says it 'allows people to learn about their internal mental states and processes.'",
+        "Incorrect. Memory is mentioned as a source of knowledge but not as the main source of empirical knowledge.",
+        "Incorrect. Testimony is mentioned as a source of knowledge but not as the main source of empirical knowledge."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is an example of knowledge-how given in the article?",
+      "options": [
+        "Knowing how to swim",
+        "Knowing that 2 + 2 = 4",
+        "Knowing that Dave is at home",
+        "Knowing the taste of chocolate"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'To possess knowledge-how means to have some form of practical ability, skill, or competence, like knowing how to ride a bicycle or knowing how to swim.'",
+        "Incorrect. Knowing that 2 + 2 = 4 is an example of propositional knowledge, not knowledge-how.",
+        "Incorrect. Knowing that Dave is at home is an example of propositional knowledge, not knowledge-how.",
+        "Incorrect. Knowing the taste of chocolate is an example of knowledge by acquaintance, not knowledge-how."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the term for knowledge that is possible without any experience to justify or support the known proposition?",
+      "options": [
+        "A priori knowledge",
+        "A posteriori knowledge",
+        "Empirical knowledge",
+        "Procedural knowledge"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'A priori knowledge is possible without any experience to justify or support the known proposition.'",
+        "Incorrect. A posteriori knowledge is defined as knowing something based on experience, not without it.",
+        "Incorrect. Empirical knowledge is another term for a posteriori knowledge, which requires experience.",
+        "Incorrect. Procedural knowledge is knowledge-how, which is a type of non-propositional knowledge, not defined by the role of experience."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the article, what did Edmund Gettier formulate in the 20th century?",
+      "options": [
+        "A series of counterexamples to the justified true belief definition",
+        "The first definition of knowledge as justified true belief",
+        "The concept of knowledge by acquaintance",
+        "The theory of coherentism"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'The definition of knowledge as justified true belief came under severe criticism in the 20th century, when epistemologist Edmund Gettier formulated a series of counterexamples.'",
+        "Incorrect. The justified true belief definition was already discussed before Gettier; Gettier formulated counterexamples to it.",
+        "Incorrect. The concept of knowledge by acquaintance was introduced by Bertrand Russell, not Gettier.",
+        "Incorrect. Coherentism is a theory about justification, not something Gettier formulated."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is NOT listed in the article as a source of knowledge?",
+      "options": [
+        "Imagination",
+        "Memory",
+        "Inference",
+        "Testimony"
+      ],
+      "answer_explanations": [
+        "Correct. The article lists perception, introspection, memory, rational intuition, inference, and testimony as sources of knowledge, but does not list imagination.",
+        "Incorrect. Memory is listed as a source of knowledge in the article.",
+        "Incorrect. Inference is listed as a source of knowledge in the article.",
+        "Incorrect. Testimony is listed as a source of knowledge in the article."
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What does the article say about the word 'knowledge' in ancient Greek?",
+      "options": [
+        "It had four important terms: epistÄmÄ, technÄ, mÄtis, and gnÅsis",
+        "It had only one term, 'epistÄmÄ'",
+        "It had two terms, 'epistÄmÄ' and 'technÄ'",
+        "It had no equivalent term"
+      ],
+      "answer_explanations": [
+        "Correct. The article says: 'In ancient Greek, for example, four important terms for knowledge were used: epistÄmÄ (unchanging theoretical knowledge), technÄ (expert technical knowledge), mÄtis (strategic knowledge), and gnÅsis (personal intellectual knowledge).'",
+        "Incorrect. The article lists four terms, not one.",
+        "Incorrect. The article lists four terms, not two.",
+        "Incorrect. The article explicitly lists four Greek terms for knowledge."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article say about the relationship between knowledge and intelligence?",
+      "question": "According to the article, what is the difference between knowledge and intelligence?",
       "options": [
-        "Intelligence is about the ability to acquire, process, and apply information, while knowledge concerns information and skills a person already possesses",
-        "Knowledge is about the ability to acquire, process, and apply information, while intelligence concerns information and skills a person already possesses",
-        "Knowledge and intelligence are identical concepts",
-        "Intelligence is a form of knowledge stored in documents"
+        "Intelligence is the ability to acquire and process information, while knowledge is information and skills a person already has",
+        "Knowledge is the ability to acquire information, while intelligence is information a person already has",
+        "There is no difference; they are the same",
+        "Intelligence is a type of knowledge by acquaintance"
       ],
       "answer_explanations": [
-        "Correct. The article states that knowledge is closely related to intelligence, but intelligence is more about the ability to acquire, process, and apply information, while knowledge concerns information and skills that a person already possesses.",
+        "Correct. The article says: 'Knowledge is closely related to intelligence, but intelligence is more about the ability to acquire, process, and apply information, while knowledge concerns information and skills that a person already possesses.'",
         "Incorrect. This reverses the definitions given in the article.",
-        "Incorrect. The article distinguishes knowledge from intelligence rather than treating them as identical.",
-        "Incorrect. The article mentions knowledge stored in documents but does not define intelligence as a form of knowledge stored in documents."
+        "Incorrect. The article explicitly states a difference between knowledge and intelligence.",
+        "Incorrect. The article does not describe intelligence as a type of knowledge by acquaintance."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what is the main discipline investigating knowledge?",
+      "question": "What is the name for the view that an infinite chain of beliefs is needed for knowledge?",
       "options": [
-        "Epistemology",
-        "Sociology",
-        "Anthropology",
-        "History"
+        "Infinitism",
+        "Foundationalism",
+        "Coherentism",
+        "Skepticism"
       ],
       "answer_explanations": [
-        "Correct. The article states that the main discipline investigating knowledge is epistemology, which studies what people know, how they come to know it, and what it means to know something.",
-        "Incorrect. The sociology of knowledge examines sociohistorical circumstances and consequences of knowledge, but it is not the main discipline investigating knowledge.",
-        "Incorrect. The anthropology of knowledge studies how knowledge is acquired, stored, retrieved, and communicated in different cultures, but it is not the main discipline investigating knowledge.",
-        "Incorrect. The history of knowledge investigates how knowledge has developed over time, but it is not the main discipline investigating knowledge."
+        "Correct. The article says: 'According to infinitism, an infinite chain of beliefs is needed.'",
+        "Incorrect. Foundationalism holds that some sources are basic and do not depend on other mental states, not that an infinite chain is needed.",
+        "Incorrect. Coherentism holds that a sufficient degree of coherence among all mental states is necessary, not an infinite chain.",
+        "Incorrect. Skepticism questions the possibility of knowledge, not the need for an infinite chain of beliefs."
       ]
     }
   ]

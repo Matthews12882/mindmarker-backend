@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is electricity defined as in the article?",
+      "question": "What is electricity the set of?",
       "options": [
-        "the set of physical phenomena associated with the presence and motion of matter possessing an electric charge",
-        "a type of energy used only for lighting",
-        "the motion of electrons only",
-        "a force that only exists in static conditions"
+        "Physical phenomena associated with the presence and motion of matter possessing an electric charge",
+        "Chemical reactions in batteries",
+        "The study of magnets only",
+        "The flow of water in pipes"
       ],
       "answer_explanations": [
-        "Correct. The article opens with: \"Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge.\"",
-        "Incorrect. The article does not define electricity as only being used for lighting; it covers many phenomena and applications.",
-        "Incorrect. While motion of charge carriers is part of electricity, the definition includes presence and motion of matter with charge, not just electrons.",
-        "Incorrect. Electricity includes both static and dynamic phenomena, not only static conditions."
+        "Correct. The article states that electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge.",
+        "Incorrect. The article does not describe electricity as chemical reactions in batteries.",
+        "Incorrect. The article mentions magnetism but does not define electricity as the study of magnets only.",
+        "Incorrect. The article does not compare electricity to the flow of water in pipes."
       ]
     },
     {
       "id": 2,
-      "question": "Which scientist is credited with coining the term 'electricus' in the article?",
+      "question": "What is electricity related to?",
       "options": [
-        "William Gilbert",
-        "Benjamin Franklin",
-        "Isaac Newton",
-        "Alessandro Volta"
+        "Magnetism",
+        "Gravity",
+        "Sound",
+        "Heat only"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"William Gilbert ... coined the Neo-Latin word electricus ... to refer to the property of attracting small objects after being rubbed.\"",
-        "Incorrect. Benjamin Franklin is noted for his kite experiment, not for coining the term electricus.",
-        "Incorrect. Isaac Newton made early investigations but did not coin the term electricus.",
-        "Incorrect. Alessandro Volta invented the voltaic pile, not the term electricus."
+        "Correct. The article says electricity is related to magnetism, both being part of electromagnetism.",
+        "Incorrect. Gravity is not mentioned as a relation to electricity.",
+        "Incorrect. Sound is not mentioned in the article.",
+        "Incorrect. The article does not say electricity is related only to heat."
       ]
     },
     {
       "id": 3,
-      "question": "What phenomenon did Thales of Miletus incorrectly attribute to magnetism?",
+      "question": "Both electricity and magnetism are part of what phenomenon?",
       "options": [
-        "static electricity from rubbing amber",
-        "the attraction of iron by lodestone",
-        "the repulsion between like charges",
-        "the flow of electric current"
+        "Electromagnetism",
+        "Thermodynamics",
+        "Optics",
+        "Acoustics"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"Thales of Miletus ... believed that friction rendered amber magnetic, in contrast to minerals such as magnetite... He was incorrect in believing the attraction was due to a magnetic effect.\"",
-        "Incorrect. Thales did not attribute iron's attraction to lodestone; that was known earlier.",
-        "Incorrect. The concept of like-charge repulsion was not described by Thales.",
-        "Incorrect. Electric current flow was not described by Thales."
+        "Correct. The article states that both are part of the phenomenon of electromagnetism.",
+        "Incorrect. Thermodynamics is not mentioned.",
+        "Incorrect. Optics is not mentioned.",
+        "Incorrect. Acoustics is not mentioned."
       ]
     },
     {
       "id": 4,
-      "question": "Which device did Benjamin Franklin use to demonstrate that lightning is electrical?",
+      "question": "Which of these is a common phenomenon related to electricity?",
       "options": [
-        "a metal key attached to a kite string",
-        "a Leyden jar",
-        "a voltaic pile",
-        "a catâs whisker detector"
+        "Lightning",
+        "Rainbows",
+        "Earthquakes",
+        "Tides"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: \"In June 1752 he is reputed to have attached a metal key to the bottom of a dampened kite string and flown the kite... A succession of sparks jumping from the key to the back of his hand showed that lightning was indeed electrical in nature.\"",
-        "Incorrect. The Leyden jar was used later to store charge, not in Franklin's kite experiment.",
-        "Incorrect. The voltaic pile was invented later by Volta.",
-        "Incorrect. The cat's whisker detector is a later solid-state device."
+        "Correct. The article lists lightning as a common phenomenon related to electricity.",
+        "Incorrect. Rainbows are not mentioned.",
+        "Incorrect. Earthquakes are not mentioned.",
+        "Incorrect. Tides are not mentioned."
       ]
     },
     {
       "id": 5,
-      "question": "What did Luigi Galvani discover about electricity?",
+      "question": "What does the presence of a positive or negative electric charge produce?",
       "options": [
-        "that electricity is the medium by which neurons pass signals to muscles",
-        "that electric fish generate electricity",
-        "that lightning is electrical in nature",
-        "that static electricity can be produced by rubbing amber"
+        "An electric field",
+        "A magnetic field only",
+        "A gravitational field",
+        "A sound wave"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"In 1791, Luigi Galvani ... demonstrated that electricity was the medium by which neurons passed signals to the muscles.\"",
-        "Incorrect. While electric fish were studied, Galvani's discovery was about bioelectromagnetics and neurons.",
-        "Incorrect. Franklin demonstrated lightning's electrical nature.",
-        "Incorrect. Thales studied static electricity from amber."
+        "Correct. The article says the presence of either a positive or negative electric charge produces an electric field.",
+        "Incorrect. A magnetic field is produced by the motion of charge carriers, not just the presence of charge.",
+        "Incorrect. A gravitational field is not mentioned.",
+        "Incorrect. A sound wave is not mentioned."
       ]
     },
     {
       "id": 6,
-      "question": "Which invention is Michael Faraday credited with in the article?",
+      "question": "What is an electric current?",
       "options": [
-        "the electric motor",
-        "the incandescent light bulb",
-        "the telephone",
-        "the radio"
+        "The motion of electric charge carriers",
+        "The presence of static charge",
+        "The force between two magnets",
+        "The work done to move a charge"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"Michael Faraday invented the electric motor in 1821.\"",
-        "Incorrect. The incandescent light bulb is attributed to others like Edison.",
-        "Incorrect. The telephone is credited to Alexander Graham Bell.",
-        "Incorrect. The radio was developed later by many inventors."
+        "Correct. The article defines electric current as the motion of electric charge carriers.",
+        "Incorrect. Static charge is not described as an electric current.",
+        "Incorrect. The force between magnets is not mentioned as an electric current.",
+        "Incorrect. The work done to move a charge is electric potential, not current."
       ]
     },
     {
       "id": 7,
-      "question": "What is the elementary charge value as defined in the article?",
+      "question": "What does the motion of electric charge carriers produce?",
       "options": [
-        "1.602176634Ã10â19 coulombs",
-        "2.0Ã10â19 coulombs",
-        "1.0Ã10â19 coulombs",
-        "5.0Ã10â19 coulombs"
+        "A magnetic field",
+        "An electric field only",
+        "A gravitational field",
+        "A light wave"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"A proton by definition carries a charge of exactly 1.602176634Ã10â19 coulombs. This value is also defined as the elementary charge.\"",
-        "Incorrect. The value is precisely 1.602176634Ã10â19 coulombs, not 2.0Ã10â19.",
-        "Incorrect. The exact value is given as 1.602176634Ã10â19 coulombs.",
-        "Incorrect. The exact value is 1.602176634Ã10â19 coulombs."
+        "Correct. The article states that the motion of electric charge carriers produces a magnetic field.",
+        "Incorrect. An electric field is produced by the presence of charge, not specifically by motion.",
+        "Incorrect. A gravitational field is not mentioned.",
+        "Incorrect. A light wave is not mentioned."
       ]
     },
     {
       "id": 8,
-      "question": "Which law describes the force acting on an electrically charged particle?",
+      "question": "What is electric potential typically measured in?",
       "options": [
-        "Coulomb's law",
-        "Newton's second law",
-        "Ohm's law",
-        "Faraday's law of induction"
+        "Volts",
+        "Amperes",
+        "Ohms",
+        "Watts"
       ],
       "answer_explanations": [
-        "Correct. The article mentions: \"In most applications, Coulomb's law determines the force acting on an electrically charged particle.\"",
-        "Incorrect. Newton's second law relates force to mass and acceleration, not specifically electric charge.",
-        "Incorrect. Ohm's law relates voltage, current, and resistance.",
-        "Incorrect. Faraday's law concerns electromagnetic induction."
+        "Correct. The article says electric potential is typically measured in volts.",
+        "Incorrect. Amperes are not mentioned as the unit for electric potential.",
+        "Incorrect. Ohms are not mentioned.",
+        "Incorrect. Watts are not mentioned."
       ]
     },
     {
       "id": 9,
-      "question": "What unit is used to measure electric potential?",
+      "question": "Which of these is an active component mentioned in the article?",
       "options": [
-        "volts",
-        "amperes",
-        "ohms",
-        "watts"
+        "Transistors",
+        "Resistors",
+        "Capacitors",
+        "Inductors"
       ],
       "answer_explanations": [
-        "Correct. The article says: \"Electric potential is the work done to move an electric charge ... typically measured in volts.\"",
-        "Incorrect. Amperes measure electric current.",
-        "Incorrect. Ohms measure electrical resistance.",
-        "Incorrect. Watts measure power."
+        "Correct. The article lists transistors as an example of active components.",
+        "Incorrect. Resistors are not mentioned in the article.",
+        "Incorrect. Capacitors are not mentioned.",
+        "Incorrect. Inductors are not mentioned."
       ]
     },
     {
       "id": 10,
-      "question": "Which historical period saw electricity become an essential tool for modern life, according to the article?",
+      "question": "When did the study of electrical phenomena date back to?",
       "options": [
-        "the late 19th century",
-        "the early 20th century",
-        "the Renaissance",
-        "the early 21st century"
+        "Antiquity",
+        "The 17th century",
+        "The 18th century",
+        "The 19th century"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"While the early 19th century had seen rapid progress in electrical science, the late 19th century would see the greatest progress in electrical engineering... electricity turned from a scientific curiosity into an essential tool for modern life.\"",
-        "Incorrect. The early 20th century saw further development, but the article emphasizes the late 19th century.",
-        "Incorrect. The Renaissance predates modern electrical understanding.",
-        "Incorrect. The early 21st century is beyond the timeframe described."
+        "Correct. The article states that the study of electrical phenomena dates back to antiquity.",
+        "Incorrect. The 17th century is mentioned as a time when theoretical understanding progressed slowly, not as the start.",
+        "Incorrect. The 18th century is mentioned similarly, not as the start.",
+        "Incorrect. The 19th century is mentioned for the development of electromagnetism, not the start."
       ]
     }
   ]

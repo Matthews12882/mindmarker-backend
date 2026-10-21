@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was the length of Suleiman the Magnificent's reign as Ottoman sultan?",
+      "question": "Who was Suleiman the Magnificent?",
       "options": [
-        "1520 to 1566",
-        "1520 to 1565",
-        "1521 to 1566",
-        "1519 to 1566"
+        "The Ottoman sultan from 1520 to 1566",
+        "The king of Hungary",
+        "The Safavid emperor of Iran",
+        "A famous European painter"
       ],
       "answer_explanations": [
-        "Correct. The article states that Suleiman was the Ottoman sultan from 1520 to 1566.",
-        "Incorrect. The article clearly marks his reign as 1520 to 1566, not 1520 to 1565.",
-        "Incorrect. The article does not list 1521 as the start year; it begins in 1520.",
-        "Incorrect. The article does not mention a reign starting in 1519."
+        "Correct. The article states that Suleiman I was the Ottoman sultan from 1520 to 1566.",
+        "Incorrect. The article mentions the Kingdom of Hungary but does not say Suleiman was its king.",
+        "Incorrect. The article refers to the Safavid Empire as a separate entity that Suleiman fought against.",
+        "Incorrect. The article describes Suleiman as a poet and goldsmith, not a painter."
       ]
     },
     {
       "id": 2,
+      "question": "How long did Suleiman rule as sultan?",
+      "options": [
+        "From 1520 to 1566",
+        "From 1494 to 1566",
+        "From 1520 to 1529",
+        "From 1521 to 1566"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he was sultan from 1520 to 1566.",
+        "Incorrect. 1494 is his birth year, not the start of his reign.",
+        "Incorrect. 1529 is the year of the siege of Vienna, not the end of his reign.",
+        "Incorrect. 1521 is when Belgrade fell, not when he became sultan."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What was the approximate number of subjects in the empire during Suleiman's rule?",
+      "options": [
+        "At least 25 million people",
+        "At least 15 million people",
+        "At least 35 million people",
+        "At least 5 million people"
+      ],
+      "answer_explanations": [
+        "Correct. The article states that his rule raised the number of subjects to at least 25 million people.",
+        "Incorrect. The article specifies at least 25 million, not 15 million.",
+        "Incorrect. The article specifies at least 25 million, not 35 million.",
+        "Incorrect. The article specifies at least 25 million, not 5 million."
+      ]
+    },
+    {
+      "id": 4,
       "question": "Which city fell to Suleiman in 1521?",
       "options": [
         "Belgrade",
         "Rhodes",
         "Vienna",
-        "Constantinople"
+        "MohÃ¡cs"
       ],
       "answer_explanations": [
-        "Correct. According to the article, Belgrade fell to Suleiman in 1521.",
-        "Incorrect. The article notes that Rhodes fell in 1522, not 1521.",
-        "Incorrect. The article mentions the siege of Vienna in 1529, not 1521.",
-        "Incorrect. Constantinople was not captured by Suleiman in 1521."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "What major battle in 1526 broke the strength of the Kingdom of Hungary?",
-      "options": [
-        "Battle of MohÃ¡cs",
-        "Siege of Vienna",
-        "Siege of Rhodes",
-        "Siege of Belgrade"
-      ],
-      "answer_explanations": [
-        "Correct. The article describes the Battle of MohÃ¡cs in 1526 as breaking the strength of the Kingdom of Hungary.",
-        "Incorrect. The siege of Vienna occurred in 1529, not 1526.",
-        "Incorrect. The siege of Rhodes took place in 1522.",
-        "Incorrect. The siege of Belgrade was in 1521."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Which Ottoman chief judicial official worked with Suleiman on legal reforms?",
-      "options": [
-        "Ebussuud Efendi",
-        "Selim I",
-        "PargalÄ± Ibrahim Pasha",
-        "HÃ¼rrem Sultan"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Suleiman's reforms were carried out in conjunction with the Ottoman chief judicial official Ebussuud Efendi.",
-        "Incorrect. Selim I was Suleiman's father and not the chief judicial official.",
-        "Incorrect. PargalÄ± Ibrahim Pasha was a trusted adviser but not the chief judicial official.",
-        "Incorrect. HÃ¼rrem Sultan was an influential woman in the harem, not a judicial official."
+        "Correct. The article says Belgrade fell to him in 1521.",
+        "Incorrect. Rhodes fell in 1522, not 1521.",
+        "Incorrect. Vienna was besieged in 1529, not taken in 1521.",
+        "Incorrect. MohÃ¡cs was a battle in 1526, not a city taken in 1521."
       ]
     },
     {
       "id": 5,
-      "question": "What title did Suleiman hold that referred to him as the Lawgiver?",
+      "question": "What happened at the Battle of MohÃ¡cs in 1526?",
       "options": [
-        "KanÃ»nÃ®",
-        "Sultanate of Women",
-        "Golden Age",
-        "Imperial Harem"
+        "Suleiman broke the strength of the Kingdom of Hungary",
+        "Suleiman was defeated by the Safavid Empire",
+        "Suleiman captured Vienna",
+        "Suleiman married HÃ¼rrem"
       ],
       "answer_explanations": [
-        "Correct. The article mentions the epithet KanÃ»nÃ® (the Lawgiver) used for Suleiman.",
-        "Incorrect. The Sultanate of Women refers to a period in Ottoman history, not a title for Suleiman.",
-        "Incorrect. The Golden Age describes the cultural period, not a personal title.",
-        "Incorrect. The Imperial Harem is the sultan's palace harem, not a title."
+        "Correct. The article states that at MohÃ¡cs in 1526, Suleiman broke the strength of the Kingdom of Hungary.",
+        "Incorrect. The Safavid wars are mentioned separately, not at MohÃ¡cs.",
+        "Incorrect. Vienna was besieged in 1529, not taken at MohÃ¡cs.",
+        "Incorrect. Suleiman married HÃ¼rrem in 1534, not at MohÃ¡cs."
       ]
     },
     {
       "id": 6,
-      "question": "Which city did Suleiman marry HÃ¼rrem from, breaking Ottoman tradition?",
+      "question": "What prevented Suleiman from advancing further into Europe?",
       "options": [
-        "Imperial Harem",
-        "TopkapÄ± Palace",
-        "Constantinople",
-        "Trabzon"
+        "His defeat at the siege of Vienna in 1529",
+        "His defeat at the Battle of MohÃ¡cs",
+        "His marriage to HÃ¼rrem",
+        "His death in 1566"
       ],
       "answer_explanations": [
-        "Correct. The article says Suleiman broke with Ottoman tradition by marrying HÃ¼rrem, an influential woman from his Imperial Harem.",
-        "Incorrect. TopkapÄ± Palace is where he studied, not where HÃ¼rrem was from.",
-        "Incorrect. Constantinople is the city where the palace is located, but the article specifies the Imperial Harem.",
-        "Incorrect. Trabzon is his birthplace, not the location of HÃ¼rrem."
+        "Correct. The article says his defeat at the siege of Vienna in 1529 prevented him from advancing further into Europe.",
+        "Incorrect. MohÃ¡cs was a victory, not a defeat.",
+        "Incorrect. His marriage is mentioned later and did not prevent advancement.",
+        "Incorrect. His death occurred much later and is not related to preventing advancement."
       ]
     },
     {
       "id": 7,
-      "question": "Who succeeded Suleiman after his death in 1566?",
+      "question": "Which empire did Suleiman fight against for years?",
       "options": [
-        "Selim II",
-        "Selim I",
-        "HÃ¼rrem Sultan",
-        "Ebussuud Efendi"
+        "The Safavid Empire",
+        "The Kingdom of Hungary",
+        "The Byzantine Empire",
+        "The Roman Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states that upon Suleiman's death in 1566, he was succeeded by his and HÃ¼rrem's son Selim II.",
-        "Incorrect. Selim I was Suleiman's father and died earlier.",
-        "Incorrect. HÃ¼rrem Sultan was his wife, not his successor.",
-        "Incorrect. Ebussuud Efendi was a judicial official, not a successor."
+        "Correct. The article says he fought for years against the Shia Islamic Safavid Empire of Iran.",
+        "Incorrect. Hungary was defeated at MohÃ¡cs, but the long conflict was with the Safavids.",
+        "Incorrect. The Byzantine Empire is not mentioned in the article.",
+        "Incorrect. The Roman Empire is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "Which battle in 1529 marked the first defeat for Suleiman?",
+      "question": "What did Suleiman personally institute?",
       "options": [
-        "Siege of Vienna",
-        "Siege of Rhodes",
-        "Battle of MohÃ¡cs",
-        "Siege of Belgrade"
+        "Major judicial changes",
+        "New military uniforms",
+        "A new religion",
+        "A new language"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the Austrians inflicted the first defeat on Suleiman at the siege of Vienna in 1529.",
-        "Incorrect. The siege of Rhodes was in 1522 and was a victory for Suleiman.",
-        "Incorrect. The Battle of MohÃ¡cs was in 1526 and was a victory for Suleiman.",
-        "Incorrect. The Siege of Belgrade was in 1521 and was a victory for Suleiman."
+        "Correct. The article states that Suleiman personally instituted major judicial changes pertaining to society, education, taxation, and criminal law.",
+        "Incorrect. The article does not mention military uniforms.",
+        "Incorrect. The article does not mention a new religion.",
+        "Incorrect. The article does not mention a new language."
       ]
     },
     {
       "id": 9,
-      "question": "Which empire did Suleiman fight against for years in the east, eventually annexing Iraq?",
+      "question": "Who did Suleiman marry in 1534?",
       "options": [
-        "Safavid Empire",
-        "Habsburg Monarchy",
-        "Mamluk Sultanate",
-        "Byzantine Empire"
+        "HÃ¼rrem",
+        "Selim II",
+        "Ebussuud Efendi",
+        "A princess from Hungary"
       ],
       "answer_explanations": [
-        "Correct. The article describes Suleiman's wars against the Safavid Empire of Iran and his annexation of Iraq.",
-        "Incorrect. The Habsburg Monarchy was a rival in Europe, not the eastern conflict.",
-        "Incorrect. The Mamluk Sultanate is not mentioned in this context.",
-        "Incorrect. The Byzantine Empire is not referenced in the eastern wars."
+        "Correct. The article says he married HÃ¼rrem in 1534.",
+        "Incorrect. Selim II was his son, not his wife.",
+        "Incorrect. Ebussuud Efendi was a judicial official, not a wife.",
+        "Incorrect. The article does not mention a Hungarian princess."
       ]
     },
     {
       "id": 10,
-      "question": "What was the approximate number of Ottoman subjects under Suleiman's rule?",
+      "question": "Who succeeded Suleiman after his death?",
       "options": [
-        "At least 25 million people",
-        "Around 10 million people",
-        "Approximately 5 million people",
-        "Less than 2 million people"
+        "Selim II",
+        "HÃ¼rrem",
+        "Selim I",
+        "Ebussuud Efendi"
       ],
       "answer_explanations": [
-        "Correct. The article states that Suleiman's rule raised the number of the empire's subjects to at least 25 million people.",
-        "Incorrect. The article does not mention a lower figure like 10 million.",
-        "Incorrect. The article does not provide a figure as low as 5 million.",
-        "Incorrect. The article does not mention a figure as low as 2 million."
+        "Correct. The article states that he was succeeded by his and HÃ¼rrem's son Selim II.",
+        "Incorrect. HÃ¼rrem was his wife, not his successor.",
+        "Incorrect. Selim I was his father, not his successor.",
+        "Incorrect. Ebussuud Efendi was a judicial official, not a successor."
       ]
     }
   ]

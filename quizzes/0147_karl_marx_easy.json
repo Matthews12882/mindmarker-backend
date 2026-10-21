@@ -13,154 +13,154 @@
         "Russian"
       ],
       "answer_explanations": [
-        "Correct. The article states that Karl Marx was a German philosopher.",
+        "Correct. The article states that Karl Marx was a 'German philosopher'.",
         "Incorrect. The article identifies Marx as German, not French.",
-        "Incorrect. Marx moved to London but was German by nationality.",
-        "Incorrect. The article describes Marx as German, not Russian."
+        "Incorrect. The article identifies Marx as German, not British.",
+        "Incorrect. The article identifies Marx as German, not Russian."
       ]
     },
     {
       "id": 2,
-      "question": "On what date was Karl Marx born?",
+      "question": "When was Karl Marx born?",
       "options": [
         "5 May 1818",
         "14 March 1883",
-        "19 June 1843",
-        "1841"
+        "5 May 1883",
+        "14 March 1818"
       ],
       "answer_explanations": [
-        "Correct. The article states Karl Marx was born on 5 May 1818.",
-        "Incorrect. 14 March 1883 is the date of Marx's death.",
-        "Incorrect. 19 June 1843 is the date Marx married Jenny von Westphalen.",
-        "Incorrect. 1841 is the year Marx earned his doctoral degree, not his birth year."
+        "Correct. The article gives Marx's birth date as 5 May 1818.",
+        "Incorrect. 14 March 1883 is the date of his death, not his birth.",
+        "Incorrect. 5 May 1883 is not mentioned in the article; his birth date is 5 May 1818.",
+        "Incorrect. 14 March 1818 is not mentioned in the article; his birth date is 5 May 1818."
       ]
     },
     {
       "id": 3,
-      "question": "With whom did Marx co-author The Communist Manifesto?",
+      "question": "What theory did Karl Marx develop?",
       "options": [
-        "Friedrich Engels",
-        "Georg Wilhelm Friedrich Hegel",
-        "Mikhail Bakunin",
-        "Heinrich Marx"
+        "Historical materialism",
+        "Dialectical idealism",
+        "Classical liberalism",
+        "Social Darwinism"
       ],
       "answer_explanations": [
-        "Correct. The article states Marx co-authored The Communist Manifesto with Friedrich Engels.",
-        "Incorrect. Hegel influenced Marx but did not co-author the Manifesto.",
-        "Incorrect. Bakunin was an anarchist whose influence Marx battled in the First International.",
-        "Incorrect. Heinrich Marx was Karl Marx's father."
+        "Correct. The article states that Marx 'developed the theory of historical materialism'.",
+        "Incorrect. The article does not mention dialectical idealism; it mentions historical materialism.",
+        "Incorrect. The article does not mention classical liberalism; it mentions historical materialism.",
+        "Incorrect. The article does not mention social Darwinism; it mentions historical materialism."
       ]
     },
     {
       "id": 4,
-      "question": "What is the title of Marx's magnum opus?",
+      "question": "Who co-authored 'The Communist Manifesto' with Karl Marx?",
       "options": [
-        "Das Kapital",
-        "The Communist Manifesto",
-        "The German Ideology",
-        "Critique of the Gotha Programme"
+        "Friedrich Engels",
+        "Georg Wilhelm Friedrich Hegel",
+        "Mikhail Bakunin",
+        "Vladimir Lenin"
       ],
       "answer_explanations": [
-        "Correct. The article describes Das Kapital as Marx's magnum opus.",
-        "Incorrect. The Communist Manifesto was co-authored with Engels but is not called the magnum opus.",
-        "Incorrect. The German Ideology is mentioned as a work critiquing the Young Hegelians.",
-        "Incorrect. Critique of the Gotha Programme is a late work from 1875."
+        "Correct. The article states that Marx co-authored 'The Communist Manifesto' with Friedrich Engels.",
+        "Incorrect. Hegel is mentioned as an influence, not as co-author of the Manifesto.",
+        "Incorrect. Bakunin is mentioned later in the article, not as co-author of the Manifesto.",
+        "Incorrect. Lenin is not mentioned in the article at all."
       ]
     },
     {
       "id": 5,
-      "question": "From which university did Marx earn his doctoral degree in philosophy?",
+      "question": "What is the title of Marx's magnum opus?",
       "options": [
-        "University of Jena",
-        "University of Bonn",
-        "University of Berlin",
-        "University of Cologne"
+        "Das Kapital",
+        "The German Ideology",
+        "The Communist Manifesto",
+        "Grundrisse"
       ],
       "answer_explanations": [
-        "Correct. The article states Marx earned his doctoral degree from the University of Jena in 1841.",
-        "Incorrect. Marx attended the University of Bonn but transferred to Berlin.",
-        "Incorrect. Marx studied at the University of Berlin but submitted his thesis to Jena.",
-        "Incorrect. The article does not say Marx earned a degree from Cologne."
+        "Correct. The article refers to 'Das Kapital' as his magnum opus.",
+        "Incorrect. 'The German Ideology' is mentioned as a work in which he critiqued ideas, but it is not his magnum opus.",
+        "Incorrect. 'The Communist Manifesto' is a co-authored work, not his magnum opus.",
+        "Incorrect. 'Grundrisse' refers to notebooks, not his magnum opus."
       ]
     },
     {
       "id": 6,
-      "question": "In which city did Marx die?",
+      "question": "Where was Karl Marx born?",
       "options": [
-        "London",
         "Trier",
-        "Paris",
-        "Brussels"
+        "Berlin",
+        "London",
+        "Paris"
       ],
       "answer_explanations": [
-        "Correct. The article states Marx moved to London and died in 1883, buried in Highgate Cemetery.",
-        "Incorrect. Trier was Marx's birthplace, not his place of death.",
-        "Incorrect. Marx wrote in Paris but later moved to London.",
-        "Incorrect. Marx was active in Brussels but died in London."
+        "Correct. The article states that Marx was 'Born in Trier'.",
+        "Incorrect. Berlin is not mentioned as his birthplace; Trier is.",
+        "Incorrect. London is where he moved later, not his birthplace.",
+        "Incorrect. Paris is where he wrote some works, not his birthplace."
       ]
     },
     {
       "id": 7,
-      "question": "Which two classes does Marx identify as conflicting under capitalism?",
+      "question": "From which university did Marx earn his doctoral degree in 1841?",
       "options": [
-        "bourgeoisie and proletariat",
-        "aristocracy and peasantry",
-        "landlords and serfs",
-        "nobility and clergy"
+        "University of Jena",
+        "University of Berlin",
+        "University of Paris",
+        "University of London"
       ],
       "answer_explanations": [
-        "Correct. The article identifies the bourgeoisie and proletariat as the conflicting classes under capitalism.",
-        "Incorrect. The article does not frame the capitalist conflict as aristocracy versus peasantry.",
-        "Incorrect. Landlords and serfs are not the classes named in the article's discussion of capitalism.",
-        "Incorrect. Nobility and clergy are not the classes discussed in relation to capitalism."
+        "Correct. The article states that Marx earned a doctoral degree in philosophy from the University of Jena in 1841.",
+        "Incorrect. The article does not mention the University of Berlin.",
+        "Incorrect. The article does not mention the University of Paris.",
+        "Incorrect. The article does not mention the University of London."
       ]
     },
     {
       "id": 8,
-      "question": "What did Marx predict would replace capitalism?",
+      "question": "What is the collective name for Marx's ideas and their later development?",
       "options": [
-        "communism",
-        "feudalism",
-        "social democracy",
-        "anarchism"
+        "Marxism",
+        "Communism",
+        "Socialism",
+        "Anarchism"
       ],
       "answer_explanations": [
-        "Correct. The article states Marx predicted capitalism's ultimate replacement by communism.",
-        "Incorrect. Feudalism is a previous system, not the predicted successor to capitalism.",
-        "Incorrect. The article does not mention social democracy as the replacement for capitalism.",
-        "Incorrect. Anarchism is mentioned as an influence Marx battled, not as capitalism's replacement."
+        "Correct. The article says 'His ideas and their later development, collectively known as Marxism'.",
+        "Incorrect. Communism is a system he predicted, not the name of his ideas.",
+        "Incorrect. Socialism is a broader ideology, not the name of his specific ideas.",
+        "Incorrect. Anarchism is a different movement mentioned later in the article."
       ]
     },
     {
       "id": 9,
-      "question": "Where was Karl Marx buried?",
+      "question": "Where was Marx buried?",
       "options": [
         "Highgate Cemetery",
-        "Trier",
-        "PÃ¨re Lachaise Cemetery",
-        "Westminster Abbey"
+        "Trier Cemetery",
+        "London Cemetery",
+        "Paris Cemetery"
       ],
       "answer_explanations": [
-        "Correct. The article states Marx was buried in Highgate Cemetery.",
-        "Incorrect. Trier is Marx's birthplace, not his burial site.",
-        "Incorrect. The article does not mention PÃ¨re Lachaise Cemetery.",
-        "Incorrect. The article does not mention Westminster Abbey."
+        "Correct. The article states that Marx 'was buried in Highgate Cemetery'.",
+        "Incorrect. The article does not mention Trier Cemetery.",
+        "Incorrect. The article does not mention London Cemetery.",
+        "Incorrect. The article does not mention Paris Cemetery."
       ]
     },
     {
       "id": 10,
-      "question": "What term refers to Marx's ideas and their later development?",
+      "question": "What did Marx predict would ultimately replace capitalism?",
       "options": [
-        "Marxism",
-        "Leninism",
-        "Hegelianism",
-        "Utopian socialism"
+        "Communism",
+        "Socialism",
+        "Anarchism",
+        "Feudalism"
       ],
       "answer_explanations": [
-        "Correct. The article states Marx's ideas and their later development are collectively known as Marxism.",
-        "Incorrect. MarxismâLeninism is mentioned as a later school of thought, not the term for Marx's ideas themselves.",
-        "Incorrect. Hegelianism refers to Hegel's philosophy, not Marx's ideas.",
-        "Incorrect. Utopian socialism is not mentioned in the article as the term for Marx's ideas."
+        "Correct. The article states that Marx predicted capitalism's 'ultimate replacement by communism'.",
+        "Incorrect. Socialism is not mentioned as the replacement; communism is.",
+        "Incorrect. Anarchism is not mentioned as the replacement; communism is.",
+        "Incorrect. Feudalism is not mentioned in the article."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which nickname was NOT mentioned as one of Louis Armstrong's nicknames in the article?",
+      "question": "What was Louis Armstrong's nickname?",
       "options": [
         "Satchmo",
-        "Satch",
-        "Pops",
-        "Moonlight"
+        "Duke",
+        "Bird",
+        "Count"
       ],
       "answer_explanations": [
-        "Correct. The article lists \"Satchmo\", \"Satch\", and \"Pops\" as Armstrong's nicknames; \"Moonlight\" is not mentioned.",
-        "Incorrect. \"Satchmo\" is explicitly listed as one of Armstrong's nicknames.",
-        "Incorrect. \"Satch\" is also listed among his nicknames.",
-        "Incorrect. \"Pops\" appears in the article as another nickname."
+        "Correct. The article states he was nicknamed \"Satchmo\", \"Satch\", and \"Pops\".",
+        "Incorrect. Duke was a nickname for Duke Ellington, not Louis Armstrong.",
+        "Incorrect. Bird was a nickname for Charlie Parker, not Louis Armstrong.",
+        "Incorrect. Count was a nickname for Count Basie, not Louis Armstrong."
       ]
     },
     {
       "id": 2,
-      "question": "What Grammy Award did Louis Armstrong win in 1965?",
+      "question": "In which city was Louis Armstrong born and raised?",
       "options": [
-        "Grammy Award for Best Male Vocal Performance for 'Hello, Dolly!'",
-        "Grammy Award for Best Jazz Solo Performance",
-        "Grammy Award for Album of the Year",
-        "Grammy Award for Best R&B Performance"
+        "New Orleans",
+        "Chicago",
+        "New York City",
+        "Richmond"
       ],
       "answer_explanations": [
-        "Correct. The article states Armstrong received the Grammy Award for Best Male Vocal Performance for 'Hello, Dolly!' in 1965.",
-        "Incorrect. The article does not mention a Grammy for Best Jazz Solo Performance.",
-        "Incorrect. No Grammy for Album of the Year is noted for Armstrong in 1965.",
-        "Incorrect. The article does not list a Grammy for Best R&B Performance."
+        "Correct. The article says, \"Armstrong was born and raised in New Orleans.\"",
+        "Incorrect. Chicago is where he moved later in his career, not his birthplace.",
+        "Incorrect. New York City is where he played with the Fletcher Henderson Orchestra, not his birthplace.",
+        "Incorrect. Richmond, Indiana, is where he made his first studio recordings, not his birthplace."
       ]
     },
     {
       "id": 3,
-      "question": "Which city did Louis Armstrong move to in 1922 to play with King Oliver's Creole Jazz Band?",
+      "question": "What instrument did Louis Armstrong play?",
       "options": [
-        "Chicago",
-        "New Orleans",
-        "New York City",
-        "Los Angeles"
+        "Trumpet and cornet",
+        "Piano",
+        "Saxophone",
+        "Drums"
       ],
       "answer_explanations": [
-        "Correct. The article says Armstrong moved to Chicago in 1922 to join King Oliver's band.",
-        "Incorrect. While Armstrong was born in New Orleans, he moved to Chicago in 1922.",
-        "Incorrect. He moved to New York later, not in 1922.",
-        "Incorrect. Los Angeles is not mentioned as a relocation city in the article."
+        "Correct. The article describes him as a \"trumpeter and vocalist\" and mentions his skill on the \"cornet\".",
+        "Incorrect. The article does not mention Armstrong playing the piano.",
+        "Incorrect. The article does not mention Armstrong playing the saxophone.",
+        "Incorrect. The article does not mention Armstrong playing the drums."
       ]
     },
     {
       "id": 4,
-      "question": "Which Hall of Fame was Louis Armstrong NOT inducted into, according to the article?",
+      "question": "Which of these songs is listed as one of Armstrong's best known?",
       "options": [
-        "DownBeat Jazz Hall of Fame",
-        "Rock and Roll Hall of Fame",
-        "National Rhythm & Blues Hall of Fame",
-        "Country Music Hall of Fame"
+        "What a Wonderful World",
+        "Take the A Train",
+        "Mood Indigo",
+        "Body and Soul"
       ],
       "answer_explanations": [
-        "Correct. The article lists DownBeat Jazz Hall of Fame, Rock and Roll Hall of Fame, and National Rhythm & Blues Hall of Fame; Country Music Hall of Fame is not mentioned.",
-        "Incorrect. DownBeat Jazz Hall of Fame is explicitly listed.",
-        "Incorrect. Rock and Roll Hall of Fame is mentioned.",
-        "Incorrect. National Rhythm & Blues Hall of Fame is listed."
+        "Correct. The article lists \"What a Wonderful World\" among his best known songs.",
+        "Incorrect. \"Take the A Train\" is associated with Duke Ellington, not Armstrong.",
+        "Incorrect. \"Mood Indigo\" is a Duke Ellington composition, not listed as an Armstrong song.",
+        "Incorrect. \"Body and Soul\" is a jazz standard, but it is not listed among Armstrong's best known songs in the article."
       ]
     },
     {
       "id": 5,
-      "question": "Which song is listed as one of Armstrong's best known songs?",
+      "question": "Who was Armstrong's mentor that he followed to Chicago?",
       "options": [
-        "What a Wonderful World",
-        "Bohemian Rhapsody",
-        "Hotel California",
-        "Stairway to Heaven"
+        "Joe 'King' Oliver",
+        "Fletcher Henderson",
+        "Fate Marable",
+        "Kid Ory"
       ],
       "answer_explanations": [
-        "Correct. The article includes \"What a Wonderful World\" among Armstrong's best known songs.",
-        "Incorrect. \"Bohemian Rhapsody\" is a Queen song, not listed.",
-        "Incorrect. \"Hotel California\" is a Eagles song, not mentioned.",
-        "Incorrect. \"Stairway to Heaven\" is a Led Zeppelin song, not listed."
+        "Correct. The article states, \"Armstrong followed his mentor, Joe 'King' Oliver, to Chicago.\"",
+        "Incorrect. Fletcher Henderson was a bandleader Armstrong later played with in New York, not his mentor.",
+        "Incorrect. Fate Marable led a riverboat band, not the mentor Armstrong followed to Chicago.",
+        "Incorrect. Kid Ory led a band in New Orleans, but Armstrong followed Oliver to Chicago."
       ]
     },
     {
       "id": 6,
-      "question": "Which collaborator did Louis Armstrong produce three records with?",
+      "question": "What did Armstrong's influence shift the focus of jazz music toward?",
       "options": [
-        "Ella Fitzgerald",
-        "Miles Davis",
-        "Duke Ellington",
-        "Billie Holiday"
+        "Solo performance",
+        "Collective improvisation",
+        "Classical music",
+        "Blues singing"
       ],
       "answer_explanations": [
-        "Correct. The article says Armstrong collaborated with Ella Fitzgerald, producing three records together.",
-        "Incorrect. Miles Davis is not mentioned as a collaborator in this context.",
-        "Incorrect. While Armstrong worked with Duke Ellington, the article does not note three records.",
-        "Incorrect. Billie Holiday is not listed as a collaborator for three records."
+        "Correct. The article says he \"shifting the focus of the music from collective improvisation to solo performance.\"",
+        "Incorrect. Collective improvisation was the earlier style, not the shift Armstrong brought.",
+        "Incorrect. Classical music is not mentioned as the focus of jazz due to Armstrong.",
+        "Incorrect. Blues singing is not mentioned as the focus of jazz due to Armstrong."
       ]
     },
     {
       "id": 7,
-      "question": "Which film starring Louis Armstrong was released in 1932?",
+      "question": "With which singer did Armstrong collaborate to produce three records?",
       "options": [
-        "A Rhapsody in Black and Blue",
-        "Cabin in the Sky",
-        "High Society",
-        "Paris Blues"
+        "Ella Fitzgerald",
+        "Bessie Smith",
+        "Ma Rainey",
+        "Alberta Hunter"
       ],
       "answer_explanations": [
-        "Correct. The article lists \"A Rhapsody in Black and Blue\" as a 1932 film.",
-        "Incorrect. \"Cabin in the Sky\" is from 1943.",
-        "Incorrect. \"High Society\" is from 1956.",
-        "Incorrect. \"Paris Blues\" is from 1961."
+        "Correct. The article states he collaborated with Ella Fitzgerald, producing three records together.",
+        "Incorrect. Bessie Smith was a blues singer he recorded with, but not for three collaborative albums.",
+        "Incorrect. Ma Rainey was a blues singer he recorded with, but not for three collaborative albums.",
+        "Incorrect. Alberta Hunter was a blues singer he recorded with, but not for three collaborative albums."
       ]
     },
     {
       "id": 8,
-      "question": "What technique, besides trumpet playing, was Louis Armstrong known for as a singer?",
+      "question": "What happened to Armstrong when he was a child after firing a gun?",
       "options": [
-        "Scat singing",
-        "Belting",
-        "Vocal fry",
-        "Yodeling"
+        "He was sent to the Colored Waif's Home",
+        "He was praised for his bravery",
+        "He was given a job as a musician",
+        "He was sent to live with his grandmother"
       ],
       "answer_explanations": [
-        "Correct. The article mentions Armstrong was skilled at scat singing.",
-        "Incorrect. Belting is not highlighted as a specific technique for Armstrong.",
-        "Incorrect. Vocal fry is not noted as a characteristic.",
-        "Incorrect. Yodeling is not mentioned."
+        "Correct. The article says he was arrested and \"sentenced the next day to detention at the Colored Waif's [sic] Home.\"",
+        "Incorrect. He was arrested, not praised.",
+        "Incorrect. He was not given a job; he was sent to a detention home.",
+        "Incorrect. He had already lived with his grandmother earlier; this event led to detention."
       ]
     },
     {
       "id": 9,
-      "question": "Which award was Louis Armstrong given posthumously in 1972?",
+      "question": "What did Armstrong learn from the Karnoffsky family?",
       "options": [
-        "Grammy Lifetime Achievement Award",
-        "Kennedy Center Honor",
-        "Presidential Medal of Freedom",
-        "Pulitzer Prize"
+        "How to liveâreal life and determination",
+        "How to play the trumpet",
+        "How to read music",
+        "How to scat sing"
       ],
       "answer_explanations": [
-        "Correct. The article says Armstrong received a posthumous Grammy Lifetime Achievement Award in 1972.",
-        "Incorrect. The article does not mention a Kennedy Center Honor.",
-        "Incorrect. No Presidential Medal of Freedom is listed.",
-        "Incorrect. No Pulitzer Prize is noted."
+        "Correct. The article quotes Armstrong writing that he learned from them \"how to liveâreal life and determination.\"",
+        "Incorrect. He learned to play the cornet later, not from the Karnoffskys.",
+        "Incorrect. He learned to read music during his riverboat days, not from the Karnoffskys.",
+        "Incorrect. Scat singing is not mentioned in relation to the Karnoffskys."
       ]
     },
     {
       "id": 10,
-      "question": "Which location did Armstrong describe as 'the heart of good old New Orleans' in his youth?",
+      "question": "What was the name of the band Armstrong formed in 1925?",
       "options": [
-        "The Battlefield",
-        "Storyville",
-        "The French Quarter",
-        "The Garden District"
+        "Louis Armstrong and his Hot Five",
+        "The Creole Jazz Band",
+        "The Tuxedo Brass Band",
+        "The Fletcher Henderson Orchestra"
       ],
       "answer_explanations": [
-        "Correct. Armstrong said, \"Every time I close my eyes blowing that trumpet of mineâI look right in the heart of good old New Orleans ... It has given me something to live for.\" The article notes his youth was spent in the rough neighborhood known as the Battlefield.",
-        "Incorrect. While Storyville is mentioned later, the quote refers to the Battlefield.",
-        "Incorrect. The French Quarter is not referenced in that quote.",
-        "Incorrect. The Garden District is not mentioned in relation to his quote."
+        "Correct. The article mentions \"Louis Armstrong and his Hot Five\" as the band he formed.",
+        "Incorrect. The Creole Jazz Band was King Oliver's band.",
+        "Incorrect. The Tuxedo Brass Band was a band Armstrong played in, but not one he formed.",
+        "Incorrect. The Fletcher Henderson Orchestra was led by Fletcher Henderson, not Armstrong."
       ]
     }
   ]

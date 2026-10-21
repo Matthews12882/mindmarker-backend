@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does the article state is the meaning of Homo sapiens?",
+      "question": "What does the name 'Homo sapiens' mean?",
       "options": [
-        "thinking man or wise man",
-        "modern human",
-        "tool user",
-        "social primate"
+        "Wise man or knowledgeable man",
+        "Thinking ape",
+        "Naked ape",
+        "Tool maker"
       ],
       "answer_explanations": [
-        "Correct. The article states that Homo sapiens means 'thinking man' or 'wise man'.",
-        "Incorrect. The article does not define Homo sapiens as 'modern human'.",
-        "Incorrect. The article does not define Homo sapiens as 'tool user'.",
-        "Incorrect. The article does not define Homo sapiens as 'social primate'."
+        "Correct. The article states that the name Homo sapiens means 'wise man' or 'knowledgeable man'.",
+        "Incorrect. The article does not use this phrase; it says the name means 'wise man' or 'knowledgeable man'.",
+        "Incorrect. The article does not use this phrase; it says the name means 'wise man' or 'knowledgeable man'.",
+        "Incorrect. The article does not use this phrase; it says the name means 'wise man' or 'knowledgeable man'."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, what are humans capable of surviving without for up to eight weeks?",
+      "question": "Which feature is NOT listed as a characteristic of humans in the article?",
       "options": [
-        "food",
-        "water",
-        "sleep",
-        "sunlight"
+        "Ability to fly",
+        "Bipedalism",
+        "Minimal body hair",
+        "Large, complex brains"
       ],
       "answer_explanations": [
-        "Correct. The article states humans can survive for up to eight weeks without food.",
-        "Incorrect. The article states humans can survive three or four days without water, not eight weeks.",
-        "Incorrect. The article does not state humans can survive eight weeks without sleep.",
-        "Incorrect. The article does not state humans can survive eight weeks without sunlight."
+        "Correct. The article lists bipedalism, minimal body hair, and large, complex brains as characteristics, but does not mention the ability to fly.",
+        "Incorrect. Bipedalism is listed as a characteristic of humans in the article.",
+        "Incorrect. Minimal body hair is listed as a characteristic of humans in the article.",
+        "Incorrect. Large, complex brains are listed as a characteristic of humans in the article."
       ]
     },
     {
       "id": 3,
-      "question": "What does the article say about the genetic similarity between any two humans?",
+      "question": "According to the article, what is the ratchet effect?",
       "options": [
-        "any two humans are on average over 99% genetically similar",
-        "any two humans are about 90% genetically similar",
-        "any two humans are less than 50% genetically similar",
-        "any two humans are genetically identical"
+        "The cumulative preservation and advancement of knowledge across generations",
+        "The invention of tools",
+        "The development of language",
+        "The migration out of Africa"
       ],
       "answer_explanations": [
-        "Correct. The article states that any two humans are on average over 99% genetically similar.",
-        "Incorrect. The article does not state any two humans are about 90% genetically similar.",
-        "Incorrect. The article does not state any two humans are less than 50% genetically similar.",
-        "Incorrect. The article does not state any two humans are genetically identical."
+        "Correct. The article says that in anthropology, the cumulative preservation and advancement of knowledge across generations is known as the ratchet effect.",
+        "Incorrect. The article does not define the ratchet effect as the invention of tools.",
+        "Incorrect. The article does not define the ratchet effect as the development of language.",
+        "Incorrect. The article does not define the ratchet effect as the migration out of Africa."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, which continent has the most genetically diverse human populations?",
+      "question": "How long can humans typically survive without water, according to the article?",
       "options": [
-        "Africa",
-        "Asia",
-        "Europe",
-        "the Americas"
+        "Three or four days",
+        "Up to eight weeks",
+        "Seven to nine hours",
+        "Two weeks"
       ],
       "answer_explanations": [
-        "Correct. The article states the most genetically diverse populations are from Africa.",
-        "Incorrect. The article does not state Asia has the most genetically diverse populations.",
-        "Incorrect. The article does not state Europe has the most genetically diverse populations.",
-        "Incorrect. The article does not state the Americas have the most genetically diverse populations."
+        "Correct. The article states that humans can survive for up to eight weeks without food, and three or four days without water.",
+        "Incorrect. Eight weeks is the time without food, not water.",
+        "Incorrect. Seven to nine hours is the average sleep duration, not survival time without water.",
+        "Incorrect. The article does not mention two weeks as a survival time without water."
       ]
     },
     {
       "id": 5,
-      "question": "What does the article identify as the ratchet effect in anthropology?",
+      "question": "Which population is mentioned as having the most genetically diverse humans?",
       "options": [
-        "the cumulative preservation and advancement of knowledge across generations",
-        "the loss of cultural traditions over time",
-        "the independent invention of tools by isolated groups",
-        "the genetic drift of human populations"
+        "From Africa",
+        "From Europe",
+        "From Asia",
+        "From the Americas"
       ],
       "answer_explanations": [
-        "Correct. The article states the ratchet effect is the cumulative preservation and advancement of knowledge across generations.",
-        "Incorrect. The article does not define the ratchet effect as the loss of cultural traditions.",
-        "Incorrect. The article does not define the ratchet effect as independent invention of tools.",
-        "Incorrect. The article does not define the ratchet effect as genetic drift."
+        "Correct. The article says 'the most genetically diverse populations from Africa'.",
+        "Incorrect. The article does not say European populations are the most genetically diverse.",
+        "Incorrect. The article does not say Asian populations are the most genetically diverse.",
+        "Incorrect. The article does not say American populations are the most genetically diverse."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, approximately when did Homo sapiens emerge?",
+      "question": "What is the genetic difference between males and females, according to the article?",
       "options": [
-        "around 300,000 years ago",
-        "around 1 million years ago",
-        "around 10,000 years ago",
-        "around 2 million years ago"
+        "Around 1% to 2%",
+        "Over 99%",
+        "About 6%",
+        "Less than 0.1%"
       ],
       "answer_explanations": [
-        "Correct. The article states Homo sapiens emerged around 300,000 years ago.",
-        "Incorrect. The article does not state Homo sapiens emerged around 1 million years ago.",
-        "Incorrect. The article does not state Homo sapiens emerged around 10,000 years ago.",
-        "Incorrect. The article states H. erectus evolved 2 million years ago, not Homo sapiens."
+        "Correct. The article states that the genetic difference between males and females is around 1% to 2%.",
+        "Incorrect. Over 99% is the genetic similarity between any two humans, not the difference between sexes.",
+        "Incorrect. 6% is mentioned as a possible contribution of archaic hominins to some genomes, not the sex difference.",
+        "Incorrect. The article does not mention such a small difference."
       ]
     },
     {
       "id": 7,
-      "question": "According to the article, what is the genetic difference between males and females?",
+      "question": "When did Homo sapiens emerge, according to the article?",
       "options": [
-        "around 1% to 2%",
-        "less than 0.1%",
-        "around 5%",
-        "around 10%"
+        "Around 300,000 years ago",
+        "Around 2 million years ago",
+        "Around 4-8 million years ago",
+        "Around 70,000 years ago"
       ],
       "answer_explanations": [
-        "Correct. The article states the genetic difference between males and females is around 1% to 2%.",
-        "Incorrect. The article does not state the difference is less than 0.1%.",
-        "Incorrect. The article does not state the difference is around 5%.",
-        "Incorrect. The article does not state the difference is around 10%."
+        "Correct. The article states that Homo sapiens emerged around 300,000 years ago.",
+        "Incorrect. 2 million years ago is when H. erectus evolved, not Homo sapiens.",
+        "Incorrect. 4-8 million years ago is the time of the split between human and chimpanzee-bonobo lineages, not the emergence of Homo sapiens.",
+        "Incorrect. 70,000 years ago is mentioned as part of the second migration wave, not the emergence of Homo sapiens."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, which archaic human species was the first to leave Africa and disperse across Eurasia?",
+      "question": "What was the first archaic human species to leave Africa and disperse across Eurasia?",
       "options": [
         "Homo erectus",
         "Homo habilis",
         "Homo neanderthalensis",
-        "Homo heidelbergensis"
+        "Homo sapiens"
       ],
       "answer_explanations": [
-        "Correct. The article states H. erectus was the first archaic human species to leave Africa and disperse across Eurasia.",
-        "Incorrect. The article does not state Homo habilis was the first to leave Africa.",
-        "Incorrect. The article does not state Homo neanderthalensis was the first to leave Africa.",
-        "Incorrect. The article does not state Homo heidelbergensis was the first to leave Africa."
+        "Correct. The article states that H. erectus was the first archaic human species to leave Africa and disperse across Eurasia.",
+        "Incorrect. Homo habilis is an early species but is not described as the first to leave Africa.",
+        "Incorrect. Neanderthals are not described as the first to leave Africa.",
+        "Incorrect. Homo sapiens left Africa later than H. erectus."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, which of the following is a characteristic adaptation of human evolution?",
+      "question": "Which of the following is NOT mentioned as a human adaptation since the split with chimpanzees?",
       "options": [
-        "obligate bipedalism",
-        "aquatic locomotion",
-        "nocturnal activity",
-        "hibernation"
+        "Development of a tail",
+        "Hairlessness",
+        "Obligate bipedalism",
+        "Increased brain size"
       ],
       "answer_explanations": [
-        "Correct. The article lists obligate bipedalism as one of the most significant adaptations of human evolution.",
-        "Incorrect. The article does not list aquatic locomotion as a human evolutionary adaptation.",
-        "Incorrect. The article states humans are generally diurnal, not nocturnal.",
-        "Incorrect. The article does not list hibernation as a human evolutionary adaptation."
+        "Correct. The article lists hairlessness, obligate bipedalism, and increased brain size as adaptations, but does not mention the development of a tail.",
+        "Incorrect. Hairlessness is listed as a significant adaptation.",
+        "Incorrect. Obligate bipedalism is listed as a significant adaptation.",
+        "Incorrect. Increased brain size is listed as a significant adaptation."
       ]
     },
     {
       "id": 10,
-      "question": "According to the article, what does the word human ultimately derive from?",
+      "question": "What does the article say about the word 'human'?",
       "options": [
-        "Latin hÅ«mÄnus",
-        "Greek anthropos",
-        "Old English mann",
-        "French personne"
+        "It is a loanword from Middle English, ultimately from Latin hÅ«mÄnus",
+        "It is a native English term",
+        "It was coined by Carl Linnaeus",
+        "It means 'thinking man'"
       ],
       "answer_explanations": [
-        "Correct. The article states human is ultimately from Latin hÅ«mÄnus, the adjectival form of homÅ.",
-        "Incorrect. The article does not state human derives from Greek anthropos.",
-        "Incorrect. The article mentions the native English term man but does not say human derives from Old English mann.",
-        "Incorrect. The article does not state human derives from French personne."
+        "Correct. The article says 'Human' is a loanword of Middle English from Old French humain, ultimately from Latin hÅ«mÄnus.",
+        "Incorrect. The article says the native English term is 'man', not 'human'.",
+        "Incorrect. The article says Carl Linnaeus coined the species name Homo sapiens, not the word 'human'.",
+        "Incorrect. 'Thinking man' is not the meaning of 'human'; it is a translation of Homo sapiens."
       ]
     }
   ]

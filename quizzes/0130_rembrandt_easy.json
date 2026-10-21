@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is Rembrandt's full name?",
+      "question": "What was Rembrandt's full name?",
       "options": [
         "Rembrandt Harmenszoon van Rijn",
         "Rembrandt van Rijn",
@@ -13,154 +13,154 @@
         "Rembrandt Harmenszoon"
       ],
       "answer_explanations": [
-        "Correct. The article states his full name is Rembrandt Harmenszoon van Rijn.",
-        "Incorrect. Rembrandt van Rijn is his mononymous name, not his full name.",
-        "Incorrect. Harmenszoon van Rijn omits his given name Rembrandt.",
-        "Incorrect. Rembrandt Harmenszoon omits his surname van Rijn."
+        "Correct. The article states his full name as 'Rembrandt Harmenszoon van Rijn'.",
+        "Incorrect. The article gives his full name as 'Rembrandt Harmenszoon van Rijn', not just 'Rembrandt van Rijn'.",
+        "Incorrect. The article gives his full name as 'Rembrandt Harmenszoon van Rijn', not 'Harmenszoon van Rijn'.",
+        "Incorrect. The article gives his full name as 'Rembrandt Harmenszoon van Rijn', not 'Rembrandt Harmenszoon'."
       ]
     },
     {
       "id": 2,
-      "question": "On what date was Rembrandt born?",
+      "question": "When was Rembrandt born?",
       "options": [
         "15 July 1606",
         "4 October 1669",
-        "15 July 1605",
+        "15 July 1669",
         "4 October 1606"
       ],
       "answer_explanations": [
-        "Correct. The article states Rembrandt was born on 15 July 1606.",
-        "Incorrect. 4 October 1669 is the date of Rembrandt's death.",
-        "Incorrect. The article gives the birth year as 1606, not 1605.",
-        "Incorrect. 4 October is Rembrandt's death date, not his birth date."
+        "Correct. The article says '15 July 1606 â 4 October 1669', so his birth date is 15 July 1606.",
+        "Incorrect. 4 October 1669 is his death date, not his birth date.",
+        "Incorrect. The article states his birth date as 15 July 1606, not 15 July 1669.",
+        "Incorrect. The article states his birth date as 15 July 1606, not 4 October 1606."
       ]
     },
     {
       "id": 3,
-      "question": "In which city was Rembrandt born?",
+      "question": "What roles is Rembrandt known for?",
       "options": [
-        "Leiden",
-        "Amsterdam",
-        "The Hague",
-        "Utrecht"
+        "Painter, printmaker, and draughtsman",
+        "Sculptor, painter, and architect",
+        "Printmaker, sculptor, and draughtsman",
+        "Painter, architect, and printmaker"
       ],
       "answer_explanations": [
-        "Correct. The article states Rembrandt was born in Leiden, in the Dutch Republic.",
-        "Incorrect. Rembrandt moved to Amsterdam later in his career, but was not born there.",
-        "Incorrect. The Hague is mentioned in connection with Prince Frederik Hendrik, not Rembrandt's birthplace.",
-        "Incorrect. Utrecht is not mentioned as Rembrandt's birthplace in the article."
+        "Correct. The article describes him as a 'painter, printmaker, and draughtsman'.",
+        "Incorrect. The article does not mention sculptor or architect; it lists painter, printmaker, and draughtsman.",
+        "Incorrect. The article does not mention sculptor; it lists painter, printmaker, and draughtsman.",
+        "Incorrect. The article does not mention architect; it lists painter, printmaker, and draughtsman."
       ]
     },
     {
       "id": 4,
-      "question": "What was Rembrandt's father's occupation?",
+      "question": "How is Rembrandt generally considered in the history of Western art?",
       "options": [
-        "miller",
-        "baker",
-        "lawyer",
-        "painter"
+        "One of the greatest visual artists",
+        "A minor painter",
+        "A famous sculptor",
+        "An unknown artist"
       ],
       "answer_explanations": [
-        "Correct. The article states his father was a miller.",
-        "Incorrect. His mother was a baker's daughter, not a baker herself, and his father was not a baker.",
-        "Incorrect. Saskia's father Rombertus was a lawyer, not Rembrandt's father.",
-        "Incorrect. Rembrandt was the painter, not his father."
+        "Correct. The article says he is 'generally considered one of the greatest visual artists in the history of Western art'.",
+        "Incorrect. The article says he is one of the greatest, not a minor painter.",
+        "Incorrect. The article calls him a visual artist, not a sculptor.",
+        "Incorrect. The article says he is one of the greatest, not unknown."
       ]
     },
     {
       "id": 5,
-      "question": "In what year did Rembrandt move to Amsterdam?",
+      "question": "How many paintings are estimated to be among Rembrandt's surviving works?",
       "options": [
-        "1631",
-        "1625",
-        "1634",
-        "1639"
+        "About three hundred",
+        "About three thousand",
+        "About thirty",
+        "About three hundred and fifty"
       ],
       "answer_explanations": [
-        "Correct. The article states that at the end of 1631, Rembrandt moved to Amsterdam.",
-        "Incorrect. In 1625 Rembrandt opened a studio in Leiden, not Amsterdam.",
-        "Incorrect. In 1634 Rembrandt married Saskia and became a citizen of Amsterdam, but he had already moved there in 1631.",
-        "Incorrect. In 1639 Rembrandt moved to a house on the Breestraat, but he had moved to Amsterdam years earlier."
+        "Correct. The article states 'about three hundred paintings'.",
+        "Incorrect. The article says about three hundred, not three thousand.",
+        "Incorrect. The article says about three hundred, not thirty.",
+        "Incorrect. The article says about three hundred, not three hundred and fifty."
       ]
     },
     {
       "id": 6,
-      "question": "Whom did Rembrandt marry in 1634?",
+      "question": "How many etchings are estimated to be among Rembrandt's surviving works?",
       "options": [
-        "Saskia van Uylenburgh",
-        "Geertje Dircx",
-        "Hendrickje Stoffels",
-        "Cornelia"
+        "About three hundred",
+        "About three thousand",
+        "About thirty",
+        "About one hundred"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1634 Rembrandt married Hendrick's cousin, Saskia van Uylenburgh.",
-        "Incorrect. Geertje Dircx was hired as Titus's caretaker and later became Rembrandt's lover, but she was not his wife.",
-        "Incorrect. Hendrickje Stoffels began a relationship with Rembrandt in 1649, but they did not marry.",
-        "Incorrect. Cornelia was Rembrandt's daughter with Hendrickje Stoffels, not his wife."
+        "Correct. The article states 'three hundred etchings'.",
+        "Incorrect. The article says three hundred, not three thousand.",
+        "Incorrect. The article says three hundred, not thirty.",
+        "Incorrect. The article says three hundred, not one hundred."
       ]
     },
     {
       "id": 7,
-      "question": "In what year did Rembrandt declare his insolvency?",
+      "question": "What type of scenes did Rembrandt depict in his works?",
       "options": [
-        "1656",
-        "1653",
-        "1655",
-        "1658"
+        "Portraits, self-portraits, landscapes, genre scenes, allegorical and historical scenes, biblical and mythological subjects, and animal studies",
+        "Only portraits",
+        "Only landscapes",
+        "Only biblical scenes"
       ],
       "answer_explanations": [
-        "Correct. The article states that in July 1656, he declared his insolvency.",
-        "Incorrect. In January 1653 the sale of the property was finalised, but he declared insolvency later.",
-        "Incorrect. In 1655 Titus drafted a will and Rembrandt orchestrated a sale, but insolvency was declared in 1656.",
-        "Incorrect. In 1658 Rembrandt's house was sold at foreclosure, but he had already declared insolvency in 1656."
+        "Correct. The article lists a wide range including portraits, self-portraits, landscapes, genre scenes, allegorical and historical scenes, biblical and mythological subjects, and animal studies.",
+        "Incorrect. The article mentions many types, not only portraits.",
+        "Incorrect. The article mentions many types, not only landscapes.",
+        "Incorrect. The article mentions many types, not only biblical scenes."
       ]
     },
     {
       "id": 8,
-      "question": "Where was Rembrandt buried?",
+      "question": "Did Rembrandt ever go abroad?",
       "options": [
-        "Westerkerk",
-        "St. Annaparochie",
-        "Royal Palace",
-        "Breestraat"
+        "No, he never went abroad",
+        "Yes, he went to Italy",
+        "Yes, he went to France",
+        "Yes, he went to England"
       ],
       "answer_explanations": [
-        "Correct. The article states he was buried four days after his death in a rented grave in the Westerkerk.",
-        "Incorrect. St. Annaparochie is where Rembrandt and Saskia married, not where he was buried.",
-        "Incorrect. The Royal Palace is the town hall where Rembrandt secured a contract, not a burial site.",
-        "Incorrect. Breestraat is the street where Rembrandt lived, not where he was buried."
+        "Correct. The article explicitly states 'Rembrandt never went abroad'.",
+        "Incorrect. The article says he never went abroad, so he did not go to Italy.",
+        "Incorrect. The article says he never went abroad, so he did not go to France.",
+        "Incorrect. The article says he never went abroad, so he did not go to England."
       ]
     },
     {
       "id": 9,
-      "question": "What is the name of Rembrandt's son who survived into adulthood?",
+      "question": "Who influenced Rembrandt's work?",
       "options": [
-        "Titus",
-        "Gerrit Dou",
-        "Isaac de Jouderville",
-        "Ferdinand Bol"
+        "Italian Old Masters and Dutch and Flemish artists who had studied in Italy",
+        "French Impressionists",
+        "Spanish Baroque painters",
+        "English portrait painters"
       ],
       "answer_explanations": [
-        "Correct. The article states that only their fourth child, Titus, born in 1641, survived into adulthood.",
-        "Incorrect. Gerrit Dou was one of Rembrandt's students, not his son.",
-        "Incorrect. Isaac de Jouderville was one of Rembrandt's students, not his son.",
-        "Incorrect. Ferdinand Bol was one of Rembrandt's students, not his son."
+        "Correct. The article says he was 'considerably influenced by the work of the Italian Old Masters and Dutch and Flemish artists who had studied in Italy'.",
+        "Incorrect. The article does not mention French Impressionists.",
+        "Incorrect. The article does not mention Spanish Baroque painters.",
+        "Incorrect. The article does not mention English portrait painters."
       ]
     },
     {
       "id": 10,
-      "question": "On what date did Rembrandt die?",
+      "question": "How many self-portraits did Rembrandt create, according to the article?",
       "options": [
-        "4 October 1669",
-        "15 July 1606",
-        "4 October 1606",
-        "15 July 1669"
+        "About 100",
+        "About 50",
+        "About 200",
+        "About 40"
       ],
       "answer_explanations": [
-        "Correct. The article states Rembrandt died on 4 October 1669.",
-        "Incorrect. 15 July 1606 is Rembrandt's birth date.",
-        "Incorrect. This combines Rembrandt's death day and month with his birth year.",
-        "Incorrect. This combines Rembrandt's birth day and month with his death year."
+        "Correct. The article states 'His approximately 100 self-portraits'.",
+        "Incorrect. The article says approximately 100, not 50.",
+        "Incorrect. The article says approximately 100, not 200.",
+        "Incorrect. The article says approximately 100, not 40."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was Leonhard Euler's nationality?",
+      "question": "When was Leonhard Euler born?",
       "options": [
-        "Swiss",
-        "Russian",
-        "German",
-        "French"
+        "15 April 1707",
+        "18 September 1783",
+        "15 April 1783",
+        "18 September 1707"
       ],
       "answer_explanations": [
-        "Correct. The article states that Leonhard Euler was a Swiss polymath.",
-        "Incorrect. Although Euler spent much of his adult life in Saint Petersburg, Russia, he was Swiss by nationality.",
-        "Incorrect. Euler lived in Berlin, Prussia, but was not German.",
-        "Incorrect. Euler was not French; he was Swiss."
+        "Correct. The article states: 'Leonhard Euler ... (15 April 1707 â 18 September 1783)'.",
+        "Incorrect. 18 September 1783 is the date of his death, not his birth.",
+        "Incorrect. 15 April 1783 is not mentioned in the article.",
+        "Incorrect. 18 September 1707 is not mentioned in the article."
       ]
     },
     {
       "id": 2,
-      "question": "On what date was Leonhard Euler born?",
+      "question": "What was Leonhard Euler's nationality?",
       "options": [
-        "15 April 1707",
-        "18 September 1783",
-        "15 April 1720",
-        "31 July 1726"
+        "Swiss",
+        "German",
+        "Russian",
+        "Prussian"
       ],
       "answer_explanations": [
-        "Correct. The article lists Euler's birth date as 15 April 1707.",
-        "Incorrect. 18 September 1783 is Euler's death date, not his birth date.",
-        "Incorrect. 15 April 1720 is not mentioned as Euler's birth date in the article.",
-        "Incorrect. 31 July 1726 is not Euler's birth date; it is a date mentioned in connection with Nicolaus Bernoulli's death."
+        "Correct. The article describes him as 'a Swiss polymath'.",
+        "Incorrect. The article does not describe him as German.",
+        "Incorrect. Although he spent time in Russia, his nationality is described as Swiss.",
+        "Incorrect. Although he lived in Berlin, then capital of Prussia, his nationality is described as Swiss."
       ]
     },
     {
       "id": 3,
-      "question": "Which field did Leonhard Euler found?",
+      "question": "Which two fields did Euler found the studies of?",
       "options": [
-        "Graph theory",
-        "Algebra",
-        "Geometry",
-        "Statistics"
+        "Graph theory and topology",
+        "Calculus and geometry",
+        "Number theory and algebra",
+        "Mechanics and optics"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler founded the studies of graph theory and topology.",
-        "Incorrect. The article does not say Euler founded algebra.",
-        "Incorrect. The article does not say Euler founded geometry.",
-        "Incorrect. The article does not say Euler founded statistics."
+        "Correct. The article states: 'He founded the studies of graph theory and topology'.",
+        "Incorrect. Calculus and geometry are not mentioned as founded by Euler in the lead.",
+        "Incorrect. Number theory and algebra are not mentioned as founded by Euler in the lead.",
+        "Incorrect. Mechanics and optics are not mentioned as founded by Euler in the lead."
       ]
     },
     {
       "id": 4,
       "question": "Which Greek letter did Euler popularize to denote the ratio of a circle's circumference to its diameter?",
       "options": [
-        "Ï",
-        "Î£",
-        "Î",
-        "i"
+        "Ï (pi)",
+        "Î£ (sigma)",
+        "Î (delta)",
+        "e"
       ],
       "answer_explanations": [
-        "Correct. The article credits Euler with popularizing the Greek letter Ï to denote the ratio of a circle's circumference to its diameter.",
-        "Incorrect. The article says Euler used capital sigma (Î£) to express summations, not pi.",
-        "Incorrect. The article says Euler used capital delta (Î) for finite differences, not pi.",
-        "Incorrect. The article says Euler used the letter i to express the imaginary unit, not pi."
+        "Correct. The article says: 'Euler is credited for popularizing the Greek letter Ï (lowercase pi) to denote the ratio of a circle's circumference to its diameter'.",
+        "Incorrect. Î£ (sigma) is used for summations, not for the circle ratio.",
+        "Incorrect. Î (delta) is used for finite differences, not for the circle ratio.",
+        "Incorrect. 'e' is not a Greek letter and is Euler's number, not the circle ratio."
       ]
     },
     {
       "id": 5,
-      "question": "Which city did Euler move to in 1741?",
+      "question": "What notation did Euler first use for the value of a function?",
       "options": [
-        "Berlin",
-        "Basel",
-        "Saint Petersburg",
-        "Paris"
+        "f(x)",
+        "x(y)",
+        "y(x)",
+        "f(y)"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler left St. Petersburg in June 1741 to take up a post at the Berlin Academy.",
-        "Incorrect. Basel was Euler's birthplace and where he studied, but he moved to Berlin in 1741.",
-        "Incorrect. Euler left Saint Petersburg in 1741 to go to Berlin.",
-        "Incorrect. The article does not say Euler moved to Paris in 1741."
+        "Correct. The article states: 'as well as first using the notation f(x) for the value of a function'.",
+        "Incorrect. x(y) is not mentioned in the article.",
+        "Incorrect. y(x) is not mentioned in the article.",
+        "Incorrect. f(y) is not mentioned in the article."
       ]
     },
     {
       "id": 6,
-      "question": "How many publications did Euler have?",
+      "question": "Which letter did Euler use to express the imaginary unit â-1?",
       "options": [
-        "866",
-        "12",
-        "15",
-        "200"
+        "i",
+        "e",
+        "Ï",
+        "Î£"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler had 866 publications.",
-        "Incorrect. 12 refers to the number of Paris Academy prize competitions Euler won, not his total publications.",
-        "Incorrect. 15 refers to the number of times Euler entered the Paris Academy prize competition, not his publications.",
-        "Incorrect. 200 refers to the number of letters Euler wrote to a princess, not his publications."
+        "Correct. The article says: 'the letter i to express the imaginary unit â-1'.",
+        "Incorrect. e is Euler's number, not the imaginary unit.",
+        "Incorrect. Ï is the circle ratio, not the imaginary unit.",
+        "Incorrect. Î£ is used for summations, not the imaginary unit."
       ]
     },
     {
       "id": 7,
-      "question": "Where did Euler spend most of his adult life?",
+      "question": "What is the name of the constant e, the base of the natural logarithm, now known as?",
       "options": [
-        "Saint Petersburg and Berlin",
-        "Basel and Paris",
-        "London and Vienna",
-        "Rome and Florence"
+        "Euler's number",
+        "Pi",
+        "Sigma",
+        "Delta"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler spent most of his adult life in Saint Petersburg, Russia, and in Berlin.",
-        "Incorrect. Basel was where Euler was born and studied, but he spent most of his adult life elsewhere.",
-        "Incorrect. The article does not mention London or Vienna as places where Euler spent most of his adult life.",
-        "Incorrect. The article does not mention Rome or Florence in connection with Euler's adult life."
+        "Correct. The article states: 'He gave the current definition of the constant e, the base of the natural logarithm, now known as Euler's number'.",
+        "Incorrect. Pi is a different constant, not e.",
+        "Incorrect. Sigma is a Greek letter used for summation, not e.",
+        "Incorrect. Delta is a Greek letter used for finite differences, not e."
       ]
     },
     {
       "id": 8,
-      "question": "What did Euler's father do for a living?",
+      "question": "Which problem is considered the first practical application of topology?",
       "options": [
-        "Pastor",
-        "Mathematician",
-        "Physician",
-        "Scholar"
+        "Seven Bridges of KÃ¶nigsberg",
+        "Basel problem",
+        "Euler characteristic",
+        "Newton's laws of motion"
       ],
       "answer_explanations": [
-        "Correct. The article states that Euler's father, Paul III Euler, was a pastor of the Reformed Church.",
-        "Incorrect. Euler's father had taken mathematics courses, but his profession was pastor.",
-        "Incorrect. The article does not say Euler's father was a physician.",
-        "Incorrect. Euler's father was a pastor, not primarily described as a scholar."
+        "Correct. The article says: 'the problem of the Seven Bridges of KÃ¶nigsberg, which is also considered the first practical application of topology'.",
+        "Incorrect. The Basel problem is a famous problem in number theory, not topology.",
+        "Incorrect. The Euler characteristic is a number related to polyhedra, not a problem.",
+        "Incorrect. Newton's laws of motion are physics laws, not a topology problem."
       ]
     },
     {
       "id": 9,
-      "question": "Which university did Euler enroll in at age 13?",
+      "question": "What is the number commonly known as the Euler characteristic?",
       "options": [
-        "University of Basel",
-        "University of Berlin",
-        "University of Saint Petersburg",
-        "University of Paris"
+        "2",
+        "1",
+        "3",
+        "0"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1720, at age 13, Euler enrolled at the University of Basel.",
-        "Incorrect. The article does not say Euler enrolled at the University of Berlin at age 13.",
-        "Incorrect. Euler later went to Saint Petersburg, but not at age 13.",
-        "Incorrect. The article does not say Euler enrolled at the University of Paris at age 13."
+        "Correct. The article states: 'the sum of the numbers of vertices and faces minus the number of edges of a polyhedron that has no holes equals 2, a number now commonly known as the Euler characteristic'.",
+        "Incorrect. The article states the sum equals 2, not 1.",
+        "Incorrect. The article states the sum equals 2, not 3.",
+        "Incorrect. The article states the sum equals 2, not 0."
       ]
     },
     {
       "id": 10,
-      "question": "What did Euler receive in 1723?",
+      "question": "How many publications did Euler have, according to the article?",
       "options": [
-        "Master of Philosophy",
-        "Bachelor of Science",
-        "Doctorate in Theology",
-        "Prize from the Paris Academy"
+        "866",
+        "800",
+        "900",
+        "1000"
       ],
       "answer_explanations": [
-        "Correct. The article states that in 1723, Euler received a Master of Philosophy with a dissertation comparing Descartes and Newton.",
-        "Incorrect. The article does not mention Euler receiving a Bachelor of Science in 1723.",
-        "Incorrect. Euler enrolled in the theological faculty afterwards, but did not receive a doctorate in theology in 1723.",
-        "Incorrect. Euler entered the Paris Academy prize competition in 1727, not 1723."
+        "Correct. The article states: 'His 866 publications and his correspondence were collected'.",
+        "Incorrect. The article specifies 866, not 800.",
+        "Incorrect. The article specifies 866, not 900.",
+        "Incorrect. The article specifies 866, not 1000."
       ]
     }
   ]

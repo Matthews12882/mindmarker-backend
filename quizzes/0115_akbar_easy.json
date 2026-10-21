@@ -5,50 +5,50 @@
   "questions": [
     {
       "id": 1,
-      "question": "Who was Akbar's father?",
+      "question": "What is the full name of Akbar?",
       "options": [
-        "Humayun",
-        "Babur",
-        "Bairam Khan",
-        "Timur"
+        "Jalal-ud-Din Muhammad Akbar",
+        "Bairam Khan Akbar",
+        "Humayun Akbar",
+        "Timur Akbar"
       ],
       "answer_explanations": [
-        "Correct. The article states that Akbar succeeded his father, Humayun.",
-        "Incorrect. Babur was Akbar's grandfather, not his father.",
-        "Incorrect. Bairam Khan was Akbar's regent and guardian, not his father.",
-        "Incorrect. Timur was an ancestor of Akbar through his paternal line, not his father."
+        "Correct. The article states his name as Jalal-ud-Din Muhammad Akbar.",
+        "Incorrect. Bairam Khan was a regent, not part of Akbar's name.",
+        "Incorrect. Humayun was Akbar's father, not part of his name.",
+        "Incorrect. Timur was an ancestor, not part of Akbar's name."
       ]
     },
     {
       "id": 2,
-      "question": "On what date was Akbar born?",
+      "question": "When was Akbar born?",
       "options": [
         "15 October 1542",
         "27 October 1605",
-        "14 February 1556",
-        "5 November 1556"
+        "1556",
+        "1605"
       ],
       "answer_explanations": [
-        "Correct. The article states that Jalal ud-din Muhammad Akbar was born on 15 October 1542.",
-        "Incorrect. 27 October 1605 is Akbar's date of death.",
-        "Incorrect. 14 February 1556 is the date Akbar succeeded Humayun.",
-        "Incorrect. 5 November 1556 is the date of the Second Battle of Panipat."
+        "Correct. The article gives his birth date as 15 October 1542.",
+        "Incorrect. 27 October 1605 is the date of his death.",
+        "Incorrect. 1556 is the year he began his reign.",
+        "Incorrect. 1605 is the year his reign ended."
       ]
     },
     {
       "id": 3,
-      "question": "Where was Akbar born?",
+      "question": "Who was Akbar's father?",
       "options": [
-        "The Rajput Fortress of Amarkot",
-        "Kabul",
-        "Delhi",
-        "Agra"
+        "Humayun",
+        "Bairam Khan",
+        "Timur",
+        "Genghis Khan"
       ],
       "answer_explanations": [
-        "Correct. The article states Akbar was born at the Rajput Fortress of Amarkot in Rajputana.",
-        "Incorrect. Kabul is where Akbar was brought up during Humayun's exile, not where he was born.",
-        "Incorrect. Delhi is not mentioned as Akbar's birthplace.",
-        "Incorrect. Agra is not mentioned as Akbar's birthplace."
+        "Correct. The article says Akbar succeeded his father, Humayun.",
+        "Incorrect. Bairam Khan was a regent, not his father.",
+        "Incorrect. Timur was a paternal ancestor.",
+        "Incorrect. Genghis Khan was a paternal ancestor."
       ]
     },
     {
@@ -56,111 +56,111 @@
       "question": "Who served as regent for the young Akbar?",
       "options": [
         "Bairam Khan",
-        "Maham Anga",
-        "Adham Khan",
-        "Tardi Baig Khan"
+        "Humayun",
+        "Jahangir",
+        "Mariam-uz-Zamani"
       ],
       "answer_explanations": [
-        "Correct. The article states Akbar succeeded his father under a regent, Bairam Khan.",
-        "Incorrect. Maham Anga was Akbar's foster mother, not his regent.",
-        "Incorrect. Adham Khan was Akbar's foster brother and a Mughal commander, not his regent.",
-        "Incorrect. Tardi Baig Khan was left as regent of Delhi, not as regent for Akbar."
+        "Correct. The article mentions Bairam Khan as the regent who helped the young emperor.",
+        "Incorrect. Humayun was his father, not a regent.",
+        "Incorrect. Jahangir was his son.",
+        "Incorrect. Mariam-uz-Zamani was his wife."
       ]
     },
     {
       "id": 5,
-      "question": "Which Rajput princess did Akbar marry?",
+      "question": "Over what period did Akbar reign as Mughal emperor?",
       "options": [
-        "Mariam-uz-Zamani",
-        "Hamida Banu Begum",
-        "Ruqaiya Sultan Begum",
-        "Kamala Devi"
+        "1556 to 1605",
+        "1542 to 1605",
+        "1556 to 1627",
+        "1605 to 1627"
       ],
       "answer_explanations": [
-        "Correct. The article states Akbar married the Rajput princess Mariam-uz-Zamani.",
-        "Incorrect. Hamida Banu Begum was Akbar's mother.",
-        "Incorrect. Ruqaiya Sultan Begum was Akbar's betrothed and later wife, but she was Hindal Mirza's daughter, not described as the Rajput princess in this context.",
-        "Incorrect. Kamala Devi was sent to the Mughal harem after the conquest of Garha, not Akbar's wife."
+        "Correct. The article states he reigned from 1556 to 1605.",
+        "Incorrect. 1542 to 1605 covers his lifetime, not his reign.",
+        "Incorrect. This range extends beyond his death.",
+        "Incorrect. This range starts after his reign began."
       ]
     },
     {
       "id": 6,
-      "question": "At what age was Akbar enthroned?",
+      "question": "What title is Akbar also known by?",
       "options": [
-        "14",
-        "9",
-        "18",
-        "20"
+        "Akbar the Great",
+        "Akbar the Wise",
+        "Akbar the Conqueror",
+        "Akbar the Just"
       ],
       "answer_explanations": [
-        "Correct. The article states the 14-year-old Akbar was enthroned by Bairam Khan at Kalanaur.",
-        "Incorrect. Nine was Akbar's age when he was appointed governor of Ghazni, not when he was enthroned.",
-        "Incorrect. Eighteen was Akbar's age when he dismissed Bairam Khan, not when he was enthroned.",
-        "Incorrect. Twenty is not mentioned as Akbar's age at enthronement."
+        "Correct. The article says he is also known as Akbar the Great.",
+        "Incorrect. The article does not use this title.",
+        "Incorrect. The article does not use this title.",
+        "Incorrect. The article does not use this title."
       ]
     },
     {
       "id": 7,
-      "question": "In which year did Akbar succeed Humayun?",
+      "question": "Through which line was Akbar a descendant of Timur and Genghis Khan?",
       "options": [
-        "1556",
-        "1542",
-        "1605",
-        "1555"
+        "Paternal line",
+        "Maternal line",
+        "Both lines",
+        "Neither line"
       ],
       "answer_explanations": [
-        "Correct. The article states Akbar succeeded Humayun on 14 February 1556.",
-        "Incorrect. 1542 is Akbar's birth year.",
-        "Incorrect. 1605 is Akbar's death year.",
-        "Incorrect. 1555 is when Humayun reconquered Delhi, not when Akbar succeeded him."
+        "Correct. The article says he was a descendant through his paternal line.",
+        "Incorrect. The article specifies paternal, not maternal.",
+        "Incorrect. The article specifies only paternal.",
+        "Incorrect. The article confirms his descent."
       ]
     },
     {
       "id": 8,
-      "question": "Who became the next Mughal emperor after Akbar?",
+      "question": "Who was Mariam-uz-Zamani?",
       "options": [
-        "Jahangir",
-        "Humayun",
-        "Babur",
-        "Sikandar Shah Suri"
+        "A Rajput princess whom Akbar married",
+        "Akbar's mother",
+        "Akbar's sister",
+        "Akbar's daughter"
       ],
       "answer_explanations": [
-        "Correct. The article states their son, Jahangir, became the next Mughal emperor.",
-        "Incorrect. Humayun was Akbar's father and predecessor.",
-        "Incorrect. Babur was Akbar's grandfather.",
-        "Incorrect. Sikandar Shah Suri was a Sur ruler whom Akbar fought, not his successor."
+        "Correct. The article describes her as the Rajput princess Kachhwaha, Mariam-uz-Zamani, whom Akbar married.",
+        "Incorrect. She was his wife, not his mother.",
+        "Incorrect. She was his wife, not his sister.",
+        "Incorrect. She was his wife, not his daughter."
       ]
     },
     {
       "id": 9,
-      "question": "What title was Akbar proclaimed at his enthronement?",
+      "question": "Who became the next Mughal emperor after Akbar?",
       "options": [
-        "Shahanshah",
-        "Padshah",
-        "Sultan",
-        "Khan"
+        "Jahangir",
+        "Humayun",
+        "Bairam Khan",
+        "Timur"
       ],
       "answer_explanations": [
-        "Correct. The article states Akbar was proclaimed Shahanshah, Persian for \"King of Kings\".",
-        "Incorrect. Padshah is not mentioned as Akbar's proclaimed title.",
-        "Incorrect. Sultan is not mentioned as Akbar's proclaimed title.",
-        "Incorrect. Khan is not mentioned as Akbar's proclaimed title."
+        "Correct. The article states their son, Jahangir, became the next Mughal emperor.",
+        "Incorrect. Humayun was Akbar's predecessor.",
+        "Incorrect. Bairam Khan was a regent.",
+        "Incorrect. Timur was an ancestor."
       ]
     },
     {
       "id": 10,
-      "question": "Who was Akbar's mother?",
+      "question": "What did Akbar's marriage to Mariam-uz-Zamani bring him into closer relations with?",
       "options": [
-        "Hamida Banu Begum",
-        "Mariam-uz-Zamani",
-        "Maham Anga",
-        "Qutlugh Nigar Khanum"
+        "The Hindu nobility",
+        "The Mughal court",
+        "The Rajput rulers",
+        "The Timurid dynasty"
       ],
       "answer_explanations": [
-        "Correct. The article states Jalal ud-din Muhammad Akbar was born to Humayun and Hamida Banu Begum.",
-        "Incorrect. Mariam-uz-Zamani was Akbar's wife, not his mother.",
-        "Incorrect. Maham Anga was Akbar's foster mother, not his biological mother.",
-        "Incorrect. Qutlugh Nigar Khanum was Akbar's grandmother, Babur's wife."
+        "Correct. The article says the marriage brought him into closer relations with the Hindu nobility.",
+        "Incorrect. The article mentions the Mughal court in a different context.",
+        "Incorrect. The article mentions Rajput rulers but specifically says Hindu nobility here.",
+        "Incorrect. The article does not mention this in relation to the marriage."
       ]
     }
   ]

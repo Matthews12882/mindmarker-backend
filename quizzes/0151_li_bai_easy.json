@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "In what years did Li Bai live?",
+      "question": "What was Li Bai's courtesy name?",
       "options": [
-        "c. 701 â 762",
-        "712â770",
-        "705â753",
-        "727â744"
+        "Taibai",
+        "Du Fu",
+        "Zhang Xu",
+        "Pei Min"
       ],
       "answer_explanations": [
-        "Correct. The article states Li Bai lived c. 701 â 762.",
-        "Incorrect. 712â770 refers to Du Fu, not Li Bai.",
-        "Incorrect. 705â753 is not mentioned as Li Bai's lifespan.",
-        "Incorrect. 727â744 refers to dates of Li Bai's marriages, not his lifespan."
+        "Correct. The article states that Li Bai was also known by his courtesy name of Taibai.",
+        "Incorrect. Du Fu was a friend of Li Bai, not his courtesy name.",
+        "Incorrect. Zhang Xu was known for calligraphy, not as Li Bai's courtesy name.",
+        "Incorrect. Pei Min was known for swordplay, not as Li Bai's courtesy name."
       ]
     },
     {
       "id": 2,
-      "question": "What is Li Bai's courtesy name?",
+      "question": "In which dynasty was Li Bai a poet?",
       "options": [
-        "Taibai",
-        "Qinglian Jushi",
-        "Du Fu",
-        "Pei Min"
+        "Tang dynasty",
+        "Ming dynasty",
+        "Qing dynasty",
+        "Song dynasty"
       ],
       "answer_explanations": [
-        "Correct. The article states his courtesy name was Taibai.",
-        "Incorrect. QÄ«ngliÃ¡n JÅ«shÃ¬ is Li Bai's art name, not his courtesy name.",
-        "Incorrect. Du Fu was Li Bai's friend, not his courtesy name.",
-        "Incorrect. Pei Min was known for swordplay, not Li Bai's courtesy name."
+        "Correct. The article says Li Bai was a poet of the Tang dynasty.",
+        "Incorrect. The article does not mention the Ming dynasty in relation to Li Bai.",
+        "Incorrect. The article does not mention the Qing dynasty in relation to Li Bai.",
+        "Incorrect. The article does not mention the Song dynasty in relation to Li Bai."
       ]
     },
     {
       "id": 3,
-      "question": "Which dynasty is Li Bai associated with?",
+      "question": "Who was Li Bai's friend mentioned in the introduction?",
       "options": [
-        "Tang dynasty",
-        "Sui dynasty",
-        "Han dynasty",
-        "Song dynasty"
+        "Du Fu",
+        "Pei Min",
+        "Zhang Xu",
+        "Yin Fan"
       ],
       "answer_explanations": [
-        "Correct. The article describes Li Bai as one of the best poets of the Tang dynasty.",
-        "Incorrect. The Sui dynasty is mentioned only in relation to Li Bai's ancestors' exile.",
-        "Incorrect. The Han dynasty is not associated with Li Bai in the article.",
-        "Incorrect. The Song dynasty is not mentioned in relation to Li Bai."
+        "Correct. The article mentions Li Bai and his friends such as Du Fu.",
+        "Incorrect. Pei Min is mentioned for swordplay, not as a friend of Li Bai.",
+        "Incorrect. Zhang Xu is mentioned for calligraphy, not as a friend of Li Bai.",
+        "Incorrect. Yin Fan is mentioned as the compiler of a collection, not as a friend."
       ]
     },
     {
       "id": 4,
-      "question": "How many poems attributed to Li Bai are extant?",
+      "question": "What is the expression 'Three Wonders' used to denote?",
       "options": [
-        "Around 1,000",
-        "34",
-        "19",
-        "11"
+        "Li Bai's poetry, Pei Min's swordplay, and Zhang Xu's calligraphy",
+        "Li Bai's poetry, Du Fu's poetry, and Zhang Xu's calligraphy",
+        "Li Bai's poetry, Pei Min's swordplay, and Du Fu's poetry",
+        "Li Bai's poetry, Zhang Xu's calligraphy, and Yin Fan's collection"
       ],
       "answer_explanations": [
-        "Correct. The article states around 1,000 poems attributed to Li are extant.",
-        "Incorrect. Thirty-four refers to the number of Li Bai's poems in Three Hundred Tang Poems.",
-        "Incorrect. 19 refers to the total number of poems in Ezra Pound's Cathay.",
-        "Incorrect. 11 refers to the number of Li Bai's poems in Cathay."
+        "Correct. The article states that the expression 'Three Wonders' denotes Li Bai's poetry, Pei Min's swordplay, and Zhang Xu's calligraphy.",
+        "Incorrect. Du Fu's poetry is not part of the 'Three Wonders'.",
+        "Incorrect. Du Fu's poetry is not part of the 'Three Wonders'.",
+        "Incorrect. Yin Fan's collection is not part of the 'Three Wonders'."
       ]
     },
     {
       "id": 5,
-      "question": "Which anthology includes thirty-four of Li Bai's poems?",
+      "question": "Approximately how many poems attributed to Li Bai are extant?",
       "options": [
-        "Three Hundred Tang Poems",
-        "Heyue yingling ji",
-        "Cathay",
-        "Wu Shuang Pu"
+        "1,000",
+        "500",
+        "2,000",
+        "100"
       ],
       "answer_explanations": [
-        "Correct. The article states thirty-four of Li Bai's poems are included in Three Hundred Tang Poems.",
-        "Incorrect. Heyue yingling ji is the Tang dynasty collection compiled by Yin Fan.",
-        "Incorrect. Cathay is Ezra Pound's work containing 11 of Li Bai's poems.",
-        "Incorrect. Wu Shuang Pu is a depiction of Li Bai, not an anthology of his poems."
+        "Correct. The article says 'Around 1,000 poems attributed to Li are extant.'",
+        "Incorrect. The article does not say 500.",
+        "Incorrect. The article does not say 2,000.",
+        "Incorrect. The article does not say 100."
       ]
     },
     {
       "id": 6,
-      "question": "What themes did Li Bai's poems celebrate?",
+      "question": "Which collection, compiled in 753 by Yin Fan, includes Li Bai's poems?",
       "options": [
-        "Friendship, nature, solitude, and drinking",
-        "War and famine",
-        "Civil service examinations",
-        "Silk Road trade"
+        "Heyue yingling ji",
+        "Three Hundred Tang Poems",
+        "Cathay",
+        "Wu Shuang Pu"
       ],
       "answer_explanations": [
-        "Correct. The article states Li Bai's poems became models for celebrating friendship, nature, solitude, and drinking.",
-        "Incorrect. War and famine relate to the An Lushan Rebellion period, not the celebrated themes.",
-        "Incorrect. Li Bai disdained to take the literacy exam; this is not a theme of his poems.",
-        "Incorrect. The Silk Road is mentioned regarding his ancestors, not as a theme of his poems."
+        "Correct. The article says his poems have been collected into the Heyue yingling ji, compiled in 753 by Yin Fan.",
+        "Incorrect. Three Hundred Tang Poems is a later anthology, not compiled by Yin Fan.",
+        "Incorrect. Cathay is Ezra Pound's work, not compiled by Yin Fan.",
+        "Incorrect. Wu Shuang Pu is a later work, not compiled by Yin Fan."
       ]
     },
     {
       "id": 7,
-      "question": "Which poem by Li Bai is still taught in schools in China?",
+      "question": "How many of Li Bai's poems are included in the anthology Three Hundred Tang Poems?",
       "options": [
-        "Quiet Night Thought",
-        "Cathay",
-        "Heyue yingling ji",
-        "Wu Shuang Pu"
+        "Thirty-four",
+        "Eleven",
+        "Nineteen",
+        "Ten"
       ],
       "answer_explanations": [
-        "Correct. Quiet Night Thought is listed among Li Bai's famous poems still taught in schools in China.",
-        "Incorrect. Cathay is Ezra Pound's collection, not a poem by Li Bai.",
-        "Incorrect. Heyue yingling ji is a collection of Tang poems, not a poem by Li Bai.",
-        "Incorrect. Wu Shuang Pu is a work depicting Li Bai, not one of his poems."
+        "Correct. The article states that thirty-four of Li Bai's poems are included in the anthology Three Hundred Tang Poems.",
+        "Incorrect. Eleven is the number of Li Bai's poems in Cathay, not in Three Hundred Tang Poems.",
+        "Incorrect. Nineteen is the total number of poems in Cathay, not the number in Three Hundred Tang Poems.",
+        "Incorrect. The article does not say ten."
       ]
     },
     {
       "id": 8,
-      "question": "What is the well-known tale about how Li Bai died?",
+      "question": "In Ezra Pound's work Cathay, how many of the 19 poems are Li Bai's?",
       "options": [
-        "He drowned reaching for the moon's reflection while drunk",
-        "He died in battle during the An Lushan Rebellion",
-        "He was executed by Emperor Xuanzong",
-        "He died of famine in Northern China"
+        "11",
+        "34",
+        "19",
+        "1"
       ],
       "answer_explanations": [
-        "Correct. The article recounts the tale that Li drowned reaching from his boat to grasp the moon's reflection while drunk.",
-        "Incorrect. The article states Li did not live to see the end of the chaos, but does not say he died in battle.",
-        "Incorrect. The article says Xuanzong sent Li away with gifts, not that he executed him.",
-        "Incorrect. Famine affected Northern China during the rebellion, but Li Bai's death is described by the moon reflection tale."
+        "Correct. The article says 'Li Bai's poems enjoy the lion's share (11 out of 19).'",
+        "Incorrect. 34 is the number in Three Hundred Tang Poems, not in Cathay.",
+        "Incorrect. 19 is the total number of poems in Cathay, not the number by Li Bai.",
+        "Incorrect. The article does not say 1."
       ]
     },
     {
       "id": 9,
-      "question": "Who summoned Li Bai to the court in Chang'an?",
+      "question": "Which of the following is NOT mentioned as a famous poem by Li Bai in the introduction?",
       "options": [
-        "Emperor Xuanzong",
-        "Du Fu",
-        "Gao Lishi",
-        "Yang Guifei"
+        "The Hard Road to Shu",
+        "Bring in the Wine",
+        "Quiet Night Thought",
+        "The Waste Land"
       ],
       "answer_explanations": [
-        "Correct. The article states Emperor Xuanzong summoned Li Bai to the court after Wu Yun praised him.",
-        "Incorrect. Du Fu was Li Bai's friend, not the emperor who summoned him.",
-        "Incorrect. Gao Lishi was a eunuch who took offense at Li Bai, not the one who summoned him.",
-        "Incorrect. Yang Guifei took offense at Li's poems and helped persuade Xuanzong to send him away."
+        "Correct. The article lists 'The Hard Road to Shu', 'Bring in the Wine', and 'Quiet Night Thought' as famous poems, but does not mention 'The Waste Land'.",
+        "Incorrect. 'The Hard Road to Shu' is mentioned as a famous poem.",
+        "Incorrect. 'Bring in the Wine' is mentioned as a famous poem.",
+        "Incorrect. 'Quiet Night Thought' is mentioned as a famous poem."
       ]
     },
     {
       "id": 10,
-      "question": "What nickname was Li Bai known by, meaning Immortal of Poetry?",
+      "question": "According to the introduction, what is the well-known tale about Li Bai's death?",
       "options": [
-        "Shixian",
-        "Taibai",
-        "Qinglian Jushi",
-        "Zhexianren"
+        "He drowned while reaching for the moon's reflection in a river",
+        "He died in battle",
+        "He died of illness",
+        "He was killed by a rival poet"
       ],
       "answer_explanations": [
-        "Correct. The article lists Immortal of Poetry (Shixian) as one of Li Bai's nicknames.",
-        "Incorrect. Taibai is Li Bai's courtesy name, meaning Great White.",
-        "Incorrect. QÄ«ngliÃ¡n JÅ«shÃ¬ is his art name meaning Householder of Azure Lotus.",
-        "Incorrect. Zhexianren means Banished Transcendent, not Immortal of Poetry."
+        "Correct. The article mentions the tale that Li drowned when he reached from his boat to grasp the moon's reflection in the river while he was drunk.",
+        "Incorrect. The article does not mention death in battle.",
+        "Incorrect. The article does not mention death by illness.",
+        "Incorrect. The article does not mention being killed by a rival poet."
       ]
     }
   ]

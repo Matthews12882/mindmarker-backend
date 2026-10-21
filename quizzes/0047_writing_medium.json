@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is a writing system?",
+      "question": "What is writing?",
       "options": [
-        "A particular set of symbols called a script along with the rules by which they encode a particular spoken language",
-        "A durable means of representing language that can be understood by people at a later time",
-        "The ability of reading and writing",
-        "A series of physically inscribed, mechanically transferred, or digitally represented symbols"
+        "The act of creating a persistent, usually visual representation of language on a surface",
+        "The act of speaking to another person",
+        "The act of reading a text aloud",
+        "The act of using sign language"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"A particular set of symbols, called a script, as well as the rules by which they encode a particular spoken language, is known as a writing system.\"",
-        "Incorrect. The article describes writing systems generally as a durable means of representing language, but this is not the specific definition of a writing system.",
-        "Incorrect. The article defines literacy as the ability of reading and writing, not a writing system.",
-        "Incorrect. The article describes this series of symbols as the physical output called writing or a text, not as a writing system."
+        "Correct. The article states, 'Writing is the act of creating a persistent, usually visual representation of language on a surface.'",
+        "Incorrect. Speaking is a spoken modality, not writing.",
+        "Incorrect. Reading is encountering a text and construing its symbols, not writing.",
+        "Incorrect. Signing is a separate modality of language, not writing."
       ]
     },
     {
       "id": 2,
-      "question": "According to the article, how does writing change people's relationships with knowledge they acquire?",
+      "question": "What is literacy?",
       "options": [
-        "It allows humans to externalize their thinking in forms that are easier to reflect on, process more slowly, elaborate on, reconsider, and revise",
-        "It makes knowledge transient and dependent on immediate context",
-        "It restricts knowledge to those who are physically present in a conversation",
-        "It eliminates the need for planning, revision, and editing"
+        "The ability of reading and writing",
+        "The ability to speak multiple languages",
+        "The ability to use a typewriter",
+        "The ability to understand sign language"
       ],
       "answer_explanations": [
-        "Correct. The article states that writing allows humans to externalize their thinking in forms that are easier to reflect on, process more slowly, elaborate on, reconsider, and revise.",
-        "Incorrect. The article notes that speech and signing are transient, while writing is permanent, so writing does not make knowledge transient.",
-        "Incorrect. The article explains that writing transmits language across space, extending beyond those physically present, rather than restricting knowledge to them.",
-        "Incorrect. The article states that written language allows for planning, revision, and editing, so writing does not eliminate these processes."
+        "Correct. The article says, 'Literacy is the ability of reading and writing.'",
+        "Incorrect. This is not mentioned as literacy.",
+        "Incorrect. Using a typewriter is a tool, not literacy.",
+        "Incorrect. Sign language is a modality, not literacy."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is listed in the article as a writing surface?",
+      "question": "Which of the following is listed as a writing implement?",
       "options": [
-        "Papyrus",
-        "Stylus",
         "Pencil",
-        "Finger"
+        "Papyrus",
+        "Slate",
+        "Vellum"
       ],
       "answer_explanations": [
-        "Correct. The article lists papyrus among the writing surfaces on which inscriptions may be made.",
-        "Incorrect. The article lists styluses as writing implements used to make physical inscriptions, not as writing surfaces.",
-        "Incorrect. The article lists pencils as writing implements, not as writing surfaces.",
-        "Incorrect. The article lists fingers as writing implements used to make physical inscriptions, not as writing surfaces."
+        "Correct. The article lists pencils among writing implements.",
+        "Incorrect. Papyrus is a writing surface, not an implement.",
+        "Incorrect. Slate is a writing surface, not an implement.",
+        "Incorrect. Vellum is a writing surface, not an implement."
       ]
     },
     {
       "id": 4,
-      "question": "What does the article say about the relationship between writing systems and languages?",
+      "question": "What did early advancements in natural language processing and generation result in?",
       "options": [
-        "Writing systems do not constitute languages in and of themselves, but rather a durable means of representing language",
-        "Writing systems are languages in and of themselves",
-        "Most spoken languages have a writing system",
-        "Writing systems are only used for visual representations of language"
+        "Software that could produce certain forms of highly formulaic writing",
+        "The invention of the typewriter",
+        "The creation of the first writing systems",
+        "The development of the printing press"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"In general, writing systems do not constitute languages in and of themselves, but rather a durable means of representing language such that it can be understood by people at a later time.\"",
-        "Incorrect. The article explicitly states that writing systems do not constitute languages in and of themselves.",
-        "Incorrect. The article states that while the use of language is universal across human societies, most spoken languages are not written.",
-        "Incorrect. The article notes that in some rare cases, writing may be tactile rather than visual, so writing systems are not only visual."
+        "Correct. The article states that 'Early advancements in natural language processing and natural language generation resulted in software capable of producing certain forms of highly formulaic writing.'",
+        "Incorrect. The typewriter is mentioned separately as a mechanical tool.",
+        "Incorrect. Writing systems predate these advancements.",
+        "Incorrect. The printing press is not mentioned in this context."
       ]
     },
     {
       "id": 5,
-      "question": "Which of the following is listed in the article as an individual motivation for writing?",
+      "question": "According to the article, what was a historical motivation for writing?",
       "options": [
-        "Maintaining kinship and other social networks",
         "Tracking produce and other wealth",
-        "Codifying knowledge through curricula",
-        "Maintaining written records on citizens concerning identities and life events"
+        "Inventing new languages",
+        "Creating typewriters",
+        "Developing social media"
       ],
       "answer_explanations": [
-        "Correct. The article lists maintaining kinship and other social networks among individual motivations for writing.",
-        "Incorrect. The article lists tracking produce and other wealth as a potential application of writing once developed, addressing societal needs, not as an individual motivation.",
-        "Incorrect. The article lists codifying knowledge through curricula as a potential application of writing once developed, not as an individual motivation.",
-        "Incorrect. The article lists maintaining written records on citizens as a function of governance and law, not as an individual motivation for writing."
+        "Correct. The article says 'Historically, writing emerged to address the needs of societies growing in economic and social complexity' and lists 'tracking produce and other wealth' as an application.",
+        "Incorrect. Writing systems represent languages, not invent them.",
+        "Incorrect. Typewriters are a later tool.",
+        "Incorrect. Social media is a modern digital communication system."
       ]
     },
     {
       "id": 6,
-      "question": "How does the article contrast written language with spoken and signed language?",
+      "question": "Which of the following is an individual motivation for writing mentioned in the article?",
       "options": [
-        "Written language is typically more structured and formal, while spoken and signed language is typically more immediate and less premeditated",
-        "Written language is transient, while spoken and signed language is permanent",
-        "Written language relies on tone of voice, facial expressions, and body language, while spoken and signed language does not",
-        "Written language is primarily used in dialogue, while spoken and signed language is not"
+        "Operating beyond the limitations of one's own memory",
+        "Learning to speak a new language",
+        "Inventing a new script",
+        "Building a printing press"
       ],
       "answer_explanations": [
-        "Correct. The article states that written language is typically more structured and formal, while spoken and signed language is typically more immediate, reflecting local context and emotions, and utterances are typically less premeditated.",
-        "Incorrect. The article states that speech and signing are transient, while writing is permanent.",
-        "Incorrect. The article states that written language has to convey meaning without the aid of tone of voice, facial expressions, or body language.",
-        "Incorrect. The article states that spoken and signed language are primarily used in dialogue, not written language."
+        "Correct. The article lists 'the ability to operate beyond the limitations of one's own memory' as an individual motivation.",
+        "Incorrect. Speaking is not writing.",
+        "Incorrect. Inventing a script is not mentioned as an individual motivation.",
+        "Incorrect. Building a printing press is not mentioned as a motivation."
       ]
     },
     {
       "id": 7,
-      "question": "What does the article say about the publication of research in science and scholarship?",
+      "question": "What is a contemporary use of writing in business and finance?",
       "options": [
-        "Publication does not establish claims or findings as authoritatively true, only that they are worth the attention of other specialists",
-        "Publication establishes claims or findings as authoritatively true",
-        "Research is typically published only in book-length monographs, not journal articles",
-        "Peer review determines whether work is of sufficient value and quality to be published, but only after official publication"
+        "Creating written legal documents such as contracts",
+        "Using sign language for communication",
+        "Painting on cave walls",
+        "Carving on stone tablets"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Publication does not establish the claims or findings of work as being authoritatively true, only that they are worth the attention of other specialists.\"",
-        "Incorrect. The article explicitly states that publication does not establish claims or findings as authoritatively true.",
-        "Incorrect. The article states that research is typically published as articles in journals or within book-length monographs.",
-        "Incorrect. The article states that prior to official publication, documents are typically read and evaluated by peer review."
+        "Correct. The article states that 'Business and financial organizations also rely on many written legal documents, such as contracts.'",
+        "Incorrect. Sign language is a different modality.",
+        "Incorrect. Cave painting is not a modern business practice.",
+        "Incorrect. Stone tablets are an ancient writing surface, not a modern business tool."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what role does writing play in business and finance?",
+      "question": "How do many modern systems of government use writing?",
       "options": [
-        "Modern systems of finances, banking, and business rest on written documents including regulations, policies, procedures, reports, and records",
-        "Writing is rarely used in business and finance because most transactions are conducted orally",
-        "Business and finance rely exclusively on digital records and do not use any paper-based written documents",
-        "Written documentation in business and finance is limited to contracts and tax records only"
+        "Through written constitutions",
+        "By using oral traditions only",
+        "By relying on sign language",
+        "By avoiding written records"
       ],
       "answer_explanations": [
-        "Correct. The article states that modern systems of finances, banking, and business rest on written documents including regulations, policies, procedures, reports, monitoring documents, records, and internal and external communications.",
-        "Incorrect. The article emphasizes that writing permeates everyday commerce and that modern business and financial systems rest on written documents.",
-        "Incorrect. The article notes that financial institutions rely on written records though now often in digital form, but does not say they use exclusively digital records.",
-        "Incorrect. The article lists many types of written documents used in business and finance beyond just contracts and tax records, such as regulations, policies, procedures, reports, and records."
+        "Correct. The article says 'Many modern systems of government are organized and sanctified through written constitutions.'",
+        "Incorrect. Oral traditions are not the primary means mentioned.",
+        "Incorrect. Sign language is not the basis of government systems.",
+        "Incorrect. Governments maintain written records, not avoid them."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article identify as the social context most strongly associated with the learning of writing?",
+      "question": "In science and scholarship, what typically happens before official publication?",
       "options": [
-        "Formal education",
-        "Business and finance",
-        "Governance and law",
-        "Journalism"
+        "Peer review by appropriate experts",
+        "The work is ignored",
+        "The work is only spoken about",
+        "The work is destroyed"
       ],
       "answer_explanations": [
-        "Correct. The article states: \"Formal education is the social context most strongly associated with the learning of writing.\"",
-        "Incorrect. The article discusses writing in business and finance but does not identify it as the social context most strongly associated with learning writing.",
-        "Incorrect. The article discusses writing in governance and law but does not identify it as the social context most strongly associated with learning writing.",
-        "Incorrect. The article discusses journalism but does not identify it as the social context most strongly associated with learning writing."
+        "Correct. The article states 'Prior to official publication, these documents are typically read and evaluated by peer review from appropriate experts.'",
+        "Incorrect. Peer review is a key step.",
+        "Incorrect. Scientific work is written and published, not only spoken.",
+        "Incorrect. Work is not destroyed; it is reviewed."
       ]
     },
     {
       "id": 10,
-      "question": "Which of the following is listed in the article as a writing implement?",
+      "question": "Which of the following is a characteristic of written language compared to spoken language?",
       "options": [
-        "Ink brush",
-        "Stone tablet",
-        "Papyrus",
-        "Vellum"
+        "It is typically more structured and formal",
+        "It is always shorter in length",
+        "It relies on body language",
+        "It is transient"
       ],
       "answer_explanations": [
-        "Correct. The article lists ink brushes among writing implements used to make physical inscriptions.",
-        "Incorrect. The article lists stone tablets as writing surfaces, not writing implements.",
-        "Incorrect. The article lists papyrus as a writing surface, not a writing implement.",
-        "Incorrect. The article lists vellum as a writing surface, not a writing implement."
+        "Correct. The article says 'written language is typically more structured and formal.'",
+        "Incorrect. Written language can have more complex sentences, not necessarily shorter.",
+        "Incorrect. Written language must convey meaning without body language.",
+        "Incorrect. Writing is permanent, not transient."
       ]
     }
   ]

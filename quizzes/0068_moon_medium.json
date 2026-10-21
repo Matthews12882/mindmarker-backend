@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the average distance between the Moon and Earth?",
+      "question": "What is the Moon's average distance from Earth?",
       "options": [
-        "around 378,000 kilometers (235,000 mi)",
-        "around 378,000 miles (235,000 km)",
-        "around 235,000 kilometers (378,000 mi)",
-        "around 378,000 kilometers (235,000 km)"
+        "About 378,000 kilometers",
+        "About 235,000 kilometers",
+        "About 29.5 kilometers",
+        "About 3,474 kilometers"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moon orbits Earth at a distance that varies over the year, averaging around 378,000 kilometers (235,000 mi).",
-        "Incorrect. The article gives the distance as 378,000 kilometers, not miles.",
-        "Incorrect. The article states the average is around 378,000 kilometers, not 235,000 kilometers.",
-        "Incorrect. The article pairs 378,000 kilometers with 235,000 miles, not 235,000 kilometers."
+        "Correct. The article states that the Moon's distance from Earth averages around 378,000 kilometers (235,000 mi).",
+        "Incorrect. 235,000 miles is the equivalent in miles, not kilometers, and the question asks for kilometers.",
+        "Incorrect. 29.5 days is the length of the lunar month, not a distance.",
+        "Incorrect. 3,474 kilometers is the Moon's diameter, not its distance from Earth."
       ]
     },
     {
       "id": 2,
-      "question": "How long does the Moon take to complete an orbit in relation to Earth and the Sun?",
+      "question": "Why does the Moon always show the same face to Earth?",
       "options": [
-        "every 29.5 days",
-        "every 27.3 days",
-        "every 29.5 hours",
-        "every 27.3 hours"
+        "Because of tidal locking",
+        "Because of its elliptical orbit",
+        "Because it has no atmosphere",
+        "Because of its large size"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moon completes an orbit in relation to Earth and the Sun (synodically) every 29.5 days.",
-        "Incorrect. The article does not state that the synodic orbital period is 27.3 days.",
-        "Incorrect. The article states the period is 29.5 days, not hours.",
-        "Incorrect. The article states the period is 29.5 days, not 27.3 hours."
+        "Correct. The article explains that tidal forces have pulled the Moon to always face Earth with the same near side, a process called tidal locking.",
+        "Incorrect. The elliptical orbit affects distance and speed, but not the same face being shown.",
+        "Incorrect. The lack of atmosphere is not the reason for the same face being shown.",
+        "Incorrect. The Moon's size is not the reason for tidal locking."
       ]
     },
     {
       "id": 3,
-      "question": "What is the result of tidal forces between the Moon and Earth?",
+      "question": "What is the Moon's surface gravity compared to Earth's?",
       "options": [
-        "the Moon always faces Earth with the same near side",
-        "the Moon always faces Earth with the same far side",
-        "the Moon rotates faster than it orbits Earth",
-        "the Moon's orbit becomes perfectly circular"
+        "About one-sixth of Earth's",
+        "About one-half of Earth's",
+        "About one-quarter of Earth's",
+        "About twice Earth's"
       ],
       "answer_explanations": [
-        "Correct. The article states that tidal forces have pulled the Moon to always face Earth with the same near side, a condition called tidal locking.",
-        "Incorrect. The article states the same near side faces Earth, not the far side.",
-        "Incorrect. The article states the Moon's rotation period is synchronized to its orbital period, not faster.",
-        "Incorrect. The article does not state that tidal forces make the Moon's orbit perfectly circular."
+        "Correct. The article states that the Moon's surface gravity is about one-sixth of Earth's.",
+        "Incorrect. The article says it is about half that of Mars, not half of Earth's.",
+        "Incorrect. One-quarter is the ratio of the Moon's diameter to Earth's, not its surface gravity.",
+        "Incorrect. The Moon's gravity is much weaker than Earth's, not stronger."
       ]
     },
     {
       "id": 4,
-      "question": "How does the Moon's mass compare to Earth's mass?",
+      "question": "What is the prevailing theory for how the Moon formed?",
       "options": [
-        "1.2% that of the Earth",
-        "12% that of the Earth",
-        "1.2 times that of the Earth",
-        "12 times that of the Earth"
+        "A giant impact of a Mars-sized body with the early Earth",
+        "The Moon was captured by Earth's gravity",
+        "The Moon and Earth formed together from the same material",
+        "The Moon broke off from Earth due to fast rotation"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moon's mass is 1.2% that of the Earth.",
-        "Incorrect. The article states 1.2%, not 12%.",
-        "Incorrect. The article states the Moon's mass is a small fraction of Earth's, not greater than Earth's.",
-        "Incorrect. The article states the Moon's mass is 1.2% of Earth's, not 12 times Earth's."
+        "Correct. The article says the prevailing theory is that the EarthâMoon system formed after a giant impact of a Mars-sized body (Theia) with the proto-Earth.",
+        "Incorrect. The article does not mention a capture theory; it describes the giant-impact hypothesis.",
+        "Incorrect. The article describes a giant impact, not co-formation.",
+        "Incorrect. The article does not mention the Moon breaking off due to fast rotation."
       ]
     },
     {
       "id": 5,
-      "question": "What is the Moon's surface gravity relative to Earth's?",
+      "question": "What is the name of the dark plains on the Moon that were formed by ancient lava flows?",
       "options": [
-        "about one-sixth of Earth's",
-        "about one-half of Earth's",
-        "about one-third of Earth's",
-        "about equal to Earth's"
+        "Maria",
+        "Craters",
+        "Highlands",
+        "Regolith"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moon's surface gravity is about one-sixth of Earth's.",
-        "Incorrect. The article states one-sixth, not one-half.",
-        "Incorrect. The article states one-sixth, not one-third.",
-        "Incorrect. The article states the Moon's gravity is about one-sixth of Earth's, not equal to it."
+        "Correct. The article states that lava filled ancient craters and formed dark plains of basalt called maria ('seas').",
+        "Incorrect. Craters are impact features, not the dark plains formed by lava.",
+        "Incorrect. Highlands are the lighter, heavily cratered regions, not the dark plains.",
+        "Incorrect. Regolith is the dust covering the surface, not the dark plains."
       ]
     },
     {
       "id": 6,
-      "question": "Which moon has the highest surface gravity in the Solar System?",
+      "question": "What was the first spaceflight to fly by the Moon?",
       "options": [
-        "Jupiter's moon Io",
-        "Earth's Moon",
-        "Mars's moon Phobos",
-        "Saturn's moon Titan"
+        "Luna 1",
+        "Luna 2",
+        "Luna 9",
+        "Apollo 8"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moon's surface gravity is the second-highest among all moons after Jupiter's moon Io.",
-        "Incorrect. The article states Earth's Moon has the second-highest surface gravity, not the highest.",
-        "Incorrect. The article does not mention Phobos having the highest surface gravity.",
-        "Incorrect. The article does not mention Titan having the highest surface gravity."
+        "Correct. The article says the first spaceflights to an extraterrestrial body were to the Moon, starting in 1959 with the flyby of Luna 1.",
+        "Incorrect. Luna 2 was the first to intentionally impact the Moon, not fly by.",
+        "Incorrect. Luna 9 was the first to soft-land on the Moon.",
+        "Incorrect. Apollo 8 was the first crewed mission to orbit the Moon."
       ]
     },
     {
       "id": 7,
-      "question": "Until when was the Moon volcanically active?",
+      "question": "Which Apollo mission was the first to land humans on the Moon?",
       "options": [
-        "1.2 billion years ago",
-        "4.35 billion years ago",
-        "3.3â3.7 billion years ago",
-        "4.2 billion years ago"
+        "Apollo 11",
+        "Apollo 8",
+        "Apollo 13",
+        "Apollo 17"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Moon was volcanically active until 1.2 billion years ago.",
-        "Incorrect. The article states 4.35 billion years ago as the Moon's formation age, not the end of volcanic activity.",
-        "Incorrect. The article states that most mare basalts erupted during the Imbrian period, 3.3â3.7 billion years ago, but volcanic activity continued until 1.2 billion years ago.",
-        "Incorrect. The article states some mare basalts are as old as 4.2 billion years, but volcanic activity lasted until 1.2 billion years ago."
+        "Correct. The article states that humans first arrived on the surface with Apollo 11 on July 20, 1969.",
+        "Incorrect. Apollo 8 was the first crewed mission to orbit the Moon, but did not land.",
+        "Incorrect. Apollo 13 is not mentioned in the article as the first landing.",
+        "Incorrect. Apollo 17 was a later mission, not the first landing."
       ]
     },
     {
       "id": 8,
-      "question": "What caused the dark plains called maria on the Moon?",
+      "question": "What is the origin of the English word 'moon'?",
       "options": [
-        "lava filling ancient craters and cooling into basalt",
-        "impact craters filled with regolith dust",
-        "reflective ray-like streaks from younger craters",
-        "water freezing in ancient lunar seas"
+        "It comes from Old English 'mÅna'",
+        "It comes from Latin 'lÅ«na'",
+        "It comes from Greek 'selá¸nÄ'",
+        "It comes from French 'lune'"
       ],
       "answer_explanations": [
-        "Correct. The article states that lava surfaced mostly on the thinner near side, filling ancient craters, which through cooling formed the dark plains of basalt called maria.",
-        "Incorrect. The article attributes maria to cooled lava, not regolith dust filling craters.",
-        "Incorrect. Ray-like streaks are features of some younger impact craters, not the cause of maria.",
-        "Incorrect. The article does not state that water formed the maria; it describes them as cooled basaltic lava plains."
+        "Correct. The article says the noun 'moon' is derived from Old English 'mÅna'.",
+        "Incorrect. 'LÅ«na' is the Latin name for the Moon, but not the origin of the English word 'moon'.",
+        "Incorrect. 'Selá¸nÄ' is the Ancient Greek word, not the origin of the English word 'moon'.",
+        "Incorrect. The article mentions French in relation to 'lunar', not 'moon'."
       ]
     },
     {
       "id": 9,
-      "question": "What is the prevailing theory for the Moon's formation?",
+      "question": "What does the International Astronomical Union (IAU) call Earth's satellite?",
       "options": [
-        "a giant impact of a Mars-sized body with the proto-Earth",
-        "capture of a passing asteroid by Earth's gravity",
-        "co-formation alongside Earth from the same nebula",
-        "fission of material from a rapidly spinning early Earth"
+        "The Moon",
+        "Luna",
+        "Selene",
+        "A dwarf planet"
       ],
       "answer_explanations": [
-        "Correct. The article states the prevailing theory is that the EarthâMoon system formed after a giant impact of a Mars-sized body named Theia with the proto-Earth.",
-        "Incorrect. The article does not describe capture of a passing asteroid as the prevailing theory.",
-        "Incorrect. The article does not describe co-formation from the same nebula as the prevailing theory.",
-        "Incorrect. The article does not describe fission from a spinning early Earth as the prevailing theory."
+        "Correct. The article states that the IAU calls Earth's satellite 'the Moon', with a capital 'M'.",
+        "Incorrect. 'Luna' is a scientific or poetic name, but the IAU uses 'the Moon'.",
+        "Incorrect. 'Selene' is the Greek goddess and word, not the IAU name.",
+        "Incorrect. The article does not classify the Moon as a dwarf planet; it says it is larger than any known dwarf planet."
       ]
     },
     {
       "id": 10,
-      "question": "What does the article say about the isotopic compositions of Earth and the Moon?",
+      "question": "What is the estimated age of the Moon according to isotope dating?",
       "options": [
-        "they have nearly identical isotopic compositions",
-        "they have very different isotopic compositions",
-        "the Moon has more zirconium isotopes than Earth",
-        "Earth has more tungsten isotopes than the Moon"
+        "4.35 billion years",
+        "1.2 billion years",
+        "3.3 billion years",
+        "200 million years"
       ],
       "answer_explanations": [
-        "Correct. The article states that Earth and the Moon have nearly identical isotopic compositions.",
-        "Incorrect. The article states that Mars and Vesta have very different isotopic compositions compared to Earth, not that Earth and the Moon do.",
-        "Incorrect. The article mentions zirconium isotopes as difficult to reconcile in some models, but does not state the Moon has more zirconium isotopes than Earth.",
-        "Incorrect. The article mentions tungsten isotopes in comparing Earth to other bodies, but does not state Earth has more tungsten isotopes than the Moon."
+        "Correct. The article says the most reliable measurements report 4.35 Gyr for the age of the Moon.",
+        "Incorrect. 1.2 billion years is when the Moon was last volcanically active, not its age.",
+        "Incorrect. 3.3 billion years is the start of the Imbrian period, not the Moon's age.",
+        "Incorrect. 200 million years is the time after the Solar System's origin when the Moon formed, not the age itself."
       ]
     }
   ]

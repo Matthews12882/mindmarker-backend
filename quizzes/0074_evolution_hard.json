@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "According to the article, what does the two-fold cost of sex refer to in sexually dimorphic species?",
+      "question": "Why does the article state that evolution can occur even when the phenotype is unchanged?",
       "options": [
-        "Only one of the two sexes can bear young, and each parent passes on only 50% of its genes to an offspring",
-        "Sexual reproduction requires twice as many individuals as asexual reproduction",
-        "Sexually reproducing organisms have shorter lifespans than asexual organisms",
-        "Sexual reproduction doubles the mutation rate compared with asexual reproduction"
+        "Because alleles may not have a visible effect, so changes in allele frequency can happen without altering observable traits.",
+        "Because phenotypes are not affected by genetic changes.",
+        "Because evolution only involves changes in behavior, not appearance.",
+        "Because the phenotype is determined solely by the environment."
       ],
       "answer_explanations": [
-        "Correct. The article states the two costs are that only one sex can bear young in sexually dimorphic species and that a sexually reproducing individual passes on only 50% of its genes to any individual offspring.",
-        "Incorrect. The article does not state that sexual reproduction requires twice as many individuals as asexual reproduction.",
-        "Incorrect. The article does not mention shorter lifespans as part of the two-fold cost of sex.",
-        "Incorrect. The article does not claim that sexual reproduction doubles the mutation rate."
+        "Correct. The article explains that 'because alleles do not necessarily have a visible effect, in a strict biological sense evolution can occur even when the phenotype is unchanged.'",
+        "Incorrect. The article states that alleles may not have a visible effect, but it does not say phenotypes are unaffected by genetic changes; it says evolution can occur without phenotypic change.",
+        "Incorrect. The article does not limit evolution to behavioral changes; it defines evolution as changes in allele frequencies.",
+        "Incorrect. The article says phenotype results from genotype and environment, but it does not claim phenotype is solely environmental."
       ]
     },
     {
       "id": 2,
-      "question": "What does the article say about the relationship between genotype and phenotype?",
+      "question": "What does the article imply about the relationship between the observable facts supporting natural selection and the process of adaptation?",
       "options": [
-        "The phenotype results from both genotype and environmental influence",
-        "The phenotype is determined solely by the genotype",
-        "The genotype is determined by the phenotype",
-        "Genotype and phenotype are always identical"
+        "The facts show that differential survival and reproduction, combined with heritability, lead to populations being increasingly replaced by offspring of parents with favorable traits.",
+        "The facts show that adaptation is solely due to mutations occurring in response to environmental needs.",
+        "The facts imply that natural selection acts on the phenotype but not on the genotype.",
+        "The facts suggest that more offspring are produced than can survive, but this does not affect adaptation."
       ],
       "answer_explanations": [
-        "Correct. The article states that an individual organism's phenotype results from both its genotype and the influence of the environment it has lived in.",
-        "Incorrect. The article explicitly says the phenotype is influenced by both genotype and environment, not genotype alone.",
-        "Incorrect. The article does not state that the genotype is determined by the phenotype.",
-        "Incorrect. The article treats genotype and phenotype as distinct concepts, not identical ones."
+        "Correct. The article states that these facts lead to the conclusion that 'in successive generations, members of a population are therefore more likely to be replaced by the offspring of parents with favourable characteristics for that environment.'",
+        "Incorrect. The article does not say mutations occur in response to needs; it presents variation as random and selection as acting on existing traits.",
+        "Incorrect. The article implies that traits (phenotypes) are heritable and thus linked to genotypes; selection acts on phenotypes but affects allele frequencies.",
+        "Incorrect. The article explicitly ties overproduction to differential survival and heritability, which are central to adaptation."
       ]
     },
     {
       "id": 3,
-      "question": "Based on the article, what is the significance of gene duplication for the evolution of new genes?",
+      "question": "How does the article suggest that the modern evolutionary synthesis changed the understanding of heredity compared to earlier ideas?",
       "options": [
-        "It provides redundancy so one copy can acquire a new function while the other retains the original function",
-        "It immediately creates entirely new genes from noncoding DNA",
-        "It prevents mutations from occurring in protein-coding genes",
-        "It ensures all offspring inherit identical copies of every gene"
+        "It combined evolution with Mendelian inheritance and population genetics, establishing DNA as the basis for heredity.",
+        "It rejected the idea of natural selection and proposed that acquired traits are inherited.",
+        "It proved that evolution occurs only through mutations in somatic cells.",
+        "It showed that genes are not involved in heredity."
       ],
       "answer_explanations": [
-        "Correct. The article explains that duplication increases redundancy, allowing one gene copy to acquire a new function while the other continues performing the original function.",
-        "Incorrect. The article describes de novo gene birth as a separate phenomenon from duplication.",
-        "Incorrect. The article does not claim that gene duplication prevents mutations.",
-        "Incorrect. The article does not state that duplication ensures identical inheritance of all genes."
+        "Correct. The article says that 'competing ideas of evolution were refuted and evolution was combined with Mendelian inheritance and population genetics to give rise to modern evolutionary theory' and that 'the basis for heredity is in DNA molecules.'",
+        "Incorrect. The article does not say natural selection was rejected; it says competing ideas were refuted and the synthesis incorporated Mendelian genetics.",
+        "Incorrect. The article does not limit mutations to somatic cells; it discusses germline DNA and heritable changes.",
+        "Incorrect. The article emphasizes that genes and DNA are central to heredity."
       ]
     },
     {
       "id": 4,
-      "question": "According to the article, what is a key consequence of recombination and reassortment in sexual reproduction?",
+      "question": "What conclusion can be drawn from the article's description of the fossil record and the last universal common ancestor?",
       "options": [
-        "They change which alleles are associated with each other without altering allele frequencies",
-        "They directly change the frequency of alleles in a population",
-        "They eliminate genetic variation among offspring",
-        "They prevent independent assortment of chromosomes"
+        "All life shares a common ancestry, and the fossil record shows a progression from simple to complex forms over billions of years.",
+        "The fossil record proves that evolution is directed toward producing humans.",
+        "The last universal common ancestor lived only a few million years ago.",
+        "The fossil record shows that extinction has no role in shaping biodiversity."
       ],
       "answer_explanations": [
-        "Correct. The article states that recombination and reassortment do not alter allele frequencies but change which alleles are associated with each other.",
-        "Incorrect. The article explicitly says these processes do not alter allele frequencies.",
-        "Incorrect. The article says sex usually increases genetic variation rather than eliminating it.",
-        "Incorrect. The article describes independent assortment as occurring in sexual reproduction, not being prevented by recombination."
+        "Correct. The article states that all life shares a LUCA that lived 3.5â3.8 billion years ago and that the fossil record includes a progression from biogenic graphite to microbial mats to multicellular organisms.",
+        "Incorrect. The article does not suggest evolution is directed; it describes a common ancestor and diversification, not a goal.",
+        "Incorrect. The article gives an approximate age of 3.5â3.8 billion years, not a few million.",
+        "Incorrect. The article explicitly mentions extinction as a process shaping biodiversity."
       ]
     },
     {
       "id": 5,
-      "question": "In the article's discussion of horizontal gene transfer, what medical consequence is highlighted?",
+      "question": "Why does the article mention that some observable traits, like suntanned skin, are not inherited?",
       "options": [
-        "The spread of antibiotic resistance among bacteria",
-        "The increased mutation rate in human germline cells",
-        "The prevention of gene flow between populations",
-        "The loss of mitochondrial DNA in eukaryotes"
+        "To illustrate that the phenotype is the result of genotype-environment interaction, and only heritable characteristics are subject to evolution.",
+        "To show that all phenotypic traits are inherited.",
+        "To argue that evolution acts on phenotypes regardless of heritability.",
+        "To demonstrate that suntans are controlled by a single gene."
       ],
       "answer_explanations": [
-        "Correct. The article states that horizontal gene transfer contributes to the spread of antibiotic resistance when bacteria transfer resistance genes to other species.",
-        "Incorrect. The article does not link horizontal gene transfer to increased mutation rates in human germline cells.",
-        "Incorrect. Horizontal gene transfer is described as a source of gene flow, not something that prevents it.",
-        "Incorrect. The article does not claim that horizontal gene transfer causes loss of mitochondrial DNA."
+        "Correct. The article uses suntanned skin as an example of a trait that is not inherited because it results from interaction with the environment, while the ability to tan is heritable.",
+        "Incorrect. The article explicitly says some observable characteristics are not inherited.",
+        "Incorrect. The article emphasizes that evolution occurs through heritable characteristics; non-heritable traits are not passed on.",
+        "Incorrect. The article does not say suntans are controlled by a single gene; it says the ability to tan varies due to genotypic differences."
       ]
     },
     {
       "id": 6,
-      "question": "According to the article, what is the definition of evolution in strict biological terms?",
+      "question": "What is the significance of gene duplication in the evolution of new genes, according to the article?",
       "options": [
-        "A change in the frequency of alleles in a population",
-        "A visible change in an organism's external appearance",
-        "A change in behavior that occurs within a single lifetime",
-        "The appearance of new species through speciation"
+        "It provides redundant copies that allow one copy to acquire new functions while the other maintains the original function.",
+        "It immediately creates entirely new genes without any mutations.",
+        "It reduces genetic variation within a population.",
+        "It prevents the formation of gene families."
       ],
       "answer_explanations": [
-        "Correct. The article defines evolution as a change in the frequency of alleles in a population.",
-        "Incorrect. The article notes that evolution can occur even when the phenotype is unchanged, so it is not limited to visible appearance.",
-        "Incorrect. The article discusses changes across generations, not within a single lifetime.",
-        "Incorrect. Speciation is mentioned as a process shaping biodiversity, but it is not the definition of evolution itself."
+        "Correct. The article states that duplication increases redundancy, so 'one gene in the pair can acquire a new function while the other copy continues to perform its original function.'",
+        "Incorrect. The article says new genes evolve from duplicated copies that mutate and acquire new functions; duplication alone is not enough.",
+        "Incorrect. Duplication introduces extra copies, which is a source of variation, not a reduction.",
+        "Incorrect. The article says most new genes evolve within gene families, and duplication is a major source of raw material for new genes."
       ]
     },
     {
       "id": 7,
-      "question": "Based on the article, what is one reason sexual reproduction remains common among eukaryotes despite its costs?",
+      "question": "How does the article explain the evolutionary advantage of sexual reproduction despite its costs?",
       "options": [
-        "It may enable continual evolution and adaptation in response to coevolution with other species",
-        "It guarantees that all beneficial mutations are preserved in every generation",
-        "It completely eliminates deleterious mutations from the genome",
-        "It allows organisms to reproduce without any genetic variation"
+        "It increases genetic variation and may enhance adaptation, as explained by the Red Queen hypothesis and recombinational repair.",
+        "It allows individuals to pass on 100% of their genes to each offspring.",
+        "It eliminates the need for mutation.",
+        "It reduces genetic diversity, which is beneficial in stable environments."
       ],
       "answer_explanations": [
-        "Correct. The article cites the Red Queen hypothesis as explaining sexual reproduction's role in continual evolution and adaptation amid coevolution with other species.",
-        "Incorrect. The article does not state that sexual reproduction guarantees preservation of all beneficial mutations.",
-        "Incorrect. The article does not claim that sexual reproduction completely eliminates deleterious mutations.",
-        "Incorrect. The article states that sex usually increases genetic variation, not that it eliminates variation."
+        "Correct. The article discusses the two-fold cost of sex but notes that sexual reproduction is common, and hypotheses like the Red Queen and recombinational repair explain its benefits for variation and adaptation.",
+        "Incorrect. The article states that sexually reproducing individuals pass on only 50% of their genes to each offspring.",
+        "Incorrect. The article does not say sex eliminates mutation; mutation is still a source of variation.",
+        "Incorrect. The article says sex usually increases genetic variation, not reduces it."
       ]
     },
     {
       "id": 8,
-      "question": "According to the article, what happens when a new allele reaches fixation in a population?",
+      "question": "What does the article imply about the role of horizontal gene transfer in evolution?",
       "options": [
-        "It either disappears from the population or replaces the ancestral allele entirely",
-        "It becomes the only allele present in every individual without exception",
-        "It immediately causes speciation",
-        "It stops all future mutations at that locus"
+        "It can introduce new genetic material across species, even across domains, and has contributed to antibiotic resistance.",
+        "It only occurs between parent and offspring.",
+        "It is limited to bacteria and does not affect eukaryotes.",
+        "It decreases genetic variation within populations."
       ],
       "answer_explanations": [
-        "Correct. The article defines fixation as the point when an allele either disappears from the population or replaces the ancestral allele entirely.",
-        "Incorrect. Fixation does not necessarily mean the allele is present in every individual without exception; the article defines it as disappearance or replacement of the ancestral allele.",
-        "Incorrect. The article does not state that fixation immediately causes speciation.",
-        "Incorrect. The article does not claim that fixation stops all future mutations."
+        "Correct. The article defines horizontal gene transfer as transfer between organisms that are not parent-offspring, notes it is common among bacteria and contributes to antibiotic resistance, and gives examples of transfer to eukaryotes and across domains.",
+        "Incorrect. The article explicitly says it is transfer to an organism that is not its offspring.",
+        "Incorrect. The article provides examples of horizontal transfer to eukaryotes like yeast and bdelloid rotifers.",
+        "Incorrect. Horizontal gene transfer is a source of variation, so it increases genetic variation."
       ]
     },
     {
       "id": 9,
-      "question": "According to the article, what is the relationship between DNA methylation and epigenetic inheritance?",
+      "question": "Why does the article distinguish between genotype and phenotype in the context of evolution?",
       "options": [
-        "DNA methylation is one mechanism of epigenetic inheritance",
-        "DNA methylation prevents all epigenetic changes",
-        "Epigenetic inheritance requires changes to the DNA nucleotide sequence",
-        "DNA methylation only occurs in bacteria"
+        "To clarify that evolution is defined by changes in allele frequencies (genotype), not necessarily by observable changes (phenotype).",
+        "To argue that phenotypes are irrelevant to evolution.",
+        "To show that genotypes are always directly expressed in phenotypes.",
+        "To prove that environmental changes alter genotypes directly."
       ],
       "answer_explanations": [
-        "Correct. The article lists DNA methylation marking chromatin as an example of an epigenetic inheritance system.",
-        "Incorrect. The article presents DNA methylation as a mechanism of epigenetic inheritance, not something that prevents it.",
-        "Incorrect. The article states that epigenetic changes cannot be explained by changes to the nucleotide sequence.",
-        "Incorrect. The article does not restrict DNA methylation to bacteria."
+        "Correct. The article defines evolution as change in allele frequencies and notes that alleles may not have visible effects, so evolution can occur without phenotypic change.",
+        "Incorrect. Phenotypes are relevant because they are the targets of natural selection, but evolution is defined at the genetic level.",
+        "Incorrect. The article says many traits are influenced by multiple genes and environmental interactions, so the correspondence is not always direct.",
+        "Incorrect. The article says environmental factors can affect phenotype but does not say they alter genotypes directly."
       ]
     },
     {
       "id": 10,
-      "question": "Based on the article, what is the role of natural selection in modern evolutionary theory?",
+      "question": "What does the article suggest about the relationship between gene flow and speciation?",
       "options": [
-        "It is one of the processes that change DNA in a population, alongside genetic drift, mutation, and gene flow",
-        "It is the only process capable of changing allele frequencies",
-        "It prevents genetic drift from occurring in populations",
-        "It operates independently of heritability"
+        "Gene flow can introduce new alleles into a population, but it also tends to homogenize populations, which may counteract speciation.",
+        "Gene flow always leads to immediate speciation.",
+        "Gene flow only occurs within a species and never between species.",
+        "Gene flow reduces genetic variation, making speciation less likely."
       ],
       "answer_explanations": [
-        "Correct. The article states that the processes changing DNA in a population include natural selection, genetic drift, mutation, and gene flow.",
-        "Incorrect. The article lists multiple processes that change allele frequencies, not natural selection alone.",
-        "Incorrect. The article does not say natural selection prevents genetic drift.",
-        "Incorrect. The article identifies heritability of fitness as one of the observable facts underlying natural selection."
+        "Correct. The article defines gene flow as exchange of genes between populations and species, which introduces variation, but by mixing genes it reduces differences between populations, which is a barrier to speciation.",
+        "Incorrect. Gene flow is not described as causing immediate speciation; in fact, it can hinder divergence.",
+        "Incorrect. The article explicitly mentions gene transfer between species, including hybridization and horizontal transfer.",
+        "Incorrect. Gene flow is a source of variation, so it increases genetic variation, not reduces it."
       ]
     }
   ]

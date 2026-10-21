@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is writing defined as in the article?",
+      "question": "What is writing?",
       "options": [
-        "the act of creating a persistent, usually visual representation of language on a surface",
-        "the act of speaking clearly to an audience",
-        "the act of memorizing spoken words",
-        "the act of drawing pictures without meaning"
+        "The act of creating a persistent, usually visual representation of language on a surface",
+        "The act of speaking to another person",
+        "The act of reading a text aloud",
+        "The act of memorizing a spoken language"
       ],
       "answer_explanations": [
         "Correct. The article states: 'Writing is the act of creating a persistent, usually visual representation of language on a surface.'",
-        "Incorrect. Speaking clearly to an audience is not how the article defines writing.",
-        "Incorrect. Memorizing spoken words is not mentioned as the definition of writing.",
-        "Incorrect. Drawing pictures without meaning is not how the article defines writing."
+        "Incorrect. The article defines writing as creating a representation of language, not speaking.",
+        "Incorrect. Reading is described as encountering a text and construing its symbols, not writing.",
+        "Incorrect. Writing is about creating a visual representation, not memorizing a language."
       ]
     },
     {
       "id": 2,
-      "question": "What is literacy defined as in the article?",
+      "question": "What is written language also known as?",
       "options": [
-        "the ability of reading and writing",
-        "the ability to speak multiple languages",
-        "the ability to draw pictures",
-        "the ability to listen to audiobooks"
+        "A structured system of communication",
+        "A spoken language",
+        "A script",
+        "A tactile alphabet"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Literacy is the ability of reading and writing.'",
-        "Incorrect. Speaking multiple languages is not how the article defines literacy.",
-        "Incorrect. Drawing pictures is not mentioned as literacy in the article.",
-        "Incorrect. Listening to audiobooks is not how the article defines literacy."
+        "Correct. The article says: 'As a structured system of communication, writing is also known as written language.'",
+        "Incorrect. Spoken language is what written language records, not what written language is called.",
+        "Incorrect. A script is a set of symbols, not another name for written language.",
+        "Incorrect. A tactile alphabet is a rare form of writing, not another name for written language."
       ]
     },
     {
       "id": 3,
-      "question": "Which of the following is listed as a writing implement in the article?",
+      "question": "Historically, written languages have emerged as a way to record what?",
       "options": [
-        "pens",
-        "computers",
-        "scissors",
-        "glue"
+        "Corresponding spoken languages",
+        "Visual representations",
+        "Tactile symbols",
+        "Cognitive processes"
       ],
       "answer_explanations": [
-        "Correct. The article lists pens among writing implements used to make physical inscriptions.",
-        "Incorrect. Computers are not listed as writing implements in that section of the article.",
-        "Incorrect. Scissors are not mentioned as writing implements in the article.",
-        "Incorrect. Glue is not mentioned as a writing implement in the article."
+        "Correct. The article states: 'Historically, written languages have emerged as a way to record corresponding spoken languages.'",
+        "Incorrect. Visual representations are part of the definition of writing, not what written languages record.",
+        "Incorrect. Tactile symbols are a rare form of writing, not what written languages record.",
+        "Incorrect. Cognitive processes are part of the activity of writing, not what written languages record."
       ]
     },
     {
       "id": 4,
-      "question": "Which of the following is listed as a writing surface in the article?",
+      "question": "What is a particular set of symbols called?",
       "options": [
-        "paper",
-        "glass",
-        "plastic",
-        "metal"
+        "A script",
+        "A writing system",
+        "A language",
+        "A text"
       ],
       "answer_explanations": [
-        "Correct. The article lists paper among writing surfaces on which inscriptions may be made.",
-        "Incorrect. Glass is not listed as a writing surface in the article.",
-        "Incorrect. Plastic is not listed as a writing surface in the article.",
-        "Incorrect. Metal is not listed as a writing surface in the article."
+        "Correct. The article says: 'A particular set of symbols, called a script, as well as the rules by which they encode a particular spoken language, is known as a writing system.'",
+        "Incorrect. A writing system includes the script and the rules, but the set of symbols itself is called a script.",
+        "Incorrect. A language is what writing represents, not the set of symbols.",
+        "Incorrect. A text is the physical output of writing, not the set of symbols."
       ]
     },
     {
       "id": 5,
-      "question": "What does the article say about most spoken languages?",
+      "question": "What is known as a writing system?",
       "options": [
-        "most spoken languages are not written",
-        "most spoken languages have a writing system",
-        "all spoken languages are written",
-        "spoken languages cannot be written down"
+        "A script and the rules by which it encodes a spoken language",
+        "A set of symbols without rules",
+        "A spoken language",
+        "A physical process"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'While the use of language is universal across human societies, most spoken languages are not written.'",
-        "Incorrect. The article says most spoken languages are not written, not that most have a writing system.",
-        "Incorrect. The article explicitly states most spoken languages are not written.",
-        "Incorrect. The article does not say spoken languages cannot be written down."
+        "Correct. The article states: 'A particular set of symbols, called a script, as well as the rules by which they encode a particular spoken language, is known as a writing system.'",
+        "Incorrect. A writing system includes both the script and the rules, not just symbols.",
+        "Incorrect. A spoken language is what is encoded, not the writing system itself.",
+        "Incorrect. A physical process is part of the activity of writing, not the writing system."
       ]
     },
     {
       "id": 6,
-      "question": "What does writing allow humans to do with their thinking, according to the article?",
+      "question": "In some rare cases, writing may be what instead of visual?",
       "options": [
-        "externalize their thinking in forms that are easier to reflect on and revise",
-        "forget their thoughts more quickly",
-        "keep all thoughts private forever",
-        "avoid processing information slowly"
+        "Tactile",
+        "Auditory",
+        "Digital",
+        "Mechanical"
       ],
       "answer_explanations": [
-        "Correct. The article states writing allows humans to externalize their thinking in forms that are easier to reflect on, process more slowly, elaborate on, reconsider, and revise.",
-        "Incorrect. The article does not say writing helps humans forget thoughts more quickly.",
-        "Incorrect. The article does not say writing keeps thoughts private forever.",
-        "Incorrect. The article says writing allows processing more slowly, not avoiding slow processing."
+        "Correct. The article says: 'In some rare cases, writing may be tactile rather than visual.'",
+        "Incorrect. Auditory is not mentioned as a form of writing.",
+        "Incorrect. Digital is a way symbols are represented, but not an alternative to visual in this context.",
+        "Incorrect. Mechanical is a way symbols are transferred, but not an alternative to visual in this context."
       ]
     },
     {
       "id": 7,
-      "question": "Which of the following is listed as an individual motivation for writing in the article?",
+      "question": "What is the activity of encountering a text and construing its symbols?",
       "options": [
-        "operating beyond the limitations of one's own memory",
-        "becoming famous overnight",
-        "avoiding all social contact",
-        "replacing spoken language entirely"
+        "Reading",
+        "Writing",
+        "Literacy",
+        "Speaking"
       ],
       "answer_explanations": [
-        "Correct. The article lists the ability to operate beyond the limitations of one's own memory as an individual motivation for writing.",
-        "Incorrect. Becoming famous overnight is not listed as a motivation for writing in the article.",
-        "Incorrect. Avoiding all social contact is not listed as a motivation for writing in the article.",
-        "Incorrect. Replacing spoken language entirely is not listed as a motivation for writing in the article."
+        "Correct. The article states: 'Reading is the activity of encountering a text and construing its symbols.'",
+        "Incorrect. Writing is the act of creating a representation, not encountering a text.",
+        "Incorrect. Literacy is the ability of reading and writing, not the activity itself.",
+        "Incorrect. Speaking is not mentioned in this context."
       ]
     },
     {
       "id": 8,
-      "question": "Which professions are typically associated with writing according to the article?",
+      "question": "What is literacy?",
       "options": [
-        "literary authors, journalists, and technical writers",
-        "farmers, construction workers, and chefs",
-        "pilots, drivers, and mechanics",
-        "doctors, nurses, and dentists"
+        "The ability of reading and writing",
+        "The act of writing",
+        "The act of reading",
+        "The ability to speak"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Some professions are typically associated with writing, such as literary authors, journalists, and technical writers.'",
-        "Incorrect. Farmers, construction workers, and chefs are not listed as professions typically associated with writing.",
-        "Incorrect. Pilots, drivers, and mechanics are not listed as professions typically associated with writing.",
-        "Incorrect. Doctors, nurses, and dentists are not listed as professions typically associated with writing."
+        "Correct. The article says: 'Literacy is the ability of reading and writing.'",
+        "Incorrect. Writing is an act, not the ability.",
+        "Incorrect. Reading is an activity, not the ability.",
+        "Incorrect. Speaking is not mentioned as part of literacy."
       ]
     },
     {
       "id": 9,
-      "question": "What does the article say about written language compared to speech and signing?",
+      "question": "What is the physical output of writing also called?",
       "options": [
-        "written language is typically more structured and formal",
-        "written language is always less formal than speech",
-        "written language cannot convey complex ideas",
-        "written language is always temporary"
+        "Writing (or a text)",
+        "A script",
+        "A writing system",
+        "A language"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'By contrast, written language is typically more structured and formal.'",
-        "Incorrect. The article says written language is typically more structured and formal, not less formal than speech.",
-        "Incorrect. The article says written language can lead to more complex sentences, not that it cannot convey complex ideas.",
-        "Incorrect. The article says writing is permanent, not temporary."
+        "Correct. The article states: 'whose physical output is also called writing (or a text).'",
+        "Incorrect. A script is a set of symbols, not the physical output.",
+        "Incorrect. A writing system is the script plus rules, not the physical output.",
+        "Incorrect. A language is what writing represents, not the physical output."
       ]
     },
     {
       "id": 10,
-      "question": "What is reading defined as in the article?",
+      "question": "What do writing systems do?",
       "options": [
-        "the activity of encountering a text and construing its symbols",
-        "the activity of speaking aloud to others",
-        "the activity of drawing symbols on paper",
-        "the activity of memorizing numbers"
+        "Represent language durably so it can be understood later",
+        "Replace spoken language entirely",
+        "Create new languages",
+        "Make reading unnecessary"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Reading is the activity of encountering a text and construing its symbols.'",
-        "Incorrect. Speaking aloud to others is not how the article defines reading.",
-        "Incorrect. Drawing symbols on paper is not how the article defines reading.",
-        "Incorrect. Memorizing numbers is not how the article defines reading."
+        "Correct. The article says: 'writing systems... a durable means of representing language such that it can be understood by people at a later time.'",
+        "Incorrect. Writing systems complement spoken language, not replace it.",
+        "Incorrect. Writing systems represent existing languages, not create new ones.",
+        "Incorrect. Reading is still necessary to understand the text."
       ]
     }
   ]

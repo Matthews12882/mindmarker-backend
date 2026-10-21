@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which city served as both the capital and the largest city of the Soviet Union?",
+      "question": "What was the official name of the Soviet Union?",
       "options": [
-        "Moscow",
-        "St. Petersburg",
-        "Kiev",
-        "Tbilisi"
+        "Union of Soviet Socialist Republics",
+        "Russian Soviet Federative Socialist Republic",
+        "Union of Soviet Republics of Europe and Asia",
+        "Commonwealth of Independent States"
       ],
       "answer_explanations": [
-        "Correct. The article states that Moscow was the capital and largest city of the Soviet Union.",
-        "Incorrect. While St. Petersburg was historically significant, the article identifies Moscow as the capital and largest city.",
-        "Incorrect. Kiev was a major city but not the capital or largest city according to the article.",
-        "Incorrect. Tbilisi was a regional center but not the capital or largest city."
+        "Correct. The article states: \"The **Soviet Union**, officially the **Union of Soviet Socialist Republics** (**USSR**)\".",
+        "Incorrect. This was the name of the largest republic within the Soviet Union, not the official name of the entire country.",
+        "Incorrect. This was a name proposed by Lenin initially, but it was changed to the Union of Soviet Socialist Republics.",
+        "Incorrect. This was a post-Soviet organization formed by some former republics after the dissolution."
       ]
     },
     {
       "id": 2,
-      "question": "What was the primary governing ideology of the Soviet Union?",
+      "question": "When was the Soviet Union formed and when did it dissolve?",
       "options": [
-        "MarxismâLeninism",
-        "Capitalism",
-        "Fascism",
-        "Social Democracy"
+        "Formed in 1922 and dissolved in 1991",
+        "Formed in 1917 and dissolved in 1989",
+        "Formed in 1936 and dissolved in 1991",
+        "Formed in 1922 and dissolved in 1985"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the Soviet Union was governed by the Communist Party under MarxismâLeninism.",
-        "Incorrect. Capitalism is the opposite of the Soviet system described in the article.",
-        "Incorrect. Fascism was not the ideology of the Soviet Union.",
-        "Incorrect. Social democracy was not the governing ideology."
+        "Correct. The article says it spanned Eurasia \"from its formation in 1922 until its dissolution in 1991\".",
+        "Incorrect. 1917 was the year of the October Revolution, but the Soviet Union itself was formed in 1922.",
+        "Incorrect. The Soviet Union was formed in 1922, not 1936.",
+        "Incorrect. The Soviet Union dissolved in 1991, not 1985."
       ]
     },
     {
       "id": 3,
-      "question": "During which year did the Soviet Union officially dissolve?",
+      "question": "Who was the leader that emerged as the undisputed ruler after Lenin's death?",
       "options": [
-        "1991",
-        "1990",
-        "1989",
-        "1992"
+        "Joseph Stalin",
+        "Nikita Khrushchev",
+        "Mikhail Gorbachev",
+        "Leonid Brezhnev"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Soviet Union dissolved in 1991.",
-        "Incorrect. The dissolution occurred in 1991, not 1990.",
-        "Incorrect. The year 1989 saw the fall of many Eastern Bloc regimes, but not the Soviet Union's dissolution.",
-        "Incorrect. The Soviet Union did not dissolve in 1992."
+        "Correct. The article mentions that after Lenin's death in 1924, a power struggle saw Joseph Stalin emerge as the country's undisputed ruler.",
+        "Incorrect. Khrushchev came to power after Stalin's death in 1953.",
+        "Incorrect. Gorbachev became leader in 1985, long after Stalin.",
+        "Incorrect. Brezhnev led the country after Khrushchev."
       ]
     },
     {
       "id": 4,
-      "question": "Which political leader initiated the policies of glasnost and perestroika?",
+      "question": "What was the name of the Soviet forced labour camp system?",
       "options": [
-        "Mikhail Gorbachev",
-        "Leonid Brezhnev",
-        "Nikita Khrushchev",
-        "Joseph Stalin"
+        "The Gulag",
+        "The Great Purge",
+        "The Red Army",
+        "The Warsaw Pact"
       ],
       "answer_explanations": [
-        "Correct. The article notes that Mikhail Gorbachev pursued reforms through glasnost and perestroika in 1985.",
-        "Incorrect. Brezhnev was known for the era of stagnation, not those reforms.",
-        "Incorrect. Khrushchev initiated de-Stalinization, not glasnost and perestroika.",
-        "Incorrect. Stalin's era preceded these reforms by decades."
+        "Correct. The article states: \"The Soviet forced labour camp system, known as the Gulag, was expanded.\"",
+        "Incorrect. The Great Purge was a campaign to eliminate opposition, not a labour camp system.",
+        "Incorrect. The Red Army was the Soviet military.",
+        "Incorrect. The Warsaw Pact was a military alliance of Eastern Bloc states."
       ]
     },
     {
       "id": 5,
-      "question": "What was the name of the Soviet forced labor camp system?",
+      "question": "Which country invaded the Soviet Union in 1941, opening the Eastern Front of World War II?",
       "options": [
-        "Gulag",
-        "KGB",
-        "NKVD",
-        "Soviet Army"
+        "Nazi Germany",
+        "The United States",
+        "Japan",
+        "Italy"
       ],
       "answer_explanations": [
-        "Correct. The article describes the Gulag as the Soviet forced labor camp system.",
-        "Incorrect. The KGB was the secret police, not the labor camp system.",
-        "Incorrect. The NKVD was an earlier agency, but the Gulag was the camp system.",
-        "Incorrect. The Soviet Army was the military, not the labor camp system."
+        "Correct. The article states that in 1941, Germany invaded the Soviet Union in the largest land invasion in history.",
+        "Incorrect. The US was an ally of the Soviet Union during World War II.",
+        "Incorrect. Japan is not mentioned as invading the Soviet Union in 1941.",
+        "Incorrect. Italy was an Axis power but is not mentioned as invading the Soviet Union."
       ]
     },
     {
       "id": 6,
-      "question": "Which event marked the beginning of the Soviet Union's involvement in World War II?",
+      "question": "What was the name of the military alliance formed by the Eastern Bloc in 1955?",
       "options": [
-        "Germany invaded the Soviet Union in 1941",
-        "The signing of the MolotovâRibbentrop Pact in 1939",
-        "The Soviet Union's declaration of war on Germany",
-        "The invasion of Poland by the Soviet Union"
+        "The Warsaw Pact",
+        "NATO",
+        "The Allies",
+        "The Axis powers"
       ],
       "answer_explanations": [
-        "Correct. The article states that Germany invaded the Soviet Union in 1941, opening the Eastern Front.",
-        "Incorrect. While the MolotovâRibbentrop Pact preceded the invasion, the actual involvement in combat began with the German invasion.",
-        "Incorrect. The Soviet Union did not declare war on Germany; the invasion was initiated by Germany.",
-        "Incorrect. The invasion of Poland was a joint action with Germany, but the major WWII involvement began with the 1941 invasion."
+        "Correct. The article states: \"the Eastern Bloc to form the Warsaw Pact in 1955\".",
+        "Incorrect. NATO was the US-led Western Bloc alliance formed in 1949.",
+        "Incorrect. The Allies was the World War II coalition.",
+        "Incorrect. The Axis powers were the enemies in World War II."
       ]
     },
     {
       "id": 7,
-      "question": "Which Soviet leader emerged as the country's undisputed personalist ruler after a six-year power struggle?",
+      "question": "Who initiated the policies of glasnost and perestroika in 1985?",
       "options": [
-        "Joseph Stalin",
-        "Vladimir Lenin",
+        "Mikhail Gorbachev",
+        "Boris Yeltsin",
         "Nikita Khrushchev",
         "Leonid Brezhnev"
       ],
       "answer_explanations": [
-        "Correct. The article describes Joseph Stalin emerging as the undisputed personalist ruler after Lenin's death.",
-        "Incorrect. Lenin led the early years but did not become a personalist ruler in the same sense.",
-        "Incorrect. Khrushchev came later and was not the result of that early power struggle.",
-        "Incorrect. Brezhnev's rise occurred much later."
+        "Correct. The article states: \"In 1985, Mikhail Gorbachev sought reform through his policies of glasnost and perestroika.\"",
+        "Incorrect. Yeltsin was president of the Russian SFSR during the dissolution, not the initiator of these policies.",
+        "Incorrect. Khrushchev led the country in the 1950s and 1960s.",
+        "Incorrect. Brezhnev led during the era of stagnation."
       ]
     },
     {
       "id": 8,
-      "question": "What was the primary economic system of the Soviet Union?",
+      "question": "What does the Russian word 'soviet' mean?",
       "options": [
-        "Centrally planned economy",
-        "Free market economy",
-        "Mixed economy",
-        "Command economy"
+        "Council, assembly, or advice",
+        "Union",
+        "Socialist",
+        "Republic"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Soviet economy was centrally planned.",
-        "Incorrect. The Soviet Union did not have a free market economy.",
-        "Incorrect. While centrally planned, it was not a mixed economy as described.",
-        "Incorrect. Command economy is a synonym but the article specifically uses the term 'centrally planned'."
+        "Correct. The article states: \"the Russian word sovet, meaning 'council', 'assembly', 'advice'\".",
+        "Incorrect. The word for union is different in Russian.",
+        "Incorrect. Socialist is not the meaning of 'soviet'.",
+        "Incorrect. Republic is not the meaning of 'soviet'."
       ]
     },
     {
       "id": 9,
-      "question": "Which treaty or agreement formally ended the Soviet Union?",
+      "question": "Which republic was the largest and most populous in the Soviet Union?",
       "options": [
-        "The Belavezha Accords",
-        "The Treaty on the Creation of the Union of Soviet Socialist Republics",
-        "The New Union Treaty",
-        "The MolotovâRibbentrop Pact"
+        "The Russian Soviet Federative Socialist Republic",
+        "The Ukrainian SSR",
+        "The Belarusian SSR",
+        "The Kazakh SSR"
       ],
       "answer_explanations": [
-        "Correct. The article mentions that the Belavezha Accords prompted Russia, Ukraine, and Belarus to secede, leading to the dissolution.",
-        "Incorrect. That treaty created the Soviet Union in 1922.",
-        "Incorrect. The New Union Treaty was a proposed renewal but failed.",
-        "Incorrect. The MolotovâRibbentrop Pact was a non-aggression pact with Germany."
+        "Correct. The article states: \"the largest and most populous being the Russian Soviet Federative Socialist Republic (SFSR)\".",
+        "Incorrect. Ukraine was a significant republic but not the largest or most populous.",
+        "Incorrect. Belarus was a republic but not the largest or most populous.",
+        "Incorrect. Kazakhstan was large in area but not the most populous."
       ]
     },
     {
       "id": 10,
-      "question": "What was the original name Lenin proposed for the union of Soviet republics?",
+      "question": "What happened on 26 December, when Gorbachev officially recognized the dissolution?",
       "options": [
-        "Union of Soviet Republics of Europe and Asia",
-        "Union of Soviet Socialist Republics",
-        "Soviet Socialist Republic of Russia",
-        "Federation of Soviet Socialist Republics"
+        "The Soviet Union was dissolved",
+        "The Warsaw Pact was formed",
+        "The Cuban Missile Crisis was resolved",
+        "The Great Purge began"
       ],
       "answer_explanations": [
-        "Correct. The article states Lenin initially named it the Union of Soviet Republics of Europe and Asia.",
-        "Incorrect. Stalin later changed the name to the Union of Soviet Socialist Republics.",
-        "Incorrect. That was not the proposed name for the union.",
-        "Incorrect. The proposed name was not this."
+        "Correct. The article states: \"On 26 December, Gorbachev officially recognized the dissolution of the Soviet Union.\"",
+        "Incorrect. The Warsaw Pact was formed in 1955.",
+        "Incorrect. The Cuban Missile Crisis was resolved earlier, in 1962.",
+        "Incorrect. The Great Purge occurred in the late 1930s."
       ]
     }
   ]

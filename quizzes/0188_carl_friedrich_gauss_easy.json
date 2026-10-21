@@ -5,50 +5,50 @@
   "questions": [
     {
       "id": 1,
-      "question": "When was Carl Friedrich Gauss born?",
+      "question": "What was Carl Friedrich Gauss's nationality?",
       "options": [
-        "30 April 1777",
-        "23 February 1855",
-        "30 April 1799",
-        "23 February 1807"
+        "German",
+        "French",
+        "English",
+        "Italian"
       ],
       "answer_explanations": [
-        "Correct. The article states that Gauss was born on 30 April 1777 in Brunswick.",
-        "Incorrect. 23 February 1855 is the date of Gauss's death, not his birth.",
-        "Incorrect. 30 April 1799 is not mentioned as Gauss's birth date in the article.",
-        "Incorrect. 23 February 1807 is not mentioned as Gauss's birth date in the article."
+        "Correct. The article states that Gauss was a 'German polymath'.",
+        "Incorrect. The article identifies Gauss as German, not French.",
+        "Incorrect. The article identifies Gauss as German, not English.",
+        "Incorrect. The article identifies Gauss as German, not Italian."
       ]
     },
     {
       "id": 2,
-      "question": "What was Gauss's profession at the GÃ¶ttingen Observatory?",
+      "question": "In which city was Gauss the director of the observatory?",
       "options": [
-        "director and professor of astronomy",
-        "director of geodesy",
-        "professor of physics",
-        "head of mathematics"
+        "GÃ¶ttingen",
+        "Berlin",
+        "Munich",
+        "Hamburg"
       ],
       "answer_explanations": [
-        "Correct. The article states Gauss was director of the GÃ¶ttingen Observatory and professor of astronomy from 1807 until his death in 1855.",
-        "Incorrect. The article does not describe Gauss as director of geodesy at the observatory.",
-        "Incorrect. The article identifies Gauss as professor of astronomy, not physics, at the observatory.",
-        "Incorrect. The article does not describe Gauss as head of mathematics at the observatory."
+        "Correct. The article says Gauss was 'director of the GÃ¶ttingen Observatory'.",
+        "Incorrect. The article specifies GÃ¶ttingen, not Berlin.",
+        "Incorrect. The article specifies GÃ¶ttingen, not Munich.",
+        "Incorrect. The article specifies GÃ¶ttingen, not Hamburg."
       ]
     },
     {
       "id": 3,
-      "question": "Which symbol did Gauss introduce for congruence?",
+      "question": "What was Gauss known as from an early age?",
       "options": [
-        "the triple bar symbol (â¡)",
-        "the equals sign (=)",
-        "the approximately equal symbol (â)",
-        "the congruent symbol)"
+        "A child prodigy",
+        "A great explorer",
+        "A famous painter",
+        "A skilled musician"
       ],
       "answer_explanations": [
-        "Correct. The article states that Gauss introduced the triple bar symbol (â¡) for congruence.",
-        "Incorrect. The article does not state that Gauss introduced the equals sign for congruence.",
-        "Incorrect. The article does not state that Gauss introduced the approximately equal symbol for congruence.",
-        "Incorrect. The article does not state that Gauss introduced the congruent symbol for congruence."
+        "Correct. The article states 'From an early age, Gauss was known as a child prodigy in mathematics.'",
+        "Incorrect. The article describes him as a child prodigy, not an explorer.",
+        "Incorrect. The article describes him as a child prodigy, not a painter.",
+        "Incorrect. The article describes him as a child prodigy, not a musician."
       ]
     },
     {
@@ -61,106 +61,106 @@
         "18"
       ],
       "answer_explanations": [
-        "Correct. The article states that when Gauss was only 19 years old, he proved the construction of the heptadecagon.",
-        "Incorrect. The article states Gauss was 19, not 20, when he proved the construction of the heptadecagon.",
-        "Incorrect. The article states Gauss was 19, not 21, when he proved the construction of the heptadecagon.",
-        "Incorrect. The article states Gauss was 19, not 18, when he proved the construction of the heptadecagon."
+        "Correct. The article says 'When Gauss was only 19 years old, he proved the construction of the heptadecagon.'",
+        "Incorrect. The article states the age was 19, not 20.",
+        "Incorrect. The article states the age was 19, not 21.",
+        "Incorrect. The article states the age was 19, not 18."
       ]
     },
     {
       "id": 5,
-      "question": "Which distribution did Gauss introduce in probability?",
+      "question": "Which symbol did Gauss introduce for congruence?",
       "options": [
-        "the normal or Gaussian distribution",
-        "the binomial distribution",
-        "the Poisson distribution",
-        "the uniform distribution"
+        "Triple bar (â¡)",
+        "Equals sign (=)",
+        "Approximately (â)",
+        "Less than (<)"
       ],
       "answer_explanations": [
-        "Correct. The article states that Gauss introduced the normal or Gaussian distribution in probability.",
-        "Incorrect. The article does not state that Gauss introduced the binomial distribution.",
-        "Incorrect. The article does not state that Gauss introduced the Poisson distribution.",
-        "Incorrect. The article does not state that Gauss introduced the uniform distribution."
+        "Correct. The article says 'He also introduced the triple bar symbol (â¡) for congruence.'",
+        "Incorrect. The article specifies the triple bar symbol, not the equals sign.",
+        "Incorrect. The article specifies the triple bar symbol, not approximately.",
+        "Incorrect. The article specifies the triple bar symbol, not less than."
       ]
     },
     {
       "id": 6,
-      "question": "Which prize did Gauss receive in 1809?",
+      "question": "Which distribution did Gauss introduce in probability?",
       "options": [
-        "the Lalande Prize",
-        "the Copley Medal",
-        "the Nobel Prize",
-        "the Fields Medal"
+        "Normal or Gaussian distribution",
+        "Binomial distribution",
+        "Poisson distribution",
+        "Uniform distribution"
       ],
       "answer_explanations": [
-        "Correct. The article states Gauss was awarded the Lalande Prize in 1809 for his work on planetary theory and determination of orbits.",
-        "Incorrect. The article states Gauss received the Copley Medal in 1838, not 1809.",
-        "Incorrect. The article does not mention Gauss receiving a Nobel Prize.",
-        "Incorrect. The article does not mention Gauss receiving a Fields Medal."
+        "Correct. The article states 'He introduced the normal or Gaussian distribution in probability.'",
+        "Incorrect. The article mentions the normal/Gaussian distribution, not binomial.",
+        "Incorrect. The article mentions the normal/Gaussian distribution, not Poisson.",
+        "Incorrect. The article mentions the normal/Gaussian distribution, not uniform."
       ]
     },
     {
       "id": 7,
-      "question": "From which university did Gauss graduate as a Doctor of Philosophy in 1799?",
+      "question": "How many mathematical and scientific concepts are named after Gauss?",
       "options": [
-        "the University of Helmstedt",
-        "the University of GÃ¶ttingen",
-        "the University of Brunswick",
-        "the University of St. Petersburg"
+        "More than 100",
+        "Exactly 50",
+        "More than 200",
+        "Exactly 10"
       ],
       "answer_explanations": [
-        "Correct. The article states Gauss graduated as a Doctor of Philosophy in 1799 from the University of Helmstedt, not GÃ¶ttingen.",
-        "Incorrect. The article explicitly states Gauss did not graduate from GÃ¶ttingen in 1799.",
-        "Incorrect. The article does not mention the University of Brunswick as the institution granting Gauss's doctorate.",
-        "Incorrect. The article does not mention the University of St. Petersburg as the institution granting Gauss's doctorate."
+        "Correct. The article says 'more than 100 mathematical and scientific concepts are named after him.'",
+        "Incorrect. The article says more than 100, not exactly 50.",
+        "Incorrect. The article says more than 100, not more than 200.",
+        "Incorrect. The article says more than 100, not exactly 10."
       ]
     },
     {
       "id": 8,
-      "question": "What did Gauss provide the first absolute measurement of in 1832?",
+      "question": "In which year did Gauss die?",
       "options": [
-        "Earth's magnetic field",
-        "the speed of light",
-        "the gravitational constant",
-        "the Earth's circumference"
+        "1855",
+        "1850",
+        "1860",
+        "1845"
       ],
       "answer_explanations": [
-        "Correct. The article states Gauss provided the first absolute measurement of Earth's magnetic field in 1832.",
-        "Incorrect. The article does not state that Gauss measured the speed of light in 1832.",
-        "Incorrect. The article does not state that Gauss measured the gravitational constant in 1832.",
-        "Incorrect. The article does not state that Gauss measured the Earth's circumference in 1832."
+        "Correct. The article gives his death date as '23 February 1855'.",
+        "Incorrect. The article states 1855, not 1850.",
+        "Incorrect. The article states 1855, not 1860.",
+        "Incorrect. The article states 1855, not 1845."
       ]
     },
     {
       "id": 9,
-      "question": "Which invention did Gauss develop with Wilhelm Eduard Weber in 1833?",
+      "question": "Which of these is a masterpiece written by Gauss?",
       "options": [
-        "the first electromagnetic telegraph",
-        "the heliotrope",
-        "the magnetometer",
-        "the telescope"
+        "Disquisitiones Arithmeticae",
+        "Principia Mathematica",
+        "Opticks",
+        "The Origin of Species"
       ],
       "answer_explanations": [
-        "Correct. The article states that Gauss, with Wilhelm Eduard Weber, developed the first electromagnetic telegraph in 1833.",
-        "Incorrect. The article states Gauss invented the heliotrope in 1821, not with Weber in 1833.",
-        "Incorrect. The article states Gauss invented a magnetometer in 1833, but not with Weber.",
-        "Incorrect. The article does not state that Gauss developed the telescope with Weber."
+        "Correct. The article mentions 'Disquisitiones Arithmeticae' as one of his masterpieces.",
+        "Incorrect. The article names Disquisitiones Arithmeticae, not Principia Mathematica.",
+        "Incorrect. The article names Disquisitiones Arithmeticae, not Opticks.",
+        "Incorrect. The article names Disquisitiones Arithmeticae, not The Origin of Species."
       ]
     },
     {
       "id": 10,
-      "question": "How many children did Gauss have?",
+      "question": "What did Gauss prove the construction of at age 19?",
       "options": [
-        "six",
-        "five",
-        "seven",
-        "four"
+        "Heptadecagon",
+        "Triangle",
+        "Square",
+        "Pentagon"
       ],
       "answer_explanations": [
-        "Correct. The article states that Gauss married twice and had six children.",
-        "Incorrect. The article states Gauss had six children, not five.",
-        "Incorrect. The article states Gauss had six children, not seven.",
-        "Incorrect. The article states Gauss had six children, not four."
+        "Correct. The article says he proved the construction of the heptadecagon.",
+        "Incorrect. The article specifies the heptadecagon, not a triangle.",
+        "Incorrect. The article specifies the heptadecagon, not a square.",
+        "Incorrect. The article specifies the heptadecagon, not a pentagon."
       ]
     }
   ]

@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "What does the term 'Buddha' literally mean?",
+      "question": "What is the most common name for Siddhartha Gautama?",
       "options": [
-        "the awakened one",
-        "the enlightened teacher",
-        "the wandering ascetic",
-        "the royal sage"
+        "The Buddha",
+        "The TathÄgata",
+        "The Enlightened One",
+        "The Awakened One"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'Buddha' is lit. 'the awakened one'.",
-        "Incorrect. The article does not define 'Buddha' as 'the enlightened teacher'.",
-        "Incorrect. The article describes the Buddha as a wandering religious teacher, but that is not the literal meaning of 'Buddha'.",
-        "Incorrect. The article mentions royal parents but does not call 'Buddha' 'the royal sage'."
+        "Correct. The article states: 'Siddhartha Gautama, most commonly referred to as the Buddha'.",
+        "Incorrect. The article mentions 'TathÄgata' as a self-reference in the Nikayas, but it is not the most common name.",
+        "Incorrect. 'Enlightened One' is a translation of the title 'Buddha', but the article says the most common name is 'the Buddha'.",
+        "Incorrect. 'Awakened One' is a translation of 'Buddha', but the article says the most common name is 'the Buddha'."
       ]
     },
     {
       "id": 2,
-      "question": "In which region did Siddhartha Gautama live?",
+      "question": "In which region did the Buddha live?",
       "options": [
-        "the eastern Indo-Gangetic Plains",
-        "the western Mediterranean coast",
-        "the southern Arabian Peninsula",
-        "the northern Chinese Plain"
+        "The eastern Indo-Gangetic Plains",
+        "The western Indo-Gangetic Plains",
+        "The Himalayan foothills",
+        "The Deccan Plateau"
       ],
       "answer_explanations": [
-        "Correct. The article says he lived in the eastern Indo-Gangetic Plains during the 6th or 5th century BCE.",
-        "Incorrect. The article does not mention the western Mediterranean coast.",
-        "Incorrect. The article does not mention the southern Arabian Peninsula.",
-        "Incorrect. The article does not mention the northern Chinese Plain."
+        "Correct. The article says he lived 'in the eastern Indo-Gangetic Plains'.",
+        "Incorrect. The article specifies 'eastern', not 'western'.",
+        "Incorrect. The article does not mention the Himalayan foothills as his region.",
+        "Incorrect. The article does not mention the Deccan Plateau."
       ]
     },
     {
       "id": 3,
-      "question": "Where was the Buddha born according to Buddhist legends?",
+      "question": "In which century did the Buddha live?",
       "options": [
-        "Lumbini",
-        "Bodh Gaya",
-        "Kushinagar",
-        "Varanasi"
+        "The 6th or 5th century BCE",
+        "The 4th or 3rd century BCE",
+        "The 1st century CE",
+        "The 5th or 6th century CE"
       ],
       "answer_explanations": [
-        "Correct. The article states that according to Buddhist legends, he was born in Lumbini, in what is now Nepal.",
-        "Incorrect. Bodh Gaya is where he attained nirvana, not where he was born.",
-        "Incorrect. Kushinagar is where he died, not where he was born.",
-        "Incorrect. The article does not mention Varanasi as his birthplace."
+        "Correct. The article states he lived 'during the 6th or 5th century BCE'.",
+        "Incorrect. The article gives the 6th or 5th century BCE, not the 4th or 3rd.",
+        "Incorrect. The article places him in the BCE era, not CE.",
+        "Incorrect. The article places him in the BCE era, not CE."
       ]
     },
     {
       "id": 4,
+      "question": "According to Buddhist legends, where was the Buddha born?",
+      "options": [
+        "Lumbini",
+        "Bodh Gaya",
+        "Kushinagar",
+        "Bihar"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'he was born in Lumbini'.",
+        "Incorrect. Bodh Gaya is where he attained nirvana, not where he was born.",
+        "Incorrect. Kushinagar is where he died, not where he was born.",
+        "Incorrect. Bihar is a modern region, not his birthplace according to the article."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "To which clan did the Buddha's royal parents belong?",
+      "options": [
+        "Shakya",
+        "Malla",
+        "Licchavi",
+        "Kosala"
+      ],
+      "answer_explanations": [
+        "Correct. The article says 'royal parents of the Shakya clan'.",
+        "Incorrect. The article does not mention the Malla clan.",
+        "Incorrect. The article does not mention the Licchavi clan.",
+        "Incorrect. The article does not mention the Kosala clan."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "After renouncing his home life, what kind of life did the Buddha live?",
+      "options": [
+        "A wandering ascetic",
+        "A royal prince",
+        "A merchant",
+        "A farmer"
+      ],
+      "answer_explanations": [
+        "Correct. The article says he 'renounced his home life to live as a wandering ascetic'.",
+        "Incorrect. He renounced his royal life, so he was not a royal prince.",
+        "Incorrect. The article does not mention him being a merchant.",
+        "Incorrect. The article does not mention him being a farmer."
+      ]
+    },
+    {
+      "id": 7,
       "question": "Where did the Buddha attain nirvana?",
       "options": [
         "Bodh Gaya",
         "Lumbini",
         "Kushinagar",
-        "Shakya"
+        "Sarnath"
       ],
       "answer_explanations": [
-        "Correct. The article states he attained nirvana at Bodh Gaya in what is now Bihar, India.",
+        "Correct. The article says 'he attained nirvana at Bodh Gaya'.",
         "Incorrect. Lumbini is his birthplace, not where he attained nirvana.",
         "Incorrect. Kushinagar is where he died, not where he attained nirvana.",
-        "Incorrect. Shakya is the name of his clan, not a place where he attained nirvana."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What did the Buddha build while wandering and teaching?",
-      "options": [
-        "a monastic order (sangha)",
-        "a royal palace",
-        "a written canon",
-        "a university"
-      ],
-      "answer_explanations": [
-        "Correct. The article states he wandered through the lower Indo-Gangetic Plain, teaching and building a monastic order (sangha).",
-        "Incorrect. The article does not mention him building a royal palace.",
-        "Incorrect. The article says his teachings were compiled later by the Buddhist community, not that he built a written canon himself.",
-        "Incorrect. The article does not mention him building a university."
-      ]
-    },
-    {
-      "id": 6,
-      "question": "What did the Buddha teach a Middle Way between?",
-      "options": [
-        "sensual indulgence and severe asceticism",
-        "wealth and poverty",
-        "speech and silence",
-        "meditation and study"
-      ],
-      "answer_explanations": [
-        "Correct. The article states the Buddha taught a Middle Way between sensual indulgence and severe asceticism.",
-        "Incorrect. The article does not describe the Middle Way as between wealth and poverty.",
-        "Incorrect. The article does not describe the Middle Way as between speech and silence.",
-        "Incorrect. The article does not describe the Middle Way as between meditation and study."
-      ]
-    },
-    {
-      "id": 7,
-      "question": "What are the Buddha's core teachings summarised in?",
-      "options": [
-        "the Four Noble Truths and the Noble Eightfold Path",
-        "the five skandhas and dependent origination",
-        "the Vinaya and the SÅ«tra Piá¹­aka",
-        "the Jataka tales and MahÄyÄna sÅ«tras"
-      ],
-      "answer_explanations": [
-        "Correct. The article states his core teachings are summarised in the Four Noble Truths and the Noble Eightfold Path.",
-        "Incorrect. The five skandhas and dependent origination are described as key elements, not the summary of core teachings.",
-        "Incorrect. The Vinaya and SÅ«tra Piá¹­aka are collections into which his teachings were compiled, not the summary itself.",
-        "Incorrect. The Jataka tales and MahÄyÄna sÅ«tras are additional texts composed by later generations."
+        "Incorrect. Sarnath is not mentioned in the article."
       ]
     },
     {
       "id": 8,
-      "question": "Which title did the Buddha frequently use to refer to himself in the Nikayas?",
+      "question": "What did the Buddha build while wandering and teaching?",
       "options": [
-        "TathÄgata",
-        "Bhagavan",
-        "Jina",
-        "Sugata"
+        "A monastic order",
+        "A kingdom",
+        "A temple",
+        "A university"
       ],
       "answer_explanations": [
-        "Correct. The article states that while in the Nikayas, he frequently refers to himself as the TathÄgata.",
-        "Incorrect. Bhagavan is listed as one of his epithets, but not the one he frequently used to refer to himself in the Nikayas.",
-        "Incorrect. Jina is listed as an alternative title, not the one he frequently used in the Nikayas.",
-        "Incorrect. Sugata is listed as an epithet, not the one he frequently used to refer to himself in the Nikayas."
+        "Correct. The article says he 'taught and building a monastic order (sangha)'.",
+        "Incorrect. He did not build a kingdom; he renounced royal life.",
+        "Incorrect. The article does not mention building a temple.",
+        "Incorrect. The article does not mention building a university."
       ]
     },
     {
       "id": 9,
-      "question": "When is the earliest attestation of the title Buddha from?",
+      "question": "Where did Buddhist tradition hold that the Buddha died?",
       "options": [
-        "the 3rd century BCE",
-        "the 6th century BCE",
-        "the 5th century BCE",
-        "the 8th century CE"
+        "Kushinagar",
+        "Bodh Gaya",
+        "Lumbini",
+        "Bihar"
       ],
       "answer_explanations": [
-        "Correct. The article states the earliest attestation of the title Buddha is from the 3rd century BCE.",
-        "Incorrect. The 6th century BCE is when the Buddha lived, not when the title was first attested.",
-        "Incorrect. The 5th century BCE is when the Buddha lived, not when the title was first attested.",
-        "Incorrect. The 8th century CE is when Buddhism largely disappeared in India, not when the title Buddha was first attested."
+        "Correct. The article says 'Buddhist tradition holds he died in Kushinagar'.",
+        "Incorrect. Bodh Gaya is where he attained nirvana, not where he died.",
+        "Incorrect. Lumbini is his birthplace, not his death place.",
+        "Incorrect. Bihar is a modern region, not his death place according to the article."
       ]
     },
     {
       "id": 10,
-      "question": "What does ÅÄkyamuni mean?",
+      "question": "What did the Buddha reach at his death, according to Buddhist tradition?",
       "options": [
-        "Sage of the Shakyas",
-        "Awakened One",
-        "Blessed One",
-        "Conqueror"
+        "Parinirvana",
+        "Nirvana",
+        "Enlightenment",
+        "Awakening"
       ],
       "answer_explanations": [
-        "Correct. The article states that ÅÄkyamuni means 'Sage of the Shakyas'.",
-        "Incorrect. 'Awakened One' is the meaning of Buddha, not ÅÄkyamuni.",
-        "Incorrect. 'Blessed One' is the meaning of Bhagavan, not ÅÄkyamuni.",
-        "Incorrect. 'Conqueror' is the meaning of Jina, not ÅÄkyamuni."
+        "Correct. The article says he 'reached parinirvana' at death.",
+        "Incorrect. Nirvana was attained earlier at Bodh Gaya, not at death.",
+        "Incorrect. Enlightenment is a general term, but the article specifically says parinirvana.",
+        "Incorrect. Awakening is a general term, but the article specifically says parinirvana."
       ]
     }
   ]

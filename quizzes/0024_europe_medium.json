@@ -5,23 +5,23 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which bodies of water border Europe to the north, west, and south respectively?",
+      "question": "Which ocean borders Europe to the north?",
       "options": [
-        "Arctic Ocean to the north, Atlantic Ocean to the west, Mediterranean Sea to the south",
-        "Atlantic Ocean to the north, Arctic Ocean to the west, Mediterranean Sea to the south",
-        "Mediterranean Sea to the north, Atlantic Ocean to the west, Arctic Ocean to the south",
-        "Arctic Ocean to the north, Mediterranean Sea to the west, Atlantic Ocean to the south"
+        "Arctic Ocean",
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "Indian Ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states Europe is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south.",
-        "Incorrect. The Atlantic Ocean borders Europe to the west, not the north.",
-        "Incorrect. The Mediterranean Sea borders Europe to the south, not the north.",
-        "Incorrect. The Mediterranean Sea borders Europe to the south, not the west."
+        "Correct. The article states, 'It is bordered by the Arctic Ocean to the north.'",
+        "Incorrect. The Atlantic Ocean is to the west, not the north.",
+        "Incorrect. The Mediterranean Sea is to the south.",
+        "Incorrect. The Indian Ocean is not listed as a border of Europe."
       ]
     },
     {
       "id": 2,
-      "question": "What percentage of Earth's land area does Europe cover?",
+      "question": "Approximately how much of Earth's land area does Europe cover?",
       "options": [
         "6.8%",
         "2%",
@@ -29,15 +29,15 @@
         "15%"
       ],
       "answer_explanations": [
-        "Correct. The article states Europe covers 2% of Earth's surface, which is 6.8% of Earth's land area.",
-        "Incorrect. 2% refers to Earth's surface, not Earth's land area.",
-        "Incorrect. 10% refers to Europe's share of world population, not land area.",
-        "Incorrect. 15% refers to Russia's share of Europe's population, not Europe's land area."
+        "Correct. The article says Europe covers '6.8% of Earth's land area'.",
+        "Incorrect. 2% is the percentage of Earth's total surface, not land area.",
+        "Incorrect. 10% is the approximate percentage of the world population living in Europe.",
+        "Incorrect. 15% is the percentage of Europe's population that lives in Russia."
       ]
     },
     {
       "id": 3,
-      "question": "Which country is both the largest and most populous in Europe?",
+      "question": "Which country is the largest and most populous in Europe?",
       "options": [
         "Russia",
         "Germany",
@@ -45,31 +45,15 @@
         "United Kingdom"
       ],
       "answer_explanations": [
-        "Correct. The article states Russia is the largest and most populous country in Europe.",
-        "Incorrect. Germany is not identified in the article as the largest or most populous country.",
-        "Incorrect. France is not identified in the article as the largest or most populous country.",
-        "Incorrect. The United Kingdom is not identified in the article as the largest or most populous country."
+        "Correct. The article states that Russia is 'the largest and most populous' country in Europe.",
+        "Incorrect. Germany is not described as the largest or most populous.",
+        "Incorrect. France is not described as the largest or most populous.",
+        "Incorrect. The United Kingdom is not described as the largest or most populous."
       ]
     },
     {
       "id": 4,
-      "question": "What was Europe's total population in 2021?",
-      "options": [
-        "about 745 million",
-        "about 10 million",
-        "about 1 billion",
-        "about 39 million"
-      ],
-      "answer_explanations": [
-        "Correct. The article states Europe had a total population of about 745 million in 2021.",
-        "Incorrect. 10 million is not mentioned as Europe's population figure.",
-        "Incorrect. 1 billion is not mentioned as Europe's population figure.",
-        "Incorrect. 39% refers to Russia's share of the continent's area, not Europe's population."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "Which warm Atlantic current produces a temperate climate on much of Europe?",
+      "question": "What is the name of the warm Atlantic current that affects Europe's climate?",
       "options": [
         "Gulf Stream",
         "North Atlantic Drift",
@@ -77,90 +61,106 @@
         "Labrador Current"
       ],
       "answer_explanations": [
-        "Correct. The article states warm Atlantic currents such as the Gulf Stream produce a temperate climate on much of the continent.",
+        "Correct. The article mentions 'warm Atlantic currents, such as the Gulf Stream'.",
         "Incorrect. The North Atlantic Drift is not mentioned in the article.",
         "Incorrect. The Canary Current is not mentioned in the article.",
         "Incorrect. The Labrador Current is not mentioned in the article."
       ]
     },
     {
-      "id": 6,
-      "question": "In which year did the fall of the Western Roman Empire mark the beginning of the European post-classical Middle Ages?",
+      "id": 5,
+      "question": "Which ancient civilisations are commonly referenced as roots of European culture?",
       "options": [
-        "476 CE",
-        "476 BCE",
-        "1476 CE",
-        "1066 CE"
+        "Ancient Greece and ancient Rome",
+        "Ancient Egypt and Mesopotamia",
+        "The Roman Empire and the Byzantine Empire",
+        "The Celts and the Vikings"
       ],
       "answer_explanations": [
-        "Correct. The article states the fall of the Western Roman Empire in 476 CE marked the European post-classical Middle Ages.",
-        "Incorrect. The article specifies 476 CE, not BCE.",
-        "Incorrect. The article specifies 476 CE, not 1476 CE.",
-        "Incorrect. 1066 CE is not mentioned in the article."
+        "Correct. The article says European culture 'together commonly reference ancient Greece and ancient Rome'.",
+        "Incorrect. Ancient Egypt and Mesopotamia are not mentioned as roots of European culture.",
+        "Incorrect. The Byzantine Empire is not mentioned as a root of European culture.",
+        "Incorrect. The Celts and Vikings are not mentioned as the central roots."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which two countries led the Age of Discovery?",
+      "options": [
+        "Spain and Portugal",
+        "Great Britain and France",
+        "Italy and Germany",
+        "Netherlands and Belgium"
+      ],
+      "answer_explanations": [
+        "Correct. The article states the Age of Discovery was 'led by Spain and Portugal'.",
+        "Incorrect. Great Britain and France are not mentioned as leaders of the Age of Discovery.",
+        "Incorrect. Italy and Germany are not mentioned as leaders of the Age of Discovery.",
+        "Incorrect. The Netherlands and Belgium are not mentioned as leaders of the Age of Discovery."
       ]
     },
     {
       "id": 7,
-      "question": "Which two European powers led the Age of Discovery?",
+      "question": "Where did the Industrial Revolution begin?",
       "options": [
-        "Spain and Portugal",
-        "France and England",
-        "Italy and Germany",
-        "Russia and Austria"
+        "Great Britain",
+        "France",
+        "Germany",
+        "Italy"
       ],
       "answer_explanations": [
-        "Correct. The article states the Age of Discovery was led by Spain and Portugal.",
-        "Incorrect. France and England are not identified in the article as leaders of the Age of Discovery.",
-        "Incorrect. Italy and Germany are not identified in the article as leaders of the Age of Discovery.",
-        "Incorrect. Russia and Austria are not identified in the article as leaders of the Age of Discovery."
+        "Correct. The article says the Industrial Revolution 'began in Great Britain'.",
+        "Incorrect. France is not mentioned as the starting point.",
+        "Incorrect. Germany is not mentioned as the starting point.",
+        "Incorrect. Italy is not mentioned as the starting point."
       ]
     },
     {
       "id": 8,
-      "question": "Which two superpowers competed over geopolitical dominance in Europe and globally after the mid-20th century?",
+      "question": "What divided Europe during the Cold War?",
       "options": [
-        "Soviet Union and United States",
-        "United Kingdom and France",
-        "Germany and Italy",
-        "China and Japan"
+        "The Iron Curtain",
+        "The Berlin Wall",
+        "The Ural Mountains",
+        "The Mediterranean Sea"
       ],
       "answer_explanations": [
-        "Correct. The article states the Soviet Union and the United States took prominence and competed over geopolitical dominance in Europe and globally.",
-        "Incorrect. The United Kingdom and France are not identified in the article as competing superpowers after the mid-20th century.",
-        "Incorrect. Germany and Italy are not identified in the article as competing superpowers after the mid-20th century.",
-        "Incorrect. China and Japan are not identified in the article as competing superpowers after the mid-20th century."
+        "Correct. The article states the Cold War 'divided Europe along the Iron Curtain'.",
+        "Incorrect. The Berlin Wall was part of the Iron Curtain, but the article specifically names the Iron Curtain as the dividing line.",
+        "Incorrect. The Ural Mountains are a geographical boundary, not a Cold War division.",
+        "Incorrect. The Mediterranean Sea is a southern border, not a Cold War division."
       ]
     },
     {
       "id": 9,
-      "question": "What is the European Union described as in terms of political structure?",
+      "question": "What is the European Union described as?",
       "options": [
-        "a supranational political entity between a confederation and a federation",
-        "a purely intergovernmental organization",
-        "a unitary sovereign state",
-        "a loose alliance without treaties"
+        "A supranational political entity",
+        "A federation",
+        "A confederation",
+        "A military alliance"
       ],
       "answer_explanations": [
-        "Correct. The article describes the EU as a supranational political entity that lies between a confederation and a federation.",
-        "Incorrect. The article does not describe the EU as purely intergovernmental.",
-        "Incorrect. The article does not describe the EU as a unitary sovereign state.",
-        "Incorrect. The article states the EU is based on a system of European treaties, not a loose alliance without treaties."
+        "Correct. The article describes the EU as 'a supranational political entity'.",
+        "Incorrect. The article says it lies between a confederation and a federation, but is not exactly either.",
+        "Incorrect. The article says it lies between a confederation and a federation, but is not exactly either.",
+        "Incorrect. The article does not describe the EU as a military alliance."
       ]
     },
     {
       "id": 10,
-      "question": "How often do regular popular elections to the European Parliament take place?",
+      "question": "According to the article, what does the name 'Europa' mean in one interpretation from Ancient Greek?",
       "options": [
-        "every five years",
-        "every two years",
-        "every four years",
-        "every ten years"
+        "Wide-gazing or broad of aspect",
+        "Land of the Franks",
+        "Evening or west",
+        "The one from Europe"
       ],
       "answer_explanations": [
-        "Correct. The article states regular popular elections take place every five years within the EU.",
-        "Incorrect. The article specifies every five years, not every two years.",
-        "Incorrect. The article specifies every five years, not every four years.",
-        "Incorrect. The article specifies every five years, not every ten years."
+        "Correct. The article says the composite 'Eurá¹pÄ' would mean 'wide-gazing' or 'broad of aspect'.",
+        "Incorrect. 'Land of the Franks' is the meaning of 'Frangistan', not 'Europa'.",
+        "Incorrect. 'Evening, west' is a proposed Semitic connection, not the Ancient Greek interpretation.",
+        "Incorrect. This is not a meaning given in the article."
       ]
     }
   ]

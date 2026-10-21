@@ -5,162 +5,162 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which school of philosophy did Aristotle found at the Lyceum in Athens?",
+      "question": "Where was Aristotle born?",
       "options": [
-        "The Peripatetic school",
-        "The Academy",
-        "The Stoic school",
-        "The Epicurean school"
+        "Stagira",
+        "Athens",
+        "Chalcis",
+        "Pella"
       ],
       "answer_explanations": [
-        "Correct. The article states that Aristotle founded the Peripatetic school of philosophy in the Lyceum in Athens.",
-        "Incorrect. Plato founded the Academy, not Aristotle.",
-        "Incorrect. The Stoic school is not mentioned in the article as being founded by Aristotle.",
-        "Incorrect. The Epicurean school is not mentioned in the article as being founded by Aristotle."
+        "Correct. The article states that Aristotle was born in the city of Stagira in Chalkidiki.",
+        "Incorrect. Athens is where he studied at Plato's Academy and later founded his own school, but he was not born there.",
+        "Incorrect. Chalcis is where he fled to at the end of his life and where he died, but he was not born there.",
+        "Incorrect. Pella was the Macedonian capital where he later tutored Alexander, but he was not born there."
       ]
     },
     {
       "id": 2,
-      "question": "What nickname did Plato give Aristotle at the Academy?",
+      "question": "At what age did Aristotle join Plato's Academy?",
       "options": [
-        "\"mind of the school\"",
-        "\"The First Teacher\"",
-        "\"The Philosopher\"",
-        "\"father of logic\""
+        "Around eighteen",
+        "Around twenty-five",
+        "Around thirty-seven",
+        "Around sixteen"
       ],
       "answer_explanations": [
-        "Correct. The article says Plato gave Aristotle the nickname \"mind of the school.\"",
-        "Incorrect. \"The First Teacher\" was a title used by medieval Muslim scholars, not Plato's nickname for Aristotle.",
-        "Incorrect. \"The Philosopher\" was a title used by medieval Christians like Thomas Aquinas, not Plato's nickname.",
-        "Incorrect. The article does not state that Plato called Aristotle \"father of logic.\""
+        "Correct. The article says he joined Plato's Academy at around eighteen years old.",
+        "Incorrect. The article does not mention this age for joining the Academy.",
+        "Incorrect. Thirty-seven is the age at which he left the Academy, not when he joined.",
+        "Incorrect. The article says he was around eighteen, not sixteen."
       ]
     },
     {
       "id": 3,
-      "question": "Who invited Aristotle to tutor Alexander the Great?",
+      "question": "Who did Aristotle tutor at the request of Philip II of Macedon?",
       "options": [
-        "Philip II of Macedon",
-        "Plato",
         "Alexander the Great",
+        "Plato",
+        "Theophrastus",
         "Antipater"
       ],
       "answer_explanations": [
-        "Correct. The article states that Aristotle tutored Alexander at the request of Philip II of Macedon.",
-        "Incorrect. Plato was Aristotle's teacher at the Academy, not the one who invited him to tutor Alexander.",
-        "Incorrect. Alexander was the student being tutored, not the one who invited Aristotle.",
-        "Incorrect. Antipater was named Aristotle's chief executor, not the one who invited him to tutor Alexander."
+        "Correct. The article states that at the request of Philip II of Macedon, Aristotle tutored his son Alexander the Great.",
+        "Incorrect. Plato was Aristotle's own tutor, not someone Aristotle tutored.",
+        "Incorrect. Theophrastus was a colleague and successor, not a student of this kind.",
+        "Incorrect. Antipater was named as executor in Aristotle's will, not a student he tutored."
       ]
     },
     {
       "id": 4,
-      "question": "Why could Aristotle not own property in Athens?",
+      "question": "What was the name of the school that Aristotle founded in Athens?",
       "options": [
-        "He was a metic",
-        "He was too poor",
-        "He was not a Greek citizen",
-        "He preferred renting"
+        "The Lyceum",
+        "The Academy",
+        "The Stoa",
+        "The Museum"
       ],
       "answer_explanations": [
-        "Correct. The article explains that as a metic, Aristotle could not own property in Athens and thus rented the Lyceum.",
-        "Incorrect. The article does not mention Aristotle's wealth as a reason he could not own property.",
-        "Incorrect. While related to metic status, the article specifically identifies him as a metic rather than using the broader phrase.",
-        "Incorrect. The article states he rented because he could not own property, not out of preference."
+        "Correct. The article says he established his own school in a building known as the Lyceum.",
+        "Incorrect. The Academy was Plato's school, not Aristotle's.",
+        "Incorrect. The Stoa is not mentioned as a school founded by Aristotle.",
+        "Incorrect. The Museum is not mentioned as a school in this context."
       ]
     },
     {
       "id": 5,
-      "question": "What did Aristotle say when fleeing Athens after being denounced for impiety?",
+      "question": "Which of these works is listed as one of Aristotle's most important treatises?",
       "options": [
-        "\"I will not allow the Athenians to sin twice against philosophy\"",
-        "\"to experience is to learn\"",
-        "\"a leader to the Greeks and a despot to the barbarians\"",
-        "He remained silent"
+        "Nicomachean Ethics",
+        "The Republic",
+        "The Iliad",
+        "Organon"
       ],
       "answer_explanations": [
-        "Correct. The article records that Aristotle said this when fleeing to Chalcis, referencing the trial and execution of Socrates.",
-        "Incorrect. \"to experience is to learn\" is a phrase Aristotle wrote when describing the Eleusinian Mysteries, not when fleeing Athens.",
-        "Incorrect. This phrase was advice Aristotle gave to Alexander regarding Persia, not a statement made when fleeing Athens.",
-        "Incorrect. The article provides a specific statement Aristotle made upon fleeing."
+        "Correct. The article lists Nicomachean Ethics among his most important treatises.",
+        "Incorrect. The Republic is a work by Plato, not Aristotle.",
+        "Incorrect. The Iliad is a poem by Homer, which Aristotle gifted to Alexander, but it is not his own treatise.",
+        "Incorrect. Organon is the name given to the collection of his logical works, but it is not listed as one of his most important treatises in that specific list."
       ]
     },
     {
       "id": 6,
-      "question": "Which of the following is listed among Aristotle's most important treatises?",
+      "question": "Why did Aristotle have to rent the Lyceum?",
       "options": [
-        "Nicomachean Ethics",
-        "The Republic",
-        "Meditations",
-        "The City of God"
+        "He was a metic and could not own property in Athens",
+        "He wanted to be close to the gymnasium",
+        "He preferred renting to owning",
+        "He was forced to by the Macedonian king"
       ],
       "answer_explanations": [
-        "Correct. The article lists Nicomachean Ethics among Aristotle's most important treatises.",
-        "Incorrect. The Republic is not mentioned in the article as one of Aristotle's treatises.",
-        "Incorrect. Meditations is not mentioned in the article as one of Aristotle's treatises.",
-        "Incorrect. The City of God is not mentioned in the article as one of Aristotle's treatises."
+        "Correct. The article states that as a metic, Aristotle could not own property in Athens and thus rented the Lyceum.",
+        "Incorrect. While the Lyceum had a gymnasium, that is not the reason he rented it.",
+        "Incorrect. The article does not say he preferred renting; it says he could not own property.",
+        "Incorrect. There is no mention that the Macedonian king forced him to rent."
       ]
     },
     {
       "id": 7,
-      "question": "To whom did Aristotle leave his works upon his death?",
+      "question": "What did Aristotle reportedly say when he fled Athens near the end of his life?",
       "options": [
-        "Theophrastus",
-        "Alexander the Great",
-        "Plato",
-        "Antipater"
+        "I will not allow the Athenians to sin twice against philosophy",
+        "The unexamined life is not worth living",
+        "I know that I know nothing",
+        "Give me a lever long enough and I will move the world"
       ],
       "answer_explanations": [
-        "Correct. The article states that Aristotle left his works to Theophrastus, his successor as head of the Lyceum.",
-        "Incorrect. Alexander the Great was Aristotle's former student, but the article does not say Aristotle left his works to him.",
-        "Incorrect. Plato was Aristotle's teacher and died before Aristotle.",
-        "Incorrect. Antipater was named Aristotle's chief executor, but the works were left to Theophrastus."
+        "Correct. The article quotes him as saying 'I will not allow the Athenians to sin twice against philosophy'.",
+        "Incorrect. This is a famous saying of Socrates, not Aristotle.",
+        "Incorrect. This is a saying attributed to Socrates, not Aristotle.",
+        "Incorrect. This is a saying attributed to Archimedes, not Aristotle."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about the survival of Aristotle's original written output?",
+      "question": "According to the article, what did Aristotle's father Nicomachus do?",
       "options": [
-        "Only around a third has survived",
-        "Almost all of it has survived",
-        "None of it has survived",
-        "Exactly half has survived"
+        "He was the personal physician of King Amyntas of Macedon",
+        "He was a philosopher at Plato's Academy",
+        "He was a general in the Macedonian army",
+        "He was a merchant from Stagira"
       ],
       "answer_explanations": [
-        "Correct. The article states that only around a third of Aristotle's original output has survived.",
-        "Incorrect. The article says only around a third survived, not almost all.",
-        "Incorrect. The article says around a third survived, not none.",
-        "Incorrect. The article specifies around a third, not exactly half."
+        "Correct. The article says Nicomachus was the personal physician of King Amyntas of Macedon.",
+        "Incorrect. There is no mention of Nicomachus being a philosopher at the Academy.",
+        "Incorrect. The article does not say he was a general.",
+        "Incorrect. The article does not describe him as a merchant."
       ]
     },
     {
       "id": 9,
-      "question": "What title was Aristotle given by medieval Christian scholars such as Thomas Aquinas?",
+      "question": "What did Aristotle do while he was at Assos with Theophrastus?",
       "options": [
-        "\"The Philosopher\"",
-        "\"The First Teacher\"",
-        "\"The Scientist\"",
-        "\"The Logician\""
+        "He did extensive research in botany and marine biology",
+        "He wrote the Nicomachean Ethics",
+        "He tutored Alexander the Great",
+        "He founded the Lyceum"
       ],
       "answer_explanations": [
-        "Correct. The article says medieval Christians like Thomas Aquinas revered Aristotle as simply \"The Philosopher.\"",
-        "Incorrect. \"The First Teacher\" was the title used by medieval Muslim scholars, not medieval Christians like Aquinas.",
-        "Incorrect. The article says Aristotle has been described as the first scientist, but this is not the title given by Aquinas.",
-        "Incorrect. The article does not mention \"The Logician\" as a title given to Aristotle."
+        "Correct. The article says that while at Assos, Aristotle and Theophrastus did extensive research in botany and marine biology.",
+        "Incorrect. The Nicomachean Ethics is believed to have been composed later, during his second period in Athens.",
+        "Incorrect. He tutored Alexander later, after leaving Assos.",
+        "Incorrect. He founded the Lyceum later, after returning to Athens."
       ]
     },
     {
       "id": 10,
-      "question": "Where did Aristotle conduct research in botany and marine biology with Theophrastus?",
+      "question": "What happened to most of Aristotle's original writings?",
       "options": [
-        "Assos and Lesbos",
-        "Athens and Sparta",
-        "Macedonia and Persia",
-        "Chalcis and Stagira"
+        "Only around a third has survived",
+        "They were all destroyed in a fire",
+        "They were lost in a shipwreck",
+        "They were hidden and never found"
       ],
       "answer_explanations": [
-        "Correct. The article states that Aristotle and Theophrastus did extensive research in botany and marine biology at Assos and later continued it on the nearby island of Lesbos.",
-        "Incorrect. The article does not identify Athens and Sparta as the locations for this research.",
-        "Incorrect. The article does not identify Macedonia and Persia as the locations for this research.",
-        "Incorrect. The article does not identify Chalcis and Stagira as the locations for this research."
+        "Correct. The article states that only around a third of his original output has survived.",
+        "Incorrect. The article does not mention a fire destroying his writings.",
+        "Incorrect. The article does not mention a shipwreck.",
+        "Incorrect. Although some papers were hidden for protection, many copies circulated, and the article says a third survived, not that they were never found."
       ]
     }
   ]

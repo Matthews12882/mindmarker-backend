@@ -5,39 +5,55 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which kingdoms did Hammurabi conquer during his reign?",
+      "question": "Who was Hammurabi?",
       "options": [
-        "Larsa, Eshnunna, and Mari",
-        "Assyria, Elam, and Ur",
-        "Egypt, Hatti, and Mitanni",
-        "Yamhad, Aleppo, and Syria"
+        "The sixth Amorite king of Babylon",
+        "The first king of Larsa",
+        "A Babylonian god of justice",
+        "A famous archaeologist"
       ],
       "answer_explanations": [
-        "Correct. The article states that during his reign, Hammurabi conquered the powerful kingdoms of Larsa, Eshnunna, and Mari.",
-        "Incorrect. Assyria, Elam, and Ur are not mentioned as kingdoms conquered by Hammurabi in the article.",
-        "Incorrect. Egypt, Hatti, and Mitanni are not listed among Hammurabi's conquests in the article.",
-        "Incorrect. Yamhad and Aleppo are mentioned in connection with another king named Hammurabi I, not as conquests of Hammurabi of Babylon."
+        "Correct. The article states that Hammurabi was 'the sixth Amorite king of Babylon'.",
+        "Incorrect. The article does not mention him as a king of Larsa; he conquered Larsa.",
+        "Incorrect. Shamash is the Babylonian god of justice, not Hammurabi.",
+        "Incorrect. Hammurabi was rediscovered by archaeologists, but he was not an archaeologist himself."
       ]
     },
     {
       "id": 2,
-      "question": "How is Hammurabi's name most commonly translated?",
+      "question": "Which kingdoms did Hammurabi conquer during his reign?",
       "options": [
-        "âthe ancestor is greatâ",
-        "âthe ancestor healsâ",
-        "âpaternal uncleâ",
-        "âgreat protector deityâ"
+        "Larsa, Eshnunna, and Mari",
+        "Yamhad, Aleppo, and Babylon",
+        "Sippar, Ur, and Uruk",
+        "Assur, Nineveh, and Nimrud"
       ],
       "answer_explanations": [
-        "Correct. The article states that the most common translation of Hammurabi is âthe ancestor is great.â",
-        "Incorrect. âThe ancestor healsâ is an alternative reading in Amorite, not the most common translation.",
-        "Incorrect. M. Streck translates part of the name as âpaternal uncle,â but this is not the most common translation.",
-        "Incorrect. âGreat protector deityâ is not a translation given for Hammurabi's name in the article."
+        "Correct. The article says he 'conquered the powerful kingdoms of Larsa, Eshnunna, and Mari'.",
+        "Incorrect. Yamhad and Aleppo are not mentioned as conquered by Hammurabi.",
+        "Incorrect. These cities are not listed in the article as conquered by him.",
+        "Incorrect. These are not mentioned in the article."
       ]
     },
     {
       "id": 3,
-      "question": "Which Babylonian god is said to have inspired Hammurabi's law code?",
+      "question": "What is Hammurabi best known for?",
+      "options": [
+        "Issuing a law code",
+        "Building the Hanging Gardens",
+        "Writing the Epic of Gilgamesh",
+        "Inventing cuneiform writing"
+      ],
+      "answer_explanations": [
+        "Correct. The article states he is 'best known for having issued his law code'.",
+        "Incorrect. The Hanging Gardens are not associated with Hammurabi in the article.",
+        "Incorrect. The Epic of Gilgamesh is not mentioned in the article.",
+        "Incorrect. Cuneiform writing is not attributed to Hammurabi in the article."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Who was the Babylonian god of justice who inspired Hammurabi's law code?",
       "options": [
         "Shamash",
         "Marduk",
@@ -45,122 +61,106 @@
         "Enlil"
       ],
       "answer_explanations": [
-        "Correct. The article says Hammurabi's law code was said to have been inspired by Shamash, the Babylonian god of Justice.",
-        "Incorrect. Marduk is not mentioned in the article as inspiring the law code.",
-        "Incorrect. Ishtar is not mentioned in the article as inspiring the law code.",
-        "Incorrect. Enlil is not mentioned in the article as inspiring the law code."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Who succeeded Hammurabi as king of Babylon?",
-      "options": [
-        "Samsu-iluna",
-        "Sin-muballit",
-        "Hammurabi I",
-        "Shamash"
-      ],
-      "answer_explanations": [
-        "Correct. The article states that Hammurabi's son Samsu-iluna succeeded him.",
-        "Incorrect. Sin-muballit was Hammurabi's father and predecessor, not his successor.",
-        "Incorrect. Hammurabi I was a contemporary king of Yamhad, not Hammurabi's successor.",
-        "Incorrect. Shamash is the Babylonian god of Justice, not a successor to Hammurabi."
+        "Correct. The article says the law code was 'said to have been inspired by Shamash, the Babylonian god of Justice'.",
+        "Incorrect. Marduk is not mentioned as the god of justice in the article.",
+        "Incorrect. Ishtar is not mentioned in the article.",
+        "Incorrect. Enlil is not mentioned in the article."
       ]
     },
     {
       "id": 5,
-      "question": "Which two cities' correspondence sheds light on how Hammurabi exercised power during the second half of his reign?",
+      "question": "How is Hammurabi's reign documented?",
       "options": [
-        "Larsa and Mari",
-        "Eshnunna and Babylon",
-        "Mari and Yamhad",
-        "Larsa and Eshnunna"
+        "Through written records, especially correspondence from Larsa and Mari",
+        "Through oral traditions passed down by his descendants",
+        "Through inscriptions on the pyramids of Egypt",
+        "Through Greek historical accounts"
       ],
       "answer_explanations": [
-        "Correct. The article says correspondence unearthed in Larsa and Mari sheds light on how Hammurabi exercised power during the second half of his reign.",
-        "Incorrect. Eshnunna and Babylon are not the two cities whose correspondence is cited for this purpose.",
-        "Incorrect. Mari is one of the cities, but Yamhad is not the other one mentioned.",
-        "Incorrect. Larsa is one city, but Eshnunna is not paired with it in the article's description of the correspondence."
+        "Correct. The article mentions 'the correspondence unearthed in two of the cities he subjugated, Larsa and Mari' as shedding light on his reign.",
+        "Incorrect. The article does not mention oral traditions.",
+        "Incorrect. The article does not mention Egyptian pyramids.",
+        "Incorrect. The article does not mention Greek accounts."
       ]
     },
     {
       "id": 6,
-      "question": "What happened to Hammurabi's empire after his death?",
+      "question": "Who succeeded Hammurabi as king of Babylon?",
       "options": [
-        "His son failed to maintain it",
-        "It expanded further under Samsu-iluna",
-        "It was immediately conquered by Larsa",
-        "It remained intact for centuries"
+        "His son Samsu-iluna",
+        "His brother Sin-muballit",
+        "His cousin Hammurabi I",
+        "His general Rim-Sin"
       ],
       "answer_explanations": [
-        "Correct. The article states that Samsu-iluna succeeded Hammurabi but failed to maintain the empire he had built.",
-        "Incorrect. The article says Samsu-iluna failed to maintain the empire, not that he expanded it.",
-        "Incorrect. The article does not say Larsa immediately conquered the empire after Hammurabi's death.",
-        "Incorrect. The article indicates the empire was not maintained, not that it remained intact for centuries."
+        "Correct. The article states 'His son Samsu-iluna succeeded him'.",
+        "Incorrect. Sin-muballit was his father, not his successor.",
+        "Incorrect. Hammurabi I was a contemporary king of Yamhad, not his successor.",
+        "Incorrect. Rim-Sin is not mentioned in the article."
       ]
     },
     {
       "id": 7,
-      "question": "How was Hammurabi viewed after his death?",
+      "question": "What happened to Hammurabi's empire after his death?",
       "options": [
-        "First revered as a great conqueror, later primarily as an ideal lawgiver",
-        "Primarily as a great conqueror throughout history",
-        "Primarily as an ideal lawgiver immediately after his death",
-        "Forgotten until rediscovered in the 19th century"
+        "His son failed to maintain it",
+        "It expanded further under his son",
+        "It was destroyed by the Hittites",
+        "It became a democracy"
       ],
       "answer_explanations": [
-        "Correct. The article says that after his death, Hammurabi was revered as a great conqueror, but later his military accomplishments became de-emphasized and his role as the ideal lawgiver became the primary aspect of his legacy.",
-        "Incorrect. The article states his military accomplishments were later de-emphasized, so he was not viewed primarily as a conqueror throughout history.",
-        "Incorrect. The article says he was first revered as a great conqueror, not primarily as a lawgiver immediately after death.",
-        "Incorrect. The article says he was revered after his death and later rediscovered by archaeologists, not that he was forgotten entirely."
+        "Correct. The article says Samsu-iluna 'failed to maintain the empire he had built'.",
+        "Incorrect. The article says his son failed, not expanded.",
+        "Incorrect. The Hittites are not mentioned in the article.",
+        "Incorrect. The article does not mention democracy."
       ]
     },
     {
       "id": 8,
-      "question": "What does the article say about the name Hammurabi being borne by other kings?",
+      "question": "What does the most common translation of the name Hammurabi mean?",
       "options": [
-        "It was borne by Hammurabi I of Yamhad and other Amorite kings of Syria",
-        "It was unique to Hammurabi of Babylon",
-        "It was borne only by kings of Babylon",
-        "It was borne exclusively by kings who reigned before Hammurabi"
+        "The ancestor is great",
+        "The king of Babylon",
+        "The lawgiver",
+        "The conqueror of the world"
       ],
       "answer_explanations": [
-        "Correct. The article states this name was borne by kings contemporary with Hammurabi, including Hammurabi I of Yamhad and other Amorite kings of Syria who reigned subsequently.",
-        "Incorrect. The article explicitly says the name was borne by other kings, so it was not unique to Hammurabi of Babylon.",
-        "Incorrect. The article mentions kings of Yamhad and Syria, not only kings of Babylon.",
-        "Incorrect. The article mentions contemporary and subsequent kings, not exclusively kings who reigned before Hammurabi."
+        "Correct. The article says the most common translation is 'the ancestor is great'.",
+        "Incorrect. That is a description, not the meaning of his name.",
+        "Incorrect. That is a title, not the meaning of his name.",
+        "Incorrect. That is not mentioned as the meaning."
       ]
     },
     {
       "id": 9,
-      "question": "Why was it common among Amorites for a chieftain to bear a name referring to his ancestors?",
+      "question": "Why was it common for Amorite chieftains to have names referring to ancestors?",
       "options": [
-        "Because connection to a lineage and dynastic continuity were essential to his legitimacy",
-        "Because Amorite law required ancestral names for rulers",
-        "Because Shamash demanded ancestral names for chieftains",
-        "Because Hammurabi decreed that all chieftains use ancestral names"
+        "Because connection to lineage was essential for legitimacy",
+        "Because they were required by law",
+        "Because they wanted to honor their gods",
+        "Because they had no other names"
       ],
       "answer_explanations": [
-        "Correct. The article states that among the Amorites, connection to a lineage and dynastic continuity were essential to a chieftain's legitimacy.",
-        "Incorrect. The article does not mention any Amorite law requiring ancestral names.",
-        "Incorrect. Shamash is not mentioned in connection with naming practices for chieftains.",
-        "Incorrect. The article does not say Hammurabi issued any decree about chieftains' names."
+        "Correct. The article states 'connection to a lineage and dynastic continuity were essential to his legitimacy'.",
+        "Incorrect. The article does not mention a law requiring this.",
+        "Incorrect. The article does not mention honoring gods as the reason.",
+        "Incorrect. The article does not say they had no other names."
       ]
     },
     {
       "id": 10,
-      "question": "What is one alternative reading of the name Hammurabi in Amorite?",
+      "question": "How was Hammurabi viewed after his death?",
       "options": [
-        "âthe ancestor healsâ",
-        "âthe ancestor is greatâ",
-        "âpaternal uncleâ",
-        "âgreat king of Babylonâ"
+        "First as a great conqueror, then as the ideal lawgiver",
+        "Only as a conqueror",
+        "Only as a lawgiver",
+        "As a minor king"
       ],
       "answer_explanations": [
-        "Correct. The article gives an alternative Amorite reading translating the name as âthe ancestor heals.â",
-        "Incorrect. âThe ancestor is greatâ is the most common translation, not the alternative reading.",
-        "Incorrect. âPaternal uncleâ is M. Streck's translation of part of the name, not the alternative Amorite reading of the full name.",
-        "Incorrect. âGreat king of Babylonâ is not given as a translation of Hammurabi in the article."
+        "Correct. The article says 'After his death, Hammurabi was revered as a great conqueror, but later his military accomplishments became de-emphasized and his role as the ideal lawgiver became the primary aspect of his legacy'.",
+        "Incorrect. The article says his military role was later de-emphasized, not only as conqueror.",
+        "Incorrect. The article says he was first revered as conqueror, then as lawgiver.",
+        "Incorrect. The article describes him as a great figure, not minor."
       ]
     }
   ]

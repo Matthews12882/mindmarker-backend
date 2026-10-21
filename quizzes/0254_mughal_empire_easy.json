@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "In what year was the Mughal Empire conventionally founded according to the article?",
+      "question": "In what year is the Mughal Empire conventionally said to have been founded?",
       "options": [
         "1526",
         "1600",
@@ -13,15 +13,15 @@
         "1857"
       ],
       "answer_explanations": [
-        "Correct. The article states the Mughal Empire is conventionally said to have been founded in 1526 by Babur.",
-        "Incorrect. 1600 is when the Mughal imperial structure is sometimes dated, not the conventional founding year.",
-        "Incorrect. 1720 marks the end of the imperial structure after Aurangzeb's death, not the founding.",
-        "Incorrect. 1857 is when the empire was formally dissolved by the British Raj."
+        "Correct. The article states that the Mughal Empire is conventionally said to have been founded in 1526 by Babur.",
+        "Incorrect. The article mentions 1600 as a possible date for the imperial structure, not the founding.",
+        "Incorrect. The article mentions 1720 as the end of the imperial structure, not the founding.",
+        "Incorrect. The article mentions 1857 as the year of the Indian Rebellion, not the founding."
       ]
     },
     {
       "id": 2,
-      "question": "Which ruler defeated Ibrahim Lodi in the First Battle of Panipat?",
+      "question": "Who founded the Mughal Empire?",
       "options": [
         "Babur",
         "Akbar",
@@ -29,138 +29,138 @@
         "Shah Jahan"
       ],
       "answer_explanations": [
-        "Correct. The article says Babur defeated the Sultan of Delhi, Ibrahim Lodi, in the First Battle of Panipat.",
-        "Incorrect. Akbar was Babur's grandson and ruled later, from 1556 to 1605.",
-        "Incorrect. Aurangzeb reigned from 1658 to 1707, long after the First Battle of Panipat.",
-        "Incorrect. Shah Jahan reigned from 1628 to 1658 and was not involved in the First Battle of Panipat."
+        "Correct. The article says the empire was founded by Babur, a Timurid prince.",
+        "Incorrect. Akbar was Babur's grandson and the third Mughal emperor, not the founder.",
+        "Incorrect. Aurangzeb was the last major emperor, not the founder.",
+        "Incorrect. Shah Jahan was a later emperor known for architecture, not the founder."
       ]
     },
     {
       "id": 3,
-      "question": "Which Mughal emperor implemented agricultural taxes as the basis of the empire's collective wealth?",
+      "question": "Which battle did Babur win to establish the Mughal Empire?",
       "options": [
-        "Akbar",
-        "Babur",
-        "Jahangir",
-        "Aurangzeb"
+        "First Battle of Panipat",
+        "Battle of Plassey",
+        "Battle of Buxar",
+        "Battle of Haldighati"
       ],
       "answer_explanations": [
-        "Correct. The article states that agricultural taxes were implemented by the third Mughal emperor, Akbar.",
-        "Incorrect. Babur founded the empire but did not implement these agricultural taxes.",
-        "Incorrect. Jahangir succeeded Akbar and is not credited with implementing these taxes.",
-        "Incorrect. Aurangzeb ruled much later and is not associated with implementing these taxes."
+        "Correct. The article states Babur defeated Ibrahim Lodi in the First Battle of Panipat.",
+        "Incorrect. The article does not mention the Battle of Plassey.",
+        "Incorrect. The article does not mention the Battle of Buxar.",
+        "Incorrect. The article does not mention the Battle of Haldighati."
       ]
     },
     {
       "id": 4,
-      "question": "Which monument is described in the article as \"the jewel of Muslim art in India\"?",
+      "question": "Who was the Sultan of Delhi defeated by Babur?",
       "options": [
-        "Taj Mahal",
-        "Agra Fort",
-        "Red Fort",
-        "Humayun's Tomb"
+        "Ibrahim Lodi",
+        "Akbar",
+        "Aurangzeb",
+        "Shah Jahan"
       ],
       "answer_explanations": [
-        "Correct. The article describes the Taj Mahal as \"the jewel of Muslim art in India, and one of the universally admired masterpieces of the world's heritage.\"",
-        "Incorrect. Agra Fort is listed as a UNESCO World Heritage Site but is not given this description.",
-        "Incorrect. Red Fort is listed as a UNESCO World Heritage Site but is not given this description.",
-        "Incorrect. Humayun's Tomb is listed as a UNESCO World Heritage Site but is not given this description."
+        "Correct. The article says Babur defeated the Sultan of Delhi, Ibrahim Lodi.",
+        "Incorrect. Akbar was a Mughal emperor, not the Sultan of Delhi.",
+        "Incorrect. Aurangzeb was a Mughal emperor, not the Sultan of Delhi.",
+        "Incorrect. Shah Jahan was a Mughal emperor, not the Sultan of Delhi."
       ]
     },
     {
       "id": 5,
-      "question": "What does the word Mughal mean in its Indo-Persian form?",
+      "question": "Which region did Babur come from?",
       "options": [
-        "Mongol",
-        "Turk",
-        "Persian",
-        "Indian"
+        "Fergana Valley",
+        "Deccan Plateau",
+        "Kashmir",
+        "Assam"
       ],
       "answer_explanations": [
-        "Correct. The article states the word Mughal is the Indo-Persian form of Mongol.",
-        "Incorrect. The article notes the Mughals' early followers were Chagatai Turks, but the word itself means Mongol.",
-        "Incorrect. Persian is the language form, not the meaning of the word.",
-        "Incorrect. Indian is not the meaning of the word Mughal according to the article."
+        "Correct. The article describes Babur as a Timurid prince from the Fergana Valley in Central Asia.",
+        "Incorrect. The Deccan Plateau is in South India, not Babur's origin.",
+        "Incorrect. Kashmir is mentioned as part of the empire's extent, not Babur's origin.",
+        "Incorrect. Assam is mentioned as part of the empire's extent, not Babur's origin."
       ]
     },
     {
       "id": 6,
-      "question": "Which dynasty did Babur descend from on his father's side?",
+      "question": "Which two empires assisted Babur?",
       "options": [
-        "Timur",
-        "Genghis Khan",
-        "Safavid",
-        "Ottoman"
+        "Safavid and Ottoman",
+        "British and French",
+        "Portuguese and Dutch",
+        "Russian and Chinese"
       ],
       "answer_explanations": [
-        "Correct. The article says Babur was descended from the Turco-Mongol conqueror Timur on his father's side.",
-        "Incorrect. Babur descended from Genghis Khan on his mother's side, not his father's.",
-        "Incorrect. The Safavid dynasty assisted Babur but was not his paternal ancestor.",
-        "Incorrect. The Ottoman Empire assisted Babur but was not his paternal ancestor."
+        "Correct. The article says Babur had assistance from the Safavid and Ottoman empires.",
+        "Incorrect. The article does not mention British or French assistance.",
+        "Incorrect. The article does not mention Portuguese or Dutch assistance.",
+        "Incorrect. The article does not mention Russian or Chinese assistance."
       ]
     },
     {
       "id": 7,
-      "question": "What happened to Humayun after Sher Shah Suri rebelled against him?",
+      "question": "According to the article, when is the Mughal imperial structure sometimes dated to?",
       "options": [
-        "He was forced into exile in Persia",
-        "He was executed",
-        "He abdicated the throne",
-        "He defeated Sher Shah Suri immediately"
+        "1600",
+        "1526",
+        "1720",
+        "1857"
       ],
       "answer_explanations": [
-        "Correct. The article states Humayun was forced into exile in Persia by the rebellious Sher Shah Suri.",
-        "Incorrect. The article does not say Humayun was executed; he later returned and restored Mughal rule.",
-        "Incorrect. The article does not mention Humayun abdicating.",
-        "Incorrect. Humayun was forced into exile, not immediately victorious over Sher Shah Suri."
+        "Correct. The article says the Mughal imperial structure is sometimes dated to 1600, during Akbar's rule.",
+        "Incorrect. 1526 is the founding date, not the imperial structure date.",
+        "Incorrect. 1720 is when the imperial structure lasted until, not when it started.",
+        "Incorrect. 1857 is the year of the Indian Rebellion, not the imperial structure date."
       ]
     },
     {
       "id": 8,
-      "question": "Which emperor brought the Mughal Empire to its greatest territorial extent?",
+      "question": "Who was the last major Mughal emperor?",
       "options": [
         "Aurangzeb",
         "Akbar",
-        "Shah Jahan",
-        "Babur"
+        "Babur",
+        "Shah Jahan"
       ],
       "answer_explanations": [
-        "Correct. The article states Aurangzeb brought the empire to its greatest territorial extent.",
-        "Incorrect. Akbar extended the empire widely but the article attributes the maximum extent to Aurangzeb.",
-        "Incorrect. Shah Jahan extended the empire to the Deccan but not to its greatest extent.",
-        "Incorrect. Babur founded the empire but did not bring it to its greatest territorial extent."
+        "Correct. The article refers to Aurangzeb as the last major emperor.",
+        "Incorrect. Akbar was an earlier emperor, not the last major one.",
+        "Incorrect. Babur was the founder, not the last major emperor.",
+        "Incorrect. Shah Jahan was an earlier emperor, not the last major one."
       ]
     },
     {
       "id": 9,
-      "question": "What did Aurangzeb reinstate on non-Muslims?",
+      "question": "By what year was the empire reduced to the region around Old Delhi?",
       "options": [
-        "jizya",
-        "Din-i Ilahi",
-        "madad-i-ma'ash",
-        "Fatawa 'Alamgiri"
+        "1760",
+        "1720",
+        "1600",
+        "1857"
       ],
       "answer_explanations": [
-        "Correct. The article states Aurangzeb reinstated the jizya on non-Muslims.",
-        "Incorrect. Din-i Ilahi was a religion established by Akbar, not a tax reinstated by Aurangzeb.",
-        "Incorrect. Madad-i-ma'ash were tax-free land revenue grants associated with Jahangir, not a tax on non-Muslims.",
-        "Incorrect. The Fatawa 'Alamgiri was a collection of Islamic law compiled by Aurangzeb, not a tax."
+        "Correct. The article states the empire was reduced to the region in and around Old Delhi by 1760.",
+        "Incorrect. 1720 is when the imperial structure ended, not when it was reduced to Old Delhi.",
+        "Incorrect. 1600 is the date of the imperial structure, not the reduction.",
+        "Incorrect. 1857 is the year of the Indian Rebellion, not the reduction."
       ]
     },
     {
       "id": 10,
-      "question": "What happened to the Mughal Empire after the Indian Rebellion of 1857?",
+      "question": "What was the basis of the empire's collective wealth?",
       "options": [
-        "It was formally dissolved by the British Raj",
-        "It expanded into the Deccan",
-        "It was restored by Akbar",
-        "It became a Safavid protectorate"
+        "Agricultural taxes",
+        "Trade with Europe",
+        "Mining gold",
+        "Ransom from conquered kings"
       ],
       "answer_explanations": [
-        "Correct. The article states the empire was formally dissolved by the British Raj after the Indian Rebellion of 1857.",
-        "Incorrect. The empire did not expand after 1857; it was dissolved.",
-        "Incorrect. Akbar lived centuries before 1857 and could not restore the empire.",
-        "Incorrect. The Safavids are not mentioned in connection with the events after 1857."
+        "Correct. The article says the basis of the empire's collective wealth was agricultural taxes.",
+        "Incorrect. The article mentions European presence but not as the basis of wealth.",
+        "Incorrect. The article does not mention mining gold.",
+        "Incorrect. The article does not mention ransom from conquered kings."
       ]
     }
   ]

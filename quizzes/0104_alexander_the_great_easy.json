@@ -10,157 +10,157 @@
         "Philip II",
         "Darius III",
         "Aristotle",
-        "Bucephalas"
+        "Porus"
       ],
       "answer_explanations": [
         "Correct. The article states that Alexander was the son of Philip II.",
-        "Incorrect. Darius III was the Persian king whom Alexander overthrew.",
+        "Incorrect. Darius III was the Persian king whom Alexander overthrew, not his father.",
         "Incorrect. Aristotle was Alexander's tutor, not his father.",
-        "Incorrect. Bucephalas was Alexander's horse."
+        "Incorrect. Porus was an Indian king defeated by Alexander, not his father."
       ]
     },
     {
       "id": 2,
-      "question": "At what age did Alexander ascend to the throne after Philip was assassinated?",
+      "question": "At what age did Alexander ascend to the throne?",
       "options": [
         "20",
         "16",
-        "13",
-        "30"
+        "30",
+        "25"
       ],
       "answer_explanations": [
         "Correct. The article says he ascended to the throne at the age of 20.",
-        "Incorrect. 16 was when his education under Aristotle ended and he became regent.",
-        "Incorrect. 13 was when Philip began searching for a tutor.",
-        "Incorrect. 30 was the age by which he had created one of the largest empires."
+        "Incorrect. 16 is the age until which he was tutored by Aristotle, not the age he became king.",
+        "Incorrect. 30 is the age by which he had created one of the largest empires, not the age he ascended.",
+        "Incorrect. The article does not mention 25 as his age of accession."
       ]
     },
     {
       "id": 3,
-      "question": "Who tutored Alexander until the age of 16?",
+      "question": "Where was Alexander the Great born?",
       "options": [
-        "Aristotle",
-        "Leonidas",
-        "Lysimachus",
-        "Plutarch"
+        "Pella",
+        "Babylon",
+        "Thebes",
+        "Alexandria"
       ],
       "answer_explanations": [
-        "Correct. The article states Alexander was tutored by Aristotle until the age of 16.",
-        "Incorrect. Leonidas was a strict tutor during Alexander's childhood, but not until age 16.",
-        "Incorrect. Lysimachus of Acarnania tutored Alexander in childhood, but not until age 16.",
-        "Incorrect. Plutarch was an ancient biographer who wrote about Alexander, not his tutor."
+        "Correct. The article states that he was born in Pella, Macedon.",
+        "Incorrect. Babylon is where he later died, not where he was born.",
+        "Incorrect. Thebes is a city he destroyed, not his birthplace.",
+        "Incorrect. Alexandria is a city he founded, not his birthplace."
       ]
     },
     {
       "id": 4,
-      "question": "In what year did Alexander launch his pan-Hellenic invasion of the Achaemenid Persian Empire?",
+      "question": "Who tutored Alexander the Great until the age of 16?",
       "options": [
-        "334 BC",
-        "336 BC",
-        "335 BC",
-        "326 BC"
+        "Aristotle",
+        "Philip II",
+        "Darius III",
+        "Porus"
       ],
       "answer_explanations": [
-        "Correct. The article states he launched the invasion in 334 BC.",
-        "Incorrect. 336 BC was when Alexander became king.",
-        "Incorrect. 335 BC was when he launched a campaign in the Balkans.",
-        "Incorrect. 326 BC was when he invaded India."
+        "Correct. The article says Alexander was tutored by the philosopher Aristotle until age 16.",
+        "Incorrect. Philip II was his father, not his tutor.",
+        "Incorrect. Darius III was the Persian king he conquered, not his tutor.",
+        "Incorrect. Porus was an Indian king he fought, not his tutor."
       ]
     },
     {
       "id": 5,
-      "question": "In what year did Alexander invade India?",
+      "question": "Which empire did Alexander invade in 334 BC?",
       "options": [
-        "326 BC",
-        "334 BC",
-        "323 BC",
-        "336 BC"
+        "Achaemenid Persian Empire",
+        "Roman Empire",
+        "Byzantine Empire",
+        "Macedonian Empire"
       ],
       "answer_explanations": [
-        "Correct. The article states Alexander invaded India in 326 BC.",
-        "Incorrect. 334 BC was when he invaded the Persian Empire.",
-        "Incorrect. 323 BC was the year Alexander died.",
-        "Incorrect. 336 BC was when Alexander became king."
+        "Correct. The article states he launched a pan-Hellenic invasion of the Achaemenid Persian Empire in 334 BC.",
+        "Incorrect. The Roman Empire is not mentioned as a target of Alexander's invasion.",
+        "Incorrect. The Byzantine Empire existed much later and is not mentioned in this context.",
+        "Incorrect. The Macedonian Empire was his own, not the one he invaded."
       ]
     },
     {
       "id": 6,
-      "question": "Where did Alexander die?",
+      "question": "Who did Alexander overthrow after conquering the Achaemenid Empire?",
       "options": [
-        "Babylon",
-        "Pella",
-        "Athens",
-        "Alexandria"
+        "Darius III",
+        "Philip II",
+        "Porus",
+        "Aristotle"
       ],
       "answer_explanations": [
-        "Correct. The article states Alexander died in Babylon, Mesopotamia.",
-        "Incorrect. Pella was Alexander's birthplace.",
-        "Incorrect. Athens is not mentioned as his place of death.",
-        "Incorrect. Alexandria was a city he founded in Egypt."
+        "Correct. The article states he overthrew Darius III and conquered the Achaemenid Empire.",
+        "Incorrect. Philip II was his father, not a Persian king.",
+        "Incorrect. Porus was an Indian king, not the Persian ruler.",
+        "Incorrect. Aristotle was his tutor, not a ruler he overthrew."
       ]
     },
     {
       "id": 7,
-      "question": "Which city did Alexander found that is described as the most prominent?",
+      "question": "In 326 BC, Alexander invaded India and achieved an important victory over which king?",
       "options": [
-        "Alexandria in Egypt",
-        "Bucephala",
-        "Alexandropolis",
-        "Pella"
+        "Porus",
+        "Darius III",
+        "Philip II",
+        "Aristotle"
       ],
       "answer_explanations": [
-        "Correct. The article says the most prominent city he founded was Alexandria in Egypt.",
-        "Incorrect. Bucephala was named after his horse Bucephalas.",
-        "Incorrect. Alexandropolis was founded when Alexander was regent at age 16.",
-        "Incorrect. Pella was the capital of Macedon and Alexander's birthplace."
+        "Correct. The article states he achieved an important victory over Porus at the Battle of the Hydaspes.",
+        "Incorrect. Darius III was the Persian king, not an Indian king.",
+        "Incorrect. Philip II was his father, not an Indian king.",
+        "Incorrect. Aristotle was his tutor, not an Indian king."
       ]
     },
     {
       "id": 8,
-      "question": "Which battle was Alexander's important victory over the Indian king Porus?",
+      "question": "Where did Alexander the Great die in 323 BC?",
       "options": [
-        "Battle of the Hydaspes",
-        "Battle of Issus",
-        "Battle of Gaugamela",
-        "Battle of Thebes"
+        "Babylon",
+        "Pella",
+        "Thebes",
+        "Alexandria"
       ],
       "answer_explanations": [
-        "Correct. The article states Alexander achieved victory over Porus at the Battle of the Hydaspes.",
-        "Incorrect. The Battle of Issus was a decisive battle against the Persians.",
-        "Incorrect. The Battle of Gaugamela was a decisive battle against the Persians.",
-        "Incorrect. The Battle of Thebes occurred earlier during Alexander's reassertion of control in Greece."
+        "Correct. The article states he died in Babylon, Mesopotamia.",
+        "Incorrect. Pella was his birthplace, not where he died.",
+        "Incorrect. Thebes was a city he destroyed, not his death place.",
+        "Incorrect. Alexandria is a city he founded, not his death place."
       ]
     },
     {
       "id": 9,
-      "question": "What was the name of Alexander's horse?",
+      "question": "Which city did Alexander plan to make the capital of his empire?",
       "options": [
-        "Bucephalas",
-        "Parmenion",
-        "Cleitus",
-        "Hephaestion"
+        "Babylon",
+        "Pella",
+        "Alexandria",
+        "Thebes"
       ],
       "answer_explanations": [
-        "Correct. The article states Alexander named the horse Bucephalas, meaning 'ox-head'.",
-        "Incorrect. Parmenion was one of Philip's generals.",
-        "Incorrect. Cleitus the Black was Alexander's future general.",
-        "Incorrect. Hephaestion was one of Alexander's companions and future generals."
+        "Correct. The article says Babylon was the city he had planned to make the capital of his empire.",
+        "Incorrect. Pella was his birthplace, not his planned capital.",
+        "Incorrect. Alexandria was a city he founded, but not the planned capital mentioned.",
+        "Incorrect. Thebes was destroyed, not planned as a capital."
       ]
     },
     {
       "id": 10,
-      "question": "What period conventionally begins with Alexander's death?",
+      "question": "By what age had Alexander created one of the largest empires in history?",
       "options": [
-        "Hellenistic period",
-        "Classical period",
-        "Roman Empire",
-        "Byzantine Empire"
+        "30",
+        "20",
+        "16",
+        "35"
       ],
       "answer_explanations": [
-        "Correct. The article states Alexander's death marks the conventional beginning of the Hellenistic period.",
-        "Incorrect. The Classical period is not mentioned as beginning with his death.",
-        "Incorrect. The Roman Empire came later.",
-        "Incorrect. The Byzantine Empire came much later."
+        "Correct. The article states that by the age of 30, he had created one of the largest empires in history.",
+        "Incorrect. 20 is the age he ascended to the throne, not when he created the empire.",
+        "Incorrect. 16 is the age until which he was tutored, not when he created the empire.",
+        "Incorrect. The article does not mention age 35 in this context."
       ]
     }
   ]

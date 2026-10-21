@@ -8,159 +8,159 @@
       "question": "What does astronomy study?",
       "options": [
         "Celestial objects and phenomena that occur in the cosmos",
-        "Weather patterns on Earth",
-        "The behavior of animals in nature",
-        "The history of human civilizations"
+        "Only the Earth's atmosphere",
+        "Only the history of ancient civilizations",
+        "Only the physics of the ocean"
       ],
       "answer_explanations": [
-        "Correct. The article states that astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos.",
-        "Incorrect. The article does not state that astronomy studies weather patterns on Earth.",
-        "Incorrect. The article does not mention the behavior of animals as a subject of astronomy.",
-        "Incorrect. The article does not state that astronomy studies the history of human civilizations."
+        "Correct. The article states that astronomy 'studies celestial objects and the phenomena that occur in the cosmos.'",
+        "Incorrect. The article says astronomy studies celestial objects and phenomena in the cosmos, not just the Earth's atmosphere.",
+        "Incorrect. The article mentions ancient civilizations made observations, but that is not the primary subject of astronomy.",
+        "Incorrect. The article does not mention the ocean; astronomy focuses on objects beyond Earth's atmosphere."
       ]
     },
     {
       "id": 2,
+      "question": "Which sciences does astronomy use to explain the origin and evolution of celestial objects?",
+      "options": [
+        "Mathematics, physics, and chemistry",
+        "Biology, geology, and history",
+        "Literature, art, and music",
+        "Economics, politics, and sociology"
+      ],
+      "answer_explanations": [
+        "Correct. The article says astronomy uses 'mathematics, physics, and chemistry' to explain their origin and evolution.",
+        "Incorrect. The article lists mathematics, physics, and chemistry, not biology, geology, or history.",
+        "Incorrect. The article does not mention literature, art, or music as tools of astronomy.",
+        "Incorrect. The article does not mention economics, politics, or sociology."
+      ]
+    },
+    {
+      "id": 3,
       "question": "Which of the following is listed as an object of interest in astronomy?",
       "options": [
-        "Stars",
+        "Moons",
         "Oceans",
         "Mountains",
         "Forests"
       ],
       "answer_explanations": [
-        "Correct. The article lists stars among the objects of interest in astronomy.",
-        "Incorrect. The article does not list oceans as an object of interest in astronomy.",
-        "Incorrect. The article does not list mountains as an object of interest in astronomy.",
-        "Incorrect. The article does not list forests as an object of interest in astronomy."
-      ]
-    },
-    {
-      "id": 3,
-      "question": "Which ancient civilizations made methodical observations of the night sky?",
-      "options": [
-        "Egyptians, Babylonians, Greeks, Indians, Chinese, Maya, and indigenous peoples of the Americas",
-        "Romans and Vikings only",
-        "Europeans and Africans only",
-        "Japanese and Koreans only"
-      ],
-      "answer_explanations": [
-        "Correct. The article lists the Egyptians, Babylonians, Greeks, Indians, Chinese, Maya, and many ancient indigenous peoples of the Americas as early civilizations that made methodical observations of the night sky.",
-        "Incorrect. The article does not state that only Romans and Vikings made such observations.",
-        "Incorrect. The article does not limit these observations to Europeans and Africans only.",
-        "Incorrect. The article does not state that only Japanese and Koreans made such observations."
+        "Correct. The article lists moons among objects of interest, along with planets, stars, nebulae, galaxies, meteoroids, asteroids, and comets.",
+        "Incorrect. Oceans are not mentioned as an object of interest in astronomy.",
+        "Incorrect. Mountains are not mentioned as an object of interest in astronomy.",
+        "Incorrect. Forests are not mentioned as an object of interest in astronomy."
       ]
     },
     {
       "id": 4,
-      "question": "What role do amateurs play in astronomy?",
+      "question": "Which of the following is a phenomenon mentioned in the article?",
       "options": [
-        "Amateurs play an active role, especially in discovering and observing transient events",
-        "Amateurs are not allowed to participate in astronomy",
-        "Amateurs only study astrology",
-        "Amateurs focus exclusively on building telescopes"
+        "Supernova explosions",
+        "Earthquakes",
+        "Tornadoes",
+        "Volcanic eruptions"
       ],
       "answer_explanations": [
-        "Correct. The article states that astronomy is one of the few sciences in which amateurs play an active role, especially for the discovery and observation of transient events.",
-        "Incorrect. The article states that amateurs do play an active role in astronomy.",
-        "Incorrect. The article does not say that amateurs only study astrology.",
-        "Incorrect. The article does not state that amateurs focus exclusively on building telescopes."
+        "Correct. The article lists supernova explosions as a relevant phenomenon.",
+        "Incorrect. Earthquakes are not mentioned in the article.",
+        "Incorrect. Tornadoes are not mentioned in the article.",
+        "Incorrect. Volcanic eruptions are not mentioned in the article."
       ]
     },
     {
       "id": 5,
-      "question": "What does the word 'astronomy' mean etymologically?",
+      "question": "According to the article, what does astronomy study more generally?",
       "options": [
-        "Study of celestial objects",
-        "Study of the Earth",
-        "Study of living organisms",
-        "Study of chemical reactions"
+        "Everything that originates beyond Earth's atmosphere",
+        "Everything that originates on Earth's surface",
+        "Everything that originates in the ocean",
+        "Everything that originates inside the Earth"
       ],
       "answer_explanations": [
-        "Correct. The etymology section explains that 'astronomy' comes from Greek words meaning star and law/rule, and means study of celestial objects.",
-        "Incorrect. The article does not state that astronomy means study of the Earth.",
-        "Incorrect. The article does not state that astronomy means study of living organisms.",
-        "Incorrect. The article does not state that astronomy means study of chemical reactions."
+        "Correct. The article states that astronomy studies 'everything that originates beyond Earth's atmosphere.'",
+        "Incorrect. The article specifies beyond Earth's atmosphere, not on Earth's surface.",
+        "Incorrect. The article does not mention the ocean.",
+        "Incorrect. The article does not mention the interior of the Earth."
       ]
     },
     {
       "id": 6,
-      "question": "How should astronomy not be confused?",
+      "question": "What is cosmology?",
       "options": [
-        "With astrology",
-        "With geology",
-        "With biology",
-        "With meteorology"
+        "The branch of astronomy that studies the universe as a whole",
+        "The branch of astronomy that studies only the moon",
+        "The branch of astronomy that studies only the sun",
+        "The branch of astronomy that studies only comets"
       ],
       "answer_explanations": [
-        "Correct. The article states that astronomy should not be confused with astrology, the belief system which claims that human affairs are correlated with the positions of celestial objects.",
-        "Incorrect. The article does not state that astronomy should not be confused with geology.",
-        "Incorrect. The article does not state that astronomy should not be confused with biology.",
-        "Incorrect. The article does not state that astronomy should not be confused with meteorology."
+        "Correct. The article defines cosmology as 'the branch of astronomy that studies the universe as a whole.'",
+        "Incorrect. Cosmology studies the universe as a whole, not just the moon.",
+        "Incorrect. Cosmology studies the universe as a whole, not just the sun.",
+        "Incorrect. Cosmology studies the universe as a whole, not just comets."
       ]
     },
     {
       "id": 7,
-      "question": "Are 'astronomy' and 'astrophysics' broadly synonymous in modern usage?",
+      "question": "Which early civilizations are mentioned as making methodical observations of the night sky?",
       "options": [
-        "Yes",
-        "No",
-        "Only in ancient times",
-        "Only in dictionary definitions"
+        "Egyptians, Babylonians, Greeks, Indians, Chinese, Maya",
+        "Romans, Vikings, Aztecs, Incas, Persians, Mongols",
+        "French, English, Spanish, Portuguese, Dutch, Germans",
+        "Americans, Canadians, Mexicans, Brazilians, Argentines, Chileans"
       ],
       "answer_explanations": [
-        "Correct. The article states that 'astronomy' and 'astrophysics' are broadly synonymous in modern usage.",
-        "Incorrect. The article explicitly states that the two terms are broadly synonymous in modern usage.",
-        "Incorrect. The article discusses modern usage, not only ancient times.",
-        "Incorrect. The article states they are broadly synonymous in modern usage generally, not only in dictionary definitions."
+        "Correct. The article lists Egyptians, Babylonians, Greeks, Indians, Chinese, and Maya among early civilizations that made methodical observations.",
+        "Incorrect. The article does not mention Romans, Vikings, Aztecs, Incas, Persians, or Mongols.",
+        "Incorrect. The article does not mention these European nations.",
+        "Incorrect. The article does not mention these modern countries."
       ]
     },
     {
       "id": 8,
-      "question": "Which ancient civilization discovered that lunar eclipses recurred in the saros cycle?",
+      "question": "In the past, which disciplines were included in astronomy?",
       "options": [
-        "Babylonians",
-        "Egyptians",
-        "Greeks",
-        "Chinese"
+        "Astrometry, celestial navigation, observational astronomy, and making calendars",
+        "Medicine, law, and philosophy",
+        "Engineering, architecture, and agriculture",
+        "Cooking, painting, and dancing"
       ],
       "answer_explanations": [
-        "Correct. The article states that the Babylonians discovered that lunar eclipses recurred in the saros cycle of 223 synodic months.",
-        "Incorrect. The article attributes this discovery to the Babylonians, not the Egyptians.",
-        "Incorrect. The article attributes this discovery to the Babylonians, not the Greeks.",
-        "Incorrect. The article attributes this discovery to the Babylonians, not the Chinese."
+        "Correct. The article says astronomy included 'astrometry, celestial navigation, observational astronomy, and the making of calendars.'",
+        "Incorrect. The article does not mention medicine, law, or philosophy.",
+        "Incorrect. The article does not mention engineering, architecture, or agriculture.",
+        "Incorrect. The article does not mention cooking, painting, or dancing."
       ]
     },
     {
       "id": 9,
-      "question": "Who proposed a heliocentric model of the solar system during the Renaissance?",
+      "question": "What role do amateurs play in astronomy?",
       "options": [
-        "Nicolaus Copernicus",
-        "Galileo Galilei",
-        "Isaac Newton",
-        "Johannes Kepler"
+        "An active role, especially in discovering and observing transient events",
+        "No role at all",
+        "A passive role as mere spectators",
+        "A role only in funding research"
       ],
       "answer_explanations": [
-        "Correct. The article states that during the Renaissance, Nicolaus Copernicus proposed a heliocentric model of the solar system.",
-        "Incorrect. The article credits Copernicus with proposing the heliocentric model during the Renaissance, not Galileo.",
-        "Incorrect. The article credits Copernicus with proposing the heliocentric model during the Renaissance, not Newton.",
-        "Incorrect. The article credits Copernicus with proposing the heliocentric model during the Renaissance, not Kepler."
+        "Correct. The article states that amateurs play an 'active role' in astronomy, especially in the discovery and observation of transient events.",
+        "Incorrect. The article emphasizes that amateurs play an active role, not no role.",
+        "Incorrect. The article says amateurs are active, not passive.",
+        "Incorrect. The article does not mention funding; it mentions discovery and observation."
       ]
     },
     {
       "id": 10,
-      "question": "What did Galileo observe around 1610 that supported the heliocentric model?",
+      "question": "What have amateur astronomers helped with?",
       "options": [
-        "Phases on the planet Venus similar to those of the Moon",
-        "Rings around Saturn",
-        "Moons around Jupiter",
-        "Sunspots on the Sun"
+        "Finding new comets",
+        "Building telescopes",
+        "Predicting weather",
+        "Mapping the ocean floor"
       ],
       "answer_explanations": [
-        "Correct. The article states that by 1610, Galileo Galilei observed phases on the planet Venus similar to those of the Moon, supporting the heliocentric model.",
-        "Incorrect. The article does not mention Galileo observing rings around Saturn in this context.",
-        "Incorrect. The article does not mention Galileo observing moons around Jupiter in this context.",
-        "Incorrect. The article does not mention Galileo observing sunspots in this context."
+        "Correct. The article says amateur astronomers have helped with important discoveries, such as finding new comets.",
+        "Incorrect. The article does not mention building telescopes as an amateur contribution.",
+        "Incorrect. The article does not mention weather prediction.",
+        "Incorrect. The article does not mention mapping the ocean floor."
       ]
     }
   ]

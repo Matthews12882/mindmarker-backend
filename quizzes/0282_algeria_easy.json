@@ -8,35 +8,67 @@
       "question": "What is the official name of Algeria?",
       "options": [
         "People's Democratic Republic of Algeria",
+        "Republic of Algeria",
         "Democratic Republic of Algeria",
-        "People's Republic of Algeria",
-        "Republic of Algeria"
+        "People's Republic of Algeria"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Algeria, officially the People's Democratic Republic of Algeria'.",
-        "Incorrect. The official name includes 'People's Democratic' not just 'Democratic'.",
-        "Incorrect. The official name includes 'Democratic' and 'Republic'.",
-        "Incorrect. The official name includes 'People's Democratic'."
+        "Correct. The article states: \"Algeria, officially the 'People's Democratic Republic of Algeria'\".",
+        "Incorrect. The article specifies the official name as 'People's Democratic Republic of Algeria'.",
+        "Incorrect. The article specifies the official name as 'People's Democratic Republic of Algeria'.",
+        "Incorrect. The article specifies the official name as 'People's Democratic Republic of Algeria'."
       ]
     },
     {
       "id": 2,
-      "question": "Which sea borders Algeria to the north?",
+      "question": "In which region of North Africa is Algeria located?",
       "options": [
-        "Mediterranean Sea",
-        "Red Sea",
-        "Atlantic Ocean",
-        "Black Sea"
+        "Maghreb",
+        "Sahel",
+        "Levant",
+        "Horn of Africa"
       ],
       "answer_explanations": [
-        "Correct. The article says 'bordered to the north by the Mediterranean Sea'.",
-        "Incorrect. The Red Sea is far to the east.",
-        "Incorrect. The Atlantic Ocean is west of Morocco.",
-        "Incorrect. The Black Sea is in southeastern Europe."
+        "Correct. The article says Algeria is \"a country in the Maghreb region of North Africa\".",
+        "Incorrect. The article specifically mentions the Maghreb region, not the Sahel.",
+        "Incorrect. The article specifically mentions the Maghreb region, not the Levant.",
+        "Incorrect. The article specifically mentions the Maghreb region, not the Horn of Africa."
       ]
     },
     {
       "id": 3,
+      "question": "What is the size of Algeria in square kilometres?",
+      "options": [
+        "Over 2,381,741 square kilometres",
+        "Over 1,381,741 square kilometres",
+        "Over 3,381,741 square kilometres",
+        "Over 2,381,741 square miles"
+      ],
+      "answer_explanations": [
+        "Correct. The article states it spans \"over 2,381,741 square kilometres (919,595 sq mi)\".",
+        "Incorrect. The article gives the figure as over 2,381,741 square kilometres.",
+        "Incorrect. The article gives the figure as over 2,381,741 square kilometres.",
+        "Incorrect. The article gives the figure in square kilometres, not square miles."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which country is bordered to the northeast by Algeria?",
+      "options": [
+        "Tunisia",
+        "Libya",
+        "Morocco",
+        "Niger"
+      ],
+      "answer_explanations": [
+        "Correct. The article says Algeria is bordered \"to the northeast by Tunisia\".",
+        "Incorrect. Libya is to the east, not the northeast.",
+        "Incorrect. Morocco is to the west, not the northeast.",
+        "Incorrect. Niger is to the southeast, not the northeast."
+      ]
+    },
+    {
+      "id": 5,
       "question": "What is the capital and largest city of Algeria?",
       "options": [
         "Algiers",
@@ -45,122 +77,90 @@
         "Annaba"
       ],
       "answer_explanations": [
-        "Correct. The article states: 'Its capital and largest city is Algiers'.",
-        "Incorrect. Oran is a major city but not the capital.",
-        "Incorrect. Constantine is a major city but not the capital.",
-        "Incorrect. Annaba is a coastal city but not the capital."
-      ]
-    },
-    {
-      "id": 4,
-      "question": "Which desert dominates most of Algeria's territory?",
-      "options": [
-        "Sahara",
-        "Kalahari",
-        "Gobi",
-        "Arabian"
-      ],
-      "answer_explanations": [
-        "Correct. The article mentions 'the Sahara desert dominating most of the territory'.",
-        "Incorrect. The Kalahari is in southern Africa.",
-        "Incorrect. The Gobi is in Asia.",
-        "Incorrect. The Arabian Desert is in the Arabian Peninsula."
-      ]
-    },
-    {
-      "id": 5,
-      "question": "What are the official languages of Algeria?",
-      "options": [
-        "Arabic and Amazigh",
-        "Arabic and French",
-        "Amazigh and French",
-        "Arabic only"
-      ],
-      "answer_explanations": [
-        "Correct. The article says 'Its official languages are Arabic and Amazigh'.",
-        "Incorrect. French has no official status.",
-        "Incorrect. French has no official status.",
-        "Incorrect. Amazigh is also an official language."
+        "Correct. The article states \"Its capital and largest city is Algiers\".",
+        "Incorrect. The article names Algiers as the capital and largest city.",
+        "Incorrect. The article names Algiers as the capital and largest city.",
+        "Incorrect. The article names Algiers as the capital and largest city."
       ]
     },
     {
       "id": 6,
-      "question": "What is the official religion of Algeria, practiced by 99% of the population?",
+      "question": "What is the population of Algeria?",
       "options": [
-        "Sunni Islam",
-        "Shia Islam",
-        "Christianity",
-        "Judaism"
+        "Over 47 million",
+        "Over 37 million",
+        "Over 57 million",
+        "Over 27 million"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Sunni Islam is the official religion and practiced by 99% of the population'.",
-        "Incorrect. Shia Islam is not the official religion.",
-        "Incorrect. Christianity is a minority religion.",
-        "Incorrect. Judaism is a very small minority."
+        "Correct. The article states \"With a population of over 47 million\".",
+        "Incorrect. The article gives the population as over 47 million.",
+        "Incorrect. The article gives the population as over 47 million.",
+        "Incorrect. The article gives the population as over 47 million."
       ]
     },
     {
       "id": 7,
-      "question": "Algeria gained independence from which country in 1962?",
+      "question": "Which sea borders Algeria to the north?",
       "options": [
-        "France",
-        "Spain",
-        "Italy",
-        "Ottoman Empire"
+        "Mediterranean Sea",
+        "Red Sea",
+        "Black Sea",
+        "Caspian Sea"
       ],
       "answer_explanations": [
-        "Correct. The article says 'Algeria gained independence in 1962' after French colonization.",
-        "Incorrect. Spain did not colonize Algeria.",
-        "Incorrect. Italy did not colonize Algeria.",
-        "Incorrect. The Ottoman Empire ruled earlier but not until 1962."
+        "Correct. The article says Algeria is bordered \"to the north by the Mediterranean Sea\".",
+        "Incorrect. The article mentions the Mediterranean Sea as the northern border.",
+        "Incorrect. The article mentions the Mediterranean Sea as the northern border.",
+        "Incorrect. The article mentions the Mediterranean Sea as the northern border."
       ]
     },
     {
       "id": 8,
-      "question": "Which national oil company is the largest company in Africa?",
+      "question": "Which of these countries is NOT a neighbor of Algeria?",
       "options": [
-        "Sonatrach",
-        "Saudi Aramco",
-        "Gazprom",
-        "ExxonMobil"
+        "Egypt",
+        "Mali",
+        "Mauritania",
+        "Western Sahara"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Sonatrach, the national oil company, is the largest company in Africa'.",
-        "Incorrect. Saudi Aramco is based in Saudi Arabia.",
-        "Incorrect. Gazprom is based in Russia.",
-        "Incorrect. ExxonMobil is based in the United States."
+        "Correct. Egypt is not mentioned as a neighbor. The article lists Mali, Mauritania, and Western Sahara as neighbors.",
+        "Incorrect. Mali is listed as a neighbor to the southwest.",
+        "Incorrect. Mauritania is listed as a neighbor to the southwest.",
+        "Incorrect. Western Sahara is listed as a neighbor to the southwest."
       ]
     },
     {
       "id": 9,
-      "question": "Algeria is a founding member of which regional union?",
+      "question": "What is Algeria's rank in terms of size in Africa?",
       "options": [
-        "Arab Maghreb Union",
-        "European Union",
-        "African Union",
-        "Arab League"
+        "Largest country in Africa",
+        "Second largest country in Africa",
+        "Third largest country in Africa",
+        "Tenth largest country in Africa"
       ],
       "answer_explanations": [
-        "Correct. The article says Algeria is a founding member of the Arab Maghreb Union.",
-        "Incorrect. Algeria is not in the European Union.",
-        "Incorrect. Algeria is a member but not a founding member of the African Union.",
-        "Incorrect. Algeria is a member but not a founding member of the Arab League."
+        "Correct. The article states it is \"the largest country in Africa\".",
+        "Incorrect. The article clearly states it is the largest country in Africa.",
+        "Incorrect. The article clearly states it is the largest country in Africa.",
+        "Incorrect. The article mentions it is the tenth largest in the world, not in Africa."
       ]
     },
     {
       "id": 10,
-      "question": "What type of republic is Algeria?",
+      "question": "What is Algeria's rank in terms of population in Africa?",
       "options": [
-        "Semi-presidential republic",
-        "Presidential republic",
-        "Parliamentary republic",
-        "Federal republic"
+        "Tenth-most populous country",
+        "Fifth-most populous country",
+        "Twentieth-most populous country",
+        "Second-most populous country"
       ],
       "answer_explanations": [
-        "Correct. The article states 'Algeria is a semi-presidential republic'.",
-        "Incorrect. It is not a pure presidential republic.",
-        "Incorrect. It is not a parliamentary republic.",
-        "Incorrect. It is not a federal republic."
+        "Correct. The article states Algeria is \"the tenth-most populous country in Africa\".",
+        "Incorrect. The article specifies the tenth-most populous country.",
+        "Incorrect. The article specifies the tenth-most populous country.",
+        "Incorrect. The article specifies the tenth-most populous country."
       ]
     }
   ]
